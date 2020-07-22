@@ -1,0 +1,113 @@
+======================================== SAMPLE 1 ========================================
+You can't beat a good-looking lady.
+-- "The Marge Simpson Show"
+
+% Bart and Lisa walk to the entrance of the Springfield Elementary School
+% cafeteria.
+
+        Lisa: I don't know what to say.  I'll just say "thank you."
+ Bart: I'm happy to have you on the team. You're my hero, Bart.
+ Lisa: You're a big fan of Team USA.  You don't need a whole lot of
+        cheering.
+          [Bart's cheerleading coach, Lisa's cheerleader, cheers]
+          [Bart goes to the bathroom with Lisa]
+           [a man approaches Bart, and grabs him by his arm]
+-- "The Marge Simpson Show"
+
+% Lisa takes Bart to her home.  "The Marge Simpson Show"
+% continues to play music.  Bart sings "Lovejoy" and sings
+% "You're so nice, you'll always be so sweet".  Lisa, "You're so nice,
+% you'll always be so sweet", sings "You'll always be so sweet".  The
+% audience laughs.   Lisa and Bart laugh.  The Marge Simpsons
+% laugh.  Lisa sings "Lovejoy" while Bart sings "You're so
+% nice, you'll always be so sweet".  The crowd cheers.  The music continues.
+
+%
+% Marge sings "Lovejoy" in the background.  Lisa sings "You're so nice,
+% you'll always be so sweet".  The crowd cheers.  The music continues.
+%
+% Marge plays "Lovejoy" while Bart sings "You're so nice, you'll
+% always be so sweet".  Lisa sings "You're so nice, you'll always be so sweet".
+% The crowd laughs.  The music continues.
+
+% Marge sings "You're so nice, you'll always be so sweet".
+% The crowd laughs.  The music continues.
+
+% Marge sings "You're so nice, you'll always be so sweet".  Lisa sings "You're so
+% nice, you'll always be so sweet".  The crowd laughs.
+
+% Marge sings "You're so nice, you'll always be so sweet".  Lisa sings "You're so
+% nice, you'll always be so sweet".  the crowd laughs.
+% Homer sings "Lovejoy" while everyone sings "You're so
+% nice, you'll always be so sweet".
+% Marge sings "You're so nice, you'll always be so sweet".
+% the crowd laughs.  the music continues.
+% Marge sings.  Marge sings "You're so nice, you'll always be so
+% sweet".  The crowd laughs.  Marge sings. Marge sings. Marge sings.
+
+% Homer sings "Lovejoy" while everyone sings "You're so nice, you'll
+% always be so sweet".
+% Marge sings "You're so nice, you'll always be so sweet".  Lisa sings "You're so
+% nice, you'll always be so sweet". the crowd laughs.  the music continues.
+% Marge sings. Marge sings. Marge sings "You're so nice, you'll always be so
+% sweet".  the crowd laughs.
+% The crowd laughs. Lisa sings "You're so nice, you'll always be so sweet".
+% Marge sings. Lisa sings "You're so nice, you'll always be so sweet".
+% Maggie sings "Lovejoy" while everyone sings "You're so
+% nice". Marge sings "Lovejoy".
+
+% The crowd cheers.
+%
+% Bart sings "Lovejoy", Marge sings "Lovejoy", Marge sings
+% "Lovejoy" the crowd applauds.  Marge sings "You're so nice, you'll always be so sweet".
+% Lisa sings "Lovejoy" and the crowd cheers.
+% Marge sings "Lovejoy". Marge sings "Lovejoy".
+% Lisa sings "Lovejoy". Lisa sings "Lovejoy".
+% Lisa sings "Lovejoy". Marge sings "Lovejoy".
+% Lisa sings "Lovejoy". Lisa sings "Lovejoy". Lisa sings "Lovejoy".
+% Lisa sings "Lovejoy". Lisa sings "Lovejoy". Lisa sings "Lovejoy".
+% Lisa sings "Lovejoy". Lisa sings "Lovejoy". Lisa sings "Lovejoy".
+% Lisa sings "Lovejoy". Lisa sings "Lovejoy". Lisa sings "Lovejoy".
+% Lisa sings "Lovejoy". Lisa sings "Lovejoy". Lisa sings "Love
+======================================== SAMPLE 2 ========================================
+
+A little bit of history
+
+I've been working in a factory since
+The day I got married to a boy.
+-- "The Young Men Are Smarter Than They Look"
+
+% A young man is born.  He's in his early twenties,
+% but he's still the same as his father.  The baby
+% appears to be still a boy, with no arms, and no legs.
+
+%
+% Marge's husband (and a little girl) appears to be in his twenties.
+
+Marge: Now I'm the wife of a well-known
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+======================================== SAMPLE 3 ========================================
+Bart Simpson: [gasps]
+Lisa: [panting]  I don't think I can handle this.
+ Bart: Oh... I can't handle this.
+            [holds up phone. It says, "Makeshift."]
+            [phone rings, and it reads "Makeshift."]   M-M-M.
+             [phone rings again, and it says, "Makeshift."]
+            [phone rings again, and it reads, "Makeshift."]  M-M-M.
+             [phone rings again, and it reads, "Makeshift."]
+             [phone rings again, and it reads, "Makeshift."]
+              [phone rings again, and it reads, "Makeshift."]
+              [phone rings again, and it reads, "Makeshift."]
+
+Marge: Bart, are you okay?
+  Bart: No!  Well, I've got the flu.  It's just some kind of
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+======================================== SAMPLE 4 ========================================
+"I don't know how you're going to take this job if you're not smart," she says, and then she continues, "I'm just going to take a job that puts you in charge of the entire house."
+                   The entire house and everyone.
+                       [Homer and Lisa look at one another]
+                                                             Lisa:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+======================================== SAMPLE 5 ========================================
+Bart:      [chuckles] Bart:      [laughs]  Now, I'm not a scientist, but I'm an artist.   I put up with a lot of crap, and I'm not going to let you go.
+Lisa:          [laughs]                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
