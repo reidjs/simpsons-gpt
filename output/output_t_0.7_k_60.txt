@@ -137,3 +137,69 @@ The average worker's pay rose by 7.9% over the same time period.
 The average worker's pay rose by 7.2% over the same time period.
 
 The average worker's pay rose by 7.2% over the
+======================================== SAMPLE 6 ========================================
+Homer: Yeah, it's great, but I'm not going to let him get away with it.
+Lisa: [to Homer] We're in the middle of a war, so we should just go over to the
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+======================================== SAMPLE 7 ========================================
+A woman dressed in a pink jumpsuit walks down a street in New York. She's wearing a pink jumpsuit, and she's wearing a pink jumpsuit.
+       [camera panes to a woman, who looks like her mother]
+                    Marge: Wait, Marge. I've got my hands full of garbage.
+                  Marge: Marge, I'm not going to get this garbage in my garbage.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+======================================== SAMPLE 8 ========================================
+I'll be honest with you: I don't like the answer to your question.
+-- You're just in need of an answer, "Django Unchained"
+
+% Now, I'll be honest: I don't like the answer to your question.
+% It's not what I said.  It's that there are no answers.
+%
+% And now, I'll be honest: I don't like the answer to your question.
+% It's not what I said.  It's that there are no answers.
+
+%
+% The Simpsons arrive at the Simpsons' mansion.  They find a room with a giant
+% ceiling.  "Oh, what a lovely room," Lisa says.  "This is perfect."
+% Lisa and Bart are shocked to see some of the new features!
+
+Lisa:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+======================================== SAMPLE 9 ========================================
+
+From: 
+
+Lisa
+
+We've got something to say.
+
+-- Lisa, "Lisa the Magician"
+
+% Lisa and the others arrive at the door of a large building.
+
+Lisa:                 [the door opens]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+======================================== SAMPLE 10 ========================================
+
+Marge:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+======================================== SAMPLE 11 ========================================
+Oh, the power of nature, the beauty of the ocean, the beauty of the sea.
+-- Homer, "Homer's Island"
+
+% The children leave the house with their parents.
+% Homer is concerned about the power of the ocean, but says he can't let his father's power over
+% nature take his mind away.  Homer asks the children for advice on what to do
+% in the future.
+%
+% Homer and his parents leave the house with their parents.
+
+Homer: [reading a book] All right, I want to learn about oceanic
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+======================================== SAMPLE 12 ========================================
+There are a few things that you can do to help boost your business.
+-- Jimbo, The Simpsons, "Marge Simpson and the Magic of Good-
+         Relationships"
+
+% Lisa's friend, Jimbo, starts a new company.
+%
+% Lisa and Jimbo plan to take a trip to the lake.
+
+  Jimbo:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
