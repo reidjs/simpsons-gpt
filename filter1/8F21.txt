@@ -1,0 +1,373 @@
+%%%% Note:  All occurrences of the phrase ``Spinal Tap'' should have two dots
+%%%% over the `n'.  In TeX-speak, ``Spi\"nal Tap''.
+%
+% Bart (wearing a Spinal Tap T-shirt) tells Homer to hurry up.  Marge sweetly
+% notes that this is Bart's first heavy-metal concert.  Homer comes down
+% the stairs, amazed that his old jacket still fits him.  He finds a can
+% of Billy Beer in the pocket, and drinks it.  Marge muses, ``I hope the
+% Spinal Taps [sic] don't play too loud.''  Homer responds, ``Oh, Marge.
+% I went to thousands of heavy-metal concerts, and it never hurt me.''
+% Marge's response is drowned out by the ringing in Homer's ears.  The
+% two leave.
+%
+% In the car, Homer and Bart catch a news item about Mayor Quimby honoring
+% ``the aging supergroup'' in a ceremony at City Hall.  The announcers then
+% make an incredibly stupid pun.  The car skids to a halt, and Milhouse
+% hops in, wearing a leather jacket of his own, and no shirt.
+
+Bart:     Hey, Milhouse, cool jacket!
+Milhouse: It cost me 50,000 Bazooka Joe comics!
+-- ``Otto Show''
+
+% At the Springfield Coliseum, Homer drops the kids off.
+
+Homer: Now just meet me back here after the show.
+Bart:  Thanks, Dad.  Sure you're not going to be bored?
+Homer: [chuckles] Boy, some of the best times I've ever had were in the
+       back seat of a car!  Heh, heh, heh, heh...
+       [flashback.  Inspiration Point.  Homer in the back seat, his car
+        springing up and down]
+Young Homer:  [lustfully]  Ohhhhhhh....  Oh, baby...
+       [Young Homer eats pizza, hot dogs, chips...]
+-- ``Otto Show''
+
+% Bart and Milhouse walk past people hawking T-shirts.
+
+Check it out, Spinal Tap kicking Mohammar Qadaffi in the butt.
+A timeless classic.  Now two for a dollar.
+-- Hawking t-shirts, ``Otto Show''
+
+% Backstage, Bill and Marty of KBBL interview the group.
+
+Fellas, I'm going to hit you with a phrase that has dogged you throughout
+your career.   ``Washed-up.''
+-- Interviewing Spinal Tap, ``Otto Show''
+
+Here you are, among the top one hundred and five concert acts today.
+What's your secret, guys?
+-- Interviewing Spinal Tap, ``Otto Show''
+
+We're very big in Bulgaria.  And what-his-name, the other -garia...
+-- Spinal Tap speaks, ``Otto Show''
+
+% In the crowd before the show, a frisbee is tossed about.  Bart accidentally
+% hits the fellow next to him with it.  Bart apologizes, but the fellow is
+% too stoned to notice.
+%
+% Bill and Marty ask Spinal Tap to record some promos for the station, but
+% they are reluctant to say ``Nobody rocks like Bill and Marty on KBBL''
+% because it might not be true.  ``We don't want to look stupid.''  So they
+% agree to say, ``Rock-a-doodle-doo, you're listening to Bill and Marty!''
+%
+% The crowd chants, ``Tap!'', while the group complains that there's water
+% all over the stage.  The stage manager explains that they're playing in
+% what is usually a hockey rink.  ``This is a rock concert, not a bleedin'...
+% splish-splash show!''
+
+Ladies and gentlemen, boys and girls...  Duff Beer, in association with
+Laramie Cigarettes, is proud to welcome... Spinal Tap!
+-- Rock concert, ``Otto Show''
+
+% The show goes on, although the spotlights don't always stay on their
+% intended targets, and the feedback on the audio system is rather
+% annoying.  But things pick up.
+%
+% Meanwhile, Homer sits in the car, munching on chips and singing along
+% with the radio.
+%
+% Spinal Tap chat with the crowd, inserting a few gratuitous local references
+% to the delight of the crowd.  The next song begins, and giant devil hovers
+% overhead.  Then slowly deflates...  Despite the minor setback, ``We salute
+% you, a half-inflated Dark Lord!''  The crowd half-heartedly joins in.
+%
+% Another chat with the crowd goes awry then the stage hands don't cooperate
+% with the lighting.  So they go straight on to the laser show, but cut it
+% short when one of the band members gets hit in the eye with a laser beam.
+% That's the last straw.  The show ends, after only twenty minutes.
+% Otto and Snake are in attendance, and Snake suggests they trash the stage.
+% A riot ensues.
+%
+% Back in the car, Homer continues to sing along, as police helicopters
+% converge on the scene, and officers in riot gear cautiously enter the
+% arena.  The riot gets local news coverage.
+
+Tonight, the city weeps, as for the first time ever, a hockey arena
+becomes then scene of violence.
+-- Kent Brockman reports on a concert riot, ``Otto Show''
+
+% Marge hopes her ``poor baby'' is okay, then sees Bart swinging over the
+% seats clutching a streamer, which breaks.
+
+Of course, it would be wrong to suggest this sort of mayhem began with
+rock-and-roll.  After all, there were riots at the premiere of Mozart's
+``The Magic Flute''.  So, what's the answer?  Ban all music?  In this
+reporters opinion, the answer, sadly, is `yes'.
+-- Kent Brockman's two cents, ``Otto Show''
+
+% Bart (his shirt sleeve torn off) arrives with Homer, and Bart announces
+% that he wants to be a rock star.  Marge defers the discussion to later.
+% She asks if Milhouse is okay, and Homer responds, ``Uh, I'll be right
+% back.''  He quickly leaves and drives off.  Back at the arena, Milhouse
+% (sans jacket and glasses) lies under a pile of folding chairs.  ``Heeeelp?''
+%
+% [End of Act One.  Time: 7:22]
+%
+% Marge tucks in Maggie for bed, and she suggests to Homer that they buy
+% Bart a guitar since he wants to be a musician.  Homer answers that they
+% already have a guitar.  He produces Maggie's toy guitar.  ``I meant
+% a <real> guitar.''  ``This is real!''  Homer bangs it on his head to
+% prove that the guitar is not a figment of their imagination.
+%
+% Marge and Homer present Bart with his own guitar.
+
+Homer: Now, boy, we spent a lot of money, so you'd better get real good
+       real fast, or <POW>!
+Marge: Homer!
+Homer: Hey, I thought I was supposed to encourage him.
+-- Feedback of all types, ``Otto Show''
+
+% Bart slips into a daydream.  He's a heavy-metal rocker.
+
+I'd loik to play me latest chart-toppah.  It's called,
+``Me Fans Are Stupid Pigs''.
+-- Bart the heavy-metal rock star, ``Otto Show''
+
+% Backstage, Bart is zonked out.  Milhouse says, ``You've changed,
+% man!''  Bart throws a glass bottle at him.  Bart lies on the
+% floor, complete out of it.  Bart returns to reality.  ``Cool!''
+%
+% Bart feebly strums his guitar, while Lisa gleefully plays her sax.  Bart
+% tells Lisa to knock it off, but she (teasing) says she was merely jamming
+% with him.
+%
+% Waiting for the bus, Bart picks at his guitar, and Nelson makes fun of him.
+% The bus arrives, and Otto takes the guitar and plays an awesome lick.  The
+% kids cheer.
+
+Bart: I didn't know you played the guitar, Otto-Man!
+Otto: Hey, that's all I <did> in high school!
+-- ``Otto Show''
+
+My old man said I was wasting my time, and I'd never amount to anything.
+He-hah-hah-hah!  He-hah-hah-hah-heh-heh!   [realizes]  Oh...
+-- Otto, ``Otto Show''
+
+% Otto plays another song for his captive audience.  Meanwhile, cars pile
+% up behind the bus, since Otto left the red lights blinking.  Martin
+% reminds Otto that they were supposed to be at school ten minutes ago,
+% and earns the wedgie he feared.
+
+Otto: Uh-oh.  Better fasten your seat belts, little dudes!
+Lisa: We don't have seat belts.
+Otto: Well, then, uh... Just try to go limp.
+-- ``Otto Show''
+
+% The bus speeds off, as the kids scream for their lives.  Otto takes
+% a short cut, through the Springfield Tire Yard, running the Spinal Tap
+% tour bus off the road (which overturns and catches fire), driving
+% through a police picnic.  (None of the policemen catch the license
+% plate.  ``I didn't think to look,'' explains Eddie.)  The bus skids
+% on its side and comes to halt on (yes, on) the town square, knocking
+% over the statue of Jebediah Springfield.  Otto's bumper flies off,
+% carrying with it a bumper sticker, ``How's my driving?  Call...''
+% Large numbers of townspeople rush for the pay phones.  The kids
+% gleefully exit through the emergency door.  (``Whee!'')
+%
+% Principal Skinner scolds Otto.
+
+I stand on my record.  Fifteen crashes and not a single fatality.
+-- Otto, ``Otto Show''
+
+% Eddie asks to see Otto's license, but he never got one.  ``But if you
+% need proof of my identity, I wrote my name on my underwear.''  Otto
+% checks his underwear.  ``Wait, these aren't mine!''
+
+Well, that tears it.  Until you get a [drivers] license and wear your own
+underwear, mister, you are suspended without pay!
+-- Principal Skinner to Otto, ``Otto Show''
+
+% The kids find Principal Skinner behind the wheel.  The kids sing a song
+% (not entirely complimentary to the bus driver) and Skinner joins in.
+% Skinner waits at a side street for the traffic to clear so he can enter
+% the main road, but the traffic is too heavy.  ``I think you have to be
+% more aggresive, sir,'' suggests Lisa, but Skinner is sure someone will
+% stop to let him in.  No one does.
+%
+% At the Springfield Department of Motor Vehicles...
+
+Patty: [laughs spontaneously]
+Selma: What's so funny?
+Patty: I was just thinking about the time Homer got his nose caught in the
+       toaster.
+Selma: We'll watch the tape tonight.
+-- ``Otto Show''
+
+% Otto approaches the window.  Patty explains that she will be testing him.
+% She grades good deeds with a green pen, errors with a red pen.  ``Any
+% questions?''  ``Yeah, one.  Have you always been a chick?''  Patty discards
+% her green pen.
+%
+% In the parking lot, Otto knocks down cone after cone.  The last one teeters
+% for a while before it falls.  Otto cheers, ``Awright!  Yeah!''
+
+You failed every segment, and misspelled `bus' on your application.
+-- Patty administers Otto's driving test, ``Otto Show''
+
+% Skinner has yet to enter the main thoroughfare and has become furious.
+% Ralph tries to resume the singing but Skinner snaps at him.
+%
+% Otto returns to his apartment, to find something curiously different...
+
+Hey, landlord!  Some clown changed my locks, padlocked the door, and
+put on an eviction notice!
+-- Otto, ``Otto Show''
+
+% Otto hasn't paid his rent.
+
+Otto:     Can I at least get my stuff?
+Landlord: All I found in there was a jar of mustard and a couple of old
+          `Psycho' magazines.
+Otto:     Wow!  I have mustard?
+-- Otto gets evicted, ``Otto Show''
+
+% Bart buys a Squishee at the Kwik-E-Mart and agrees to try Apu's
+% newly-invented chutney-flavored drink.  Bart takes a sip and
+% spits it out, discarding the drink in a nearby dumpster.  We hear
+% Otto yell, ``Ow!''
+
+Bart: Otto-Man?  You're living in a dumpster?
+Otto: Ho, man, I wish.  Dumpster-brand trash bins are top-of-the-line.
+      This is just a Trash-Co waste disposal unit.
+-- His summer home is the aluminum recycle bin down the street, ``Otto Show''
+
+% Bart suggests Otto stay in the Simpsons garage.  ``A garage?  Ho-ho!
+% Somebody up there likes me!''  The dumpster lid crashes down on Otto's head.
+% Otto's moan echoes...
+%
+% [End Act Two.  Time: 14:14]
+%
+% At three in the morning, the house rocks awake to the sound of Otto jamming
+% on his guitar.  Homer and Marge go down to the garage to find Bart with
+% his bus-driving friend.
+
+Marge: What's going on?
+Bart:  Mom, I thought you might forget our little conversation this
+       afternoon, so I took the precaution of recording it.
+Marge: What conversation?
+Bart:  [turns on a tape recorder]
+Tape:  [Bart]  ``Mom, can Otto live in our garage for as long as he wants?''
+       [bad imitation of Marge]  ``He sure can!''
+Homer: Marge, what were you thinking!
+Marge: That's not my voice!
+Homer: Oh, everybody says that when they hear themselves on tape.
+-- ``Otto Show''
+
+% Homer, Marge, Otto and Bart sit around the kitchen table.  Otto doesn't
+% get along with his parents, so he can't stay with them.
+
+Otto:  Please let me stay here.  I've got nowhere else to go!
+Homer: Forget it!  That lie didn't work for my dad, and it's not
+       going to work for you!
+-- ``Otto Show''
+
+% Bart begs.
+
+Marge: Doesn't the Bible say, ``Whatsoever you do to the least of my brothers,
+       that you do unto me''?
+Homer: Yes, but doesn't the Bible also say ``Thou shalt not take... moochers
+       into thy... hut''?
+-- ``Otto Show''
+
+Bart:  Please, Dad?  If you let Otto stay, he'll help around the house and
+       chip in a few bucks whenever he can.
+Homer: All right, he can stay.  But I get to treat him like garbage.
+Otto:  Wow!  What's the catch?
+-- The catch is, you have to stay with the Simpsons, ``Otto Show''
+
+% Otto lounges on the couch watching ``The Price is Right''.  Marge tells
+% Otto he can't just sit around watching TV, so Otto decides to read a book.
+% But the Simpsons don't have anything that suits is fancy.  Marge suggests
+% Otto get a job, but Otto explains that the only thing he was good at was
+% driving a bus, but ``the man'' demands he get ``a piece of paper''.
+% Marge responds, ``So, get that piece of paper!''  Otto complains that he
+% tried, but failed.
+%
+% Otto plays the guitar in the garage...
+
+Homer: Will you knock it off, I can't hear myself think!
+       [the music stops]
+       [thinks]  I want some peanuts.
+       [aloud]  That's better!
+-- ``Otto Show''
+
+Homer: Hey, how come you never play your guitar any more?
+Bart:  I'll tell ya the truth, Dad.  I wasn't goot at it right away, so
+       I quit.  I hope you're not mad.
+Homer: [sweetly]  Son, come here!  Heh heh heh...
+       [Bart sits on Homer's knee]
+       Of course I'm not mad.  If something's hard to do, then it's not
+       worth doing!  You just stick that guitar in the closet next to your
+       short-wave radio, your karate outfit and your unicycle, and we'll
+       go inside and watch TV.
+-- ``Otto Show''
+
+% Homer stands in his underwear, banging on the bathroom door.  ``I gotta
+% go!''  Otto emerges and Homer finds the sink overflowing, the drain
+% clogged by a mat of hair.
+%
+% Homer tells Marge Otto must go.  Marge notes that he <is> good with
+% the kids...  Upstairs, Otto tells Lisa a scary story, and she screams
+% her head off.  This is the last straw for Homer.  ``Listen, you
+% drain-clogging, last-cookie-eating, collect-call-getting sponge!
+% I want you out of my house!''
+
+Bart: What are you going to do, Otto?
+Otto: Oh, don't worry.  There's plenty of money out there for a guy who
+      knows how to fake his own death.
+-- ``Otto Show''
+
+% Marge suggests Otto try the driving test again.
+
+I can't pass that thing.  I got a zero last time.  This time, I'm hung over!
+-- Otto dreads his driving test, ``Otto Show''
+
+Bart: You can do it, Otto!  You're the coolest adult I ever met!
+Otto: Wow!  I've never been called an adult before. ...
+      I've been tried as one, but...
+-- ``Otto Show''
+
+% Otto reads the DMV booklet.
+
+``Alcohol imcreases your ability to drive.''  [looks up the answer]
+``False''!?  Oh, man!
+-- Otto studies for his driving test, ``Otto Show''
+
+% Outside the DMV building, Otto admits that Homer was right. ``I <am> a
+% bum.''  Bart corrects him.  Homer called him a sponge.  This pushes
+% Otto over the edge, and he storms inside.  Otto tells Patty he wants to
+% be re-tested.  When asked why, he explains, ``So I can staple my license
+% to Homer Simpson's big, bald head!''  Patty changes her demeanor.  ``Here's
+% your written test.  I'll get you started.  E, D, C, A, B...''
+%
+% In the parking lot, Otto runs over every single cone, but Patty doesn't
+% care.  While Otto bad-mouths Homer, he runs over cardboard cut-outs of
+% pedestrians, but Patty takes no notice.  She suggests, ``Let's get some
+% margaritas, I'm buying.''
+%
+% The school bus skids to a halt in front of Springfield Elementary (knocking
+% down the `Bus Stop' sign).  Yes, Otto's back behind the wheel.  He
+% shows off his drivers license (stamped, ``Probationary'').  The kids pile
+% in, and the bus skids off (running a stop sign).  Skinner watches and
+% adds, ``Yes.  Hail to the bus driver.  Bus Driver Man.''
+%
+% [End of Act Three.  Time: 20:14]
+%
+% The closing theme is unaltered.
+%
+% The Gracie theme is played on an electric guitar.
+%
+% The Twentieth Century Fox logo is unchanged.
+%
+% [End of credits]
+
+<|endoftext|>

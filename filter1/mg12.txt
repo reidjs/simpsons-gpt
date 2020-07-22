@@ -1,0 +1,105 @@
+% B = Bart, L = Lisa, A = Maggie
+%
+% Bart stands alone in a room in front of a table, on which stands an
+% impressive house of cards.  Bart speaks quietly, so as not to disturb
+% the cards.
+
+B: One of <the> most difficult of all human endeavors:
+   the house of cards.
+
+% He carefully places a card atop the house, completing a roof.  (The
+% obligatory tongue sticking out of the corner of the mouth.)
+
+B: Whew!
+
+% The door springs open.  It's Lisa and Maggie.
+
+L: Whatcha doin'?
+
+% The house of cards falls down as Bart reacts accordingly.
+
+L: Really neat, Bart.  A pile o' cards.
+
+% [End of Act One.  Time: 0:18]
+%
+% A view from the door.  Lisa and Maggie are on the other side of the
+% table watching Bart struggle to place the two of diamonds.  On the
+% wall is a picture of Homer and Marge.  There are two mouse holes
+% in the wainscotting.  Lisa's advice is spoken in a teasing, practically
+% taunting tone.
+
+L: Take it easy...
+   Whatever you do, don't get the jitters...
+
+% Bart's hand starts shaking.  He glares angrily at Maggie.  Close-up of
+% Maggie's mouth, sucking rhythmically.
+
+L: One false move, and you're a goner...
+
+% The shaking spreads to Bart's head.
+
+L: You're too tense.
+   Reeeeeeeeeeeeeee..... LAX!
+
+% Lisa's sudden yelling jolts Bart into dropping the card, and the entire
+% house of cards collapses.  Bart puts his head down and pounds the table
+% in frustration.
+
+L: You've got to learn to listen to our advice.
+
+% Maggie removes her pacifier and speaks.
+
+A: Dooey shooey gavem mush.
+
+% (Anybody good at decoding baby talk?)
+%
+% [End of Act Two.  Time: 0:42]
+%
+% Lisa and Maggie stand outside a closed door.  The door opens.
+% It's Bart, who speaks in a whisper.
+
+B: Okay, it's ready.
+   You can come in now, but don't make any noise.
+   Not a sound.
+
+% The girls follow him in.  Bart tip-toes.  On the table is an impressive
+% house of cards.
+
+B: It's very precarious.
+
+% Pause.
+%
+% Maggie sucks once.
+%
+% The house of cards collapses.  Bart faints.
+%
+% [End of Act Three.  Time: 0:58]
+%
+% Lisa and Maggie standing in the doorway.  A colossal house of cards
+% on the table.  Bart climbs a stack of boxes and stepstools so high
+% that his head goes off screen.
+
+B: This is one small step for a kid, one giant leap for kidkind.
+
+% During Bart's speech, the camera angle shifts to a ceiling-mounted
+% view.  Bart is very high up.  He places the last card (the ace of
+% spades), but in the process loses his balance (*hulp*) and falls.
+% He lies on the floor unconscious.  The house of cards remains standing.
+% Lisa is amazed.  The two girls crouch over Bart's head.  Lisa speaks
+% in that adorable Lisa-voice we all know and love.
+
+L: Bart!  Wake up!  Wake up!  You did it!
+
+% Bart regains consciousness.
+
+B: [still somewhat confused]  What?
+
+% The house of cards starts shaking, and soon collapses.
+
+L: [annoyed]  Oh, forget it.
+
+% Bart puts his head back down and closes his eyes.
+%
+% [End of Act Four.  Time: 1:18]
+
+<|endoftext|>

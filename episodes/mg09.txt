@@ -1,0 +1,128 @@
+Making Faces                                           Written by Matt Groening
+===============================================================================
+[$Id: mg09 1.1 92/03/01 13:40:03 raymond Exp Locker: raymond $]
+===============================================================================
+> Didja notice...
+===============================================================================
+    Voice credits:
+        JULIE KAVNER as Mrs. Simpson
+        YEARDLEY SMITH as Lisa & Maggie
+        NANCY CARTWRIGHT as Bart
+
+    Animators were Wes Archer, Bill Kopp, and David Silverman.
+
+    BONITA PIETILA's name has returned to normal.
+
+    ... the obligatory mouse holes?  One in the corner of the room the
+        kids were making faces in.  Another in the hallway.
+
+===============================================================================
+> Assorted comments and observations
+===============================================================================
+Brian Howard {bh} gives the timing for this short as 1:35, whereas the
+syndication package contains only 1:13 of animation.
+
+===============================================================================
+> Quotes and scene summary
+===============================================================================
+% B = Bart, L = Lisa, M = Marge, A = Maggie
+%
+% The usual set-up.  Bart, Lisa, and Maggie are in a room.  Maggie sits in the
+% corner, sucking away on her pacifier.  Bart at stage left, Lisa at stage
+% right.  Door in stage left wall.  On the wall is a picture of Homer
+% holding a pitchfork.  (?)
+
+B: Watch this ugly face.
+
+% Bart makes an ugly face.
+
+L: That's nothing.  Check this out.
+
+% Lisa makes an ugly face.
+%
+% Maggie removes her pacifier and speaks, sort of.
+
+A: Hah hee heh.  Heh hee how.
+
+% Maggie makes her own ugly face.
+
+B: That's nothing, man.  Check this...
+
+% Marge steps in.
+
+M: Are you kids making ugly faces?
+B: Maybe.
+M: Well, you know.  If you keep making those faces, you'll freeze that way.
+   You'll be stuck with a horrible face forever.
+
+% Marge leaves.
+
+L: Do you think Mom was telling the truth?
+B: Mom wouldn't lie.
+
+% The kids consider this for a few seconds.
+
+B+L+A: All right!
+
+% [End of Act One.  Time: 0:30]
+%
+% [Act Two cut in syndication.  They continue making faces, and Marge
+% returns to tell them to knock it off.  When she leaves, Bart and Lisa
+% try to imitate her scowl; their attempts pale next to Maggie's
+% recreation (``Look at this!'').]
+%
+% Same as before.
+
+B: Watch this scary face.
+
+% Bart makes a scary face.
+
+L: Oh yeah?  That's not scary.
+
+% Lisa makes a scary face.
+
+B: Oh yeah?  That's not scary.
+
+% Bart makes another scary face.
+
+L: Oh yeah?  That's not...
+
+% The door creaks open.  It's Marge, with a very scary angry face.
+
+B+L: Waaauugh!  Scary!!
+
+% [End of Act Three.  Time: 0:46]
+
+L: I call this face, ``The Howler Monkey''.
+
+% Lisa does a pretty good semblance.
+
+B: I call this face, ``Dad''.
+
+% Bart does a very good job.
+%
+% Marge bursts in.
+
+M: All right.  I told you, if you kept making those horrible faces,
+   they'd freeze that way.  And now they have.
+L: They have!?
+B: Our faces are frozen?
+M: Yes, they are.  Go look in the mirror and see for yourselves.
+
+% The kids rush out into the hallway, where there is a tiny table over which
+% is mounted a large oval mirror.  Lisa leads the way, followed by Bart,
+% then Maggie.  Lisa trips and falls flat on her face.  Bart does the same,
+% landing on Lisa.  Maggie trips and lands on her two elder siblings.
+%
+% The kids get up and look into the mirror.  Their reflections are
+% perfectly normal.
+
+B+L+A: Waaauuuugh!  We're doomed!
+
+% [End of Act Four.  Time: 1:13]
+===============================================================================
+Shorts summaries Copyright 1992 by Raymond Chen.  Not to be redistributed
+in a public forum without permission.  (The quotes themselves, of course,
+remain the property of The Tracey Ullman Show, and the reproduced articles
+remain the property of the original authors.  I'm just taking credit for the
+compilation.)

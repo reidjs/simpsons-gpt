@@ -1,0 +1,577 @@
+% Homer relaxes on the backyard hammock, reading the latest issue of
+% "Pie Times."  A commotion out front gets his attention, and he joins
+% the rest of the Simpsons on the front curb.  The noise is coming
+% from a parade -- the Springfield Gay Pride parade.
+
+Marchers:	We're here!  We're queer!  Get used to it!
+Lisa:		You do this every year!  We are used to it.
+Marcher:	Spoilsport!
+-- "Jaws Wired Shut"
+
+% This year's parade offers a few things the family may not have seen. 
+% There's a float promoting safe-sex, where two men in full-body
+% radiation suits safely express their love by shaking hands.  Another
+% float, celebrating gays who are still closeted, features two people
+% chanting from behind closet doors that are slightly ajar.
+
+Patty[*] +
+ Smithers:	We're gay!
+Smithers:	            We're glad!
+Patty:	                         But don't tell Mom and Dad!
+Marge:		Wouldn't it be great if that man and woman got 
+		together?
+-- But somewhat self-defeating, "Jaws Wired Shut"
+
+[*] By popular speculation; we never do see who's behind the doors.
+
+% Next up is the Lesbians of the Caribbean float, which has a sound
+% system playing, "Yo, ho, ho!  It's an alternative lifestyle for me!"
+% to the tune of Disney's "Pirates of the Caribbean."  The float is
+% shaped like a standard pirate desert island, where butch-looking
+% lesbians chase their feminine-looking counterparts.
+%
+% The next float is a salute to brunch.  Lisa encourages Maggie to
+% wave at it.
+%
+% The brunch float is followed by a salute to tight abdomens.  Some
+% body-builders show off their "six packs," while Homer moans that
+% he's got a keg.  He lifts his shirt to show his beer gut, and a
+% horrified gay man puts a screen in front of him.
+%
+% After the floats, a group of gay dogs marches past the family.  SLH
+% is oddly intrigued by them, which freaks Homer out.  He decides the
+% family has seen enough, and they leave, dragging SLH behind them.
+%
+% The family ends up at the Springfield Googolplex, where Homer buys
+% four tickets for "Shenani-Goats," even though it's rated PG-13 for
+% brief rudeness and appearances by Gary Shandling.
+%
+% The Simpsons settle into their seats in the theater.  To pass the
+% time before the film begins, some movie-related puzzles are flashed
+% on the screen.
+
+	[we see a silhouette and the words "MOT HANKS"]
+Lisa:	These are so easy.  It's obviously Tom Hanks.
+	[the answer appears on the screen:  "OTM SHANK"]
+	[confused] Who?
+Apu:	Otm Shank.  He is India's answer to Brian Dennehy.  
+[slowly] Otm ... Shank.
+-- "Jaws Wired Shut"
+
+% And now, a public service announcement from Itchy and Scratchy.  The
+% cat and mouse team is in a theater packed full of other cartoon
+% animals.  A duck's cell phone rings, and he annoys the other patrons
+% by carrying on a loud conversation.  Itchy resolves the breach of
+% etiquette by replacing the ducks cell phone with a stick of
+% dynamite.  It explodes, leaving only the duck's skeleton.  As the
+% rest of the audience laughs, Itchy slices open Scratchy's gut, and
+% uses the cat's entrails to write "Please no talking" on the movie
+% screen.  Bart and Lisa laugh, but Homer gets anxious to see the
+% movie.
+%
+% The movie's up next!  But first, some previews for coming
+% attractions.
+
+Announcer:	Justin's soccer team was in last place ...
+Kid 1:		You suck!  No wonder your parents are getting 
+		divorced.
+Announcer:	... until they dug up a new player.
+		[enter a mummy, wrapped in bandages, and playing 
+		soccer]
+		Ed O'Neill is ... "Soccer Mummy."
+		[James Brown's "I Feel Good" is heard, as the mummy 
+		makes some good plays]
+Justin:		Go, soccer mummy!  You taught me to believe in 
+		myself!
+		[a well-endowed woman cheers the mummy, and catches 
+		his eye]
+Kid 3:		Uh-oh, the professor said not to let him get a 
+		boner.
+		[cut to the mummy, shown from the torso up.  We hear 
+		the sound of cloth ripping.  The mummy shrugs]
+		[cut back to the audience]
+Homer:		[laughs] I'm laughing ... but it's a laugh of 
+		impatience.  Show the movie!
+-- The mirthless laugh of the damned, "Jaws Wired Shut"
+
+% But the previews just grind on and on.
+
+Homer:		[muttering under his breath] So many previews, so 
+		many previews, so many previews ...
+Announcer 2:	"And now, our feature presentation."
+Homer:		[gasps]
+Announcer 2:	If that's a phrase you like to hear, then you'll 
+		love MovieCall!
+		[Homer screams]
+-- "Jaws Wired Shut"
+
+% Homer jumps up in front of the screen and chants, "Start the movie! 
+% Start the movie!"  The rest of the audience quickly joins in, to the
+% concern of the ushers.
+
+Usher 1:	They're out of control!
+Usher 2:	Well, if we wanted to live forever, we wouldn't have 
+		become ushers.
+-- The few, the proud ... "Jaws Wired Shut"
+
+% The head usher takes out a giant "movie sized" Kit-Kat(TM) bar.  He
+% and three other ushers break it into four pieces to make clubs. 
+% Thusly armed, they head into the theater.
+
+Homer:	[still chanting] Stop the madness!  Start the movie!
+Lisa:	Maybe we should try to calm Dad down.
+Bart:	I prefer to egg him on.  [to Homer] Hey Dad, has the movie 
+	started yet?
+Homer:	Arr-r-r-r-gh!
+-- "Jaws Wired Shut"
+
+% Marge, on the other hand, decides to try calming down her husband.
+
+Marge:		Homer, you're going to get into trouble.
+Homer:		I'm not scared of those ushers.  What are they going 
+		to do -- advance on me?
+		[they do]
+Usher 1:	This ends here.
+-- Any other bright ideas, Homer?  "Jaws Wired Shut"
+
+% The ushers chase Homer out of the theater and pursue him to a park. 
+% At the park, Mayor Quimby and boxer Drederick Tatum stand next to a 
+% large statue of Tatum.  The two men have an audience seated in front
+% of them.
+
+Quimby:	And so, for helping to KO litter in our community, I 
+	hereby dedicate this statue of Drederick Tatum.  [the 
+	audience applauds]
+Tatum:	Litter is my most treacherous foe.  I would like to eat 
+	its children.
+-- "Jaws Wired Shut"
+
+% Homer, fleeing from the ushers, turns his head to taunt them.  Bad
+% move.  Not looking where he's going, Homer runs right into the
+% statue's metal fist, which hits him squarely on the mouth.  He falls
+% to the pavement.
+
+Homer:	My mouth, my beautiful mouth!
+Tatum:	Excellent bout.  Now, we go party.  [Quimby and Tatum 
+	leave]
+-- "Jaws Wired Shut"
+
+% [End of Act One.  Time:  5:11]
+%
+% Dr. Hibbert examines an X-ray of Homer's head.
+
+Hibbert:	He won't be able to talk for quite some time.  I've 
+		wired his jaw shut.  It's all explained in this 
+		pamphlet.  [hands one to Marge]
+Marge:		[reading] "So your life is ruined."  [grumbles, then 
+		reads a bit]
+		[to Homer] Oh, dear, you can't eat solid foods.
+		[to Hibbert] Those are his favorites
+Homer:		[semi-articulate, since he obviously can't open his 
+		mouth] Agh cnnt ee suhluh foo!  [runs to a suicide 
+		machine, which resembles a chair with some 
+		hypodermic needles attached]
+Marge:		Stop it, Homer!
+Hibbert:	Oh, don't worry.  On a man his size, that just 
+		provides sexual release.
+		[Homer pushes Marge away and injects himself.  He 
+		looks satisfied]
+-- Hibbert's sex machine, "Jaws Wired Shut"
+
+% Back home, Homer finds eating a steak to be a challenge.  He can't
+% open his mouth to eat it, so he cuts off a small piece and tries
+% snorting it instead.  He succeeds, but looks a little woozy
+% afterward.
+%
+% Bart walks up.
+
+Bart:		Hey, Dad, I'm going to make a human yo-yo.  If you 
+		object, clearly say, "no."
+Homer:		Nnnn.
+Bart:		No objections, eh?  Well, that's great.  [leaves]
+Homer:		Uh uhjeh!  Uh heh uhn ujehshn!
+		[cut to outside the house.  Bart meets Milhouse, who 
+		is dressed in thick padding and a helmet]
+Bart:		Milhouse, you ready to imitate that "Jackass" show?
+Milhouse:	All those disclaimers made me want to do it more.
+-- Kids, don't try this at home, "Jaws Wired Shut"
+
+% Later, Homer stops by Moe's tavern.  It's a quiet day -- just Homer,
+% Carl, Lenny, and Moe -- when Duffman leaps throws open the door.
+
+Duffman:	Hey, Duff lovers!  Does anyone in this bar love 
+		Duff?
+Carl:		Hey, it's Duffman!
+Lenny:		Newsweek said you died of liver failure.
+Duffman:	Duffman can never die; only the actors who play him.  
+		Oh, yeah!
+-- "Jaws Wired Shut"
+
+% Moe quickly understands why Duffman has paid a visit to his humble
+% establishment.
+
+Moe:		Oh, you must be here for the, uh, Duff Trivia 
+		Challenge.
+Duffman:	That's right, local distributor.  One of you could 
+		win a lifetime supply of Duff.
+		[gets a card] Okay, chug-monkeys.  What beverage, 
+		brewed since ancient times, is made from hops and 
+		grains?
+Lenny:		How about ancient hop-grain juice?
+Homer:		Beehr!  Beehr!  [points to a bottle of Duff] Beehr!
+Moe:		Wait a minute, wait, Homer's trying to make a guess.
+Homer: 		Beehr!  Beehr!  Beehr!  [he reaches over and opens 
+		one of Moe's taps.  Some of the beer splashes on 
+		him]
+Moe:		What are you doing?  You're getting some kind of 
+		booze all over me!
+Homer:		Ghhr-hhr-hr.
+		[Duffman sounds an air horn]
+Duffman:	Time's up!  The answer is ... beer!  Ooh, Duff luck.
+Carl:		I never would have figured that out.
+Lenny:		Aw, that's the kind of thing you just gotta know.
+Homer:		[whimpers]
+-- "Jaws Wired Shut"
+
+% It's a little too late for the free beer, but eventually someone
+% gives Homer a little chalkboard that he can use to communicate.  In
+% bed with Marge, he writes something down and shows it to her.
+
+Marge:	I am not going to make you another sparerib smoothie.  
+	Most people with their jaws wired shut don't *gain* 
+	weight.
+Homer:	[pauses to reflect, and then writes "So, how was your 
+	day?" on his chalkboard]
+Marge:	[reading] "How was your day?"  Do you really want to know?
+Homer:	[nods] Uhn-huh.
+Marge:	Well, let's see.  I was in the kitchen counting the 
+	corncobs on the curtains, when who should ring the 
+	doorbell but Ned Flanders.
+Homer:	[writes "D'oh!"]
+Marge:	[laughs] It seems he wanted to ban culottes in the 
+	schools.
+Homer:	[growls]
+Marge:	Pardon my French, but sometimes that man's a goofy-doofy.
+Homer:	[thinking] She thinks Flanders is annoying!  This marriage 
+	just got interesting.
+-- Like it wasn't before?  "Jaws Wired Shut"
+
+% The next day, Homer feeds Maggie.  She's so cute, Homer tries to
+% give her a kiss, but Maggie's pacifier gets stuck in Homer's jaw
+% wires.  Worse yet, Maggie cannot be coaxed into letting go of her
+% end of the pacifier.  Even when Homer spins around, Maggie hangs on
+% with her mouth.  Then Homer gets the idea to dangle another pacifier
+% nearby.  It works; Maggie latches on to the second pacifier.  He
+% sits her down in her high chair, and then extracts the original
+% pacifier from his dental work.
+%
+% Lisa comes home from school, angry.
+
+Homer:	[writes "What's wrong?"]
+Lisa:	You want to know what happened?
+Homer:	[erases the board and writes, "Yes"]
+Lisa:	Really?
+Homer:	[erases the board and writes, "Yes"]
+Lisa:	We were playing four-squares, and I called no double-taps.  
+	And Ralph double-taps.  And I said, "You're out," and he 
+	said, [Ralph imitation] "I can do a sumbersault" -- Which 
+	has nothing to do with anything!
+Homer:	[thinking] Maybe a hug will cork her cry-hole.  [hugs 
+	Lisa]
+Lisa:	Thanks for listening, Dad.
+-- The key to effective parenting, "Jaws Wired Shut"
+
+% Homer and Bart build a model together.  Unfortunately, it's not the
+% same model, and ends up being a boat on one side, and an airplane on
+% the other.
+
+Bart:	We've got to coordinate on this thing.
+Homer:	[nods] Uh-huh.
+Bart:	So, the substitute teacher comes in and says her name is 
+	Mrs. Doody, and everyone's looking at me like, "Take it, 
+	Bart!  Run with it!"  And it hits me, I've become a clown 
+	... a class clown.  And it sickens me.
+Homer:	[thinking] Wow, Bart has feelings.  Heh-heh, Mrs. Doody.
+-- "Jaws Wired Shut"
+
+% Being unable to talk, Homer is now the perfect audience for one of
+% Grampa's stories.  Let's listen in ...
+
+Abe:	Three wars back we called sauerkraut, "liberty cabbage," 
+	and we called liberty cabbage, "super slaw."  And back 
+	then, we call a suitcase was known as a, "Swedish 
+	Lunchbox."  Of course, nobody knew that but me.
+Homer:	[writes, "Then what happened?" on his chalkboard]
+Abe:	Anyway, "long story short," is a phrase whose origins are 
+	complicated and rambling.
+-- "Jaws Wired Shut"
+
+% With the change in Homer's demeanor, Marge decides she can chance
+% going to the Springfield formal ball with her husband.  (Last year's
+% dance didn't go so well, since Homer and a donkey ran roughshod
+% through the place.)  She polishes up Homer's jaw wires, and he taps
+% his foot like a dog when you scratch him behind the ear.
+%
+% The big dance is held at the Springfield Country Club.  The men are
+% all dressed in tuxedos, and the ladies wear formal evening gowns. 
+% Light classical music plays for the enjoyment of dancing couples. 
+% Marge and Homer pause at the entryway to take in the ambiance.
+
+Marge:	A formal -- the one place you can wear a tiara and not 
+	look crazy.
+Homer:	Uh-huh.
+	[Mr. Burns walks up]
+Burns:	So, how are we enjoying the festivities?
+Homer:	[writes, "So hungry" on his chalkboard]
+Burns:	Yes, the music is from southern Hungary.  That's quite an 
+	ear; have some money.  [hands a wad of bills to Homer]
+-- It pays to name that tune, "Jaws Wired Shut"
+
+% The other high rollers at the event are also impressed with Homer. 
+% One aristocrat praises Homer's manners, for he did not laugh at the
+% gentleman's googly eye as so many other have.  Of course Homer
+% couldn't laugh even if he wanted to ... and he definitely does want
+% to.  The jaw wires also force Homer to pass on the hors d'oeuvres,
+% which impresses Mrs. Maxtone-Witherball, the socialite.  She
+% compliments Marge on her effective henpecking, and invites the
+% Simpsons to dine with her some night.
+%
+% Later, Marge and Homer dance to "The Blue Danube."
+
+Marge:	This has been one the most magical evenings of my life.
+Homer:	Iyeen hornee.
+Marge:	I don't know what you said, but I'm sure it was beautiful.
+-- Beauty is in the ear of the beholder, "Jaws Wired Shut"
+
+% "This is the kind of night I thought we could never have together --
+% incident free," Marge says.  Just then, the donkey that helped Homer
+% ruin last year's dance shows up, and tries to bait Homer into some
+% new mischief.  Homer's a reformed man, though, and turns down the
+% opportunity.
+%
+% Dr. and Mrs. Hibbert dance by Homer and Marge.
+
+Hibbert:	Oh, Homer, drop by my office tomorrow, and I can 
+		remove those jaw wires.  You'll be just the way you 
+		used to be.
+Marge:		[horrified gasp]
+		[Hibbert sees Rev. Lovejoy]
+Hibbert:	And Reverend, I'll put in those pec implants on 
+		Thursday.
+Lovejoy:	Super.
+-- "Jaws Wired Shut"
+
+% [End of Act Two.  Time: 12:51]
+%
+% The jaw wires come off on schedule, although Homer's breath smells
+% almost as bad as Hibbert's feet.  Soon, Homer is at Moe's Tavern,
+% chatting with his pals.
+
+Homer:	And when I couldn't talk, I learned to listen.  [takes a 
+	sip of beer] I learned so much about my family.  You'd be 
+	surprised at what you hear if you just listen once in a 
+	while.
+Lenny:	Really?  Let's try it.
+	[the guys are quiet]
+Moe:	[from the back room] Hello?  Yeah, I would like to 
+	arrange, uh, for an escort, please?  To where?  How 'bout 
+	Orgasm-ville?  Hello?  Hello?
+	[hangs up and walks into the bar's main room]
+	Uh, oh, hey.  How you doin'?
+-- "Jaws Wired Shut"
+
+% Homer's story attracts the attention of Lindsey Naegle, who for the
+% purposes of this episode is a guest booker for "Afternoon Yak," a
+% talk show.  She invites Homer and Marge to appear on the show.
+%
+% The format of "Afternoon Yak" has the day's guests (Homer and Marge
+% this afternoon) seated among the show's four hosts in comfortable
+% chairs and sofas.  The effect is if the Simpsons had stopped by for 
+% tea with some of their friends -- and a camera crew, and a small
+% studio audience.
+
+Barbara:	Welcome to "Afternoon Yak."  Today, we will meet a
+		 man who couldn't open his mouth, so he learned to 
+		open his heart.  Please welcome, Homer and Marge 
+		Simpson.
+		[audience applause]
+Joy:		So Marge, tell, what's it like kissing a man with a 
+		mouth full of metal?
+Lisa Ling:	My boyfriend has a metal tongue stud.
+Starr:		Who cares what's on his tongue, long as he's a stud 
+		where it counts?  I'm talking down-town!
+		[audience cheers]
+Barbara:	Marge, what was Homer like before he bwoke his jaw?
+Marge:		Well, he was eating all the time.  We'd be making 
+		love and he'd have a mouthful of Hershey's 
+		miniatures.
+Homer:		Krackel was my favorite.
+Lisa Ling:	I hope that was the only miniature in the bedroom.
+Starr:		I'm talking down-town!
+		[audience laughter]
+Marge:		And before he broke his jaw, he never listened, but 
+		now he takes to heart everything I say.
+		[audience cheers]
+Homer:		Well, as much as humanly possible.
+		[audience boos]
+-- "Jaws Wired Shut"
+
+% "Well," Barbara continues, "Marge told us when you didn't listen, it
+% led to weckless, weckless cwiminal behavior."  To illustrate the
+% point, Marge brought along a film clip of Homer's disastrous attempt
+% to make ostrich hamburgers.  After Lenny picks a bird for his
+% burger, Homer tries to slaughter it by punching it to death.  The
+% ostrich quickly shows that it is capable of defending itself.  Back
+% in the studio, Homer says he regrets the clip.
+
+Joy:		Homahlah, it's easy to change, but what's hard is 
+		not changing back.
+Barbara:	[to Homer] Do you pwomise not to wevive your 
+		weckless, weckless ways?
+Homer:		I don't know.  The demolition derby is next month.
+Marge:		Please, Homey, no more craziness -- for me?
+Homer:		Well, okay.  For you I'll be as dull as Dilbert.
+Barbara:	Vewy good.  [to camera] Our next topic:  My son 
+		still wets the bed.
+		[Luann drags Milhouse Van Houten onstage]
+Milhouse:	You told me we were going to Red Lobster.
+-- Homer makes a pwomise, and Luann bweaks one, "Jaws Wiwed Shut"
+
+% Marge comes home the next day and is surprised by what she sees.
+
+Marge:		All clean, just the way I left it.
+Homer:		[from the next room] I'm going to kill you!
+Marge:		Well, so much for the new Homer.
+		[Marge walks into the living room.  Homer and Bart 
+		are there, holding copies of a script]
+		What's going on?
+Bart:		We're rehearsing a play.
+Homer:		Yes, and I was merely reading the title.  [shows 
+		Marge the title page] "I'm Going to Kill You."
+Marge:		Oh.  It's just a false alarm.
+Homer:		Yep.  Nothing to get excited about.
+Marge:		Well, I'll be in the kitchen if you need me.
+Homer:		[looks at the script] Professor Van Doren -- so good 
+		to see you.
+		[camera angle switches to reveal that a 
+		distinguished-looking gentleman has entered the 
+		room]
+Van Doren:	Ah, rehearsing a play, I see.
+-- "Jaws Wired Shut"
+
+% Homer continues to stick to his pledge of good behavior.  He even
+% drinks milk and goes to bed at 7:30.  The quietude has an unexpected
+% effect on Marge, who is starting to go bonkers from boredom.  That
+% night, as Homer sleeps, Marge lies awake in bed, staring at the
+% ceiling.
+
+Marge:	[thinking] This place is so *boring*.  If somebody doesn't 
+	do something interesting, I'm going to have to.  But what?
+	[a gust of wind blows the demolition derby entry form off 
+	the dresser and into Marge's hand]
+	[thinking] The demolition derby?  That'll scratch my itch.
+	[gets out of bed and leaves.  Homer wakes up as soon as 
+	she's gone]
+Homer:	Marge?  [looks at Marge's side of the bed] Marge is gone!  
+	But at least the demolition derby form is ... [looks at 
+	the dresser and sees the form is missing, too] What?
+	No-o-o!
+-- "Jaws Wired Shut"
+
+% Marge shows up at the derby in the family wagon.  She puts on a
+% racing helmet, and is ready for battle.  The derby announcer bids
+% the contestants to start their engines, and the vendors to start
+% gouging.
+%
+% "And now," the announcer says, "Smashy, smashy!"  With that, the
+% derby is under way.  Otto, who has entered the school bus, honks his
+% horn and gives Marge a friendly greeting.  One of the other
+% contestants smashes into the bus, turning it on its side.  Otto
+% flips it back upright by opening those fold-out stop signs used when
+% loading or unloading children.
+%
+% Marge smacks into one of the other derby cars.
+
+Marge:	Catch ya later, radiator!
+	[thinking] My God, I hit someone, then I taunted him.  
+	I've never felt more alive!  [giggles]
+	[an SUV hits Marge, sending the station wagon spinning]
+	What was I thinking trying to feel alive?  Forget that!
+-- "Jaws Wired Shut"
+
+% The black SUV aims at Marge's wagon and guns it.
+
+Don't hurt me!  I'm not like you people; I'm loved!
+-- Marge Simpson, "Jaws Wired Shut"
+
+% The SUV slams into Marge's car, sending her crash helmet flying into
+% the stands.  Cletus catches it.
+
+I caught a head!  [examines the empty helmet] Aw, dang!  It's been 
+scooped out.  [tosses it aside]
+-- Cletus Spuckler, "Jaws Wired Shut"
+
+% Homer, Bart, and Lisa arrive at the derby, and immediately see that
+% Marge is in deep trouble.  But without his characteristic bold
+% moves, Homer has no idea how to save her.  Bart spots a beer vendor,
+% and calls for a can.  The vendor has no problem with tossing a cold
+% brewski to a ten-year-old boy.  Bart opens it Popeye-style,
+% squeezing it until the beer pops out, and Homer swallows it all as
+% it comes back to earth.  "Oh, this beer's deliskous," Homer says
+% with a Popeye accent, "I'm going to saves me wife.  Now let's get
+% this show on the road.  "
+%
+% The black SUV repeatedly rams Marge's car.  Homer comes to the
+% rescue.
+
+Homer:		Quit banging my wife!
+		[Homer rides into the arena on the trouble-making 
+		donkey]
+Derby Ann. 1:	A man on a donkey!  Never in my six weeks on the job 
+		have I seen the likes of this!
+		[the donkey stops, exhausted]
+Homer:		[Popeye-like] Eh, looks like I need some fuel for me 
+		mule; gas for me ass.  [chuckles]
+		[gives the donkey a beer; the animal perks up for a 
+		second and then passes out]
+		Aw, looks like a little angel.
+-- He's Homer the beer-drinking man, "Jaws Wired Shut"
+
+% Donkey or no donkey, Homer is determined to save his wife.  He runs
+% over to the station wagon and pulls Marge to safety just before the
+% SUV delivers another blow.
+%
+% Bart and Lisa watch from the stands.
+
+Bart:	Oh, isn't it great to have the old Dad back?
+Lisa:	I thought you liked the new Dad.
+Bart:	Whatever.
+-- He's flexible, "Jaws Wired Shut"
+
+% Marge thanks Homer for the rescue.
+
+Marge:	[kisses Homer] This family needs a live wire, but it's 
+	just not me.
+Homer:	That's okay, Marge, you're a good wet blanket -- the kind 
+	I like wrapped around me.
+-- "Jaws Wired Shut"
+
+% Homer and Marge leave the derby grounds, as the black SUV's driver
+% smashes into the remaining vehicles.  The announcer sums up the
+% evening for those who missed the first twenty-seven minutes of the
+% show.
+
+Derby Ann. 1:	When Homer's jaw was crushed, crushed, crushed, his 
+		life took a nitro-burning funny-turn.
+Derby Ann. 2:	Oh yeah!  It's important to grow, grow, grow, but if 
+		you take it to the max, max, max, it's going to get 
+		ugly.
+Derby Ann. 1:	In the mud.
+-- Derby Announcer, "Jaws Wired Shut"
+
+% [End of Act Three.  Time: 21:05]
+%
+% Normal closing credits and Gracie Noise.
+
+
+<|endoftext|>

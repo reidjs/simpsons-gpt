@@ -1,0 +1,910 @@
+<PRE>
+Homer Defined                                         Written by Howard Gewirtz
+                                                      Directed by Mark Kirkland
+===============================================================================
+[$Id: 8f04 1.6 92/03/04 23:07:48 raymond Exp Locker: raymond $]
+===============================================================================
+> Title sequence
+===============================================================================
+Cut from clouds directly to driveway.
+
+Driveway   :- Homer says nothing when Lisa scoots past.
+
+Couch:     :- The couch tips over, and Maggie sits where the couch used to be.
+
+Another 21-second intro made from recycled bits.
+
+Canadians, however, were given a fuller intro.  Details courtesy of
+Darren Ewaniuk (ewaniu@ee.ualberta.ca):
+
+Blackboard :- I will not squeak chalk.
+              (Accompanied by appropriate squealing noises.)
+
+Lisa's solo:- transcribed by Alan J Rosenthal {ajr}, in 4/4
+                     .                 .  .    .
+                   b b    b b             b    -
+              1.8.87_3 __87878_ 1..88885 .3868.3
+
+Couch:     :- First view of living room shows 4-armed, one-eyed green
+              octopus-alien lounging in the Simpsons' couch, drinking
+              from a can (beer?).  It apparently sees the Simpsons
+              coming, squeals, then pulls something from above which
+              opens a trap door in the floor which it subsequently dives
+              through and closes.   Then the Simpsons rush in and all
+              leap on the couch - and none fall out.
+
+===============================================================================
+> Didja notice...
+===============================================================================
+    ... Earvin ``Magic'' Johnson, Jr. and longtime Laker announcer Chick Hearn
+        provided their own voices?  And John Lovitz provided the voice of
+        Aristotle Amodopoulos.
+    ... the coffee mugs at the plant are shaped like nuclear cooling towers,
+        and have an atom symbol on the side?
+    ... Jack Nicholson sitting at the game? {msb}
+    ... Krusty Ham?
+    ... Marge addressed Milhouse's mother as `Mrs. Van Houten', yet she
+        referred to Marge as `Marge'?
+    ... Lisa's chocolate milk goes `slurp' even though the glass is full?
+
+    ... a shot from behind Milhouse's head included the magnification of
+        what he sees through his glasses?  Really!  {sjb}
+    ... when Bart is playing chess with Maggie in his room, on his desk is the
+        same green octopus which appeared in the Canadian couch scene? {awp}
+
+John P. Connolly {jpc}:
+   ...  there wasn't anything leaking anywhere in the nuclear plant?
+   ...  PEAS WERE EVERYWHERE while they were eating the ham? (cf [7f09])
+
+George W. Harris {gwh}:
+    ... when Smithers drops the wine when he hears Homer will be EotM, the
+        wine is revealed to be a sickly green color---the same color as the
+        acid in the I&S cartoon?
+    ... when Otto is driving the bus to the Kwik-E-Mart, the speedometer
+        shows he's going about 70?  (Note the skid marks leading up to
+        the Kwik-E-Mart.)
+
+Dave Hall {dh}:
+    ... Homer isn't wearing his Employee ID card, nor his tie in this episode?
+    ... Bart used old Christmas wrapping paper to wrap up Milhouse's present?
+    ... along with a picture of Krusty on the Walkie-Talkies box, you also see
+        Side-Show Mel, and they're using NORMAL Walkie-Talkies?
+        [No they're not, they're using Krusty walkie-talkies. --rjc]
+    ... on one of Burn's monitor, a guy was beating up a drink machine?
+    ... the wide shot of the cafeteria showed somebody sleeping at a table?
+    ... the `Air Assassins' sign behind Magic Johnson?  (cf. [7F14])
+    ... Marge extended her pinky when drinking tea?  How refined of her.
+    ... there was smoke pouring out of the Shelbyville Nuclear Power Plant's
+        cooling tower?
+    ... the used underwear lying on floor of Bart's bedroom?  And the
+        Scratchy doll squeezed into a shelf.
+    ... The Cowboy on the ``Dead Eye B.B. Gun'' has a patch over one eye?
+        (Truth in advertising?)
+    ... the bank robber looks like Otto's convict friend? [7f20]
+
+===============================================================================
+> Movie (and other) References
+===============================================================================
+    Metropolis
+        - The monitor in position (2,2) of Burns' array shows a scene
+          from the beginning of the movie, workers marching in step
+          up a staircase {tws}
+    Star Trek: The Next Generation, Alien, The Andromeda Strain
+        - (STTNG) the sickeningly soothing female computer voice.
+        - (Alien) female voice counting down to destruction. {sa} {slp}
+        - (Andromeda Strain) female voice counting down to destruction. {pa}
+  + Goldfinger
+        - Homer saves the plant with 007 seconds remaining. {slp}
+
+===============================================================================
+> Freeze Frame Fun
+===============================================================================
+>> US of A TODAY
+
+    AMERICA'S FAVORITE PENCIL
+    #2 IS #1
+            (and a useless colorful graphic)
+
+David A. Berson {dab} observes that there is a picture of a soldier on the
+front of the US of A today.  At the beginning his eye is open.  Then half
+way thru he closes it.
+
+Dave Hall {dh} thinks that might be a picture of Ms. Botz [7G01] on the
+front page.
+
+>> Havoc at the plant
+
+    - Workers run amok.
+    - Two employees smash a Buzz Cola machine and pilfer sodas.
+    - Another comployee runs past with a Macintosh computer (complete
+      with keyboard and mouse).
+    - A small group of employees prays.
+    - Rats abandon the plant.  (cf. a sinking ship, notes {gwh})
+
+After the danger is averted...
+
+    - The two employees set the Buzz Cola machine back upright and
+      look around nervously.
+    - The praying employees get up.
+      Sean Graves (sean@cs.tamu.edu) observes that they look embarrassed
+      that they were caught praying in public.
+    - A man and a woman emerge from a closet.  (See dialogue below.)
+    - The rats return to the plant.
+
+J. D. Baldwin {jdb} observed, ``When the couple came out of the storage
+closet after the meltdown was averted, the top box in storage is labelled
+with the International Radiation Symbol and the words `PLUTONIUM RODS (100
+count)'.  It is stacked directly on top of a box of `3000 Plastic Spoons'.
+For some reason, this cracked me up.''
+
+Outside...
+
+    - The comic book store owner [7F21] hawks, ``I survived the Springfield
+      nuclear scare'' T-shirts.  (So much for his bachelor's in Folklore
+      and Mythology.)
+
+>> Bart's photo album
+
+    - Bart-O The Great, picture of Bart as a magician and Milhouse nervously
+      playing the role of the girl-in-the-box about to be sawed in half.
+    - Milhouse in a hospital bed lifting his shirt, revealing stitches
+      on his chest (presumably from Bart's failed magic trick),
+      while Bart makes bunny-ears behind him.
+      Observe that Bart is still wearing his magician's turban. {tws} {kg}
+    - At the beach, Bart covering Milhouse completely in sand.
+
+Keith Goolsbey {kg} adds:
+
+In regard to their mothers meeting after they had drunk paint, why do you
+assume that Bart only put Milhouse in the hospital once?  I could see Bart
+making Milhouse a regular visitor to Springfield General.
+
+Dave Hall {dh}:
+
+After reviewing the pictures, I concluded that the hospital picture is
+actually an Animation Goof.  From the pictures, I found several points to
+`disprove' both theories.
+
+To disprove the Appendix theory:
+
+- Although the stitches are on the right side of Milhouse, the incision is
+  above the belly-button.
+- If Milhouse just had his appendix removed, he should be wearing a hospital
+  gown rather than a top.
+- Bart wearing his turban from the magic act.
+
+To disprove the Saw-cut theory:
+
+- Stitches on wrong side of Milhouse.
+- Angle of `Bart-o' picture indicates that a grown-up had possible took the
+  shot.  If this thinking is sound then I don't think a grown-up would
+  actually let Bart cut another kid.  [Maybe the grown-up thought Bart
+  knew what he was doing. --rjc]
+- If Bart actually did cut Milhouse with the saw (and at that angle), then
+  I think the harm wouldn't warrant a hospital stay because I would think
+  Bart would have stopped sawing before he did any serious damage.
+  [Maybe Bart thought Milhouse's screams were part of the act? -- rjc]
+- If Bart did seriously damage Milhouse to warrant a stay in the hospital, I
+  would think Bart would have been punished.  His smiling face in the
+  picture indicates that this hasn't happen.  For that matter, I would think
+  Milhouse (or his mother) would have held some resentment towards Bart.
+  (Probably enough resentment to have Bart banned from his room.)
+
+And, of course, the ``best of both worlds'' theory:
+- Milhouse's appendix became inflamed during Bart's act.
+
+>> The dictionary entries, courtesy of Theron Stanford {tws}
+
+[note that all dictionary entries are capitalized]
+
+       Stupid
+         \adj\  [L stupidus]
+           1. Slow of mind.
+           2. Unintelligent.
+           3. Homer Simpson.
+(other entries this page:  Stupendous, Stutter, Sty)
+
+       Lucky \adj\
+           1. Prone to good fortune.
+           2. Succeeding through chance.
+           3. Homer Simpson.
+(other entries this page:  Lucid, Lumbago)
+
+       Fraud \noun\
+           1. Imposter.
+           2. Fake.
+           3. Homer Simpson.
+(other entries this page:  Frankincense, Frappe, Freckle)
+
+       Homer
+         \noun\
+           1. American bonehead.
+           2. Pull a Homer --
+              to succeed despite idiocy.
+(other entries this page:  Home, Homely, Homogeneous)
+
+>> Bart's game of Monopoly
+
+Theron Stanford {tws}:
+
+I think that Bart may have set up the board wrong, for he clearly picks up
+the stack of `Community Chest' cards.  `Chance' cards are orange;
+`Community Chest' cards are yellow, the same color as the cards Bart picks
+up.  Also, the card Bart chooses, namely, ``You have won second prize in a
+beauty contest'' (Bart paraphrases this for Maggie), is a `Community
+Chest' card, not a `Chance' card.
+
+The details of the board have been rather faithfully reproduced, in my
+opinion.  The `Community Chest' square Bart lands on is in the middle of
+the orange color group, just like on the real McCoy, for instance.
+
+[I agree with Mr. Stanford that we should just call them the `Community
+Chance' cards. --rjc]
+
+Dave Hall {dh}:
+
+When playing Monopoly, note that Bart's token was the Top Hat.  (cf. [7F13])
+Note also that he didn't develop his properties evenly.
+
+===============================================================================
+> Chronology
+===============================================================================
+
+One the one hand, Homer was promoted to the safety control room in
+`Homer's Odyssey'.  On the other hand, he was playing with a Rubik's Cube,
+which would place the flashback at around 1982.  Although Ford left the
+presidency in 1976, this isn't much of a problem since that just means
+that `Project Bootstrap' was initiated during the Ford Administration, not
+that it ended when Ford left office.  (For example, if Burns were forced
+to promote Homer because of a Department of Energy regulation, he could
+have sarcastically thanked President Carter.)
+
+I won't even try to reconcile this with the already-internally-inconsistent
+job file in the Fall '91 Simpsons Illustrated.
+
+===============================================================================
+> Animation goofs
+===============================================================================
+Monty's color ``paid for themselves'' surveillance monitors have reverted
+to black-and-white.
+
+Dave Hall {dh}:
+
+Although Bart signed the card, you don't see his writing when Lisa read it.
+
+During the bus ride, Martin is in the seat in front of Bart, Milhouse, but
+when they arrive at school, Martin is two seats in front of Bart.  Sherry
+and Terry should be sitting behind Bart & Milhouse but aren't.  (Of
+course, they might've changed seats during the ride.)
+
+The surveilance monitor depicts Karl and Lenny sitting at a clean table,
+facing each other, with Homer in between them, munching on a donut. Yet,
+this is not the same setup when the scene switches over to them talking.
+
+The scene where Smithers confesses his love for Burns shows Burns resting
+his bare hands on the chair's armrest, yet in close up, Burns hands are
+gloved and folded against his chest.
+
+When Burns greets Homer in the cafeteria, his shadow is in a profile.
+Burns would have to walk up to Homer sideways in order to produce that
+shadow.
+
+Although the stage curtain is drawn back to show the `Employee of the
+Month' Award wall, the wide shot of Homer talking on the phone with Magic
+Johnson still shows the curtain closed.
+
+During the Monopoly scene, Marge's ball of yarn shrinks a lot.  Maybe
+she's a fast knitter.  The Monopoly box disappeared when Bart took Maggie
+outside.
+
+The digital time-stamp on the bank videotape does not agree with the clock
+on the wall above Chief Wiggum.
+
+===============================================================================
+> Maggie Watch
+===============================================================================
+Maggie fell thrice.  When Marge is praying, when the kids watch I&S,
+and when Homer comes home.
+
+Dave Hall {dh}:
+
+Notice the cute way Maggie was holding the yarn for Marge, and the cute
+way she prayed before she fell down.
+
+===============================================================================
+> Animation changes
+===============================================================================
+The original airing had Burns' line as ``I guess there's nothing left but to
+kiss my sorry butt good-bye.''  When the episode repeated (at 8:30pm instead
+of 8:00pm as part of a FOX promotional ``one hour of the Simpsons'' stunt),
+it became ``kiss my sorry ass good-bye.''  But, unfortunately, the law of
+conservation of mild profanity rears its ugly head, and Bart's ``Bad
+influence, my ass!'' became ``Bad influence, my butt!''  (Ruining the joke
+in the process.)  The animation still has Bart's mouth saying ``ass''.
+The Canadian rebroadcast was uncensored.  Let's see what Channel Ten does...
+
+===============================================================================
+> Comments and other observations
+===============================================================================
+>> For non-American viewers
+
+USA Today is a colorful newspaper, called McPaper by some because it
+dispenses news in bite-sized pieces.  You can pretty much read an entire
+USA Today while waiting at a stoplight.
+
+The SAT (Scholastic Aptitude Test) is a standardized test taken by
+college-bound high school seniors.
+
+>> If you listen carefully, you'll notice that Lisa's line ``I will, Mr.
+Gumbel, but if you'll excuse me, I'm profiling my dad for my school
+paper.'' was not spoken by Yeardley Smith, but rather by whoever did the
+voice of Maria Diminguez in [8f01].  (Or if it was Ms. Smith, she forgot
+to add Lisa's endearing nasality.)  The very next line, ``I thought it
+would be neat...'' was back in proper Lisa-form.
+
+>> Plot goof:  When Bart gives Milhouse the walkie-talkies, he explicitly
+says that Milhouse should call him first, so that Bart can turn on his
+walkie-talkie.  Yet twice later in the episode, we hear Bart's
+walkie-talkie crackle to life without Bart having to turn it on.
+
+>> Day-of-week:  Smithers clearly states that it is Monday.  (TGIM, sir.)
+And who says that Otto was planning on returning from Mexico in time to
+pick up the kids from school?
+
+>> Mark Eckenwiler (eck@panix.com) identifies the tune Otto was humming as
+``the hook from Johnny Winter's top-40 instrumental "Frankenstein".
+(duh-duh-da-da-di-di-di-duh)''
+
+===============================================================================
+> Quotes and scene summary
+===============================================================================
+% Homer and Lisa read US of A TODAY over breakfast.
+
+Homer: Here's good news!  According to this eye-catching article,
+       SAT scores are declining at a slower rate!
+Lisa:  Dad, I think this paper is a flimsy hodgepodge of pie graphs,
+       factoids and Larry King.
+Homer: Hey, this is the only paper in America that's not afraid to tell
+       the truth, that everything is just fine.
+-- Reading US of A TODAY, ``Homer Defined''
+
+% Bart puts the finishing touches on a birthday card...
+
+Bart: [inscribing a card]
+      ``To me bestest bud, Milhouse.  Happy Birthday.  Bart.''
+Lisa: Bart, that's so sweet.  May I see the card?  [reads]  ``Hey there,
+      ten-year-old!  I couldn't afford to get you a new drum...''
+      [opens the card, revealing a picture of a well-endowed woman]
+      [reading with lost enthusiasm]  ``So how about a nice pair of
+      bongos''?  Ewww...
+-- Amen, sister, ``Homer Defined''
+
+% On the bus, Bart presents Milhouse with a wrapped gift and begs him to
+% open it.  Milhouse is reluctant to, and Bart says, ``Just 'cuz your mom
+% didn't let you have a party doesn't mean you can't get a present!''
+% Sherry and Terry say, ``We had a lovely time on Saturday, Milhouse.''
+% When Bart asks, ``What are you girls talking about?'' they return to
+% their seats and giggle.  Milhouse opens the present...
+
+They're official Krusty the Clown walkie-talkies!
+I'll keep one and you keep one.
+Now, whenever you want to talk to me, just call me on the phone
+and tell me to turn on my walkie-talkie.
+-- Bart, explaining his gift to Milhouse, ``Homer Defined''
+
+% Martin peeks over the seat.
+
+Martin:   Milhouse, I'd like to express my appreciation for Saturday.
+          Jelly bean basket, personalized noisemakers.
+          But the little touches are what made it enduring!
+Bart:     What's he talking about?
+Milhouse: Uh... Hey!  Look at that dog!  Isn't that something!
+Bart:     [sees a rather plain dog] Wow, brown!
+-- How to change the subject, method 3.  ``Homer Defined''
+
+% The bus reaches the school...
+
+Whoa, Springfield Elementary, last stop!
+Oh, and by the way, I'd like to say Thanks, and applose[?] applause to
+birthday boy Milhouse for his totally bitchin' party on Saturday!
+Oh, and Milhouse, I think I left my pants on your roof.
+-- Otto's announcement (emergencies only), ``Homer Defined''
+
+Bye, little dudes!  Don't learn anything I wouldn't learn!
+-- Otto drops the kids off at school, ``Homer Defined''
+
+% Bart is left alone on the bus.  Meanwhile, at the plant, Burns and Smithers
+% survey the various security monitors...
+
+Burns:    So, what did you do this weekend, Smithers?
+Smithers: Well, I caught up on my laundry, wrote a letter to my mother,
+          oh, here a kicker, and I took Hercules out to be clipped.
+Burns:    Who the devil is Hercules?
+Smithers: Oh, he's my Yorkshire terrier, sir.  He's kind of tiny, so you
+          know, it's a joke.  Here's a picture of Herky. [shows a wallet
+          photo]
+Burns:    Ugh.  Well, Smithers, don't you know how to paint the town red!
+-- Hercules and the Lion?  ``Homer Defined''
+
+Burns:    I took in a movie.  An appalling little piece of filth.
+          Its leading lady was a blonde harlot who spent half the
+          film strolling around naked as a jaybird!
+Smithers: [gasp]
+Burns:    No, just give the Great Unwashed a pair of oversized breasts
+          and a happy ending, and they'll oink for more every time.
+[Homer talking with his coworkers]
+Homer:   What a movie!  And that blonde cutie!  Does she have assets! [oinks]
+-- Wallowing in filth, ``Homer Defined''
+
+% In his safety control room, Homer pokes at all the donuts...
+
+[poking at each jelly donut in turn]
+[poke]  Igh, lemon.  [poke]  Ugh, cherry.  [poke]  Ooh, custard.
+[poke]  Mmmmm.... purple...
+-- Homer, enjoying the finer things in life, ``Homer Defined''
+
+% In his dough-nutty enjoyment, some jelly splatters and covers a
+% dial, which is nearing the red zone.  Meanwhile, Otto skids the
+% bus into the Kwik-E-Mart and heads inside.
+
+Apu:  Otto, do you know there's a small child inside your bus?
+Otto: [sees Bart] Ooh, good thing you warned me.  I was on my way to Mexico!
+-- Tijuana Schoolbus, ``Homer Defined''
+
+% Meanwhile, while Homer dozes at his station, the jelly covers up the
+% dial which we presume has since gone into the danger zone.  Our
+% presumptions prove true when Burns hears a polite female
+% voice announce...
+
+Voice:    Warning... Problem in Sector 7-G.
+Burns:    7-G?  Good God, who's the safety inspector there?
+Smithers: [calls up a video file photo of a hairful Homer]
+          Homer Simpson, sir.
+Burns:    Simpson, eh?  Good man?  Intelligent?
+Smithers: [reluctantly]  Actually, sir, he was hired under Project Bootstrap.
+Burns:    [sarcastically]  Thank you, President Ford.
+-- Quality is Job One, ``Homer Defined''
+
+% Homer wakes up to the sound of loud rhythmic buzzing (see SI, Summer'91)...
+
+Homer: [waking up to the sound of loud rhythmic buzzing]
+       Huh? ... Noise! ... Bad noise!
+Voice: [calmly] Five minutes before critical mass...
+Homer: Critical what!?  [trying to calm down]
+       Okay, okay, don't panic, whosever problem this is, I'm sure they
+       know how to handle it...  [the jelly covering the dial pops off]
+       Huh?  Aaagh!!  It's <my> problem!!!  We're doomed!!!!
+Voice: [as steel doors seal off the safety control room]
+       [calmly] Sector 7-G is now being isolated...
+-- It has been our pleasure to serve you, ``Homer Defined''
+
+% Otto drops Bart off at school.
+
+You know, once, my old lady ran off and married my brother.
+Well, it hurt, but here it is a month later, and I'm sleeping on
+their couch!
+-- Otto-Man, ``Homer Defined''
+
+% Marge sits on the couch knitting and watching a smarmy soap with Maggie.
+% But the show is interrupted by a special news bulletin...
+
+Announcer: We interrupt `Search for the Sun' for this special news bulletin.
+           Meltdown Crisis:  The First Couple of Minutes.
+Brockman:  [surrounded by comb and hair dryer]  Forget the hair, just give
+           me the blush!  [realizes the cameras are on him]  Oh, we're on.
+-- Ready for anything, ``Homer Defined''
+
+% They have Monty Burns on the phone, as a picture of a badly-toupee'd
+% Monty is shown on the screen.
+
+Kent:  On the line with us now is plant owner C. Montgomery Burns.  Mr. Burns?
+Burns: Oh, hello, Kent.  [as loud rhythmic buzzing continues in the background]
+       Right now, skilled nuclear energy technicians are calmly correcting
+       a minor, piffling malfunction.  [rapid-fire shots of havoc in the plant]
+       But I can assure you and the public that there is absolutely no danger
+       whatsoever.  [air raid siren wails]  Things couldn't be more ship-shape.
+       [cut to Burns' office, where he is busy donning a radiation suit]
+Smithers:  Sir, where is <my> radiation suit?
+Burns: How the hell should I know?  [covers the name `Smithers' on the suit
+       he is wearing]
+Kent:  Uh, Mr. Burns, people are calling this a meltdown.
+Burns: [laughs] Oh, meltdown.  It's one of those annoying buzzwords.  We prefer
+       to call it an unrequested fission surplus.
+-- Obfuscatory sesquipedalianism, ``Homer Defined''
+
+% Marge hopes that Homer is all right.  In the safety control room...
+
+Homer: [panicking, as warning sirens wail]  Gotta think, gotta think...
+       Okay, somewhere there's a thingie that tells you how to work this
+       stuff.  The uh, the uh, the manual!  The manual!  Right!
+       [hunts under the console] [finds it]
+       Agh!  It's as fat as a phone book!  [opens to first page]  [reads]
+       `Congratulations on your purchase of a Fissionator 1952 Slow-Fission
+       Reactor'...  D'oh!  Get to the point, man!  [finds an insert]
+       Ooh, what's this?  [unfolds it, it's a giant schematic]
+       D'oh!  Who'd have thought a nuclear reactor would be so complicated!
+-- Everything is under control, sort of, ``Homer Defined''
+
+Voice:    [cheerfully] Ninety seconds to core meltdown.
+Smithers: Sir, there may be never be another time to say... I love you, sir.
+Burn:     [disgusted]  Oh, hot dog.  Thank you for making my last few moment
+          on earth socially awkward.
+-- The moment of truth, ``Homer Defined''
+
+% At Moe's Tavern...
+
+Moe:    Looks like this is the end...
+Barney: Oh, that's all right.  I couldn'ta led a richer life.
+-- Core meltdown is imminent, ``Homer Defined''
+
+% At the Retirement Castle, Abe, Jasper, and a woman watch TV...
+
+Kent:   After the meltdown, we can expect roving bands of...
+Abe:    Ah, I don't like this program.
+Jasper: Change the channel.
+        [woman does so]
+TV:     Wheel!  Of!  Fortune!!
+-- Dame Fortune smiles, ``Homer Defined''
+
+% Meanwhile, Homer complains that he doesn't understand <anything>.
+% ``When they look up `stupid' in the dictionary, there'll be a picture
+% of me.''  He then dreams of exactly that.  At home...
+
+Marge: [praying]  Dear Lord.  If you spare this town from becoming
+       a smoking hole in the ground, I'll try to be a better Christian.
+       I don't know what I can do... Mm... Oh, the next time there's
+       a canned food drive, I'll give the poor something they'd actually
+       like, instead of old lima beans and pumpkin mix.
+-- Throw in a coupla Hail Mary's and we might have a deal, ``Homer Defined''
+
+% Homer realizes it's all up to him, and tries to think back to his
+% training...
+
+Homer:   Okay okay, think back to your training...
+         [begin flashback]
+Trainer: Now, Homer, this may very well save your life one day.
+         This... Homer?
+Homer:   [playing with a Rubik's cube]  Yeah?
+Trainer: Please pay attention.  This button here controls the emergency
+         override circuit.  In the event of a meltdown, push this button
+         and only this button.
+Homer:   [completing a side of the cube]  Ooh, a side!
+Trainer: Simpson!
+Homer:   What?
+Trainer: You see which button I'm pushing?
+Homer:   [not looking]  Yeah, yeah, yeah.  Push the button.  Got it.
+         [end flashback]
+         This is all your fault!  [throws Rubik's cube away]
+-- Well, at least he remembered the general idea, ``Homer Defined''
+
+% Realizing that he has no better option, he plays ``One potato, two
+% potato'', then changes to ``Bubble gum, bubble gum''...
+
+Voice:    [pleasantly]  Thirty seconds to core meltdown.
+Burns:    Oh, Smithers, I guess there's nothing left but to kiss
+          my sorry ass good-bye.
+Smithers: May I, sir?
+Burns:    Ugh.
+-- Just asking, ``Homer Defined''
+
+% On TV...
+
+Prof. John Fink:  [indicating on a map]  These unfortunate people here will
+       be instantly killed.  [indicating]  This circle, which I am sad to say
+       we are in, will experience a slower, considerably more painful death.
+Kent:  Good Lord!
+-- Analyzed to death?  ``Homer Defined''
+
+% At school, Lisa's class is huddled under their desks...
+
+Skinner:  They called me old-fashioned for teaching the duck-and-cover
+    method, but who's laughing now!
+-- ``Homer Defined''
+
+% The computer cheerfully announces, ``Fifteen seconds to core meltdown.''
+% Homer has settled on ``Eenie, meenie, miney, moe'' to decide which
+% button to push.  He reaches the end of the rhyme, covers his eyes, and
+% pushes the button...
+%
+% [End of Act One.  Time: 8:33]
+
+Voice:  All systems returning to normal.  Danger in 7-G neutralized.
+        Have a nice day.
+-- It's been a pleasure serving you, ``Homer Defined''
+
+% Homer sees himself in the dictionary under `Lucky'.  The workers rejoice.
+
+Man:   [emerges from closet, fixing his tie]
+Woman: Will I ever see you again?
+Man:   Sure, baby.  Next meltdown.
+-- ``Homer Defined''
+
+% Abe et al are still watching Wheel of Fortune...
+
+TV:   I'd like to solve the puzzle.  `Three Loins in the Fountain'.  [buzz]
+-- Wheel of Misfortune, ``Homer Defined''
+
+% Marge watches the news report...
+
+Burns:  [voice only]
+        Yes, we've isolated the problem.  Wouldn't you know, false alarm.
+Marge:  Phew!
+Burns:  It seems a single wayward crow flew into our warning system.
+Kent:   Very good.  Well, sir, your point about nuclear hysteria is well-taken.
+        This reporter promises to be more trusting and less vigilant
+        in the future.
+Burns:  [in his office, still wearing his radiation suit]
+        Excellent.  Well, ta!
+-- Hardly a post-apocalyptic war zone, ``Homer Defined''
+
+% Burns asks Smithers to bring him a wine spritzer, and notes that he's
+% going to award Homer the Employee of the Month award.  Smithers drops
+% the bottle.
+%
+% Meanwhile, at lunch, Bart pulls the ol' loose-top-on-the-salt-shaker
+% trick on Milhouse, to get back at him for not inviting him to his
+% birthday party.
+
+Milhouse: Bart, my mom won't let me be your friend any more.
+          That's why you couldn't come to the party.
+Bart:     What's she got against me?
+Milhouse: She says you're a bad influence.
+Bart:     [slams his hand on the table]  Bad influence, my ass!
+          How many times have I told you?  Never listen to your mother!
+-- What he said, ``Homer Defined''
+
+% Mrs. Van Houten threatened to cut off Milhouse's allowance, and
+% Bart offers to pay him double it.  But Milhouse doesn't accept.
+%
+% Meanwhile, Smithers tries to convince Burns that he deserves the EotM
+% award, but Burns' mind is made up.  In the cafeteria...
+
+Karl:  Hey, way to save our lives!
+Len:   Yeah, we owe you one!
+Homer: Yeah, you know, boys, a nuclear reactor is a lot like a woman.
+       You just have to read the manual and press the right buttons.
+-- ``Homer Defined''
+
+% Burns arrives and simply says to Homer, ``Come with me.''
+%
+% As the audience chants, ``Homer!  Homer!'', he is given the EotM award,
+% receiving a ham, a plaque, and discount coupon book from a voluptuous
+% woman, a thumbs-up from Burns, and his picture (the old one, back when
+% Homer had some hair) added to the `Wall of Fame', which we see consists
+% otherwise entirely of photos of Smithers.  And...
+
+Burns: Oh, and what's this?  A congratulatory phone call from Earvin
+       `Magic' Johnson?
+Homer: [gasps]  Magic Johnson!?  [picks up the phone]  Yello?
+Magic: [calling from the arena]  Is this really Homer Simpson?
+Homer: Yeah.
+Magic: Wow.  Homer, I just used our last time-out to call and congratulate
+       you on averting that nuclear holocaust.
+-- On his way to Disneyland, ``Homer Defined''
+
+% Homer asks, ``What if people think a guy's a hero, but he was really
+% just lucky.''  Magic replies, ``Don't worry.  Sooner or later, people
+% like that are exposed as the frauds they are.''  Homer is glum.
+%
+% The kids watch an Itchy and Scratchy cartoon, but only Lisa laughs.
+
+Lisa: [laughing at an Itchy and Scratchy cartoon]
+      Bart, you're not laughing.  Too subtle?
+-- ``Homer Defined''
+
+% Homer arrives and fails to hide the ham and plaque from Marge.
+
+Marge: [reading the plaque]  For heroic competence, for narrowly
+       averting a meltdown, and proving without question that
+       nuclear power is completely safe.  Employee of the Month!
+-- ``Homer Defined''
+
+% Homer envisions himself listed in the dictionary under, `Fraud'.
+% At the dinner table...
+
+A role model in my very own home.  How convenient!
+-- Lisa, ``Homer Defined''
+
+Homer: Look, I get enough admiration and respect at work!
+       I don't need it here at home!
+-- No argument from Bart, ``Homer Defined''
+
+Marge: How are you enjoying your ham, Homey?
+Homer: Tastes so bitter, it's like ashes in my mouth...
+Marge: Hm.  It's actually more of a honey glaze.
+Lisa:  Maybe you ate a clove.
+-- Marge and Lisa uncharacteristically miss a metaphor, ``Homer Defined''
+
+Homer: [angrily] What's <your> problem, boy?
+Bart:  I had a fight with Milhouse.
+Homer: That four-eyes with a big nose?  You don't need friends like that.
+Lisa:  How Zen...
+-- Dinner conversation, ``Homer Defined''
+
+% That evening, Homer watches bowling on TV, munching on salty snacks,
+% as Lisa lies on her stomach on the floor and gazes admiringly...
+
+Homer: What is it?  What are you doing?
+Lisa:  Looking at you with quiet awe.
+Homer: Well, as long as it's quiet.
+-- ``Homer Defined''
+
+% In his room, Bart looks through a photo album with pictures of Milhouse,
+% and his walkie-talkie crackles.  ``Milhouse to Bart.  Milhouse
+% to Bart.  Please don't hate me.  Please?''  Bart tosses it in the trash.
+%
+% [End of Act Two.  Time: 13:53]
+%
+% Homer is rewarded with a covered parking spot right next to the boss,
+% but when he opens his car door, he scratches Burns' paint job.
+% (``D'ah, he'll never know who did it.'')  Meanwhile, Smithers now must
+% park in the main lot, and finds a spot a half mile from the plant.
+
+Burns:  Ah, Simpson, here's someone I want you to meet.
+        Aristotle Amodopoulos, owner of the Shelbyville Nuclear Power
+        Facility.  It seems Ari's been having terrible worker
+        problems at Shelbyville.
+Ari:    They've lost their zest for work.  You must help them find their
+        ine-haratu-nadzu-leri [or whatever].
+Homer:  Their ine-aratu-zoola-what?
+Ari:    Yes!
+-- Just checking, ``Homer Defined''
+
+We want you to give them a pep talk that turns them from a bunch of
+donut-eating goof-offs into a pack of Homer Simpsons!
+-- Burns seems to have missed the point, ``Homer Defined'
+
+% Homer says he can't, but Burns says it's one of the responsibilities
+% of being Employee of the Month.  Smithers finally arrives, breathless,
+% and complains about the parking.  Burns and Ari gasp, and Burns sends
+% Smithers away.  (``That one's always been a problem.'')
+%
+% At home, Bart plays Monopoly with Maggie.  He lands on Community Chest
+% and looks through the deck to find a card he likes.
+
+Maggie: [playing Monopoly with Bart]
+        [removes her pacifier, coughs up a hotel]
+Marge:  Bart, don't feed your sister hotels.
+Bart:   [holding up the box]  Don't worry, Mom.  There's tons of these things.
+-- ``Homer Defined''
+
+Marge: Why don't you go play with Milhouse?
+Bart:  I don't want to play with Milhouse.
+Marge: You mean you still haven't made up with him?
+Bart:  It's his mom.  She says I'm a bad influence.
+       [takes Maggie's hand]  Come on, Maggie, let's go throw rocks at that
+       hornet's nest.
+Marge: Mmm...
+-- ``Homer Defined''
+
+% Marge pays a visit to Mrs. Van Houten.
+
+Marge: Mrs. Van Houten?  I'm Bart's mother.  We met in the emergency room
+       when the boys drank paint?
+Mrs.V: I remember.
+-- ``Homer Defined''
+
+% Mrs.V invites Marge in for tea.
+
+Marge: I know Bart can be a handful, but I also know what he's like inside.
+       He's got a spark.  It's not a bad thing.  ... Of course, it makes
+       him <do> bad things...
+Mrs.V: Well, Marge, the other day, Milhouse told me my meatloaf `sucks'.
+       He must've gotten that from your little boy, because they
+       certainly <don't> say that on TV.
+-- Of course, ``Homer Defined''
+
+% Marge pleads Mrs.V to let them be friends.  Mrs.V looks outside to see
+% Milhouse sitting by himself on a teeter-totter.  She agrees to think about
+% it.
+%
+% At Moe's Tavern, Lisa is tagging along with Homer, pencil and pad at the
+% ready...
+
+Barney: So next time somebody tells you carney folk are good, honest people,
+        you can spit in their faces for me!
+Lisa:   I will, Mr. Gumbel, but if you'll excuse me, I'm profiling my dad
+        for the school paper.  I thought it would be neat to follow him around
+        for a day to see what makes him tick.
+Barney: Aw, that's sweet.  I used to follow my dad to a lot of bars, too.
+        [belch]
+-- ``Homer Defined''
+
+Moe:  Here you go, one beer [sets it in front of Lisa].  One chocolate
+      milk. [sets it in front of Homer]
+Lisa: Uh, excuse me, <I> had the chocolate milk.
+Moe:  Oh.
+-- They're so hard to tell apart, ``Homer Defined''
+
+What's the matter, Homer?  The depressing effects of alcohol usually
+don't kick in 'til closing time.
+-- Moe, ``Homer Defined''
+
+Lisa:  He's just a little nervous.  He has to give a speech tomorrow on
+       how to keep cool in a crisis.
+Homer: [shaking Lisa in a panic]  What am I going to do!?
+       What am I going to do!?
+-- You could see that gag coming, couldn't you?  ``Homer Defined''
+
+Barney: I had to give a speech once.  I was pretty nervous, so I used a
+        little trick.  I picture everyone in their underwear.
+        The judge, the jury, my lawyer, everybody.
+Homer:  Did it work?
+Barney: I'm a free man, ain't I?
+-- A mixed blessing, ``Homer Defined''
+
+% Meanwhile, Bart is playing chess with Maggie, who is sucking on the white
+% king.  The walkie-talkie crackles to life...
+
+Milhouse: [on the walkie talkie]  Milhouse to Bart.  Do you want to come
+          over and play?
+Bart:     Really?  We can be friends again?  Did your mom die?
+Milhouse: Um, I don't think so.
+Bart:     Well, who cares.
+-- Would you like to check?  ``Homer Defined''
+
+% Bart announces to Marge that he's friends with Milhouse again, and Marge
+% is pleased.  He thanks her for sticking up for him.  How did he know?
+% ``Who else would?''  After a brief tender moment, Marge says, ``Be good,''
+% and leaves.  Bart says, ``I will,'' and pulls out from under his bed
+% a ``Dead Eye BB Gun''.
+%
+% At the Shelbyville plant, Homer is introduced to a large audience.
+
+As I look out into this sea of smiling faces, I am filled with a sense of
+[suddenly turns nasty] loathing and revulsion!  You are not workers!  You
+are a pack of mangy, cud-chewing, ugly goats!
+-- Aristotle Amodopoulos gives his employees a pep talk, ``Homer Defined''
+
+% Although
+% at first nervous, he remembers Barney's suggestion.  (Barney's ghostly
+% elocution here is priceless.)  He puts it into action, and it works.  That
+% is, until he looks down at himself and sees that he's also in his underwear.
+% He hides behind the podium and reads his speech hesitantly.
+
+Homer: [nervously reading a speech]  Grace under pressure is no...
+Voice: [sirens wail]  Three minutes to meltdown.
+       [the auditorium empties in a panic]
+Homer: Phew!  Saved by the bell.
+-- Ask not for whom the bell tolls, ``Homer Defined''
+
+% Fifteen seconds to core meltdown, Ari has brought Homer to the safety
+% control room and instructs him, ``Just do what you did before.''
+% Homer does exactly that, counting, ``Eenie, meenie, miney, moe.''
+% He pushes the button...
+
+Crisis has been averted.  Everything is super.
+-- Computer announcement, ``Homer Defined''
+
+% Ari is furious.  ``Do you even know what button you pushed?''
+% ``Sure!  Moe!''
+
+Eenie meenie miney moe.
+Is Homer a hero?  The answer is, `No'.
+I'm Kent Brockman, and that was `My Two Cents'.
+-- A brief editorial, ``Homer Defined''
+
+% Next is Scott Christian with ``Laugh and a Half''.  His first item is
+% how Chief Wiggum foiled a hold-up without even knowing it.  He was
+% counting his penny-jar at the bank, and the thief accidentally bumped
+% into him, and the jar accidentally broke over his head.  Scott
+% concludes, ``Yes, it seems the chief pulled a Homer Simpsons of his own.''
+%
+% Barney falls off his stool at Moe's, but finds a tasty pretzel on the
+% floor.  ``Wow!  Looks like I pulled a Homer!''
+%
+% At the basketball game, Magic has the ball, but slips.  The ball flies
+% out of his hands, hits the referee, and goes in the basket.  Says Magic,
+% ``Looks like I pulled a Homer.''
+%
+% Lisa reads the dictionary, where the entry for Homer reads, ``To succeed
+% despite idiocy.''  Says Lisa, ``Our dad.  Now he belongs to the ages.''
+%
+% [End of Act Three.  Time: 20:50]
+===============================================================================
+Episode summaries Copyright 1991 by Raymond Chen.  Not to be redistributed
+in a public forum without permission.  (The quotes themselves, of course,
+remain the property of The Simpsons, and the reproduced articles remain
+the property of the original authors.  I'm just taking credit for the
+compilation.)
+</PRE>

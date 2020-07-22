@@ -1,0 +1,600 @@
+% [Syndication cuts are marked in curly braces "{}" and are courtesy of
+% Ricardo Lafaurie and Frederic Briere.]
+%
+% It's another delicate morning in Springfield, USA.  Marge trudges out
+% of bed and walks down the stairs, amidst a minefield of junk the other
+% members of the family have left lying around.  "Mmm," she grumbles,
+% "Sandwich," stepping on one.  Further down the stairs, she notices
+% some underpants draped over the railing.
+%
+% The kitchen, too, is a disaster area.  Eggs are smashed on the wall;
+% pizza drips gooily from the ceiling.  Checking in the fridge, Marge
+% finds Homer's bowling ball -- and some more underpants.  Still, she
+% prepares breakfast for the family without complaining.
+%
+% Homer, Lisa, and Bart walk in with a cheery, "Hi Mom!", and tuck into
+% the breakfast Marge has kindly prepared.
+
+ Bart: After breakfast, me and Milhouse are going down to the ravine.
+       We got a tip from a six-year-old that there's a dead Martian down
+       there.
+ Lisa: And I'm going to the park to jam with "The Little White Girls
+       Blues Quartet."  Wanna come with me, Daddy-O?
+Homer: I'd love to, honey, but Daddy has to go to a beer-drinking
+       contest today.
+ Bart: Think you'll win?
+Homer: Son, when you participate in sporting events, it's not whether
+       you win or lose: it's how drunk you get.
+ Bart: Gotcha.
+-- The wisdom of age, "Bart Gets an Elephant"
+
+% "Well, gotta go!" says Bart, getting up to leave.  Homer and Lisa do
+% the same.  Marge, however, blocks the doorway.
+
+ Bart: Uh, it's hard for us to leave when you're standing there, Mom.
+Homer: [cheery] Push her down, son.
+-- "Bart Gets an Elephant"
+
+% "No one's going anywhere!"  Marge begins angrily.  "We're going to
+% clean the whole house from top to bottom," she says, handing out
+% buckets and mops all around.  "Oh dear God, no!" cries Homer, and in a
+% panic, Bart runs to the front door and grasps it frantically, trying
+% to get out.  Marge warns him that escape is impossible.
+
+    Marge: Now each one of you take a floor and get started.
+    Homer: I call the basement!
+Bart+Lisa: Fine.
+    Homer: [questioningly] D'oh?
+            [Turns on the light in the basement, sees the huge mess]
+           D'oh!
+-- The cleaning spree begins, "Bart Gets an Elephant"
+
+% Bart wipes lamely away at the coffee table in the living room.
+
+ Bart: [whining] I'm tired.  I'm hungry.  Can't we just buy a new house?
+Marge: Oh, Bart, cleaning doesn't have to be a chore!  Here, work to the
+       music.  [turns on the radio]
+Ernie: You load sixteen tons, what do you get?
+       Another day older and deeper in debt...
+ Bart: Amen, Ernie.
+-- Apt cleaning-music, "Bart Gets an Elephant"
+
+% In the basement, Homer wears a back-pack with an air compressor in it.
+% He pulls the chain to start it, and blows all the papers on the floor
+% into a swirling vortex.  Paper is strewn everywhere when he shuts it
+% down and dusts his hands.
+
+ Homer: All done.
+ Marge: You're not done.  I want you to throw away these old calendars
+        and TV Guides.
+ Homer: Are you mad, woman?  You never know when an old calendar might
+        come in handy.  Sure, it's not 1985 now, but who knows what
+        tomorrow will bring?  And these TV Guides: [fondly] so many
+        memories.
+         [opens one] "Gomer upsets Sergeant Carter"...oh, I'll never
+        forget that episode.
+         [imagines]
+Carter: [annoyed] Pyle!
+ Gomer: Shazam!
+Carter: Pyle!
+ Gomer: Shazam!
+Carter: Pyle!
+ Gomer: Shazam!
+ Homer: Heh heh heh...Shazam.
+-- Homer "cleans" the basement, "Bart Gets an Elephant"
+
+% Marge chides Homer for wasting time.
+
+Marge: Stop remembering TV and get back to work!
+Homer: What's the point of all this cleaning?  Are we so vain?!
+-- Apparently, yes, "Bart Gets an Elephant"
+
+% In her room, Lisa vacuums under the bed.  She hears music from
+% outside.  Looks as though the Little White Girls have decided to do a
+% tour while they play.  Even better, President Clinton follows them,
+% jamming on his saxophone.  Moe drives by, scolding, "Hey, Clinton!
+% Get back to work!", to which Bill retorts, "Make me!"  Lisa rues the
+% great time they're having while she's stuck inside; the vacuum cleaner
+% she holds sucks into her saxophone, making a sound like derisive
+% laughter.
+%
+% {In the basement, Homer prepares to clean the floor.}
+
+       Homer: {[reads label on the Mr. Cleanser bottle]
+              Hmm..."Use only in a well-ventilated area."  Shove it,
+              buddy!
+               [pours some out, starts scrubbing] Ooh...
+               [the fumes get to him, and the logos on the cleansers
+              come alive and look at him evilly]
+              Huh?
+               [the creatures all jump him]}
+Mr. Cleanser: {[in a Russian accent] I must destroy you!}
+       Homer: {Aah!  Aah!  Aah!}
+       Marge: {Homer!  What's going on down there?}
+       Homer: {Nothing.}
+       Marge: {Then stop screaming so loud!}
+       Homer: {OK...oh.  Oh.  Oh.}
+-- Pointless warning labels, "Bart Gets an Elephant"
+
+% In the front room, Bart scrubs dust off Grant Wood's "American Gothic"
+% with KBBL blaring its inane chatter in the background.
+
+       
+        [song finishes]
+ Bart: [groans]
+Marty: And that was "Take This Job and Shove It."  Now let's make
+       another one of our lucky phone calls --
+ Bill: OK, just answer the phone with the special phrase that pays and
+       you'll have your choice of $10,000 in cash --
+        [cash register bell sounds]
+       -- or a really stuuupid prize.
+        [cuckoo clock chimes]
+        [goofy laughter]
+Marty: Well, let's make that call.
+        [phone next to Bart rings]
+ Bart: KBBL's going to give me something stupid!
+  Abe: Bart, I'm having palpitations!
+ Bart: Can't tie up the line, Grampa.  [hangs up]
+-- And you didn't call 911 because...?, "Bart Gets an Elephant"
+
+% Finally, the arduous task is complete.  Bart, Lisa, and Homer all look
+% tattered and tired.  "There," consoles Marge, "isn't that a lot
+% better?  Now you can do whatever you want, but don't mess up the
+% house."  The three respond, "We won't," and they wander into the
+% kitchen.  As the door swings closed and then open again, the kitchen
+% changes from spotless to a total mess.
+
+ Marty: Now let's try another lucky phone call.
+         [phone rings]
+Wiggum: Help!  Help us!  They stole our uniforms, guns, and tasers!
+ Snake: [wearing a police uniform] Fry, piggy.  [charges taser]
+Wiggum: No, no -- no don't -- aargh!
+        Aargh!
+        A little to the left...
+        Ah, that's the stuff.
+  Bill: Oh, I'm sorry.  The phrase is, "KBBL is going to give me
+        something stupid."  Pretty weird, hyuck, hyuck.  ["sproing"
+        noise]
+-- It's probably just a joke, "Bart Gets an Elephant"
+
+Marty: Let's try one more number.
+Homer: Y'ello?
+ Bart: [grabs phone] KBBL is going to give me something stupid!
+Marty: Well, hot dog!  We have a weiner!  [car alarm noise]
+Homer: [grasping air] Y'ello?
+ Bart: I won, I won!
+Marty: You win your choice of $10,000 or -- what's our gag prize this
+       week, Bill?
+ Bill: [raucous] A full-grown African Elephant!
+ Bart: Well, all that money sounds mighty tempting, Marty, but I think
+       I'm going to have to go with the elephant.
+Homer: [to Marge, happily] He's taking the elephant instead of the
+       money.
+Marty: [whispering] The kid wants the elephant!
+ Bill: We don't have an damn elephant.
+Marty: Don't whisper into the mike!
+ Bill: Ahem, kid, the elephant's a gag prize.  Nobody takes the gag
+       prize.  [nervous laughter] You want the cash.
+ Bart: [indignant] I want the elephant!
+Homer: Heh, heh, stick it to the man!
+-- Homer, forever anti-authority, "Bart Gets an Elephant"
+
+% Reason rears its ugly head, however, and Homer tries to convince Bart
+% to take the money instead.
+
+Homer: Bart!  With $10,000, we'd be millionaires!  We could buy all
+       kinds of useful things like...love!
+Marge: Or double-ply windows.  They look just like regular windows but
+       they'll save us 4% on our heating bill.
+        [long pause]
+       Well they will.
+ Lisa: You all seem to be forgetting the most important thing...which is
+       that it's wrong to imprison an animal!
+        [long pause]
+Homer: Lisa, go to you room.
+-- Homer deals with opposition, "Bart Gets an Elephant"
+
+% Bart & Homer arrive at KBBL, where Bart demands his elephant.
+
+Marty: [sheepish laughter] We appreciate you coming down, but, heh, look
+       kid, the thing us, uh heh heh...we don't _have_ an elephant, heh
+       heh.
+ Bill: Come on, kid: just take the money, huh?  Otherwise we might get
+       fired.  You don't want us to get fired, do you?
+ Bart: Ehh, either way.
+        [the DJs gasp]
+-- The cruelty of ten-year-olds, "Bart Gets an Elephant"
+
+  Marty: We think we know how your mind works, Bart.  So how about this:
+         we pay your principal $10,000 to pull down his pants and keep
+         them down for the rest of the school year, ha ha!
+Skinner: I'll do it, Bart.
+   Bart: Ermmm...no.
+   Bill: OK, OK...what if we use the $10,000 to, er, surgically
+         transform Skinner here into, er...some kind of a lobster-like
+         creature?
+Skinner: Now wait just a minute: that wasn't discussed with me.
+-- Going over his head, "Bart Gets an Elephant"
+
+% Bart is inexorable: "Uh, Gentlemen, I am not leaving without my
+% elephant."  But he and Homer are both tossed out anyway.  "Where's my
+% elephant?"  Bart demands at the window repeatedly.  The DJs close the
+% window, but over the song they play next, Bart's queries can still be
+% heard faintly.  At the Springfield Retirement Castle, Abe notes, "Hey,
+% they're playing the elephant song!"  Jasper loves that; it reminds him
+% of elephants.  Kent Brockman even editorializes, "So isn't that what
+% we're all asking in our own lives -- 'where's my elephant?'  I know
+% that's what I've been asking."
+%
+% At the KBBL studios, Bill and Marty's boss gives them a dressing-down.
+
+   Boss: Look, our ratings are down, and the station is being swamped
+         with angry calls and letter-bombs.
+          [A few letter-bombs explode in a pile]
+         And it's all your fault!
+   Bill: Yes it is, ma'am.
+   Boss: This is the DJ 3000.  It plays CDs automatically, and it has
+         three distinct varieties of inane chatter.
+          [presses a button]
+DJ 3000: [stilted] Hey, hey.  How about that weather out there?
+         Woah!  _That_ was the caller from hell.
+         Well, hot dog!  We have a weiner.
+   Bill: Man, that thing's great!
+  Marty: _Don't_ praise the machine!
+   Boss: If you don't get that kid an elephant by tomorrow, the DJ 3000
+         gets your job.
+          [Marty punches it]
+DJ 3000: Those clowns in congress did it again.  What a bunch of clowns.
+   Bill: [laughs] How does it keep up with the news like that?
+-- Misplaced admiration, "Bart Gets an Elephant"
+
+% Next morning, Marge hears the doorbell.  She rushes downstairs and
+% pulls the dinning room curtains open.  She's greeted by a large,
+% staring eye.  Bill and Marty drive off as the family check out the
+% elephant left them.  "Woah!"  Bart cries happily, and the elephant
+% trumpets savagely.  Santa's Little Helper and Snowball II scamper off
+% in fright.  They pause on the horizon, peeking over, and whisk out of
+% sight when the elephant trumpets again.
+%
+% [End of Act One.  Time: 8:13]
+%
+% The elephant makes grunting noises and a ferocious face.
+
+Marge: Homer...it looks like it could gore.
+Homer: Heh heh...it _does_ look like Al Gore.
+ Bart: [admiring] Ew, he smells worse than anything.  Hey you, elephant!
+       Lift me up on your back, man.
+        [elephant stuffs him in its mouth]
+Marge: Bart!
+        [Bart gets out with a plop]
+ Bart: [nervous laughter] He tried to kill me.
+-- Examining the elephant, "Bart Gets an Elephant"
+
+Marge: I really think this is a bad idea.
+Homer: Marge, I agree with you -- in theory.  In theory, communism
+       works.  In theory.
+-- Pros and cons of keeping the elephant, "Bart Gets an Elephant"
+
+% Just then, the elephant walks towards the side of the house and rubs
+% up against it to scratch himself, tearing the outside layer of the
+% house off.  "Look," laughs Bart, "he thinks he's people."
+%
+% Homer decides to chain the elephant to a tree in the backyard.  Not
+% liking the idea, the elephant angrily breaks his chain and stomps on a
+% few Simpson items.  Bart decides to call the elephant "Stampy".
+
+       [Stampy trumpets]
+Homer: What's he yelling about?
+ Lisa: He's hungry.  Here you go Stampy: [holds a platter] eat it slow.
+       It has to last for --
+        [Stampy grabs it all at once]
+       You ate it too fast.
+Homer: Maybe if we tied it down so it couldn't move it wouldn't get so
+       hungry.
+ Lisa: You can't do that, Dad, it's cruel!
+Homer: Oh, everything's cruel according to you.  Keeping him chained up
+       in the back yard is cruel.  Pulling on his tail is cruel.
+       Yelling in his ears is cruel.  Everything is cruel.  Well, excuse
+       me if I'm cruel!
+        [Stampy stuffs Homer in his mouth; Homer struggles out]
+       Now I've had my head in an elephant, a hippo, and a giant sloth.
+-- Three for impressive three, "Bart Gets an Elephant"
+
+% To solve the food problem, Homer takes Stampy to Moe's for the "Free
+% Peanuts."  But Moe warns, "I think you're taking unfair advantage of
+% my generous offer."  Homer tells him to shut up.
+
+       [Stampy lies weakly on the ground]
+ Lisa: He can't just eat peanuts, Dad, he needs plants to live.
+Homer: [crafty] Plants, eh?
+        [At the Springfield Arboretum "(Tree place)"]
+ Bart: Strip the bark now, Stampy.
+Homer: Hey: any more arboretums around here?
+  Man: No!
+-- Too much of a good thing, "Bart Gets an Elephant"
+
+% {Just then, a bird lands on Stampy's back and starts to peck.}
+
+Homer: {That bird!  He's killing the elephant.  Stop him!}
+ Lisa: {No, Dad, he's grooming him.}
+Homer: {[crafty] Grooming him, eh?
+        [later, at home]}
+Marge: {Ooh, Homer, there's a bird on your head!}
+Homer: {I know.  He's grooming me.  Mmm...elephant fresh.}
+-- Fresh as you can get, "Bart Gets an Elephant"
+
+% Stampy has no problem quieting the neighborhood dogs at night: one
+% might trumpet, and the dogs shut up.  Just as well, because it makes
+% it easier for Bart to sleep out in the tree fort.  "Good night,
+% Stampy," he calls, and the elephant pulls Bart's covers over him.  He
+% then caresses Bart's head with his trunk and wraps it around Bart as
+% if to hug him.  Just as Bart gets comfortable, Stampy yanks him out
+% and stuffs him in his mouth.  Bart taps on his cheek, and Stampy puts
+% him back in his sleeping bag, covered with drool.  "Thanks, bud.
+% 'Preciate it."
+
+ Lisa: Taught Stampy any tricks yet, Bart?
+ Bart: Nah.  He doesn't want to learn, and I don't want to teach him.
+       We get along fine.
+        [SLH and S II walk by, balancing on balls]
+Homer: Hey, what's with them?
+ Lisa: I think they're trying to get some attention.
+Homer: Oh.  Good luck!
+-- "Bart Gets an Elephant"
+
+Homer: Look at these bills: chains for elephant.  Shots for elephant.
+       -- "Oversized decorative poncho"?!
+ Bart: Technically it's for a giraffe, but I think I can let it out a
+       little.
+Homer: Well these bills will have to paid out of your allowance.
+ Bart: You'll have to raise my allowance to about $1000 a week.
+Homer: Then that's what I'll do, smart guy.
+        [doorbell rings]
+ Girl: Can we see the elephant?
+  Boy: We'll pay you money...
+Homer: For the ninth time, no!
+        [slams door; doorbell rings again]
+       Wait a minute...this gives me an idea.
+        [hammers a "Go away" sign into the ground outside]
+ Bart: Uh, here's a better sign, Dad.
+        ["See the elephant, $1.  Ride the elephant, $2"]
+Homer: I don't have time to read it.  Just give me the gist of it, son.
+-- Well, OK, "Bart Gets an Elephant"
+
+% What a success Bart's idea becomes.  The yard is full of people who
+% want to see and ride the elephant.  One child is tossed angrily away
+% by Stampy, and Homer wants to charge his mother for the five-foot
+% ride.
+
+Mrs. Lovejoy: That animal of yours is certainly bad-tempered.
+        Lisa: Yeah, well you'd be grumpy too if you were taken out of
+              your natural habitat and gawked at by a bunch of slack-
+              jawed yokels.
+         Man: Hey, Moe: look at that pointy-hairded little girl.  Hyuck.
+-- Slack-jawed, indeed, "Bart Gets an Elephant"
+
+% Bart feels that he and Stampy are misunderstood.  Mr. Burns reminisces
+% to Smithers how riding Stampy reminds him of the fat man he used to
+% ride to work.
+
+Homer: Look at this, Marge: $58 and all of it profit!  I'm the smartest
+       businessman in the world.
+Marge: Stampy's food bill today was $300.
+Homer: Marge, please, don't humiliate me in front of the money.
+-- A fate worse than death, "Bart Gets an Elephant"
+
+% Homer decides to up the prices -- to $100 for a view and $500 for a
+% ride.  Everyone can't leave quickly enough.
+
+          Homer: Uh, Milhouse saw the elephant twice and rode him once,
+                 right?
+Mrs. Van Houten: Yes, but we paid you $4.
+          Homer: Well, that was under our old price structure.  Under
+                 our new price structure, your bill comes to a total of
+                 $700.  Now, you've already paid me $4, so that's just
+                 $696 more that you owe me.
+ Mr. Van Houten: Get off our property.
+-- So much for that idea, "Bart Gets an Elephant"
+
+% Homer finally realizes that they can't afford to keep the elephant.
+% When he suggests selling him, Bart is against it.  SLH and S II play
+% "Mary Had a Little Lamb" on the toy piano in the background.
+
+  Man: Well, sir, I'll be honest with you: I need a large African
+       elephant and I need it today.  But I'm afraid this just isn't
+       what I'm looking for.
+Homer: What do you mea?  It's an elephant, isn't it?
+  Man: Well, it is, and it isn't.  If you understand what I mean.
+Homer: [pause]
+        [happily] He likes peanuts.
+-- A good selling-point, "Bart Gets an Elephant"
+
+Warden: Our wildlife refuge is the ideal environment for your elephant:
+        thousands of acres of simulated African savannah.
+  Lisa: It's perfect, Dad.
+ Homer: I only have two questions: "How much", and "Give it to me".
+Warden: Well, we really can't offer you any money, we're a non-profit
+        organization.
+ Homer: So your bid is zero.
+Warden: Well, we like to think of it as --
+ Homer: Thank you.
+Warden: You know I really think --
+ Homer: Thank you.
+-- Zero don't pay the bills, "Bart Gets an Elephant"
+
+Blackheart: Mr. Simpson, I think you'll find this amount more than fair.
+      Lisa: Dad, I think he's an ivory dealer!  His boots are ivory, his
+            hat is ivory, and I'm pretty sure that check is ivory.
+     Homer: Lisa, a guy who's got lots of ivory is _less_ likely to hurt
+            Stampy than a guy whose ivory supplies are low.
+       SLH: [growling] We...love...you.
+      Lisa: Mr. Blackheart?
+Blackheart: Yes, my pretty?
+      Lisa: Are you an ivory dealer?
+Blackheart: [laughs] Well, little girl, I've had lots of jobs in my day:
+            whale-hunter, seal-clubber, president of the Fox network,
+            and, like most people, yeah, I've dealt a little ivory.
+      Bart: Dad, you can't do this.  Stampy is my friend.
+     Homer: Don't worry, son.  I'll get you a new elephant.
+Blackheart: I'll take that one too.
+     Homer: Done.
+-- Let's make a deal, "Bart Gets an Elephant"
+
+Blackheart: All right, I'll be back in the morning to pick up Stampy.
+     Homer: Here's the keys.
+Blackheart: Elephants don't have keys.
+     Homer: Well, I'll just keep these then.
+-- Little-known facts, "Bart Gets an Elephant"
+
+ Bart: Don't worry, Stampy.  I won't let Homer sell you to that ivory
+       dealer.  You and I are going to run away together.  We'll keep to
+       the back roads and make our way south.  Then, if I know my
+       geography, it's just twelve miles to Africa.  OK, bud, very
+       quietly: let's just sneak through --
+        [Stampy brushes him off and tromps off]
+       Stampy!
+        [walks through the Flanders' yard]
+  Ned: [gasps] It's the four elephants of the apocalypse!
+Maude: That's horsemen, Ned.
+  Ned: Well, getting closer.
+-- Elephants, horsemen...what's the difference?, "Bart Gets an Elephant"
+
+% [End of Act Two.  Time: 15:54]
+%
+% Lisa runs into her parents' bedroom, clearly distraught.
+
+ Lisa: Mom!  Dad!  Bart and Stampy are gone!
+Marge: Oh my Lord!
+ Lisa: I bet it's 'cause of that horrible ivory dealer, [accusing]
+       _Dad_.
+Homer: That wasn't part of our deal, Blackheart.  That wasn't part!
+        [drives off looking]
+       Piece of cake!  All we have to do is follow the path of
+       destruction.
+        [looks up]
+       Oh, stupid tornado!  [laughs] Look!  It got Patty and Selma.
+        [the two sit in rocking chairs up in the air]
+Patty: Hmm.  I feel it all the way up my skirt.
+Selma: Ditto.
+-- That's one powerful gale, "Bart Gets an Elephant"
+
+% {Two workmen carry a pane of glass across the road.  Stampy crashes
+% towards them, and they hastily move out of the way into the other
+% lane, where they have to move quickly _again_ to avoid Bart on his
+% skateboard.  Having saved the glass from destruction, they toss it
+% carlessly into a recycling bin.}
+%
+% Chief Wiggum takes calls down at the station.
+
+Yeah, right, lady: an elephant ran through your front yard.  OK.
+ [goes to another line]
+Wiggum...yeah, right, mister, mm hm.  An elephant just knocked over your
+mailbox.  OK.
+ [goes to another line]
+Wiggum...Yeah, right, buddy, liquor store robbery, officer down.  Sure.
+And I'm Edward G. Robinson.
+-- You were last week to Flanders, "Bart Gets an Elephant"
+
+% {Stampy walks through a Republican and a Democratic convention even.
+% The Rublicans cheer him, and the Democrats hoo him.}  He then walks
+% menacingly towards a peanut factory.  The plant supervisor bolts the
+% door, then starts to preach about how fortunate everyone is that he
+% prepared them for this day -- but he's interrupted by Stampy smashing
+% down the door.
+%
+% Bart can't find Stampy anywhere.  He calls out for him, and is
+% delighted to hear a trumpet in return.  He looks over and sees the
+% shadow of an elephant behind some bushes, but when he runs through
+% them, he finds it's just the preserved skeleton of a wooly mammoth
+% that wandered into the Springfield tar pits.  The trumpeting was a
+% recording.
+%
+% Bart is sure Stampy's gone forever, but just then he hears Stampy's
+% distinctive call, and he looks over.  It's Stampy, all right.  But his
+% trunk reaches fondly towards the mammoth skeleton, and the plucky ten-
+% year-old realizes Stampy pines for company from other elephants.
+%
+% Just then, Homer, Marge, and Lisa arrive in the car.
+
+       [Homer drives into a preserved deer statue]
+Homer: D'oh!
+ Lisa: A deer!
+Marge: A _female_ deer...
+-- The best Simpsons gag ever, "Bart Gets an Elephant"
+
+Homer: Son!  You're OK.  [hypnotic] And you led us to the precious
+       ivory...[affable] and, of course, your lovable pet, who it's
+       connected to.
+ Bart: Dad, I can't let you sell him.  Stampy and I are friends.
+        [Stampy beats him with his trunk] Ow!  Anyway, I want him to go
+       to that animal refuge.
+Homer: Forget it!  That elephant cost me thousands of dollars.
+ Lisa: Dad, how would _you_ like to be sold to an ivory dealer?
+Homer: I'd like it fine.
+ Bart: Even if he killed you and made your teeth into piano keys?
+Homer: Yes, of course I would!  Who wouldn't like that -- to be part of
+       the music scene?
+-- The difference between involvement and commitment, "Bart Gets an
+    Elephant"
+
+ Lisa: Dad!  You're sinking.
+Homer: Huh?
+Marge: Get a rope, Bart?
+Homer: Naw, that's OK.  I'm pretty sure I can struggle my way out.
+       First I'll just reach in and pull my legs out, now I'll pull my
+       arms out with my face.
+-- Homer at the Springfield tar pits, "Bart Gets an Elephant"
+
+% Homer begins sinking, and Bart implores Stampy to pull him out with
+% his trunk.  Stampy reaches in and finds Barney, who walks away with a,
+% "Thanks, Stampy!"  He lights a cigar and catches on fire.
+
+       [Stampy pulls Homer from the tar pit]
+Homer: I'm alive.  I'm alive!  And I owe it all to this feisty feline.
+ Lisa: Dad, "feline" means "cat".
+Homer: Elephant, honey.  It's an elephant!
+-- Well, duh, "Bart Gets an Elephant"
+
+% "And I'm sure he'll make a grand piano," Homer continues, but Bart and
+% Lisa castigate him: "Dad!"
+
+Homer: I guess it wouldn't be right to sell Stampy after he saved my
+       life.  And the boy seems to have some sort of relationship with
+       him.
+ Bart: Thanks, Dad.
+Homer: On the other hand, who's to say what's right these days, what
+       with all our modern ideas...and products?
+        [Bart and Lisa look angrily at him]
+       All right, we'll give the stupid elephant to the stupid animal
+       refuge.
+ Kids: Yay!  [hug Homer]
+ Bart: Uh, Mom?  We're stuck to Dad.
+Marge: Mmm, this is just what happened at the caramel factory.
+        [pulls them off]
+ Lisa: Ow, my hair!
+Homer: Mmm, caramel.
+-- We don't want to know, "Bart Gets an Elephant"
+
+% Bart bids a tearful goodbye to Stampy outside the animal refuge.
+% Stampy reaches for him and Bart cringes, expecting to be put in his
+% mouth once again, but instead Stampy lifts him on his back.  The
+% elephant runs into the pasture, spilling Bart off, and starts butting
+% another elephant.  "Attaboy, Stampy!  Butt him once for me!"
+
+        [Stampy butts another elephant]
+ Marge: Gosh, I thought he'd be happier in his true habitat.
+Warden: Oh, I think he is.
+ Marge: Then why is he attacking all those other elephants?
+Warden: Well, animals are not like people, Mrs. Simpson.  Some of them
+        act badly because they've had a hard life, or have been
+        mistreated...but, like people, some of them are just jerks.
+        Stop that, Mr. Simpson.
+         [Homer butts the warden repeatedly]
+-- "Jerk" about sums it up, "Bart Gets an Elephant"
+
+% [End of Act Three.  Time: 21:17]
+%
+% Special thanks to Dave Hall for proofreading and editing this
+% transcription.
+
+<|endoftext|>

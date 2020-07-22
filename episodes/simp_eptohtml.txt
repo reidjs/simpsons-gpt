@@ -1,0 +1,50 @@
+#!/opt/gnu/bin/perl
+# Converts a Simpsons-related text file to URL, with a header & footer
+# and a bit in the middle inside <PRE>'s
+# It also finds Episode codes and changes them to links.
+# Howard Jones, October 1994 (ha.jones@ic.ac.uk)
+# use as: shtml "This is the Title" <sourcetext >sourcetext.html
+$title="This is the title";
+$title=$ARGV[0];
+
+print "<HTML>\n<HEAD>\n";	# put a decent header on it
+print "<TITLE>$title</TITLE>\n";
+print "<!-- Converted by Howie's Converter Thingy -->\n";
+print "</HEAD>\n<BODY>\n";
+
+print "<H1>$title</H1>\n";
+print "<PRE>\n";
+while(<STDIN>)
+{
+	study;		# do the standard HTML escapes
+	s/&/&amp;/g;
+	s/</&lt;/g;
+	s/>/&gt;/g;
+	s/"/&quot;/g;
+
+
+	# now find the Simpsons episode production codes
+	# First, converts them to uppercase, then to the right URL
+	s/([0-9])f([0-9])/\1F\2/g;	# this sucks!
+	s/([0-9])g([0-9])/\1G\2/g;	# (but it does work)
+	
+	# may need to change this line to point to the right files
+	# (it should really start with a / and be the whole path, anyway)
+	s|\[([0-9][FG][0-9][0-9])\]|<A HREF="\1.html">\1</a>|g;
+	
+	print $_;
+}
+print "</PRE>\n";	# plop a decent footer on too
+# and a credit line (why not?)
+# This can be any line thats wanted on all files (like a 'home page' button)
+print "<HR>\nConversion by Howard Jones (ha.jones@ic.ac.uk)\n";
+print "</BODY>\n</HTML>\n";
+
+__END__
+
+-- 
+Howard Jones                             Microsoft - Making Things Slower
+Internet: ha.jones@ic.ac.uk
+Mail replies may take more than a week.
+
+

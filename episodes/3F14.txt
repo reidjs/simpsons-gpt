@@ -1,0 +1,1329 @@
+Homer the Smithers                         Written by John Swartzwelder
+					  Directed by Steven Dean Moore
+=======================================================================
+Production Code: 3F14               Original Airdate in N.A.: 25-Feb-96
+					  Capsule revision B, 19-Apr-96
+=======================================================================
+> "TV Guide" Synopsis {sp}
+=======================================================================
+
+    Before taking a vacation, Smithers makes sure to find a replacement
+    who won't outshine him. That would be Homer, who succumbs to job
+    stress as Mr. Burns' assistant.  Voices: Harry Shearer, Dan
+    Castellaneta, Hank Azaria, Julie Kavner, Nancy Cartwright, Yeardley
+    Smith
+
+=======================================================================
+> Opening Sequence
+=======================================================================
+
+>> COUCH SCENE
+
+      Like Shriners, the family scoot around in little carts for a
+      while before pulling back in formation in front of the TV and
+      honking.
+
+	(Recycled from 3F02.)
+
+=======================================================================
+> Did you notice...
+=======================================================================
+   ... Smithers was using a Macintosh?  (But Greg Franks {gf} points
+       out it had no mouse.)
+   ... Smithers hangs out in a bar without _any_ apparent women, i.e.
+       a gay bar, proving Smithers is gay?  (Let's end this waste of
+       bandwidth now.)
+   ... Moe's phone number is 764-8437?  (But Mark Richey {mar} points
+       out that 7 might be used to contact an outside line, making
+       it 648-4377.)
+
+Ricardo A. Lafaurie Jr.:
+   ... Lenny is drunk?  He slurs his speech and all.
+   ... Burns and/or Smithers apparently don't call it orange juice,
+       since the first foodstuff is waffles and the last is zwieback?
+   ... Burns looks at the camera while Homer reads to him the fate of
+       his car/cube?
+   ... Smithers drops the phone?
+   ... Burns hits the Cray with a crowbar?
+   ... no one is at Moe's when Burns calls?
+   ... OFF eats spaghetti, rolls, and mashed potatoes for dinner?
+   ... Smithers now has a steel rod instead of a spine?
+   ... Mother Burns looks a lot like Burns?
+   ... Mother Burns has a Western accent?
+
+Jose Lafaurie:
+   ... Burns drinks Postum, so he's really old?  (see below)
+
+Haynes Lee:
+   ... SNPP has a two-fence perimeter similar to prisons?
+   ... Smithers computer has two ribbon cables coming out of the
+       monitor?
+   ... the bag of donuts has the Lard Lad Donut Boy?
+
+Benjamin Robinson:
+   ... Burns' car is equipped with either (a) two separate phone lines,
+       one in the driver's compartment and one in the back, or (b) one
+       line with two extensions that can be used as an intercom?
+   ... the machine Burns kicks looks like a Cray X-MP?
+   ... the telephone rings 48 times before Homer picks up, which
+       translates to about five minutes?
+   ... the Love Tester is back in the corner of the bar?
+   ... Burns litters with shredded _environmental_ papers?
+
+Dale G. Abersold:
+   ... one of the members of the conga line bears an uncanny
+       resemblance to Buddy Hodges (the original Fallout Boy)? (see
+       below)
+   ... Moe is really paranoid about crank calls?
+   ... Homer is hanging out at Moe's at midnight.
+
+Jason Hancock:
+   ... Burns drinks out of a spoon?
+   ... Burns lies to Congress?
+   ... Homer likes the Little Rascals?
+   ... the picture of the Cat in the Hat in Burns' bedroom?
+   ... Burns wears dentures?
+   ... Smithers wears his work uniform while on vacation?
+   ... on Burns' phone, the letters are below the numbers?
+   ... this is the first time since 9F06 that someone calls Moe?
+   ... Moe's is open after midnight?
+   ... the Duff clock at Moe's chimes like a grandfather clock?
+   ... Bobo's right eye is missing?
+
+John Murray:
+   ... the drag race was dedicated to Lance Murdock?
+   ... Smithers was able to stick his head in the water cooler?
+   ... Burns' belch sounds just like Barney's?
+   ... the corn flakes ignite for no reason?
+   ... Burns thinks donuts are an ethnic food?
+   ... Burns' mother is 122 years old?
+
+Don Del Grande:
+   ... Maggie raises a clenched fist with the others at the end of
+       the Lance Murdock tribute announcement?
+   ... the family walking out behind Homer is doing so with identical
+       arm motions?
+   ... Mr. Burns is 104 and his mother is 122, so she was 18 when she
+       gave birth?
+   ... the entire time Homer is working as Burns' assistant, he always
+       wears a tie with his shirt, even at home?
+   ... Smithers' vacation site has no women at it?
+   ... Homer hits Burns with his right hand?
+   ... after Homer knocks Burns out, his babbling includes the words
+       "Let's Get Ready To" (but without "Rumble)?  See below.
+   ... Maggie eats dinner the second time with her hands?
+   ... Maggie reaches out at the fruit basket at the end?
+
+Mark Richey:
+   ... Mr. Burns now uses maces as weapons?
+   ... the fully stocked bar in the limo?
+   ... the ashtray beside the computer?
+   ... there is no fire damage in the office?
+   ... Homer knows that dodos are extinct?
+   ... the pineapples in Smithers' bag?
+   ... Homer takes Smithers' bet?
+
+Greg Franks:
+   ... the water cooler in Burns' office has both hot and cold taps?
+   ... Smithers' computer does not have a mouse?
+   ... while Homer is at Burns' house making breakfast and bathing
+       Burns he is wearing a long sleeved shirt?
+   ... Homer put a whole egg on the kabob stick?
+   ... OFF has two piggy backs on the bottom shelf of their curio
+       cabinet?
+
+Damian Penny:
+   ... Burns' kitchen seems to have nothing but ancient appliances, but
+       also has a microwave?
+   ... at home, Mr. Burns still uses a rotary-dial telephone?
+
+Dominik Halas:
+   ... Ms. Mellon leaving the speedway?
+   ... the ambulance at the speedway?
+   ... Mr. Burns almost runs over Jasper, who is about to mail a 
+       letter?
+   ... Maggie is eating with her hands?
+   ... Homer thinks Mr. Burns' first name is Montel?
+   ... Smithers knows the combination to Mr. Burns' wall safe?
+
+Veronica Marquez:
+   ... most of the signs in the Dragway are in Deco font?
+   ... Burns eats zwieback which is a dried-up, tasteless excuse for
+       bread?
+   ... Moe at first didn't recognize Bart as his crank caller in 8F09,
+       he thought it was Jimbo in 9F06, and now he thinks it's Burns?
+       (Is Moe deaf?)
+   ... Mother Burns has hair on her chin?
+   ... Burns calls his mother "Mater", German for "mother"?
+
+Frederic Briere:
+   ... the Corn Flakes box has absolutely no logo or picture on it?
+   ... Barney's life-time supply of Duff he won in 2F31 is just not
+       enough for him?
+
+=======================================================================
+> Cast
+=======================================================================
+
+>> Starring
+   - Dan Castellaneta (Homer, Barney)
+   - Julie Kavner (Marge)
+   - Nancy Cartwright (Bart)
+   - Yeardley Smith (Lisa)
+   - Hank Azaria (Moe, Chief Wiggum, beer shipment deliverer)
+   - Harry Shearer (announcer, Burns, Smithers, Lenny, Dr. Hibbert)
+
+>> Also Starring
+   - Tress MacNeille (Mother Burns)
+
+=======================================================================
+> Movie, Music, and other References
+=======================================================================
+	
++ King Cobra Malt Liquor {ddg}
+    - "King Pin Malt Liquor" on the race cars
+  "The Flintstones"
+   - "Mr. Johnson or Johnstone"
++ "Relax (Don't Do It)", by Frankie Goes to Hollywood {hl}
+    - an '80s dance tune playing when Smithers calls Burns the second
+      time
++ "Swimming with Sharks" {bc}  
+    - Burns throws pencils in Homer's face and yells at Homer like
+      Frank Whaley to Kevin Spacey
+  Billy Budd {dga}
+    - Homer punching Burns like Billy strikes Claggart
++ Michael Buffer, boxing ring announcer {ddg}
+    - Trademark "Let's get ready to rumble" said by Homer (see DYN)
+  "X-Men" {vm}, {vr}
+    - the scene of Smithers punching Homer and getting his hand stuck is
+      from comic X-Men where Cyclops punches the Blob and gets his hand
+      stuck, and Blob starts jabbing him.
+  "Terminator II: Judgement Day"
+    - others say the scene is from this movie, but I dissent.
++ "A Clockwork Orange"
+    - Burns falling out the window like Alex attempting to "snuff it"
+      in the film {jl}
+    - Burns in casts on a bed, awating peanuts from Smithers with
+      the mouth opening exactly like Alex in the film
+
+=======================================================================
+> Freeze Frame Fun
+=======================================================================
+
+>> Sponsors of some of the drag racers {bjr}
+
+      Amalgamated Pornography
+      Duff Beer
+      the FOX network {ddg}
+      Kingpin Malt Liquor
+      Laramie Cigarettes
+      Cop Stopper Exploding Bullets {ddg}
+
+>> Junior Jumble {bjr}
+
+      O  D  G
+
+      O
+      -  -  -
+
+      E  H  T
+
+	    O
+      -  -  -
+
+      T  I
+
+	 O
+      -  -
+
+      E  H
+
+      O
+      -  -
+
+
+      When you solve this (the solved words are DOG (or GOD {sjb}), 
+      THE, IT, and HE (duh)), the final jumble consists of D-E-T-H (or
+      G-E-T-H {sjb}), which doesn't form any common word.
+
+>> Some things Burns hits on his drive home {jh}
+
+      Stop sign
+      Fire hydrant
+      Full garbage can
+      Mailbox
+      Street Sign
+
+>> Movers
+
+    NEAT & TIDY
+    Piano Movers
+
+>> Technical Credits (if you care)
+
+    Overseas Animation: Anivision {ddg}
+    Assistant Director: Dominic Polcino {vm}
+    Animation Timers: Chris Loudon, Michael Polcino {vm}
+    Storyboard: John Rice, Martin Archer, Ted Mathot {vm}
+
+>> Miscellaneous FFF
+
+- License plate of the Airport shuttle: 600ZP {sjb}
+- Burns' office number is KL5-5246. {sjb}
+- When Smithers and Homer are fighting, Burns employs a loud noise,
+  water, and a stick to break them up (all used to separate dogs
+  fighting) {sjb}
+
+=======================================================================
+> Previous Episode References
+=======================================================================
+- A Clockwork Orange references:
+  - 7G05: Bart uses the adjectives "terrible, ghastly"
+  - 8F17: SLH being strapped by its body and eyes and forced to
+	  watch disturbing films while Burns drops things in his eyes
+  - 8F18: Bart says "I got a pain in me gulliver" to try to get out
+	  of going to school
+  - 9F04: Bart dresses up as the malchik Alex
+  - 9F14: the cupcake scene = the scene where Alex reaches for the
+	  woman's breasts
+  - 3F14: Burns falling out of window and requesting peanuts/steak
+	  with his mouth
+- [7G02] Ms. Mellon appears
+- [7G03] Someone attempts suicide {jl}
+- [7G04] Burns reads off of cue cards in an employee event {vm}
+- [7F02] Homer takes Smithers' job
+- [7F05] Employee night at a sports venue {dh2}
+- [7F05] Burns drinks Duff Beer {jh}
+- [7F05] "I'll wither and die!" {fb}
+- [7F06] Truckasaurus' announcer's voice is heard {fb}
+- [7F06] OFF visit Springfield Speedway {jh}
+- [7F06], [8F10], [9F11] Lance Murdock is mentioned
+- [7F09] Zoom-out with dramatic music as someone is laying unconscious
+  {fb}
+- [7F10] Burns drives his own car, hitting something/one along {fb}
+- [7F14] Bart tries to get someone to do his homework for him {fb}
+- [7F18], [1F16] Burns takes a bath/shower {fb}
+- [7F18] Burns enjoys kiddie sections in the newspaper {vm}
+- [7F23] A legitimate phone call to Moe {jl}
+- [7F21], [9F06] Buddy Hodges appears (see below)
+- [8F06] Bart makes fun at Homer's new job {fb}
+- [8F06] Homer misses sleep due to his new job {fb}
+- [8F09], [9F06] Moe can't recognize the voice of the prank caller {vm}
+- [8F12] A supercomputer is seen {vm}
+- [8F23] Barney is heard fighting outside Moe's {fb}
+- [9F01] Homer doesn't know what to do in case of fire {dh2}
+- [9F15] Smithers reminds Burns of Homer's involvement in his life {fb}
+- [9F17] Burns tries to pull the plug on someone {fb}
+- [9F18] Homer's giant orange cowboy hat {ddg}
+- [1F01], [2F16] Bobo appears {jh}
+- [1F01] Burns' mother is seen {fb}
+- [1F02] Burns can afford to sleep on his post {fb}
+- [1F04] Burns associated with Dracula {sjb}
+- [1F10] Homer wearing a big goofy cowboy hat {hl}
+- [1F12] Smithers' outside-of-work attire is seen {vm}
+- [1F16] A lot of things splatter on the windshield
+- [1F21] Burns has German relatives {vm}
+- [2F08] Smithers attends a gay bar like Homer in a lesbian bar {jh}
+- [2F08] "Here comes the airplane" {fb}
+- [2F09] Burns gets hit in the face
+- [2F16] Burns' age said to be 104 {jl}
+- [2F16] Smithers is fired
+- [2F20] Burns gets involved in racing {fb}
+- [3F04] Lard Lad Donuts is seen
+- [3F04] Homer gets hit in the butt by a cone {fb}
+- [3F06] Wiggum calls Burns "Mr. B"
+- [3F06], [3F11] Anachronistic Burns (cf. the Postum [see below]) {jl}
+- [3F11] Burns: "I pickled the figs myself", cf. "I smashed the beans
+  myself".
+
+=======================================================================
+> Animation, Continuity, and other Goofs
+=======================================================================
+
+* In one of the drag races, the "Pre-Staged" and "Staged" lights are 
+  lit before the dragsters are lined up; the "Staged" lights only light
+  up when the dragsters' front ends touch a light beam so they can be
+  lined up exactly 1/4 mile form the finish.  {ddg}
+
++ Burns didn't drink out of a spoon in 7F05, when he chugged down
+  a tub of Duff with Homer at the baseball game.  {bjr}
+
+c When Smithers was telling the race drivers to "keep it in first gear"
+  the caption read "no audio".
+
++ Burns has already tried beer in 7F05, gotten drunk in 7F01, and
+  shown his knowledge of ether in both 8F02 and 3F10.  {fb}
+
+= The mace is not on the hook when Lenny scares Burns.  {fb}
+
++ If Burns doesn't know how to use a phone (which I'm pretty sure he's
+  used before, too) how come he has one in his limo?  {mar}
+
+* There is no connection between the monitor and the CPU on Smithers'
+  computer.  {ddg}
+
+c Smithers says "He's in an important meeting and can't be disturbed",
+  but the CC says "interrupted" instead of "disturbed".
+
+= Most of the fire disappears without a trace between acts.  {dh2}
+
++ Burns wants a dodo egg, but he used the phrase "dead as a dodo" in
+  7G04.  {jl}
+
+* Burns shouldn't have been able to talk legibly when he didn't have
+  any of his dentures in his mouth. {ddg}
+
+= When Homer gets up to cook Burns' breakfast, Marge's gown changes
+  from yellow (making it look as though she's gone gownless that
+  night) to light purple.  {bjr}
+
+- When Marge woke up at 4:30, the bottom of her eyes were green.  {ddg}
+
+- When Marge fell back asleep, her lips turned green for a moment when
+  you could see her teeth.  {ddg}
+
++ Homer knows how to use a microwave.  {mar}
+
+- Maggie's head is blue in the living room picture.  {dp}
+
+- When Burns throws the book at Homer, it first hits Homer just above
+  his right eye, but then continues forward and hits him in the back of
+  the head.  {ddg}
+
+c The captions simply say "( yelling )" when Burns says "You're a
+  travesty of a troke of an assistant!"
+
++ Burns being 104 is consistent with 2F16, but not with 7F02 where
+  he said he was 81.
+
+= Mr. Burns pulls his hand back when he sees Homer in the mirror, but
+  in the next shot, the mirror is instanteously back outside the door.
+  {dh2}
+
++ There shouldn't be any kind of table in front of the door from
+  which Mr. Burns could pull a coffee pot.  {dh2}
+
++ Moe's Tavern's phone number was 555-1236 in 7F15.
+
+- Moe's bar is unusually un-"dank" when Burns calls.
+
++ Monty Burns already knows how to drive!  See 7F01, 7F10, 3F11.  {bjr}
+
+= The paper shredder disappears.  {dh2}
+
++ Lisa is seen eating meat at both dinners. {ddg}
+
+* The shape of the corner pockets on the pool table at Moe's make it
+  impossible for any balls to fall in.  {ddg}
+
++ If I'm not mistaken, this was the first episode featuring Burns'
+  mother (in the present).  If he moved in with a grisled, heartless
+  billionaire, why would he still have contact with his birth mother?
+  (If it was his foster mother, explain the remarkable resemblance!)
+  {js}
+
+= Mr. Burns' phone is at first beside his blotter, then partly atop it,
+  then in the middle of the blotter.  {dh2}
+
+= When Smithers hits Homer with the phone, it's black, but it's blue
+  in all other scenes.  {dh2}
+
++ In all other episodes, the stuffed polar bear is a good distance from
+  the window; not nearly close enough to the window for it to fall
+  through it if it were tipped over.  {jl}
+
+= The polar bear isn't near the window in all shots except for the ones
+  where Burns climbs upon it.
+
++ In 1F01, Bobo was all moldy and worn-out; unless he was somehow
+  restored, he miraculously looks much cleaner now.  {jh}
+
+c Burns says "I'm completely self-reliant now" but the CC says "self-
+  sufficient" instead of "self-reliant".
+
+=======================================================================
+> Comments and other observations
+=======================================================================
+
+>> Postum, the Breakfast Drink of Champions
+
+Jose Lafaurie remarks, "Burns has got to be old... Postum is a coffee
+    substitute invented by Charles W. Post (of Post Cereals) in 1896.
+    He promoted it as the healthier substitute to coffee, and even
+    offered cash prices to people who were able to switch their
+    friends to Postum.  He also stayed at the Battle Creek Sanitarium,
+    run by John H. Kellogg, and published a pamphlet entitled `The
+    Road to Wellville' which showed how to stay healthy by using
+    his products.  Incidentally, a (very bad) movie was made out of
+    Kellogg's health spa in a movie named after that pamphlet.  I'm
+    unsure if they still sell Postum now."
+
+>> "Lying to congress" (So what else is new?)
+
+Haynes Lee says it refers to "last year when around a dozen tobacco
+    representatives told Congress bear-faced that they do not believe
+    that smoking causes cancer."
+
+>> Lady Burns' Lover
+
+From Benjamin Robinson:  "President Taft succeeded Theodore Roosevelt
+    in office during the early 1900's, so Mr. Burns' mom would indeed
+    have to be very old today.  Of course, she could have had her
+    affair with the former President during Taft's post-Presidential
+    tenure on the Supreme Court, which would have made her a little
+    younger."  Mark Richey adds that Taft was our largest president,
+    weighing in at over 300 pounds.
+
+>> President References (This is time I could be working...)
+
+Dominik Halas says, "The shocking revelation of Mrs. Burns' affair
+    makes Taft the (AFAIK) 25th President to be somehow referenced on
+    the Simpsons.  As yet unreferenced are John Adams, James Madison,
+    James Monroe, John Quincy Adams, Martin Van Buren, James K. Polk,
+    Franklin Pierce, James Buchanan, Andrew Johnson, Ulysses S. Grant,
+    James A. Garfield, Benjamin Harrison, Warren G. Harding,
+    Calvin Coolidge, Herbert Hoover, and Harry S Truman."
+
+>> Smithers and His, ah, Musical Preferences
+
+Benjamin Robinson observes, "Boy, the writers must _really_ be getting
+    tired of the `Is Smithers Gay?' thread.  Not only does Smithers
+    call Burns from an obviously gay disco, but the song in the
+    background is `Relax', from Frankie Goes to Hollywood.  One song
+    obviously cannot be used to prove or disprove homosexuality
+    (especially since this one was a big hit with the general public),
+    but `Relax' has been closely associated with the gay community.
+    The first video of this song supposedly showed a trip to some sort
+    of gay leather bar.  This was promptly banned on British TV, and
+    if they ever showed this version of the video in America, then I
+    missed it."  The modified video showed Frankie Goes to Hollywood
+    in a black stage with lots of lights.
+
+Haynes Lee adds, "That song was used in the slightly more tasteful
+    movie `Body Double' starring Melanie Griffith. It was the back-
+    ground music of a love scene shot during a porn movie."
+
+>> Burns' age (Perhaps we should cut him in half and count the rings)
+
+Benjamin Robinson observes, "Mr. Burns is said (again) to be 104 years
+    old.  No doubt many people will count this as a goof, since in an
+    earlier episode (7F02) Burns said he was 81.  I'm inclined to
+    believe the 104-year age, however.  Most of Burns' cultural
+    references, even before the recent spate of `archaic Burns' jokes
+    [which continue, see above --ed], seem to be from the turn of the
+    century.  Furthermore, Burns is easily enough of an egomaniac
+    to blithely shave two decades off his age.  I think Skinner just
+    stumbled across the correct age somewhere (permanent records,
+    maybe?) and let the rest of the world in on the secret."
+
+>> Anchors aweigh to "Ahoy, hoy!"
+
+This was an old greeting used on the phone.  Benjamin Robinson says,
+    "When the phone was first coming into popular use, a problem
+    arose:  What to say when you answer it?  Several alternatives
+    were suggested, and one of them was `Ahoy!'  It looks as though
+    Burns stuck with that, even as the rest of the world had moved
+    on to `This had better be good' [or `What?!' --ed]."  Jason
+    Hancock further adds that according to Cecil Adams' book "More
+    of the Straight Dope" (1988) it was common to say this when
+    answering the phone and was replaced by "Hello" as the time
+    progressed.  Greg Franks adds that Alexander Graham Bell said
+    this was the proper way to answer the phone.
+
+>> Is Mother Burns the oldest woman in the world?
+
+Jason Hancock and Mark Richey say "yes".  Jason Hancock: "The oldest
+    living person in the world, Jeanne Calmert of Arles, France,
+    celebrated her 121st birthday on February 21, 1996.  According to
+    an Associated Press story dated February 22, `the Guiness Book of
+    World Records lists Calmert as the oldest living person whose birth
+    date can be authenticated by reliable records.'  If Mrs. Burns is
+    indeed 122, as Smithers said she was, then she would be the oldest
+    person in the world -- given that she has the sources to back it
+    up."  She also smokes, BTW.  Maybe there is something in this
+    moderation thing... (kidding!)
+
+Haynes Lee says "no".  He reports that there exists a 124-year-old
+    person, though he doesn't say whom.
+
+>> Buddy Hodges: The Mystery Revealed
+
+Buddy Hodges being gay was alluded to in 7F21, ``Three Men and a Comic
+    Book'', where he cries because Dirk Richter was a "wonderful man".
+    Someone looking just like him (with a tan; maybe he spent time in
+    that resort before) appears in 9F06 as the salesperson of the
+    Winfield estate.  As I see it, many fleeting celebrities,
+    especially the one-hit wonders, later take on some inane job.
+    Buddy Hodges probably became a salesperson.
+
+=======================================================================
+> Reviews
+=======================================================================
+
+Dale G. Abersold - After a poor first act, this gave me the biggest
+    laughs I have had since the fifth season.  Personal biggest laughs:
+    Lisa admonishing Bart for taking advantage of Homer, which she
+    then tries herself; and the fight scene between Homer and Smithers.
+    Hysterical!  Grade: A (A+ if the first act were better)
+
+Frederic Briere - Finally!  Among the last 7 episodes, this was the
+    first to really make me laugh; not at the top of my lungs, mind
+    you, but it came without any effort.  Even if satire was nearly
+    absent, there were some great lines of meta-humor which made this
+    episode quite entertaining.  Grade: B.
+
+Scott Burgmeyer - Grade: A.  This episode was great... I loved the
+    phone messages about the car ("You have 30 minutes to move your
+    car...") The show had many hidden plots (i.e. Smithers at a
+    gay resort?  etc.)  This was a great show.
+
+Anthony Dean - Overall, I thought this was a fairly good episode.  The
+    scene with Homer punching Mr. Burns during one of Burns' critical
+    tirades was great!  I would give this episode a B+.
+
+Don Del Grande - B-plus - definitely the best of the February Sweeps
+    episodes, although the ending could have been better (although I
+    can't think up a decent ending for this story)
+
+Dominik Halas - This episode was a great disappointment.  Homer,
+    unfortunately, returned to complete idiocy, and Mr. Burns was at
+    times simply pathetic.  Very few of the jokes were actually funny,
+    and somehow, the whole structure of the episode felt off.  Grade:
+    D.
+
+Jason Hancock - WOW!  For the first time since 3F10, I can say that
+    I liked this episode!  Barney's gag at Moe's had me laughing for
+    the first time since Bart's round of Lee Carvallo's Putting
+    Challenge.  There were other good gags too, including Burns'
+    "prank" call to Moe's and the references that sohuld answer the
+    "Is Smithers gay?" question once and for all.  Grade: A
+
+Jeff Langr - All in all, not a great episode.  But I loved the
+    Clockwork Orange bit at the end with Burns smacking away for more
+    food.  Also for all the homocurious out there I would think the all
+    male conga line answers the question.  Enough already.  B-
+
+Haynes Lee - A typical you-can't-flop-with-Homer episode.  It was nice
+    to see Smithers and Burns back.  However the phone prank scene
+    fell flat.  Grade: A
+
+Holly Loth - Ok, what's the story?  Tonight's episode sucked.  I think
+    I laughed out loud maybe twice, and even then it wasn't what I'd
+    call a guffaw.  And I've been noticing a distinct new trend in
+    this direction this season (with a few exceptions).
+
+Veronica Marquez - Been there, done that.  Not funny at all, except
+    for that Clockwork Orange reference, but we had to wait to the end
+    for that.  It Stunk Like Limburger.  D-.
+
+John Murray - Grade: A-  What ever happened to the sub-plots?  This
+    episode would be great if it had a sub-plot that was just as great
+    as the main one.  But still a great episode.  Overall lots of
+    really funny lines.  Anything Mr. Burns does is funny and they were
+    able to use this without abusing it.  A good sub-plot would allow
+    for some characters to be added, but this episode didn't really
+    need it, especially compared some other ones this season.
+
+Damian Penny - After a couple of subpar episodes, I was glad to see
+    this one - just the thought of Mr. Burns trying to fend for himself
+    without Smithers is funny, and it was made even better by Homer's
+    total ineptitude as his new assistant.  Best of all, though, were
+    the scenes of Smithers' vacation, which should FINALLY clear up the
+    "homosexual v. Burns-sexual" flame wars once and for all!  Plus,
+    the return of Bobo!  Grade: A-
+
+Mark Richey - I don't know what it was about this episode.  Maybe it
+    was the obvious plot recycling.  Maybe it was because Homer was
+    dumber than usual.  But this episode just sat there.  It wasn't 
+    really bad, it wasn't really good.  It was just there.  A few
+    amusing things, a lot of dumb stuff.  I hope it gets better next
+    week.  Grade: C.
+
+Dan Ryazansky - Wow!  Finally, a great episode!  One of the best ever,
+    IMHO.  Homer punching Burns was hilarious and one of the best
+    scenes ever!  And Burns has a mother who is alive!  And Smithers
+    IS gay!  (Is there any doubt now?)  Excellent!  Excellent!
+    Excellent!  A+
+
+Jim Smith - Another great episode.  It seemed more like sixth season
+    stuff (which I regard as the most consistent, not necessarily best)
+    that the rest from 1996.  It was on the level with "Marge Be Not
+    Proud", "King-Size Homer", and "Mother Simpson".  Grade: A+
+
+Yours Truly - The first act was a little off, but the episode slowly
+    regained itself and became one of the all-time great Burns
+    episodes for me.  Especially the "Clockwork Orange" reference
+    that I've been dying to see.  I give this episode an A-.
+
+AVERAGE GRADE: B/B+ (3.22)
+
+=======================================================================
+> Quotes and Scene Summary {fb}
+=======================================================================
+% It seems that Mr. Burns is holding yet another employees-wife-and-no-
+% more-than-three-children night, this time at the Springfield Dragway.
+
+Smithers: [on mike] Testing, testing for Mr. Burns.
+	  [to Burns] Here you go, sir, I've warmed up the crowd for
+	  you.
+   Burns: [in a wooden voice] Welcome employees. Come in!
+	   [Smithers holds him a card]
+	  The whole night's entertainment is on me.
+	   [takes another card] Monty Burns!
+	  [all cheer]
+-- Burns' moving speech, "Homer the Smithers"
+
+% Everybody takes their seats, Homer wearing a huge foam hat.
+
+Announcer: Welcome, welcome, welcome to an evening of exciting
+	   quarter-mile action, action, action! Our first race is a
+	   benefit for daredevil Lance Murdoch, Murdoch, Murdoch, who's
+	   hospitalized with cirrhosis of the liver, liver, liver!
+	    [crowd cheers]
+    Homer: All right! Liver!
+-- Ask the connoisseur, "Homer the Smithers"
+
+% Two hot rods take place on the starting line.  Marge admires the 
+% hot rods and asks the kids, "Boy, it sure would be fun to car-pool
+% in one of those, huh kids?  I'd be a real hot rod mama, wouldn't I?
+% Huh?"  Bart responds with "You missed the race, mama."  Marge watches
+% the cars cross the finish line. "Mmm, I wish I'd pay more attention."
+
+% Meanwhile, Smithers is giving Burns a teaspoon of Duff.
+
+   Burns: Smithers, this beer isn't working. I don't feel any younger
+	  or funkier.
+Smithers: I'll switch to the tablespoon, sir.
+-- As long as the bubbles don't burn your tongue, "Homer the Smithers"
+
+Announcer: Coming up next, our feature race: the Nuclear Power Plant
+	   Championship. Plant plant!
+    Burns: Ah, at last. Smithers, fetch the bi-oculars.
+	    [watches the 2-second race]
+    Burns: Oh, damnation, tell them to go slower!
+ Smithers: Yes sir.
+	    [meets the drivers]
+	   Hi guys. Uh, can we keep it in first gear for a couple laps?
+	    [they take off again, at an awfully low speed]
+    Burns: [excited] Go! Go!
+	   [mean] Slow down.
+	    [the two drivers reluctantly look at each other, but do so]
+	    [after crossing the line, they release their parachutes,
+	     which don't even open]
+    Burns: Excellent.
+-- After all, I paid for this, "Homer the Smithers"
+
+% The night is over and everyone walks away. Smithers is about to drive
+% Burns home, but is asked to change his #1 "novelty foam hand" for a
+% smaller one, as it is "ludicrously oversized".
+%
+% As Smithers goes away, Lenny happens to walk by and decides to thank
+% his boss.
+
+   Lenny: [drunk] Eh, Burnsie. This was some swell shindig. Thank you
+	  very much!
+   Burns: [frightened] Smithers, what's happening?
+   Lenny: [even drunker] I had a great time. I just want to shake your
+	  hand.
+	   [Terrorized, Burns rolls up the window]
+	  [his face stuck on the window] You're the greatest!
+   Burns: Smithers, help!
+-- The dangers of holding employees nights, "Homer the Smithers"
+
+% Smithers comes back to save Burns and escorts Lenny away, but cannot
+% prevent him from turning back and giving a thumbs up to his boss. A
+% frightening view.
+%
+% Along on the road, Burns comes out from under the seat.
+
+   Burns: You should've seen the murderous glint in his eyes, Smithers.
+	  And his breath reeked of beer and pretzeled bread.
+Smithers: I'm so sorry, Mr. Burns. This was all my fault.
+   Burns: Don't concern yourself. If things had turned ugly, I always
+	  had my mace.
+Smithers: Don't let me off the hook that easily, sir. I failed you and
+	  I'll never forgive myself.
+	  [bangs his head on the steering wheel] Never, never, never...
+	   [Burns rolls up the window between himself and Smithers]
+	  [muffled] Never, never, never...
+	   [phone ringing]
+	  [on phone] Never, never, never!
+-- Loyal and persistent, "Homer the Smithers"
+
+% The next morning, at Burns' office.
+
+Smithers: Good morning, sir! To make up for my failure last night, I
+	  alphabetized your breakfast; you can start with the waffles
+	  and work your way up to the zwieback. And, to prevent
+	  newsprint from rubbing off on your hands, I've laminated
+	  today's newspaper.
+   Burns: I appreciate the thought, but my pen won't write on this. How
+	  am I supposed to do the Junior Jumble?
+Smithers: Oh, I can't even grovel properly! I'm a buffoon! I don't
+	  deserve to live on your planet anymore!
+-- By all means necessary, "Homer the Smithers"
+
+% He swipes the head off the water fountain and proceeds to try to
+% drown himself. Fortunately for him, Burns drains all the water by
+% holding down the cold water button.
+
+   Burns: Pull yourself together, man. I daresay you're in need of a
+	  long vacation.
+Smithers: No! Don't make me take a vacation! Without you I'll wither
+	  and die!
+   Burns: That's a risk I'm willing to take.
+-- Nothing can stop him, "Homer the Smithers"
+
+Smithers: But what would you do without me, sir?
+   Burns: Thuh! I'm not a baby who needs a nursemaid to burp me.
+	  [burps] You see?
+-- You made your point, "Homer the Smithers"
+
+Burns: Now, I insist that you take a vacation, just as soon as a
+       temporary substitute can be found.
+	[leads Smithers to the door and closes it]
+       [from behind the door] Sheesh.
+-- Smithers is overworked, "Homer the Smithers"
+
+% That night, Smithers stays late at his office, busy working on his
+% computer.
+
+Smithers: I've got to find a replacement that won't outshine me.
+	  Perhaps if I searched the employee evaluations for the word
+	  [types] "Incompetent"...
+	   [computer reports: 714 matches found]
+	  714 names? Better be more specific. [keeps typing] "lazy",
+	  "clumsy", "dim-witted", "monstrously ugly"
+	   [computer searches, then reports: 714 matches found]
+	  Oh, nuts to this! I'll just go get Homer Simpson.
+-- His reputation precedes him, "Homer the Smithers"
+
+% At home, OFF is shoving down their food as usual...
+
+I think Smithers picked _me_ because of my motivational skills.
+Everyone always says they have to work a lot harder when I'm around.
+-- Homer, Employee of the month, "Homer the Smithers"
+
+ Lisa: You know Dad, assisting Mr. Burns could give your career a real
+       shot in the arm.
+Marge: [comes in, holding a bowl] You know Homer, assisting Mr. Burns
+       could give your career a real shot in the arm.
+ Lisa: Mom, I just said that.
+Marge: [sarcastically] Soooorry! Next time get your own darn corn.
+-- Broken Record time, "Homer the Smithers"
+
+% The next day, at SNPP, Homer is getting used to Smithers' office.
+
+   Homer: Um, is this the chair I'll be sitting on?
+Smithers: Yeah.
+	   [Homer plays with the chair]
+	  Now, I realize caring for Mr. Burns seems like a big job,
+	  but... actually it's just 2,800 small jobs.
+   Homer: Uh huh. But this _is_ the chair, right?
+Smithers: Your new duties will include: answering Mr. Burns' phone,
+	  preparing his tax return, moistening his eyeballs, assisting
+	  with his chewing and swallowing, lying to Congress, and some
+	  light typing.
+-- Typing? My whole plan down the--, "Homer the Smithers"
+
+% The phone rings...
+
+Smithers: [answering] Montgomery Burns' office. Oh, hello Mrs. Burns.
+	  I'll see if your son is available.
+   Homer: Mr. Burns has a mother? She must a hundred million years old!
+Smithers: She has limited capacities. All she can do is dial and yell.
+-- Does she watch `Matlock'?, "Homer the Smithers"
+
+Smithers: I'm sorry, Monty can't come to the phone right now. He's in a
+	  very important meeting and can't be disturbed.
+	   [shot of Burns trying to avoid falling asleep]
+-- A rested plant owner is a vigilant plant owner, "Homer the Smithers"          
+	  
+Smithers: Mr. Burns can't stand talking to his mother. He never forgave
+	  her for having that affair with president Taft.
+   Homer: [chuckles] Taft, you old dog.
+-- "Homer the Smithers"
+
+% Smithers is brushing Burns' teeth.
+
+   Burns: [spits] Really Smithers, I'll be fine. I'm sure your
+	  replacement will be able to handle everything. Who is he,
+	  anyway?
+Smithers: Uh, Homer Simpson, sir. One of your organ banks from sector
+	  7-G. All the recent events of your life have revolved around
+	  him in some way.
+   Burns: Simpson, eh?
+-- Rings a bell?, "Homer the Smithers"
+
+% Smithers is packing his luggage in the airport van.
+
+   Homer: [yelling from his window] Uh, Mr. Smithers? I don't
+	  understand 2,700 of my new duties.
+Smithers: Well, the van's leaving; which one duty is giving you the
+	  most trouble?
+   Homer: Um... what do I do in case of fire?
+Smithers: [muffled from inside the van] Sorry, can't hear you. Bye!
+	   [the van leaves]
+   Homer: [sits, then looks at Mr. Burns' office burning down]
+	  Aw, just my luck.
+-- When the fire starts to burn..., "Homer the Smithers"
+
+% [End of Act One.  Time: 6'19"]
+%
+% Homer manages to get a hold on a fire extinguisher and put out the
+% fire.
+
+Burns: [gasps at his sight] Good Lord, Smithers, you look atrocious. I
+       thought I told you to take a vacation.
+Homer: Uh, Smithers already left, sir. I'm his replacement, Homer
+       Simpson.
+Burns: Ah yes, Simpson.
+-- Well, they both have four fingers, "Homer the Smithers"
+
+Burns: I'll have my lunch now. A single pillow of Shredded Wheat, some
+       steamed toast, and a dodo egg.
+Homer: But I think the dodo went extinct...
+Burns: Get going! And answer those phones, install the computer system,
+       and rotate my office so the window faces the hills.
+Homer: [taking notes] Uh huh. Uh huh. Okay. Um, can you repeat the part
+       of the stuff where you said all about the... things. Uh... the
+       things?
+	[Burns looks at him meanly]
+-- Efficiency at its best, "Homer the Smithers"
+
+% Next morning, Homer wakes up at 4:30, and tries to put on his pants.
+% Fitting his left leg into the pants' right leg poses no problem, but
+% the absence of any possible way of reaching his goal from this very
+% situation engenders a paradox too complex for his neural activity at
+% this hour.
+
+Lousy two-legged pants.
+-- Homer's deep reflexions at 4:30, "Homer the Smithers"
+
+Marge: Homie, it's 4:30 in the morning. Little Rascals isn't until 6.
+Homer: I know, I'm taping it. I want to get to Burns' house bright and 
+       early to make his breakfast.
+Marge: Hmm, poor Homie. Poor, poor... [snores]
+-- How compassionate, "Homer the Smithers"
+
+% Homer walks in Burns' kitchen, and is lost by the diversity and
+% complexity of all the equipment. "Hmm... one of these must be a
+% breakfast maker," he wonders. Homer gets into the spirit: "Well, it's
+% my job to cook him breakfast, and I'm gonna cook the best damn
+% breakfast he ever ate." He tries to cook a shish kebab on the burner,
+% but is puzzled when the whole thing ends up in flames. As his next
+% attempt, he breaks the window of the microwave door, and inserts
+% another shish kebab. The waves going through his arm don't seem to
+% affect him, but this time it's the microwave which is burning. As a
+% last resort, he pours some Corn Flakes and milk in a bowl, and gets
+% annoyed when this breakfast ends up in the same way as his previous
+% attempts.
+%
+% He finally comes up with a solution.
+
+Doughnuts? I told you I don't like ethnic food!
+-- Mr. Burns, commenting on Homer's breakfast, "Homer the Smithers"
+
+Burns: Here, tell me how my stocks did yesterday.
+Homer: Uh... they all won.
+Burns: What about my options?
+Homer: Well, you can either get up or go back to sleep.
+Burns: I believe I'll get up.
+-- Still needs to study `Advanced Marketing', "Homer the Smithers"
+
+% Comes bath time...
+
+Burns: Scrub harder. Got to get that layer of dead skin off.
+Homer: [groans]
+-- Burns' personal hygiene, "Homer the Smithers"
+
+% Then it's denture-choosing time: "I think... the fangs today." Homer
+% inserts the fanged denture, and Burns' jaw hangs in the air until
+% Homer pushes it up.
+%
+% Later that day...
+
+Burns: [from his office] Simpson? Simpson?
+	[walks into Smithers' office]
+       Did you get that report on the accounting department?
+Homer: Yes sir, I did.
+       [reads] "The accounting department is located on the 3rd floor.
+       Its hours are 9am to 5pm. The head of this department is a Mr.
+       Johnson or Johnstone."
+-- `My report', by Homer Simpson, "Homer the Smithers"
+
+% Yet a little later...
+
+Homer: Here are your messages:
+       "You have 30 minutes to move your car",
+       "You have 10 minutes",
+       "Your car has been impounded",
+       "Your car has been crushed into a cube",
+       "You have 30 minutes to move your cube".
+	[phone ringing]
+Homer: [answers] Yello, Mr. Burns' office.
+Burns: Is it about my cube?
+-- More of a Frinkahedron, "Homer the Smithers"
+
+   Homer: It's Mr. Smithers, he's calling for you.
+Smithers: [on a beach] How's everything going there, sir? Well, I have
+	  a lot of... free time on my hands. If you FedEx me your mail
+	  I'd be happy to open it and return it to you.
+   Burns: Everything's fine, Smithers. But this Simpson fellow seems to
+	  be getting dumber by the minute, I've never seen anything
+	  quite like it. Anywho, you just enjoy your vacation.
+   Homer: [moans]
+-- Nothing like being appreciated at work, "Homer the Smithers"
+
+% That night at home, Homer can't keep his eyes open.
+
+Homer: [snores]
+ Bart: Look alive, Simpson, I'm not paying you to goldbrick.
+Homer: [wakes up] Uh... Yes sir.
+ Bart: Now get cracking on my long division, and don't forget to show
+       your work, Simpson.
+Homer: I'll have it on your desk tomorrow morning, sir.
+ Lisa: Bart, leave Simpson alone! [whispering to Homer] Simpson, I need
+       a ride to the library.
+Homer: Yes sir.
+Marge: Kids, stop exploiting your father. Homie, why don't you lie down
+       and relax?
+Homer: No time, Marge. I thing Mr. Burns wants me to do some long
+       division.
+Marge: [authoritatively] Simpson, lie down!
+	[Homer does so]
+       Sorry, but you need a good night's rest.
+-- More obedient than the dog, "Homer the Smithers"
+
+% As Homer sighs in relief and enjoys his rest, a loud bell can be
+% heard, with Burns yelling "Simpson!".
+%
+% Homer rushes in Burns' manor, where Burns is ringing a tiny bell in a
+% giant megaphone.
+
+   Burns: The telephone has been ringing for some time.
+	  [severely] Answer it.
+   Homer: [answers] Yello.
+	  [to Burns] It's for you.
+Smithers: [on a public phone] Mr. Burns, 48 rings, are you all right?
+	  What did Simpson do to you?
+   Burns: Nothing other than drive me to distraction with his
+	  incompetent boobery. Terrible at everything, a complete
+	  moron!
+	   [Homer is still holding the phone]
+	  But I'm not really free to talk right now.
+	  Look, stop calling me and enjoy your vacation. And remember,
+	  I want to see lots of pictures when you get back.
+Smithers:  [obviously calling from a "men only" bar]
+	  Uh, actually sir, picture-taking is not allowed at this...
+	  particular resort.
+	   [a conga line of men forms behind him]
+	  Oop, I gotta go now, there's a line forming behind me.
+	   [joins in]
+-- Nah, it can't be what it seems, "Homer the Smithers"
+
+% Homer reluctantly walks into another typical day in the life of 
+% Burns' assistant.  Burns turns on his desk lamp and is blinded.
+% "60 watts! What do you think this is, a tanning salon?", he yells.
+
+% At night, in bed, Burns' nightcap is solidified into a cone, thanks 
+% to Homer forgetting to use light starch, and Burns yells while
+% poking Homer with it.
+
+% He just never can be satisfied...
+
+Burns:  [throws his glass at Homer]
+       You call this Postum?
+	[bashes a 5-feet high pile of paper]
+Burns: You call this a tax return?
+	[bangs a CRAY with his cane]
+Burns: You call this a supercomputer?
+-- Our referee in the Win 95 vs. OS/2 struggle, "Homer the Smithers"
+
+% Burns keeps yelling and throwing things at Homer, who can stands no
+% more; after a long yell of despair, he smashes his fist in Burns'
+% face, sending him to the floor. Realizing what he's done, he whimpers
+% in fear before he runs off home, shuts the door and sits against it.
+
+Marge: Is there something wrong, Homie?
+Homer: No.
+Marge: Except?
+Homer: Except... I killed Mr. Burns!
+-- Just asking, "Homer the Smithers"
+
+ Lisa: What happened, Dad?
+Homer: I punched Burns right in his 104-year-old face.
+ Lisa: Are you sure he's dead? Maybe you just really really hurt him.
+Marge: Okay, maybe everything's all right, maybe if you go apologize he
+       won't even fire you. If he's alive.
+-- That's what the `better hospitals' are for, "Homer the Smithers"
+
+% Homer knocks on the door at Burns' office, but gets no response. It
+% seems to be empty, yet some rapsy breathing can be heard. After
+% looking around, Homer pokes behind a plant, and sees Burns hiding.
+% Both gasp at each other's sight.
+
+Homer: I'm really sorry I hit you Mr. Burns. Here, let me put some salt
+       on that eye.
+Burns: [frightened] No, please, I can't bear another trashing. Just
+       leave me be!
+Homer: Yes sir...
+	[walks away]
+Burns: Must call Smithers, he'll protect me from this beast.
+	[looks at his phone]
+       I've seen people activate this machine a thousand times. Doesn't
+       seem to be any trick to it. Let's see, Smithers...
+       S-M-I-T-H-E-R-S. Success, it's ringing!
+  Moe: Moe's tavern.
+Burns: I'm looking for a Mr. Smithers, first name Waylon.
+  Moe: Oh... So you're looking for a Mr. Smithers, eh? First name
+       Waylon is it? Listen to me, you! When I catch you, I'm gonna
+       pull out your eyes, and shove 'em down your pants, so you can
+       watch kick the crap outta you, okay? Then I'm gonna use your
+       tongue to paint my boat!
+-- The hunter has become the hunted, "Homer the Smithers"
+
+% Burns puts the receiver in a drawer, locks it, and sits back behind
+% the plant.  He bemoans his fate.  "Oh, Smithers, if you could only
+% hear me..."  Back at the resort, Smithers senses these words and
+% stops driving his boat, sending a pyramid of water-skiing men into
+% it.
+
+% Burns slides a mirror under the door to monitor the enemy...
+
+Burns: Praise God. I think the thug has finally gone home for the day.
+       Now, I can make my escape...
+Homer: [shows into the mirror] Hi, Mr. Burns! You want your coffee now?
+Burns: Uh, no. I'm making it myself!
+	[takes a coffeepot, rattles it]
+       Hear that? The percolations are imminent. No need to come in.
+       Uh... cease your ingress!
+-- Whatever that means it ain't good, "Homer the Smithers"
+
+% Homer walks in later, to see Burns surrounded by coffee, sacks and
+% beans spilled almost everywhere.
+
+Burns: Stay back Homer, approach no further, coffee's already made. I
+       stomped the beans myself.
+Homer: Uh, well, can I at least drive you home, Mr. Burns? It's 5:00.
+Burns: No! I thought, uh, I thought I'd chauffeur myself this evening.
+       Yes, that's what I thought. How difficult could it be? I'm sure
+       the manual will indicate which lever is the velocitator and
+       which the deceleratrix, hmm?
+-- Yeah, somewhere on the back, "Homer the Smithers"
+
+% Behind the steering wheel, Burns drives recklessly while slowly
+% learning that he enjoys doing things for himself, wrecking several
+% things and nearly crashing into Chief Wiggum, who congratulates Burns
+% on his reckless driving.
+
+% The next day at the office, it's a new Mr. Burns who shows up.
+
+Homer: Would you like me to shred those environmental reports for you,
+       sir?
+Burns: Already taken care of.
+	[shreds the reports and throw them out the window]
+Burns: [chuckles] Capucino, Simpson?
+	[phone ringing]
+       [answers] Ahoy-hoy? No, you have the wrong number. This is
+       4-2-*4*-6. I suspect you need more practice working your
+       telephone machine. Not at all. Ahoy!
+Homer: Uh, Mr. Burns, is there anything at all I can do for you?
+Burns: No, Homer, you've already done more for me than any man. Your
+       brutal attack forced me to fend for myself. I realize now that
+       being waited on hand and foot is OK for your average Joe, but
+       it's not for me.
+-- But at least you can afford it, "Homer the Smithers"
+
+% Smithers comes just in time to see Burns hugging and thanking Homer.
+
+Smithers: Oh my God! I knew I shouldn't have left...
+   Burns: Ah, welcome back Smithers. Say, do you know Homer Simpson, he
+	  pitched in around the office while you were away. Bang-up
+	  job, Simpson, but I guess it's back to your trusty post in
+	  sector 7-G.
+Smithers: [sighs in relief] You heard the man, Simpson.
+   Burns: Ah, and my dear dear Smithers. You're no longer needed at
+	  all.
+	  You're fired. Ta!
+   Homer: [to Smithers] *You* shouldn't have gone away in vacation.
+-- Then who'll release the hounds?, "Homer the Smithers"
+
+% [End of Act Two.  Time: 15'41"]
+%
+% At home, OFF is yet again chomping that so-called food of theirs.
+
+Marge: Cheer up, Homie.
+Homer: I just feel terrible about getting Mr. Smithers fired. That job
+       was all he had. Imagine how _you'd_ feel Marge if you got fired
+       from the... those... things that... you do.
+Bart: Quick Mom, whip up a cake before Dad fires ya!
+-- She can still take back her job at Mr. Burger, "Homer the Smithers"
+
+% But Lisa comforts him: "Mr. Smithers is a resilient man, I'm sure he
+% can get a great job at any corporation he wants."
+%
+% And indeed, he is about to enter the AT&T office -- which reveals to
+% be NEAT & TIDY: Piano Movers. "Meet your new piano mover" he says,
+% followed by his predictable visit to the hospital.  Hibbert tells
+% Smithers that he'll need a steel rod for a spine.
+
+% Next try is the Springfield Dragway.
+
+Smithers: [on mike] Get ready for exciting quarter-mile action at the
+	  Springfield Dragway. It'll be motorized mayhem mayhem mayhem.
+	  [softly] Do we need all those "mayhems"? We do. All right,
+	  fair enough. I suppose you know your business.
+	  [loud] Get ready for fun, fun, fun!
+	  [soft] I... The people are already here, we don't... need to
+	  keep hustling them like this, do we?
+	  [angrily] Let go of me... Where are you throwing me?
+	   [trash noises]
+-- You're fired, fired, fired!, "Homer the Smithers"
+
+% And guess where he ends up?  At Moe's Tavern.
+
+Smithers: Uh, hello. You got a "Help Wanted" sign on the window?
+     Moe: Yeah, I need someone to help me with the midnight beer
+	  delivery. Your job is to distract Barney until it's safely
+	  off the truck.
+Smithers: I'll just... wait out back until then.
+  Barney: I look forward to working with you!
+-- Does it takes credentials?, "Homer the Smithers"
+
+% But Homer knows him better. "You can give up on yourself, and take
+% the Barney-guarding job like so many have contemplated in our darkest
+% moments, or you can admit to yourself there's only one person that
+% can make you happy and do whatever it takes to get them back."
+% Smithers admits he's right, but he's going to need Homer's help.
+% Their conversation is interrupted by the 12 strokes of midnight.
+% "Oh my God!" Moe yells, as the beer delivery truck is ransacked by
+% Barney.  Moe can't bear to watch.
+
+% At SNPP, Homer and Smithers are preparing their plan.  Smithers is
+% planning to make Burns talk to his mother, whom he hates, and when
+% she tears into him, Smithers will save the day.
+
+% So Smithers calls Mrs. Burns.
+
+Mrs. Burns: [on phone] Whot?
+  Smithers: Hello, Mrs. Burns? This is Waylon Smithers. I have your son
+	    Montgomery on the line...
+Mrs. Burns: That improvident lackwit? Always too busy stridin' about
+	    his atom mill to call his own mother. I'll give him
+	    what-fors 'till he cries brassafrax!
+-- We finally know where he gets it from, "Homer the Smithers"
+
+% Smithers puts her on hold.
+
+Smithers: [chuckles] Perfect. When I give the signal, you transfer the
+	  call to Mr. Burns. After she tears into him I'll rush in and
+	  save the day.
+   Homer: Got it.
+	  [pushes Speaker] I'm transfering a call in to you, Mr. Burns.
+   Burns: [on intercom] No problemo!
+   Homer: [hesitating between the four buttons] Uh... Ooh... Uh...
+	   [pushes Disconnect]
+	  [hearing the dial tone] Oh oh.
+   Burns: [from his office] Ahoy-hoy? Hoy?
+   Homer: [in falsetto] Hello Mr. Burns? This is your mother.
+Smithers: [whispering] No...
+   Burns: Urg... Oh, hello mater. Um... sorry about pulling the plug on
+	  you and all, uh... who could've known you'll pull through
+	  and... live... for another 5 decades? Ohh, is my face red!
+Smithers: [to Homer] Mrs. Burns is 122 years old, so try to sound more
+	  dessicated. And she doesn't call her son "Mr. Burns"!
+   Homer: [cracking falsetto] Son, this is Mrs. Burns. I just called to
+	  say I don't love you. You are a bad son Montel...
+   Burns: [behind him] So...
+   Homer: [screams]
+   Burns: Impersonate my mother, will you? And you Smithers, you must
+	  have put him up to it. I'm glad I fired you.
+   Homer: Ya really blew it this time, Smithers.
+-- I didn't do it, "Homer the Smithers"
+
+% Smithers can't take it anymore; he jumps on Homer and the two of them
+% fight in Burns' office, choking each other.  "Stop that, stop that at
+% once, you're fighting!", Burns pleads.  But that won't stop them.
+% Homer delivers a punch to Smithers, who pulls on his hair strands in
+% return.  "Stop fighting like a girl, Simpson!" Smithers yells, and
+% Homer responds in kind by throwing a punch. Smithers counterattacks
+% with a punch aimed at Homer's stomach, but his fist is stuck in that
+% blob of fat. Homer takes the opportunity to taunt Smithers' head, but
+% shouts out a well-deserved "D'oh!" when his opponent bites him.
+%
+% Burns tries to get their attention by blowing a paper bag, throwing a
+% glass of water on them, and poking them with a stick.  Smithers
+% "teaches" Homer how to use a phone by repeatedly slamming him with
+% the receiver. Frightened, Burns finds refuge on top of his stuffed
+% polar bear.
+%
+% Homer runs towards Smithers shouting "I'll show you!", but Smithers
+% knows a few tricks: he opens Burns' safe and slams the door into
+% Homer's face. Stunned, he walks back and hits the bear, which falls
+% through the window and crashes into the ground, bringing Burns with
+% him.  "Oh my..." Smithers says.
+
+% That night, at his manor, Burns is resting at bed, wearing several
+% casts.
+
+Smithers: [feeding him] Here comes the endangered condor into the power
+	  lines... I've got Bobo hot from the dryer. Careful not to burn
+	  yourself on his eye.
+   Burns: I don't need you to do any of this. I'm totally self-reliant
+	  now. What I would like though is a Spanish peanut.
+	   [Smithers hands him one]
+	  Skin?
+	   [Smithers skins it and puts it in Burns' mouth]
+   Burns: [chewing] It's a remarkable thing, in the short time you were
+	  gone, I learned to be completely self-reli...
+	   [Smithers feeds him another peanut]
+	  ...ant.
+	  Oh, and as for that brutish fellow who knocked me out the
+	  window, see that he gets what's coming to him.
+Smithers: I already have, sir.
+	   [Homer and his family enjoy a huge "Thank You" basket]
+    Bart: What did you get that for?
+   Homer: For knocking Mr. Burns out of a 3rd story window.
+    Bart: Makes sense to me.
+    Lisa: Did he die?
+   Homer: What am I, a doctor?
+-- Looks like it's back to our wacky adventures, "Homer the Smithers"
+
+% [End of Act Three.  Time: 21'28"]
+
+=======================================================================
+> Contributions
+=======================================================================
+
+{dga} - Dale G. Abersold
+ {fb} - Frederic Briere
+{sjb} - Scott Burgmeyer 
+ {bc} - Ben Cohen
+ {gg} - Gary Goldberg
+{ddg} - Don Del Grande 
+ {gf} - Greg Franks
+{dh2} - Dominik Halas 
+ {jh} - Jason Hancock
+ {jl} - Jose Lafaurie
+ {hl} - Haynes Lee
+ {vm} - Veronica Marquez
+ {dp} - Damian Penny
+ {sp} - Serge Polishchuk
+ {vr} - Vasant Ramamurthy
+{mar} - Mark Richey
+{bjr} - Benjamin Robinson
+ {js} - Jim Smith
+
+=======================================================================
+> Legal crud
+=======================================================================
+The above compilation of observations, quote summaries, statistics, and
+other miscellaneous information copyright 1996 Chips-Fey Productions.
+Not to be used in a public forum without explicit permission from the
+author (Ricardo A. Lafaurie Jr.) or his brother Jose Lafaurie.
+
+Any quoted material above remains property of the original authors;
+mainly, quoted material and episode summaries remain property of The
+Simpsons, and copyright to Twentieth Century Fox.  The compilation is
+copyrighted to Frederic Briere.  So don't sue.

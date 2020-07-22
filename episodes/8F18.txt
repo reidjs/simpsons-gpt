@@ -1,0 +1,535 @@
+<PRE>
+A Streetcar Named Marge					 Written by Jeff Martin
+                                                         Directed by Rich Moore
+===============================================================================
+[$Id$]
+===============================================================================
+
+> TV Guide Synopsis
+
+Marge Simpson plays Blanche to Ned Flanders' bare-chested Stanley in
+a musical version of ``A Streetcar Named Desire.''
+
+Otto the bus driver, police chief Wiggum and convenience-store owner Apu
+are also in the cast.  The director, insolent Llewelyn Sinclair (voice
+of Jon Lovitz), has three plays---and three heart attacks---to his credit,
+``and I care so much, I'm planning a fourth.''  Until the opening, Maggie
+is sent to Springfield's ``only day-care center not currently under
+investigation.''  It's run by Sinclair's sister, who confiscates pacifiers.
+Maggie and her peers retrieve them in a manner reminiscent of ``The Great
+Escape.''
+
+> Title sequence
+
+>> Blackboard
+	{My name is not ``Dr. Death''}.
+	{My name is not ``Dr. De} at cutoff.
+
+>> Lisa's solo
+        Bright.
+
+>> Driveway
+
+        Homer yells, ``D'oh!'' when Lisa scoots past.
+        Homer yells, ``Aargh!'' when the car closes in on him.
+%%%%Ig
+	Dave Hall says that he yelled, ``Wooh!''
+%%%%eIg
+
+>> Couch
+
+        The couch turns into a tentacled brown monster.
+
+> Quotes and scene summary
+
+%
+% Television.
+
+Live from beautiful Laughlin, Nevada, it's the Miss American Girl Pageant!
+Brought to you my Meryl Streep's Versatility:  Smell like Streep for Cheep!
+I'm your host, Troy McClure!
+-- Another slily beauty pageant, ``A Streetcar Named Marge''
+
+% Homer and the kids watch at home.  (Lisa keeps score on a notepad.)
+% Marge leaves the family microwave dinners while she tries out for a part
+% in a local musical production of ``A Streetcar Named Desire''.  No one
+% pays any attention.
+
+If you ask me, they're all winners!
+We'll be cutting our first 40 contestants right after this.
+-- Troy McClure hosts the Miss American Girl Pageant,
+   ``A Streetcar Named Marge''
+
+% Troy introduces the judges, and everyone watches with rapt attention,
+
+Marge: I thought it would be a good chance to meet some other adults.
+Homer: [eyes fixed on the television set]  Sounds interesting.
+Marge: You know, I spend all day home with Maggie.  Sometimes it's
+       like I don't even exist.
+Homer: [eyes fixed on the television set]  Sounds interesting.
+-- Sounds interesting, ``A Streetcar Named Marge''
+
+% Homer adds his commentary to the selection of the five finalists, while
+% Marge warms up her voice by the piano.
+
+Tonight, my reign as Miss American Girl comes to an end, and I'd like to
+apologize one last time for my unfortunate remarks at the United Nations.
+-- Debra Jo Smallwood, ``A Streetcar Named Marge''
+
+% Maggie's musical rendition of Tchaikovsky's Dance of the Sugar Plum Fairies
+% on the toy xylophone is greeted with a ``Maggie, cut that racket!'' from
+% Homer.
+%
+% Homer asks Marge where she's going, insisting that this is the first he's
+% heard of her plans to audition.  The kids back him up.
+%
+% At the Springfield Community Center, the prospective performers in ``Oh!
+% Streetcar!'' warm up.  Among the auditioners are Chief Wiggum, Jasper,
+% and Ned Flanders, who mentions that he has once already performed in
+% ``A Streetcar Named Desire''---as Blanche DuBois.  (That's what happens
+% when you go to an all-male school.)
+%
+% Enter Llewelyn Sinclair.
+
+I have directed three plays in my career, and I have had three heart attacks.
+That's how much I care, I'm planning a fourth.
+-- Llewelyn Sinclair, ``A Streetcar Named Marge''
+
+Marge:  Maybe I should've a nice calligraphy class.
+Wiggum: Oh, forget about it.  That Mr. Takahashi's a lunatic!
+-- ``A Streetcar Named Marge''
+
+I am not an easy man to work for.  While directing ``Hats off to Channukah'',
+I reduced more than one cast member to tears.  Did I expect too much from
+fourth-graders?  The review [holds up a school newspaper] ``Play enjoyed by
+all'' speaks for itself.
+-- Llewelyn Sinclair, ``A Streetcar Named Marge''
+
+% First order of business is for all men auditioning for the part of Stanley
+% to remove their shirts.  Mr. Sinclair rejects most of the auditioners
+% out of hand, leaving Ned's muscular physique as the winning candidate.
+%
+% Mr. Sinclair cuts off all the auditions for the r\^ole of Blanche before
+% any of the women can complete their first phrase.  (Marge is interrupted
+% in the middle of her first word.)  While he fumes that no one is qualified
+% for the part, Marge is on the pay phone, conceding, ``You were right.
+% Outside interests are stupid.''  Sinclair overhears the conversation and
+% he makes his choice.  He grabs the phone and yells into the receiver,
+% ``Stop bothering my Blanche!''
+%
+% [End of Act One.  Time: 5:09]
+%
+% At the breakfast table, Marge relates the good news.
+
+Wow!  My mother the actress.  I feel like Lucy Arnaz-[something].
+-- Lisa, ``A Streetcar Named Marge''
+
+Bart:  Are there any jive-talking robots in this play?
+Marge: Mm, I don't think so.
+Homer: Bart, don't ask stupid questions.
+       [to Marge]  Is there any frontal nudity?
+-- How about nude jive-talking robots?  ``A Streetcar Named Marge''
+
+% At the first rehearsal, the players introduce themselves.  Helen Lovejoy
+% plays Stella, Apu as Steve, Otto as Pablo...
+
+Lionel Hutz, Attorney at Law.  I'm filing a class-action suit against the
+director on behalf of everyone who was cut from the play.  I also play Mitch!
+-- Conflict of interest?  ``A Streetcar Named Marge''
+
+% Marge has a tray of peanut-butter brownies for all.
+%
+% Ned and Marge rehearse a scene where Stanley attempts to ravish Blanche.
+% During the scene, Maggie grabs Ned's glasses and peers through them.
+% The scene is adorable.  Notes Ned, ``Isn't that cute.  Me without a camera.''
+% Annoyed by the interruption, Sinclair gives Marge the address of a day-care
+% center run by his sister.
+%
+% At the Ayn Rand School for Tots, Marge summarizes Maggie's needs, but
+% Ms. Sinclair has her own strict views on how babies should be treated.
+% (``Our aim here is to develop the bottle within.'')
+
+Mrs. Simpson, I don't like to toot my own horn, but we're the only day-care
+in town that is not currently under investigation by the state.
+-- Ms. Sinclair, administrator of the Ayn Rand School for Tots,
+   ``A Streetcar Named Marge''
+
+% Marge leaves Maggie in Ms. Sinclair's care, and the first order of business
+% is to confiscate the pacifier.  Maggie watches glumly as her pacifier is
+% played inside a locker.
+%
+% At rehearsal, Marge can't muster the raw hatred needed for the broken bottle
+% scene.  (Indeed, she can't even break the bottle.)  Sinclair gives up in
+% despair.
+%
+% Homer plays a hand-held Bowling 2000 video game but manages to get a 7-10
+% split.  He is hardly willing to help Marge run her lines.
+%
+% At the day-care, Maggie looks up longingly at the locker.  She sits down
+% and sucks her thumb.  Not satisfied, she tries various other nearby objects,
+% including a crayon, a block, and a Bart Simpson doll.
+%
+% Nap time.  Maggie crawls beneath the cots, tapping each baby as she goes
+% by as an invitation to join her.  On her cue, they stack all the toys
+% in the room, which indeed reach to the locker, and although Maggie can
+% squeeze her tiny arm through the slats, the pacifier itself won't fit.
+% The scaffolding collapses, leaving Maggie suspended in air, the pacifier
+% in her mouth her only support.  Eventually, she falls.  Alerted by the
+% noise, Ms. Sinclair comes in and finds Maggie out of her cot.  ``We have
+% a place for babies like you:  The box!''  As Maggie is carted away, one
+% of her fellow co-conspirators tosses her a ball.
+%
+% At rehearsal, Marge still can't muster the harted for the bottle scene.
+
+I just don't see why Blanche should shove a broken bottle in Stanley's face.
+Couldn't she just take his abuse with gentle good humor?
+-- Marge Simpson has difficulty getting into character,
+   ``A Streetcar Named Marge''
+
+% Homer arrives to pick up Marge, but Marge asks for a little while longer.
+% Marge doesn't see what's so bad about Stanley, while Homer in the background
+% performs a flying tackle of a recalcitrant candy vending machine.  Homer
+% goes to the car and honks the horn.  ``Marge!  Move it or lose it!''  Marge's
+% eyebrows furrow as she envisions Homer, not Ned, as her tormentor.  The
+% hatred is there, and it takes Ned by surprise.  ``Ned, you're supposed to
+% overpower her.''  ``I'm trying, I'm trying!''
+%
+% [End of Act Two.  Time: 10:46]
+%
+% Dinner.
+
+Salt me.
+-- Homer, ``A Streetcar Named Marge''
+
+% Marge passes the salt with a Southern accent, in preparation for the
+% premi\`ere the following evening.  Lisa offers to help by speaking in
+% a Southern accent of her own, and Bart joins in with a ``Bob's your
+% uncle, Mate.''  Marge leaves to rehearse with Ned.
+
+Homer: What about dessert?
+Marge: For God's sakes, you can pull the lid off your own can of pudding!
+Homer: Fine!  I will!
+-- That'll show 'er, ``A Streetcar Named Marge''
+
+% The pull-tab breaks off, leaving Homer's pudding trapped inside forever.
+% Homer goes below Ned's window and shouts, ``Maaaaaaaarge!''
+%
+% Ned's chest is bandaged from a too-realistic-for-the-stage bottle scene,
+% as Marge mutters, ``Keep yelling, you big ape.''  Marge angrily smashes
+% a bottle and offers to rehears the bottle scene again.
+%
+% In bed, Homer asks when the play starts, not so much out of genuine
+% interest, but rather familial duty.
+
+Marge: I'm sure you won't enjoy it.
+       There's nothing about bowling in the play.
+       Oh wait, there is.
+Homer: Probably not much of it.
+-- Enough to placate the special interests, ``A Streetcar Named Marge''
+
+Marge: Why can't you be more supportive?
+Homer: Because I don't care.
+-- Ask a question, ``A Streetcar Named Marge''
+
+Homer: I can't fake an interest in this, and I'm an expert at faking an
+       interest in your kooky projects.
+Marge: What kooky projects?
+Homer: You know, the painting class, the first aid course,
+       the whole Lamaze thing.
+-- ``A Streetcar Named Marge''
+
+% When Marge asks why he never mentioned this before, Homer explains, ``You
+% know I would never do anything to hurt your feelings,'' then promptly
+% falls asleep.
+%
+% At the Ayn Rand School, Maggie leads another covert operation.  Through a
+% series of ingenious and resourceful tricks too brilliant to describe, Maggie
+% manages to sneak into Ms. Sinclair's office...
+
+If I break, buy a new one!
+-- The talking Krusty doll, ``A Streetcar Named Marge''
+
+% ... grab the keys to the locker, then swing over to the locker and set
+% free all of the pacifiers therein.  This kid has real talent.
+%
+% Homer brings Bart and Lisa along to pick up Maggie, but finds a room full
+% of babies sucking on pacifiers in an otherwise eerie silence.  He locates
+% Maggie and tiptoes out.
+%
+% Llewelyn Sinclair gives one last pep talk before the curtain rises.  Chief
+% Wiggum introduces the opening number, and the musical proceeds.  The
+% rhymes in the lyrics prove challenging.  Homer is bored until Marge's
+% entrance, after which his attention remains fixed.  In a later scene,
+% Marge floats in anguish around the stage surrounded by red fog and lasers.
+
+Cool, she can fly!
+-- Bart, ``A Streetcar Named Marge''
+
+% Lisa explains that it's supposed to represent her descent into madness.
+% Blanche's final line, ``I have always relied on the kindness of strangers,''
+% is the cue for the cheery final number, which concludes with ``A stranger's
+% just a friend you haven't met.''  The curtain calls are taken, but Marge's
+% smile vanishes when she sees Homer's drooped head in the audience.
+%
+% Backstage, Lisa propels Bart across the stage in the rope rigging used in
+% the madness scene.
+
+Hey, look at me!  I'm Blanche DuBois!
+-- Bart, ``A Streetcar Named Marge''
+
+% At Marge's entrance, Lisa lets go of the rope, and Bart lands with a thud,
+% no worse for the wear.  Homer sends the kids ahead into the car while he
+% talks with Marge.  Marge is upset that Homer didn't even have the courtesy
+% to keep his head upright through the performance, but Homer explains that
+% he wasn't bored; he was sad.
+
+Homer: It really got to me how that lady, uh...  You know which one I mean.
+       You played her.
+Marge: Blanche!
+Homer: Yeah.
+-- Interactive Cliff's Notes, ``A Streetcar Named Marge''
+
+% He continues, ``The poor thing gets hauled to the nuthouse when all she
+% needed was for that big slob to show her some respect.''  At least, that's
+% his interpretation of events.
+%
+% Outside, Homer notes, ``Hey, I'm a lot like that guy.''  Marge concedes,
+% ``Well, maybe just a little,'' and gives him a kiss.
+%
+% [End of Act Three.  Time: 20:23]
+
+> Voice Credits
+>> Starring
+    Dan Castellaneta        (Homer)
+    Julie Kavner            (Marge)
+    Nancy Cartwright        (Bart)
+    Yeardley Smith          (Lisa, Maggie)
+    Hank Azaria             (Wiggum, Apu)
+    \:    and
+    Harry Shearer           (nearly everybody else)
+>> Also Starring
+    Maggie Roswell	    (Helen Lovejoy)
+    Lona Williams	    (Debra Jo Smallwood)
+>> Special Guest Voice
+    Phil Hartman            (Troy McClure, Lionel Hutz)
+>> Special Guest Voice
+    Jon Lovitz		    (Llewelyn Sinclair, Ms. Sinclair)
+
+> Didja notice...
+
+    ... Bart and Lisa playing ``footsie'' on the couch while Maggie plays
+	the xylophone?
+
+Dave Hall {dh}:
+    ... Mr. Sinclair wore something different each time we saw him?
+    ... Chief Wiggum came to the audition in uniform?
+    ... The old bullet wounds on Apu's body?
+    ... Otto removed his shirt without disturbing his earphones?
+
+> Movie (and other) References
+
+    + Oh, Calcutta!
+	- The inspiration for the name.
+	  (Which infamy recalls as the first nude musical.)
+	  Note Homer's question about full frontal nudity.
+    + Ayn Rand
+	- `Atlas Shrugged', `Fountainhead' and `The Virtue of Selflessness'.
+	- See below for additional comments.
+    + The Birds
+	- Homer tiptoeing through the room full of Babies.
+	- ...and the several Babies perched on the shelves.  @{ds}
+	- Hitchcock's walk-on cameo with two dogs on a leash. @{bk}
+
+> Freeze Frame Fun
+
+>> The beauty pageant
+
+>>> Contestants' costumes @{rc}
+
+    * Kentucky
+        - Dressed as a jockey, ``mounted'' atop a faux horse.
+    * Vermont
+	- Wears a ``pitcher of syrup being poured atop a huge
+	  stack of pancakes'' hat.
+    * Maine
+	- Dressed as a lobster, complete with claws.
+    * Alaska
+	- Dressed in a parka and boots, with a pipeline coiled around her body,
+          emptying into a can of oil (clearly labelled ``oil'')
+	  balanced atop her head.  Oddly, she is wearing a miniskirt.
+    * Idaho
+	- Still just a potatoe.
+    * Texas
+	- Dressed in cowboy boots and a barrel, with a gushing oil well
+	  for a hat.
+    * Illinois
+	- Dressed as Abe Lincoln, complete with stovepipe hat and beard.
+    * Kansas
+	- Her hat depicts a swirling tornado, topped with a house and a witch.
+	  (No sign of Toto.)
+    * S. Dakota
+	- Mt. Rushmore, her face taking the place of Teddy Roosevelt.
+    * N. Carolina
+	- A Southern belle impaled on a huge lit cigarette.
+    * Indiana
+	- Cars race around her neck on a tiny track.
+
+>>> The judges
+
+    * Skin care consultant Roweena,
+    * Syndicated columnist William F. George,
+	(A cross between William F. Buckley and George Will.)
+    * Token black panelist Dreaderick Tatum, and
+    * Mr. Boswell, the man behind those infamous ``Worst-Dressed'' lists.
+
+>> The Ayn Rand School for Tots
+
+    * Posters (the quotation marks are actually on the posters)
+	- ``A is A''
+	- ``Helping is Futile''
+    * Ms. Sinclair can be seen reading ``The Fountainhead''
+
+>> Oh! Streetcar! -- A Musical
+
+>>> Cast
+
+    * Directed by Llewelyn Sinclair
+    * Helen Lovejoy  as  Stella
+    * Apu	     as  Steve
+    * Lionel Hutz    as  Mitch
+    * Otto	     as  Pablo  (replaced at the last minute)
+    * Marge Simpson  as  Blanche
+    * Ned Flanders   as  Stanley
+    * Herman         as  a sailor (chorus)
+    * Jasper                      (chorus)
+    * Chief Wiggum                (chorus)
+    * Barney and Moe as stage managers (during Marge's descent into madness)
+    * A guy in a bear suit and several trapeze artists, seen during the
+      curtain call. {rlg}
+
+>>> Audience @{dh}
+    * Grampa, Patty and Selma
+    * Sanjay (?)
+    * Homer and the kids
+    * Ms. Sinclair.  Note Maggie's reaction.
+    * The two cops
+
+>>> Lyrics
+
+>>>> The opening number
+
+    . Long before the Superdome,
+    . Where the Saints of football play,
+    . There's a city where the damned call home,
+    . Hear their hellish rondelet:
+    .
+    . New Orleans!
+    . Home of pirates, drunks, and whores...
+    . New Orleans!
+    . Tacky, overpriced souvenir stores...
+    .
+    . If you want to go to hell, you should take a trip
+    . To the Sodom and Gomorrah of the Mississip':
+    .
+    . New Orleans!
+    . Stinking, rotten, vomiting, vile...
+    . New Orleans!
+    . Putrid, frackish[?], maggoty, foul...
+    .
+    . New Orleans!
+    . Crummy, lousy, wretched, and rank...
+    . New Orleans!
+    . ...
+
+> Comments and other observations
+
+>> References from the obvious to the obscure
+
+>>> Slender Vittles
+
+Marge's low-cal microwaveable dinner is Krusty Brand Slender Vittles, a
+pun on the American cat food Tender Vittles.  (With perhaps additional
+help from Simpsons producer Jon ``Tender'' Vitti.)
+
+>>> At Seventeen
+
+The beauty pageant contestants sing the first two lines of Janis Ian's
+``At Seventeen'':
+\Q
+    I learned the truth at seventeen,
+    That love was meant for beauty queens
+\eQ
+They conveniently omit the remainder of the lyrics, graciously provided
+here by Leila Johannesen @{lj} and (ah.pbl@forsythe.stanford.edu):
+\Q
+    And high school girls with clear skin smiles
+    Who married young and then retired.
+
+  (chorus)
+    We all play the game, and when we dare,
+    We cheat ourselves at solitaire,
+    Inventing lovers on the phone, repenting of the lies untold (?),
+    who call to say come dance with me, and murmur strange obscenities.
+    At seventeen...
+\eQ
+As you can see, it's hardly an upbeat song.  The girls bailed out just in time.
+
+>>> Ayn Rand
+
+J. D. Baldwin@{jdb} explains, for those illiterates among us:
+Ayn Rand was a ``philosopher'' who claimed that a complex
+system of epistemology, aesthetics, ethics, metaphysics and politics
+could be derived from the simple, ``self-evident'' proposition that ``A = A''.
+Her philosophical system is widely regarded as ``right-wing'', whatever
+that means.
+
+Adam Trotter@{ast} adds that the school's architecture is in the
+style of Frank Lloyd Wright, who was the model for Howard Roark, the
+protagonist of ``The Fountainhead''.
+
+>> Fallout
+
+The day after the episode's first airing, the producers were compelled to
+issue a formal apology to the city of New Orleans.  Apparently, some cities
+can't take a joke...
+
+==============================================================================
+> Distribution notice and Acknowledgments
+==============================================================================
+Blah blah Chris Baird blah blah Dave Hall blah blah Raymond Chen blah blah.
+
+>> Significant contributions from...
+
+  {sa} - Scott Amspoker (scott@bbx.basis.com)
+  {ja} - Joel Arandia (arandia@panix.com)
+ {cjb} - Chris Baird (chris@glencoe.apana.org.au)
+ {jdb} - J.D. Baldwin
+ {mbb} - Mark B. Bendiksen (cb366@cleveland.freenet.edu)
+  {sb} - Scott Borders (sborders@nyx.cs.du.edu)
+  {cc} - Chuck Carroll (cec35848@uxa.cso.uiuc.edu)
+  {rc} - Ronald L. Carter, Esq. (rcarter@nyx.cs.du.edu)
+ {jrd} - John R. Donald (jdonald@us.oracle.com)
+ {rlg} - Raymond L. Gilbert (pi@indiana.edu)
+  {dh} - Dave Hall (dave@sys6626.bison.mb.ca)
+  {rh} - Rob Harris
+  {mh} - Maddi Hausmann (madhaus@netcom.com)
+  {jh} - John Heidemann (johnh@ficus.cs.ucla.edu)
+  {lj} - Leila Johannesen (ljohanne@magnus.acs.ohio-state.edu)
+  {bk} - Bob Knight (bob@yenta.alb.nm.us)
+ {smg} - Scott M. Glazer (glazer@cs.cornell.edu)
+ {tmg} - Tim McGinnis
+ {mmc} - Michael McCarty (macster@iastate.edu)
+ {eam} - Ed A. Mills (eam@gumbee.mlb.semi.harris.com)
+  {in} - Ian Nathanson (cs922094@ariel.yorku.ca)
+       - (ah.pbl@forsythe.stanford.edu)
+  {pr} - (phredd@casbah.acns.nwu.edu)
+ {jpr} - J.P. Robertson
+  {ds} - David Serchay
+ {ras} - Ross A. Stapleton (stapleton@misvax.mis.arizona.edu)
+  {bw} - Bucky Whaley (bw462@cleveland.freenet.edu)
+ {jjw} - John J. Wood (jojw@uhura.cc.rochester.edu)
+  {mz} - Max Ziff (max@gargoyle.uchicago.edu)
+ {ast} - Adam Trotter (astrotte@unix.amherst.edu)
+
+==============================================================================
+</PRE>

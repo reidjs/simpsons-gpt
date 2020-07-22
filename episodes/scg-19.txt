@@ -1,0 +1,648 @@
+                           The Simpsons Archive's
+                       Simpsons Syndication Cuts Guide
+
+                         Season Nineteen (2007-2008)
+
+               "Syndication... is there anything they can't do?"
+
+                                 26 Apr 2009
+
+                 Maintained by Matt Garvey <garvey@snpp.com>
+                      Guide created by Frederic Briere 
+               Contributions from Chad Lehman and Tim Reardon
+
+[=========================[Season Nineteen Summary]=========================]
+
+Story cut episodes: JABF20, JABF21, KABF01, KABF05, KABF08, KABF09.
+                    See also JABF16.
+Compressed episodes: All but JABF20, KABF08, KABF09.
+Expanded episodes: JABF20, JABF21, KABF05, KABF08.
+Altered content: JABF20, KABF02, KABF09.
+Missing credits: JABF21, KABF05, KABF08, KABF09.
+Original breaks: All but JABF20, JABF21, KABF05, KABF08, KABF09.
+
+Total/story time cut: 2:19.5 (2 min 19.5 sec) (not including added content)
+Total time gained: 9:39 (9 min 39 sec)
+
+Notes: TV rating bugs are still missing visually, but the correct original
+       ratings for all episodes can be accessed by V-chip. Still no return of
+       the production code to XDS.
+
+       A new feature this season (broadcast season, that is): in syndication,
+       between the main credits and the production logos, a few seconds of
+       Spanish voiceover credits are inserted. As far as I know, there has
+       been no change to the show's availability in Spanish, but there it is.
+       As a result, syndicated versions are now a few seconds shorter to
+       accommodate this, and to reduce confusion I am not including the new
+       Spanish credits in timings. Usually this section is silent
+       (occasionally doing a poor job of separating the theme and Gracie
+       sound), but at times it is tweaked within the context of the credits,
+       and noted where that occurs. I have noticed these appear in Family Guy
+       season 6 in syndication, which started the same time, as well.
+
+       Compression and expansion have been about as usual; I'm making the
+       guide easier to read by putting basic compression notes to the right
+       of act lines.
+
+       More original commercial breaks. Out of 20 episodes, 15 have them; of
+       the 5 that do not, *4* have special music that is replaced. However, I
+       think that the original breaks in this phase (not seasons 6-9) have
+       had more to do with cuts than preserving the continuity of music. With
+       few exceptions, original breaks = no cuts, modified breaks = cuts. On
+       the plus side, after this season, only KABF14-21 might be subject to
+       this, as KABF22 and up are in a four-act format, and both the opening
+       and credits are adjacent to story. I'd like to see the syndicators
+       mess that up! (Not really. You know they can find a way.)
+
+       Speaking of openings, this is the first season since 7 and 10 (if I am
+       not mistaken) to have the entire season's worth intact in syndication.
+
+       Finally, a big thanks to Tim Reardon, former SCG editor, who also
+       checked this season and corroborated my notes. Additional remarks
+       based on his notes are found in the text.
+
+
+ ==[ JABF20 ]=============================== He Loves to Fly and He D'ohs ===
+        CUTS:33.5 seconds     GAINED:-26 seconds      21:14 / 20:48
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   0:52 / 0:52
+ ~~~~~    ACT I    <---->  (-0:13)   6:57 / 6:44 *Exp: see below
+
+       * Expansion starts after the credits and goes to the end. A bizarre
+       * start to a largely simple season of syndication prep.
+
+ ~~~~~    ACT II   <33.5>   (0:12)   5:43 / 5:55 *Exp: start to end
+
+         Colby: Now I just want you to do what you normally do.
+
+         Colby turns on the camera.
+       %                            Homer is in shot.
+<0:05> %
+       % Homer: OK!... um, I'll, uh... mmm, I'll just, uh...
+                [looks up] I forget what I do.
+
+       ! Tim notes that this is on the season 19 promo on the movie DVD.
+
+ ~~
+         Homer wanders off camera.
+<-2.5> + In syndication, this still shot holds longer. Then:
+       % Homer comes back into frame.
+       %
+<4.5>  % Homer: This is our relish tray. I'd like you to film it for
+       %        insurance purposes.
+       %
+       % Shot of the house in the morning.
+                                           Inside, Homer sitting on the bed.
+
+         Homer: Oh, what's the point of putting my socks on?
+
+       ! Note: "Oh" overlaps the previous shot a bit in both versions.
+
+ ~~
+         Bart kicks Homer in the butt.
+
+       ! Note: In the original, it zooms out at Homer's grimace, but in
+       ! syndication the framing stays the same. I'm not sure how this was
+       ! done, but I wonder if there was another version on a Fox repeat.
+
+       %  Bart: Do you want to get a reaction shot of his butt?
+       % Colby: No, but we should get some background noise.
+       %
+       % Colby is holding a microphone on a boom, and holds it up as Marge
+       % and Lisa walk in from different rooms.
+       %
+       % Colby: Everyone quiet for four seconds! [4 seconds pass silently]
+       %        Thank you, people, moving on! [walks out]
+       %
+       % Shot of the nuclear plant, towers, crow caw. Homer is stapling a
+       % flyer to a bulletin board with a staple gun:
+       %
+       % LOST SANDWICH
+       % [ taped-on  ]
+       % [color photo]
+<0:24> % DESCRIPTION:
+       %   DELICIOUS
+       %
+       %    EXT ????    [tiny and hard to read]
+       %
+       % He staples. Because he had the gun backward, the staple goes into
+       % his head.
+       %
+       % Homer: Ow! What? [does it again] Ow! [lower voice] Huh?
+       %
+       % Colby comes in.
+       %
+       % Colby: Here's an important tip. Stop doing that.
+       %
+       % Colby takes the staples out with a staple remover.
+       % Establishing shot of Bowlarama.
+         Inside, Homer talks to Colby as Barney bowls.
+
+       ! In a montage of success later, Homer correctly staples that flyer!
+
+
+ ~~~~~    ACT III  <---->  (-0:25)   6:56 / 6:31 *Exp: start to end
+ ~~~~~    ENDING   <---->   (----)   0:46 / 0:46* +0:04 Spanish
+
+
+ ==[ JABF18 ]======================================= The Homer of Seville ===
+         CUTS:  0 seconds     GAINED: 35 seconds      21:15 / 21:50
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   2:06 / 2:06
+ ~~~~~    ACT I    <---->   (0:17)   7:28 / 7:45 *Comp: start to near end
+ ~~~~~    ACT II   <---->   (0:11)   5:52 / 6:03 *Comp: to near end
+ ~~~~~    ACT III  <---->   (0:07)   5:01 / 5:08 *Comp: to end
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+       ! The Gracie sound, a long sustained sung note, is heard over the new
+       ! Spanish credits and then again over the Gracie logo. It's just
+       ! doubled up in syndication.
+
+
+ ==[ JABF21 ]============================================ Midnight Towboy ===
+         CUTS: 18 seconds     GAINED: 37 seconds      21:14 / 21:51
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:26 / 0:26
+ ~~~~~    ACT I    <---->   (0:06)   6:54 / 7:00 *Comp: after cred to end
+ ~~~~~    ACT II   <0:01>   (0:10)   7:09 / 7:19 *Comp: start to end
+
+         Bart tells Homer to go faster and more dangerous. Homer steps on the
+         pedal. Bart is seen behind the truck from the front of it, laughing
+         madly.
+       %        A shot from the side (Homer on the left, Bart on the right).
+<0:01> % A bit more laughing, and in the framing of the next shot (seen in
+       % syndication), this: Homer is looking back at Bart and smiling, then
+       % turns forward.
+                        From behind Homer's left shoulder, we see him notice
+         an upcoming stop sign.
+
+       ! What? But get ready for the cuts in the next act.
+
+
+ ~~~~~    ACT III  <0:17>   (0:21)   5:57 / 6:18 *Comp: start to end (note)
+
+         Zoom out on Homer peering out of the basement. The other guys sing
+         "Under the Boardwalk".
+
+         Man 1: That's where I'll be...
+
+       % Pause. The zoom continues.
+<0:06> %
+       % Man 2: Under the boardwalk...
+       % Man 1: Out of the suuuun...
+
+         Lenny and Carl drive around.
+
+       ! Incidentally, I never liked the timing of that bit anyway, since
+       ! the next line ("under the boardwalk") should start within that time
+       ! frame.
+
+ ~~
+       ! I WANT TO WRING SOMEONE'S NECK. There is no good reason for this,
+       ! especially considering the proportion of the season 19 episodes that
+       ! get the blissfully easy treatment. Since music is involved, it has
+       ! to be edited also; part was cut, part was moved around, and it ends
+       ! later in syndication too. Here are my best notes.
+
+         Maggie hops onto SLH. They go out of the house and up the road. They
+         pass Homer and Marge's cars,
+       %                              and go up the street. Across a
+<0:03> % T-junction. A shot of the town square, SLH's head coming into frame
+       % from the left. This cut continues until SLH and Maggie are entirely
+       % in frame and Maggie looks at the screen.
+                                                  They walk through the town
+         square, past the Jebediah Springfield statue and CBG. CBG is filming
+         them. They mostly exit frame.
+<0:01> %                               Hold on CBG.
+                                                    The two walk in front of
+         a store now,
+<0:02> %              shortened by two seconds (sped up?).
+                                                           They cross in
+         front of the moon.
+<0:01> %                    A trim of
+                                      them swimming toward a flooding fire
+         hydrant.
+<0:01> %          A short trim as
+                                  Eleanor crosses their path with her cats.
+         She gets about halfway off screen,
+<0:03> %                                    then SLH and Maggie watch them
+       % go, blinking. The next shot is shortened briefly:
+                                                           Maggie and SLH
+         come into frame diagonally from the left, and she adjusts her
+         collar.
+
+ ~~
+       * Compression goes to the end, but the exec credits seem to be
+       * expanded a bit.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+       % The ending music, a reprise of Maggie's "hunting for Homer" music,
+       % is missing, and replaced with the regular theme. The end of the
+       % theme overlaps the new Spanish credits slightly.
+
+
+ ==[ JABF19 ]================ I Don't Wanna Know Why the Caged Bird Sings ===
+         CUTS:  0 seconds     GAINED: 37 seconds      21:14 / 21:51
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:01 / 1:01
+ ~~~~~    ACT I    <---->   (0:11)   8:31 / 8:42 *Comp: post-cred to near end
+ ~~~~~    ACT II   <---->   (0:10)   4:55 / 5:05 *Comp: start to end
+ ~~~~~    ACT III  <---->   (0:16)   5:59 / 6:15 *Comp: start to near end
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+
+ ==[ JABF16 ]================================== Treehouse of Horror XVIII ===
+         CUTS:  0 seconds     GAINED: 10 seconds      21:15 / 21:25
+                          Original Halloween opening
+
+ ~~~~~    OPENING  <---->   (0:01)   1:11 / 1:12 *Very start cut off a bit
+ ~~~~~    ACT I    <---->   (0:03)   7:00 / 7:03 *Comp: post-cred to near end
+ ~~~~~    ACT II   <---->   (0:03)   6:17 / 6:20 *Comp: start to near end
+
+       ! This part is missing in at least two airings of the episode I saw,
+       ! but Tim Reardon insists it's in his station's copy. It may vary by
+       ! station (perhaps by ignorance and not multiple versions). See also
+       ! KABF01.
+
+         Homer and Marge shoot Skinner on a fade to black.
+
+<0:03> ! Skinner: Think of me on Pizza Fridays.
+       !   Homer: No.
+
+         End of act.
+
+
+ ~~~~~    ACT III  <---->   (0:03)   5:59 / 6:02 *Comp: start to near end
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+
+ ==[ JABF22 ]======================================= Little Orphan Millie ===
+         CUTS:  0 seconds     GAINED: 31 seconds      21:15 / 21:46
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:18 / 1:18
+ ~~~~~    ACT I    <---->   (0:08)   5:59 / 6:07 *Comp: after cred to end
+ ~~~~~    ACT II   <---->   (0:09)   5:49 / 5:58 *Comp: start to near end
+ ~~~~~    ACT III  <---->   (0:14)   7:21 / 7:35 *Comp: start to near end
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+
+ ==[ JABF17 ]======================================== Husbands and Knives ===
+         CUTS:  0 seconds     GAINED: 31 seconds      21:15 / 21:46
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:18 / 1:18
+ ~~~~~    ACT I    <---->   (0:14)   8:30 / 8:44 *Comp: mid-cred to near end
+ ~~~~~    ACT II   <---->   (0:08)   5:11 / 5:19 *Comp: start to near end
+ ~~~~~    ACT III  <---->   (0:09)   5:28 / 5:37 *Comp: start to near end
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+       ! Jack Black's spoken line about the validity of his Korean was
+       ! originally the Gracie sound (no other audio); with the new Spanish
+       ! credits, this is heard over them in syndication, and the normal
+       ! Gracie sound is copied in for that logo.
+
+
+ ==[ KABF01 ]======================================== Funeral for a Fiend ===
+         CUTS:  4 seconds     GAINED: 37 seconds      21:14 / 21:51
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <0:04>   (0:09)   6:40 / 6:49 *Comp: after cred to end
+
+         Homer: Oh, next time a commercial comes on, I'm gonna close my eyes,
+                cover my ears, and scream as loud as I can!
+
+         Fade to black.
+<0:04> %                Two loud screams from Homer.
+                                                     End of act.
+
+       ! It's not uncommon for these things to be cut out in syndication,
+       ! annoying as it may be, but the odd thing is that this episode is one
+       ! with original breaks and no other cuts. So much for the original
+       ! breaks these days being a herald of cutlessness. See also JABF16.
+
+
+ ~~~~~    ACT II   <---->   (0:11)   5:35 / 5:46 *Comp: start to near end
+ ~~~~~    ACT III  <---->   (0:17)   7:49 / 8:06 *Comp: start to end
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+
+ ==[ KABF02 ]====================== Eternal Moonshine of the Simpson Mind ===
+         CUTS:  0 seconds     GAINED: 29 seconds      21:14 / 21:43
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:42 / 1:42
+ ~~~~~    ACT I    <---->   (0:06)   5:20 / 5:26 *Comp: post-cred to near end
+ ~~~~~    ACT II   <---->   (0:13)   7:08 / 7:21 *Comp: start to near end
+ ~~~~~    ACT III  <---->   (0:10)   6:16 / 6:26 *Comp: start to near end
+
+       ! The very end of the act has a music ambiguity, probably resulting
+       ! from a rights issue (rights not available in time). I only have the
+       ! original airing (Fox/Global) and syndication, but would appreciate
+       ! info about network repeats (2/24/08 and 8/3/08). The song is "Day
+       ! after Day" by Badfinger.
+
+         Homer: This is a moment I want to remember.
+         Marge: Aww...
+
+       ! Fox/Global premiere: a full band, in-house I assume, plays.
+
+         I remember finding out about you /
+         Every day my mind is all around you /
+         Looking out from my lonely room, I give my love to you.
+
+       ! Syndication: Badfinger original, snippets from the beginning and
+       ! instrumental end. Starts about a second later, instead of right
+       ! after they kiss.
+
+         I remember finding out about you /
+         Every day my mind is all around you.
+         [Instrumental/piano ending + a few seconds of "sweet" Clausen theme]
+
+         End of act.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+
+ ==[ KABF03 ]========================================== E Pluribus Wiggum ===
+         CUTS:  0 seconds     GAINED: 18 seconds      21:13 / 21:31
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:50 / 1:50
+ ~~~~~    ACT I    <---->   (0:03)   5:44 / 5:47 *Comp: post-cred to near end
+ ~~~~~    ACT II   <---->   (0:09)   7:01 / 7:10 *Comp: start to near end
+ ~~~~~    ACT III  <---->   (0:06)   5:50 / 5:56 *Comp: start to near end
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+
+ ==[ KABF04 ]============================================= That '90s Show ===
+         CUTS:  0 seconds     GAINED: 35 seconds      21:14 / 21:49
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:24 / 0:24
+ ~~~~~    ACT I    <---->   (0:08)   6:27 / 6:35 *Comp: post-cred to near end
+ ~~~~~    ACT II   <---->   (0:12)   5:44 / 5:56 *Comp: start to near end
+ ~~~~~    ACT III  <---->   (0:15)   7:51 / 8:06 *Comp: start to near end
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+
+ ==[ KABF05 ]================================= Love, Springfieldian Style ===
+         CUTS:  8 seconds     GAINED: 28 seconds      21:12 / 21:40
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:23 / 0:23
+ ~~~~~    ACT I    <---->   (0:05)   6:31 / 6:36 *Comp: after cred to end
+ ~~~~~    ACT II   <0:08>   (0:19)   7:26 / 7:45 *Comp: start to end
+
+       ! A cut right at the start, diminishing the impact of the original
+       ! idea (the shooting took place across the entire commercial break).
+       ! It still retains some of the unusual non-neat splitting of stories.
+
+       % The shooting of Bonnie and Clyde is still going, from an angle
+       % obscuring the pair. A tire blows out. Wiggum stops.
+       %
+       % Wiggum: Cool! Now we're shootin' the birds that are peckin' at the
+<0:08> %         bodies!
+       %
+       % He resumes shooting. Fade to Homer (in the present) imitating Wiggum
+       % and his gun. Marge is annoyed.
+       %
+       % Homer: [10 "nn" gun sounds] Ow! Ow ow!
+                [8 more] Gah, gah! [10 more] Ow, gah gah!
+         Marge: So that's the end of the story, huh?
+
+
+ ~~~~~    ACT III  <---->   (0:04)   6:04 / 6:08 *Comp: see notes
+
+       * Compression goes from the start of the act to about a minute from
+       * the end (CBG), when it inexplicably switches to expansion. This goes
+       * to the end. And yes, I've checked tape vs. tape.
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+       % The ending music is changed from the original (more "otherworldly
+       % music") to the standard theme in syndication. Agh. Incidentally,
+       % a bit of the theme finds its way across the Spanish credits gap to
+       % the Gracie sound. It happens occasionally in this season, but I
+       % wouldn't have expected it when the music was actually replaced.
+
+
+ ==[ KABF06 ]=============================================== The Debarted ===
+         CUTS:  0 seconds     GAINED: 37 seconds      21:14 / 21:51
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   0:50 / 0:50
+ ~~~~~    ACT I    <---->   (0:12)   7:30 / 7:42 *Comp: mid-cred to near end
+ ~~~~~    ACT II   <---->   (0:15)   6:55 / 7:10 *Comp: start to near end
+ ~~~~~    ACT III  <---->   (0:10)   5:11 / 5:21 *Comp: start to near end
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+
+ ==[ KABF07 ]======================================== Dial 'N' for Nerder ===
+         CUTS:  0 seconds     GAINED: 37 seconds      21:13 / 21:50
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:27 / 0:27
+ ~~~~~    ACT I    <---->   (0:11)   6:23 / 6:34 *Comp: post-cred to near end
+ ~~~~~    ACT II   <---->   (0:16)   8:22 / 8:38 *Comp: start to near end
+ ~~~~~    ACT III  <---->   (0:10)   5:13 / 5:23 *Comp: start to near end
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+
+ ==[ KABF08 ]====================================== Smoke on the Daughter ===
+         CUTS: 39 seconds     GAINED: 23 seconds      21:14 / 21:37
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:30 / 0:30
+ ~~~~~    ACT I    <---->  (-0:03)   6:33 / 6:30 *Exp: after cred to end
+ ~~~~~    ACT II   <0:26>   (0:18)   6:43 / 7:01 *Exp: start to end
+
+           Lisa: Cigarettes? They can kill you!
+       %                                        They did a whole episode
+       %         about it on "The Suite Life of Zack and Cody". Zack tried to
+<0:10> %         impress a girl by smoking, but she went for Cody instead.
+       %         Huhhh. Zack's life wasn't so "suite" then!
+       % Dancer: Hey,
+                      if God didn't want ballerinas to smoke, how come I can
+                 do this?
+
+ ~~
+         Marge: Lisa the dancing Marge girl.
+
+       % Homer and Bart round the side of the house.
+       %
+       %  Bart: Dad, you never win a fight with animals. Remember when you
+       %        lost that war with the worms?
+       % Homer: That wasn't a defeat, it was a phased withdrawal.
+<0:16> %  Bart: Oh yeah? They made you build this statue!
+       %
+       % Zoom out to show a giant bronze statue in the backyard: Homer bowing
+       % down to a huge earthworm, with the inscription "WORMS ARE BETTER
+       % THAN ME". Ominous music starts.
+       %
+       % Homer: When you cut 'em, they multiply! I can't fight that! Now,
+                let's take care of those raccoons.
+
+       ! Note that the ominous music continues over that line, even in synd.
+
+
+ ~~~~~    ACT III  <0:13>   (0:08)   6:40 / 6:48 *Exp: start to end
+
+         Homer: Are you sure you want Lisa to keep dancing?
+       % Marge: There's nothing that makes a mother's heart soar more than
+<0:08> %        seeing her child take wing. Look at me! [fluttering hands in
+       %        front of herself] I'm glowing!
+       % Homer: Maybe you're drunk!
+         Marge: Homie, Lisa's dancing has made me really happy.
+
+ ~~
+         Homer: Wrong number.
+
+       % Establishing shot of ballet academy at night. Homer's car in front.
+<0:05> % Music. Inside, more music, a pan of the locker room from above, with
+       % all the girls except Lisa smoking. New shot for the next line.
+
+         Chazz: Five minutes, ladies.
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+       % Again, the music (ballet music) is changed to the regular theme. :(
+
+
+ ==[ KABF09 ]=========================================== Papa Don't Leech ===
+         CUTS: 37 seconds     GAINED: 37 seconds      21:13 / 21:50
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:24 / 0:24
+ ~~~~~    ACT I    <---->   (----)   7:42 / 7:42
+ ~~~~~    ACT II   <0:37>   (0:37)   7:22 / 7:59
+
+          Lisa: Double eww!
+<0:04> %  Bart: Well, I think it's wonderful. My diet starts [singsongy] to-
+       %        mor-row!
+         Marge: Listen, I'm sorry I called you all those mean things...
+
+ ~~
+          Snyder: Lurleen, the court orders you to make payments of a hundred
+                  dollars a week until such time as your music comes back in
+                  style or becomes appreciated for its camp value.
+
+<0:01> % Closeup on Lurleen. She blinks and turns to walk away.
+         Snyder bangs the gavel. [see note below]
+
+       %  Snyder: All right, what's the next case?
+       % Bailiff: Judge, next we have a man who's suing his wife for not
+       %          dressing sexy enough [sic] in... the case of the horny
+       %          husband!
+<0:20> %  Snyder: What the?
+       % Bailiff: [hopefully] Oh, I thought if we acted like The People's
+       %          Court, some day we'd *be* The People's Court, and uh...
+       %          heh... well, a bailiff can dream, can't he?
+       %  Snyder: No - he - can't! [bangs gavel]
+            Bart: I don't get it, Lurleen...
+
+       ! I can't say for sure which gavel bang is used. In fact, neither is
+       ! entirely correct, since it's still afterward in syndication, and not
+       ! in either original clip. I imagine one (and suspect the first) was
+       ! frozen for about half a second to match the correct timing.
+
+ ~~
+       % There's no compression to speak of, but there are several split-
+<0:01> % second trims: on the establishing shot between the bar and the
+       % house, after that scene before Marge walks down the street, and
+       % after that one, before she knocks on Royce's door. Silly. Then:
+
+ ~~
+         Royce: Oh... man... I better whiskey up these corn flakes. [does so]
+       % Marge: She needs to see you right away!
+       % Royce: Oh man [exchanging items below frame], I better heroin up
+<0:11> %        this orange juice.
+       %
+       % He injects it into the orange juice, looks up wistfully, then
+       % injects again.
+         Establishing shot of the house with bird tweets.
+
+ ~~~~~    ACT III  <---->   (----)   4:57 / 4:57
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+       % One more time. Standard theme replaces the original credits, audio
+       % of the Dixie Chicks' version of Lurleen's song. That originally went
+       % over the Gracie logo, as well, which is standard here.
+
+
+ ==[ KABF10 ]============================================= Apocalypse Cow ===
+         CUTS:  0 seconds     GAINED: 36 seconds      21:15 / 21:51
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:22 / 1:22
+ ~~~~~    ACT I    <---->   (0:06)   7:27 / 7:33 *Comp: post-cred to near end
+ ~~~~~    ACT II   <---->   (0:17)   4:43 / 5:00 *Comp: start to near end
+ ~~~~~    ACT III  <---->   (0:13)   6:55 / 7:08 *Comp: start to near end
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+       * Note that this episode uses the same compression gains per act as
+       * KABF11 (below), up to a rounding error anyway. If it was used by
+       * mistake, that might explain the fact that the numbers don't make as
+       * much sense for the act lengths.
+
+
+ ==[ KABF11 ]========================================= Any Given Sundance ===
+         CUTS:  0 seconds     GAINED: 37 seconds      21:14 / 21:51
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:23 / 0:23
+ ~~~~~    ACT I    <---->   (0:06)   4:57 / 5:03 *Comp: post-cred to near end
+ ~~~~~    ACT II   <---->   (0:17)   7:52 / 8:09 *Comp: start to near end
+ ~~~~~    ACT III  <---->   (0:14)   7:14 / 7:28 *Comp: start to mostly end
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+
+ ==[ KABF12 ]============================================== Mona Leaves-a ===
+         CUTS:  0 seconds     GAINED: 37 seconds      21:12 / 21:49
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   2:06 / 2:06
+ ~~~~~    ACT I    <---->   (0:11)   7:22 / 7:33 *Comp: start to near end
+ ~~~~~    ACT II   <---->   (0:15)   7:00 / 7:15 *Comp: start to near end
+ ~~~~~    ACT III  <---->   (0:11)   3:56 / 4:07 *Comp: start to pre-clips
+
+       ! Note: The dedication before the executive producer credits is here,
+       ! and in fact remained on all three Fox airings. I mention this just
+       ! because other such dedications (usually to cast/crew or guest stars)
+       ! have been disappearing from repeats and DVDs. May not be the case
+       ! here.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+
+ ==[ KABF13 ]============================================= All about Lisa ===
+         CUTS:  0 seconds     GAINED: 33 seconds      21:16 / 21:49
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:23 / 0:23
+ ~~~~~    ACT I    <---->   (0:08)   6:00 / 6:08 *Comp: post-cred to near end
+ ~~~~~    ACT II   <---->   (0:13)   7:58 / 8:11 *Comp: start to near end
+ ~~~~~    ACT III  <---->   (0:12)   6:07 / 6:19 *Comp: start to near end
+
+       ! A joke from Krusty that he once made out with a blowup doll always
+       ! aired that way, but at the same time the captions have always read
+       ! "with Brett Butler". Such alternate closed captions are very rare
+       ! these days, so I mention it here. Don't expect it on the DVD.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:02 Spanish
+
+       ! For some reason, there's only one screen's worth of Spanish credits
+       ! here, and the font is bigger too. Gives the episode a little more
+       ! breathing room.
+
+ ==[ ------ ]================================================================

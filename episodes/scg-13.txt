@@ -1,0 +1,840 @@
+                           The Simpsons Archive's
+                       Simpsons Syndication Cuts Guide
+
+                         Season Thirteen (2001-2002)
+
+               "Syndication... is there anything they can't do?"
+
+                                 9 Jun 2004
+
+                 Maintained by Matt Garvey <garvey@snpp.com>
+                      Guide created by Frederic Briere 
+               Contributions from Chad Lehman and Tim Reardon
+
+[=========================[Season Thirteen Summary]=========================]
+
+Story cut episodes: DABF02, DABF01, DABF03, DABF05, DABF09, DABF10, DABF14,
+                    DABF12.
+Compressed episodes: All episodes were compressed.
+Expanded episode: DABF02.
+Missing lines: CABF21, DABF02, DABF12. 
+Changed content: DABF01, DABF14, DABF17.
+
+Total time cut: 9:22 (9 min 22 sec)
+Story time cut: 2:27 (2 min 27 sec)
+Total time gained: 19:36 (19 min 36 sec)
+
+Notes: For some reason, many episodes in the season 13 syndication package
+       have what I call a "voiceless intro." That is, in the cloud and
+       driveway scenes, only music is present: no "The Simp-sons," no sound
+       effects, and no "d'oh!" or scream from Homer. Sound effects are
+       restored in the couch gag. The rule seems to be that whenever the
+       intro had to be shortened, this is used (with one exception: DABF05
+       always had the short one but it is voiceless in syndication).
+       Also, TV ratings do not appear at the top of the screen for any season
+       13 episode in syndication (though my V-chip reported them as TV-PG,
+       even DABF11; this may just be local, however).
+       I had a hard time finding the original end credit timings for some of
+       the season 13 episodes. I used the section Fox broadcasts to estimate
+       the length and any compression for those, and marked the "ending"
+       lines with asterisks; if you have any information on them, please let
+       me know.
+
+ ==[ CABF19 ]==================================== Treehouse of Horror XII ===
+         CUTS:  0 seconds     GAINED: 68 seconds      21:18 / 22:26
+                         Original Halloween opening
+
+ ~~~~~    OPENING  <---->   (0:02)   1:02 / 1:04
+ ~~~~~    ACT I    <---->   (0:23)   6:17 / 6:40
+ ~~~~~    ACT II   <---->   (0:26)   7:11 / 7:37
+ ~~~~~    ACT III  <---->   (0:17)   6:00 / 6:17
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ CABF22 ]============================================= The Parent Rap ===
+         CUTS: 55 seconds     GAINED: 68 seconds      21:17 / 22:25
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+
+       ! Voiceless intro
+
+       % Blackboard: Nobody reads these anymore
+       % Solo: Funk #2
+
+ ~~~~~    ACT I    <---->   (----)   5:43 / 5:43
+ ~~~~~    ACT II   <---->   (----)   7:15 / 7:15
+ ~~~~~    ACT III  <---->   (0:13)   7:08 / 7:21
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48*
+
+
+ ==[ CABF20 ]============================================== Homer the Moe ===
+         CUTS: 56 seconds     GAINED: 66 seconds      21:20 / 22:26
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:56>   (0:56)   0:22 / 1:18
+
+       ! Voiceless intro
+
+       % Blackboard: A burp in a jar is not a science project
+       % Solo: Three Blasts
+
+ ~~~~~    ACT I    <---->   (0:08)   4:45 / 4:53
+ ~~~~~    ACT II   <---->   (----)   7:47 / 7:47
+ ~~~~~    ACT III  <---->   (----)   7:40 / 7:40
+ ~~~~~    ENDING   <---->   (0:02)   0:46 / 0:48
+
+
+ ==[ CABF18 ]================================ A Hunka Hunka Burns in Love ===
+         CUTS: 56 seconds     GAINED: 69 seconds      21:17 / 22:26
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:56>   (0:56)   0:22 / 1:18
+
+       ! Voiceless intro
+
+       % Blackboard: Fun does not have a size
+       % Solo: Funk #2
+
+ ~~~~~    ACT I    <---->   (0:12)   5:46 / 5:58
+ ~~~~~    ACT II   <---->   (----)   8:13 / 8:13
+ ~~~~~    ACT III  <---->   (----)   6:09 / 6:09
+ ~~~~~    ENDING   <---->   (0:01)   0:47 / 0:48
+
+
+ ==[ CABF21 ]========================================== The Blunder Years ===
+         CUTS: 55 seconds     GAINED: 68 seconds      21:17 / 22:25
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+
+       ! Voiceless intro
+
+       % Blackboard: I am not Charlie Brown on acid
+       % Solo: Funk #2
+
+ ~~~~~    ACT I    <---->   (----)   7:59 / 7:59
+ ~~~~~    ACT II   <---->   (----)   4:53 / 4:53
+ ~~~~~    ACT III  <---->   (0:13)   7:14 / 7:27
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+       ! Two "missing lines" in syndication which I'm indicating as zero-
+       ! length cuts: the first is lost when the syndicators split up Act III
+       ! and the ending for the commercial; the second is because they keep
+       ! switching Fox logos around.
+
+         [With Act III over, Moe continues into the credits]
+<0:00> % Moe: This is, 
+                       uh, that's more gravel.
+
+ ~~
+         Gracie Films logo runs and Homer screams twice.
+         Fox logo starts,
+<0:00> %                  and Homer lets out a three-second scream.
+         Fade to black.
+
+
+ ==[ DABF02 ]======================================== She of Little Faith ===
+         CUTS: 95 seconds     GAINED: 69 seconds      21:16 / 22:25
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+
+       ! Voiceless intro
+
+       % Blackboard: I do not have a cereal named after me
+       % Solo: Three Blasts
+
+ ~~~~~    ACT I    <0:40>   (0:47)   4:55 / 5:42
+
+             Doug: The rocket's ready to go!
+
+         The nerds giggle,
+       %                   then Homer steps onto a crate.
+       %
+       %    Homer: Super! Now if you'll gather round, I'd like to say a few
+       %           words.
+       %
+<0:08> % They do. Homer pauses, then in a slow loud voice:
+       %
+       %    Homer: All nerds clear the launch area!
+       %
+       % The three college students and Milhouse walk away dejectedly.
+       %
+       % Benjamin: [o.s.] Let's wait in the car.
+            Homer: Now all we need is our astronaut!
+
+ ~~
+         The camera pans slowly up the side of the rocket, until the tip is
+         visible at the top of the screen.
+       %                                   The camera zooms out to show Homer
+       % and Bart standing next to it. Homer consults his Palm Pilot while
+       % Bart sets the box down. Cut to a shot of the box (and Bart's legs)
+<15.5> % as he picks up Nibbles and puts him on the ground. Nibbles begins to
+       % walk. Cut to a closer shot of Nibbles for a few seconds, then to the
+       % bottom of the launch tower, where an elevator (complete with hand
+       % rails and caution mat) waits. Nibbles walks in and turns around; a
+       % windowed door slides down, and the elevator slowly ascends.
+
+         Homer: Son, we are about to break the surly bonds of gravity and
+                punch the face of God!
+
+ ~~
+         Milhouse watches the rocket in flight and his eyebrows fall off.
+       % The rocket flies (still with respect to the frame with clouds
+       % zipping by behind it) for a few seconds. Cut to a shot of a wino in
+       % the gutter. He takes a gulp, looks up, and gasps. From behind him,
+       % the rocket is seen soaring across the sky.
+       %
+       % Wino: Wow, that's it! I'm off the hooch!
+       %
+<16.5> % He tosses the bottle behind him. Farther down the street, a
+       % businessman walks down the sidewalk. The wine lands in his hand.
+       %
+       %  Man: Hey! Wine!
+       %
+       % The businessman lies down in the wet gutter, starts drinking, and
+       % tosses away his briefcase. Meanwhile, Bart tracks the rocket with
+       % binoculars while Homer stands on.
+                                           Cut to the view through the
+         binoculars, where the rocket starts to fly out of control.
+
+       ! In the original, the dramatic music continues until the wino speaks;
+       ! in syndication, some (but not all) of it overlaps the rocket's
+       ! erratic flight.
+
+ ~~
+       * There was compression from the start of the act, but after Nibbles
+       * ejects, it switches to expansion for the rest of it. Go figure.
+
+
+ ~~~~~    ACT II   <---->  (-0:13)   4:56 / 4:43
+ ~~~~~    ACT III  <---->  (-0:20)  10:14 / 9:54
+
+       ! The upcoming line was never heard in any broadcast; it was probably
+       ! taken out before its December '01 airing because of the September
+       ! attacks. Still, it remained in closed captions for all of its
+       ! network runs (including December '02). However, even the closed
+       ! caption no longer exists in syndication, so it is documented here.
+
+           Burns: Oh, whatever, just take it.
+<0:00> % Caption: How many doomsday machines does one man need anyway?
+         Lovejoy: Well, next on our agenda, Marge Simpson's devil daughter.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48*
+
+
+ ==[ DABF01 ]======================================== Brawl in the Family ===
+         CUTS: 48 seconds     GAINED: 68 seconds      21:17 / 22:25
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <0:04>   (0:15)   6:07 / 6:22
+
+          Burns: Moving on to new business, what act of unmitigated evil
+                 shall the Republican party undertake this week?
+
+       % Immediately, Ralph Nader sticks his hand up as if in a classroom.
+<0:04> %
+       %  Nader: Ooh! Ooh ooh ooh!
+       %  Burns: [leaning over] You've already done enough, Nader!
+         Krusty: Let's get rid of PBS!
+
+ ~~~~~    ACT II   <0:44>   (0:49)   6:14 / 7:03
+
+           Marge: Here's the keys.
+            Bart: I got a set.
+
+         Bart puts on a pair of driving gloves.
+<0:04> % He then walks left off-screen while Marge blinks a few times.
+       % Bart backs the car up,
+                                and his head comes into frame. He finishes
+         backing up, the camera pans to a trailer hitch on the back, and
+         Lisa loops the rope over it.
+
+            Lisa: Now, Bart!
+
+       % Seen from above, the rope is draped around a big rock so that it
+       % dangles down the cliff. Bart starts to drive off-screen to the top
+       % left, while Lisa, Marge, and Maggie stand there. Dramatic music.
+       %
+       % The camera pans down to show Homer and Gabriel slowly ascending,
+       % then cuts to a closer shot from them. A growl is heard from below,
+       % and they both scream.
+       %
+       % Cut to the animals standing on each other's backs (about six
+       % alternating wolves and cougars). A cougar climbs to the top and
+<0:26> % leaps up, swinging its paw. It just misses Homer and Gabriel.
+       % They scream again.
+       %
+       % Gabriel: Give them the food!
+       %
+       % Homer unzips the backpack, reaches in, and dumps out five roast beef
+       % sandwiches from a plastic bag. They land on the ground, and the
+       % animals go toward them and start eating.
+       %
+       %   Homer: Oh no, the roast beef is making 'em stronger! And the
+       %          falafel is making 'em angrier!
+
+         As they swing on the rope, a wolf comes up from the bottom left
+         and they scream. Homer wails, and the camera pans down to show that
+         the animals have constructed a see-saw-like device to throw them up
+         in the air. The wolf jumps on it, and a cougar flies into the air.
+         They scream again. The cougar begins falling,
+       %                                               and continues to fall.
+       %
+       % Gabriel: Give 'em the beer!
+       %
+       % Another wolf comes up from the left.
+       %
+       % Gabriel: It will impair their motor skills!
+       %   Homer: [grabbing the bag to himself] NO! [slowly] I will _never_
+       %          [after he looks inside, his voice returns to normal and
+       %          he pulls out a six-pack] oh, wait, it's Blatz.
+<0:18> %
+       % He lets the beer fall. It lands, and the animals crowd around it.
+       % They bite into the cans, which spray all over, and they shake them
+       % in their mouths to make them open. Cut to several beer puddles on
+       % the ground, which the animals lap up with their tongues.
+       %
+       % Cut to a bigger puddle, in which four animals are rolling around,
+       % while another holds a can in its paws like catnip, drinking from it.
+       %
+       % Homer and Gabriel watch the drunk animals as they rise.
+       %
+       %   Homer: Hey, they're all right!
+
+       + In syndication, to account for plot, a few scenes were moved around.
+       + After the cougar falls (before the above cut), 2 seconds of the
+       + aerial shot of the car driving away are seen, followed by about two
+       + seconds of Homer and Gabriel going up (the last part of the above
+<-0:04>+ cut. However, instead of saying "Hey, they're all right!" we have
+       +
+       +   Homer: --ha, we did it!
+       +
+       + It seems spliced in abruptly from somewhere else rather than
+       + rerecorded, but I can't locate it elsewhere in this episode/season.
+
+         In the car, the Simpsons sing about their adventure.
+
+       ! Note that in the syndicated version, Homer's line "wolves and
+       ! cougars ate our roast beef!" makes no sense, since that wasn't seen.
+
+
+ ~~~~~    ACT III  <---->   (0:02)   7:48 / 7:50
+ ~~~~~    ENDING   <---->   (0:02)   0:46 / 0:48
+
+
+ ==[ DABF03 ]====================================== Sweets and Sour Marge ===
+         CUTS: 13 seconds     GAINED: 68 seconds      21:17 / 22:25
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:11)   6:12 / 6:23
+ ~~~~~    ACT II   <---->   (0:26)   7:18 / 7:44
+ ~~~~~    ACT III  <0:13>   (0:29)   6:36 / 7:05
+
+         The Johnny Depp "Chocolat" promotional candy wails in the fire.
+
+       % Wiggum: All right, time to throw in the Butterfingers!
+       %
+       % Eddie picks up an armload of the crispety-crunchety-peanut-buttery
+       % candy bars, and tosses them in the fire, which flares up a bit.
+<0:13> % As the fire burns, a protective aura appears around some of them
+       % and an accompanying noise is heard. The fire pops about six bars
+       % out of itself, and one lands in Eddie's hand.
+       %
+       %  Eddie: Hmm. It's not even singed. [hands it to Wiggum]
+       % Wiggum: Even the fire doesn't want them.
+
+         Kids suffer from sugar withdrawal at the elementary school.
+
+       ! Anyone want to guess why this was cut? (The accompanying blackboard
+       ! gag in DABF04 is gone too. Oh, and it's a rhetorical question.)
+
+
+ ~~~~~    ENDING   <---->   (0:02)   0:49 / 0:51*
+
+       ! The cut to commercial in syndication usually comes after James L.
+       ! Brooks, Matt Groening, and Sam Simon are listed, but here it came
+       ! between Al Jean's credit and their Executive Producers screen. This
+       ! might have been done to accommodate the music, but who knows? In any
+       ! case, my original timings reflect this as the act break.
+
+
+ ==[ DABF05 ]============================================ Jaws Wired Shut ===
+         CUTS: 26 seconds     GAINED: 69 seconds      21:16 / 22:25
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+
+       ! Voiceless intro (actually the choral "ahh" sounds present), and this
+       ! is the only one that goes against the trend of voiceless-only-when-
+       ! shortened.
+
+ ~~~~~    ACT I    <0:26>   (0:34)   4:45 / 5:19
+
+       ! One of the most heavily edited 90 seconds ever! My timings are as
+       ! accurate as I could make them, but they're all good to within half
+       ! a second or better.
+
+                 Kid: The professor said not to let him get a boner!
+
+         The mummy's cloth starts tearing down below, and he looks down.
+       % Then he looks at the camera and shrugs.
+       %
+       % Homer laughs hysterically, then wipes away a tear.
+       %
+<0:13> %       Homer: I'm laughin', but it's a laugh of impatience!
+       %              [yelling] Show the movie!
+       %
+       % Another preview starts, and Homer groans.
+       % Establishing shot of Googolplex, captioned "MANY MINUTES LATER..."
+       %
+               Homer: So many previews, so many previews,
+<0:01> %                                                  so many previ--
+
+       + Establishing shot of Googolplex is now seen in syndication, slightly
+<-0:01>+ overlapping the announcer's words below, so part of the closed
+       + curtain is not seen in the edited version.
+
+           Announcer: And now, our feature presentation!
+               Homer: [gasp]*
+         Goofy voice: If that's a phrase you like** to hear, then you'll
+                      _love_ MovieCall!***
+
+         Homer's shadow appears in front of the screen.
+
+               Homer: Aaaagh! Gahhhhh!
+
+       % In the original version, that's how this scene works, and Homer is
+       % silent during the pitch. In syndication, the shadow appears and
+       % Homer starts screaming at the double asterisk above, and finishes
+<0:03> % at the triple asterisk. So the three seconds lost are (visually) a
+       % still shot of the movie screen (as well as a lingering visual of the
+       % "Feature Presentation" slide at *) and (soundwise) silence on
+       % Homer's part; in the edited version his scream overlaps the pitch.
+
+               Homer: [pounding on screen] Start the movie! Start the movie!
+
+         The crowd shouts along with Homer on the second one.
+
+<3.5>  %       Homer: [looking out at the audience, shaking his left arm]
+       %              Start the movie!
+
+         As ushers listen at the door, another comes out to the lobby.
+
+       ! Some of the second "start the movie" is heard while the door is seen
+       ! in the syndicated version.
+
+ ~~
+       ! Just a few seconds later...
+
+         The ushers open up the cabinet, and one puts up his hand to reach
+         across the giant Kit-Kat.
+<1.1>  % He does so and rips it open, then comes in from off-screen.
+         He breaks off a piece and gives it to a fellow usher, then hands
+         another piece to a second
+<1.6>  %                           and to a third.
+
+         Homer: [waving his shirt around] Stop the madness! Start the movie!
+
+ ~~
+         When the ushers begin to advance on Homer, he runs off the stage,
+         just disappearing off the side of the screen.
+<2.3>  % The camera cuts to the left part of the stage, which Homer jumps off
+       % of and then pushes at the door.
+                                         Seen from outside, Homer runs out.
+
+       ! The music is edited to fit this cut by being superimposed on the new
+       ! version and ending sooner, so the trim didn't have to be in the
+       ! middle.
+
+ ~~
+         Tatum: Litter is my most treacherous foe. I would like to eat its
+                children.
+
+       % The camera pans to show Homer being chased down the street by the
+<1.5>  % four ushers, still carrying their chocolate weapons. Homer makes a
+       % right turn, so that he's running toward the statue-admiring crowd.
+         He runs left across the screen.
+
+         Homer: So long, suckers!
+
+
+ ~~~~~    ACT II   <---->   (0:13)   7:26 / 7:39
+ ~~~~~    ACT III  <---->   (0:21)   7:56 / 8:17
+ ~~~~~    ENDING   <---->   (0:01)   0:47 / 0:48
+
+
+ ==[ DABF04 ]======================================= Half-Decent Proposal ===
+         CUTS: 28 seconds     GAINED: 70 seconds      21:16 / 22:26
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:28>   (0:28)   0:22 / 0:50
+
+       ! Voiceless intro
+
+       % Blackboard: I will not bite the hand that feeds me Butterfingers
+       % Solo: Melodic Figure #1
+
+       ! Naturally this blackboard says bye-bye, esp. with the cut in DABF03.
+
+ ~~~~~    ACT I    <---->   (0:11)   5:38 / 5:49
+ ~~~~~    ACT II   <---->   (0:14)   7:04 / 7:18
+ ~~~~~    ACT III  <---->   (0:15)   7:26 / 7:41
+ ~~~~~    ENDING   <---->   (0:02)   0:46 / 0:48
+
+
+ ==[ DABF06 ]=============================== The Bart Wants What It Wants ===
+         CUTS:  0 seconds     GAINED: 68 seconds      21:17 / 22:25
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:34 / 1:34
+
+       ! I can't believe they left in the longest regular opening in its
+       ! entirety! This has only happened before in AABF17.
+
+ ~~~~~    ACT I    <---->   (0:18)   5:08 / 5:26
+ ~~~~~    ACT II   <---->   (0:27)   7:46 / 8:13
+ ~~~~~    ACT III  <---->   (0:21)   6:03 / 6:24
+ ~~~~~    ENDING   <---->   (0:02)   0:46 / 0:48
+
+
+ ==[ DABF07 ]================================ The Lastest Gun in the West ===
+         CUTS: 55 seconds     GAINED: 66 seconds      21:19 / 22:25
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+
+       ! Voiceless intro
+
+       % Blackboard: Making Milhouse cry is not a science project
+       % Solo: Three Blasts
+
+ ~~~~~    ACT I    <---->   (0:02)   3:43 / 3:45
+ ~~~~~    ACT II   <---->   (0:06)  11:18 /11:24
+
+       ! Notice the extreme timings of Acts I and II. I did a little research
+       ! and found that this is the longest act ever (the second-longest in
+       ! original: Act II of 3F22 [11:09], in syndication: Act II of 9F02
+       ! [10:20]). However, Act I is not the shortest act; in both original
+       ! and syndication Act III of BABF11 (3:16/3:18) has that distinction.
+
+ ~~~~~    ACT III  <---->   (0:03)   5:07 / 5:10
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48*
+
+
+ ==[ DABF09 ]==================================== The Old Man and the Key ===
+         CUTS:  3 seconds     GAINED: 14 seconds      21:17 / 21:31
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:21 / 0:21
+ ~~~~~    ACT I    <0:03>   (0:04)   5:37 / 5:41
+
+         Abe: Is this the Dairy Queen?
+
+         The whale groans once,
+<0:03> %                        then again. He and Abe stare at each other.
+
+         Abe: But, Zelda, if you're looking for something with a big back-
+              seat and a lot of gas, I'm your man.
+
+       ! Talk about a stupid cut! Holy cow!
+
+ ~~
+       * Compression starts in the driving class, for one whopping second.
+
+
+ ~~~~~    ACT II   <---->   (0:05)   6:19 / 6:24
+ ~~~~~    ACT III  <---->   (0:05)   8:10 / 8:15
+ ~~~~~    ENDING   <---->   (----)   0:50 / 0:50
+
+
+ ==[ DABF08 ]=============================== Tales from the Public Domain ===
+         CUTS: 55 seconds     GAINED: 68 seconds      21:18 / 22:26
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+
+       ! Voiceless intro
+
+       % Blackboard: Vampire is not a career choice
+       % Solo: Funk #2
+
+ ~~~~~    ACT I    <---->   (0:13)   7:30 / 7:43
+
+       ! A scene from the promotional commercial never made it to the final
+       ! version. It was probably meant to go after Homer/Odysseus sailed
+       ! away, as if to show the truth about the sirens:
+
+       # Selma-siren: [in her usual gravelly voice] I don't think these clams 
+|0:04| #              are dead. [pulling the shell on her left breast back
+       #              up] Where do you think _you're_ going?
+
+
+ ~~~~~    ACT II   <---->   (----)   6:46 / 6:46
+ ~~~~~    ACT III  <---->   (----)   5:51 / 5:51
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ DABF10 ]=========================================== Blame It on Lisa ===
+         CUTS:  6 seconds     GAINED: 40 seconds      21:18 / 21:58
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:11)   5:59 / 6:10
+ ~~~~~    ACT II   <---->   (0:13)   7:20 / 7:33
+ ~~~~~    ACT III  <0:06>   (0:16)   6:49 / 7:05
+
+         Kidnapper: You say no to that face.
+
+       % Dramatic music starts (in syndication it plays in progress).
+       % The tram car swings down and smashes into the side of the mountain,
+       % then falls off the cable and tumbles down while the family screams
+<0:03> % inside. It bounces a few times on the ground, then the camera cuts
+       % to an inside shot of the car.
+       %
+       % Lisa's face smacks against the "camera," she grunts, and then falls
+       % away to the right.
+                            Then Homer is on the left, about to smack into
+         the front, which he does, then grunts and opens his eyes.
+       %                                                           He falls
+       % away to the right as Lisa did, and then Marge smacks into the camera
+<0:03> % and grunts. They all tumble around a little more. Cut to exterior
+       % shot of the car falling. After it gets to the right side of the
+       % screen,
+                 it continues tumbling and then comes to rest on the ground.
+
+       ! Actually, the first cut is closer to 3.5 seconds, but oh well. Also,
+       ! it's funny (and still visible in syndication) that when Homer hits
+       ! his head in the car, he looks briefly like he did in season 1.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48*
+
+
+ ==[ DABF11 ]======================================= Weekend at Burnsie's ===
+         CUTS:  0 seconds     GAINED: 64 seconds      21:18 / 22:22
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:12)   4:00 / 4:12
+ ~~~~~    ACT II   <---->   (0:32)  10:07 /10:39
+ ~~~~~    ACT III  <---->   (0:20)   6:01 / 6:21
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ DABF12 ]================================================= Gump Roast ===
+         CUTS:  7 seconds     GAINED: 10 seconds      21:18 / 21:28
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (----)   5:17 / 5:17
+
+       ! For some reason, the vocals were dropped from the "Mental House
+       ! Rock" song in syndication. Note also that the original scene from
+       ! BABF05 was shortened significantly for this episode's first run;
+       ! that's not a syndication cut, but it's worth knowing.
+
+          Homer: [v.o.] We do everything together.
+       % Singer: Doctors threw a party at the looney bin,
+       %         you gotta be crazy if you wanna get in.
+<0:00> %         Napoleon is playing his imaginary sax,
+       %         the dance floor's filling up with maniacs!
+       %         Let's rock.
+          Marge: Whoa! [re-enters] Wow, a 50s nostalgia cafe!
+<0:00> % Singer: If you won't dance with the doc,
+       %         he'll give you electroshock! Zap zap zap!
+          Owner: Well, well, well. I've never seen such reckless disregard
+                 for a wife's well-being in my life.
+
+
+ ~~~~~    ACT II   <0:07>   (0:07)   7:23 / 7:30
+
+         Homer: Ow, my legs; this is the worst pain ever!
+
+         Homer grunts six times as he hits six moguls,
+       %                                               then one more.
+<0:03> %
+       % Homer: Oww, ha-ha-ha-ha! [not laughter; he hits six more moguls]
+
+         He goes down the ski jump and falls off.
+
+ ~~
+         Homer: Faster, Marge, faster!
+
+       % In an aerial shot, Homer looks worried as a few turtles are seen at
+       % the surface of the water.
+<0:03> %
+       % Homer: The snapping turtles are massing!
+       %
+       % Homer is seen approaching the shore for about a second,
+                                                                 continuing
+         until he reaches the beach and ruins everyone's time.
+
+         Homer: Heads up! Coming through, look out! Hey, volleyball, can I
+                play later?
+
+<0:01> % Establish Apu working on a sand model of the Taj Mahal. Homer
+       % approaches from the left
+                                  and then crashes into it.
+
+         Homer: Hi, Apu!
+
+       ! Note: In the syndicated version of 5F19, the snapping turtles line
+       ! is edited out but Homer's complete approach is seen; the other cuts
+       ! here are intact in their episodes' syndicated versions. On the other
+       ! hand, the "Mt. Splashmore" scene from 7F18 appears in full for the
+       ! first time in syndication.
+
+
+ ~~~~~    ACT III  <---->   (0:03)   7:19 / 7:22
+
+       * Compression ends at the People's Choice Awards.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:57 / 0:57
+
+
+ ==[ DABF13 ]======================================== I Am Furious Yellow ===
+         CUTS:  0 seconds     GAINED: 58 seconds      21:18 / 22:16
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:19)   6:53 / 7:12
+ ~~~~~    ACT II   <---->   (0:21)   7:40 / 8:01
+ ~~~~~    ACT III  <---->   (0:18)   5:35 / 5:53
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ DABF14 ]=========================================== The Sweetest Apu ===
+         CUTS:  4 seconds     GAINED: 27 seconds      21:18 / 21:45
+                        No blackboard, original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+
+       ! Though technically the intro was edited, the voices are still there.
+
+       % Blackboard: I will never lie about being cancelled again
+
+       ! The original airing had this blackboard gag to refer to the
+       ! misinterpretation of a remark by Matt Groening about the show's age.
+       ! It seems as though the decision to use this gag was close to the
+       ! last minute, because rather than a blackboard-driveway-couch intro
+       ! like those in season 6, as soon as Bart ran out the classroom door,
+       ! it essentially joined the usual short intro "in progress" with Homer
+       ! running for his life, so the driveway was not seen. In syndication,
+       ! the standard short intro (with driveway) is used instead. I have
+       ! heard that a different opening was used on a later Fox run, but
+       ! until I hear something concrete I will use the first airing's
+       ! properties here. See also DABF17 below.
+
+ ~~~~~    ACT I    <---->   (0:08)   6:24 / 6:32
+ ~~~~~    ACT II   <---->   (0:12)   8:19 / 8:31
+ ~~~~~    ACT III  <0:04>   (0:07)   5:25 / 5:32
+
+         Manjula: All right, we will write a list.
+       %   Marge: [excited, rubbing her hands together] At the Golden Banana?
+<0:04> % Manjula: No!
+       %
+       % Manjula crosses her arms and Marge sighs.
+
+             Apu: Over, under, round and round,
+                  so your feet won't touch the ground.
+
+ ~~
+       * Compression stops once Apu has looked at his reincarnation chart.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48*
+
+
+ ==[ DABF15 ]================================= Little Girl in the Big Ten ===
+         CUTS:  0 seconds     GAINED: 38 seconds      21:18 / 21:56
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:11)   5:46 / 5:57
+ ~~~~~    ACT II   <---->   (0:18)   9:28 / 9:46
+ ~~~~~    ACT III  <---->   (0:09)   4:54 / 5:03
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48*
+
+
+ ==[ DABF16 ]============================================ The Frying Game ===
+         CUTS:  0 seconds     GAINED: 12 seconds      21:19 / 21:31
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:23 / 0:23
+ ~~~~~    ACT I    <---->   (0:09)   5:37 / 5:46
+ ~~~~~    ACT II   <---->   (0:03)   7:55 / 7:58
+ ~~~~~    ACT III  <---->   (----)   6:36 / 6:36
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ DABF17 ]============================== Poppa's Got a Brand New Badge ===
+         CUTS:  0 seconds     GAINED: 28 seconds      21:18 / 21:46
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:07)   5:23 / 5:30
+ ~~~~~    ACT II   <---->   (0:11)   7:49 / 8:00
+ ~~~~~    ACT III  <---->   (0:10)   6:56 / 7:06
+
+       ! This promo bit didn't make it to the final aired version; it was
+       ! almost certainly because the producers didn't like the joke, because
+       ! there was plenty of time. In spite of that, I'm listing it here;
+       ! it was probably intended to go right before Homer went outside to
+       ! face Fat Tony.
+
+       # In the Simpsons' dining room, Lisa tugs at Homer's arm.
+       #
+       #  Lisa: [pleading] Run away!
+       #
+       # Cut to Bart, who's holding a purplish gown with a light-colored
+       # skirt of some sort, by the hanger. It's partly resting on the floor
+|5.5|  # because of Bart's stature.
+       #
+       #  Bart: [picking it up slightly] You can wear one of Mom's dresses.
+       #
+       # Homer frees himself from Lisa's grip, then walks slowly toward the
+       # door. He speaks lamentingly:
+       #
+       # Homer: I haven't been a size 6 since my prom.
+
+ ~~
+       ! A curious cut at the end of Act III; in the original, the executive
+       ! producer credits were sped up to make room for this, so it's a
+       ! zero-length cut, but the image originally took up almost two seconds
+       ! (and here, of course, takes up none). It seems like an odd thing to
+       ! take out, unless he's not dead anymore or (like DABF14) maybe it was
+       ! inserted after the making of the "master copy" that the syndicators
+       ! used for the synd version. In another 10 years when season 13 comes
+       ! out on DVD I wonder if such things will be included.
+
+         Homer tucks Maggie in. The Sopranos music starts, and the camera
+         zooms in as Maggie opens her eyes and smiles slyly behind her
+         pacifier. Fade to black,
+       %                          then quickly to this slide:
+       %
+       %      --------------------
+       %      |                  |
+       %      |  [Lisa and Dr.]  |
+       %      |  [Gould in lab]  |
+       %      |  [ from 5F05  ]  |
+<0:00> %      |                  |
+       %      |                  |
+       %      --------------------
+       %    Dedicated to the memory
+       %               of
+       %       STEPHEN JAY GOULD
+       %
+       % Fade back out, more quickly in original,
+                                                  to Al Jean's slide.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ ------ ]================================================================

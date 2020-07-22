@@ -1,0 +1,615 @@
+<PRE>
+Dancin' Homer                            Written by Ken Levine and David Isaacs
+                                                      Directed by Mark Kirkland
+===============================================================================
+[$Id: 7f05 1.5 91/12/17 14:45:08 raymond Exp Locker: raymond $]
+===============================================================================
+> Title sequence
+===============================================================================
+Blackboard :- `I will not trade pants with others'.
+              `I will not trade pants wit' at cutoff.
+
+Driveway   :- Homer says nothing when Lisa scoots past.
+
+Couch:     :- The family fit, with Maggie in Marge's 'do.
+===============================================================================
+> Didja notice...
+===============================================================================
+    ... the cash register at the stadium has a total of $1.14 in its
+        display? {mn}  At most stadiums, the cost of things is in
+        multiples of 5 cents, so as to avoid fussing with pennies.
+    ... Marge was loaded down with a huge satchel of pennants, etc.?
+    ... the angry people stuck behind Marge? {dh}
+    ... Bleedin' Gums Murphy's rendition of `The Star Spangled Banner'
+        began at 7:30pm and ended at 7:56pm, for a total of 26 minutes?
+    ... Smithers dusted off Mr. Burns' place with a brush not unlike
+        the one that umpires use to brush off home plate?
+    ... aside from the `Employees and...etc' group in section Z, the
+        stands were nearly empty?
+    ... the 'Topes' batter was out of the batter's box?
+    ... the mug shots hanging up in the announcer's box? {dh}
+    ... the organist (Helen) had a martini atop the organ?
+    ... and she had pictures of body builders on the wall behind her? {tws}
+    ... when the ball was hit, it flew over the moon? {dh}
+    ... the `Dancin' Homer' T-shirts were selling 2 for $24?
+    ... When Homer asks his supervisor for time off, he's standing in
+        front of a sign that says, ``DANGER!  DO NOT STAND HERE''?
+    ... Homer was selling `like new' golf clubs that were completely
+        bent out of shape?
+    ... as Homer finishes up his story, the mugs are still full of beer
+        as if they'd not been touched, they even have a good head? {dh}
+    ... at the very end, we see Richie Sakai [7f11] in Moe's Tavern
+        listening to Homer's story?  {tws}
+
+Dave Hall {dh}:
+    ... the old gal (dressed as a guard?) lets the guy with the video camera
+        go through, or that Bart sneaked in by using a couple as cover?
+        (Possible animation goof as the scenes before and after shows him
+        already in the stands.)
+    ... the wide shot of the Simpsons driving down the street shows what
+        appears to be cars double and triple parked?
+
+===============================================================================
+> Movie References
+===============================================================================
+  + The Tidewater Tides; see below
+  + The Natural
+        - slo-mo as Bill McCloskey hits a tater. {jdb}
+          (The music is also similar.)
+    Nearly any other movie about baseball (Major League, Mr. Destiny)
+        - and in true movie form, ever ball game ends either in a
+          home run or a strikeout.
+  + Bobby Thompson's home run
+        - `The Isotopes win a game!  The Isotopes win a game!'
+         (cf. `The Giants win the pennant!  The Giants win the pennant!')
+  + Friedrich Nietzsche
+        - ``That which does not destroy me makes me stronger.''
+  ~ Saturday Night Live / Wayne's World
+        - `I'm gonna miss you too.... not.'
+          (I don't know if SNL invented it [they probably didn't],
+           but at any rate, it's become mainstream, hence the ~.)
+  + Pride of the Yankees
+        - Homer's farewell speech to the fans.  ``I consider myself the
+          luckiest mascot on the face of the earth.''  (Lou Gehrig's
+          farewell address.)
+        - according to `Simpsons Illustrated'
+  + `New York, New York'
+        - the vamp for the song `Capital City' sounds like that of
+          `New York, New York'.
+
+===============================================================================
+> Freeze Frame Fun
+===============================================================================
+>> The billboards in the ballpark
+
+Theron Stanford {tws} kindly provides the list:
+
+    SPRINGFIELD SAVINGS   SAFE FROM 1890-1986   1988-
+
+    ROYAL MAJESTY   CLOTHING FOR THE OBESE OR GANGLY GENTLEMAN
+                                        (see `Simpson and Delilah'[7f02].)
+
+    Moe's Tavern  (with a beer mug)
+    HIT THIS SIGN AND
+    WIN A FREE WELL
+    DRINK
+
+    GIRDLES N' SUCH   Fancy Lingerie   THE SPRINGFIELD MALL
+
+>> Atop the car on the drive to/from Capital City were...
+
+    ... a tall potted tree.
+    ... a huge Homer-sized teddy bear.
+    ... a Krusty doll sticking(?) to the window. {dh}
+
+===============================================================================
+> Inside jokes
+===============================================================================
+Profuse thanks to Ken Miller for locating an article from the newspaper
+``Daily Press - Hampton Roads Newport News VA'' Nov. 16, 1990 written by
+Terry Armour. I certainly hope Mr. Armour and his paper take no offense to me
+passing along this newsworthy article.
+
+    -------------------------------------------------
+    Local baseball teams give inspiration to Simpsons
+    -------------------------------------------------
+
+    Fans of The Simpsons may have noticed an eerie local flavor in last
+    Thursday's episode on the Fox Network.
+
+    For those who didn't see the episode, Homer, the gruff but lovable
+    patriarch of the Simpsons' household, was the mascot for the local minor
+    league team.  His name was `Dancing Homer'.
+
+    `Dancing Homer' was so good at the local minor-league stadium, he made the
+    jump to the Major Leagues.  The major league team was owned by Dave
+    Rosenfield, as in the Tidewater Tides general manager.  There were also
+    references to Dave Glass, the Tides' former radio man, and there was a
+    player on the minor-league team named Flash Bailey as in Lash Bailey,
+    former Peninsula Pilot. [1]
+
+    It turns out the episode was written by Ken Levine, who for two years has
+    done some radio work for the Tidewater Tides.  Levine is a former writer
+    for the Emmy-award winning Cheers. [2]
+
+    According to Rosenfield, Levine hinted he would use Rosenfield's name in
+    an upcoming episode. Later, Rosenfield was told to watch Thursday's
+    episode.  His wife taped it for him.
+
+    ``I had a bunch of calls on it,'' Rosenfield said. ``People saw it and
+    thought it was interesting.  Funny thing about it is people always say,
+    `Ordinarily I don't watch the Simpsons but I just happened to watch it
+    Thursday.' ''
+
+    Rosenfield was somewhat a bad guy in the episode.  He fired Homer Simpson.
+
+    ``I haven't fired a mascot in my whole life, primarily because I haven't
+    hired one,'' Rosenfield said with a grin. ``I only fire assistant general
+    managers.''
+
+    Rosenfield admitted he's not a big fan of The Simpsons, having now watched
+    it just twice. Frankly, he doesn't find it funny. Rosenfield said he smiled
+    once during the Thursday's episode. ``I know it's a very successful show
+    and an awful lot of people like it,'' Rosenfield said. ``I'm just not one
+    of them. I don't like The Simpsons.''
+    ---------------------------------------------------------------------------
+
+Mr Miller concludes, ``Mr Rosenfields' opinions about The Simpsons are fine
+with me.  I don't like the Tidewater Tides.  So if you can believe what you
+read in the newspaper, this is the story behind the baseball episode of The
+Simpsons.''
+
+[1] Actually, the character's name was Flash Baylor.
+
+[2] Ken Levine and David Isaacs always work together as a team.
+    They wrote 28 `Cheers' episodes together, and earned two Emmy
+    nominations for their work.  (They didn't win, though.)
+
+[3] Oh, and by the way, the Tidewater Tides are the farm team for
+    the New York Mets, if you cared.
+
+===============================================================================
+> The Star Spangled Banner (spangled by a star)
+===============================================================================
+Oooooooooooooooooooooh say.
+    Can you,
+        I'm asking you,
+    can you seeeeeeeeee
+    byyyyyyyyyy the dawwwwwwwwwwwwwwwwwwww....
+
+    [time passes]
+
+    Aaand the rocket's red glaaaaaaaaaaare,
+    The bombs bursting, suit it on, pop and wail up in the aiiiiiiiiir....
+
+    [time passes]
+
+    ... laaaaaaaaaaaaaaand of theeeeeee....
+
+    [time passes]
+
+    ... hooooooooome of theeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+        braaaaaaaaaaaaaaaaaave.
+
+    [huge sigh of relief from crowd]
+
+===============================================================================
+> Capital City
+===============================================================================
+As they set out on their journey, they pass a sign that says, ``Capital City,
+220 miles.''
+
+>> Things in Capital City
+
+  * The Cross-Town Bridge (a suspension bridge)
+    [Cross-town?  What kind of city needs a cross-town bridge?]
+  * The Penny Loafer (a restaurant shaped like a... well... a penny loafer)
+  * Street crime.
+  * A bum who washes your car windshield.
+  * Tony Bennett singing the song, `Capital City'.
+  * The `Original' Frenchie's.
+  * Fourth Street and `D'.
+  * ``To the brave men of the Army Reserve'' statue.  (A man holding a gun
+    in one hand and a briefcase in the other.)
+  * The Duff Brewery.  (``Can't get enough of that wonderful Duff.'')
+  * A skimpily clad lady on the billboard shakes her leg; across the street,
+    a man with a `shocked' look (on the Laramie's billboard) blows smoke
+    rings (at her?). {dh}
+  * `Health for less'
+  * Neon sign for Bootleg T-Shirt Emporium.
+  * Neon sign for St. Dominick's Cathedral.
+
+>> The Capital City Song
+            words by Jeff Martin
+            performed by Tony Bennett
+            interjections by the Simpson family
+
+        [Homer: Well, kids, there it is!  Capital City!]
+        [Marge: Look, the Cross-Town Bridge!]
+    [begin vamp]
+        [Bart: Wow!]
+        [Homer: Wow.]
+
+    There's a swingin' town I known called... Capital City.
+
+        [Lisa: The Penny Loafer!]
+
+    People stop and scream hello in... Capital City.
+
+        [Homer: Kids, look!  Street crime!]
+
+    It's the kind of place that makes a bum feel like a king.
+
+        [Homer: Wow, that's service!]
+
+    And it makes a king feel some nutty, cuckoo, super-king.
+
+        [Marge: Look, it's Tony Bennett!]
+        [Tony: Hey, good to see you.]
+
+    It's against the law to frown in... Capital City.
+
+    You'll caper like a super-clown when you chance to see...
+
+        [Marge: Fourth Street and `D'!]
+
+    ... Fourth Street and `D'!  Yeah!
+
+    Once you get a whiff of it, you'll never want to roam.
+
+        [Homer: The Duff brewery!]
+
+    Capital City, my home sweet, yeah!
+    Capital City, that happy-go city,
+    It's Capital City, my home sweet swingin' home!
+
+        [All: Capital City!  Yeah!]
+
+The song was also performed during the closing credits, but our local
+affiliate decided that hyping `Beverly Hills 90210' was more important
+than hearing Tony Bennett.  Anyone care to check if there were any
+new verses?
+
+>> Where is Capital City?
+
+Theron Stanford {tws} notes...
+
+Capital City seems to be a synthesis of a number of large American
+metropolitan areas.  The "crosstown bridge" is a parody of SF/East Bay,
+as well as perhaps NY.  Also, Capital City has two restaurants named
+"The Penny Loafer" and "The `Original' Frenchie's".  In Los Angeles,
+there used to be a restaurant called "The Brown Derby" which indeed
+was in the shape of a hat.  And there still is a hamburger stand on
+Beverly and Rampart called "The Original Tommy's".  They have a number
+of affiliated stands, as well as a few copycats such as "Tom's Number 5",
+hence the epithet "original".
+
+===============================================================================
+> The Capital City baseball team
+===============================================================================
+>> In the locker room {dh}
+
+The `Playdude' pin-up in one of the lockers.  (cf. [7f02])
+
+Pan show of locker room shows one of the players placing a cake on the seat
+of another player (playing poker), who is about to sit down.  Another player
+is placing a sharp object (tack?) under the seat of the player who's placing
+the cake under the other player, while another player is testing the
+flexibility of a towel behind that player.  Off camera, you hear the sound
+of a crack and a yelp.
+
+>> What happens on the field as Homer waits for his big break {jdc}
+
+The right fielder catches a foul pop up and lands right next to Homer.
+Everyone runs out on the field for a fight (one guy pops up in the air).
+The Goof Ball rides by on a bicycle.
+
+===============================================================================
+> Other stuff
+===============================================================================
+>> Since this episode was a flashback, there is no inconsistency with
+Mr. Burns having an outdated index card on the Simpsons, though it does
+conflict with their banishment from all company outings in ``There's No
+Disgrace Like Home''.  Apparently, Homer was forgiven after his mascot
+escapades.
+
+>> Homer and Burns drank three 72oz tubs, which comes out to 18 beers each,
+3/4 of a case!  Burns must have set a world's record for blood alcohol
+level since he only weighs about fifty pounds. {ptb}
+
+>> Antoine Tex O'Hara
+
+Eric Jablow {ej} points out:  For many years, New York's WABC-TV evening
+news had a popular weatherman, Tex Antoine.  Tex had been around for 20
+years or so, but he self-destructed in a gruesome way.  In the mid-70s,
+his spot came up just after a report of a rape case.  Tex thereupon said
+about the last story, ``Confucius says, `If rape be inevitable, just lie
+back and enjoy it.' ''  This so-called joke got him first suspended, and
+then fired.  [The incident was a major news story at the time.  Whether
+this is an intentional reference or just a coincidence is still
+unresolved. --rjc]
+
+===============================================================================
+> Quotes and scene summary
+===============================================================================
+% At Moe's Tavern, the gang beg Homer to tell his story...
+
+Homer:  There's only one thing worse than being a loser.  It's being one
+        of those guys who sits in a bar telling a story of how he became
+        a loser, and I never want that to happen to me.
+Barney: Please, Homer?
+Moe:    Yeah, come on, Homer.
+Homer:  Well, okay.
+-- Homer becomes one of those guys who sits in a bar telling a story of
+   how he became a loser, ``Dancin' Homer''
+
+% The story begins at `Nuclear Plant Employees, Spouses, and No More
+% Than Three Children Night', at Springfield War Memorial Stadium to
+% watch the local minor-league team, the Springfield Isotopes, known
+% as the 'Topes to its fans...
+
+[police sirens wail in the distance]
+Heh, I think we lost 'em.  Hey, and we're at the ballpark!  Awright!
+Two birds with one stone!
+-- Otto drives the bus to the ballpark, ``Dancin' Homer''
+
+% pull back to see the huge set of skid marks leading up to the bus.
+% Heading into the stadium...
+
+Homer: You know, boy, some of the players you see tonight may make it
+       to the big leagues someday.
+Bart:  What?  Aren't we going to see any washed-up major-leaguers?
+Homer: Sure!  We get a nice mix here.
+-- At the ballpark to watch the local minor league team, ``Dancin' Homer''
+
+% Lisa looks forward to seeing poetry in motion, but Homer looks forward
+% to the 72-ounce tubs of beer.
+
+Marge: Last year you got a little rambunction and mooned the poor umpire.
+Homer: Marge, this ticket doesn't just give me a seat, it also gives me the
+       right, no, the duty! to make a complete ass of myself.
+Marge: Mph.
+-- At the ballpark to watch the local minor league team, ``Dancin' Homer''
+
+% At the gate, Mr. Burns greets each family as it arrives.
+
+Burns: Ah, the Gammels.  Good to see you.
+Mr.G.: You're an inspiration to all of us in waste management, sir.
+Burns: Well, take your mind off contaminants for one night and have a hot dog!
+       [laughs]
+-- Out of the frying pan... ``Dancin' Homer''
+
+Burns: Ah, well, if it isn't the Simps!
+Homer: Uh, it's Simp-son, sir.
+Burns: Eh?  [refers to the index card] Oh, yes.  Homer and Marge Simpson.
+       Oh, and these must be Bart, Lisa, and uh, `expecting'.
+-- At Nuclear Plant Employees, Spouses, and No More Than Three Children Night
+   ``Dancin' Homer''
+
+% At the stadium, Flash Baylor doesn't sign a baseball for Bart, so
+% Marge angrily takes the ball and approaches him.  She returns with the
+% ball...
+
+Marge: Here you go, Bart.
+Bart:  [reads the inscription]  Springfield Kozy Kourt Motel, Room 26,
+       How about it? -- Flash.
+Homer: Wow!  Flash Baylor came onto my wife!  You've still got the magic,
+       Marge.
+-- Marge gets a baseball autographed, ``Dancin' Homer''
+
+% Homer appears on `Jumbo-Vision', and is embarrassed to find that his
+% zipper is undone.
+
+Announcer: Ladies and gentlemen, throwing out tonight's first ball,
+           the man whose name is synonymous with our nation's safest
+           and cleanest energy source, Mr. Montgomery Burns!
+           [isolated smatterings of applause]
+Smithers:  Oh, they love you, sir.
+-- At the ballpark, ``Dancin' Homer''
+
+% Burns only manages to throw the ball two feet and is taunted by Homer,
+% Bart, and even Lisa.  The National Anthem is sung by Bleeding Gums
+% Murphy, and Lisa is the one one who manages to stay awake for all of
+% it.  The game between the Springfield Isotopes and the pesky Shelbyville
+% Shelby-Villians begins, the 'Topes hoping to snap a record 26-game
+% losing streak.  Burns is shown to his seat...
+
+Ah, sitting with the employees.  I guess this proves I'm their friend.
+Tsk, get me something on an aisle, Smithers, I don't want to be
+<surrounded> by them...
+-- Monty Burns joins his employees at the ball game, ``Dancin' Homer''
+
+% ... which is right next to Homer.  The two smile nervously at each other.
+% Homer bemoans his fate.  Burns orders a tub of beer for himself and
+% Homer.
+
+Wait a minute, we're not having a drug test tomorrow, are we?
+-- Homer suspects a trap when Burns buys him a beer at the ball game,
+   ``Dancin' Homer''
+
+% The cost of two 72-ounce tubs is $2.50.  The game continues,
+% and Homer and Burns join in taunting the players, and doing `the wave'
+% (which looks pretty stupid with only two people).  It's now the bottom
+% of the ninth.  One out, the bases are loaded, and the 'Topes are down
+% by three.  The batter strikes out (``of course'').
+
+Big Bill McCloskey coming up.  As soon as he pops out, we'll go right to the
+post-game show.
+-- Dan Horde calls the game between the 'Topes and Shelbyville,
+   ``Dancin' Homer''
+
+% To the music of `Baby Elephant Walk', Homer dances on the dugout and
+% fires up the crowd, to the embarrassment of his family.  (Lisa covers
+% Maggie's eyes, as well as her own.)
+
+And I got up in front of them.  I felt an intoxication that had nothing to
+do with alcohol.  It was the intoxication of being a public spectacle!
+-- Homer narrates his story, ``Dancin' Homer''
+
+% And it works.  McCloskey belts a homer out of the park to win the game.
+% But Homer's antics earn him a `banned for life' stamp on his index card.
+% In the parking lot, a shoadowy figure approaches Homer.  It's Antoine
+% Tex O'Hara, the owner, who hires Homer as the team's mascot.
+%
+% [End of Act One.  Time: 9:22] [pretty long]
+%
+% Homer is decked out in his goofy `Dancin' Homer' outfit and drags the
+% family away from dinner to go to the game.
+
+Our lives have taken an odd turn.
+-- Lisa comments on Homer's goofy costume as... ``Dancin' Homer''
+
+Homer:     Don't fill up on those vegetables, kids.  Save room for your nachos!
+Lisa+Bart: All right!
+Marge:     [disapprovingly] Mmm.
+-- Homer takes the kids to the ballpark dressed as... ``Dancin' Homer''
+
+% At the park, Homer is a hit.
+
+For the first time in my life, people weren't laughing at me,
+they were laughing <towards> me!
+-- Homer narrates his story, ``Dancin' Homer''
+
+% The 'Topes win a second game, and Homer eventually gets top billing on
+% the signage.
+
+A Simpson on a T-shirt.  I never thought I'd see the day...
+-- Marge reacts disapprovingly to Homer's likeness on a T-shirt,
+   ``Dancin' Homer''
+
+% Homer tries to cast a spell on an opposing player, and gets threatened.
+% He asks the organist to play `Baby Elephant Walk' with a reggae beat.
+% And two long-haired Caribbean types express their approval.  It's the
+% bottom of the ninth, the bases are loaded, and there are two outs...
+
+S! P! R! I! N! G! F! E! E! L! D!!  Springfield!!!!!
+-- Homer spells out the town name while dressed as... ``Dancin' Homer''
+
+% But it doesn't help; the 'Topes lose.  Homer is called to Tex's office
+% and is informed that he's going to be promoted to the big leagues, to
+% fill in for the Capital City Goofball a couple innings a night.
+
+Tex:   Why don't you talk it over with your family?
+Homer: Because they might say no.
+-- Homer learns he's being promoted to work for the Capital City team,
+   ``Dancin' Homer''
+
+This was the biggest decision the Simpsons ever faced.
+I should've listened to the kids instead of my big, dumb wife.
+Oh, I shouldn't have called her that.
+Bite my tongue.  Bite my tongue.  Mmph.  Ow!
+-- Homer narrates his story, ``Dancin' Homer''
+
+% He tells the family...
+
+Lisa:  I can't leave Springfield!
+       I was born here and I thought I would die here!
+Homer: It won't be so bad.  You'll die someplace else.
+-- On moving to Capital City, ``Dancin' Homer''
+
+% Bart fears losing his friends, but Homer says he'll make new ones.
+
+We're simple people with simple values.  Capital City is too big and
+too complex.  Everyone in Springfield knows us and has forgiven us.
+-- Lisa lists some reasons not to move to Capital City, ``Dancin' Homer''
+
+% But Marge tells Homer that this may be his calling in life and he should
+% go for it.  The kids are won over.
+
+Whatever doesn't kill me can only make me stronger!
+-- Lisa gives in and agrees to move to Capital City, ``Dancin' Homer''
+   [paraphrasing Nietzsche]
+
+% Even Maggie raises her arms in triumph.  Homer asks his supervisor for
+% a leave of absence.
+
+Sure, what would you like?  Four years?  Five years.
+-- Homer's supervisor grants him a leave of absence, ``Dancin' Homer''
+
+% The family holds a yard sale, and Ned has trouble finding the right words...
+
+Ned:   I don't know how to say this, but uh...
+Homer: Oh, knock it off, Flanders; don't start blubbering on me.
+       I'll miss you too.... [aside] not.
+-- Homer prepares to move to Capital City, ``Dancin' Homer''
+
+% In the treehouse, Bart and Millhouse seal their bond as `spit brothers'.
+% (``Ewwww...'')
+
+Lisa:    I can't help but fell that if we had gotten to know each other
+         better, my leaving would actually have meant something.
+Friends: Yeah.
+-- Lisa bids farewell to her classmates, ``Dancin' Homer''
+
+% Marge bids farewell to her sisters, and Homer gives a tearful farewell
+% speech to his fans at Homer Appreciation Night.
+%
+% [End of Act Two.  Time: 14:42]
+%
+% The car is packed, and the family drive to Capital City.  They arrive
+% at night and are awed at being in the city.  They admire the sights...
+
+Kids, look!  Street crime!
+-- Homer drives the family through Capital City, ``Dancin' Homer''
+
+% then check into the Come Back motel for the night.  Homer practices his
+% spelling, but Marge tells him to come to bed.  ``We would talk about it
+% always.  For the first time in our lives, Marge fell asleep before I did.''
+%
+% At the stadium, Homer goes in the ``Players-Mascots Entrance'', while
+% Marge and the kids get their tickets in the players' wives section.
+
+Bart was strangely quiet.  Later, he explained he was confused by feelings
+of respect for me.  It wouldn't last.
+-- Homer narrates his story, ``Dancin' Homer''
+
+% Homer talks to the Capital City Goofball (``If there's anything I can do
+% for you, just squeeze the wheeze'' [squeezes his nose, which honks]),
+% and learns he's going to be doing the fifth inning.
+
+Goof:  What exactly do you have planned for us?
+Homer: Well, I get up and dance, and I spell out the name of the city,
+       all to the tune of `Baby Elephant Walk'.
+Goof:  Ah, Mancini.  The mascot's best friend.
+-- Homer and the Capital City Goofball plan their strategy, ``Dancin' Homer''
+
+% On his way out, Goof bumps into a hanging lamp.
+
+Well, hello again, everybody.  Dave Glass talking at ya.
+We've got great weather here tonight, under the dome...
+-- Calling the baseball game, ``Dancin' Homer''
+
+% Marge and the kids get seats in the upper-upper-upper-mezzanine, and it's
+% not the players' wives section; it's the players' ex-wives section.
+
+Homer:  [narrating] I was too tense to enjoy the game.  Every ounce of
+        concentration I possessed was focused on the task at hand.
+Vendor: Red hots!  Getcher red hots here!
+Homer:  Ooh, red hots!
+-- ``Dancin' Homer''
+
+% The spotlight shines on Homer, who quickly scarfs down his hot dog and beer,
+% then launches into his act.  But he's a total flop.  He is called into
+% the owner's office, who fires him (``and for God's sake, put some clothes
+% on.'')  The family wait depressed outside the ``players-mascot'' entrance,
+% but they put up a good front for Homer when he comes out.
+
+Oh, what a family.  My wife and kids stood by me.  On the way home, I
+realized how little that helped...
+-- Homer narrates his story, ``Dancin' Homer''
+
+% And that's the story.  Homer is amazed that everyone was hanging on his
+% every word.  The bar denizens beg Homer to tell it again, and he agrees.
+% ``I wonder why stories of degradation and humiliation make you more
+% popular.''  Moe responds, ``I dunno.  They just do.''
+%
+% [End of Act Three.  Time: 20:27]
+%
+% Over the closing credits, Tony Bennett sings the `Capital City' song.
+===============================================================================
+Episode summaries Copyright 1991 by Raymond Chen.  Not to be redistributed
+in a public forum without permission.  (The quotes themselves, of course,
+remain the property of The Simpsons, and the reproduced articles remain
+the property of the original authors.  I'm just taking credit for the
+compilation.)
+</PRE>

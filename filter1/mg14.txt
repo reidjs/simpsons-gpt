@@ -1,0 +1,84 @@
+% B = Bart, L = Lisa, M = Marge, H = Homer, O = Mortician
+%
+% A nondescript room in the Simpsons house.  A brown couch is in the corner.
+% On the wall is a picture of an ocean liner.
+%
+% Marge and Homer stand together at stage left, facing the three kids
+% gathered at stage right.  Bart bounces a green ball.  Lisa holds a
+% rabbit doll.  Maggie just sucks away.
+
+H: Children, we have some very sad news for you.
+   I think you'd better sit down.
+
+% The kids don't move.
+
+H: Sit down!!
+
+% The kids sit down on the couch.  Bart drums his fingers.
+
+M: Children, your elderly Uncle Hubert has passed away.
+
+% The kids look at each other.
+
+H: Do you have any questions?
+L: Yeah.  What does `passed away' mean?
+
+% Bart mimes slitting his throat (with appropriate sound effects).
+
+B: You know.  Kicked the bucket, pulled the croak chain, had a meeting
+   with Old Mr. Grim, the...
+H: Bart!!
+B: [with reverence]  That he died.
+
+% The three kids bow their heads.
+%
+% [End of Act One. Time: 0:28]
+%
+% At the funeral home, the family have dour expressions, except for Bart,
+% who grins evilly.  The mortician peeks through the curtain.
+
+O: Would the family care to view the loved one at this time?
+
+% They head in.  Bart clasps his hands in wicked anticipation.
+
+B: Oh, boy!  I've never seen a dead body before.
+   I bet his skin'll be all green and clammy and stuff.
+   It'll be just like a zombie movie, only real!
+L: [sticks out her tongue] Ewww...
+
+% They reach the casket.  Homer and Marge look in and continue on.
+% The girls look in and continue on.
+% Bart (still grinning in anticipation) looks in, the grin vanishes
+% from his face, he turns green, and he faints.
+%
+% [End of Act Two. Time: 0:54]
+%
+% The pallbearers carry the casket to the grave, the Simpson family
+% bringing up the rear.
+
+B: Man, this is so slow!
+
+% Bart runs ahead to the open grave.
+
+B: Steady boys... Easy there...  Whoa!  Little to the left...
+
+% Homer comes up from behind and grabs Bart, covering his mouth.
+%
+% [End of Act Three. Time: 1:08]
+%
+% In the car on the way home, Homer drives while muttering angrily
+% to himself.  The kids are in the back, Maggie in a pink car seat.
+
+M: Children, you were very, very naughty today.
+
+% Shot of the three kids as they frown, ashamed.  Homer continues
+% to grumble.
+
+M: Your father and I are quite disappointed in the three of you.
+H: This is absolutely the last funeral we ever take you kids to.
+L: Awww!
+B: Awww, c'mon, man!
+
+% [End of Act Four.  Time: 1:28]
+
+<|endoftext|>

@@ -1,0 +1,613 @@
+<PRE>
+Krusty Gets Busted                  Written by Jay Kogen and Wallace Wolodarsky
+                                                          Directed by Brad Bird
+===============================================================================
+7G12 Revision: C Date: 2002/7/30 By: Andrew A. Gill Original: Raymond Chen
+===============================================================================
+> TV Guide synopsis
+===============================================================================
+No one is sadder than Bart when his TV hero Krusty the Clown is
+arrested for a convenience-store robbery, and witness Homer has to
+testify against the clown.
+
+===============================================================================
+> Title sequence
+===============================================================================
+Blackboard :- `They are laughing at me, not with me'.
+              `They are laughing at me, n' at cutoff.
+
+Driveway   :- Homer yells ``Auugh!'' when the car closes in on him.
+
+Couch      :- Maggie squirts into the air.  Marge catches her and
+              places her on her lap.
+
+===============================================================================
+> Didja notice ...
+===============================================================================
+    Special Guest Voice
+        Kelsey Grammer (Sideshow Bob)   [totally inspired casting --rjc]
+
+    ... Krusty uses a spanner to stir food cooked in a saucepan? {cjb}
+        (Ah, bachelor living.)
+    ... The `A' in `Action' news looks like an `F' and `I' written close
+        together?  ``Fiction news''?
+    ... Krusty's prison number was A113?  Brad Bird's signature.
+    ... Krusty is just barely over 5 feet tall?
+    ... the font for ``BUSTED'' is worse than most stencil fonts (it's all
+        bubbly)?
+    ... Krusty holds a copy of _Catcher in the Rye_ (upside-down)?
+    ... the picture of a lightning bolt through a man's heart on the front of
+        the microwave?
+    ... apparently, Marge thinks it takes an insane criminal genius to knock
+        off a convenience store?
+    ... Homer says that Krusty has red hair?
+
+    Mary Upton
+    ...Krusty is in his usual clothes during the operation?
+
+
+===============================================================================
+> Reviews
+===============================================================================
+
+Yours Truly {rjc}:  Another classic.  They just keep comin'.
+
+===============================================================================
+> Goofs
+===============================================================================
+
+= the Kwik-E-Mart door opens (when "Krusty" leaves) before he steps on
+  the sensor? {James Evans}
+= The first row for the public (where Bart may or may not be sitting) in the
+  courthouse keeps changing {Gabor Kiss}
+
+===============================================================================
+> Movie (and other) References
+===============================================================================
+  ~ Hamlet, Act I, Scene 2, line 146.
+        - ``Comedy, thy name is Krusty'' {Steve Frayne}
+  + National Review
+        - Springfield Review of Books {Carl Edman}
+  + Black Sox Scandal (baseball)
+        - `Say it ain't so, Krusty!'
+        - see comments
+  + Perry Mason
+        - The district attorney
+  + Mission Impossible
+        - The music as Bart and Lisa arrive at the scene of the crime
+  + Eine Kleine Nachtmusik (Mozart)
+        - The theme to Sideshow Bob's Cavalcade of Whimsy
+  + Scooby Doo
+        - ``And I would've gotten away with it, too,
+            if it weren't for these meddling kids.''
+  + The New York Review of Books
+        - The Springfield Review of Books
+  + The Day the Music Died (Feb. 3 1959)
+        - The Day the Laughter Died
+  + Rusty Nails
+        - see comments
+
+===============================================================================
+> Freeze Frame Fun
+===============================================================================
+>> Magazines
+   Timely:  Picture of Krusty.  ``Krock of the Year''
+   Newsweekly:  Picture of Krusty.  ``<unclear> with Dastard''
+   Today's Guns:  Man with a gun.  ``357 Magnum:  The Clownn [sic] Stopper''
+
+>> Sideshow Bob's Cavalcade of Whimsy
+   Sideshow Bob's dressing room reads, ``Sideshow Bob Enterprises''
+
+>> In the Kwik-E-Mart
+
+     B U R G E R
+     2 for 99 [cent sign]
+
+   On a slight (~15 degree) incline:
+
+     MILK CHOCOLATE
+     IN A CAN 99 [cent sign]
+
+
+===============================================================================
+> Comments and other observations
+===============================================================================
+>>Springfield Whoop-Ass Team
+
+SWAT stands for Special Weapons And Tactics.  It's a special team that some
+police departments have for combating unusually difficult threats.  This is
+odd, since Springfield probably 1) wouldn't have the resources to build a
+good SWAT team, and 2) probably wouldn't need it, anyways.  The fact that the
+SWAT team burst into Krusty's house to arrest him probably means that they had
+nothing better to do, since he probably wouldn't be that difficult to handle.
+
+>>Say it Ain't so, Cecil Adams!
+
+Unfortunately, I don't have the Straight Dope book that deals with this, but
+the story seems to be popular enough.  In 1919, the Chicago White Sox were
+accused of accepting bribes to throw the World Series.  Ultimately, they were
+all acquitted, but the baseball commissioner banned them from baseball for
+life.
+
+One of the people who provided information on the alleged conspiracy,
+``Shoeless'' Joe Jackson, was supposedly confronted by a small boy, who asked
+him to ``Say it ain't so, Joe!''  Joe responded, ``Yes, kid, I'm afraid it
+is.''
+
+Joe Jackson has denied the story, and it is generally considered that a
+Chicago columnist made the story up, but it still persists as an example of the
+loss of innocence that came out of the scandal, and presumably Bart's reaction
+to Krusty's incarceration.
+
+>>I Wish I had a reason to use this:
+
+Doc Quack has figured out a way to reconcile all of the inconsistencies of
+Krusty's illiteracy.
+
+Krusty is really a secret agent, engaged in counter-spying upon a group in
+Springfield.  The group is there, trying to find out the amphibious cars (made
+only in Springfield) are made and what keeps them afloat.
+
+In order to keep the group off guard, he poses as illiterate whenever one of
+the spies are around....
+
+>>Comedy, thy name is Rusty Nails
+
+According to the commentary on the Season 1 DVD, Krusty is loosely modeled
+after Rusty Nails, a Christian radio clown.  Groening had a hard time
+reconciling the grotesque name with a supposedly nice man, and chose the name
+Krusty as a reference to this man.
+
+>>Other observations
+
+Dave Sommer notes that Chapter 34 of _The Man in the Iron Mask_ does not have
+anything like what Sideshow Bob said. (A brief glimpse at Chaps. 34 and 35
+says that he's right)
+
+>> References
+>>> Previous episodes
+    [7G03] The Duff Beer commercial
+
+===============================================================================
+> Quotes and scene summary
+===============================================================================
+% Krusty putters on stage and greets his audience.
+
+Krusty: Hi, kids!  Who do you love?
+Kids:   Krusty!
+Krusty: How much do you love me?
+        [Bart and Lisa watch the show at home]
+Bart+Lisa+Kids: With all our heart!
+Krusty: What would do if I went off the air?
+Bart+Lisa+Kids: We'd kill ourselves!
+-- Making life worth living, ``Krusty Gets Busted''
+
+% Krusty and Sideshow Bob (who does not speak but rather uses a slide whistle)
+% are joined on stage by Whitney, a young girl celebrating her birthday.
+% Whitney has a choice:  Either Krusty can sing her a birthday song, or they
+% can shoot Sideshow Bob out of a cannon.  The audience chants, ``The cannon!
+% The cannon!'' and Whitney chooses the cannon.
+%
+% Sideshow Bob is loaded in the cannon, and Krusty suggests that the reason
+% the cannon trick never worked before is that they didn't use enough
+% gunpowder!  Whitney ignites the cannon, but when the gunpowder explodes,
+% the cannon recoils off the stage.  The cannon tips forward, and Sideshow
+% Bob oozes out.  Krusty leads the kids in a tag line...
+
+Krusty: Don't blame me...
+Krusty+Kids:  <I> didn't do it!
+-- Words to live by, ``Krusty Gets Busted''
+
+Comedy, thy name is Krusty.
+-- Bart, ``Krusty Gets Busted''
+
+% Next up is an Itchy and Scratchy cartoon.
+
+Bart+Lisa:  [laugh at an Itchy and Scratchy cartoon]
+Marge: My, all this senseless violence.  I don't understand the appeal.
+Bart:  We don't expected you to, Mom.
+Lisa:  If cartoons were meant for adults, they'd put them on in prime time.
+-- ``Krusty Gets Busted''
+
+If cartoons were meant for adults, they'd put them on in prime time.
+-- Lisa, ``Krusty Gets Busted'
+
+% At work, Homer's donut-dunking is interrupted by a phone call from Marge,
+% who asks him to pick up a half gallon of Premium ice cream on his way
+% home from work.  Homer suspects a trick, and his fears are confirmed when
+% Marge explains that Patty and Selma are going to show slides of their
+% trip to the Yucatan.  (``D'oh!'')
+%
+% There's a knock at the door.  The Bouvier twins have arrived.
+
+Oooooh, eight carousels!  We're in for a real treat!
+-- Marge welcomes her sisters, laden with slides of their latest trip,
+   ``Krusty Gets Busted''
+
+% Bart and Lisa are not pleased by this.
+%
+% Homer ambles into the Kwik-E-Mart...
+
+Hello, steady customer!  How are you this evening, sir?
+-- Apu welcomes Homer, ``Krusty Gets Busted''
+
+% ... and walks past a masked Krusty, heating up a burrito in the microwave.
+
+Mmm... Chocolate...
+Ooooh, double chocolate...
+Gasp!  New flavor!  Triple chocolate!
+-- Homer buys ice cream, ``Krusty Gets Busted''
+
+% He also picks up ``something for the trip back to the cash register'',
+% walking past Krusty hiding inconspicuously behind a magazine.
+
+What's the matter, sir?  Never have I seen you so unhappy when you are
+purchasing such a large quantity of ice cream.
+-- Apu to Homer, ``Krusty Gets Busted''
+
+% As Homer explains that he's going home to suffer through a slide show hosted
+% by ``the gruesome twosome'', Krusty crosses over and gets in line behind
+% Homer.  As Homer leaves, he accidentally steps on Krusty's foot (earning
+% a tongue-lashing), and sees that Krusty has a gun.  Homer dives into the
+% potato chips display.
+
+Krusty: [holding a gun]  Hand over all your money in a paper bag.
+Apu:    Yes, yes, I know the procedure for armed robbery.
+        I do work in a convenience store, you know.
+-- ``Krusty Gets Busted''
+
+% Krusty takes the money and leaves.
+
+You can emerge now from my chips.
+The opportunity to prove yourself a hero is long gone.
+-- Apu to a (cowardly) Homer, ``Krusty Gets Busted''
+
+% Meanwhile, Marge and the kids suffer through a slide show.
+% (Bart wears a sombrero, Lisa a red poncho.)
+
+Patty: This is a Mexican delicacy called a `taco platter'.
+Selma: Mmm, delicious.
+-- Narrating a slide show of their trip to the Yucatan, ``Krusty Gets Busted''
+
+% Next is a slide of Selma taking a siesta in her bra.  Says Bart,
+% ``Aye, Carumba!''
+%
+% Back at the Kwik-E-Mart, Homer describes the perpetrator to a sketch artist.
+% Only after the artist finishes the drawing does Homer recognize the face as
+% Cruddy, Crummy... Krusty the Clown!
+%
+% In his apartment, Krusty mixes himself a drink and relaxes.  Through the
+% windows burst a SWAT team, and Krusty is thrown to the floor, a gun pointed
+% at his head.
+
+Krusty: Hey, what's going on, here?
+Wiggum: Krusty the Clown, you're under arrest for armed robbery.
+        You have the right to remain silent.
+        Anything you say, blah blah blah, blah blah blah blah blah.
+-- You know the rest, ``Krusty Gets Busted''
+
+% Homer is called to the station to identify Krusty in a line-up.
+
+Send in the clowns!
+-- Chief Wiggum prepares for a police line-up, ``Krusty Gets Busted''
+
+% A group of clowns is brought in, and Homer has trouble containing his
+% laughter.  (``If the crime is making me laugh, they're <all> guilty!'')
+% Homer eventually identifies Krusty.
+%
+% Back at home, even Marge is bored of the slide show.
+
+And this is all the mail that awaited us upon our return.
+[click, next slide]
+And this is Selma dropping off our vacation film to be developed.
+Thus concludes our Mexican Odyssey.
+-- Patty shows vacation slides, ``Krusty Gets Busted''
+
+% The kids have already fallen asleep.  ``Very... thorough,'' says Marge as
+% she turns on the light.  Homer finally arrives and begins telling the story
+% of his ordeal, but decides to let the TV news tell the story.
+
+Why did the clown cross the road?
+To rob a Kwik-E-Mart.
+A new story behind that enigmatic half-joke after this commercial message.
+-- Scott Christian anchors the newscast, ``Krusty Gets Busted''
+
+% During the commerical (for Duff Beer), Homer talks to Bart about Krusty.
+
+Homer: Bart, you know that guy on your lunchbox?
+Bart:  Oh, you mean Krusty the Clown?
+Homer: He's sort of a hero of yours, isn't he?
+Bart:  Are you kidding?  He's my idol!
+       I've based my life on Krusty's teaching.
+-- Krusticism?  ``Krusty Gets Busted''
+
+% Homer tries to get Bart out of the room before the news returns, but too
+% late.  Bart: ``Gasp!  Krusty!''  Lisa:  Oh, no!''  Maggie: *suck* *suck*.
+
+Earlier this evening, the Springfield SWAT team apprehended
+the TV clown, who appears on a rival station, opposite our
+own Emmy award winning Hobo Hate.
+-- Scott Christian's news flash, ``Krusty Gets Busted''
+
+% And just in, surveillance film from the Kwik-E-Mart security camera.
+% Homer's remark about the ``gruesome twosome'' is broadcast for all to hear.
+% Bart is crushed, but Marge suggests that perhaps Krusty is innocent.
+
+Earth-to-Marge.  Earth-to-Marge.  I was there.  The clown is G-I-L-L-T-Y.
+-- Homer, ``Krusty Gets Busted''
+
+% In his room, Bart glumly stares at his huge Krusty poster, then picks up
+% a Krusty doll.  He pulls the string, and it says, ``You're
+% my best friend.''  Another pull.  ``Buy my cereal!  Wuh-huh-huh-huh!''
+% And, ``<I> didn't do it!''
+%
+% [End of Act One.  Time: 7:14]
+%
+% Over a snazzy graphic ``Krusty Gets Busted'', Kent Brockman anchors the news.
+
+Good evening again, Springfield.  Krusty the Klown, the beloved idol of
+countless tots, now nothing more than a common (alleged) criminal.
+-- Kent Brockman reports... ``Krusty Gets Busted''
+
+His trial, which begins tomorrow, has taken center ring in a national media
+circus, as children of all ages, from 8 to 80, hang onto each new
+development like so many Rumanian trapeze artists.
+-- Kent Brockman reports... ``Krusty Gets Busted''
+
+% He continues, ``From his humble beginnings as a street mime in Tupelo,
+% Mississippi, Krusty climbed to the top of a personal mini-empire, with
+% dozens of endorsements including his line own line of pork products.
+% This may have led to one of television's best-loved bloopers, his near
+% fatal heart-attack, in 1986.''
+
+Krusty: Wasn't that a great Itchy and Scratchy cartoon, kids?
+        Well, we've got another one coming right up.
+        But first!  I've got a hankerin' for some pork products!
+        [Sideshow Bob wheels in a barebecue grill]
+        Mmmm.... Look!  Plump, succulent sausage.  Honey-smoked bacon.
+        And glistening, sizzling.... Aaaagh!  D'oh!
+        [Krusty clutches his chest and contorts his face]
+Kids:   Ah-hah-hah-hah-hah!
+Krusty: [collapses, his hand slowly descending out of frame]
+        Heart...attack... Gagh!  I'm... dying...  I'm dying...
+Kent:   [watching on a monitor]  Heh heh heh.
+-- Krusty's near-fatal heart attack in 1986, ``Krusty Gets Busted''
+
+% ``But a triple-bypass and a pacemaker later, Krusty bounced back.  However,
+% he was a changed clown.  Where his show had been condemned by parents and
+% educators alike as simple-minded TV mayhem...''  Sideshow Bob slowly mashes
+% a cream pie into Krusty's face.  Krusty punches Sideshow Bob in the mouth.
+% ``... this `new' Krusty devoted a small portion of every show to stamping
+% out illiteracy in today's anything-for-a-thrill youth.''  Krusty holds
+% up a book (upside-down) and says, ``Give a hoot!  Read a book!''
+%
+% Reverend Lovejoy calls upon the citizens of Springfield to gather up the
+% merchandise related to the ``Clown Prince of Corruption'' for a public
+% burning.
+%
+% Krusty's trial begins tomorrow.  Fade to an un-made-up Krusty in prison
+% garb, taken into the courthouse.
+
+Bart:   Look at him.  His clothes are so drab.
+Lisa:   His face is so flesh-colored and sad.
+Bart:   And his feet.  They're so small.
+        [grabs Krusty] Say it ain't so, Krusty!
+Atty:   Uh, my client has no comment at this time.
+Krusty; [meekly]  I didn't do it!
+        [all laugh as Krusty is dragged away on his heels]
+-- Once a clown, always a clown.  ``Krusty Gets Busted''
+
+% In court...
+
+Judge:  Krusty the Clown, how do you plead?
+Krusty: [brightly] I plead guilty, your honor.
+        [huge gasp from the crowd, Krusty looks around surprised]
+Atty:   [whispers into Krusty's ear]
+Krusty: Oh, heh heh heh, not guilty, heh heh heh.
+        Opening-night jitters, your honor.
+-- Just picture them in their underwear, ``Krusty Gets Busted''
+
+% The prosecuting attorney calls Homer to the stand.  Bart begs Homer not to
+% do it, to no avail.
+
+Mr. Simpson, was that you taking that cowardly dive into that display of
+heavily-salted snack treats?
+-- Prosecutor at Krusty's trial, ``Krusty Gets Busted''
+
+% The prosecutor invites Homer to point out the man who held up the
+% Kwik-E-Mart.   Homer raises his finger and sees Bart silently begging
+% and pleading.  Homer fingers Krusty.  Bart puts his head in his hands.
+% (``Oh, man...'')  The prosecutor asks that the record show that Homer
+% ``eventually'' pointed at Krusty.
+%
+% In Lisa's room, Marge tosses all Krusty-related merchandise into a
+% brown paper bag, including the Krusty pacifier Maggie is sucking on.
+
+These toys are just adorable.  Who would have guessed they were inspired
+by an insane criminal genius.
+-- Marge throws out Krusty-related toys, ``Krusty Gets Busted''
+
+% Maggie puts a new pacifier in her mouth.  Homer meanwhile loads up a
+% wheelbarrow with the Krusty stuff in Bart's room.
+
+Bart:  Dad, you're giving in to mob mentality!
+Homer: No I'm not, I'm hopping on the bandwagon!
+       Now come on, son, get with the winning team!
+-- ``Krusty Gets Busted''
+
+% The toy burning is about to begin.  (A souvenir stand nearby sells
+% Krusty dolls.  ``Buy 'em an' burn 'em!'')
+
+Good people, I'm so happy you're all here tonight.  But please, just a few
+words of caution.  Now, we are going to set this pile of evil ablaze, but
+because these are children's toys, the fire will spread quickly, so please
+stand back and try not to inhale the toxic fumes.
+-- Reverend Lovejoy coordinates a Krusty-burning, ``Krusty Gets Busted''
+
+% *Foom!*  The pile ignites in a mushroom cloud of flame.  Bart watches
+% sadly.
+%
+% At the trial, the prosecutor asks Krusty to identify exhibit B, but Krusty
+% can't.  He confesses that he's illiterate, to the shock of all.  ``Is it
+% a crime to be illiterate?''  The prosecutor shows him exhibit B...
+
+Prosecutor: Betting slips, indicating that you've lost substantial sums
+            of money on sports gambling.
+Krusty:     [dramatically]  Is it a crime to bet on sporting events?
+Prosecutor: Yes, it is!
+Krusty:     [meekly]  Oh.
+-- Krusty's trial, ``Krusty Gets Busted''
+
+% The jury has reached a verdict.
+
+Foreperson: We find the defendant, Krusty the Clown...  Guilty.
+Crowd:      [gasp!]
+Defense Attorney:  Ugh!  [bangs the table]  I knew it!
+            This happens to me every time!
+-- ``Krusty Gets Busted''
+
+% At home, Lisa and Maggie watch the Krusty the Clown show, sans Krusty.
+% Sideshow Bob puts his slide whistle to his lips, then sets it back down.
+% ``My young friends, for years I have been silent, save for the crude
+% gissandos of this primitive wind instrument.  But now, destiny has thrust
+% me in the center ring!  In the coming weeks, you will notice some rather
+% sweeping changes in our program.  Please do not be alarmed, Itchy and
+% Scratchy will still have a home here.  But we will also learn about
+% nutrition, self-esteem, etiquette, and all the mindly arts...''
+% Bart comes in.  ``What the hell are you doing, Lis?''  Lisa is watching
+% Sideshow Bob.  Bart sneers, ``You back-stabber!  You traitor!  You...''
+% Lisa slaps him.  ``Snap out of it, Bart!  Face the facts!  All those hours
+% we spent staring at Krusty, we were staring at a crook!''  Bart shuts
+% off the television set and says he knows Krusty is innocent.
+
+Bart: I bet I can prove Krusty's innocent, but... [meekly] I need your help.
+Lisa: [genuinely not knowing]  You do?  Why?
+Bart: Oh, come on, Lis, you know why.
+Lisa: No!  Why?
+Bart: I'll never forgive you for making me say this, but...
+      [deep breath]  You're smarter than me.
+Lisa: [adorable smile]
+-- ``Krusty Gets Busted''
+
+% Lisa agrees to join Bart.  First stop, the scene of the crime.
+
+[hiding behind the counter]
+Okay, don't try anything funny.  I'm armed to the teeth.
+-- Apu, once bitten twice shy, ``Krusty the Clown''
+
+% Lisa points out the sign on the microwave:  ``People with pacemakers should
+% stay away from this thing.''  Says Bart, ``So?  <I> don't have a pacemaker.''
+% Lisa explains that Krusty does, yet the surveillance film shows Krusty
+% at the microwave.  Next, Lisa reminds Bart that Krusty can't read.
+% (``Okay, okay, so the poor guy can't read, will ya get off his back
+% already?'')  Yet the surveillance film shows Krusty reading a magazine.
+
+Hey, hey, this is not a lending library!
+If you're not going to buy that thing, put it down or I'll blow your heads off!
+-- Apu, ``Krusty Gets Busted''
+
+% Lisa agrees that Krusty was framed.  But by whom?  Bart suggests they talk
+% to Krusty's best friend in the whole world:  Sideshow Bob.
+%
+% Sideshow Bob finishes a reading from Chapter 34 of The Man in the Iron Mask,
+% then concludes with a song.  Heading into his dressing room, Sideshow Bob
+% bites his finger and sobs for poor Krusty.  Once inside, the sobs turn into
+% an evil cackle...
+%
+% [End of Act Two.  Time: 16:04]
+%
+% In his dressing room, Sideshow Bob enjoys a glass of wine while chatting
+% with various folks wanting to merchandise his likeness.  A security guard
+% informs him that there are some kids who would like to talk to him, and
+% the suits offer to defer the contract-signing to tomorrow, then leave.
+%
+% Bart, Lisa, and Maggie are shown in.  As Sideshow Bob puts on his shoes,
+% he says it's close to show time and gives the kids free tickets.
+%
+% The show begins.  He asks the kids, ``Who<m> do you love?'' (Grammer on
+% grammar) and the kids respond, ``Sideshow Bob!''  Bart remains silent.
+
+Come on, Bart, go with the flow!
+-- Lisa, ``Krusty Gets Busted''
+
+% Sideshow Bob spots an unhappy child in the audience (Bart) and invites
+% him to chat.  Bart is reluctant, but Lisa shoves him onstage.
+
+Sideshow Bob: So what's on your mind, Bart?  Is it that other children
+              don't accept you?
+Bart:         Sure, Sideshow Bob, but that doesn't bother me.
+-- Armchair psychiatry, ``Krusty Gets Busted''
+
+% Bart says that he and his sisters think Krusty was framed.  First, the
+% thief used a microwave, but Krusty couldn't.  Sideshow Bob responds that
+% Krusty was not the sort of person to follow doctor's orders.  Next,
+% Bart mentions the magazine...
+
+The fact is, you don't have to be able to read to enjoy the Springfield
+Review of Books.  Just look at these amusing caricatures of Gore Vidal
+and Susan Sontag.
+-- Sideshow Bob, ``Krusty Gets Busted''
+
+% Bart concedes the point.  Sideshow Bob admits that he has big shoes to
+% fill.  The phrase ``big shoes to fill'' echo through Bart's mind as he
+% remembers that Homer stepped on the thief's foot, yet Krusty has small
+% feet.  On the other hand, Sideshow Bob has large feet...
+
+There was a school of thought called stoicism...
+-- Sideshow Bob hosts his Cavalcade of Whimsy, ``Krusty Gets Busted''
+
+% Bart levels his accusation at Sideshow Bob.  He grabs the microphone.
+
+Bart: Attention, fellow children!  Krusty didn't rob that store!
+      Sideshow Bob framed him, and I got proof!
+      [whams Sideshow Bob's foot with a mallet]
+Sideshow Bob: [hopping and grabbing his foot]
+      Ow!  You lousy, stupid clumsy...
+Kids: Gasp!
+Bart: See that?  Krusty wore big, floppy shoes, but he's got little feet,
+      like all good-hearted people.  [whams Sideshow Bob's other foot]
+Sideshow Bob: [on the floor, grabbing his feet]
+Bart: But Sideshow Bob really filled those shoes with these ugly feet!
+      [removes Sideshow Bob's shoe, revealing his big, ugly feet]
+The Cop:  [watching the show, eating donuts]  Kid's right.
+The Other Cop: [doing the same]  How do you suppose we missed that?
+-- ``Krusty Gets Busted''
+
+% Chief Wiggum (holding a donut and watching the show in his office) tells
+% the two cops to go down and arrest Sideshow Bob.
+%
+% Outside the studio, Sideshow Bob, in handcuffs, dramatically confesses
+% to his crime.  He couldn't stand being the constant victim of Krusty's
+% on-screen pranks.
+
+And I would've gotten away with it, too, if it weren't for these meddling kids.
+-- Sideshow Bob, ``Krusty Gets Busted''
+
+Treat kids like equals!  They're people too!  They're smarter than you think!
+They were smart enough to catch me!
+-- Sideshow Bob is carted away to jail, ``Krusty Gets Busted''
+
+% Krusty is released from prison (in makeup and his stage clothes, complete
+% with squeaky shoe), to great applause.  Chief Wiggum makes an apology,
+% as does Homer.
+
+I sincerely hope that the horrible stories I heard about what goes on in
+prison are exaggerated.
+-- Homer to Krusty, ``Krusty Gets Busted''
+
+% Krusty thanks the one boy whose faith never wavered:  Bart.  The handshake
+% is captured in a photo, which Bart tacks on his wall.  The picture is
+% inscribed in shaky handwriting, ``To my best pal Bart, Krusty''.
+% Bart goes to bed, nestled comfortable under his Krusty blanket, his
+% room filled with Krusty merchandise.
+%
+% [End of Act Three.  Time: 20:37]
+===============================================================================
+Episode summaries Copyright 1992 by Raymond Chen.  Updated 2002 Andrew A. Gill.
+Unattributed discrepancies between this and the previous revisions are mine.
+Kenneth Branagh is a better Shakespearian actor than Kelsey Grammer.  Not to be
+redistributed in a public forum without permission.  (The quotes themselves, of
+course, remain the property of The Simpsons, and the reproduced articles remain
+the property of the original authors.  I'm just taking credit for the
+compilation.)
+</PRE>

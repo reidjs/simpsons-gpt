@@ -1,0 +1,737 @@
+<PRE>
+Treehouse of Horror (also known as ``The Simpsons Halloween Special'')
+[Bad Dream House]                     Written by Jay Kogen & Wallace Wolodarsky
+[Hungry Are the Damned]                                   and John Swartzwelder
+[The Raven]                                     and Edgar Allan Poe & Sam Simon
+[Bad Dream House]                                        Directed by Wes Archer
+[Hungry Are the Damned]                                              Rich Moore
+[The Raven]                                                     David Silverman
+===============================================================================
+7F04 Revision: B Date: 2003/09/22 By: Andrew A. Gill Original: Raymond Chen
+===============================================================================
+> Didja notice...
+===============================================================================
+    ... the rats around the manhole cover? {dh}
+    ... the episode began with Homer saying, ``I love Halloween.''
+        and it ended with Homer saying, ``I hate Halloween''? [Chris Colby]
+        He also begins and ends the episode with a sheet over his head.
+    ... the lighting behind Lisa makes it look like she has a halo around
+        her head? {cjb} (Towards the end of the show, when she
+        says, ``well it was written in 1845...'')
+    ... the Springfield Tire Fire in the opening credits?
+
+[Bad Dream House]
+    ... the bunny doll beside the box that Bart is unpacking? {dh}
+    ... Marge is wearing bunny slippers? {dh}
+    ... Bad Dream House has a moat?
+    ... Bart's hand as he says ``Do It?''
+
+[Hungry Are the Damned]
+    ... James Earl Jones also played `the Preparer'?
+    ... Homer's apron reads, ``Mafia Staff Apron''?
+    ... when the bug zapper is turned on, there's a big, juicy zap and a
+        little `Ow'  (From `The Fly')?  ``My, that was a <big> momma.''
+    ... the aliens are watching `Itchy and Scratchy'?
+
+===============================================================================
+> Reviews
+===============================================================================
+
+Yours Truly {rjc}:  Absolutely stupenderiffic.  Lots of lines that are
+hilarious in context, like ``Man, this place has got everything!'' and
+the fall-out-of-my-chair, ``Hey, listen, lady!''
+
+===============================================================================
+> Movie References
+===============================================================================
+  + Don't Open `til Doomsday (Outer Limits episode)
+        - The implosion of Bad Dream House
+  ~ Ghostbusters
+        - The kitchen acting up as a woman puts away groceries
+  + The Lone Ranger
+        - Tonto
+  + Frankenstein
+        - disclaimer
+  + EC Comics Horror Tales
+        - Halloween episode
+    The Shining
+        - everyone trying to kill each other with knives, hatchets, etc.
+  + The Exorcist
+        - Maggie's head turning all the way around.
+    Poltergeist
+        - Bart strangled by house
+        - The behavior of the haunted house.
+        - Indian graves in the cellar.
+    Addam's Family house
+        - inspiration for Bad Dream House
+  + The Amityville Horror
+        - inspiration for Bad Dream House
+        - Blood oozing down the walls. {my}
+        - The wall with a chimney running up the center and
+          quarter-circle windows on each side. {dl}
+  + Psycho
+        - The shape of the haunted house.
+    The Fall of the House of Usher
+        - The death of the haunted house.
+  + The Fly
+        - The `Ow' you hear when the bug zapper does its thing.
+  ~ Star Trek, ``The Day of the Dove''
+        - Kang is the name of the Klingon commander.
+        - Kodos is the name of another bad guy (``The Conscience of the King'')
+        - Serak is a pun/anagram on Sarek, Spock's father, with perhaps
+          some influence from Surak, a Vulcan philosopher.
+  + Twilight Zone (To Serve Man)
+        - The cookbook, `How to cook for forty humans'
+    + Mafia Staff Car bumper stickers
+        - Mafia Staff Apron
+    + Vertigo
+        - track and zoom as Lisa seen the spaceship
+        - the moving staircase in Bad Dream House is also reminiscent of this
+    + Alien
+        - the corridor on the spaceship
+    + Edgar Allen Poe [thank you, Curtis Hoffman]
+        - Bust of Poe
+        - Cask of Amontillado (on Homer's table)
+        - Bust of Peter Lorre (who starred in Tales of Terror, inspired by Poe)
+        - Forgotten Lore, Vol. II
+        - The Pit And The Pendulum
+        - The Tell Tale Heart
+        - The Purloined Letter
+        - The Raven (well, as long as I'm making a list...)
+    + Cornelius Vanderbilt, 19th Century mogul
+        - Cornelius V. Simpson
+    + Casper, the Friendly Ghost
+        - Casper, the friendly boy
+
+
+===============================================================================
+> Comments and Other Observations
+===============================================================================
+
+>> .mih ssiM  .nam ,daed si luaP
+   
+Paul McCartney on the tombstone is a reference to the `Paul is Dead'
+hoax of 1969.  (According to the hoax, Paul was killed in a car crash in
+1966 and was replaced by an exact duplicate.)
+
+Further, many Beatles songs supposedly featured ``clues'' to Paul's
+demise.  ``Number nine'' (Revolution #9) backwards says ``Turn me on,
+deng men'' and the babble at the end of ``I'm So Tired'' backwards says
+``ul is debneh, miss him, miss him, miss him.''  And the best clue,
+``the Walrus *was* Paul'' from ``Glass Onion.''  According to the
+rec.music.beatles FAQs, all four Beatles have vigorously denied any
+connection to the hoax (I suppose Pete Best was unavailable for comment).
+
+>> Previous episodes
+
+[7G10] Fried shrimp for Lisa.
+
+>> Misc
+>> Misc
+
+Matt Groening wanted the title for the Alien book to be ``How to Cook
+for Forty Humans and then Eat Them,'' but it was vetoed.
+
+For this capsule, the text of the Raven used is that which is listed by
+the E.A. Poe Society of Baltimore as `T'.  It was the last version printed
+before Poe's death.  The full poem may be found here:
+&lt;http://www.eapoe.org/works/poems/ravent.htm&gt;
+
+
+
+===============================================================================
+> Animation, Continuity, and Other Goofs
+===============================================================================
+
+= The Pong ball sometimes rotates like a real ping pong ball, even though I
+  don't think that the original Pong did.
+        
+- Marge is spreading something from a jar labeled ...onaise.  I wouldn't eat
+  anything from a jar that misspelt its contents, but then again, I don't
+  even like mayonnaise.
+
+= When Marge is chewing out the house for the last time, the rest of the
+  family blinks in unison twice.  This might not be a goof, but it is really
+  creepy.
+
+===============================================================================
+> Freeze Frame Fun
+===============================================================================
+>> Tombstones in Springfield Cemetery
+
+    Ishmael Simpson
+    Ezekiel Simpson
+    Cornelius V. Simpson
+      - see references
+    Garfield
+    The Grateful Dead
+    Casper The Friendly Boy
+    Elvis
+    Your Name Here
+    Paul McCartney
+      - see comments
+    Disco
+
+Brian Howard {bh} reports that in the script for this show, the final
+gravestone at the beginning was going to be ``Erwin Rommel -- Desert
+Fox and Loving Husband'', but it was one of the things that got edited out.
+
+>> The tombstones in the basement
+
+Courtesy of Curtis Hoffmann:
+
+    Hiawatha
+    Cochise
+    Sitting Bull
+    Pocahontas
+    Crazy Horse
+    Not So Crazy Horse
+    Geronimo
+    Sacajawea
+    Mahatma Gandhi [a different kind of Indian --rjc]
+    Tonto
+
+>> Books in the episode:
+        
+American Literature - has Poe's ``The Raven''
+Music Book for Saxophone - Lisa unpacks this
+
+===============================================================================
+> Quotes and scene summary
+===============================================================================
+% On a stage, Marge pops out from behind a curtain.
+
+Hello everyone.  You know, Hallowe'en is a very strange holiday.  Personally,
+I don't understand it.  Mm mm...  Kids worshipping ghosts, pretending to be
+devils.  Oooh, things on TV that are <completely> inappropriate for younger
+viewers.  Things like the following half hour.  Nothing seems to bother <my>
+kids. But tonight's show, which I totally wash my hands of, is really scary.
+So if you have sensitive children, maybe you should tuck them into bed
+early tonight instead of writing us angry letters tomorrow.  Thanks for
+your attention.
+-- Marge's disclaimer, ``Treehouse of Horror''
+
+% ``The Simpsons Halloween Special''.  Thunderstorm.  Pan across Springfield
+% Cemetery...  Push in on the Simpsons' home, panning upward to the treehouse,
+% where Lisa's distinctive hairstyle can be seen in the window.  Down below,
+% a sheeted ghost approaches.  It's Homer, carrying a bag of treats.
+
+Ooh, what a haul this year.  I <love> Hallowe'en!
+-- Homer returns from a night of trick-or-treating, ``Treehouse of Horror''
+
+% He spots the light on in the treehouse and investigates.
+%
+% Inside, Lisa holds a flashlight to her face and concludes telling her
+% scary story to Bart and Maggie.  Bart is hardly impressed and says it
+% wasn't scary.  After a brief ``Is not!''/``Is too!'' argument, Lisa
+% hands Bart the flashlight and tells him to give it his best shot.
+% ``Here's a story that's reeeeeeeeeeeeally scarifying.''  (``Oh, brother.'')
+%
+%==============================================================================
+% Bad Dream House                                  Written by John Swartzwelder
+%                                                     Directed by Wesley Archer
+%==============================================================================
+%
+% The mover finishes moving the Simpsons' stuff into their new mansion;
+% Bart and Lisa set to unpacking.  Homer tips the moving man a dollar.
+% He grumbles, ``I'm glad there's a curse on this place,'' on his way out.
+% Marge wonder why they were able to buy the house for so little.
+
+Prime location, eighteen bedrooms, moat...
+-- Marge admires the family's new mansion,
+   ``Bad Dream House'' in ``Treehouse of Horror''
+
+% Meanwhile, Bart unpacks.  He removes a book and sets it down, which
+% mysteriously floats into the air and goes back into the box.  Bart removes
+% the same book and sets it down, etc.  Another book propels itself across
+% the room, hitting Lisa.  Lisa accuses Bart of throwing the book.
+
+House: Geeettt ooouuuttt...
+Marge: What on earth was that?
+Homer: Probably just the house settling.
+-- The Simpsons buy a haunted house,
+   ``Bad Dream House'' in ``Treehouse of Horror''
+
+% Marge carries pots and pans into the kitchen, which is dripping with blood.
+
+Mm...  This kitchen <certainly> could use a woman's touch.
+-- Marge discovers a blood-covered kitchen in their new home,
+   ``Bad Dream House'' in ``Treehouse of Horror''
+
+% She discovers a swirling hole in the wall and calls Homer in.
+
+Lisa:  It looks like a vortex.  A gateway into another dimension.
+Homer: Oooh, a vortex.  [takes an orange and tosses it in]  Catch!
+       [the orange disappears with a pop]
+       Heeeeey!  Pretty slick!
+       [a crumpled-up piece of paper comes back]
+Lisa:  [reads the message]  ``Quit throwing your garbage into our dimension.''
+-- ``Bad Dream House'' in ``Treehouse of Horror''
+
+Quit throwing your garbage into our dimension.
+-- A message from the beyond, ``Bad Dream House'' in ``Treehouse of Horror''
+
+% A cry for help is heard from the living room, where the family discover
+% Bart and Maggie suspended in midair, assorted objects flying about.
+% Homer pulls Bart down.  ``Okay, boy.  Let's see you talk your way out
+% of <this> one!''  Lisa shivers with fear.
+
+Lisa:  I can feel an evil presence in this house.
+Marge: Evil!?
+Homer: Quiet, Lisa.  You're scaring your mother.
+-- First things first, ``Bad Dream House'' in ``Treehouse of Horror''
+
+% Marge tells the kids to get their coats; they're leaving right now.
+% The kids' coats magically float into their arms.
+
+It's only natural there be <some> things wrong with an old house like this.
+It's a fixer-upper!
+-- Homer explains the family's new (haunted) house,
+   ``Bad Dream House'' in ``Treehouse of Horror''
+
+% ``We get a couple of priests in here...''  As Homer defends his position,
+% he floats into the air.  Then falls twenty feet to the floor.  Marge
+% reluctantly agrees to sleep on it.  (The idea, not the floor.)
+%
+% That evening...
+
+House: They are all against you, Bart... You must kill them all...
+       They all must die...
+Bart:  Are you my conscience?
+House: I... [pause] ... Yes, I am.
+-- A conversation with the... ``Bad Dream House'' in ``Treehouse of Horror''
+
+% Meanwhile, the house tells Lisa, ``Lisa... The butcher knife, Lisa...''
+% Lisa takes a butcher knife out of her drawer.  (``Weird kid,'' observes
+% Chris Baird {cjb}.)  She tests its sharpness and grins evilly.
+%
+% In his bedroom, Homer wields an axe.  ``They are all against me...  They
+% all must die...''  In her crib, Maggie sits up, and her head spins around.
+% In the kitchen, Marge reaches for a serrated bread knife...
+%
+% Homer wanders into the kitchen, followed by Bart (cleaver), Lisa (butcher
+% knife), and Maggie (paring knife).  Maggie holds the knife between her
+% teeth.  The four march in a circle, laughing maniacally.  In the kitchen,
+% Marge lowers her knife...
+%
+% To spread mayonnaise on a sandwich.  She emerges into the living room
+% and asks, ``What's going on out here!''  Everyone apologizes to each
+% other.  (Maggie sucks apologetically.)
+
+This family's had its differences, and we've squabbled,
+but we never had knife fights before.
+-- Marge, after the infamous knife scene,
+   ``Bad Dream House'' in ``Treehouse of Horror''
+
+% Lisa opens the door to the cellar and discovers...
+
+Lisa: It's an ancient Indian burial ground...
+Bart: Man, this place has got everything!
+-- ``Bad Dream House'' in ``Treehouse of Horror''
+
+% Homer angrily dials the phone.
+
+Mr. Bloot?  Homer Simpson here.  When you sold me this house, you forgot to
+mention one little thing:  YOU DIDN'T TELL ME IT WAS BUILT ON AN INDIAN BURIAL
+GROUND!  ...   NO YOU DIDN'T!  ...  Well, that's not <my> recollection. ...
+Yeah?  Well, all right, goodbye!  [angrily hangs up]  He said he mentioned
+it five or six times.
+-- Homer, ``Bad Dream House'' in ``Treehouse of Horror''
+
+% Marge is about to leave.
+
+You will diiiiieeeee.  You will die slowwwwwwwly.
+Your stomach will swelllllllll, your intestines will wriiiithe and booooil.
+Your eeeeeyes will buuuuurn.  And some horrible stuuuuuuuff, possibly
+your braiiiiin, will start coming out through your noooooooose.
+-- A house that knows how to get its point across,
+   ``Bad Dream House'' in ``Treehouse of Horror''
+
+% Marge finally blows up and gives the house a good tongue-lashing.  She
+% then catches herself.  ``My hands are shaking!''  Homer consoles her,
+% ``Better than your eyes bursting.  Ugh.''
+
+Bart:  Do it again!
+House: What?
+Bart:  Make the walls bleed.
+House: No!
+Bart:  Hey, man, we own you.  Let's see some blood!
+House: I don't have to entertain <you>.
+Bart:  Come on, man, do it.  Do the blood thing.  Come on, do it.
+       Do it, do it, do it, do it, do it!
+-- Bart talks to the ... ``Bad Dream House'' in ``Treehouse of Horror''
+
+% Meanwhile, Lisa takes a more sensitive approach.  The house whines,
+% ``Leave me alone...''  Marge steps in, ``Don't talk to her like that.''
+% The house rejoinds, ``Hey, listen, lady!''  Marge tells the house that
+% that will have to learn to live together.  The house asks to think about
+% it, and the family step outside.
+
+Hm... Life with the Simpsons.  What choice do I have?  [self-destructs]
+-- The House, ``Bad Dream House'' in ``Treehouse of Horror''
+
+% The house folds in on itself and explodes.
+
+Bitchin'!
+-- Bart watches the house self-destruct,
+   ``Bad Dream House'' in ``Treehouse of Horror''
+
+It chose to destroy itself rather than live with us.  One can't help but
+feel a little rejected.
+-- Lisa, ``Bad Dream House'' in ``Treehouse of Horror''
+
+% The family trudge down the street.
+%
+% [End of Act One]
+%
+% Lisa is unimpressed, so Bart decides to show her...  ``This severed finger!''
+% He opens a matchbook, revealing a severed finger.  (Insert scary music.)
+% Maggie removes her pacifier and sucks on the finger.  Bart quickly discards
+% the matchbox.  (``Ewww!  Baby spit!'')
+%
+% ``That was just a warm-up for this mock-a-bree [sic] tale which I call...''
+%
+%==============================================================================
+% Hungry Are the Damned                 Written by Jay Kogen and Wal Wolodarsky
+%                                                        Directed by Rich Moore
+%==============================================================================
+%
+% The Simpsons are having a barbecue on the back patio.  Homer turns on the bug
+% zapper, then empties an entire can of lighter fluid into the grill.  ``That
+% should just about do it.''  He tosses in a match.  FOOM!  A mushroom cloud
+% forms over the Simpsons house.
+%
+% Lisa is the first to spot a flying saucer hovering over the backyard.  All
+% investigate.  (Homer eats a hamburger.)  A shaft of orange light descends
+% and lifts one by one the members of the family into the saucer.  (Though
+% it has considerable difficulty lifting Homer.)
+%
+% A drooling, green, octopus-like alien introduces himself.
+
+Alien: Greetings.  I am Kang.  Do not be frightened.  We mean you no harm.
+Marge: You, you speak English.
+Alien: I am actually speaking Rigelian.  By an astonishing coincidence,
+       both of our languages are exactly the same.
+-- The Simpsons are abducted by aliens,
+   ``Hungry Are the Damned'' in ``Treehouse of Horror''
+
+% Kang explains, ``Kodos and I are taking you to Rigel IV, a world of
+% infinite delights to tantalize your senses and challenge your intellectual
+% limitations.''
+
+Look, I know that to you, we Simpsons are a lower order of life.
+We face that prejudice every day of our lives...
+-- Lisa pleads for mercy from the aliens,
+   ``Hungry Are the Damned'' in ``Treehouse of Horror''
+
+% But her plea is interrupted by a buffet cart.  ``Take all you want, but
+% eat all you take.''  For Lisa, fried shrimp.  For Bart, Sloppy Joe's.
+% For Homer, pork chops.  And for Marge...
+
+Radish rosettes!  These are hard to make.  They're a very advanced race.
+-- Marge admires the aliens' food,
+   ``Hungry Are the Damned'' in ``Treehouse of Horror''
+
+% Kang, drooling, invites them to ``grow large with food.''  Lisa suspects
+% something isn't quite right, and Homer agrees.  He orders applesauce.
+
+Alien: [drooling] Your wife is quite a... dish.
+Homer: Oooh, thanks.
+-- ``Hungry Are the Damned'' in ``Treehouse of Horror''
+
+% The family are shown to the entertainment center.
+
+Alien: On this cable system, we receive over one million channels from the
+       furthest reaches of the galaxy.
+Bart:  Do you get HBO?
+Alien: No, that would cost extra.
+-- Showing the flying saucer's entertainment center,
+   ``Hungry Are the Damned'' in ``Treehouse of Horror''
+
+% Next, Kang shows the family video pong.  The family scoff.
+
+Alien 1: Anyone from a species that has mastered intergalactic travel
+         raise your hand.  [raises his tentacle]
+Alien 2: [raises his tentacle]
+Bart:    [raises his hand]
+Homer:   [slaps Bart's hand]
+Alien 1: All right, then.
+Marge:   I'm sorry. Your game is very nice.
+-- After the Simpsons chuckle at the `Pong' video game on the UFO,
+   ``Hungry Are the Damned'' in ``Treehouse of Horror''
+
+% Dinner is announced.  Lisa asks why the aliens never eat, and they explain
+% that they are saving their appetite for a great feast that awaits them on
+% Rigel IV.  Marge asks if they're invited.  Kang answers, ``You'll be at the
+% feast.  I have a feeling you'll be the Guests of Honor...''  The aliens
+% chuckle.  Homer asks for more details, but Kodos explains, ``When we arrive,
+% there will be plenty of time to chew the fat...''  Lisa doesn't touch her
+% food.
+%
+% While the aliens weigh Bart and Homer, Lisa explores.  She discovers the
+% cook reaching for a spice rack.  ``This will give the humans the perfect
+% flavor...''  He licks his lips and carries off the pot.  Lisa looks at the
+% cookbook:  ``How to Cook Humans.''
+%
+% She rushes back to the dining room and shows the family her discovery.
+
+Nobody, but NOBODY eats the Simpsons!
+-- Homer, ``Hungry Are the Damned'' in ``Treehouse of Horror''
+
+% (Homer's face is smeared with barbecue sauce.)  Kodos takes the book and
+% blows off the dust.  The real title is ``How to Cook <for> Humans.''
+% Lisa blows off more dust:  ``How to Cook <Forty> Humans.''  Kodos blows
+% off yet more dust.  The full title reads ``How to Cook <for> Forty Humans.''
+% The aliens are shocked and hurt that the Simpsons thought they were going
+% to eat them.  (``Frankly, you people made pigs of yourselves.'') Serak the
+% Preparer cries.
+%
+% The flying saucer returns the Simpsons to their backyard.
+
+Alien: We offered you paradise.  You would have experienced emotions
+       a hundred times greater than what you call love.  And a thousand
+       times greater than what you call fun.  You would have been treated
+       like gods and lived forever in beauty.  But, now, because of your
+       distrustful nature, that can never be.
+Marge: [aside] Mmmm.  For a superior race, they really rub it in.
+-- ``Hungry Are the Damned'' in ``Treehouse of Horror''
+
+% Lisa poetically observes, ``There <were> monsters on that ship, and truly
+% we were them.''
+
+Lisa, see what we mean when we say you're too smart for your own good?
+-- Marge, after Lisa ruins things yet again,
+   ``Hungry Are the Damned'' in ``Treehouse of Horror''
+
+% Bart chimes in, ``Way to go, Lis.''  Homer adds, ``Yeah, thanks, Lisa.''
+%
+% [End of Act Two]
+%
+% In the treehouse, Lisa reads a book.  Bart chokes himself, trying to get
+% her attention.  Lisa is reading ``a classic tale of terror by Edgar Allan
+% Poe.''  Bart suspiciously observes that she's reading a school book.
+% ``Don't worry, you won't learn anything.  It's called...''
+%
+%==============================================================================
+% The Raven                            Written by Edgar Allan Poe and Sam Simon
+%                                                   Directed by David Silverman
+%==============================================================================
+%
+% As Lisa reads, the scene changes to a scary mansion.
+%
+% Lisa:     Once upon a midnight dreary, [...]
+% Narrator:                        [...] while I pondered, weak and weary,
+%           Over many a quaint and curious volume of forgotten lore --
+%
+% Homer sits, asleep, with a book titled ``Forgotten Lore Vol. II'' on his
+% lap.
+%
+% When the tapping occurs in the next stanza, Homer wakes up with a start and
+% looks around nervously.
+
+
+
+Narrator: While I nodded, nearly napping, suddenly there came a tapping,
+          As of some one gently rapping, rapping at my chamber door --
+Homer:    "'Tis some visiter,"
+Narrator:                      I muttered,
+Homer:                                     "tapping at my chamber door --
+                                                  Only this and nothing more."
+Bart:     Are we scared yet?
+-- Lisa reads ``The Raven'' in ``Treehouse of Horror''
+
+% Homer returns to sleep.
+%
+% Narrator: Ah, distinctly I remember it was in the bleak December;
+%           And each separate dying ember wrought its ghost upon the floor.
+%           Eagerly I wished the morrow; -- vainly I had sought to borrow
+%           From my books surcease of sorrow --
+%
+% Homer wakes up and walks to a tall portrait of Lenore (Marge), her hair
+% going up so far that it requires a second panel.
+%
+% Narrator:                                     sorrow for the lost Lenore --
+% Homer:    [plaintively]  Oh, Lenore...
+% Narrator: For the rare and radiant maiden whom the angels name Lenore --
+%                                                 Nameless here for evermore.
+%
+% A rustle is heard outside.  Homer screams and hides behind the chair.
+%
+% Narrator: And the silken, sad, uncertain rustling of each purple curtain
+%           Thrilled me -- filled me with fantastic terrors never felt before;
+%           So that now, to still the beating of my heart, I stood repeating,
+%
+% Homer hides under the chair.
+%
+% Homer:    "'Tis some visiter entreating entrance at my chamber door --
+%                                                  This it is and nothing more."
+
+Narrator: Presently my soul grew stronger; hesitating then no longer,
+Homer:    "Sir,"
+Narrator:        said I,
+Homer:                   "or Madam, truly your forgiveness I implore;
+          But the fact is I was napping, and so gently you came rapping,
+          And so faintly you came tapping, tapping at my chamber door,
+          That I scarce was sure I heard you "
+Narrator:                                      -- here I opened wide the door; ----
+Homer:    [throws open the door and covers his eyes]
+Bart:     [impatiently]  This better be good.
+Homer:    [peeks through his fingers]
+Narrator:                                      Darkness there and nothing more.
+Homer:    Huh?
+-- ``The Raven'' in ``Treehouse of Horror''
+
+% Sitting outside the treehouse is Homer, clearly scared.  Bart complains,
+% ``You know what would have been scarier than nothing?''  ``What?''
+% ``ANYTHING!''
+%
+% Narrator: Back into the chamber turning, all my soul within me burning,
+%           Soon again I heard a tapping something&lt;1&gt; louder than before.
+% Homer:    "Surely,"
+% Narrator:           said I,
+% Homer:                      "surely that is something at my window lattice;
+%           Let me see, then, what thereat is, and this mystery explore --
+%
+%
+% Homer opens the window.
+%
+% Narrator: Open here I flung the shutter, when, with many a flirt and flutter,
+%           In there stepped a stately Raven of the saintly days of yore;
+%
+% The raven bears a striking resemblance to Bart.
+%
+% Narrator: Not the least obeisance made he; not a minute stopped or stayed he;
+%           But, with mien of lord or lady, perched above my chamber door --
+%           Perched upon a bust of Pallas just above my chamber door --
+%                                           Perched, and sat, and nothing more.
+%
+% Homer chuckles.
+
+Homer:    "Though thy crest be shorn and shaven, thou,"
+Narrator:                                               I said,
+Homer:                                                          "art sure no craven,
+          Ghastly grim and ancient Raven wandering from the Nightly shore --
+          Tell me what thy lordly name is on the Night's Plutonian shore!"
+Narrator:                                        Quoth the Raven
+Bart/Raven:                                                      Eat my shorts!
+-- ``The Raven'' in ``Treehouse of Horror''
+
+% Lisa tells Bart that the Raven says ``Nevermore'' and nothing else.
+% Bart reluctantly gives in.
+%
+% An odor wanders past, and Homer catches a whiff of it.
+%
+% Narrator: Then, methought, the air grew denser, perfumed by some&lt;2&gt; unseen censer
+%
+% The `unseen' censer whaps Homer upside the head.  (``D'oh!'')
+%
+% Narrator: Swung by Seraphim whose foot-falls tinkled on the tufted floor.
+%
+% The seraphim in question are an angelic Lisa and Maggie.
+%
+% Homer:    "Wretch,"
+% Narrator:           I cried,
+% Homer:                       "thy God hath lent thee -- by these angels he hath sent thee
+%           &lt;3&gt;respite and nepenthe, from thy memories of Lenore;
+%
+% Homer orates before the portrait of Lenore.
+%
+% Homer:    Quaff, oh quaff this kind nepenthe and forget this lost Lenore!"
+% Narrator:                                          Quoth the Raven
+% Bart/Raven:                                                        "Nevermore."
+% Homer:    D'oh!
+%
+% Homer is really angry now.
+%
+% Homer:    "Be that word our sign of&lt;4&gt; parting, bird or fiend!" 
+% Narrator:                                                             I shrieked, upstarting --
+% Homer:    "Get thee back into the tempest and the Night's Plutonian shore!
+%           Leave no black plume as a token of that lie thy soul has&lt;5&gt; spoken!
+%           Leave my loneliness unbroken! -- quit the bust above my door!
+%           Take thy beak from out my heart, and take thy form from off my door!"
+% Narrator:                                          Quoth the Raven
+% Bart/Raven:                                                        "Nevermore."
+% Homer:    [trying to stay calm]
+%           Take thy beak from out my heart, and take thy form from off my door!"
+% Narrator:                                          Quoth the Raven
+% Bart/Raven:                                                        "Nevermore."
+% Homer:    Why you little...!
+% Bart/Raven: Uh-oh!
+%
+% Homer lunges for the Raven, who flits off.  Homer chases the bird across
+% and around the room, who remains barely out of reach.
+%
+% Homer:    Come back here, you little Raven!
+%
+% Homer's chase makes a mess of his chamber.
+%
+% Homer:    D'ah, grf, son-of-a, d'oh!
+%
+% Homer throws a potted plant at the Raven, who dodges the projectile.  In
+% true cartoon fashion, the plant hits Homer on the head.  Tiny Ravens dance
+% around Homer's head, chanting, ``Nevermore, Nevermore, Nevermore...''
+%
+% The chase continues.  The Raven plucks books from the shelf and drops them.
+%
+% The Raven has returned to its place atop the bust of Pallas.  Below lies
+% the carnage it has wrought upon the room.
+%
+% Narrator: And the Raven, never flitting, still is sitting, still is sitting
+%           On the pallid bust of Pallas just above my chamber door;
+%           And his eyes have all the seeming of a demon's that is dreaming,
+%           And the lamp-light o'er him streaming throws his shadow on the floor;
+%           And my soul from out that shadow that lies floating on the floor
+%                                                  Shall be lifted -- nevermore!
+%
+% Notes:
+%
+% &lt;1&gt; Original says ``somewhat'', not ``something''.
+% &lt;2&gt; Original says ``from an'' not ``by some''
+% &lt;3&gt; Original has ``Respite -- '' at the beginning of the line
+% &lt;4&gt; Original says ``in'' not ``of''
+% &lt;5&gt; Original says ``hath'' not ``has''
+%
+% The Raven chuckles evilly.
+%
+% Fade back to the treehouse.
+
+Bart: Lisa, that wasn't scary.  Not even for a poem.
+Lisa: Well it was written in 1845.  Maybe people were easier to
+      scare back then.
+Bart: Oh, yeah.  Like when you look at ``Friday the Thirteenth, Part 1''.
+      Pretty tame by today's standards.
+-- Lisa reads ``The Raven'', ``Treehouse of Horror''
+
+% Marge calls the kids to bed, and Bart brags that he won't have any trouble
+% falling asleep tonight.  As the kids descend, we see Homer sitting outside
+% the treehouse, shivering.
+%
+% Maggie, Lisa, and Bart all sleep soundly in their respective rooms.  Homer
+% begs Marge not to turn off the light, with no success.  Through the window,
+% he sees the Bart/Raven, which chuckles before flying away.  ``Oh, I hate
+% Hallowe'en.''
+%
+% [End of Act Three]
+
+Voice credits 
+
+Starring 
+
+    Dan Castellaneta    (Homer)
+    Julie Kavner        (Marge)
+    Nancy Cartwright    (Bart)
+    Yeardley Smith      (Lisa)
+    \:    and
+    Harry Shearer       (House, Kang)
+
+Special Guest Voice 
+
+    James Earl Jones    (The moving man, Serak the Preparer, Narrator)
+
+===============================================================================
+Episode summaries Copyright 1991-1992 by Raymond Chen.  Updated 2003
+Andrew A. Gill.  All I got was a rock.  Not to be redistributed in a public
+forum without permission.  (The quotes themselves, of course, remain the
+property of The Simpsons, and the reproduced articles remain the property of
+the original authors.  I'm just taking credit for the compilation.)
+</PRE>

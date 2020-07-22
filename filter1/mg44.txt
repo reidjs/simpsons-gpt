@@ -1,0 +1,70 @@
+% H = Homer, B = Bart
+%
+% Bart sits in bed reading a comic book and sipping a soda.  (*slurp*)
+
+H: [o.s.]  Bart! ...  Bart! ... Time for your Sunday night bath, boy!
+
+% Bart gags on his soda, quickly tosses his comic book aside...
+
+B: Gotta hide.
+
+% ... and heads into the closet.  Bart peers back out through the keyhole.
+%
+% Through the keyhole, we see Homer.
+
+H: Bart!  ... [sees that Bart isn't in his room]  Huh?   Where are you, boy?
+
+% Bart burps.
+
+B: Oops.
+H: Aha!
+
+% Homer angrily heads for the closet, and reaches in.
+%
+% Homer carries a naked Bart down the hallway into the bathroom.
+% Once inside...
+
+H: [with effort]  There ya go!  [tosses Bart into the tub]
+   Now that's not so bad, is it?
+
+% Homer leaves, and we see Bart in the tub, blue and shivering.
+
+H: [o.s.]  Scrub good, now.
+
+% Bart turns on the hot water and breathes a sigh of relief as his skin
+% returns to normal.  He takes a submarine toy...
+
+B: Welcome to ze exotic world of undersea explorer Bart Simpseau.
+
+% During Bart's introduction, the water level slowly rises.
+% Bart submerges.
+
+B: [v.o.] Come wiz Bart as we dive into ze briny deep, searching for ze
+   wily and elusive washcloth.
+
+% Bart floats through the water.  An octopus toy lurks menacingly ahead...
+
+B: [v.o.] Suddenly, wissout warning, ze [great explorer?] get more zan
+   he bargained for!
+
+% Bart becomes engaged in a life-or-death struggle with the toy octopus.
+% He seems to be losing.
+
+B: [gurgling]  Heeeelp!   Heeeelp!
+
+% Bart surfaces, the octopus perched atop his head, its tentacles dangling.
+
+B: Heeeelp!  Heeeelp!
+
+% Outside, Homer goes to the bathroom door.  When he opens the door, a wall
+% of water knocks him down.  Bart floats past, and the water level slowly
+% falls.  The octopus toy lands next to Homer.  Homer looks up angrily.
+
+B: [wiping his butt with a towel]  Clean as a whistle, Homer!
+
+% Homer gets up angrily, wiggling his fingers.  He growls and chases
+% Bart.
+%
+% [End of Act One.  Time: 1:02]
+
+<|endoftext|>

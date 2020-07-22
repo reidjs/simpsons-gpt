@@ -1,0 +1,506 @@
+% [Syndication cuts are marked in curly braces "{}" and are courtesy of
+% Frederic Briere.]
+%
+% Bart watches TV alone.
+
+Kent: Welcome to the six o'clock news in our brand new studio.  Lookin'
+      good, Springfield!
+       [he waves to the people out the large window behind him]
+      In today's news, a two-ton rhino escaped from the Springfield Zoo,
+      but zoo officials were quick to act, and Petunia, as she is known,
+      is safely back in captivity.
+       [a large rhino gores people outside the window]
+      In other news, a three-ton rhino that escaped from the zoo last
+      week is still at large.
+-- America's violentest home videos, "Two Dozen & One Greyhounds"
+
+% Marge walks in angrily.
+
+Marge: All right, who broke my vase?
+ Lisa: Who took all my test papers off the refrigerator and tore them
+       up?
+Homer: Who spread garbage all over Flanders' yard before I got a chance
+       to?
+ Bart: Oh, please.  This is senseless destruction with none of my usual
+       social commentary.
+        [SLH runs in, destroying a pillow, then runs out]
+ Lisa: If it wasn't you, then who was it?
+        [SLH chases Snowball II in, a knife in his jaws]
+Marge: Well, I'm sure these things didn't destroy themselves, now, did
+       they?
+Homer: [worried] Did they?
+        [SLH runs in, shreds Homer's shirt]
+       Hmm.  I guess Bart's not to blame.  Which is lucky, too, because
+       it's spanking season, and I got a hankering for some spankering!
+-- No duck or wabbit season 'round Springfield, "Two Dozen & One
+    Greyhounds"
+
+% Bart and Lisa take SLH outside.  "I don't know why you're so energetic
+% today, boy," says Bart, tossing a ball into the air, "but prepare to
+% be worn out!"  He and Lisa stand about ten feet apart and toss a ball
+% back and forth.  SLH chases it eagerly.  "What's wrong, boy, getting
+% tired?" taunts Lisa, and both she and her brother laugh.  Later, SLH
+% chases it just as eagerly, while Bart and Lisa seem to be tiring out.
+% That night, the two lie on the ground, almost asleep, rolling the ball
+% back and forth between them.  SLH continues to chase it unabated.
+%
+% The next day at breakfast, Bart and Lisa look tired.
+
+    Marge: I think there's really something wrong with Santa's Little
+           Helper.  He was up barking all night, and dug up the back
+           yard worse than ever.
+            [they all look out the window at the dug-up back yard]
+     Lisa: [gasps] My bongo drums!
+     Bart: [gasps] My strobelight!
+    Homer: [gasps] My "Best of Ray Stevens featuring `The Streak'"
+           album!  So it was the _dog_ that buried all our stuff.
+    Marge: Yes, the dog.
+            [outside, SLH's head pokes up from a hole]
+    Homer: Oh my God!  He's got the precious cable TV cable!
+            [SLH runs through the neighborhood tearing up the cable]
+            [at the Wiggums' house, the parents watch "Kent's Kitchen"]
+     Kent: Always use fresh macaroni.  If the box rattles, throw it
+           away.
+            [the picture goes off]
+   Wiggum: Aw!
+Announcer: Your cable TV is experiencing difficulties.  Please, do not
+           panic.  Resist the temptation to read or talk to loved ones.
+           Do not attempt sexual relations, as years of TV radiation
+           have left your genitals withered and useless.
+   Wiggum: [checking under the covers] Well I'll be damned.
+-- TV, bastion of truth, "Two Dozen & One Greyhounds"
+
+% The family go to the Springfield Pet Shop ("Where All Our Pets Are
+% Flushable").
+
+Marge: Excuse me, we're having a problem with our dog.
+Clerk: Lady, I'll tell you what I'm telling everyone else: I'm sorry if
+       your dog went blind, but your gripe is with Hartz Mountain, not
+       with me.
+Marge: No, no!  Our dog is out of control: he's wild, destructive, and
+       has little or no respect for authority.
+Clerk: Hmm...let me try a canine-human mind meld.  It's an incredibly
+       rare psychic power possessed only by me and three other clerks at
+       this store.
+        [puts his hands on SLH's face]
+       OK...bruff!  Bruff!  Bruff!  [groans] I'm bored...I'm restless.
+       Need change in life...ruff!...like imported leather leash,
+       ruff!...Er, blue contact lenses, ruff!...200-volt shock training
+       collar --
+        [later, in a car full of canine accessories]
+Homer: Well, problem solved.  [dusts his hands together]
+Marge: Homer!  Hold on to the wheel.
+Homer: You got it.  [does so]
+-- The wonders of modern pet psychiatry, "Two Dozen & One Greyhounds"
+
+% SLH looks wistfully out the window, then morphs a la T2 out it onto
+% the road.  Bart cries out after him, and Homer reassures his son.
+
+ Bart: Hey!
+Homer: Don't worry: we'll catch him, or run him over trying!
+ Bart: Look!  He's headed back to the greyhound racing track where we
+       found him.
+Homer: Don't worry, as soon as they find out he doesn't have any money,
+       they'll throw him out.  Believe me, I know.
+-- A tight little ball of rage, "Two Dozen & One Greyhounds"
+
+% At the Springfield Dog Track ("Think of Them as Little Horses"), the
+% family look around for their dog.
+
+Marge: Ooh, this place is so big.  Do you think we should split up and
+       look for him, Homey?  Homey?
+Homer: [at a ticket booth] Two bucks to win on number eight.  [sees
+       Marge looking at him] [plaintive] And have you seen my beloved
+       dog?  [laughs painfully] Gimme the ticket.
+-- Homer succumbs to Gamblor, "Two Dozen & One Greyhounds"
+
+% In the stands, the family are seated to watch the race.
+
+    Homer: We can't lose!  Look at the name of the dog I bet on.
+    Marge: "She's The Fastest"...Homer, I don't think that means
+           necessarily --
+Announcer: And they're off!  She's The Fastest jumps out to an
+           insurmountable lead.
+    Homer: You're lucky you got looks, Marge.
+Announcer: As they round the far turn, it's She's The Fastest, followed
+           by Always Comes in Second and I'm Number Three.
+    Homer: Yes!  Come on, you little horse!
+Announcer: And they're in the home stretch.  It's -- wait!  Another dog
+           is on the track.
+     Bart: It's Santa's Little Helper.
+Announcer: The mystery dog is gaining fast on the outside.  Of course,
+           he could never win this race...or could he?
+            [SLH chases the lead dog]
+     Lisa: What's Santa's Little Helper doing to that dog?
+    Marge: Uh oh...
+     Bart: It looks he's trying to jump over her, but he can't quite
+           make it.  Come on, boy, you can do it!
+            [Marge covers the children's eyes]
+-- The birds having sex with the bees, "Two Dozen & One Greyhounds"
+
+% The announcer mourns.
+
+Announcer: Ladies and gentlemen, this is the end: the end of dog racing.
+ Everyone: Boo!
+    Marge: I think they're in love.
+ Everyone: Aw...
+            [the dogs lie contentedly on the track]
+    Homer: Aw, so _that's_ what's been wrong with the little fellow: he
+           misses casual sex.
+     Lisa: Can we keep Santa's girlfriend, Mom?
+     Bart: Please?
+    Marge: But she's not our dog.
+    Texan: She's yours now.  Once they fall in love, they lose their
+           racing spirit.
+    Marge: Won't you miss her loyalty and companionship?
+    Texan: [guffaws heartily] Lady, you're all right.
+-- I don't get it, "Two Dozen & One Greyhounds"
+
+       [SLH paws at the front door]
+Marge: OK, you can go out and play, but no more you-know-what in front
+       of the house, all right?
+        [the dogs run out]
+       Hey!  What'd I just say?
+-- Time for obedience school once again, "Two Dozen & One Greyhounds"
+
+% The two dogs go for a stroll.  The butcher puts a steak out on a plate
+% for them, as does the video store clerk and an older woman in the park
+% who pulls a steak from her purse.  They even get their photo taken
+% with their heads poking through a cardboard cutout of the "Dogs
+% Playing Poker" picture.  On their way to Luigi's restaurant, they spy
+% a wrinkled dog and laugh to themselves.  The generous chef puts a
+% plate of spaghetti and meatballs in front of them, saying "Take it: it
+% fell on the floor."  The two start slurping up the same strand of
+% spaghetti, and when their lips meet, they snarl at one another and
+% fight over the strand.
+%
+% At the Simpson dinner, the dogs lie on the floor in the kitchen.
+
+ Bart: Hey, boy, you want to play fetch?
+        [SLH looks up, tired, then puts his head back down]
+       Aw.  Me and Santa's Little Helper used to be a team, but he never
+       wants to play any more since his bitch moved in.
+Marge: Bart, don't ever say that word again!
+ Bart: Well, that's what she is.  I looked it up.
+Marge: Well, I'm going to write the dictionary people and have that
+       checked.  Feels like a mistake to me...
+-- Marge "Tipper Gore" Simpson, "Two Dozen & One Greyhounds"
+
+% "Hey, look!" observes Bart, "a really small dog just fell out of
+% Santa's girlfriend."  Marge gasps, "Oh my God!  She's having babies.
+% Oh, I'm sorry, girl, I thought you were just getting fat."  Lisa
+% exclaims, "Look!  It's twins."  Homer adds, "No, it's two sets of
+% twins!"  Bart continues, "Two sets of twins and a triplet!"  Marge
+% exhorts Homer to find places for all these little miracles.  They put
+% them in a baseball hat and glove, in a shoe, in a barbecuing apron, in
+% the coffee, tea, and sugar containers, and in Marge's hair.
+%
+% "Oh, my, I've never seen anything like this!" says Marge.  Lisa
+% wonders how many more there can be.  The family counts 22, 23, 24, as
+% the clock spins ahead by hours and the family continue to look on.
+% The final tally? 25.  The last one goes in an oven mitt on the
+% refrigerator, which slides down to the floor under the weight of the
+% adorable miracle.
+%
+% [End of Act One.  Time: 8:01]
+%
+% {The puppies sit, assembled on the kitchen floor.}
+
+ Lisa: {Wow, 25 puppies!}
+        [Snowball II rubs her eyes, whimpers, and bats a ball of catnip
+       aside]}
+ Bart: {An army of dogs!  No bully will ever touch me again.
+        [walks to front door; Jimbo threatens Milhouse]
+       Hey, jerkface!  You have the face of a jerk.}
+Jimbo: {[running over] All right, Simpson, you asked for it --}
+ Bart: {Get 'im, boys!
+        [the puppies stumble and whimper towards Jimbo]
+       Heh.  Say, er, Jimbo, heh, hope I wasn't out of line with that
+       "jerkface" crack, heh.
+        [Jimbo pounds him]}
+-- Would you believe..., "Two Dozen & One Greyhounds"
+
+% The humans and puppies eat dinner at the same time.  The puppies all
+% have personalized bowls, from "Rex" and "Fido" all the way down to
+% "Prince" and "The puppy formerly known as Prince".
+
+Marge: Oh, Homey, aren't they adorable?
+Homer: Yes.  We've waited many years, but the good Lord has finally
+       blessed us with a real family.
+        [Bart, Lisa, and Maggie glower at Homer]
+-- Meal time for people and puppies alike, "Two Dozen & One Greyhounds"
+
+% The family and the puppies all watch TV.  A woman in a bikini suns
+% herself on a boat, and one of the puppies gets up on its hind legs and
+% paws at the screen.  Marge chuckles, "Look at Branford II!  Isn't that
+% cute?  He thinks he's one of the Models, Inc.!"  The family join in
+% their laughter.  Snowball II, listless, tries the same stunt as
+% Branford II, only to be rebuked angrily by Homer: "Get that cat out of
+% the way!"
+%
+% The next morning, Bart puts on some clean socks, only to have them
+% attacked and shredded while they're on his feet.  He goes to the top
+% drawer to get some more, but it's full of puppies who tear and shred
+% with equal vigor.  Meanwhile, in the kitchen, Marge attaches a collar
+% to Lisa.
+
+ Lisa: Mom, why do _I_ have to wear a flea collar?
+Marge: Oh, it's just easier this way.
+-- The simple way out, "Two Dozen & One Greyhounds"
+
+% Homer opens a bag of chips in front of the TV, but each time he pulls
+% one out of the bag, a puppy jumps up and snatches it from his hand,
+% eliciting a "D'oh!" every time.  Marge walks into the kitchen later.
+
+Marge: Yeesh, this house stinks!  You're not just putting the new
+       newspapers over the old ones, are you?
+Homer: Do you have a better idea?
+-- Well yes, actually, "Two Dozen & One Greyhounds"
+
+% Marge breaks some bad news to the kids.
+
+    Marge: Now, I know we love the puppies very much, but I think
+           they're getting to be a problem.
+     Bart: Yeah, they ate all my socks.  I have to wear Lisa's to school
+           today.  [Bart's socks are pink]
+    Homer: How do you explain the coulottes, boy?
+     Bart: [wearing a pink skirt] Well, I have to coordinate, don't I?
+    Homer: Your mother and I have been thinking about giving the puppies
+           away.
+Bart+Lisa: No!
+    Homer: Mainly your mother.
+     Lisa: Is that what we do in this family?  When someone becomes an
+           inconvenience, we just get rid of them?
+            [camera pans rapidly to the Springfield Retirement Castle]
+      Abe: [picking up phone] Hello?  Is anybody there?  Aw...[hangs up]
+-- Lisa, rhetoric queen, "Two Dozen & One Greyhounds"
+
+   Marge: All right, we'll give the dogs one more chance.  As long as
+          the puppies don't do anything else wrong, they stay.  Hmm.  On
+          a completely unrelated topic, I'm having a very, very
+          important dinner party tonight.
+   Homer: Splendid!  Who's coming?
+   Marge: Reverend Lovejoy, your old army drill sergeant, and the
+          regional director of the IRS.
+           [that night]
+ Lovejoy: Oh, just lovely, Marge.  The whole town will hear what a
+          perfect evening this was -- how nothing at all went wrong.
+Sergeant: Simpson!  This evening has gone so flawlessly, I'm going to
+          forget that you were mistakenly let out of the army a month
+          early.
+ Auditor: And I'm so impressed by this problem-free evening that there's
+          no need for that audit.
+ Togther: A toast...to the Simpsons!
+Sergeant: And to that delectable turkey...that's walking around the
+          table?!
+ Lovejoy: Dear Lord, it's a demon-bird!
+           [the turkey breaks open; two puppies wrestle inside]
+           [the guests retch into their napkins and leave]
+Sergeant: Simpson!  See you at reveille, 0500 tomorrow.
+ Auditor: See you at the IRS!
+ Lovejoy: See you in hell!  [slams door, then pops head back in] From
+          heaven.  [slams door]
+-- The dinner goes horribly awry, "Two Dozen & One Greyhounds"
+
+% Homer hammers a sign into the ground in the front yard: "Puppies for
+% free (or best offer)".
+
+    Ned: Well, we sure could use a pooch to guard the flock at the
+         Flanderosa.
+Skinner: It'd be nice to have some companionship when mother goes out on
+         dates.
+    Abe: We could use a new pet over at the home seeing as how we
+         accidentally killed that smart-mouth bird.
+-- At the puppy giveaway, "Two Dozen & One Greyhounds"
+
+% The remaining puppies howl upon seeing some of their litter being
+% taken away.
+
+    Lisa: They don't like being broken up.
+   Marge: We've got to be realistic, kids.  Who's going to have a big
+          enough heart to take care of 25 puppies?
+   Burns: [chuckling] And I know the little fellows will love romping
+          around my many acres, chasing my many cars, drinking from my
+          many toilets...
+   Homer: Who wouldn't?
+    Lisa: [whispering] Mom, don't give the puppies to him, he'll be mean
+          to them.
+   Marge: Hmm...she's right, Homer.  There's something about his face I
+          don't trust.
+           [Burns laughs evilly to himself]
+   Homer: Uh, I'm sorry, Mr. Burns, but...you can't have these dogs.
+          [cringes] Am I fired?
+   Burns: Hmm?  Oh, of course not.  They're your pets, you can do as you
+          wish.  Good day, everyone.
+           [he starts to walk off with Smithers]
+   Marge: My, he certainly took that well.
+   Homer: A little too well, if you ask me.  I'm sure he's plotting some
+          brilliant scheme to get those puppies.
+           [Burns piles them into a sack while the family's backs are
+          turned]
+   Burns: There you go...there you go...you go, too.
+Smithers: Honestly, Sir, you just don't put the effort into your schemes
+          that you used to.
+-- Burns, lazy in his old age, "Two Dozen & One Greyhounds"
+
+% [End of Act Two.  Time: 13:30]
+%
+% The police are called in to look for the missing dogs.  Lou eats a
+% donut while Chief Wiggum looks half-heartedly around the kitchen.
+
+Wiggum: Don't worry, folks, we'll find your wallet.
+ Marge: Dogs!  Chief, you're getting powdered sugar all over my floor.
+Wiggum: No I'm not, no I'm not.  I'm, um, dusting for prints.
+ Marge: Oh.
+-- Advances in police science, "Two Dozen & One Greyhounds"
+
+% Bart and Lisa decide to use the puppies' parents as trackers.  The two
+% dogs run off, only to drag Bart and Lisa back when Marge puts out food
+% for them and calls, "Dinner time, dogs!"  Chief Wiggum is apologetic:
+% "I'm sorry, kids, I don't think we're ever going to find your
+% greyhounds.  Maybe Mr. Burns will sell you one of the 25 he got last
+% night."
+%
+% Bart and Lisa sneak off to the Burns Manor that night as the thunder
+% roars.  They hear yapping from an upper-floor window, and Lisa
+% shudders, "Who knows what horrible things he's doing to those innocent
+% little puppies?"  They climb a trellis and peek in a window to see
+% Monty bathing them all and laughing.  "Ah, there.  Now wasn't that
+% heavenly?  And don't you feel better too?"  Lisa expresses surprise.
+
+          [Burns takes the puppies out of a bath]
+   Burns: There you are...there you go, little fellow...and you.
+           [one of the puppies stands on its hind legs]
+           [gasps] Smithers, look: he's standing up.  I've never seen
+          anything so adorable!  Do you know who it reminds me of?
+Smithers: Benji?
+   Burns: No.
+Smithers: Lassie?
+   Burns: No, no, no, a person.  You know who I mean.
+Smithers: Snoop Doggy Dogg?  Bob Barker?  David Brenner?
+   Burns: No, no!  The person who's always standing and walking.
+Smithers: Rory Calhoun?
+   Burns: That's it!
+-- Twenty Questions, Monty style, "Two Dozen & One Greyhounds"
+
+% Monty picks up the obedient dog: "You stay with me; you're the pick of
+% the litter."  Lisa reconsiders her position: "Maybe we were wrong
+% about Burns on this one."  The two children shuffle along to the next
+% window and watch.
+
+Smithers: Are you sure you want to go through with this, Sir?  You _do_
+          have a very full wardrobe as it is.
+   Burns: Yes...but not completely full.  For you see...
+           [singing] Some men hunt for sport, others hunt for food,
+          The only thing I'm hunting for is an outfit that looks good.
+           [to the tune of "Be Our Guest"]
+          See my vest, see my vest, made from real gorilla chest,
+          Feel this sweater, there's no better than authentic Irish
+          Setter.
+          See this hat?  'Twas my cat.  My evening wear?  Vampire bat.
+          These white slippers are albino African endangered rhino.
+          Grizzly bear underwear; turtles' necks, I've got my share.
+          Beret of poodle on my noodle it shall rest;
+          Try my red robin suit, it comes one breast or two,
+          See my vest, see my vest, see my vest!
+           [with hat and cane]
+          Like my loafers?  Former gophers!  It was that or skin my
+          chauffers,
+          But a greyhound fur tuxedo would be best.
+          So let's prepare these dogs --
+   Woman: Kill two for matching clogs!
+   Burns: See my vest, see my vest, oh please, won't you see my vest?
+           [spoken] I really like the vest.
+Smithers: I gathered, yeah.
+-- Disney, schmisney, "Two Dozen & One Greyhounds"
+
+% Lisa is aghast.
+
+Lisa: He's going to make a tuxedo out of our puppies!
+       [Bart hums "See my vest"]
+      Bart!
+Bart: Sorry.  You gotta admit, it's catchy.
+-- Alan Mencken's greatest reward, "Two Dozen & One Greyhounds"
+
+% "Come on, Smithers, let's go finish the little flea circuses off,"
+% sneers Monty, exiting the room with his obsequious sidekick, "except
+% for little Monty, of course."  Bart sweats, "We gotta get the dogs out
+% of there!" and opens the window.  The puppies bark happily at him.
+% "Shh!  Hush, puppies!" he whispers.  "We gotta get you out of here,"
+% worries Lisa as she and Bart run to the door and look through.  Burns
+% loads and cocks a handgun in the next room.
+
+Bart: I know, the window.
+Lisa: No, Bart!  What are you doing?
+Bart: Dogs always land on their feet.
+Lisa: That's cats.
+Bart: No, it's dogs.  I'll prove it.
+       [drops a dog from six inches; it lands on its back]
+      Best two out of three.
+-- The children try to rescue the hounds, "Two Dozen & One Greyhounds"
+
+% The doorhandle slowly turns.  Lisa spies a laundry chute, and Bart
+% tries to encourage the puppies to go down it, but they won't.  Lisa
+% gets an idea: she removes Bart's shoes and tosses his socks down the
+% chute.  The puppies follow faithfully just as Burns walks in.  "Sorry,
+% Monty, but you're too big for this ride," taunts Bart, following Lisa
+% down the chute.
+
+ Lisa: Quick!  Let's get the --
+Burns: Going somewhere?
+ Bart: That's impossible.  How did you get here first?
+Burns: Oh, there'll be plenty of time for explanations later.  Right
+       now, I'll be taking my puppies back.
+ Lisa: But they're ours.  You stole them from us!
+Burns: Here's a phone.  Call somebody who cares.
+        [Lisa dials 911]
+       Give me that!
+-- Threats taken literally, "Two Dozen & One Greyhounds"
+
+% "Now if you'll excuse us, children," continues Burns, "the pups have a
+% date with a fashion knife."  Bart resourcefully grabs Burns' puppy
+% from his arms and puts it with the rest.  "There.  Now you don't know
+% which one's little Monty.  If you don't want him to be part of your
+% tuxedo, you'll have to let the other dogs go too."  Burns sees through
+% this one: "Come on, little Monty, stand up.  Stand up!  Do your
+% trick."  The children beg him not to, to no avail.  "Excellent," grins
+% the sinister C. M. Burns.
+%
+% Bart looks around frantically, and spying some underwear and socks
+% hanging on a clothesline, gets an idea.  He wheels them over the dogs
+% heads as Burns says, "Now it's simply a matter of bending down and
+% picking up the one and only --" The dogs, true to form, stand up and
+% reach for the socks.  "This can't be happening!  They're all standing.
+% I can't tell them apart."  He sighs heavily.  "All right, you win:
+% I'll have to kill them all."  Bart and Lisa protest.
+
+    Burns: But they're so wretchedly adorable. 25 little Rory
+           Calhouns...I can't do it.  But I can kill you.
+            [Lisa whimpers like a puppy]
+           No, I can't kill you either.  Look at you, standing there on
+           your hind legs like a couple of Rory Calhouns.
+            [Lisa and Bart sigh]
+     Lisa: Well, Mr. Burns, I hope you've realized the folly of killing
+           innocent animals for fashion.
+    Burns: [repentant] Oh, I have, I have!  I swear I will never wear
+           any clothing made from an animal.  [to himself] That can do
+           an amusing trick.
+            [a long time later]
+Announcer: Another victory for Montgomery Burns' champion greyhounds. 25
+           dogs, 25 world champions which so far have earned their owner
+           over ten million dollars.  I'll bet whoever gave him those
+           dogs is kicking themselves now.
+            [Marge walks down to the basement and sees Homer's shadow
+           dangling]
+    Marge: Homer!  For the love of God, no!
+    Homer: [grunts] Marge, you know that batting this lightbulb is the
+           only thing that cheers me up after giving away those million-
+           dollar greyhounds.
+-- Homer releases his aggression, "Two Dozen & One Greyhounds"
+
+% Homer bats the bulb a couple more times; it breaks on his head,
+% plunging the room into darkness.  Homer falls heavily to the floor.
+%
+% [End of Act Three.  Time: 20:59]
+
+<|endoftext|>

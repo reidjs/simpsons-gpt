@@ -1,0 +1,125 @@
+T. V. Simpsons                                         Written by Matt Groening
+===============================================================================
+[$Id: mg48 1.1 92/01/13 21:38:23 raymond Exp Locker: raymond $]
+===============================================================================
+> Didja notice...
+===============================================================================
+    ... Lisa held her fourth potato chip for an awfully long time?
+        She never ate it.
+    ... the now-traditional mouse hole in the corner of the TV room?
+    ... Lisa was sitting with her left foot tucked under her right knee?
+        Boy is her foot going to fall asleep pretty soon.
+
+===============================================================================
+> Animation goofs
+===============================================================================
+When Bart threw his soda cup away, it didn't land with a clatter, or otherwise
+make a mess.  It just vanished!
+
+When the kids march off, Lisa's bag of potato chips is not on the couch.
+It vanished!
+
+The shot of the girls on the couch through the TV room window shows Lisa
+with both feet on the floor, but when the camera moves inside, her left
+foot is tucked under her right knee.
+
+===============================================================================
+> Dialogue and scene summary
+===============================================================================
+% L = Lisa, B = Bart, H = Homer
+%
+% Scene:  Bart and Lisa watch TV on the couch with Maggie.  At the left is
+% Bart, sipping a huge plastic cup of soda through a straw.  At the right is
+% Lisa, munching on a bag of chips.  (She scarfs down three chips in rapid
+% succession, then holds the fourth chip in her hand.)  Maggie, sitting
+% between them, merely sucks on her pacifier.
+%
+% On TV, the title ``The Itchy and Scratchy Show'' appears, followed by an
+% I&S cartoon.  Scratchy chases Itchy down a hallway (the wainscotting
+% riddled with mouse holes), axe poised to do some serious damage.  Itchy
+% pulls ahead, goes through an open door, and slams it shut.  Scratchy, unable
+% to stop in time, slams into the door, flattens, and oozes down, his axe
+% remaining suspended in midair.  After Scratchy oozes to the floor, the axe
+% falls, hitting him squarely in the head.  (Thud.)
+%
+% The kids chuckle at this, and Homer crosses in front of the TV.
+
+L: Hey, do you mind?
+B: We happened to be watching some very educational cartoons.
+H: Not any more you weren't!  The big tournament's on!
+
+% Homer grabs a remote control and changes the channel to a bowling
+% tournament.
+
+B: Aw, come on, man!
+
+% Bart leaps to his feet to protest, tossing his soda aside.  Homer takes
+% the vacant spot on the sofa.
+
+H: Nope.  Now beat it.
+L: [chip still in hand]  But what are we supposed to do?
+H: Why don't you go fly a kite?  Hee hee hee.
+
+% The three kids march off.
+%
+% Outside, Bart flies the kite while the girls watch.  But a gust of wind
+% blows the kite into the TV antenna.  Inside, the TV picture statics out.
+
+H: Huh?
+
+% Homer walks to the TV room window.
+
+H: What the...
+
+% Outside in the yard...
+
+L: Uh oh.
+
+% Homer comes outside, looks to the roof and sees the reason for the
+% poor TV reception.
+
+H: D'oh!
+B: [not apologetic]  Sorry, Homer.
+
+% A ladder is raised, and Homer climbs onto the roof.
+
+H: Get in there and tell me when the TV's fixed.
+
+% Homer crawls to the antenna.  The camera pans down to the TV room window,
+% which Bart opens from the inside.  Lisa and Maggie are already on the couch.
+%
+% Bart joins the girls on the couch.
+
+H: [off screen]  How is it now!?
+B: Still no picture, Dad.
+
+% Homer struggles with the antenna for a bit.
+
+L: Still putrid, Dad.
+
+% The TV screen shows colored blobs in weird patterns, intermingled with
+% static.  Homer struggles some more.  As we continue to watch the TV...
+
+B: Ooh, psychedelic.
+
+% The TV now shows more colors, interspersed with occasional images of
+% people (not bowling).
+%
+% Atop the roof, Homer continues his struggling and falls off the roof.
+
+H: D'aaaaaaaaaaaaaaaaaaaagh!
+
+% Inside...
+
+B: Perfecto, Homer!
+
+% And Bart is right.  The picture is clear as a bell.
+%
+% The kids resume their I&S-watching.  On the TV screen is Scratchy falling,
+% arms flailing.  He splats on the camera.  Bart and Lisa laugh.
+===============================================================================
+Shorts summaries Copyright 1992 by Raymond Chen.  Not to be redistributed
+in a public forum without permission.  (The quotes themselves, of course,
+remain the property of The Tracey Ullman Show, and the reproduced articles
+remain the property of the original authors.  I'm just taking credit for the
+compilation.)

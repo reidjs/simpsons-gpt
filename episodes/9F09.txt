@@ -1,0 +1,904 @@
+Homer's Triple Bypass                         Written by Gary Apple and Michael
+                                                                   Carrington  
+                                                    Directed by David Silverman
+===============================================================================
+Production code: 9F09                       Original airdate in N.A.: 17-Dec-92
+                                                  Capsule revision C, 21-Jul-96
+===============================================================================
+> Title sequence
+===============================================================================
+Blackboard :- Coffee is not for kids.
+              Coffee is not f/ at cutoff.
+              The writing gets progressively more scrawly toward the
+              bottom of the blackboard.
+
+Lisa's Solo:- Unknown.
+
+Couch      :- A miniature version of OFF sits on a huge couch.
+
+===============================================================================
+> Did you notice...
+===============================================================================
+Juha Terho:
+    ... Space Mutants is the movie playing at the drive-in?
+    ... the basketball hoop over the garage door of Snake's hideaway?
+    ... the lobotomy scars on Fred's forehead?
+    ... Maggie sucks on the dradle Homer got from Rabbi K.?
+    ... SLH's reaction to Homer saying "some _dog_ could do the
+        operation"?
+    ... Dave Shutton from 7F01 is the man who asks "where are the
+        bodies?"
+    ... Nick -- a doctor -- is afraid of blood?
+    ... Andre is introduced at 10:00 and the operation ends at 11:40?
+    ... after the operation is over, the lamp in the ceiling makes it
+        look like Dr. Nick has an angel-halo over his head?
+
+Dave Hall:
+    ... in the couch scene, Bart has to help Maggie up?
+    ... Snake's license plate reads "EX CON"?
+    ... Maggie uses her pacifier to feed SLH?
+    ... Lisa thinks Bart's goop gag is really gross, yet she doesn't
+        mind wanting to see victims of a train wreck?
+    ... Homer eats his breakfast with pinkie finger extended?
+    ... it never occurs to Homer to drive around the moving truck?
+    ... the gas station attendant listens to Homer's heart expertly as
+        if he was qualified to diagnose medical problems?
+    ... baby Homer has two hair strands?
+    ... the squeaking sound Homer's head makes when Dr. Hibbert rubs it?
+    ... Homer's hair strands stand up when he juices himself?
+    ... Homer is barefoot while seeing the guru?
+    ... Lisa keeps a bloody cow's heart in her bedroom dresser?
+    ... Dr. Riviera holds the scalpel with pinkie finger extended?
+    ... Dr. Riviera's operating gown isn't soiled during Homer's
+        operation?
+
+Ricardo Lafaurie:
+    ... the cooling towers are visible in the "Bad Cops" intro?
+    ... all Wiggum does is motion for the jumper to come in?
+    ... Wiggum makes a cuckoo sign when the man jumps?
+    ... the Itchy & Scratchy the cops watch is from 7F09 (the one where
+        they whack a Marge squirrel)?
+    ... the cattle outside Snake's house?
+    ... Hans Moleman is black in this episode?
+    ... Burns seems to know that Homer is married?
+    ... young Homer sings "O, Night Divine"?
+    ... Homer quotes Nietzsche?
+    ... one of the things Hibbert does to Homer is the "got your nose"
+        thing from 9F08?
+    ... Homer seems proud of his blubber flying?
+    ... Homer wants to buy a fribillator, which is perhaps more
+        expensive than a coronary bypass?
+    ... Bart looks down sadly when Lisa talks to Ms.  Albright?
+    ... the rabbi Homer talks to is Rabbi Krustofsky?
+    ... the Hindu guy Homer talks to looks like Surdrudinma Baradad?
+    ... Bart describes himself and Lisa as coming from the MTV
+        generation though they don't have cable?
+    ... somehow they were able to get Krusty to talk to Homer?
+    ... Lisa's unusual ability to grasp such a complex medical
+        procedure?
+    ... Lisa sits next to a couple making out in the amphitheatre?
+    ... Apu calls him "Mister Homer"?
+    ... Dr. Riviera removes his surgical mask, an unwise thing?
+    ... Homer looks particularly disheveled after the operation?
+    ... Homer never got rehired?
+
+===============================================================================
+> Voice credits
+===============================================================================
+- Starring
+    - Dan Castellaneta (Homer, Hans Moleman, Barney, Abe)
+    - Julie Kavner (Marge, Patty, Selma)
+    - Nancy Cartwright (Bart)
+    - Yeardley Smith (Lisa)
+    - Hank Azaria (Wiggum, man at gas station, Billy, insurance company
+      guy, Dr. Nick, Carl, Moe, Apu)
+    - Harry Shearer (Lovejoy, Burns, Smithers, ambulance driver,
+      Hibbert, Ned, Dave Shutton, PA announcer, video instructor, Lenny,
+      Kwik-E-Mart customer)
+- Also Starring
+    - Maggie Roswell (Nurses, Ms.  Albright)
+
+===============================================================================
+> Movie (and other) references
+===============================================================================
+
+  + "Cops"
+    - "Cops in Springfield" similar
+  + "Starsky and Hutch" {rl}
+    - Wiggum calls himself Papa Bear
+    - in the show, the special informant was called Huggy Bear
+  + "Life in Hell" {jt}
+    - Homer's puppets are fezless Akbar and Jeff
+  + Dry Bones {rl}
+    - Dr. Nick hums a similar tune
+
+===============================================================================
+> Previous episode references
+===============================================================================
+- [7G03], [8F02] Homer is fired {rl}
+- [7F05] Lisa quotes a line from Nietzche, "Whatever doesn't kill me can
+  only make me stronger".  (cf. Homer) {rl}
+- [7F09] View from "Nightline" similar to the "COPS in Springfield"
+  screen {rl}
+- [7F09] Scenes from the Itchy & Scratchy where they whack Marge is
+  shown {rl}
+- [7F11] Homer near death {rl}
+- [7F20] Bart and Lisa drink coffee and heap jittery (cf. blackboard
+  gag) {rl}
+- [7F22], [8F24] Surdrudinma Baradad (host of "Yoga Party") {rl}
+- [7F24] Recycled animation of the ambulance {jt}
+- [8F04], [9F03] Someone holds something with the pinky extended
+- [8F04] Burns gives a ham to Homer because he's Employee of the {rl}
+  Month (cf. Burns about to give a ham to Marge) {rl}
+- [8F05] Rabbi Krustofsky appears {rl}
+- [8F15] Snake's EX CON license plate
+- [8F15] "Starsky and Hutch" is spoofed (cf. S&H-esque music through cop
+  chase and "Act II: Death Drives a Stick") {rl}
+
+===============================================================================
+> Freeze frame fun
+===============================================================================
+- COPS vignettes: {rl}
+    - "COPS in Springfield" says an announcer
+    - Wiggum fails to call in a jumper, who dives off.  Wiggum makes a
+      cuckoo sign with his finger
+    - a cop jumps a building to catch a crook, but Wiggum and the boys
+      are actually watching a TV
+    - Wiggum and the boys attempt to shoot a mummy (Wiggum throws his
+      gun at it)
+    - Eddie and Lou pull stuff out of Jasper's beard
+    - Wiggum and the boys watch "Field of Screams" (7F09) on TV
+    - some cops use a helicopter to catch "Space Mutants" at a drivein
+      for free
+    - "COPS in Springfield" card shows again
+- Stuff in Jasper's beard: knife, handgun, brass knuckles, grenade {jt}
+- After the heart whacks out, for some frames it turns into a playing-
+  card type club, spade, diamond, and heart.  {rl}
+- Insurance company: {rl}
+     HAPPY
+     WIDOW
+   Insurance
+    Company
+   
+    - neon sign of a woman grieving over a grave briefly, then dancing
+      on it holding money
+- Food in bed with Homer: turkey, potatoes and gravy, diet cola, pizza,
+  cake {jt}
+- Injuries at Springfield Memorial Hospital: {jt}
+    - Mr. Roman: injured arm
+    - Jacques: fingers stuck in a bowling ball
+    - Groundskeeper Willy: both arms injured
+    - Jasper: beard stuck in a bicycle
+    - Akira: hand stuck in a wooden board
+    - Apu: bullet wounds
+    - Sideshow Mel: stuck in a cannon
+    - Chief Wiggum: locked jaw
+- Springfield Medical Library: {jt}
+    - Circulatory A-L
+    - Cardiology A-M
+- People Who Look Like Things: {jt}
+    - cash register
+    - palm tree
+    - brush
+    - Halloween jack-o lantern
+    - tea pot
+- The audience at the operation: {jt}
+    - Japanese guy eating pop corn
+    - man with a hot dog
+    - couple kissing
+    - man with a pop corn bag
+    - Lisa arrives
+- Dr. Nick's party flashback: {jt}
+    - two guys drinking beer from huge mugs
+    - man in toga
+    - couple kissing
+    - white guy and black girl tossing a ball
+    - Nick in a light blue kimono wearing a yin-yang
+    - Nick's girl in a shirt with peace signs
+    - on the walls:
+        - a poster with a peace sign
+        - STRTE banner (?)
+        - Sigma Chi plaques
+
+===============================================================================
+> Animation, continuity, and other goofs
+===============================================================================
+Chief Wiggum's badge disappears when he's speaking on the radio.  {dh}
+
+If the series shown was "COPS", shouldn't the camera be shaky?  {rl}
+
+A piece of paper moves around the kitchen table.  In one shot, it
+disappears.  {dh}
+
+The car's engine seems to be switched off, yet Homer drives off after
+speaking to the gas station attendant.  {dh}
+
+The bacon and eggs switches color when there's a bug on it.  {rl}
+
+When Homer drives behind Hans Moleman, they're driving uphill during
+exterior shots.  In the interior shots of their cars, they aren't.  {jt}
+
+Isn't Hans too short for his feet to reach the pedals?  {jt}
+
+Burns shadow is botched during one scene.  {dh}
+
+The desk clock vanishes when Homer stand before Burns' desk.  {dh}
+
+The clock changes times and form between scenes.  {rl}
+
+Smithers moves before Burns commands him to bring Homer to him.  {dh}
+
+The chairs in Burns' office vanish when Homer has his heart attack.
+{dh}
+
+One of the attendants disappears from the ambulance en route to the
+hospital.  {dh}
+
+Marge shouldn't be able to reach the kitchen phone while she is sitting
+down.  {dh}
+
+SLH disappears while the family discusses Homer's operation.  {dh}
+
+At one point after the puppet show, Homer's shadow doesn't follow his
+movements.  {dh}
+
+The electrodes attached to Homer's chest seem to move around and aren't
+attached to anything.  {dh}
+
+The "NO PRAYING" sign only appears when the nurse pointed at it.  Also,
+at the beginning of this scene, the door to the room appears to be
+closed -- the nurse couldn't have heard Homer praying.  {dh}
+
+The bed's remote control seems to have disappeared during Krusty's
+visit.  {dh}
+
+Where are Krusty's cattle skull birth mark and his famous superfluous
+nipple that we saw in 8F24?  And consider his line, "This ain't make-up"
+even when he clearly wiped it off in 7F18.  {jt}
+
+After Marge calls the kids, her chair vanishes.  {dh}
+
+When Lenny and Carl give Homer the card and Homer takes it, for one
+frame, "EMERGENCY PROCEDURE DO NOT REMOVE" reads "DO NOT PRMOVE".  {jt}
+
+Some of the nurses disappear during the operation.  {dh}
+
+Dr. Riviera isn't wearing a wristwatch at the beginning of the
+operation, so he couldn't have gotten it stuck in Homer.  {dh}
+
+Homer's bandages seem to cover his neck more than they do his chest.
+{dh}
+
+===============================================================================
+> Comments and other observations
+===============================================================================
+>> Michael Carrington
+
+One of the writers of this episode was Michael Carrington, who normally
+    works as a producer and writer for "Martin", notes Ricardo Lafaurie.
+
+>> Ms.  Albright's teachings
+
+Juha Terho writes, "`If he's been good, he'll go to heaven.  In heaven,
+    you get to do whatever you like best.'  Not true.  This is explained
+    in the 7F13 capsule."
+
+>> What Marge heard on the phone
+
+Juha Terho says, "We hear only Marge's side of the phone conversation
+    where she learns that Homer has had a heart attack.  As she answers
+    the phone, she says: `Yes?  [one-second pause] Oh my Lord!  [to
+    Patty & Selma] Homer's in the hospital, they think it's his heart!'
+    
+    The caller on the other end probably said something to the effect of
+    "This is so-and-so from Springfield Memorial Hospital.  Your husband
+    has probably had a heart attack.  I think you'd better come and see
+    him" -- all that in one second?
+    
+    (There's a similar scene in 7F16 where Homer learns that Grampa has
+    had a heart attack.)"
+
+>> The word "Hell"
+
+Juha Terho asks rhetorically, "Isn't the word `hell' used a little too
+    liberally in this episode?"  He lists the following examples:
+
+    - Homer: "What the hell is this?"
+    - Barney: "What the hell am I supposed to do with this jumbo thong
+      bikini?"
+    - Dr. Nick: "What the hell is that?"
+    - Moe: "Hell no."
+    - Customer: "Oh, what the hell, yes."
+
+>> Recycled animation
+
+The ambulance shot where Homer is being rushed to the hospital is reused
+    from 7F24, and both look very similar to the scene in 7F01.
+
+===============================================================================
+> Quotes and Scene Summary
+===============================================================================
+% [Syndication cuts are marked in curly braces "{}" and are courtesy of
+% Ricardo Lafaurie.]
+%
+% "COPS in Springfield!"
+
+Bad cops, bad cops...Bad cops, bad cops Springfield cops are on the take
+But what do you expect for the money we make?  Whether in a car or on a
+horse We don't mind using excessive force Bad cops, bad cops...Bad cops,
+bad cops
+-- Theme music for "Cops in Springfield", "Homer's Triple Bypass"
+
+% Chief Wiggum and his men try to catch a cattle rustler by using a
+% battering ram on a house, and it's Reverend Lovejoy's house.
+
+Lovejoy: What in God's name is going on here?
+ Wiggum: Isn't this 742 Evergreen Terrace?
+Lovejoy: No, that's next door.
+          [next door, Snake drives out of a garage]
+  Snake: Close but no doughnut, cops.
+          [drives off]
+-- Snake, cattle rustler, "Homer's Triple Bypass"
+
+Wiggum: This is Papa Bear.  Put out an APB for a male suspect, driving
+        a...car of some sort, heading in the direction of...you know,
+        that place that sells chili.  Suspect is hatless.  Repeat,
+        hatless.
+-- Snake makes his escape, "Homer's Triple Bypass"
+
+Homer: I can't wait 'till they throw his hatless butt in jail.
+Marge: Homer, you shouldn't eat so much food.  It's bad for your heart.
+Homer: Oh, my heart is just fi-- aagh!  [gags]
+Marge: Homey, what's wrong?
+Homer: [strained] Just-- working-- the turkey through...[pause]
+        [normal] There it goes.
+-- A little beer will put out that fire, "Homer's Triple Bypass"
+
+% Bart and Lisa eat breakfast.
+
+Bart: Hey, Lis, I heard that there was a train wreck last night.  Wanna
+      see the victims?
+Lisa: Sure.
+       [Bart opens his mouth, showing "see-food"]
+      Bart, that's gross!
+Bart: You're right.  Let's bury them at sea.
+       [scoops his goop into Lisa's cereal]
+-- Bart and Lisa eat breakfast, "Homer's Triple Bypass"
+
+% Lisa yells for Dad, and Homer gets another relapse.  Sweating, he
+% struggles.
+
+ Bart: What's wrong, Dad?
+Homer: [strained] You know that feeling you get when a thousand knives
+       of fire are stabbing you in the heart?  I'm having that right
+       now...[normal] Ooh, bacon!
+-- Bacon will put out that fire too, "Homer's Triple Bypass"
+
+Marge: Homer, I've made a special surprise just for you!
+Homer: It can only be one thing.
+        [imagines a roast pig suggesting Homer eat his rump]
+Marge: [hands Homer oatmeal] Here you go.
+Homer: What the hell is this?
+Marge: Nice, healthy oatmeal.
+Homer: [sarcastic] Ooh, oatmeal, what a delightful treat!  Aw, there's a
+       bug in it.
+        [dumps the oatmeal in the sink]
+Marge: No there isn't.
+Homer: Trust me.
+        [starts eating bacon]
+ Bart: Dad, there's a bug on that.
+Homer: Naah.
+        [keeps on eating]
+-- Selective vision, "Homer's Triple Bypass"
+
+% Homer drives to work, behind Hans Moleman, carting Edgar Allan Poe's
+% birthplace in a truck.  Homer tries to get him to move by bashing his
+% house in when he hears his heart beat irregularly.  He drives away
+% while Hans' truck falls off the hill and bursts into flames.
+
+           
+            [at the gas station]
+    Homer: I keep hearing this horrible irregular thumping noise.
+Attendant: It's your heart.  And I think it's on it's last thump.
+    Homer: Oh, I thought it was my transmission.  [drives away happily]
+      Kid: Where's he going?
+Attendant: You remember that old Plymouth we just couldn't fix?
+      Kid: We're going to sell him to Mr. Nikopopolous?!
+Attendant: You're a dull boy, Billy.
+-- Missing the point, "Homer's Triple Bypass"
+
+   Burns: Look at that pig.  Stuffing his face with donuts on my time!
+          That's right, keep eating...Little do you know you're drawing
+          ever closer to the poison donut!
+           [cackles evilly, then stops abruptly]
+          There is a poison one, isn't there Smithers?
+Smithers: Err...no, sir.  I discussed this with our lawyers and they
+          consider it murder.
+-- Damn their oily hides, "Homer's Triple Bypass"
+
+% Burns calls Homer in to give him a dressing-down.
+
+       
+        [a "window" shows Homer's heart, beating fast]
+Burns: Relax, Simpson.  I just brought you in here for a friendly
+       hello...
+Homer: Whew...[heart slows down]
+Burns: ...and goodbye!  You're fired!
+Homer: [gags] [heart speeds up]
+Burns: But, wait.  Perhaps I'm being too hasty.  You _are_ highly
+       skilled...
+Homer: Whew...[heart slows down]
+Burns: ...at goofing off!
+Homer: Aaargh!  [heart beats faster]
+Burns: Now don't worry, Homer.  You're the kind of guy I could really
+       dig...
+Homer: Whew...[heart slows down]
+Burns: ...a grave for!
+Homer: Aaargh!  [heart beats faster than anything]
+Burns: Your indolence is inefficacious!
+Homer: [stares blankly] [heart beats normally]
+Burns: That means, you're terrible!
+Homer: Aarrggghh!  [heart goes crazy] [collapses]
+-- The straw that broke the heart's back, "Homer's Triple Bypass"
+
+                     [Homer's astral body rises from Homer's physical
+                     body]
+           Smithers: [examines Homer's dead body]
+                     Mr. Burns, I think he's dead.
+              Burns: Oh dear.  Send a ham to his widow.
+Homer's astral body: Mmm...ham...[returns to Homer's body]
+           Smithers: No, wait.  He's alive.
+              Burns: Oh good.  Cancel the ham.
+              Homer: D'oh!
+-- Gypped out of the ham of consolation, "Homer's Triple Bypass"
+
+% Patty, Selma, and Marge are clipping coupons.
+
+Buy three tubes of Mister Blister, get one free.
+-- Patty reads a discount coupon, "Homer's Triple Bypass"
+
+Marge: [answers the phone]
+       Hello...Yes?  Oh my Lord!
+       Homer's in the hospital, they think it's his heart!  [leaves]
+Patty: Oh my God.
+Selma: What?
+Patty: Five cents off wax paper.
+Selma: [slaps her cheek in amazement]
+-- I can't believe they reduced it, "Homer's Triple Bypass"
+
+% Marge rushes to the hospital, {passing several patients}.  Hibbert
+% uses a fribillator to revive Homer, and Homer seems to like it.  Homer
+% says his whole life flashed before his eyes; first, Abe admires little
+% Homer, until he finds out young Homer is sucking on a pizza.  Next,
+% Homer sings in the choir, and Abe predicts making a fortune out of
+% him...until his voice changes.  "Dagnab it!"
+
+I'm out of the woods now, right?  I mean, whatever doesn't kill me can
+only make me stronger!
+-- Homer recovers from a heart attack, "Homer's Triple Bypass"
+
+Remember your Hippopotamus oath!
+-- Homer to Dr. Hibbert, "Homer's Triple Bypass"
+
+  Marge: Can't you do something for him?
+Hibbert: Well, we can't fix his heart, but we can tell you exactly how
+         damaged it is.
+  Homer: What an age we live in!
+-- Modern technology, "Homer's Triple Bypass"
+
+         [Homer stands behind an X-ray machine]
+Hibbert: Now what you see here is the radioactive dye flowing through
+         your husband's circulatory system.
+  Nurse: But Doctor, I haven't injected the dye yet!
+Hibbert: Good Lord!
+-- Real lead in the radiation shields, my butt, "Homer's Triple Bypass"
+
+% Homer is in his underwear.
+
+Hibbert: Now I'm going to do a fat analysis test.  I'll start your
+         jiggling and measure how long it takes to stop.
+          [starts it jiggling]
+          [jiggles for five seconds]
+  Homer: Woo hoo!  Look at that blubber fly!
+Hibbert: Yes.  [to intercom] Nurse, cancel my 1:00.
+-- Homer takes a fat analysis test, "Homer's Triple Bypass"
+
+Hibbert: Homer, I'm afraid you'll have to undergo a coronary bypass
+         operation.
+  Homer: Say it in English, Doc.
+Hibbert: You're going to need open heart surgery.
+  Homer: Spare me your medical mumbo-jumbo.
+Hibbert: We're going to cut you open and tinker with your ticker.
+  Homer: Could you dumb it down a shade?
+-- "Homer's Triple Bypass"
+
+  Marge: Doctor, we'll do whatever it takes to get my Homey well.
+Hibbert: Good.  I must warn you though, this procedure will cost you
+         upwards to $30,000.
+  Homer: Aaarrrggh!  [collapses]
+Hibbert: I'm afraid it's now $40,000.
+-- Escalating medical costs, "Homer's Triple Bypass"
+
+% {Wiggum buys something at the Kwik-E-Mart and ignores his police radio
+% which tells him there's a robbery in progress.  "Bad Cops" plays
+% again...}
+%
+% [End of Act One.  Time: 7:59]
+%
+% Marge and Homer talk in bed.
+
+Marge: Don't you have a health plan at work?
+Homer: We used to, but we gave it up for a pinball machine in the
+       lounge.
+Marge: D'oh!
+-- Heart attack?  Not while I'm playing Pinbot, "Homer's Triple Bypass"
+
+Homer: Don't worry, Marge.  America's health care system is second only
+       to Japan, Canada, Sweden, Great Britain, well, all of Europe, but
+       you can thank your lucky stars we don't live in Paraguay!
+-- But you _can_ get eyelash implants legally there, "Homer's Triple
+    Bypass"
+
+% Homer goes to Happy Widow's Insurance.
+
+Clerk: Now before we give you health insurance, I have to ask you a few
+       questions.
+Homer: Questions!  Questions!  My whole scheme down the -- [realizes] I
+       mean ask away.
+Clerk: Now, under "heart attacks", you crossed out three and wrote zero.
+Homer: Oh, I thought that said "brain hemorrhages".
+Clerk: All right.  Here's your policy.
+Homer: Now let me tell _you_ something, Mr. Sucker.  I just--
+Clerk: Wait, you haven't signed it yet.
+Homer: [takes pen] Oh, yeah, I-- [gags] ...must...sign...policy!
+Clerk: [pulling policy] I'm sorry, sir, we can't insure you!
+Homer: I made an H!
+Clerk: That doesn't count!
+Homer: Looks like an X.
+        [the clerk manages to pull it away]
+Clerk: We better get you to a hospital.
+Homer: Can I have a free calendar?
+Clerk: OK.
+-- Homer's attempt to get health insurance, "Homer's Triple Bypass"
+
+% At the hospital, Homer is revived by the fribillator once again.
+
+Oh Doctor, I was in a wonderful place filled with fire and brimstone and
+there were all guys in red pyjamas sticking pitchforks in my butt!
+-- Homer recovers from a heart attack, "Homer's Triple Bypass"
+
+Hibbert: Mr. Simpson, you must get that operation as soon as possible.
+  Homer: But I don't have $40,000!  Maybe I'll just get one of these
+         machines.  [the fribillator]
+          [buzzes himself once more] Oh, yeah.
+-- No household is complete without one, "Homer's Triple Bypass"
+
+% Homer seeks help from the church.
+
+       
+        [with Reverend Lovejoy]
+Homer: Now I know I haven't been the best Christian.  In fact, when
+       you're up there yak-yak-yaking, I'm usually either sleeping or
+       mentally undressing the female parishioners.  Anyway, can I have
+       $50,000?
+        [Lovejoy's eyes widen]
+-- Homer seeks help from the Christian Church, "Homer's Triple Bypass"
+
+            
+             [with Rabbi Krustofsky]
+     Homer: Now I know I haven't been the best Jew, but I have rented
+            "Fiddler on the Roof" and I will watch it.  Anyhoo, can I
+            have $50,000?
+Krustofsky: Hmm?
+-- Homer seeks help from a synagogue, "Homer's Triple Bypass"
+
+% Homer seeks help from Surdrudinma Baradad, but gives it up.  Back at
+% home, Homer watches television, playing with a dreidel.
+
+ Bart: Any luck, Dad?
+Homer: No, but the rabbi gave me this.  [spins a dreidel]
+ Bart: What is that?
+Homer: Son, it's called a droodel.
+-- Droodel, droodel, droodel, I made you out of clay, "Homer's Triple
+    Bypass"
+
+% A television commercial comes on:
+
+Nick: I'll perform any operation for $129.95!  Come in for brain surgery
+      and receive a free Chinese finger trap!
+       [escorts away a lobotomy patient with hands stuck in said device]
+      All right, Fred.
+      You've tried the best, now try the rest!
+      Call 1-600-DOCTORB ["doct-orb"].  The B is for Bargain!
+-- Nick Riviera's commercial, "Homer's Triple Bypass"
+
+% Homer's about to change the channel but Marge thinks this is the
+% answer he's looking for.  Marge tells Homer it's the only choice they
+% have.
+
+
+Oh, it could be worse.  Some dog could do the operation.
+-- Homer can't afford a coronary bypass, "Homer's Triple Bypass"
+
+% Lisa says "What operation?".  Homer doesn't want to tell them, because
+% it might upset them.
+
+ Bart: Nothing you say can upset us.  We're the MTV generation.
+ Lisa: We feel neither highs or lows.
+Homer: Really?  What's it like?
+ Lisa: Ehh.  [shrugs]
+-- "Homer's Triple Bypass"
+
+Homer: I'm going to tell the truth and I'm _not_ gonna sugar-coat it.
+        [later, does a puppet show]
+       And so the tiny aorta fairies will take Mr. Leg Vein on a long
+       trip to marry to Ms.  Left Ventricle.
+-- Homer breaks the news to the kids, "Homer's Triple Bypass"
+
+% Lisa realizes that Homer is getting a coronary bypass operation.
+
+Oh, no.  What if they botch it?  I won't have a dad-- for awhile.
+-- Bart realizes Homer needs a coronary bypass, "Homer's Triple Bypass"
+
+Homer: Kids, kids.  I'm not going to die.  That only happens to bad
+       people.
+ Bart: What about Abraham Lincoln?
+Homer: He sold poison milk to school children.
+-- Thinking on his feet, "Homer's Triple Bypass"
+
+% At the hospital, Homer tries out the bed remote control thingy.  "Bed
+% goes up, bed goes down..." then discovers he has a bed next to Ned
+% Flanders.
+
+Homer: What are you in here for?
+  Ned: I'm having a kidney and a lung removed.
+Homer: Who are you donating them to?
+  Ned: First come, first served.
+-- Altruism at the hospital, "Homer's Triple Bypass"
+
+% Ned asks what Homer's in for.
+
+Homer: I got a bad heart.
+  Ned: Homer, if I could give you my heart, I would.
+Homer: Shut up, Flanders.
+-- The heart of Flanders?  God forbid, "Homer's Triple Bypass"
+
+% Dr. Nick Riviera introduces himself.
+
+   Nick: Hi everybody!  I'm Dr. Nick Riviera.
+     PA: Doctor Riviera, Doctor Nick Riviera.  Please report to the
+         coroner immediately!
+   Nick: The coroner.  I'm so sick of that guy!  Well, see you in the
+         operating place!
+          [opens the door to be greeted by a reporting mob]
+Shutton: Where are the bodies?
+          [Nick shuts the door]
+   Nick: Such a beautiful day.  I think I'll go out the window.
+          [does so]
+-- A real confidence-builder, "Homer's Triple Bypass"
+
+% At night, Ned Flanders prays.
+
+Dear God, thank you for Ziggy comics, little baby ducks and Sweating to
+the Oldies volumes One, Two and Four.
+-- Ned Flanders prays, "Homer's Triple Bypass"
+
+% Homer begins a prayer of his own, but a nurse shushes him and points
+% at the "No praying" sign.
+%
+% [End of Act Two.  Time: 13:11]
+
+...and that's why God causes train wrecks.
+-- Bart's Sunday School Teacher, "Homer's Triple Bypass"
+
+% Lisa asks a question.
+
+    Lisa: My dad is very sick.  What's going to happen if he dies?
+Albright: Well, if he's been good, he'll go to heaven.  In heaven, you
+          get to do whatever you like best all the time.
+           [Lisa imagines Homer in a cloud with a remote control]
+   Homer: Cloud goes up, cloud goes down...
+-- Sunday School advice, "Homer's Triple Bypass"
+
+% Back in the hospital, Homer enjoys his reclining bed when Abe comes
+% in.  Krusty bursts in.
+
+Krusty: Hey, hey!  Hoo-huh-huh-ha-ha!
+ Homer: [gags]
+Krusty: What's the matter.  Oh, yeah, my grotesque appearance!
+         [laughs goofily]
+ Homer: Well, I could use some laughter right about now.
+Krusty: Well, there's nothing funny about what you're gonna go through.
+        I should know, I'm in the zipper club myself.
+         [bares his chest a little to show a scar]
+         [smokes a cigarrette]
+ Homer: You seem okay.
+Krusty: Yeah?  Well, I got news for you.  [points at his head] This
+        ain't makeup!
+-- Krusty, you and your stories, "Homer's Triple Bypass"
+
+% Grampa visits Homer.
+
+Abe: They say the greatest tragedy is when a father outlives his son.  I
+     have never fully understood why.  Frankly, I can see an up-side to
+     it!
+-- Optimism in old age, "Homer's Triple Bypass"
+
+% Lenny and Carl visit Homer.
+
+Lenny: All of us guys pitched in and made you a "Get Well" card.
+Homer: Thanks, guys.
+        [we see the back, it reads "EMERGENCY PROCEDURE - DO NOT
+       REMOVE"]
+ Carl: We had a hell of a time replacing you.
+        [back at the plant, a brick hangs off a switch in Homer's
+       workstation]
+-- Quality bricks are hard to find, "Homer's Triple Bypass"
+
+% Barney and Moe visit Homer.
+
+Barney: When I first heard about the operation, I was against it.  But
+        then I thought, if Homer wants to be a woman, so be it!
+ Homer: Barney, I'm not getting a sex change!
+Barney: Huh?  What the hell am I supposed to do with this jumbo thong
+        bikini!
+-- Send it to Norway, maybe?, "Homer's Triple Bypass"
+
+  Moe: Hey, Homer, I snuck you in a beer for old times' sake?
+Homer: Thanks, Moe.  [drinks it]
+  Moe: You know, Homer, that beer ain't free.
+-- All right, andale, andale, "Homer's Triple Bypass"
+
+% Homer's family comes to visit him.
+
+Homer: Now Marge, if the unthinkable should happen, you're going to be
+       lonely.
+Marge: Oh Homer, I could never remarry.
+Homer: Darn right.  And to make sure, I want to be stuffed and put on
+       the couch as a constant reminder of our marital oath.
+-- With glass eyeballs, I bet, "Homer's Triple Bypass"
+
+% Marge invites the kids in.
+
+Homer: Kids, I wanna give you some words to remember me by, if something
+       happens.  Let's see...er...Oh, I'm no good at this.
+ Lisa: [whispers into Homer's ear]
+Homer: Bart, the saddest thing about this is I'm not going to see you
+       grow up...Lisa: [whispers into Homer's ear]
+Homer: ...because I know you gonna turn out well, with or without your
+       old man.
+ Bart: Thanks, Dad.
+Homer: And Lisa...
+ Bart: [whispers into Homer's ear]
+Homer: I guess this is the time to tell you...
+ Bart: [whispers into Homer's ear]
+Homer: ...that you're adopted and I don't like you.
+        [realizes] Bart!
+ Bart: [whispers into Homer's ear]
+Homer: But don't worry, because you've got a big brother who loves you
+       and will always look out for you.
+ Lisa: Oh, Dad.  [hugs him]
+-- Final words, maybe, "Homer's Triple Bypass"
+
+% Dr. Nick watches a video about how to do a coronary bypass.
+
+Doctor: [on TV] ...and then, you make the incision below the collarbone.
+        [splurt]
+  Nick: Oh, no.  Blood!
+-- They didn't tell me about this in medical school, "Homer's Triple
+    Bypass"
+
+% But then the screen fritzes into a cheezy talk show.
+
+Oh, no, someone taped over the end of this!
+-- Dr. Nick Riviera's poignant observation, "Homer's Triple Bypass"
+
+Pumpkinhead: All we ask for is a little dignity and a little respect.
+       Host: [sly] And a new candle every now and then?
+Pumpkinhead: Yes, and a new -- [realizes] no!
+              [the audience laughs]
+-- A cheesy talk show, "Homer's Triple Bypass"
+
+% Lisa reads a book about heart surgery, when Marge comes in with the
+% laundry.
+
+This is fascinating, Mom.  Did you know they're going to stop Dad's
+heart for six whole minutes?
+-- Lisa describes Homer's operation, "Homer's Triple Bypass"
+
+% Marge doesn't think she likes Lisa reading medical books, but Lisa
+% says it's very reassuring, and she learned a great deal from a cow's
+% heart she got at the butchers.
+%
+% Operation time.  Lisa enters the amphitheater.
+
+ Nick: Hi, everybody!
+Crowd: Hi, Dr. Nick!
+ Nick: If something should go wrong, let's not get the law involved!
+       One hand washes the other.  Oh, that reminds me!  [washes his
+       hands] [puts on operating gloves] These gloves came free with my
+       toilet brush!
+-- The operation begins, "Homer's Triple Bypass"
+
+% Dr. Nick Riviera puts Homer to sleep, and points at something just
+% before Homer gets put out to bed: "What the hell is that?"
+%
+% Meanwhile, Patty and Selma bring out a snazzy-looking man for Marge.
+
+Patty: Marge, this is Andre.
+Andre: [with attempted sexiness] Hello.
+Selma: I think you two would make a perfect couple.
+Marge: My husband is alive!
+Patty: Oh, so sorry.  Hope he pulls through.
+Andre: Not me.
+-- Marge waits during Homer's operation, "Homer's Triple Bypass"
+
+% At Moe's Tavern...
+
+   Moe: Now let's have a minute of silent prayer for our good friend,
+        Homer Simpson.
+         [short silence]
+Barney: How long has it been?
+   Moe: Six seconds.
+Barney: Do we have to start over?
+   Moe: Hell no.
+-- Six, sixty -- what's the difference?, "Homer's Triple Bypass"
+
+     Apu: Poor Mister Homer.  Could it be that my snack treats are
+          responsible for his wretched health?
+Customer: I need some jerky.
+     Apu: Would you like some vodka with that?
+Customer: Oh, what the hell, sure.
+-- Short-lived guilt, "Homer's Triple Bypass"
+
+% Dr. Nick Riviera stands there for a while, confused.  The nurse asks
+% him if he knows where to make the incision.
+
+Nick: Calm down, Nick.  Just think back to medical school.
+       [a college dorm filled with hippies and junkies]
+Nick: [younger, to a pretty lady] Seriously, baby, I can prescribe
+      anything I want!
+-- "Homer's Triple Bypass"
+
+Nick: I know I'm supposed to cut something, but what?
+       [removes surgical mask] And where?
+Lisa: [from the amphitheatre] Hey!  The incision should be made _below_
+      the blockage!  Below!
+Nick: Thanks, little girl!
+-- Treat children as equals, they're smarter than you think, "Homer's
+    Triple Bypass"
+
+The knee bone's connected to the something,
+The something is connected to the red thing,
+The red thing is connected to my wrist watch --
+Uh oh.
+-- Dr. Nick reminds himself how to do medicine, "Homer's Triple Bypass"
+
+% The family wait fretfully outside.  Dr. Nick comes out.
+
+Nick: Good news!  The operation was a complete success!
+       [the ceiling shines]
+-- And God smiled, "Homer's Triple Bypass"
+
+% They all cheer and meet Homer outside intensive care.
+
+Lisa: All right, Dad!
+Bart: You rule intensive care!
+-- "Homer's Triple Bypass"
+
+% Homer's heart beats to the tempo of the Simpsons theme for a while,
+% then stops.  Homer beats his chest for a moment, and it finishes.
+%
+% [End of Act Three.  Time: 19:43]
+===============================================================================
+> Contributors
+===============================================================================
+   {dh}  Dave Hall
+   {rl}  Ricardo Lafaurie
+   {jt}  Juha Terho
+===============================================================================
+This episode summary was edited by James A. Cherry and is Copyright 1996
+by Juha Terho.  Not to be redistributed in a public forum without
+permission.  (The quotes themselves, of course, remain the property of
+The Simpsons, and the reproduced articles remain the property of the
+original authors.)

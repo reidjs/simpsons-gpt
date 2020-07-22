@@ -1,0 +1,913 @@
+King of the Hill                                  Written by John Swartzwelder
+                                                 Directed by Steven Dean Moore
+==============================================================================
+Production code: 5F16                      Original airdate on FOX: 3-May-1998
+Capsule revision A (17-May-2003)
+==============================================================================
+> "TV Guide" Synopsis
+==============================================================================
+   (Canadian TV Guide) There may be no peaking for the new and improved Homer
+   when two power-bar company men (voices by Brendan Fraser and Steven Weber)
+   come up with a stunt -- one that involves great peril. {hl}
+
+==============================================================================
+> Title sequence
+==============================================================================
+Blackboard:     None.
+
+Couch gag:      The family in a snow globe!
+
+==============================================================================
+> Didja notice...
+==============================================================================
+Anthony Dean:
+   ... Jimbo attends the church picnic?
+   ... Homer takes heart medication?
+
+Nathan Mulac DeHoff:
+   ... SLH has become excellent at obeying commands?
+   ... Homer only has one pair of underwear?
+   ... the truck says "Springfield News," not "Springfield Shopper"?
+
+Jordan Eisenberg:
+   ... the combined commie/nazi logo?
+   ... McBain's shirt is set-up to rip on cue?
+   ... McBain's plane remains in flight after it is bombed?
+   ... CBG is reading "Zebra Girl" in the porta-potty?
+   ... Homer's underwear is pink?
+   ... OFF eats dinner at 5:05?  (Or 1:25, but not likely)
+   ... Marge has a recipe list hanging in the kitchen?
+   ... this episode had practically no good DYNs?
+
+Andrew Gill:
+   ... Marge wasn't one-dimensional in this ep?
+   ... both the paper boy and the paper man toss two papers out per house?
+
+Don Del Grande:
+   ... that McBain movie was made in the days when kids carried around
+       UNICEF boxes at Halloween?
+   ... Ranier Wolfcastle sounds different than usual?
+   ... Santa's Little Helper managed to open the door when he dragged Homer
+       back (after Snowball II closed it when they left)?
+   ... Grampa's dentures match the indentations made by his original teeth?
+   ... if we take Bart's word for it, the Murderhorn is at least 20,000 feet
+       (6144m for metric users) high?
+   ... technically, Homer wasn't the first to climb to the top of the
+       Murderhorn, since someone else reached the "new" top first?
+
+Tony Hill:
+   ... Bart mourns a commie Nazi?
+   ... Homer didn't know what dumbbell meant?
+   ... Lisa's as weak as a little girl?
+
+John Isles IV:
+   ... McBain's voice seems higher-pitched?
+   ... Two copies of the "Springfield Times" was being delivered to each
+       house?
+   ... Even with his newly-created muscles, Homer was still round in the
+       stomach area?
+   ... The "O" in "Powersauce" is an apple?
+
+Haynes Lee:
+   ... devilled eggs look like extra eggs on Homer's head?
+   ... Captain McAllister has some landlubber ancestors?
+
+Benjamin Robinson:
+   ... Homer arrives at the Kwik-E-Mart at just before 2:00am?
+   ... Fred, the PR guy with a ponytail, wears one of those power crystal
+       necklace thingies?
+   ... although the next episode is "Lost Our Lisa," she isn't even mentioned
+       in the teaser?  Nice to see the network has confidence in her...
+
+Mike Smith:
+   ... Harry Shearer & Nancy Cartwright is in the commerical of the upcoming
+       movie, "Godzilla", aired just before the episode started?
+   ... despite last week's promise on the chalkboard, Mike Scully happened to
+       messed around with the opening credits (No chalkbroad, recycled Couch
+       Gag from "Miracle On Evergreen Terrace")?
+
+==============================================================================
+> Voice credits
+==============================================================================
+- Starring
+   - Dan Castellaneta (Homer, Abe)
+   - Julie Kavner (Marge)
+   - Nancy Cartwright (Bart, Ralph Wiggum, Todd Flanders, Nelson Muntz)
+   - Yeardley Smith (Lisa)
+   - Hank Azaria (Legs, Chief Wiggum, Comic Book Guy, Apu, Sherpa 2)
+   - Harry Shearer (McBain/Rainier Wolfcastle, Reverend Lovejoy, Mr. Burns,
+        Smithers, Ned Flanders, Sherpa 1, Dr. Hibbert)
+
+- Special guest starring
+   - Brendan Fraser (Brad)
+   - Steven Weber (Neil)
+
+- Also starring
+   - Joe Mantegna (Fat Tony)
+   - Pamela Hayden (Rod Flanders, Milhouse)
+
+==============================================================================
+> Movie (and other) references
+==============================================================================
+   + "King of the Hill" (TV series / children's game {ad})
+     - title of this episode pays tribute to this other Fox animated series,
+       which airs um ... damn, I forgot! {bjr}
+
+   + The Matterhorn
+     - Springfield's Murderhorn has a similar name {bjr}
+
+   + "The Living Daylights" (James Bond movie) {ag}
+     - UNICEF aid (cf Red Cross aid)
+     - style of plane
+
+   + PowerBar (Or PowerAde?) (energy bar/drinks)
+     - PowerSauce {ag}
+
+   + Superman's Fortress of Solitude (Fortress of Solitude)
+     - CBG mentions a fortress of solitude {tr}
+
+   + "Rudolph, the Red-nosed Reindeer" (Animation)
+     - The abominable snowman in Homer's dream sequence looks like the one in
+       the animated story {tr}
+       ("Thought that it looked more like the one from the Bugs Bunny cartoons
+       or maybe acted." -- {ag})
+
+   + Donner Pass Party / "Alive" (Movie... based on a true story)
+     - People stranded on mountains reduced to cannibalism, like Grandpa and
+       McAllister {tr}
+
+   + Scott's expedition to the South Pole
+     - (see comments and other observations) {tr}
+
+   + "Pumping Iron" (movie)
+      - body building movie starring Arnold Schwarzenegger {hl}
+
+   + "Seinfeld" (TV series)
+      - someone making a big deal about forgetting to wipe sweat off gym
+        equipment {hl}
+
+   + Mount Everest (really big mountain) {hl}
+      - Sherpas as guides.
+      - oxygen tanks littering the mountain.
+      - a bunch of inexperienced yuppies became frozen popsicles trying to
+        conquer Everest a few years ago.
+      - Himalayas has a population of snow leopards and some sort of
+        abominable snowmen (aka yeti)
+
+   + "The Hunchback of Notre Dame" (book)
+      - Homer getting egged looked vaguely familiar to a similar scene in the
+        movie {je}
+
+==============================================================================
+> Previous episode references
+==============================================================================
+- [7G04] Picnic {hl}
+- [7G10] Homer wants to get into shape {ad}
+- [7F06] Homer does something dangerous as an example for Bart {ad}
+- [7F10] Burns runs over a small boy (Bart) {hl}
+- [7F18] Homer tries to get in shape after his weight causes embarrassment
+         {nmd}
+- [7F24] Homer has pink clothing {je}
+- [8F12], [4F10], [9F07] Homer climbs a mountain {je}
+- [9F06] Family eats grey glop purported to be an actual food item
+         (supposedly eggs according to Marge in [9F06]) {ad}
+- [9F09] Homer's stomach ripples {ddg}
+- [1F08] Homer imagines himself with muscular biceps {ad}
+- [1F18] Someone mentions that they have only one pair of underwear {nmd}
+- [3F07] Homer doesn't know Lovejoy's name {je}
+- [3F11], [4F13] Homer drives the car through an inappropriate place {ad}
+- [3G03] Burns flying a kite {ms}
+- [4F10] Homer at a mountain {ms}
+- [4F10] Riding someone's carcass down the mountain to safety {je}
+- [5F03] McBain trains a Springfieldite {je}
+- [5F07] Couch Gag {ms}
+
+==============================================================================
+> Freeze frame fun
+==============================================================================
+- Bart's capture-the-flag team (aside from Homer and Bart) {bjr}
+  - Nelson, Lewis, Richard, and Janey, going by the kids waiting for Homer at
+    the finish line.
+
+
+- People at the park {je}
+- OFF, Chief Wiggum, Lou, Eddie, Fat Tony & his gang, Moe, Ned, Maude,
+  Reverend Lovejoy, Ruth Powers, Ralph, Smithers, Mr. Burns, Rod, Todd, Jimbo,
+  Sherri, Terri, Nelson, Milhouse, Janie, CBG, Lewis.
+
+
+- Powersauce Bar wrapper {bjr}
+
+         POWERSAUCE
+ Unleash the power of apples
+      [very small text]
+
+Although the text is very small, the first few words look like they could be,
+"A bushel of apples."  If that's the case, the text was probably what Homer
+read out loud for us:  "A bushel of apples packed in each bar, plus a secret
+ingredient that unleashes the awesome power of apples."
+
+
+- The mountaineer's diary {bjr}
+
+What we can see of the left page reads as follows:
+
+         snowed all
+he North Face is an
+      the winds are
+          the south
+         attempt in
+
+The right page is just what Homer read, up to "My last thoughts..."
+
+
+- Bart's tube of glue {bjr}
+
+       ETERN-A-BOND
+NOW WITH [skull] DEATH GRIP
+
+Yes, that's technically from <next> episode, but why not get a head start?
+
+==============================================================================
+> Animation, continuity, and other goofs
+==============================================================================
+* Isn't the object of "Capture the Flag" to take your opponent's flag, not
+  your own? {th}
+
+- When Homer poses for himself, the door appears closed in the mirror, but it
+  isn't. {je}
+
+c The captions for Bart's line read: "McBain has (is) really buffed up". {je}
+
+c When Homer says "The picture looked good where it was", the CC says "The
+  picture looks good where it is". {je}
+
+c When Homer says "...King", the captions say it echoes, when it actually
+  doesn't. {ji4}
+
+= During the fight scene between McBain and the German pilot, the plane must
+  be at a standstill, since there is no sign of any wind resistance. {ji4}
+  ({bjr} contributes, "Which, come to think of it, would be the case if McBain
+  filmed this in a studio and someone forgot to flip on the wind machine.")
+
+* Mount McKinley is the tallest peak in the U.S. - not the Murderhorn! {hl}
+
+* Grandpa's being in the climb in 1928 is inconsistent with Homer being 36.
+  {th}
+
+= When the top of the mountain collapses, the new top has a little mound on it
+  (so Homer wasn't actually at the top yet), which then disappeared. {ddg}
+
+==============================================================================
+> Reviews
+==============================================================================
+Dale G. Abersold: All the hallmarks of a later-season John Swartzwelder
+   episode are there: surreal plot, odd plot contrivance.  This is a pretty
+   good one, however, partly because of some amusing gags, but mostly because
+   Homer isn't as much of a jerk here as he has often been in later seasons
+   (his "filth" comments to the contrary).  Could have been better, could have
+   been worse.  (B)
+
+A. Bijanki: This episode was quite good, and I found myself laughing nearly
+   throughout. This is classic Homer, including all the specifics of Homerly
+   fatness and stupitidy [Don't you mean "stupidity"? --hmw], but a fake sort
+   of drive to get things done.  Bart's part was minimal, but again the show
+   was about Homer.  I wonder why they named this King of the Hill - seems
+   like a bad title to me, especially with a show named KOTH having nothing
+   to do with the Murderhorn episode.
+
+Chris Courtois: "King of the Hill" was the strongest Swartzwelder outing
+   since "You Only Move Twice". Homer was (mostly) sympathetic for the entire
+   episode, a welcome change from the rampaging asshole of last week's show.
+   I actually felt sorry for him while he was being egged. Although the story
+   was slight, there were lots of good bits along the way, such as the McBain
+   movie, Homer flirting with himself in the mirror (and still having flab -
+   better than an overnight transformation into a buff stud), the Chinese
+   newspapers, the announcement that Homer had switched to the competitor's
+   bar. The Abe cannabilism subplot didn't do much for me, but other than
+   that it was a fun episode.  (B+)
+
+Anthony Dean: A definite improvement over last week's dismal entry. High
+   points: the McBain movie, "Homer, is that your wallet?". Low points:
+   McBain's voice sounding off.  (B-)
+
+Nathan Mulac DeHoff: This week's episode really wasn't all that great.  The
+   plot wasn't much to speak of, and Homer trying to get in shape has been
+   done before.  There were some good laughs, though.  The McBain movie, the
+   views of the three mountains, and the ending line were all clever.  As for
+   characterization, Marge seemed a little off, and we really didn't see much
+   of the kids (although Bart was a major motivating factor).  (C)
+
+Jordan Eisenberg: A quite low-aiming and low-acheiving episode if I ever saw
+   one.  The jokes seemed to be packed tightly in some areas, and almost
+   semi-annual in others. One of the worst plot concepts I've seen since the
+   AABF series was leaked is improved slightly by a few decent jokes and the
+   picnic sequences.  Repeated viewings bring it up to about a C+.
+
+Alex Foley: The Best Homer story since "Homer's Phobia" A short Act I, spotty
+   Marge charactization bog this episode down, but Homer wasn’t a jerk, and
+   some good jokes give this a (B).
+
+Andrew Gill: This ep was slightly ludicrous, but began strongly.  By the end,
+   however, we had a subpar ep (with all of the craziness of Homer riding down
+   the mountain, &c).  However, just being subpar isn't enough to ruin the
+   characterization, &c.  Technical merits: 4/5(B+)  Artistic Qualities:
+   3/5(B-)
+
+Don Del Grande: One of the better efforts this season, but I would have
+   expected a little better from a Swartzwelder episode.
+
+Tony Hill: This was a pretty funny ep, and it did a good job of sticking with
+   a single theme from beginning to end.  Typical of the ninth season, there
+   was a drop of plastic reality with the sudden appearance of an Alpine
+   range adjacent to Springfield.  (Or is this a feature of the "New
+   Springfield" location since "Trash of the Titans" last week.)  But since
+   it was just a drop, I'll ignore it and give KOTH an A.
+
+Dylan Humphrey: This episode seemed to play upon the viewer's emotions more
+   than usual.  I think the communazi's death was one of the most graphic
+   scenes I've seen on the Simpons.  Also, the closing of act I was big on
+   emotional content.  Lastly, the victorious ending.  This almost seemed like
+   a WWF [WW*F*! Ahh, nostalgia! --hmw] match with its emotional choreography!
+   I think that's especially potent for those of us that see similarities
+   between Homer and ourselves.  Anyway, the whole ep ended up being a real 
+   watchable pick-me-up, due primarily to the emotional content.  The amount
+   of hilarity was kept to a minimum, which i suppose is needed in order to
+   have a real emotional response from your audience. Here's hoping for
+   something crazy next week...
+
+John Isles IV: OH, MY GOD!  A NEAR-PERFECT EPISODE!!!  I can't say I hated
+   anything in this showing, 'cuz I didn't.  The story was basically Homer was
+   embarrassed that he faltered in front of Bart, goes on a diet/exercise
+   plan, tries to make Bart believe in him-- Just about what anyone else would
+   do, huh?  Simply put, this one had a GREAT sense of balance throughout.
+   (A+)
+
+Haynes Lee: A good mono-plot episode whose major flaw is the flat voice of
+   McBain/Wolfecastle.  (B-)
+
+Jake Lennington: Well, it had its funny moments.  SLH dragging Homer around
+   cracked a smile, the CBG having the top of the Portapottie knocked off, and
+   Ralph getting chased by Burns when he was "it" were the best scenes, IMO.  
+   Overall, the episode was not that funny, but it wasn't grating like the
+   Trash of the Titans.  (C-)
+
+Ondre Lombard: Easily the best Homer episode perhaps since "Homerpalooza,"
+   which is strange because the core plot element here emulates Homerpalooza,
+   in that, Homer does something life-threatening in order to impress Bart.
+   There isn't a lot to laugh at, but Homer is all around likeable and fun to
+   watch in this episode.  An emotional, slightly unoriginal tale, with a
+   welcome joyous ending.  Swartzwelder seems to have a weird obsession with
+   mountain-climbing though.  But it's fortunately a marked improvement over
+   his failed "Mountain of Madness."  (B+)
+
+MEBuckle66: This was, indeed, a fabulous episode!  I was laughing consistently
+   throughout. The McBain movie at the beginning was especially funny, with
+   the "Nazi Commies" as the enemy.  I also enjoyed the joke with the
+   Flanderses at the beginning, they'll never change.  Another one of my
+   favorite jokes was that whole thing about Ralph tagging Mr. Burns.  Put two
+   great charachters together for one scene, and you've got a great joke!  I
+   also liked the whole bit about the powersauce bars.  Just makes me hate
+   those other commercials that use celebrity endorsement even more.  Oh, and
+   it was cool that we could see the comic book guy.  Most importantly, the
+   plot was well constructed and left me satisfied.   That is all.  (A-)
+
+Tom Rinschler: Not too bad.  Several amusing moments, and a nice,
+   heart-warming story were major plusses.  It was nice to see Homer striving
+   for something instead of just being a jerk.  Unfortunately, several of the
+   jokes flopped, and there were several slow periods.  Overall, however,
+   this episode was solid, though not excellent.  (B)
+
+Benjamin Robinson: Like Homer, this story must overcome some obstacles -- a
+   lackluster first act, some plot liberties, and more information about Abe
+   than we wanted to know.  Like Homer, it more or less succeeds.  The second
+   two acts are strong, Homer is neither too jerky nor too dumb, and I liked
+   the guest characters.  A more ambitious show than Swartzwelder's "Mountain
+   of Madness (4F10)," and a little better, too.  (B)
+
+Mike Smith: Nothing worth it, except it's an far better Homer episode than
+   last week's. An better episode than last season's forgettable "Mountain Of
+   Madmess". I wish I would like to tell you more, but, my mother told to tape
+   that dumb movie about some talking pig! I don't care if that's the one with
+   John Goodman!  (B)
+
+==============================================================================
+> Comments and other observations
+==============================================================================
+>> Brutal National Leader Dept.
+
+Benjamin Robinson: Although Communists and Nazis are pretty much
+   interchangeable to Americans, they were in reality arch-enemies.  Perhaps
+   familiarity bred contempt?
+
+   Speaking of Communists, Deng Xaioping, the man Homer mentioned, was the
+   former leader of Red China.  He did in fact die recently, after surviving
+   about forty or fifty rumors of his imminent death.
+
+
+>> Unleash the power of apples!
+
+Benjamin Robinson: Power bars, like the episode's Powersauce, do exist.
+   Despite what Homer seems to think, they are not intended to be your only
+   food source.  Instead, they contain nutrients and carbohydrates that might
+   come in handy during a strenuous workout.  Or at least, that's what
+   real-life bars contain.  A bar like Powersauce, which claims to be made
+   out of applesauce, probably wouldn't contain much of anything. [Actually
+   fruit is a good source of carbohydrate as it is full of fructose which is
+   similar to sugar, which is one of the quickest energy sources! Shame it
+   spikes insulin and is instrumental in fat gain... --hmw] I just pulled a
+   jar of applesauce from the fridge.  One serving contains 9% of the daily
+   recommended portion of carbohydrates, 4% of the dietary fiber, 2% of the
+   vitamin C, and zippo of pretty much everything else.  Oh, wait, you do
+   get 28 grams of sugar.  Tasty, and basically harmless, but not exactly
+   the breakfast of champions.
+
+
+>> Hey, I can see my house from here!
+
+Benjamin Robinson: Bart mentions that Homer has "four vertical miles" to go.
+   That means the Murderhorn is at least 21,120 feet tall, plus the distance
+   Homer had already climbed, plus the elevation of Springfield above sea
+   level.  By way of comparison the world's tallest mountain, Mt. Everest,
+   is 29,028 feet (just under 5 and a half miles) tall.
+
+
+>> More on Scott's expedition (see References)
+
+Tom Rinschler: In 1911, the race to be the first to reach the South Pole was
+   on.  Two expeditions, led by Raold Amundsen of Norway and Robert Scott of
+   Great Britain were racing to reach that landmark.  Amundsen arrived first,
+   on December 16, 1911, and returned safely.  Scott arrived exactly a month
+   later, but disappeared on his way back.  His body and those of his
+   expedition weren't found until months later, as was a journal detailing their
+   journey.  This revealed what had happened to the expedition in the end;
+   they were caught in a blizzard, ran out of supplies, and eventually froze to
+   death. 
+
+Similarities between them and McAllister are:  
+    Failure to reach an important milestone first
+    Leaving a journal of those last, horrible days.
+    Dying due to inclement weather and inadequate supplies
+    Bodies being found much later, frozen.
+
+
+>> What IS Matterhorn?
+
+Haynes Lee explains: Matterhorn is a treacherous peak in Switzerland. There is
+   a novel about a boy trying to climb it whose father froze to death in a cave
+   on the mountain.
+
+
+>> Guest Stars
+
+Dale G. Abersold: Why were Steven Weber (of "Wings" fame) and Brendan Fraser
+   ("Encino Man," "George of the Jungle") paired together in this episode?  I
+   have no idea.  As far as I can tell, they had never previously worked
+   together... the closest thing they have in common is that they both played
+   gay men in movies based on successful Broadway comedies (Fraser in "Twilight
+   of the Golds," Weber in "Jeffrey.")
+
+
+>> Whose episode is it, anyway?
+
+Dale G. Abersold: The "Coming Attractions" for next week seem to present the
+   heretofore unknown "wacky subplot" to "Lost Our Lisa."  I guess it's easier
+   to sell Bart's antics than Lisa's travails and tribulations.  Whatever.
+
+
+>> "Into Thin Air" Everest comparisons and more
+
+Neroli: The sherpas dragging Homer up the mountain, then him firing them,
+   nearly freezing to death at the top, sliding down the mountain, etc.:
+   reminiscent of the Mount Everest disaster of May 1996.  see Jon Krakauer's
+   book "Into Thin Air".  He tells of Sherpas dragging a woman up the mountain
+   who was a socialite/correspondent for NBC and they needed her to be alive
+   and give a good review.  One of the leaders of the groups sent his Sherpas
+   back because he wanted to go to the top himself.  The higher you get on a
+   mountain (i.e. 20,000 feet and higher), the more oxygen is cut off from
+   your brain and your judgement becomes impaired as you suffocate.  One guy
+   lost all judgement and sat down on the mountain and slid down to his death.
+   (Much like Homer did, except he was a cartoon and he lived).
+
+
+>> Energy/protein/meal replacement bars
+
+Neroli: The Powersauce bars remind me a lot of the junk they sell in GNC
+   that's supposed to be so good for you...and it tastes like overpriced
+   paste.  I wouldn't be surprised if MetRx had Chinese newspapers in it.
+   [I quite like MetRx bars to be honest... but the prices are extortionate!
+   --hmw]
+
+
+>> Other
+
+- Sherpas are a tribe from Nepal famous for being part of mountain climbing
+  expeditions in the Himalayas, especially the early attmepts to climb Mt.
+  Everest. {tr}
+
+- Deng Xiaoping (Paramount leader of China) died last year, making it perfect
+  timing for a new episode ref to something timely that happened a while back.
+  {ag}
+
+- Haynes Lee's alterna-title for this episode is "Pork Chop Hill".
+
+- Jordan Eisenberg's alterna-title is "Rocky and Homerwinkle".
+
+- My alterna-title is "Homer Climbs a Huge Mountain".
+
+- MPAA rating: PG-L {ddg}
+
+- Overseas Animation: Akom; N.J. Kim {ddg}
+
+- Of course, the pennies collected for UNICEF are not themselves sent to the
+  areas where their value is needed. {th}
+
+- Does butter really have any more calories or fat than the cream from which
+  it is made and which a lot of people put in coffee? {th}
+
+
+>> Meta references
+
+- Maggie, according to Homer, "doesn't seem to be growing at all."  He could
+  make that same observation about everyone in town. {bjr}
+
+
+>> Where is Springfield?
+
+- Hmm.. never noticed those mountains before.  Maybe Springfield was moved
+  nearer to them after last week's episdode. {tr}
+
+- This episode gave the final, obvious clue for the location of Springfield.
+  Springfield is located next the the mountain in the United States that is at
+  least four miles (21,120 feet) high.  How many mountains in the U.S. are that
+  high?  None.  Mt. McKinley is 800 feet short of that figure.  Guess
+  Springfield is fictional after all.  D'oh! {dga}
+
+
+>> Musical references
+
+- I believe another reference is when he said something like "Nobody could
+  believe I could climb the unclimbable mountain."  There is a song in Man of
+  LaMancha --"To Dream the Impossible Dream," with lyrics like "To right the
+  unthinkable wrong" and "To fight the impossible foe." {mjs}
+
+
+>> Thoughts
+
+N.R.M.D., "From this episode, at least one thing is obvious:  The Simpsons
+   peaked long ago.  Last week's "milestone" was pretty weak at best, and this
+   week's follow-up was of the same caliber.  There was a tremendous amount of
+   material that was just disgusting (Homer's stomach trick at the beginning,
+   for example), and Renier Wolfcastle's terrible performance went beyond the
+   problem with his voice.  All in all, it was another in a series of poor
+   Homer performances which started this season in "Miracle on Evergreen
+   Terrace", and have gone unchecked.  The only truly good episode from that
+   period has been "Girly Edition", where the Helper Monkey helped Homer be
+   humorous once again.  The writers should realize that they can't write for
+   him anymore, and focus on other characters.  I don't think I'm the only
+   one who longs for "Homer the Vigilante", and prays that there'll never be
+   another "Joy of Sect".  And that's my two cents.
+
+==============================================================================
+> Quotes and scene summary (transcribed entirely by David McCormick - thanks!)
+==============================================================================
+% McBain, flying a UNICEF plane, is under attack by five "Comi-Nazi" fighter
+% jets. One plane fires a missile at McBain's plane, and the back end 
+% explodes.
+
+They won't stop me from delivering these UNICEF pennies! (he lifts up a 
+pallet and throws it out the plane) Go, pennies! Help the puny children who 
+need you!
+-- McBain, pilot extraordinaire, "King of the Hill"
+
+% While he is throwing the pennies, he rips his shirt, and we see his
+% six-pack. Bart is lying on the rug watching this on the TV, with Homer 
+% sitting on the couch.
+
+ Bart: Wow! McBain is really buffed up! You could grate cheese on those abs!
+Homer: Yeah, but can he do this?
+       [Homer takes a drink from a beer can on his stomach, then crushes the 
+       can between the folds of fat.]
+ Bart: [shudders]
+-- The abilities of Homer's stomach... "King of the Hill"
+
+% Back to the TV. McBain jumps out of the plane, still on fire, towards the
+% Comi-Nazis' planes. He lands on one and breaks its window. The pilot 
+% surrenders, but McBain breaks his neck anyway.
+
+Marge: (walking in) That's what I call break-neck speed! (laughs)
+ Bart: Mom, a man just died.
+Marge: Hmmmm... anyway, it's time for the church picnic.
+Homer: What? They had a picnic last week.
+Marge: No, they didn't! You just brought a bucket of chicken to church!
+Homer: If God didn't want us to eat in church, he'd have made gluttony a 
+       sin.
+-- Homer, professor of theology, "King of the Hill"
+
+% Cut to Jebediah Springfield Park. OFF drives in for the church picnic, but
+% it's also the Annual Policeman's Picnic and the Annual Mafia Picnic. The
+% police and the mob are seated at facing picnic tables, and when Legs 
+% shoots the police's mustard, it turns out they shot their own mustard; 
+% Chief Wiggum had borrowed it from the Mafia's table. Legs exclaims, "Aw, 
+% nuts!"
+%
+% Homer continues driving, and parks on the baseball field, to the distaste 
+% of the players on the field. Homer ignores them and goes to the nearby 
+% picnic table.
+
+Lovejoy: Nice to see you, Homer.
+  Homer: [shoving Rev. Lovejoy out of the way] Yeah, out of the way, whoever 
+         You are, you're blocking the food.
+-- Hungry, hungry Homer, "King of the Hill"
+
+% Meanwhile, Ralph and another black boy are playing tag. They run past Mr.
+% Burns' car, who is inside using a three-faced mirror to tan his face. Mr.
+% Burns inquires about his kite; Smithers pretends it is "soaring 
+% majestically" but in reality it is lying in a heap on the ground. Then 
+% Ralph runs up the back of the car and taps Mr. Burns through the sunroof.
+
+Ralph: You're it!
+Burns: We'll see about that. After him, Smithers!
+-- Playing tag at the Church Picnic, "King of the Hill"
+
+% Smithers steps on the gas, and Ralph runs like hell shouting "You're not 
+% it!"
+%
+% Then we see most of the children of Springfield, including Milhouse, Jimbo 
+% and Nelson, lined up in a semicircle with Bart and Rod in the middle. The 
+% game is "capture the flag", and Rod chooses Todd. Bart takes Nelson, 
+% despite Milhouse's protests. Then Rod picks his dad. Ned deliberates this:
+
+    Ned: Sports on a Sunday? I'd better ask Reverend Love-
+Lovejoy: Oh, just play the damn game, Ned!
+-- Another biblical dilemma resolved, "King of the Hill"
+
+% Bart argues that if Rod gets an adult, so does he, and promptly picks 
+% Homer, who is sitting on the ground next to a portable toilet. Bart tries 
+% to get him to play, but he says "Daddy's down for the day", but when Bart 
+% says Flanders is playing, Homer promptly hauls himself up. In the process, 
+% he knocks over the toilet, revealing Comic Book Guy sitting inside reading 
+% a "Zebra Girl" comic.
+
+Oh, it appears I will have to find a new fortress of solitude.
+-- Comic Book Guy's dilemma, "King of the Hill"
+
+% Five of the kids are guarding the Simpson flag. Homer suggests surrender, 
+% but Bart has a plan requiring Homer's underpants. He uses them as a 
+% pretend flag, and runs, shouting "I got it! I got the flag!" The kids run 
+% after Bart, while Homer steals the real flag. The kids pin Bart down, but 
+% they realise it's not the real thing. Homer runs for the finishing line, 
+% but the kids chase him and gain on him. He collapses just inches from the 
+% line.
+
+I don't think he can get up. Let's egg him!
+-- Nelson, sympathetic as ever, "King of the Hill"
+
+% Homer turns over and sees Bart ashamed of him. That night in bed, while 
+% Marge is reading, Homer vibrates his fat and sighs.
+
+Homer: Oh Marge, how could you let me let myself go like this?
+Marge: Me? I'm not the one who puts butter in your coffee.
+Homer: Well I've humiliated my son for the last time. I'm going to get into 
+       shape.
+Marge: Whatever you say, sweetie.
+Homer: No, I mean it, I'm really serious this time.
+Marge: OK, honey, OK. I'll start taking in all your slacks! [laughs]
+-- Homer decides to get into shape, "King of the Hill"
+
+% Later that night, Homer is still awake. He has to push down on his stomach 
+% to be able to see that it's 1:00. He gets up quietly, and puts on his 
+% running gear on the step at the front door, while accidentally letting the 
+% cat in. He starts running, but collapses at the Flanders' mailbox. Santa's 
+% Little Helper drags him in and onto a chair. He looks at a picture of 
+% Bart.
+
+Look son, Daddy got in shape! [he knocks over the picture] I've got to keep 
+trying. Or I could just move that picture... No! The picture looked good
+where it was. Boy! Drag me back outside.
+-- Homer talking to a photograph, "King of the Hill"
+
+% SLH does so and they both go running. Unfortunately, a paper boy starts 
+% cycling alongside them, and each newspaper he throws hits Homer on the 
+% head. Then a "Springfield News" van pulls alongside, and a man starts 
+% throwing bundles of papers onto the ground. Can you guess where they hit?
+% You got it - Homer's head.
+%
+% Homer then runs into the Kwik-E-Mart. Apu is standing at his post, but he
+% is snoring. Homer coughs suggestively.
+
+  Apu: So what will it be Mr. Homer? Your usual bucket of ice cream covered
+       with miniature pies?
+Homer: Don't you have anything healthy here?
+  Apu: Oh, well, we do have some low-salt candy bars and some reduced fat 
+       soda, and our beef jerky is now nearly rectum-free!
+Homer: Hey, these Powersauce bars look pretty healthy.
+  Apu; Oh yes, that is a new item. No bar contains more apple sauce.
+Homer: [reading] "A bushel of apples packed in every bar, plus a secret 
+       ingredient that unleashes the awesome power of apples." Wow!
+-- Homer buying... gasp! Healthy food? - "King of the Hill"
+
+% Homer eats one of these bars as he is jogging. He sees an "All-Night Gym". 
+% He wonders what a "gyme" is, so he goes inside.
+
+Oh, right, a "gyme".
+-- Homer at the gym, "King of the Hill"
+
+% Only one other person is there, lifting dumbbells. Homer starts using a 
+% weights machine, but he uses it the wrong way. He lies in such a way that 
+% every time he drops the weight it hits him on the head.
+
+             Homer: Phew, my head's gonna be sore in the morning.
+Rainier Wolfcastle: Excuse me, you're doing this station all backwards. Let 
+                    me show you how to do it like a man.
+             Homer: Rainier Wolfcastle! Oh, I love our movies and your 
+                    Powersauce bars and your taught...
+Rainier Wolfcastle: Hey, hey, that's enough. Now step over to the 
+                    abdominator and I will shout slogans at you.
+-- Homer meets Rainier Wolfcastle at the gym, "King of the Hill"
+
+% He does so. Two months later, Homer is using the dumbbells and is in much 
+% better shape; his arms are muscular, not flabby. He thanks "Wolfy" for 
+% helping him. Back at home, he looks at himself in the mirror. He flexes 
+% his muscles, ripping his shirt.
+
+ Lisa: Dad! What have you done to your stomach?
+ Bart: And your chest?
+Marge: And your shirt?
+Homer: I have been working out secretly at night. And look at me now!
+Marge: Oh, my goodness gracious!
+Homer: Go on, try to find some flab.
+-- Homer tells the family about the "gyme", "King of the Hill"
+
+% Unfortunately, they all manage to find some. Homer resigns himself and 
+% asks "just feel my bicep". Bart goes so and is lifted off the ground while 
+% Marge and Lisa look on in awe. Bart gets scared when Homer lifts him too 
+% close to the fan. Later, at the kitchen table, Homer tries to dissuade 
+% Marge and the kids from eating "that filth", i.e. Marge's casserole.
+
+I only eat food in bar form. When you concentrate food, you unleash its
+awesome power, I'm told. That's why I'm compressing 5 pounds of spaghetti 
+into one handy mouth-sized bar.
+ [He eats the bar and swallows. He then dials the phone.]
+Hospital, please.
+-- Homer eating a spaghetti-bar, "King of the Hill"
+
+% Back at the gym, Homer is lifting weights with his feet.
+
+Rainier: Homer, can you please remember to wipe your sweat off the machine? 
+         I got a terrible rash yesterday.
+   Bart: Wow, you know Rainier Wolfcastle?
+  Homer: Yeah, he helped me blast through the burn and ride the zone.
+-- Bart meets Rainier Wolfcastle, "King of the Hill"
+
+% Two Powersauce representatives, Brad and Neil, approach Rainier Wolfcastle 
+% and ask him to climb the Murderhorn, the highest mountain in Springfield, 
+% as a promotion for Powersauce. Rainier says they're crazy. "Not for all 
+% the apple sauce in Glückenschabbel".
+
+% Bart says that Homer could do it. "He eats $50 worth of Powersauce bars a 
+% day". Brad and Neil agree. They congratulate Homer: "You're going to be 
+% the first man to climb the Murderhorn". He looks out the window and sees 
+% one mountain, but it's actually a much higher one to the right. It 
+% stretches up to the clouds. Bart gives him the thumbs up.
+%
+% Back at home, he packs his supplies for the climb. Grampa runs in.
+
+Grampa: Son, don't go up that mountain! You'll die up there like I did!
+ Homer: You? Did?
+Grampa: Sure.
+-- Grampa, master of the afterlife, "King of the Hill"
+
+% Grampa describes how McAllister and he were sponsored to climb the 
+% mountain in the winter of '28. Near the top, McAllister stole the supplies 
+% and headed for the top alone, sending Grampa falling 8,000 feet onto a 
+% pile of jagged rocks.
+
+Grampa: Of course, folks were tougher in those days. I was jitterbugging 
+        that very night. But that skunk McAllister was never seen again.
+ Homer: If you're trying to scare me, it won't work. I'm 100% focused on my 
+        goal. (picks up his cap) Hey, my hat has ear-flaps.
+-- Homer, focused on his goal... "King of the Hill"
+
+% Brad addresses the press at the bottom of the Murderhorn. Homer says he 
+% owes it all to Powersauce. Marge says, "This is all crazy", but Neil 
+% assures her that they are sending two Sherpas along as guides.
+
+Sherpa 1: (subtitled) I foresaw your death last night.
+Sherpa 2: (subtitled) Stop saying that.
+-- Homer's 'guides', "King of the Hill"
+
+Homer: Well, goodbye everyone. Don't touch my stuff.
+ Bart: Dad, wait. You're not risking your life just to impress me, are you?
+Homer: Well, yes.
+ Bart: Woah, cool. Now get going. Chop, chop!
+-- Homer says goodbye to the family, "King of the Hill"
+
+% Homer starts walking. Meanwhile, Brad talks to the Sherpas.
+
+Remember our agreement - he can't fail.
+-- Brad to the Sherpas, "King of the Hill"
+
+% Homer is on his thirteenth oxygen bottle, and he's just a few feet up. But 
+% he manages to get up quite high before nightfall. Bart, sitting on the 
+% house roof with a telescope tells him that he only has four vertical miles 
+% to go. Homer sleeps, but he is being dragged up the mountain by the 
+% Sherpas. He wakes up, amazed that he's climbed so far. He kicks the 
+% Sherpas.
+
+   Homer: Come on, you lazy Sherpas, wake up! We've got a mountain to climb.
+Sherpa 1: (subtitled) He shouldn't kick us.
+Sherpa 2: (subtitled) His toes will fall off soon.
+-- Homer's wake up call, "King of the Hill"
+
+% A Powersauce newsbreak on the television tells the family that Homer's 
+% passed the halfway point. The next night, while the Sherpas are dragging 
+% him up, Homer's sleeping bag is dragged off by accident. Then his pants.
+% Then his undershorts. When he feels his skin against the snow, he wakes 
+% up. He is indignant with the Sherpas - he thinks no one believes in him.
+
+   Homer: I'm going to climb this entire mountain on my own!
+Sherpa 1: Then technically, shouldn't you go back down and start all over?
+   Homer: Shut up! You are so fired.
+-- Homer fires the Sherpas, "King of the Hill"
+
+% Homer radios into base telling Brad and Neil that he's going solo. Brad 
+% says he's crazy, but Homer's got his Powersauce bars.
+
+ Neil: Wake up, Homer! Those bars are just junk! They're made of apple cores 
+       and Chinese newspapers!
+Homer: (reading a Powersauce bar) Hey, Deng Xiaoping died!
+-- The truth about Powersauce bars, "King of the Hill"
+
+% Nevertheless, he defies them, saying he'll be at the top by noon. In a
+% Powersauce newsbreak, Brad claims Homer has switched to the "Vita-Peach 
+% Health Lock", and may not have the "mega-nutrients" he needs to reach the 
+% top.
+
+ Bart: Oh, Dad's gonna die and it's all my fault!
+Marge: Don't worry, kids, your father will be just fine as long as he's with 
+       those Sherpas.
+
+% But Lisa points out the two Sherpas across the road from their house 
+% hitching a ride to Nepal. Meanwhile, Homer becomes light-headed, and 
+% hallucinates, when he's really sliding down the mountain. He regains his 
+% composure and climbs: he only has a few feet to go, and he makes it. "I 
+% did it! I made it all the way to th... aw, crap!" It's not the top at all 
+% - there's another massive section yet to climb. He gets cold, so he goes 
+% inside a nearby cave. He finds the body of C.W. McAllister, out of whom 
+% Grampa had taken a bite.
+%
+% Homer realises that just as his dad is a disgrace to him, he's a disgrace 
+% to Bart. He plants the "Simpson" flag from the Capture the Flag game at 
+% the level he has reached. He drives it into the mountain with a hammer, 
+% but in doing so, he accidentally induces a massive rockfall, where all of 
+% the higher section of the mountain breaks off and falls. He realises he's 
+% on the new top.
+
+I actually did it - I climbed the unclimbable mountain! (shouting) Bow down
+before me everyone, for I am your king!
+-- Homer at the peak of the Murderhorn, "King of the Hill"
+
+% He then sleds down the mountain on McAllister's body to a waiting crowd. 
+% Dr. Hibbert examines the body.
+
+Hibbert: It's too late... he's dead. Looks like someone tried to take a bite 
+         out of him...
+ Grampa: What are you looking at me for? You're all crazy, crazy as...
+         (his teeth fall out and attach themselves to the bite marks)
+         OK. Here's what I think happened. (runs away)
+-- The end of C.W. McAllister finally revealed, "King of the Hill"
+
+% Bart asks if Homer made it. He looks through a telescope, and sees a 
+% flagpole, but no flag. But despite that, Bart thinks he's the coolest dad 
+% ever. Marge looks through the telescope and asks Homer, "Is that your 
+% wallet?" D'oh!
+
+==============================================================================
+> Contributors
+==============================================================================
+{ad}  Anthony Dean
+{ag}  Andrew Gill
+{bjr} Benjamin Robinson
+{ddg} Don Del Grande
+{dga} Dale G. Abersold
+{hl}  Haynes Lee
+{je}  Jordan Eisenberg
+{ji4} John Isles IV
+{mjs} Mathew J. Sandler
+{nmd} Nathan Mulac DeHoff
+{th}  Tony Hill
+{tr}  Tom Rinschler
+
+==============================================================================
+> Legal mumbo jumbo
+==============================================================================
+[5F16] capsule copyright 2003, Hari Michael Wierny. (The quotes remain the
+property of Fox, and the reproduced articles remain the property of their
+respective authors. I'm just taking credit for the compilation.) Not to be
+redistributed in public forum without permission.
+
+Many thanks to David McCormick for his great Q&SS!
+
+Thanks to Benjamin Robinson and Frederic Briere for providing me with the
+a.t.s. archives necessary for completing the capsule to it's fullest.

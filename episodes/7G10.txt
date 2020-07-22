@@ -1,0 +1,544 @@
+<PRE>
+Homer's Night Out                                          Written by Jon Vitti
+                                                         Directed by Rich Moore
+===============================================================================
+7G10 Revision: B Date: 2000/5/30 By: Andrew A. Gill Original: Raymond Chen
+================================================================================
+> TV Guide Synopsis
+================================================================================
+Bart receives his mail-order CIA spy camera just in time to capture
+Homer dancing---naked to his (ample) waist and stuffing bills into
+a dancer's cleavage at a bachelor party.
+
+===============================================================================
+> Title sequence
+===============================================================================
+Blackboard :- `I will not call my teacher ``Hot Cakes''.'
+              `I will not call my teac|' at cutoff.
+
+Driveway   :- Bart makes a thump as he bounces off the roof of the car.
+              Homer yells ``Aaugh!'' when the car closes in on him.
+
+Couch:     :- The couch collapses, leaving the family and cushions on the
+              floor.
+
+===============================================================================
+> Didja notice ...
+===============================================================================
+    ... Marge wears her bunny slippers while brushing her teeth?
+    ... the rest rooms at the Rusty Barnacle are labelled Buoys
+        and Gulls? @{rc}
+    ... Homer uses a Susan B. Anthony dollar on his Scratch-and-Win ticket?
+
+===============================================================================
+> Freeze Frame Fun
+===============================================================================
+>> The comic book advertisements
+
+    * Before/after picture of a scrawny pipsqueak and a muscular hunk.
+      ``Scrawny to Brawny in just ten days!  Just $2.99!''
+      Says Bart, ``Yeah, baloney.''
+    * A submarine floats in the water.
+      ``Real Nuclear Submarine ... only $4.99!''
+    * A boy sits watching TV wearing wacko glasses.  He sees through
+      a woman's clothes to her underwear.  ``X-Ray TV Glasses ...
+      only $1.99.''  Says Bart, ``Sheesh.  Yeah, right.''
+    * A boy holds a coin in a man's face.  The man's eyes are wacko,
+      and he hands over two dollars.  ``Hyp-No Coin ... only 99c.''
+      Says Bart, ``Gimme a break.''
+    * ``Genuine Spy Camera --- Just like the CIA uses!!!  $1.99.''
+      Says Bart, ``Wow, cool, man!
+
+>> Bart's photos
+
+
+    * His eyeball.  ``I wonder if it really works...''
+    * Homer doing touch-toes.
+    * Marge shaving her armpits.
+    * A dead squirrel.
+    * His butt, maybe.
+    * Homer's night out.
+
+>> Bart's rating of the service at the Rusty Barnacle,,
+
+         the
+          RUSTY          good
+              BARNACLE    v  fair
+                              v  poor
+                                  v
+           Waiter ...             /
+           Food  ....             /
+           Atmosphere ..          /
+           Cleanliness..          /
+           Ambiance  ...          /
+
+>> Night spots
+
+    * ``Florence of Arabia.  Exotic dancers and Middle-Eastern cuisine.''
+      Bart admires the dancers before he gets yanked away.
+    * ``The Girlesque.  Wet T-Shirt Nite Friday, Mature Audiences Only.''
+      Signs inside, ``$4.00 cover charge,'' ``You must be &lt;over&gt; 21.''
+      A man throws a bucket of water.
+    * Foxy Boxing.  Bart jumps to get a view over the men's paunches which
+      are blocking his view of the boxing ring.
+    * ``Mud City.  Close Encounters of the Mud Kind.''
+      ``Bart!  I said look at the floor!''
+    * ``The Sapphire Lounge''.  Right next to the Off-Ramp Inn.
+
+===============================================================================
+> Animation goofs
+===============================================================================
+Carl's voice is different.  He sounds like a white guy.
+
+The sign on the copier says ``Copies 5c'' but the coin slot says ``10c''.
+And Milhouse put a penny in!
+
+===============================================================================
+> Comments and other observations
+===============================================================================
+
+>>> Alexandre Charest notes that Smithers has a female at the Sapphire Lounge.
+
+>> References to previous episodes
+
+    * [7[FG]03] Bart's smashed (and taped-together) piggy bank.
+
+===============================================================================
+> Quotes and scene summary
+===============================================================================
+% Morning bathroom routine.  As Marge brushes her teeth, she asks about
+% the office party Homer attended last night.
+
+   Marge: So how was the office birthday party?
+   Homer: Oh, it was de-lightful!  The frosting on the cake was this thick!
+          [about an inch]  And Eugene Fisk (my poor sucker of an assistant)
+          didn't know the fruit punch was spiked, and he really made an ass of
+          himself putting the moves on a new girl in valve maintenance.
+          Ha ha ha..
+   Marge: Does this girl like him?
+   Homer: Pffft.  I have to warn you Marge, I think the poor young thing has the
+          hots for Yours Truly!
+   Marge: Homer!
+   Homer: Just keepin' you on your toes, babe.
+   -- ``Homer's Night Out''
+
+% Homer steps onto the bathroom scales...
+
+   AAGGGHHH!  TWO HUNDRED AND THIRTY NINE POUNDS!!!   Ohh, I'm a blimp.
+   Why are the good things so tasty?
+   -- Homer weighs himself, ``Homer's Night Out''
+
+% Homer vows to do exercises every morning.  Marge gives him a hug.
+% ``You're not a blimp Homer, you're myyy big cuddwy teddy-bear!''
+%
+% Bart sifts through the advertisements in his comic book, is impressed
+% by a spy camera advert (``Just like the CIA uses!''), smashes his
+% piggy-bank, and mails the coupon.
+%
+% Six months later, Homer steps up once again onto the bathroom scale...
+
+   Oh no!  Two hundred and thirty nine pounds!  I'm a whale!
+   Why was I cursed with this weakness for snack treats?
+   -- Homer weighs himself, ``Homer's Night Out''
+
+   Homer: Well, from now on, exercise every morning Homer!  [does
+          stretching exercises in front of the bathroom mirror]
+   Marge: Ooh, don't strain yourself, dear.
+   Homer: Good idea Marge.  [stops]
+   -- ``Homer's Night Out''
+
+% Homer mentions that Friday night he'll be attending ``a little get-together
+% with the boys at work.  Eugene Fisk is marrying some girl in valve
+% maintenance.''  Marge suspects that this is a stag party, but Homer insists
+% that it will be a ``tea-and-crumpets kind of thing.''
+
+   Marge: Mmmhmmm.  Eugene Fisk, isn't he your assistant?
+   Homer: No!  My... supervisor.
+   Marge: Didn't he used to be your assistant?
+   Homer: Hey, what is this!  The Spanish Exposition?
+   Marge: Sorry, Homer...
+   -- ``Homer's Night Out''
+
+% Bart and Lisa sit on the couch.  Lisa, as usual, has her face in a
+% book, Bart is watching TV.
+
+   Bart: [doorbell rings] Oh-ho!  It's the fe-mail-man!
+   Lisa: Fe-mail-carrier, Bart.
+   -- ``Homer's Night Out''
+
+% Bart runs to the front door.
+
+    :  Bart                           | The Fe-mail-man
+    : Lady, where's my spy camera.    |
+    : Where's my spy camera?          |Where's my spy camera.
+    : Where's my spy camera, lady?    |Every day for the last six months,
+    : Where is my spy camera?         |``Where is my spy camera?''
+    : Where's my spy camera?!         |``Where's my spy camera?!''
+    : &lt;Where's my spy camera!&gt;        |``&lt;Where's my spy camera!&gt;''
+    :                                 |Here's your stupid spy camera!!
+    :                                 |[thrusts a parcel at Bart]
+    : Whoa, thanks, man!
+   -- ``Homer's Night Out''
+
+% Bart accepts the package the slams the door in the fe-mail-carrier's face.
+% He unwraps the camera and wonders if it really works, 'cause he's got a lot
+% of spying to do...
+%
+% Bart finds Homer doing touching-toes exercises in the bathroom, and from
+% Homer's ascending and descending POV, he watches Bart take a photo (mostly of
+% his stomach).
+
+   Bart:  [snaps Homer's picture]
+   Homer: Bart!  Whaddaya doing!
+   Bart:  Sorry Dad, the answer to that is top secret.
+   -- ``Homer's Night Out''
+
+% Bart photographs Marge shaving her armpits.  So tells him to take wildlife
+% pictures.  So Bart takes a picture of a squirrel pancake, complete with
+% fresh tire tracks.  Lisa finds Bart in his bedroom with his pants down...
+
+   Lisa: Ewwww, gross.  Momm!  Bart was taking a picture of his butt!
+   Bart: [hastily pulls up his pants]
+         Oh sure, like I'm really gonna take a picture of my butt.
+   -- ``Homer's Night Out''
+
+% Marge tells the kids to put on some nice clothes.  ``Since it's just
+% the four of us tonight, we're having dinner at the Rusty Barnacle.''
+% Lisa looks forward to fried shrimp.  Bart asks, ``Only four of us?
+% Who escaped?''  Marge explains that Homer is having a boys' night out.
+%
+% At the stag party, Homer and a dozen or so other men sit around a table in a
+% smoke-filled room, beer in hand, as the father of the groom-to-be tells a
+% touching story of his son.  Homer grouses, ``Where am I?  The planet
+% corn-ball?''  Carl tells him things will pick up once the entertainment
+% arrives.
+%
+% Marge and the kids are seated in the main dining area of the restaurant.
+% Lisa wears a origami hat.  The waiter (dressed as a sea-pirate) asks for
+% their orders.
+
+   Waiter: Ahoy!  I spy the children's menu!
+   Bart:   Ahoy!  This place bites!
+   Marge:  Bart!
+   -- A visit to the Rusty Barnacle, ``Homer's Night Out''
+
+   Waiter: So what's it going to be, me little buck-o?
+   Bart:   A-huh-ha-hmm, let's see... [examines the menu]  This evening I shall
+           go for the...  Squid platter...
+   Lisa:   [disgusted]  Ewwwww!
+   Bart:   ... with extra tentacles, please.
+   -- A visit to the Rusty Barnacle, ``Homer's Night Out''
+
+% Marge asks the waiter do to something about the raucous party next door.
+% While Bart fills out a survey form, the waiter tells the men in ``Davy
+% Jones' Locker'' to keep it down.  Homer tells him to shut up.
+% Everyone apart from Fisks Sr. and Jr. are enjoying themselves, mostly due to
+% the effects of alcohol.
+%
+% Bart amuses himself by anagramming ``Cod Platter'' into ``Cold Pet Rat''
+% on the daily menu.  The waiter returns with their meals.
+
+   Waiter: [fried shrimp for Lisa]  Here you go...                     \\
+           [pork chop \'a la // Hawaiian]  There you are...            \\
+           [a smaller serving of fried shrimp]  For the baby...        \\
+           [to Bart]  And one squid platter, &lt;extra&gt; tentacles.
+   Bart:   Heh heh... Urrggghh... [turns green and drops below the table]
+   Marge:  Bart, quit fooling around and eat your dinner!
+   Lisa:   [taunting]  Yeah, eat it Bart.
+   Bart:   [from beneath the table] May I please be excused for a minute?
+   Marge:  Well okay, but don't dawdle.  Your food will get cold.
+   Bart:   Urgh.  [leaves the table]
+   -- A visit to the Rusty Barnacle, ``Homer's Night Out''
+
+% Maggie removes her pacifier and replace it with piece of shrimp.  She
+% sucks on it.
+%
+% At the stag party, the entertainment, a belly-dancer, enters the room to
+% give Eugene one last taste of bachelor freedom.  His co-workers clear the
+% floor and present to him Princess Kashmir, Queen of the Mysterious East.
+% All the men go wild, apart from Eugene and his father, and Homer, who is
+% preoccupied with eating a hoagie.  Eugene and his dad are clearly not
+% enjoying the ordeal.
+%
+% Kashmir has no success enticing Eugene, so Homer is invited to dance with
+% her and is pushed up onto the table. (``Go for it Homer!'')
+%
+% Bart emerges from the Buoys room, hears the hubbub, and pokes his head
+% in the door.  He spots Homer tucking money into Princess Kashmir's
+% G-string.  He saves the moment forever with his miniature spy camera.
+% Homer proudly announces, ``This is the most fun I've ever had in my life!''
+%
+% [End of Act One.  Time: 6:31]
+%
+% Martin inaugurates Bart into the Future Photographers of America, held in a
+% red-lit darkroom.  Bart dispenses with the preliminaries and gets to work.
+
+   Martin: My goodness!  Quite exciting!
+   Girl:   Extremely sensual.
+   Boy:    The subtle greytones recall the work of Helmut Newton...
+   Martin: Who's the sexy lady, Bart?
+   Bart:   [hanging up the photo to dry]  Beats me, but the guy dancing with her
+           s'my Pop.
+   All:    Wow!
+   Boy:    [making a closer inspection of the photo]  He brings to mind the
+           later work of Diane Arbus.
+   -- ``Homer's Night Out''
+
+% Bart denies requests for a copy, and the kids leave annoyed and
+% disappointed.
+
+   Milhouse: Come on Bart.  You're gonna make me a print aren't you?
+   Bart:     Will you swear not to let another living soul get a copy of this
+             photo?
+   Milhouse: Ok.
+   Bart:     Cross your heart and hope to die?
+   Milhouse: Yup.
+   Bart:     Stick a needle in your eye?
+   Milhouse: Yup.
+   Bart:     Jam a dagger in your thigh?
+   Milhouse: Yup.
+   Bart:     Eat a horse-manure pie?
+   Milhouse: [gulps]  Yup.
+   Bart:     Well, okay.
+   -- ``Homer's Night Out''
+
+% Milhouse flaunts his copy of the photo to a kid in the library, and is
+% persuaded without too much effort to make a trip to the photocopier. Lewis
+% asks Bart why Milhouse gets a copy of his girlie picture but he doesn't.
+% Before too long the photo has made its way throughout the entire school.
+%
+% The father of one of the kids confiscates the photo, and faxes it to one of
+% his work-mates.  Rev. Lovejoy is shown the picture of Homer and the exotic
+% dancer which was confiscated one of the boys in the choir. (``This one has
+% strayed from my own flock.'')  At SNPP...
+
+   Burns:    His name?
+   Smithers: [holding a copy of the incriminating photo]
+             Homer Simpson sir, a low-level employee in sector 7G.
+   Burns:    Simpson, eh?
+   -- ``Homer's Night Out''
+
+% Burns asks to see ``our self-styled Valentino'' tomorrow morning.
+%
+% At an aerobics studio, a group of women chuckle at the now-popular photo,
+% with the legend ``Watch Out!!!  Bathing suit season is coming,'' and an
+% arrow points to Homer's gut.  Marge rips the photo from the board.
+%
+% Homer drops by the Kwik-E-Mart, to buy a donut and a Scratch-and-Winticket.
+% A copy of Bart's photo is pinned to the wall behind Apu.
+
+   Apu:   You look familiar, sir.  Are you on the television or something?
+   Homer: Sorry buddy, you've got me confused with Fred Flintstone.
+   -- ``Homer's Night Out''
+
+% Homer scratches the ticket, but his dreams of being a millionaire are foiled
+% by that purple fruit thing.  A man greets Homer, but Homer doesn't get it.
+% A boy sings ``Do-do Do Do Do, Do-dee Do-dee Do-dee Do'' to the tune of
+% the `Arabian Snake Charmer', and Homer answers, ``Well a Do-dee Do Do to
+% you too, pintsized.''  Another fellow greets Homer as he leaves the
+% convenience store.  (``Wheew, Full moon''), and at the traffic light
+% he is recognized by some young women in a sports car (``Huhmm, still
+% got it'').  He arrives home and opens the front door...
+
+   Marge: [thrusting a copy of the photograph in his face]
+          What is the &lt;meaning&gt; of this!
+   Homer: Whyarreeuumpht...  Meaningless!  Marge...  Don't even attempt to find
+          meaning in it.  There's nothing between me and Princess Kashmir!
+   Marge: Princess &lt;who&gt;?
+   Bart:  [wanders by] Hey, my photo!
+   Homer+Marge:  &lt;Your photo!&gt;
+   Bart:  Uh-oh.
+   Homer: Why you little...  [steps towards Bart]
+   Marge: [grabs Homer's neck] Why you big...
+          Bart!  Go to your room!
+   Bart:  I'm outta here...
+   -- ``Homer's Night Out''
+
+   Homer: Look, Marge... Honey... Baby... Doll...
+   Marge: [turning her back, folding her arms]  Homer, I don't even want to look
+          at you right now.
+   Homer: What are you saying, honey?  [Marge points him outside]  But where will
+          I sleep?
+   Marge: [shaking angrily] My suggestion is you sleep in the filth you created!
+   Homer: Will a motel be okay? [Marge slams the front door in his face]
+   -- Shall I take that as a yes?  ``Homer's Night Out''
+
+% Homer heads dejectedly for the car.  The door opens, and Homer is relieved
+% that Marge is taking him back.  He is greeted in the face with a half-packed
+% suitcase of clothes.  Marge hands him a box of tissues.  ``If you have any
+% soul left, you'll need these.  I know I will.''  Homer sits sadly on the
+% front lawn.
+%
+% [End of Act Two.  Time: 10:54]
+%
+% Moe's Tavern.  ``LADIES NIGHT.  Unescorted ladies drink free.''  A single,
+% very tired looking lady sits at the bar.
+
+   Moe:   Whatsamatta, Homer?  It's the hottest ladies night in months and you're
+          not even checking out the action.
+   Homer: Oh Moe, my wife gave me the ol' heave-ho because of some lousy picture.
+   Moe:   [pointing to a copy behind him]  What, this one?
+   Homer: D'oh!
+   -- ``Homer's Night Out''
+
+% When Homer says he'll spend the night in a motel, Barney insists, ``No pal
+% of mine is going to stay in some dingy flop house!''
+%
+% The two of them return to Barney's dingy flop-house.  Strewn everywhere is
+% clear evidence that Barney is still a bachelor.
+
+   If you get hungry in the middle of the night, there's a open beer in
+   the fridge.
+   -- Barney Gumbel, your gracious host, ``Homer's Night Out''
+
+% Homer goes to the window.
+
+   Homer:  Look Barney, see the row of tiny lights up there?  The middle one is
+           my house.  Someone must've left the porch light on.
+   Barney: Hey, that's rough pal. [using the phone]  Hello, Marge?  You left
+           your damned porch light on!  Homer isn't made of money you know!
+   -- ``Homer's Night Out''
+
+% Marge quickly hangs up when she hears Homer's protesting voice.
+% Barney suggests that Homer is overwrought and needs to unwind.
+
+   There's a party down the hall.  You know this apartment complex
+   really caters to up-scale singles like me.  [belch]
+   -- Barney Gumbel, your gracious host, ``Homer's Night Out''
+
+% Homer declines the offer and spends an uncomfortable night on a
+% fold-out couch, while the party down the hall rocks on.
+%
+% The next morning Marge and the kids sit at the kitchen table, silently
+% eating breakfast.  Lisa whispers to Bart, ``I wonder when Dad's coming
+% home?''  Marge stares sadly.
+%
+% At work, an exhausted Homer drinks straight from the coffeepot.  The PA
+% system orders him to Mr. Burn's office.
+
+   Burns: What in blue-blazes do you think you're doing, Simpson?
+   Homer: What do you mean, sir?
+   Burns: [showing Homer the photo]  I mean this!  [Homer gasps]  A plant
+          employee carrying on like a over-sexed orangutan in heat!  This is a
+          &lt;family&gt; nuclear power plant, Simpson.  Our research indicates that
+          over fifty percent of our power is used by &lt;women&gt;.
+   -- Read my lips:  No rude faxes! ``Homer's Night Out''
+
+% Homer promises that it will not happen again.  Burns sends Smithers out,
+% then changes his demeanor.
+
+   Burns: [sadly]  Simpson, I am by most measures a successful man.  I have
+          wealth and power beyond the dreams of you and your clock-punching ilk.
+          And yet, I've led a solitary life.  The fair sex remains a mystery to
+          me.  You seem to have a way with women, [gets up and stares out
+          his window] a certain, how should I put it... Animal magneteasmuh [sic].
+          [begging] Help me Simpson, tell me your secret.
+   Homer: Uh, Mister Burns, in spite of what everybody thinks, I'm no loverboy.
+   Burns: [pleasantly]  Simpson, I'm asking you nicely...
+   Homer: I don't really know, sir.
+   Burns: &lt;Simpson!&gt;
+   Homer: Well oh, wine 'em... Dine 'em...
+   Burns: [listens attentively]
+   Homer: Bring them flowers..  Write them love poetry... sir.
+   Burns: Of course!  It's simplicity itself!  I won't forget this Simpson.
+          [angrily]  Now return to your work!... and tell no one of what
+          transpired here.
+   -- It'll be our little secret, ``Homer's Night Out''
+
+% Homer returns home and is greeted warmly but quietly by his three children.
+% Bart wishes Homer luck with Marge.
+%
+% Homer enters the kitchen.  Marge is sitting at the table.
+
+   Homer: Hello Marge?  It's me, Homer.  Are you still mad?
+   Marge: [continues scowling]
+   Homer: You &lt;are&gt; still mad.  Don't need to say it, I'm your loving husband, I
+          can read you like a book. [goes to the fridge]  I'll just have some
+          milk. [using a glass]  Look!  I'm not drinking out of the carton!
+          [breaks down]  Come on Marge!  Please forgive me! [goes down on his
+          knees]  I'm sorry! I'm so sorry...
+   Marge: [with contempt]  Homer, you don't even know why you're apologizing.
+   Homer: Yes, I do.  Because I'm hungry, my clothes are smelly, and I'm tired.
+   -- ``Homer's Night Out''
+
+   Marge: You taught Bart a very bad lesson.  Your boy idolizes you.
+   Homer: Oh, he does not.
+   -- ``Homer's Night Out''
+
+% Marge insists that he take Bart to ``to meet this exotic belly-person.
+% I want him to see that she's a real human being with real thoughts and
+% real feelings.  I want Bart to see you apologize for the way you treated
+% her.''
+%
+% Homer drags Bart along to ``Florence of Arabia'', where the usher points
+% him to the Girlesque.  Bart catches a glimpse of one of the dancers,before
+% Homer yanks him away by the arm.  At the Girlesque, the attendant redirects
+% Homer to Foxy Boxing.  At Foxy Boxing, Bart's view of the action is
+% blocked by the paunches of Homer and the portly bouncer.  Next stop is
+% Mud City...  Homer phones Marge to tell her he's trying one last place,
+% ``The Sapphire Lounge.''  (``Bart!  I said look at the floor!'')
+%
+% Backstage at the Sapphire Lounge, they finally locate Princess Kashmir.
+
+   Homer:   Hey Princess!  It's me!  The guy from the snap shot!
+   Kashmir: [not very enthusiastically]  Oh, hi.
+   Homer:   Look, I'm here because I want to apologize for treating you like an
+            object.
+   Kashmir: Uh-huh.
+   Homer:   I also want my boy to find out that you're more than just a belly.
+            I want to meet the woman behind all the
+            spangles and glitter, and find out that she has thought and feelings
+            too.
+   Kashmir: Uh, oh, okay, but can we make it quick?
+   Bart:    Nice to meet you ma'am.  [waves]
+   Homer:   Could you tell him a little about yourself?
+   Kashmir: Well, um, my real name is Shauna Tifton, my pet peeve is rude
+            people, and my turn-ons include silk sheets and a warm fireplace.
+   -- ``Homer's Night Out''
+
+% During Shauna's brief profile, the cage she sits in slowly rises.  Homer
+% rises with it.  Homer turns to leave and falls.  He hangs on for dear life.
+%
+% As the male entertainer begins his song, Shauna tries to shoo Homer out
+% of her cage.  The performance proceeds with the curtains drawing back to
+% reveal row upon row of scantly-clad women of all nations.
+%
+% Homer finally loses his grip, falling and bouncing across the stage.
+% The singer eventually recognizes Homer and invites him to join the act.
+% Monty Burns and Smithers are in the audience (with respective dates).
+
+   Burns:    How does he do it, Smithers?
+   Smithers: He's a love machine, sir.
+   -- ``Homer's Night Out''
+
+% Homer gets into the swing of things, then sees Bart looking on in
+% admiration.  ``Uh-oh.''  He stops the music and asks to have a word.
+% A tall beehive hairdo rises.  (``Burns: ``You with the hair!
+% Down in front!'')  Marge sighs, ``Oh no, he's sunk even lower...''
+
+   I have something to say to all the sons out there.  To all the boys,
+   to all the men, to all of us.  It's about women, and how they are not
+   mere objects with curves that make us crazy.  No, they are our wives,
+   they are our daughters, our sisters, our grandmas, our aunts, our
+   nieces and nephews---well, not our nephews.
+   -- Homer, ``Homer's Night Out''
+
+% His monologue touches everyone in the audience.  The singer phones his
+% mother, and the men in the audience muse on their wives and children.
+%
+% With tears running down her face, Marge runs onstage and calls out to Homer,
+% where they hug and smooch.  Bart shooes everyone away.
+
+   All right folks, the show's over!  No more to see, folks, come on.
+   Only sick people want to see my folks kiss!
+   -- Bart, ``Homer's Night Out''
+
+% [End of Act Three.  Time: 20:30]
+==============================================================================
+Well, I guess you're looking for some kind of distribution notice down here.
+I &lt;still&gt; haven't thought of one yet, but as long as you only make
+`fairuse' of this I really don't mind you redistributing this to other
+Simpson fanatics.  Ciao, Chris J Baird, Esq.  Um, Updated 2000 Andrew A. Gill. 
+Unattributed discrepancies between this and the previous revisions are mine.
+What I wouldn't give to weigh 239...
+</PRE>

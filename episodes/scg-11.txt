@@ -1,0 +1,593 @@
+                          The Simpsons Archive's
+                      Simpsons Syndication Cuts Guide
+
+                         Season Eleven (1999-2000)
+
+             "Syndication... is there anything they can't do?"
+
+                         Version 2.25 - 07 Apr 2001
+                          Last updated 07 Jul 2008
+
+                 Maintained by Matt Garvey <garvey@snpp.com>
+                      Guide created by Frederic Briere
+               Contributions from Chad Lehman and Tim Reardon
+
+[==========================[Season Eleven Summary]==========================]
+
+Story cut episodes: AABF22, BABF13, BABF14, BABF16.
+Compressed episodes: All episodes were compressed.
+Missing lines: AABF21, BABF03, BABF08.
+Added content: BABF06.
+Changed content: BABF01, BABF09, BABF16, BABF19.
+
+Total time cut: 21:28 (21 min 28 sec)
+Story time cut: 2:27 (2 min 27 sec)
+Total time added: 0:10 (0 min 10 sec)
+Total time gained: 26:31 (26 min 31 sec)
+
+Notes: Syndication has introduced something new in Season 11... "Expansion."
+       The reverse of compression, it is apparently intended to fill-out
+       time in episodes where cuts are made. 
+            Also, new for Season 11 are the openings and closings for each
+       episode. These are listed to give a complete feel for the duration of
+       each episode. These will (eventually) be available for each season.
+            Occasionally, there are lines which overlap the end credits that
+       don't make it to the syndicated version, and they are listed as
+       zero-length <0:00> cuts.
+
+       Once again, as I am wont to say, enjoy. [-ed]
+
+ ==[ AABF23 ]========================================= Beyond Blunderdome ===
+         CUTS: 55 seconds     GAINED: 70 seconds      21:15 / 22:25
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:22 / 1:17
+ ~~~~~    ACT I    <---->   (0:04)   7:23 / 7:27
+
+       * Compression starts with Bart & Marge's "gas". Compressed gas. I get
+       * it... RD/RR
+
+ ~~~~~    ACT II   <---->   (0:04)   7:08 / 7:12
+ ~~~~~    ACT III  <---->   (0:03)   5:30 / 5:33
+ ~~~~~    ENDING   <---->   (0:04)   0:52 / 0:56
+
+
+ ==[ AABF22 ]==================================== Brother's Little Helper ===
+         CUTS: 69 seconds     GAINED: 77 seconds      21:09 / 22:26
+                    No blackboard, no solo, original couch
+
+       ! There is a strange phenomenon at work in this synd version. It
+       ! appears the syndicators used the reverse of compression, or
+       ! EXPANSION in certain places. I thought it might be a glitch with
+       ! the VCR tape dragging, but I checked the tape and there was no
+       ! problem.  Acts I & II, thus, are slightly EXPANDED in time.
+       ! After going through the entire season 11 in syndication, I've found
+       ! that episodes getting cuts (other than the opening) are the ones
+       ! which get EXPANDED. This is (apparently) to fill-out time created
+       ! by cutting parts. Now, why are they cutting episodes? I'm guessing
+       ! the new cuts are content-related--not time-related, since they've
+       ! actually ADDED time in syndication. Once again, enjoy.
+
+ ~~~~~    OPENING  <0:54>   (0:54)   0:23 / 1:17
+ ~~~~~    ACT I    <---->  (-0:01)   6:53 / 6:52
+ ~~~~~    ACT II   <---->  (-0:02)   7:38 / 7:36
+ ~~~~~    ACT III  <0:15>   (0:22)   5:23 / 5:45
+
+
+         Marge: I don't think he has diarrhea.
+         Homer: But how do we know, Marge?  How do we KNOW?
+
+<0:02> % Bart walks toward the camera; his eyes wide, his face twitching.
+         From the back, we see him walk into Fort Fragg.
+
+       ! Obvious cut, since the music from the scene cuts in late.  Why did
+       ! they cut these few frames? My feeling is it was probably a content
+       ! related cut.  The censors may have felt kids watching Bart walk
+       ! down the centerline of a street might be tempted to do the same.
+
+ ~~
+         Bart finds the keys, and giggles gleefully.
+       % As Bart walks out of the shower tent...
+       %
+<0:06> % Insecure Soldier: Do you think Alex would mind if I asked Janet out?
+       %   Normal Soldier: They're married, idiot!
+       % Insecure Soldier: Why'd you have to yell?  You ruined the whole
+       %                   shower.
+
+       * Compression starts now. Why, after 2 1/2 acts of expansion? I...
+       * don't get it.
+
+ ~~
+
+           Otto: Oh, what about Superman?
+            CBG: [disgusted] Oh, please...
+
+<0:01> % Bart drives the tank down the street and
+                                                  flattens a red car.
+       % Pan up the street to a colorful clown car at a stop sign.  The
+       % driver (Krusty) rolls down the window and looks back at the tank.
+       %
+<0:03> % Krusty: [concerned] What the... hmmm?
+       %
+       % Bart approaches in the tank. Krusty groans uneasily, then quickly
+       % exits the car.
+
+         Krusty: Come on! Get out!
+
+ ~~
+            Lou: It's a tank, Chief.
+         Wiggum: You know what? I'm getting <real> tired of your excuses.
+
+<0:03> % A siren is heard as we pan by the school playground at recess. Pan
+       % to an approaching tank. It's Bart, and he
+                                                   runs over the school fence
+         as children cheer.
+
+ ~~
+       * Compression ends after the satellite crashes to Earth.
+
+
+ ~~~~~    ENDING   <---->   (0:04)   0:52 / 0:56
+
+
+ ==[ AABF21 ]===================== Guess Who's Coming to Criticize Dinner ===
+         CUTS: 48 seconds     GAINED: 67 seconds      21:18 / 22:25
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:48>   (0:48)   0:28 / 1:16
+ ~~~~~    ACT I    <---->   (0:06)   7:28 / 7:34
+ ~~~~~    ACT II   <---->   (0:05)   6:06 / 6:11
+ ~~~~~    ACT III  <---->   (0:04)   6:24 / 6:28
+
+         Homer: I know, honey. The important thing is...run!
+
+         The angry mob chases Homer and Lisa down as the screen fades to
+         black. Homer whimpers as he is beaten.
+
+<0:00> % Homer: Finally getting my comeuppance!
+
+       ! For some reason, the syndicated audio is dead silent for this line.
+       ! The only reason I can think of is that it goes close to the synd
+       ! commercial break, and no one wanted to deal with that, so the line
+       ! went. [-mg]
+
+
+ ~~~~~    ENDING   <---->   (0:04)   0:52 / 0:56
+
+
+ ==[ BABF01 ]====================================== Treehouse of Horror X ===
+         CUTS:  0 seconds     GAINED: 84 seconds      21:04 / 22:28
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (0:00)   1:04 / 1:04
+ ~~~~~    ACT I    <---->   (0:24)   5:39 / 6:03
+
+       + In syndication, during Ned's flashback, Homer sings the "Super Sugar
+       + Crisp/fog lights in" jingle to a different tune.
+
+ ~~~~~    ACT II   <---->   (0:27)   6:40 / 7:07
+ ~~~~~    ACT III  <---->   (0:28)   6:49 / 7:17
+ ~~~~~    ENDING   <---->   (0:05)   0:52 / 0:57
+
+       ! Alternate (shortened) Halloween end credit music is used in the full
+       ! version, to allow for the "squeeze and tease".
+
+
+ ==[ AABF19 ]==================================== E-I-E-I-(Annoyed Grunt) ===
+         CUTS: 55 seconds     GAINED: 79 seconds      21:09 / 22:28
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+ ~~~~~    ACT I    <---->   (0:07)   8:08 / 8:15
+ ~~~~~    ACT II   <---->   (0:05)   4:40 / 4:45
+ ~~~~~    ACT III  <---->   (0:08)   7:06 / 7:14
+ ~~~~~    ENDING   <---->   (0:04)   0:52 / 0:56
+
+
+ ==[ BABF02 ]================================= Hello Gutter, Hello Fadder ===
+         CUTS: 55 seconds     GAINED: 74 seconds      21:14 / 22:28
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:22 / 1:17
+ ~~~~~    ACT I    <---->   (0:05)   7:20 / 7:25
+ ~~~~~    ACT II   <---->   (0:04)   6:24 / 6:28
+ ~~~~~    ACT III  <---->   (0:05)   6:15 / 6:20
+ ~~~~~    ENDING   <---->   (0:05)   0:53 / 0:58
+
+
+ ==[ BABF03 ]========================================== Eight Misbehavin' ===
+         CUTS: 55 seconds     GAINED: 72 seconds      21:13 / 22:25
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:22 / 1:17
+ ~~~~~    ACT I    <---->   (0:05)   7:04 / 7:09
+ ~~~~~    ACT II   <---->   (0:05)   7:25 / 7:30
+ ~~~~~    ACT III  <---->   (0:03)   5:29 / 5:32
+ ~~~~~    ENDING   <---->   (0:04)   0:53 / 0:57
+
+         Homer: Stupid mongoose!  Get the snake...  The <SNAKE>!
+       %        Do I look like a snake?  Ow!  Ow!  Why isn't he listening?
+<0:00> %        [screams]  Oh...  Show's over!  Show's over!  Next show at...
+       %        8:00, and 10:00...
+
+
+ ==[ BABF05 ]======================================= Take My Wife, Sleaze ===
+         CUTS: 55 seconds     GAINED: 75 seconds      21:12 / 22:27
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:22 / 1:17
+ ~~~~~    ACT I    <---->   (0:05)   4:02 / 4:07
+ ~~~~~    ACT II   <---->   (0:06)  10:05 /10:11
+ ~~~~~    ACT III  <---->   (0:03)   5:51 / 5:54
+ ~~~~~    ENDING   <---->   (0:06)   0:52 / 0:58
+
+
+ ==[ BABF07 ]========================================== Grift of the Magi ===
+         CUTS: 55 seconds     GAINED: 75 seconds      21:12 / 22:27
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:22 / 1:17
+ ~~~~~    ACT I    <---->   (0:03)   4:40 / 4:43
+ ~~~~~    ACT II   <---->   (0:04)   6:20 / 6:24
+ ~~~~~    ACT III  <---->   (0:07)   8:58 / 9:05
+ ~~~~~    ENDING   <---->   (0:06)   0:52 / 0:58
+
+
+ ==[ BABF04 ]============================================= Little Big Mom ===
+         CUTS: 55 seconds     GAINED: 70 seconds      21:14 / 22:24
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:22 / 1:17
+ ~~~~~    ACT I    <---->   (0:05)   7:23 / 7:28
+ ~~~~~    ACT II   <---->   (0:04)   7:35 / 7:39
+ ~~~~~    ACT III  <---->   (0:03)   5:02 / 5:05
+ ~~~~~    ENDING   <---->   (0:03)   0:52 / 0:55
+
+
+ ==[ BABF06 ]================================================== Faith Off ===
+         CUTS: 53 seconds     GAINED: 71 seconds      21:11 / 22:22
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:22 / 1:17
+ ~~~~~    ACT I    <---->   (0:05)   7:37 / 7:42
+ ~~~~~    ACT II   <---->   (0:04)   5:44 / 5:48
+ ~~~~~    ACT III <-0:02>   (0:03)   6:36 / 6:39
+
+       ! This shot only appears in the syndicated version, at least when
+       ! compared to Fox's first airing of BABF06. I'm not sure if subsequent
+       ! Fox airings showed it, but... in the long term, who cares? ;)
+       ! (It's in the Fox version _I_ have, but I don't know if that's the
+       ! first. Can anyone confirm this? [-mg])
+
+       + Right at the beginning of the act: Establishing shot of hospital.
+<-0:02>+
+       + Bart: Oh, Milhouse.
+                              This is my fault. I'm so sorry.
+
+ ~~~~~    ENDING   <---->   (0:04)   0:52 / 0:56
+
+
+ ==[ BABF08 ]========================================= The Mansion Family ===
+         CUTS: 55 seconds     GAINED: 78 seconds      21:06 / 22:24
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:22 / 1:17
+ ~~~~~    ACT I    <---->   (0:04)   5:14 / 5:18
+ ~~~~~    ACT II   <---->   (0:05)   6:16 / 6:21
+ ~~~~~    ACT III  <---->   (0:09)   8:27 / 8:36
+ ~~~~~    ENDING   <---->   (0:05)   0:47 / 0:52
+
+       ! These lines were missing during the credits in syndication.
+
+       %        Homer: [crying] ... like these guys ... [wailing; as voice
+       %               actor credits roll]  Look at all these rich people
+<0:00> %               here... Not as rich as they <should> be, of course,
+       %               but still rich...  [crying] ... look at all the peop--
+       % Gracie Woman: Shhh!
+       %        Homer: Don't shush me, you rich bastard!
+
+
+ ==[ BABF09 ]======================================= Saddlesore Galactica ===
+         CUTS: 54 seconds     GAINED: 71 seconds      21:14 / 22:25
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:54>   (0:54)   0:23 / 1:17
+ ~~~~~    ACT I    <---->   (0:05)   7:42 / 7:47
+ ~~~~~    ACT II   <---->   (0:03)   4:17 / 4:20
+ ~~~~~    ACT III  <---->   (0:05)   8:00 / 8:05
+
+       + In syndication, Cake's "The Distance" background music is an
+       + instrumental version--it isn't synchronized to video the same,
+       + either.
+
+       ! When I took over in 2003, I didn't notice any difference between the
+       ! two - I'll leave this in for now, but any enlightenment would be
+       ! appreciated. [-mg]
+
+       ! Enlightenment received (sorry for the delay)! "Jibberuski" alerted
+       ! me to the fact that the original airing was an instrumental,
+       ! somewhat soundalike, and the two repeats on Fox used the actual
+       ! song. Probably they couldn't get the rights in time. (This is also
+       ! mentioned in the episode capsule.) [-mg]
+
+ ~~~~~    ENDING   <---->   (0:04)   0:52 / 0:56
+
+
+ ==[ BABF10 ]================================= Alone Again, Natura-Diddly ===
+         CUTS: 54 seconds     GAINED: 72 seconds      21:14 / 22:26
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:54>   (0:54)   0:23 / 1:17
+ ~~~~~    ACT I    <---->   (0:04)   5:45 / 5:49
+ ~~~~~    ACT II   <---->   (0:06)   8:15 / 8:21
+ ~~~~~    ACT III  <---->   (0:04)   5:59 / 6:03
+ ~~~~~    ENDING   <---->   (0:04)   0:52 / 0:56
+
+
+ ==[ BABF11 ]===================================== Missionary: Impossible ===
+         CUTS: 55 seconds     GAINED: 74 seconds      21:09 / 22:23
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+ ~~~~~    ACT I    <---->   (0:04)   6:53 / 6:57
+ ~~~~~    ACT II   <---->   (0:07)   9:50 / 9:57
+ ~~~~~    ACT III  <---->   (0:02)   3:16 / 3:18
+ ~~~~~    ENDING   <---->   (0:06)   0:47 / 0:53
+
+
+ ==[ BABF12 ]================================================= Pygmoelian ===
+         CUTS: 54 seconds     GAINED: 63 seconds      21:19 / 22:22
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:54>   (0:54)   0:23 / 1:17
+ ~~~~~    ACT I    <---->   (0:05)   7:08 / 7:13
+ ~~~~~    ACT II   <---->   (0:05)   7:22 / 7:27
+ ~~~~~    ACT III  <---->   (0:04)   5:27 / 5:31
+ ~~~~~    ENDING   <---->  (-0:05)   0:59 / 0:54
+
+       ! For some inexplicable reason, the syndication credits were EXPANDED.
+       ! I guess the episode was too short ;)
+
+
+ ==[ BABF13 ]========================================= Bart to the Future ===
+         CUTS: 97 seconds     GAINED: 62 seconds      21:14 / 22:16
+                    No blackboard, no solo, original couch
+
+       ! Here goes another EXPANDED episode. In all expanded episodes this
+       ! year, we see cuts. There are no episodes with anything other than
+       ! the opening credits cut which are <not> expanded, so let's assume
+       ! the syndicators expand episodes to fill-out time left by cuts they
+       ! make... which raises the question... why do they cut anything,
+       ! anyway? We've come back full-circle.
+ 
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+ ~~~~~    ACT I    <---->  (-0:14)   8:22 / 8:08
+ ~~~~~    ACT II   <0:42>   (0:32)   5:42 / 6:14
+
+       ! Remember; this act is EXPANDED, meaning that even with 42 seconds of
+       ! cuts, it still gains _less_ than that, overall.
+
+       # In the trailers for Bart to the Future, a grown Maggie is shown as
+|?:??| # an astronaut standing on the moon, with an air hose in place of her
+       # pacifier--which, of course, she sucks just like a pacifier. This was
+       # probably originally to be shown right after Marge introduces Maggie
+       # Jr., at the Presidential supper table. This unaired scene may
+       # explain why the original version is well short of the 22:30 target.
+
+ ~~
+         Bart: You've changed, Lisa. You used to be cool.
+         Lisa: No, I didn't!
+
+       % Lisa speaks at a press conference on the White House lawn, with some 
+       % African-American athletes standing behind her.
+       %
+       % Lisa: I am proud to honor the players of the Negro Leagues of Roller
+       %       Ball.  And as we strive for the de-segregation of all death
+       %       sports, we cannot help but be inspired by--
+       % Bart: [off-screen] Heads!
+       %
+       % Lisa is hit in the forehead with a Frisbee; it lands on the ground.
+       % Three Secret Service men shoot it repeatedly.  Bart wanders into the
+       % scene, with his shirt off.  In the background, we see the Washington
+<0:42> % Monument with Jetsons-style rings around it.
+       %
+       % Bart: [annoyed; to guards] Hey. You guys owe me a Frisbee. A _new_
+       %       one!
+       % Lisa: [grabbing Frisbee; whispering] Bart! Get out of here!
+       % Bart: Relax, Lis. You'll live longer.
+       % Lisa: I can't relax. Being President is hard work! Maybe _you_
+       %       should try doing something with your life.
+       % Bart: [defensive] I'm gonna.
+       % Lisa: Yeah. Did you even call about that messenger job?
+       % Bart: Yeah, but they said I wouldn't get my first check for _two_
+       %       weeks.  Meanwhile, they're making major interest on _my_
+       %       salary! [getting idea] Hey... maybe I could _sue_ 'em!
+       % Lisa: [disgusted] Ah...
+
+         Establish shot of White House at night.
+
+       ! Definitely feels like a content-related cut. After all... they said
+       ! the word "Negro." Bart's "you'll live longer" is repeated later in
+       ! the episode, when talking to the foreign diplomats. I'm not sure
+       ! what this means, if anything, to anyone. The quip wasn't that great
+       ! a joke.
+
+
+ ~~~~~    ACT III  <---->  (-0:10)   5:53 / 5:43
+ ~~~~~    ENDING   <---->  (-0:01)   0:54 / 0:53
+
+
+ ==[ BABF14 ]============================== The Days of Whine and D'Ohses ===
+         CUTS: 79 seconds     GAINED: 72 seconds      21:11 / 22:23
+                    No blackboard, no solo, original couch
+
+       ! Yet another EXPANSION job. Get ready for some cuts...
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+ ~~~~~    ACT I    <---->  (-0:03)   5:45 / 5:42
+ ~~~~~    ACT II   <---->  (-0:01)   6:55 / 6:54
+ ~~~~~    ACT III  <0:24>   (0:21)   7:20 / 7:41
+
+            Homer: [pointing at TV] Oh, no! That's Bart & Lisa!
+
+       % Brockman: Unfortunately, fire trucks are unavailable to fight the
+       %           blaze, as they're all being used to film the new Burt
+       %           Reynolds Movie: Fireball and Mudflap. I caught up with
+       %           Burt on the set.
+       %
+       % Cut to: Brockman, seated across from Burt Reynolds during an
+<0:24> % interview.
+       %
+       % Brockman: So, Burt. Tell us a little about Fireball and Mudflap.
+       % Reynolds: Well I play... Jerry... Fireball Mudflap; a... feisty
+       %           Supreme Court Justice who's searching for his birth mother
+       %           ... while... competing in a cross-country fire truck race.
+       %           It's.... garbage.
+       %
+       % Brockman rolls his eyes uncomfortably.
+         Carl, Lenny, Homer and Moe stand outside, looking at the fire.
+
+
+ ~~~~~    ENDING   <---->   (0:00)   0:48 / 0:48
+
+
+ ==[ BABF16 ]================================= Kill the Alligator and Run ===
+         CUTS: 121 seconds    GAINED: 74 seconds      21:15 / 22:29
+                    No blackboard, no solo, original couch
+
+       ! Another expanded episode (which means cuts), but with a twist. This
+       ! appears to be the first time syndication puts something from one act
+       ! into another. They've actually edited the episode, putting a piece
+       ! of Act III into Act II, then they cut it again when they got to Act
+       ! III. It's clearly an attempt to keep the episode "making sense",
+       ! despite a large cut. I do remember that in 8F07, a beauty parlor
+       ! scene was swapped with Homer's video store visit, but that was from
+       ! the same act. This was a heavy-duty edit here in BABF16. Enjoy.
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+ ~~~~~    ACT I    <---->  (-0:16)   6:07 / 5:51
+ ~~~~~    ACT II   <0:05>  (-0:15)   7:57 / 7:42
+
+         No sooner does the Simpsons' car jump across the tracks in front of
+         the freight train safely, than the Amtrak slams into them.
+
+          Homer: D'Oh!
+
+         The train just easily pushes the Simpsons' car down the tracks in
+         front of it.
+
+         Family: [screaming] AAAIGH!
+       %   Lisa: Dad, what do we do?
+       %  Homer: The only thing we _can_ do. Sit tight, and try to get some
+<0:13> %         sleep. [He snuggles against the car door, then snores]
+       %
+       % Front view of train, pushing the car down the tracks. We see it
+       % disappear into the sunset. [end of ACT II]
+
+       ! This piece of Act III was added as the end of syndicated Act II. It
+       ! was then cut out of Act III (naturally).
+
+       + The engineer pries the car off the tracks with a large bar, and the
+<-0:08>+ Simpsons' car rolls down the hillside. It lands on all four wheels,
+       + and it's wrecked.
+
+
+ ~~~~~    ACT III  <1:01>   (0:46)   5:55 / 6:41
+
+
+       ! The first scene of Act III is cut. Naturally, this would only make
+       ! sense--given Act II's "new ending".
+
+       % Pan by a peaceful field, with horses and a fence. Soon, here comes
+       % the Amtrak train, pushing the Simpsons' car.  Marge, Bart, Lisa, and
+       % Maggie are indeed sleeping, as Homer suggested.
+       %
+       %  Lisa: [yawning; waking] Hey. Where's Dad?
+       %
+       % Just then, Homer enters through the window--carrying a food tray.
+       %
+       % Homer: [grunting] Rise and shine, everybody.
+       % Marge: You went to the snack car?
+       % Homer: [friendly] Yeah. But first, I talked to the engineer. He said
+       %        there's a procedure for dealing with events of this nature.
+       %
+<0:58> % The engineer pries the car off the tracks with a large bar, and the
+       % Simpsons' car rolls down the hillside--as they scream. It lands on
+       % all four wheels, and it's wrecked.
+       %
+       % Homer: [voice-over] Ugh. Okay. Now, am I the only one on fire? Good.
+       %        [He gets out, falls down, and rolls on the ground moaning]
+       %        Hot! Hot hot hot hot! [He gets up and pats out the fire]
+       % Marge: [getting out of car; disgusted]  This family has hit a new
+       %        low.  We're on the run from the law, totally lost, no car, no
+       %        money, no clean clothes... and it's all YOUR [poking Homer in
+       %        the chest] fault.
+       % Homer: I _love_ being married.
+       %
+       % Country theme music plays, as the Simpsons walk away from their car.
+
+         The family all hang their heads as they walk up a path, finally
+         coming upon a diner.
+
+ ~~
+         Radio Announcer: This just in: authorities in Six Toe County are on
+                          the lookout for a family of fugitives. [Bart & Lisa
+                          gasp] They're charged with Gatorcide--
+<0:03> %                  [shot of Homer, worried] and defrauding an Amtrak
+       %                  snackbar...
+
+         Ol' Velma shuts off the radio.
+
+                   Velma: Trouble with the law, huh?
+
+ ~~~~~    ENDING   <---->   (0:04)   0:53 / 0:57
+
+       ! Now, a compressed ending after an expanded episode. Boy, these guys
+       ! are geniuses. (They'd prefer "genii", probably)
+
+
+ ==[ BABF15 ]============================== Last Tap Dance in Springfield ===
+         CUTS: 54 seconds     GAINED: 67 seconds      21:16 / 22:23
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:54>   (0:54)   0:23 / 1:17
+ ~~~~~    ACT I    <---->   (0:02)   5:08 / 5:10
+ ~~~~~    ACT II   <---->   (0:05)   6:38 / 6:43
+ ~~~~~    ACT III  <---->   (0:06)   8:16 / 8:22
+ ~~~~~    ENDING   <---->   (0:00)   0:51 / 0:51
+
+
+ ==[ BABF18 ]============================ It's a Mad, Mad, Mad, Mad Marge ===
+         CUTS: 55 seconds     GAINED: 71 seconds      21:14 / 22:25
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+ ~~~~~    ACT I    <---->   (0:04)   6:37 / 6:41
+ ~~~~~    ACT II   <---->   (0:05)   7:39 / 7:44
+ ~~~~~    ACT III  <---->   (0:04)   5:43 / 5:47
+ ~~~~~    ENDING   <---->   (0:03)   0:52 / 0:55
+
+
+ ==[ BABF19 ]======================================== Behind the Laughter ===
+         CUTS: 55 seconds     GAINED: 73 seconds      21:11 / 22:24
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+ ~~~~~    ACT I    <---->   (0:06)   7:03 / 7:09
+ ~~~~~    ACT II   <---->   (0:05)   7:37 / 7:42
+
+       ! In the original airing, Moe's name was spelled "Syzlak." I don't
+       ! know if it was corrected for later Fox airings or only for
+       ! syndication, but the proper spelling (Szyslak) is in the synd
+       ! version. [-mg]
+
+ ~~~~~    ACT III  <---->   (0:04)   5:18 / 5:22
+
+       ! It's significant to note that "Northern Kentucky family" is the
+       ! phrase used in syndication. That jibes with the premier version of
+       ! Behind the Laughter.
+
+ ~~~~~    ENDING   <---->   (0:03)   0:50 / 0:53
+
+
+ ==[ ---- ]===================================================================

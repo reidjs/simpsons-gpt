@@ -1,0 +1,553 @@
+% It's time for the evening news, Brockman-style.
+
+Brockman: ... means death for us all.  And now, "Kent's People!"
+          Tonight's inspiring story is about Frank Grimes, a thirty-
+          five-year-old Springfieldite who has earned everything the
+          hard way, but never let adversity get him down.
+
+          [the footage shifts to grainy footage of Grimes as a boy]
+
+          Abandoned by his parents at age four, Frank never got to go
+          to school.
+          [we see Frank through the rear window of a car.  He recedes
+          into the distance as the car drives off.  A hand waves,
+          "goodbye"]
+          [cut to a still black-and-white photo of young Grimes in a
+          delivery uniform]
+          He spent his childhood years as a delivery boy, delivering
+          toys to more fortunate children.
+          [another picture, this one of Grimes handing a package to a
+          boy.  A tuxedo-wearing man stands in the doorway]
+          Then, on his eighteenth birthday, he was blown up in a silo
+          explosion.
+          [cut to a far shot of a Grimed running into a silo, which
+          goes ka-boom]
+          [Grimes rests on a hospital bed, in traction and plastered
+          from head to toe in bandages] During his long recuperation he
+          taught himself to hear and feel pain again.
+          [black-and-white shot of Grimes at his desk, surrounded by
+          textbooks]
+          As the years passed, he used his few leisure moments each day
+          to study science by mail.  And, last week, Frank Grimes, the
+          man who had to struggle for everything he ever got, received
+          his correspondence school diploma in nuclear physics -- with
+          a minor in determination.
+          [a postman hands Grimes his diploma.  Grimes holds it
+          triumphantly in the air, where an eagle tries to fly off with
+          it.  Grimes fights him off]
+-- Are you inspired yet?  "Homer's Enemy"
+
+% One of the people watching "Kent's People" that night is Mr. Burns.
+% Impressed by Grimes' determination, he orders Smithers to recruit him
+% as an executive vice president.  Smithers reluctantly does so.
+%
+% The next day, Smithers introduces Burns to his newest employee, but
+% it looks as though Mr. Burns is still watching "Kent's People."
+
+Burns:    Smithers, I've just seen the most heroic dog on television.
+          He pulled a toddler from the path of a speeding car, then
+          pushed a criminal in front of it.  Find this dog.  I want to
+          make him my executive vice president.
+Smithers: Uh, yes sir.  In the meantime, here's Frank Grimes.
+          [Grimes offers his hand, but Burns just stares blankly]
+          The, the self-made man?
+Burns:    What?  Oh, yes, that fellow.  Mmmm, put him somewhere out of
+          the way, and find that dog!
+Smithers: Yes sir.  [leaves, taking Grimes with him]
+-- How quickly they forget, "Homer's Enemy"
+
+% There's no place farther out of the way than sector 7-G.  Homer is
+% busy spinning around in his swivel chair when Lenny and Carl walk in,
+% suggesting they welcome the new guy.  Dizzy, Homer faintly protests
+% the idea, but the three men form a welcome wagon.
+%
+% In his office, Grimes methodically arranges his belongings.  Homer,
+% Lenny, and Carl press their faces against the office window before
+% walking in to say hi.
+
+Carl:     You new?
+Grimes:   Yes.  My name is Frank Grimes.
+Lenny:    I'm Lenny.  This is Carl and Homer.  I'm Lenny.
+Grimes:   How do you do.
+Homer:    [picks up one of Grimes' pencils, spilling the rest onto his
+          desk]  Wow, you've got pencils with your name on them -- just
+          like a pencil company executive.  I'd give anything for one
+          of these.
+Grimes:   [tugs the pencil back out of Homer's hand]  Any office supply
+          company can have them made up for you.
+Homer:    Can I have this one?  [tries to tug it back]
+Grimes:   No.
+Homer:    Can [thinks] Lenny have it?  [tries it again]
+Grimes:   No.
+-- Are you sure you want to work here?  "Homer's Enemy"
+
+% Lenny and Carl look at Grimes' correspondence-school diploma.
+
+Grimes:   Oh, that's my degree in nuclear physics.  I'm sure you all
+          have one.
+Lenny:    Oh yeah, Carl and I each have a masters'.  [chuckles] Of
+          course, old Homer, he didn't need a degree.  He just showed
+          up the day they opened the plant.
+Homer:    I didn't even know what a nuclear panner plant was.
+Grimes:   Um, [forced laugh] yeah.  Well, listen, I'm sure, you all
+          have a lot of work to do.
+Lenny +
+  Carl:   [shrug] Eh.  [the two leave]
+          [Grimes turns around, and is startled to see that Homer is
+          still there]
+Homer:    Hey, you seem like a great guy, so I'll give you a little
+          tip.  If you turn that security camera around, you can sleep
+          and no one will ever know.
+Grimes:   eh, I don't think we're being paid to sleep.
+Homer:    Oh yeah, they're always trying to screw ya.  [leaves]
+Grimes:   [shudders in amazement]
+-- The secret of my success, "Homer's Enemy"
+
+% While Homer helps Grimes settle into his new job, Marge is at the DMV
+% office, hoping to get a vanity license plate.  Unfortunately for her,
+% "MARGE" is already taken.  So is "MARJORIE".  And "MITSY".  The clerk
+% offers "NITSY", and Marge considers it.  Bart had been waiting
+% patiently, but decides he's had enough and sets off to find something
+% more interesting.
+%
+% He finds the tax seizures room, where the city is auctioning off
+% property.  The auctioneer solicits bids for item 751, but there aren't
+% any takers.  Bart bids one dollar -- and wins.  Only after his victory
+% does Bart think to ask what he has won.  The auctioneer hands over a
+% deed, and says that Bart is now the proud owner of 35 Industry Way.
+%
+% Bart goes to survey his new property, which turns out to be a
+% dilapidated factory.  Impressed, Bart says, "Looks like my years of
+% hard work have finally paid off."
+%
+% At lunch, Homer continues to unwittingly bedevil Grimes.
+
+Homer:    [to Grimes, who's walking by]  Hiya Stretch, what's the good
+          word?
+Grimes:   My name is "Grimes," uh, Simpson, Frank Grimes.  I took the
+          trouble to learn your name, so the least you could do is
+          learn mine.
+Homer:    Okay, Grimey.
+-- Should've quit while you were ahead, Grimey, "Homer's Enemy"
+
+% Grimes points out that Homer has taken his special dietetic lunch.
+% Embarrassed, Homer apologizes but takes a few more bites before
+% handing it back to Grimes.  Grimes tosses the remainder in the trash
+% and walks away.  Homer goes to retrieve it, but backs off and tries to
+% look innocent when Grimes turns around to look.
+%
+% Things don't look up for Grimes when he returns to the office.  He
+% follows a trail of chewed pencils to Homer's work station, where Homer
+% is using one to clean his ears.  Grimes huffily returns to his office.
+%
+% Meanwhile, Bart continues to look over his factory.  Inside, the
+% building is empty except for Bart, some rats, and assorted building
+% debris.  "It's filthy," he sums up proudly, "and it's mine."  Picking
+% a bolt up off the floor, Bart sees how far he can throw it.  It lands
+% on the other side of the building and makes an echo that emphasizes
+% how empty the place is.  Looking around, Bart sees an old wooden
+% swivel chair, and a fire extinguisher.  He wheels the chair into
+% position, sits down, and uses the fire extinguisher to jet-propel
+% himself across the factory floor and into the wall.
+%
+% At work, Homer propels himself into Grimes' office.
+
+Homer:    So, how's it going, Grimey?
+Grimes:   I'd appreciate it if you'd stay out of my office, Simpson.
+Homer:    [laughs]  Wish I had a nickel every time I heard that.
+          [walks around idly, making annoying sounds]
+          [off key]  Take me out to the ball-game, take me out to the
+          ballll ...
+          So, what's new, Grimey?
+          [alarms blare and red lights go on at Homer's work station]
+Grimes:   Simpson, you've got a 513.
+          [Homer looks at his watch]
+Grimes:   No, a 513.  In your procedures manual -- a 513?
+          {Homer looks at his watch again]
+Grimes:   [points] Look at your control panel.
+Homer:    [looks] Oh, a five THIR-teen.  I'll handle it.
+          [calmly walks next door, takes a bucket of water and pours it
+          on the console.  This shorts it out and silences the alarms]
+          That got it.
+          [Grimes looks through the window, aghast]
+-- "Homer's Enemy"
+
+% At the =other= Simpson workplace, "President" Bart gazes out his
+% office window.  Milhouse strolls by.
+
+Bart:     [leaning out the window]  Hey, Milhouse!  You want a job in
+          my factory?
+Milhouse: You don't a have a factory.
+Bart:     Hey, I'm a busy man.  You want a job or not?
+Milhouse: Okay!  [runs up to join Bart]
+-- "Homer's Enemy"
+
+% Break time!  Homer tries to set the world indoor speed-eating record.
+% Grimes looks on, disapprovingly.
+
+Grimes:   God, he eats like a pig.
+Lenny:    I dunno.  Pigs tend to chew.  I'd say he eats more like a
+          duck.
+Grimes:   Well, some kind of farm animal anyway.  And earlier today, I
+          saw him asleep inside a radiation suit.  Can you imagine that
+          he, he was hanging from a coat hook.
+Lenny:    He had three beers at lunch.  That would make anybody sleepy.
+Grimey:   I've never seen him do any work around here ... what, what is
+          his job?
+Lenny:    Safety inspector.
+Grimes:   That irresponsible oaf?  A man who by all rights should have
+          been killed dozens of times by now?
+Lenny:    Three hundred and sixteen times by my count.
+Grimes:   That's the man who's in charge of our safety.  It, it boggles
+          the mind.
+Carl:     It's best not to think about it.
+-- Good advice, "Homer's Enemy"
+
+% Homer gropes for a drink, but his hand lands instead on a beaker of
+% sulfuric acid.  Oblivious, he raises the beaker to his lips, but
+% Grimes knocks it away just in time.  The flying acid spills onto the
+% wall, which immediately dissolves.  Burns and his canine executive
+% vice president walk by, and the old man can't help but notice the
+% break room has some extra ventilation.
+%
+% Burns summons Grimes to his office, and (with some assistance from
+% the dog) berates his worker for destroying the valuable wall, and
+% spilling the priceless acid.  He puts Grimes on notice (at a reduced
+% salary) -- get his act together, or else.
+%
+% Grimes confronts Homer at his work station.
+
+Homer:    Hi, Grimey old buddy.
+Grimes:   I'm not your buddy, Simpson.  I don't like you.  In fact, I
+          hate you!  Stay the hell away from me, because from now on,
+          we're enemies!  [turns to leave]
+Homer:    Okay.  Do I have to do anything?
+-- And that's how he became ... "Homer's Enemy"
+
+% [End of Act One.  Time:  8:51]
+%
+% Homer stops at Moe's Tavern to lament his newfound enmity with
+% Grimes.
+
+Homer:    Oh, I can't believe it, I got an enemy.  Me the most beloved
+          man in Springfield.
+Moe:      Ah, it's a weird world, Homer.  As hard as it is to believe,
+          some people don't care for me, neither.
+Homer:    No, I won't accept that.
+Moe:      No, it's true.  I got their names written down right here on
+          what I call my, uh, "enemies list."  [reaches under the bar
+          for a sheet of paper]
+Barney:   [takes list and reads it]  Jane Fonda, Daniel Shore, Jack
+          Anderson ... Hey!  This is Richard Nixon's enemies list.  You
+          just crossed out his name and put yours.
+Moe:      Okay, gimmie that, gimmie it back.  [takes list]
+          [writes] Barney Gumble.
+Barney:   Oh.
+-- "Moe's Enemy," uh, I mean, "Homer's Enemy"
+
+% Homer still isn't closer to solving his problem, though.
+
+Homer:    Oh, what am I going to do?
+Moe:      Uh, why don't you invite him over.  Turn him from an enemy to
+          a friend.  Then when he's not expecting it -- bam! -- the ol'
+          fork in the eye.
+Homer:    Do you think it might work without the fork in the eye?
+Moe:      There's always a first time.
+-- How to win friends and influence people, "Homer's Enemy"
+
+% Before the big forkless dinner, the family gets some last-minute
+% coaching from Homer.  Everyone is asked to be perfect -- Lisa, Marge,
+% Bart, and the "other kid."  Marge worries that she'll have enough
+% lobsters handy in the event Grimes brings a friend.  There shouldn't
+% be a problem, her husband assures, since he made up an excuse to bring
+% Grimes to the Simpson house.
+%
+% The doorbell rings.  Marge calms Homer down, and he answers the door.
+% Grimes has arrived right on cue.  His suit is rumpled, and it looks
+% like he has put in another weary day on the job.
+
+Homer:    Welcome to the Simpson residence or "casa de Simpson," as I
+          call it.
+Grimes:   Yeah, what did you want to see me about, Simpson?  This
+          better be important.
+Homer:    It is, it is, but first, let me introduce you to my family,
+          my perfect family.  This is my wife Marge...
+Marge:    Hello.
+Homer:    ... and our beautiful baby ...
+Maggie:   [sucks pacifier]
+Homer:    ... my daughter Lisa, I. Q. 156 ...
+Lisa:     [curtsies] Hi.
+Homer:    See?  And my son Bart; [Bart winks] he owns a factory
+          downtown.
+Grimes:   How do you do.  Uh, look Homer, I'm, I'm late for my night
+          job at the foundry so if you don't mind telling m--
+          [trails off as he looks around the casa de Simpson.  The
+          camera momentarily shifts to Grime's point of view and gives
+          us a 360-degree look at the family's living room]
+          Good Heavens!  This is a palace!  H-How can, how in the world
+          can you afford to live in a house like this, Simpson?
+Homer:    I dunno.  Don't as me how the economy works.
+Grimes:   Yeah, but look at the size of this place!  I -- I live in a
+          single room above a bowling alley and below another bowling
+          alley.
+Homer:    Wow.
+Grimes:   [notices some pictures on the wall]  I'm sorry, isn't
+          that ...
+Homer:    Yes, that's me, and the guy standing next to me is President
+          Gerald Ford.
+          [gestures to other photos]
+          And this is when I was on tour with the Smashing Pumpkins.
+          Oh!  And here's a picture of me in outer space.
+Grimes:   You?  Went into outer space?  You?
+Homer:    Sure.  You've never been?  Would you like to see my Grammy
+          award?  [holds up award]
+Grimes:   No!  I wouldn't!
+          God, I've had to work hard every day of my life, and what do
+          I have to show for it?  This briefcase and this haircut!  And
+          what do you have to show for your lifetime of sloth and
+          ignorance?
+Homer:    What?
+Grimes:   Everything!  A dream house!  Two cars!  A beautiful wife!  A
+          son who owns a factory!  Fancy clothes and [sniffs air]
+          lobsters for dinner.  And do you deserve any of it?  No!
+Homer:    [gasps] What are you saying?
+Grimes:   I'm saying you're what's wrong with America, Simpson.  You
+          coast through life, you do as little as possible, and you
+          leech off of decent, hardworking people like me.  Heh, if you
+          lived in any other country in the world, you'd have starved
+          to death long ago.
+Bart:     He's got you there, dad.
+Grimes:   You're a fraud.  A total fraud.  [leaves]
+          [pokes his head in the door]
+          [to Marge and the kids] It was nice meeting you.
+          [leaves again, slamming the front door]
+-- A fork in the eye would have been an improvement, "Homer's Enemy"
+
+% The next day, Bart and Milhouse have a meeting at the factory to
+% discuss what to do with some adding machines and industrial waste that
+% they found.  "I believe we both know the answer to that," says Bart.
+% In case you didn't know the answer:  The boys dump the machines into a
+% barrel full of waste, and watch them dissolve.
+%
+% Later Milhouse mops the floor.  He pauses to wipe his brow, but Bart
+% taps on his office window and tells Milhouse to get back to work.
+%
+% A rickety staircase becomes a fun "wacky shack" when the boys stand
+% on top and start rocking it.  Milhouse questions the wisdom of this,
+% pointing out signs that say the staircase isn't safe to use.  Bart
+% takes the signs down and throws them out the window.  This solves the
+% problem to everyone's satisfaction.  Good thing OSHA isn't around.
+%
+% Marge walks around the front of the house and finds Homer isn't
+% having as good a day at =his= job.  In fact, he's still sitting in his
+% car, in his driveway.  Marge taps on the window.
+
+Marge:    Homer [knocks again] Homer, why aren't you at work?
+Homer:    The car won't start.  I don't feel very good today.  I am at
+          work.
+Marge:    You're afraid to go to work because Frank Grimes will be
+          there, aren't you?
+Homer:    That's crazy talk.  You're crazy, Marge.  Get off the road!
+          [honks horn]
+Marge:    [gets in the car] You have to face him sometime, and when you
+          do I'm sure he'll be just as anxious to make up as you are.
+Homer:    No he won't, he hates me.
+Marge:    He doesn't hate you.  He just feels insecure because you're
+          getting through life so easily, and it's been so difficult
+          for him.
+Homer:    Yeah, yeah, that's his problem, he's a nut!  It's not about
+          me being lazy, it's about him being a crazy nut.
+Marge:    Well ... maybe.  But I bet he would be less crazy if you were
+          just a little more, mmm, professional in your work.
+Homer:    [gasps]
+Marge:    Just a little more.  Then he won't have any reason to resent
+          you.
+Homer:    I'll do it!  [produces a bottle of that wonderful Duff] To
+          professionalism!  [drinks up]
+-- "Homer's Enemy"
+
+% Homer's new professional attitude has him eating donuts at the
+% console, but this time with a knife and fork.  On his wall hangs a
+% motivational poster ("Mr. Good Employee").  When Grimes walks in,
+% Homer suggests they discuss his new work habits "during the designated
+% break period."  Grimes is less than impressed, especially since
+% another danger alarm is sounding at Homer's console.
+%
+% Grimes joins Lenny and Carl in the break room.
+
+Grimes:   Can you believe that guy?  He's in his office making a
+          pathetic attempt to look professional.
+Carl:     Hey, what do you got against Homer, anyway?
+Grimes:   Are you kidding?  Does this whole plant have some disease
+          where you can't see that he's an idiot?  Look here.  [points
+          out a chart tacked to the bulletin board] Accidents have
+          doubled every year since he became safety inspector, and, and
+          meltdowns have tripled.  Has he been fired?  No.  Has he been
+          disciplined?  No, no.
+Lenny:    Eh, everybody makes mistakes.  That's why they put erasers on
+          pencils.
+Carl:     Yeah, Homer's okay.  Give him a break.
+Grimes:   No!  Homer is not okay.  And I want everyone in this plant to
+          realize it.  I would die a happy man if I could prove to you
+          that Homer Simpson has the intelligence of a six-year-old.
+Lenny:    [to Carl]  So, how are you doing?
+          [annoyed, Grimes leaves]
+-- Be careful what you wish for, "Homer's Enemy"
+
+% As he walks out of the break room, Grimes' attention is drawn to one
+% of the other notices on the bulletin board.  This one announces a
+% children's model-building contest, with the prize going to the child
+% who makes the best model of a futuristic power plant.  Grimes takes
+% the notice to his office, where he carefully cuts away all references
+% to this being a contest for kids.  (He does this on company time,
+% might I add.)  Then he places the notice on Homer's console.  Homer
+% sees what remains of the ad, and takes the bait.  Telling Lenny (or
+% rather, a picture of Lenny) that he's taking the afternoon off, Homer
+% rushes home to work on his model.  Grimes is delighted.  The victory
+% is short-lived, though, since Homer backs into Grimes' car on the way
+% out.
+%
+% [End of Act Two.  Time:  16:17]
+%
+% Frank Grimes may think Homer is a lazy worker, but if he could hear
+% Homer working on his model, he might have a change of opinion.  The
+% sounds of sawing, hammering, and incoherent cussing from the basement
+% suggest an intense project.
+
+Lisa:     Can I go downstairs and see what Dad's doing?
+Marge:    I wouldn't bother him, honey.  He's making some sort of model
+          for a contest.  He says it's really high-tech stuff that we
+          wouldn't understand.
+Homer:    [opens basement door] Marge, do we have any elbow macaroni
+          and glue-on sparkles?
+-- He's right, I don't understand, "Homer's Enemy"
+
+% At "work," Milhouse pounds on a furnace, waiting for quitting time.
+% Bart signals the end of the work day with the traditional steam
+% whistle, and Milhouse eagerly heads home.  But the boss stops him.
+
+Bart:     Just a minute, van Houten.  Somebody needs to guard this
+          place at night so it doesn't get trashed.  [offers a cap and
+          baton] How'd you like to be night watchman?
+Milhouse: I'm sleepy.
+Bart:     Ah, no problemo.  Here's a nickel for the coffee machine.
+          [hands a nickel over and leaves]
+          [Milhouse deposits the nickel in the machine.  It dispenses a
+          cup, then a rat, then some coffee]
+Milhouse: [sips from the cup]  So this is my life.  At least I've done
+          better than Dad.
+-- The scary part is, he's right, "Homer's Enemy"
+
+% The next day, Bart heads back to the factory, only to find a huge
+% pile of rubble on the spot.
+
+Bart:     Milhouse, how could you let this happen?  You were supposed
+          to be the night watchman.
+Milhouse: I was watching.  I saw the whole thing.  First it started
+          falling over, then it fell over.
+-- "Homer's Enemy"
+
+% Bart wonders where all the now-homeless rats will go.  The rats
+% decide to take up residence at Moe's Tavern.
+%
+% The time arrives for the model contest.  The event fills the power
+% plant's auditorium.  Mr. Burns, of course, presides as master of
+% ceremonies.
+
+... and the bold new ideas these tiny tykes unveil for us today could
+make thousands of jobs like yours -- obsolete!
+-- Mr. Burns, "Homer's Enemy"
+
+% The first contestant, Ralph Wiggum, unveils a "power plant" that is
+% really just a relabeled Malibu Stacey Dream House.  Smithers likes it,
+% but Burns eyes the hot tub and media room and dismisses it.  "It's
+% supposed to be a power plant, not Aunt Beaulah's bordello," he says.
+% Ralph leaves the stage, with a little prompting from his father.
+%
+% Martin is next, and he wheels in an impressive lighted model.
+
+Martin:   Behold, the power plant of the future, today!
+Burns:    Yuchh.  Too cold and sterile.  Where's the heart?
+Martin:   But it really generates power.  It, it's lighting this room
+          right now.  [turns a knob, dimming the auditorium lights]
+Burns:    You lose -- get off my property.
+-- A hard man to impress, "Homer's Enemy"
+
+% Now, it's Homer's turn.  Frank Grimes is in the audience, and tries
+% to stir up audience sentiment against his enemy.  He gets shushed for
+% his troubles.
+
+Burns:    Could you explain your model, young man?
+Grimes:   [from audience] What's to explain?  He's an idiot!
+Lenny:    [from audience] Pipe down!
+Homer:    Well basically, I just copied the plant we have now.
+Burns:    [impressed] Hmmm.
+Homer:    Then, I added some fins to lower wind resistance.  [points to
+          a stripe on the cooling tower] And this racing stripe here I
+          feel is pretty sharp.
+Burns:    Agreed.  First prize.  [gives Homer a blue ribbon, and some
+          money]
+          [cut to audience shot]
+Grimes:   [stands up] What?
+Carl:     Way to go, Homer!
+Lenny:    You're number one, Homer!
+Grimes:   But it, it was contest for children!
+Lenny:    Yeah.  And Homer beat their brains out!
+          [audience cheers wildly]
+-- Now that's sportsmanship, "Homer's Enemy"
+
+% This is the last straw.
+
+Grimes:   Oh, I, I can't stand it any longer.  This whole plant is
+          insane.  Insane, I tell you!  [snaps mentally]  Daahh!  Aaah!
+          [runs out of the auditorium, and into an equipment room]
+          I can be lazy too!  [takes his tie off, and moons one of the
+          technicians] Look at me, I am a worthless employee, just like
+          Homer Simpson!  Give me a promotion!
+          [walks into the break room, and grabs two donuts from the
+          box]
+          Ooh, I eat like a slob, but nobody minds!  [eats in an
+          exaggeratedly slobbish fashion]
+          [heads into a bathroom]
+          [from bathroom]  I'm peeing on the seat.  Give me a raise!
+          [emerges from the bathroom and waves his hands in Homer's
+          face] Now I'm returning to work without washing my hands.
+          But it doesn't matter, because I'm Homer Simpson!
+          [runs to Homer's work station and spins around in the chair]
+          I don't need to do my work, 'cause someone else will do it
+          for me.  D'oh!  D'oh!  D'oh!  [slaps forehead on each
+          "D'oh!"]
+Homer:    Hey, you okay, Grimey?
+Grimes:   I'm better than okay.  I'm Homer Simpson.
+Homer:    [chuckles] You wish.
+Grimes:   [notices Burns has walked in]  Oh, hi, Mr. Burns.  I'm the
+          worst worker in the world.  Time to go home to my mansion and
+          eat my lobster.
+          [walks up to some dangerous-looking wires]
+          What's this?  [reads sign] "Extremely High Voltage."  Well, I
+          don't need safety gloves, because I'm Homer Simp--
+          [zap]
+-- The untimely demise of, "Homer's Enemy"
+
+% Cut to a shot of Grimes' funeral.  (Looks like he did need safety
+% gloves, after all.)  Reverend Lovejoy delivers the eulogy in his
+% sonorous manner.
+
+Lovejoy:  Frank Grimes, or "Grimey," as he liked to be called, taught
+          us that a man can triumph over adversity.  And even though
+          Frank's agonizing struggle through life was tragically cut
+          short, I'm sure he's looking down on this right now ...
+          [Lovejoy's voice fades as the camera pans to a sleeping
+          Homer]
+Homer:    [in sleep]  Change the channel, Marge.
+          [the mourners laugh]
+Lenny:    That's our Homer!
+-- Funeral for a friend, "Homer's Enemy"
+
+% As the funeral party laughs at Homer's antics, Grimes' casket is
+% lowered slowly into the ground.  Rest in peace, Frank.
+%
+% [End of Act Three.  Time:  21:22]
+
+
+<|endoftext|>

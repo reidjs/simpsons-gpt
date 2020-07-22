@@ -1,0 +1,633 @@
+                           The Simpsons Archive's
+                       Simpsons Syndication Cuts Guide
+
+                         Season Fourteen (2002-2003)
+
+               "Syndication... is there anything they can't do?"
+
+                                 23 Jun 2008
+
+                 Maintained by Matt Garvey <garvey@snpp.com>
+                      Guide created by Frederic Briere 
+               Contributions from Chad Lehman and Tim Reardon
+
+[=========================[Season Fourteen Summary]=========================]
+
+Story cut episodes: DABF22, EABF01, EABF06, EABF09, EABF10, EABF11, EABF12,
+                    EABF13, EABF15, EABF17.
+Compressed episodes: All episodes were compressed.
+Expanded episode: EABF06.
+Changed content: DABF21, EABF08, EABF13, EABF14, EABF15.
+
+Total time cut: 2:05 (2 min 5 sec)
+Story time cut: 1:36 (1 min 36 sec)
+Total time gained: 11:26 (11 min 26 sec)
+
+Notes: As with season 13, the season 14 episodes in which the opening was
+       edited for syndication have the "voiceless intro." These are EABF14,
+       EABF15, and EABF16 (and if this trend persists, I might move this list
+       to the header). In these openings, the only sound until the couch gag
+       is music: no "The Simp-sons," no sound effects like car noises or
+       Maggie being scanned, no sounds from Homer in the driveway.
+
+       Also like season 13, there are no TV ratings in the corner of the
+       screen for any episodes (even EABF12, which got a TV-14 on its network
+       runs).
+
+ ==[ DABF19 ]=================================== Treehouse of Horror XIII ===
+         CUTS:  0 seconds     GAINED: 67 seconds      21:18 / 22:25
+                         Original Halloween opening
+
+ ~~~~~    OPENING  <---->   (0:03)   1:04 / 1:07
+ ~~~~~    ACT I    <---->   (0:25)   7:43 / 8:08
+ ~~~~~    ACT II   <---->   (0:20)   5:59 / 6:19
+ ~~~~~    ACT III  <---->   (0:19)   5:44 / 6:03
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ DABF22 ]=========================== How I Spent My Strummer Vacation ===
+         CUTS:  4 seconds     GAINED: 69 seconds      21:17 / 22:26
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:21)   5:47 / 6:08
+ ~~~~~    ACT II   <---->   (0:33)   8:21 / 8:54
+ ~~~~~    ACT III  <0:04>   (0:15)   5:54 / 6:09
+
+         Marge: I'm so proud of you, Homie!
+<0:04> %        It's like you're Kid Rock, and I'm Pamela Anderson Lee Rock!
+
+         The crowd cheers for Homer to go on.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:53 / 0:53
+
+       ! The original Fox broadcast went to text credits and a smaller,
+       ! full-ratio box for the behind-the-scenes footage (except maybe for
+       ! satellite/international broadcasts?); in syndication, for this
+       ! section, the left half of the screen is squeezed yellow-on-black
+       ! MG-style credits, and the right half is a cropped version of the
+       ! footage (a 2:3 ratio instead of 4:3), so more was actually shown on
+       ! Fox. This is not what happened with CABF12; go figure.
+
+
+ ==[ DABF20 ]========================== Bart vs. Lisa vs. the Third Grade ===
+         CUTS:  0 seconds     GAINED:  2 seconds      21:17 / 21:19
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:29 / 1:29
+ ~~~~~    ACT I    <---->   (----)   7:22 / 7:22
+ ~~~~~    ACT II   <---->   (----)   6:07 / 6:07
+ ~~~~~    ACT III  <---->   (0:02)   5:31 / 5:33
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ DABF18 ]================================================ Large Marge ===
+         CUTS:  0 seconds     GAINED: 28 seconds      21:18 / 21:46
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:09)   6:52 / 7:01
+ ~~~~~    ACT II   <---->   (0:10)   7:06 / 7:16
+ ~~~~~    ACT III  <---->   (0:09)   6:10 / 6:19
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ DABF21 ]============================================= Helter Shelter ===
+         CUTS:  0 seconds     GAINED: 27 seconds      21:19 / 21:46
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   0:29 / 0:29
+ ~~~~~    ACT I    <---->   (0:08)   5:59 / 6:07
+
+       ! From the Simpsons Curse Quick Edit File:
+
+         Guy: It comes with
+       %                    Lee Marvin's
+       +                    James Coburn's
+                                           picture on the bottle!
+
+       ! The real line uses James Coburn's name and likeness; however, on
+       ! November 18, 2002, Coburn died, so for the December 1 premiere the
+       ! gag was hastily changed (the difference in voice quality is clear).
+       ! But for subsequent broadcasts, and in syndication, the original line
+       ! and picture were used. Consider James Coburn to be the correct man.
+
+
+ ~~~~~    ACT II   <---->   (0:14)   9:18 / 9:32
+ ~~~~~    ACT III  <---->   (0:05)   4:45 / 4:50
+
+       * Compression ends once they're out of the Amazon, but picks up again
+       * when the credits start rolling.
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ EABF01 ]================================== The Great Louse Detective ===
+         CUTS: 25 seconds     GAINED: 65 seconds      21:20 / 22:25
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:25 / 0:25
+ ~~~~~    ACT I    <0:25>   (0:38)   5:11 / 5:49
+
+             Homer: Don't struggle! You'll only sink faster!
+
+       % In a yoga room, a man instructs the participants (including Marge).
+       %
+       %       Man: Roll your eyes back into your head, focusing on your
+       %            breathing. You should feel a pleasant tingling.
+       % "Yes" guy: Oooh, I _do_, I _do_!
+       %
+<0:25> % The camera pans out to show that Marge is bending backward and her
+       % hair is rubbing his behind.
+       %
+       %       Man: Now, get down on all fours with your rear in the air...
+       %     Marge: [doing it] What position is this?
+       %       Man: [Carsonesque] The American taxpayer! The...American...
+       %            taxpayer. [swings an imaginary golf club]
+       %     Marge: [thoughtfully] Hmmm...
+
+         Exterior shot of Homer's steam room.
+
+
+ ~~~~~    ACT II   <---->   (0:15)   7:17 / 7:32
+ ~~~~~    ACT III  <---->   (0:12)   7:39 / 7:51
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ EABF02 ]=============================================== Special Edna ===
+         CUTS:  0 seconds     GAINED: 32 seconds      21:18 / 21:50
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:15)   8:46 / 9:01
+ ~~~~~    ACT II   <---->   (0:09)   6:00 / 6:09
+ ~~~~~    ACT III  <---->   (0:08)   5:22 / 5:30
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+       ! The bit of "Happy Together" that overlaps the credits in the
+       ! original has been removed from the start of the syndicated credits,
+       ! leaving the sound effects.
+
+
+ ==[ EABF03 ]================================ The Dad Who Knew Too Little ===
+         CUTS:  0 seconds     GAINED: 29 seconds      21:18 / 21:47
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:09)   6:33 / 6:42
+ ~~~~~    ACT II   <---->   (0:12)   8:17 / 8:29
+ ~~~~~    ACT III  <---->   (0:08)   5:18 / 5:26
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+       $ The first Fox broadcast and syndicated version have the "epilogue"
+       $ over the credits; for the second and third (free) Fox airings, this
+       $ was replaced with standard credits so that a promo could run without
+       $ cutting it short.
+
+
+ ==[ EABF04 ]================================== The Strong Arms of the Ma ===
+         CUTS:  0 seconds     GAINED:  3 seconds      21:19 / 21:22
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   0:50 / 0:50
+ ~~~~~    ACT I    <---->   (----)   5:13 / 5:13
+ ~~~~~    ACT II   <---->   (0:03)   7:37 / 7:40
+ ~~~~~    ACT III  <---->   (----)   6:51 / 6:51
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ EABF06 ]============================================== Pray Anything ===
+         CUTS:  1 seconds     GAINED: -4 seconds      21:19 / 21:15
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   0:50 / 0:50
+ ~~~~~    ACT I    <0:01>   (0:01)   5:43 / 5:44
+
+         Texan: I'm crazy as a craphouse rat for philanthrophy! Yee-haw!
+                Yee-haw-ha
+<0:01> %                  w! Aaaah-ha ha ha! [clicking heels together]
+
+         The Simpsons leave the building.
+
+
+ ~~~~~    ACT II   <---->  (-0:05)   9:06 / 9:01
+ ~~~~~    ACT III  <---->  (-0:01)   4:53 / 4:52
+ ~~~~~    ENDING   <---->   (0:01)   0:47 / 0:48
+
+       ! Shall we talk about pointless cuts? The only episode so far that
+       ! comes in at less than 21:18, and they have to change it; why? (The
+       ! expansion in act III seems to be just from the exec credits.)
+
+
+ ==[ EABF05 ]=============================================== Barting Over ===
+         CUTS:  0 seconds     GAINED: 32 seconds      21:18 / 21:50
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:12 / 1:12
+
+       ! And when I say "original opening," I mean it; the "300th episode"
+       ! caption remains here in syndication, as it did for all three Fox
+       ! airings. At least they kept the 300/302 corrective joke.
+
+ ~~~~~    ACT I    <---->   (0:09)   5:10 / 5:19
+ ~~~~~    ACT II   <---->   (0:11)   7:17 / 7:28
+ ~~~~~    ACT III  <---->   (0:12)   6:51 / 7:03
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ EABF07 ]============================== I'm Spelling as Fast as I Can ===
+         CUTS:  0 seconds     GAINED: 23 seconds      21:18 / 21:41
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+
+       ! As with EABF05, the erroneous "301st episode" caption at the start
+       ! remains in syndication (as well as all Fox airings). Thanks a lot!
+
+ ~~~~~    ACT I    <---->   (0:05)   4:45 / 4:50
+ ~~~~~    ACT II   <---->   (0:11)   9:24 / 9:35
+ ~~~~~    ACT III  <---->   (0:07)   5:59 / 6:06
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+       ! Rather than pick up in the middle of the song as usual, this episode
+       ! follows in the footsteps of 9F11 and 9F14, sort of. The music fades
+       ! out at the end of act III, but then restarts when the credits come
+       ! on. The music is compressed a little bit to fit better, but does get
+       ! cut off earlier anyway.
+
+<-5.3> + [music starts with those four notes] "I put a spell on you..."
+         "Because you're mine..." [more singing]
+         "...no runnin' around" [cut off abruptly in syndication]
+<04.3> % [music] "I can't staa-aand..."
+         [Gracie Films logo]
+
+
+ ==[ EABF08 ]======================================= A Star is Born-Again ===
+         CUTS:  0 seconds     GAINED: 32 seconds      21:18 / 21:50
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:09)   5:41 / 5:50
+ ~~~~~    ACT II   <---->   (0:14)   7:43 / 7:57
+ ~~~~~    ACT III  <---->   (0:11)   6:42 / 6:53
+
+       ! For the executive producer credits, the Benny Hill music was looped
+       ! to fill the time left by moving "Jellyfish" entirely to the rest of
+       ! the credits (without compression, unlike EABF07). See below.
+
+ ~~~~~    ENDING   <---->  (-0:02)   0:50 / 0:48
+
+<-0:05>+ ["Jellyfish" starts, as heard originally in the exec credits]
+         [the song continues]
+         "...for now, I just hold goo
+<0:03> %                             oooooo." [music fades, some silence]
+         [Gracie Films logo, overlapping "goo" in synd]
+
+
+ ==[ EABF09 ]============================== Mr. Spritz Goes to Washington ===
+         CUTS:  4 seconds     GAINED: 33 seconds      21:17 / 21:50
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <0:04>   (0:18)   9:03 / 9:21
+
+         Homer walks off the roof and screams. A crash, meow, and moo are
+         heard.
+       % In a far view of the house, looking from above the left backyard,
+       % a plane crosses overhead. Lisa waves a rake as a plane goes from the
+<0:04> % front to the back of the house.
+       %
+       % Lisa: This is not a Delta hub!
+
+         Establishing shot of airport.
+
+
+ ~~~~~    ACT II   <---->   (0:09)   5:44 / 5:53
+ ~~~~~    ACT III  <---->   (0:06)   5:20 / 5:26
+
+       * Compression starts when Krusty addresses the virtually empty room.
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ EABF10 ]=================================================== C.E.D'oh ===
+         CUTS:  1 second      GAINED: 31 seconds      21:18 / 21:49
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:10)   6:45 / 6:55
+ ~~~~~    ACT II   <0:01>   (0:13)   7:43 / 7:56
+
+         A safety shower sets a man on fire.
+<0:01> % Establishing shot of a coffee room with nothing happening, until
+         people walk out of the coffee room.
+
+
+ ~~~~~    ACT III  <---->   (0:08)   5:40 / 5:48
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ EABF11 ]============================= 'Scuse Me While I Miss the Sky ===
+         CUTS:  1 seconds     GAINED: 31 seconds      21:18 / 21:49
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:10)   6:34 / 6:44
+ ~~~~~    ACT II   <0:01>   (0:13)   8:00 / 8:13
+
+         Desmond: Does it make you feel smart to question people's motives?
+            Lisa: Yes!
+         Desmond: Well, all right, then.
+
+         Desmond signs the petition and hands it to Lisa, then confidently
+         struts away.
+<0:01> %              He continues walking like this for another second.
+         Establishing shot of Captain McAllister's boat-house.
+
+       ! This cut starts the first frame Lisa is offscreen. You crazy
+       ! syndicators!
+
+
+ ~~~~~    ACT III  <---->   (0:08)   5:34 / 5:42
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ EABF12 ]==================================== Three Gays of the Condo ===
+         CUTS:  9 seconds     GAINED: 29 seconds      21:19 / 21:48
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:10)   7:23 / 7:33
+ ~~~~~    ACT II   <0:09>   (0:19)   7:04 / 7:23
+
+          Homer: Spacious...riverview...only four hundred dollars a month!
+       %         _Thank_ you, news box! [looks, gasps; wide shot reveals:]
+       %         It's gone!
+<0:09> %
+       % Pan to Cletus dragging it behind him in his truck. Then, in closeup:
+       %
+       % Cletus: All right! I got me a place to put my spiderses!
+
+         Music starts as Homer walks past Alternative Knifestyles.
+
+
+ ~~~~~    ACT III  <---->   (----)   5:42 / 5:42
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+       * In Act III and the ending, I noticed some tiny bits of compression.
+       * It could be an issue with my VCR and computer, but it's possible
+       * that the syndicators wanted to get the time down just a little more.
+
+
+ ==[ EABF13 ]==================================== Dude, Where's My Ranch? ===
+         CUTS:  6 seconds     GAINED: 31 seconds      21:18 / 21:49
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:11)   6:21 / 6:32
+ ~~~~~    ACT II   <---->   (0:13)   7:28 / 7:41
+ ~~~~~    ACT III  <0:06>   (0:07)   6:19 / 6:26
+
+         Homer: I still hate them! [to elk] Go back to
+       %                                               Pittsburgh!
+       +                                               Grosse Pointe!
+
+       ! Anyone care to explain this one? The original Fox broadcast has
+       ! Pittsburgh; I don't know what happened in the second (of two) Fox
+       ! broadcast, but it looks like the animation is for Grosse Pointe, so
+       ! perhaps it was written that way but changed (even in closed caption)
+       ! shortly before airtime. If anyone can shed some light on it, shoot
+       ! me an email.
+
+       ! Well, update: some time ago (a few years, sorry for the delay!) I
+       ! was told by a "gregh111" that the original line referred to
+       ! Scarsdale (New York). There was a local Simpsons radio promo that
+       ! played that version of Homer's line to get the town excited about
+       ! it, in fact. (That town name matches Homer's mouth movement a lot
+       ! better than either of the other two.) Presumably, it was changed
+       ! before the premiere to avoid legal problems that might arise. It
+       ! still doesn't explain why two alternate versions exist, though. More
+       ! information would be appreciated, and when season 14 comes out on
+       ! DVD, I'll have a full writeup in the DVD guide.
+
+ ~~
+          Luke: You got a lot of chutzpah, missy...goodbye!
+       % Homer: [to Marge; both in front seat]
+       %        A lot can happen when you're lookin' the other way.
+       % Marge: You're tellin' me!
+       %
+       % She points right, and music plays as the camera pans to a headstone:
+       %
+<0:06> %    ____
+       % ._/    \_.
+       % |        |
+       % | COOKIE |
+       % | ------ |
+       % |  1912- |
+       % |  TODAY |
+       % |________| [fresh gravesite with some flowers]
+       
+         Lisa's eyes fill with tears.
+
+ ~~
+       * A little compression starts up at Moe's song.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ EABF14 ]=========================================== Old Yeller-Belly ===
+         CUTS: 28 seconds     GAINED: 32 seconds      21:18 / 21:50
+                  7F01 blackboard, 7F01 solo, original couch
+
+ ~~~~~    OPENING  <0:28>   (0:28)   0:50 / 1:18
+
+       ! Voiceless intro
+
+       % Blackboard: My pen is not a booger launcher
+       % Solo: Downward Blues #1
+
+       + Blackboard: I will not Xerox my butt
+       + Solo: Main Theme
+
+       ! A creative, if odd, way to shorten the opening. Oddly, 7F01 used the
+       ! full opening, so they still had to do some splicing; and 50-second
+       ! season 2 openings (note the four notes as Maggie pops out of the bag
+       ! instead of the more recent two) typically used a different solo, so
+       ! it seems like no work was saved (compared to using EABF14's original
+       ! blackboard and solo). And, of course, it's "voiceless" like altered
+       ! season 13 episodes, but by this I also mean there are no sound
+       ! effects at all until the couch gag.
+
+       ! Note also that the Xerox blackboard never made it to syndication
+       ! (that is, with 7F01), so EABF14 and EABF15 "make up" for it I guess.
+
+ ~~~~~    ACT I    <---->   (----)   6:55 / 6:55
+ ~~~~~    ACT II   <---->   (----)   6:24 / 6:24
+ ~~~~~    ACT III  <---->   (0:04)   6:21 / 6:25
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ EABF15 ]====================================== Brake My Wife, Please ===
+         CUTS: 14 seconds     GAINED: 31 seconds      21:18 / 21:49
+                  7F01 blackboard, 7F01 solo, original couch
+
+ ~~~~~    OPENING <-0:26>  (-0:26)   0:48 / 0:22
+
+       ! Voiceless intro
+
+       + Blackboard: I will not Xerox my butt
+       + Solo: Main Theme
+       + [no blackboard/solo in original]
+
+       ! How's this for an intro modification? This might be the only one
+       ! that was lengthened for syndication*, but of course if they'd made
+       ! fewer cuts in act I (for example, just the first one!) there would
+       ! be no need for this nonsense. (And as long as they were giving us a
+       ! random 7F01 blackboard gag, why not the alternate "potatoe" one,
+       ! which isn't on the DVD anyway?)
+
+       ! (*I was reminded later by "Senor Spielbergo" that 4F19 also used a
+       ! longer opening in syndication. Oops! In recent seasons, others have
+       ! been lengthened as well.)
+
+
+ ~~~~~    ACT I    <0:40>   (0:45)   5:21 / 6:06
+
+       ! Get ready for some world-class cuts here. This has got to be the
+       ! Jerkiest Syndicator episode of the year. Eight closely spaced tiny
+       ! cuts in about four minutes; it's not quite as bad as DABF05 or
+       ! CABF13, but still quite annoying. (The cuts' timings are rounded to
+       ! half-seconds; sometimes they were a little more but I decided to let
+       ! compression take responsibility for that.)
+
+ ~~
+         Announcer: These sea lions survive by eating the leftovers of the
+                    various film crews that plague the continent.
+
+       % Lisa (among others) watches, as the music continues.
+       %
+       %      Lisa: Hmmm...
+       %
+       % She turns and sees the door behind her to the left, with a sign
+       % above it reading "PENGUIN HABITAT" and a sign on the door that says
+       % "UNDER REPAIR."
+<0:14> %
+       %      Lisa: [excited] Hmmm!
+       %
+       % She goes to it and opens the door. Inside, three penguins circle
+       % above an inside iceberg, while others fly around more erratically.
+       % Lisa gasps. A penguin notices and quacks at another, which looks
+       % behind it. They all land and look around nonchalantly. Lisa backs
+       % out, with a disturbed look on her face. The door closes.
+         Cut to workers cleaning up a dried-out tank.
+
+ ~~
+         Man: Oh, they're well taken care of...in our storage facility!
+
+<1.5>  % The camera cuts to the storage facility, with various animals in
+       % plastic bags with water.
+                                  A man brings in a bagged octopus.
+
+ ~~
+         Marge: Well, it's 11 am on a workday, so he must be at that stupid
+                bar!
+
+<0:02> % In a wide shot of the hallway, Marge dials a pay phone.
+
+         Marge: Is my husband there?
+
+ ~~
+           Moe: Whatcha wearin'? [dial tone]
+
+       % Marge sighs by the phone. Music starts (for the length of this cut).
+       % Exterior shot of the hospital at night (an important detail!).
+<8.5>  % Inside, Marge and Lisa are bored to death (another important
+       % detail). Pan to Bart, trying to free himself by tugging.
+       %
+       %  Bart: OK, five more minutes and I'm chewing my hand off!
+
+         Homer: [walks into the room] Bart, are you OK?
+
+       ! Usually, act I cuts are made between credits; here, the credits are
+       ! moved around within the syndicated version so that they all appear,
+       ! even though some originally show up in the edited parts.
+
+ ~~
+         Announcer: He's got a nose for news, and a diaper full of headlines!
+
+<0.5>  % The back of a chair is seen (with silence).
+                                                     A man walks in.
+
+               Man: Hey, Chief!
+
+ ~~
+         Woman: Hush up, Nana, that's fool talk!
+
+       % Homer whimpers, smacking his forehead once. Three seconds later, he
+<11.5> % hears a screech from the chimp, laughs insanely for five seconds,
+       % and looks back at the other monitor. Homer continues whimpering; it
+       % sounds like "she's so wise,
+                                     oh no, he's got a better best friend."
+
+         Homer: [laughs insanely at a screech] Look, he's misspelling words!
+
+ ~~
+         Homer drives down the road.
+       % Inside the car, he's actually looking at the road, but then:
+<1.5>  %
+       % Homer: DVD player...check.
+                                    Show cone machine? Check. Lite Brite?
+
+         Homer flips the Lite Brite on,
+<0.5>  %                                and the camera lingers on it.
+
+         Homer: Check.
+
+       ! You can see Homer take his eyes off the DVD player in syndication.
+
+
+ ~~~~~    ACT II   <---->   (0:05)   6:45 / 6:50
+ ~~~~~    ACT III  <---->   (0:07)   7:36 / 7:43
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ EABF16 ]============================================ The Bart of War ===
+         CUTS: 27 seconds     GAINED: 33 seconds      21:18 / 21:51
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:27>   (0:27)   0:23 / 0:50
+
+       ! Voiceless intro
+
+       % Blackboard: Sandwiches should not contain sand
+       % Solo: Downward Blues #1
+
+ ~~~~~    ACT I    <---->   (----)   5:27 / 5:27
+ ~~~~~    ACT II   <---->   (0:06)   7:15 / 7:21
+ ~~~~~    ACT III  <---->   (----)   7:25 / 7:25
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ EABF17 ]============================================= Moe Baby Blues ===
+         CUTS:  5 seconds     GAINED: 30 seconds      21:18 / 21:48
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:09)   5:14 / 5:23
+ ~~~~~    ACT II   <0:05>   (0:16)   8:46 / 9:02
+
+         Homer: Get out!
+           Moe: Get out, that...that...OK. Ugh! [slinks out the window]
+<0:05> %        [image remains still] Maybe I can catch a late show of "Alice
+       %        in Underpants"...or maybe "Put 'em on the Looking Glass"!
+
+         The act ends.
+
+
+ ~~~~~    ACT III  <---->   (0:05)   6:08 / 6:13
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ ------ ]================================================================

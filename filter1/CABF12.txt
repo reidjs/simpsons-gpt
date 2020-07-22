@@ -1,0 +1,552 @@
+% The Simpsons are watching a TV show about great moments in Olympic
+% history.  1936:  Jesse Owens out-races Hitler's zeppelin, and the
+% enraged dictator stomps angrily out of the stadium.  1968:  Bob
+% Beamon breaks the long-jump record, infuriating an aged Hitler.
+% 1984:  Carlos Lopez, at age 38, becomes the oldest man to win the
+% gold medal for the marathon, only to fall off the podium when he
+% receives his medal.  (Hitler wasn't around for this one.)  Homer is
+% inspired.
+
+Homer:	Thirty-eight!  That's roughly my age!  Marge, after a lot
+	of thought, I've decided to run the Springfield marathon.
+Marge:	Oh, please.  You get exhausted watching the "Twilight
+	Zone" marathon.  [laughs] I'm a regular Billy Crystal!
+Bart:	You got that right.
+-- "New Kids on the Blecch"
+
+% Lisa offers some words of encouragement, which go unappreciated.
+% Homer, indeed, seems to have lost track of the conversation; instead
+% of vowing to run a marathon, he says he'll swap jobs with Marge, to
+% see who has it tougher.
+%
+% Marathon day arrives.
+
+Good afternoon, and welcome to the 97th Springfield marathon,
+commemorating the time Jebediah Springfield ran across six states to
+avoid his creditors.
+-- Kent Brockman, "New Kids on the Blecch"
+
+% Homer, true to his word, has entered the marathon.  He and Lisa do a
+% quick pre-race equipment check.  Everything is in place.  Chief
+% Wiggum fires the starting gun, and the runners take off.
+
+Homer:	[running] I can't believe it!  I'm actually running a
+	marathon.  [clutches his chest] Argh, I hit the wall!
+	This is so painful!  [the pain subsides] Hey, I got my
+	second wind!  [clutches his chest again] Owgh, another
+	wall, I can't ... [pain subsides] Woo hoo!  Third wind!
+-- "New Kids on the Blecch"
+
+% Some other people we know, like Smithers, are also in the running.
+% A whip from offscreen smacks him smartly on the back.  The camera
+% angle changes to reveal that he is pulling Mr. Burns in a rickshaw.
+
+Burns:		[whips Smithers] Faster, rickshaw driver, faster!
+		[whips Smithers]
+Smithers:	Sir, the whip isn't helping.
+Burns:		Silence!  You call yourself a Chinaman? [*]  [whips
+		Smithers again]
+-- "New Kids on the Blecch"
+
+[*] Replaced in subsequent airings by, "You call yourself Chinese?"
+    Most likely, this is because the original line was thought to have
+    racist overtones.
+
+% CBG runs the marathon dressed as comic-book hero The Flash.
+
+CBG:	No one can outrun The Flash.
+	[runs into an open manhole, and becomes stuck]
+	Curses!  One of my super-foes has set a trap for me.
+	[tries to un-stick himself]
+-- "New Kids on the Blecch"
+
+% It looks like even Grampa Simpson has joined the race, but it's
+% actually Homer, in a state of dehydration.
+%
+% Eventually, the race nears the finish line.
+
+And with five hundred yards to go, the runners from Australia and
+Djibouti are neck-and-neck.  Two weary warriors, now burning with pain
+and exhaustion.  But only one will win the grand prize -- a walking
+tour of Springfield.
+-- Kent Brockman, "New Kids on the Blecch"
+
+% Bart decides to go for the prize himself.  He puts on a bushy fake
+% moustache, runs onto the course, and crosses the finish line just
+% ahead or those suckers who started at the beginning.  Using a
+% pidgin-Italian accent, he thanks the crowd.  As Bart accepts the
+% trophy, a bird plucks off his moustache and flies away with it.
+
+Runner 1:	He's a phony!
+Runner 2:	Lousy cheater!
+Mel:		I demand a re-race.  [crowd groans loudly]
+Moe:		I have a better idea.  Let's have a fun-run -- on
+		his trachea!
+-- Great moments in marathon history, "New Kids on the Blecch"
+
+% The mob chases Bart and corners him.  A man in a convertible pulls
+% up and orders Bart to get in.  Bart considers which is riskier:
+% Getting in a car with a stranger, or facing a murderous mob.  He
+% rolls the dice and accepts the ride, tossing his trophy aside.  The
+% mob goes after it as Bart escapes.
+
+Bart:	Who are you?
+Smash:	Aw, you'll find out in due time.
+Bart:	[reading an ID badge hanging from the mirror]
+	Well, it says here your name is L. T. Smash.
+Smash:	The time has come.  I'm L. T. Smash.
+-- Timing is everything, "New Kids on the Blecch"
+
+% L. T. and the Simpson family relax in the living room.
+
+Marge:	Thank you so much for saving my son from that murderous
+	mob.
+Smash:	Well, thank you for letting me chill in your crib.
+Homer:	And thank you for assuming we're hip.
+Smash:	Har.  Now here's the 4-1-1.  I'm a record producer, see?
+	I'm starting a new boy band, and there's a place in it for
+	Bart.
+Marge:	My Bart?
+Smash:	Oh, yeah.  That stunt he pulled at the race shows me he's
+	the bad boy I'm looking for.  [laughs and tousles Bart's
+	hair]
+Homer:	Now listen to me, Smash.  We're not signing anything --
+	unless it's a contract.
+Marge:	Why do you want Bart?  He's not much of a singer.
+Smash:	Marge, it's not the singing that brings in the Sacagaweas.
+	Bart's a rebel.  That's what I need for my new band -- the
+	Party Posse.  [produces a contract.  Homer goes to sign
+	it, but Marge stops him]
+Marge:	Now, hold on; I have some concerns.
+Bart:	Please, Mom.  My dream is to be a rock star.
+Homer:	And my dream is to get rid of Bart.
+Marge:	But ...
+Homer:	How many lives must you ruin?
+Marge:	[indignant] Oh, okay.  [signs the contract]
+-- Is this how Elvis got started?  "New Kids on the Blecch"
+
+% [End of Act One.  Time:  4:52]
+%
+% L. T. introduces Bart to his fellow bandmates.  He leads the boy
+% into a dressing room, where a row of high-backed chairs faces a
+% mirror.
+
+Smash:		I want you to meet and greet the other members of
+		the Party Posse.  He's smart, he's soulful, he's
+		Milhouse!  [someone spins a chair around to reveal
+		Milhouse, with a new haircut and hipper clothing]
+Milhouse:	What up, G-money?
+Smash:		Next:  He'll break your nose, your glasses, and your
+		heart -- Nelson.  [spins chair to reveal Nelson]
+Bart:		Wait, these are just guys from school.  Who's next,
+		Ralph Wiggum?
+Ralph:		[spins his own chair around] Whee!  I'm a pop
+		sensation!
+Smash:		And I'm the mack daddy behind such groups as, "New
+		Kids in the Ditch," and "Boynudo."  I'm going to
+		make you stars.
+-- He's the next Simon Cowell, "New Kids on the Blecch"
+
+% It's going to take more than just Smash to make these boys stars.
+% It's also going to take the help of a professional choreographer,
+% who teaches the boys the proper way to bust a move.  The boys are
+% quick studies; soon their 'tudes are fly and their threads are dope.
+% But as for their singing ... well, that's another question
+% altogether.  Smash hands the boys some sheet music.
+
+Bart:		[reading aloud] Party Posse, we rule the earth,
+		The greatest band since music's birth?
+Nelson:		Isn't this song a little boastful?
+Milhouse:	No one told me there was going to be boasting.
+Smash:		Just take it from the top.
+Posse:		[singing, if you can call it that]
+		Party Posse, we rule the earth,
+		The greatest band since music's birth.
+Smash:		[to himself] Eugh.  [walks to a voice-enhancement
+		machine] Thank you, NASA.  [starts the machine,
+		which also causes some backing music to be played]
+Milhouse:	[singing well] We love to sweat, and we love to
+		sing.
+Nelson:		We're real funky, but not threatening.
+Ralph:		We're the best band in the world,
+Bart:		But we'd give it all up for that special girl.
+Posse:		You're my special girl.
+	                         Special girl.
+		[the choreographer is flushed]
+Posse:		Special girl, Only you-u-u.
+-- Making the band, "New Kids on the Blecch"
+
+% Party Posse makes their debut at Springfield Elementary, which has
+% called for a school assembly.
+
+Skinner:	... so from now on, anything caught in your zipper
+		will be handled by the school nurse, and not me.
+		And now ... are you adequately prepared to rock?
+		[audience cheers]
+		Silence!  [they're quiet] Here they are -- the Party
+		Posse!
+		[the curtain rises revealing the boys.  The audience
+		cheers]
+Bart:		Hello, Springfield!  Now here's a song that your
+		principal Skinner doesn't want us to play.
+		[audience boos]
+Skinner:	That's not true!  This assembly was my idea.  I like
+		your brand of inoffensive pop-rock.
+Bart:		Screw you, man!  We're going to play it anyway!
+		[audience cheers as Skinner looks glum]
+		[the song begins]
+Bart:		I saw you last night at the spelling bee.
+Milhouse:	I knew right then that it was L-U-V.
+Nelson:		I gotta spell out what you mean to me,
+Ralph:		'Cause I can no longer be ... a silent "G."
+Posse:		I've got to spell out what ...
+Ralph:	                      I've got to spell out ...
+Posse: 		I've got to spell out what you mean to me.
+-- "New Kids on the Blecch"
+
+% Skinner and Smash watch from back stage.
+
+Smash:		Man, they're gonna be big.  And you stood in their
+		way.
+Skinner:	No, I didn't.  I even came in early and made orange
+		drink.
+Smash:		Orange drink?  What, do you live with your momma?
+Skinner:	*She* lives with *me.*
+-- A subtle distinction, "New Kids on the Blecch"
+
+% The boys wind down after their concert.  Suddenly, 'N Sync drops by
+% to congratulate them.  They walk over to the Party Posse members to
+% the accompaniment of dance-pop music that magically comes from
+% nowhere.
+
+Justin:	Word.
+Nelson:	What brings you to Springfield?
+Lance:	We saw your Band Formation Notice in the paper.
+Bart:	Really?  You saw our BFN?
+Justin:	I can't believe I'm meeting Milhouse.  Word.
+Chris:	So anyway, we brought you this wicked gift basket.
+J. C.:	Stubble glitter, a crowd taser ...
+Bart:	Crowd taser?
+J. C:	Yeah.  It's perfect for getting through the crowds to your
+	limousine.  [Justin grabs it and zaps Joey]
+Joey:	Yow!
+Lance:	Dudes, we gotta go.  Our clothes are getting a little out
+	of date.
+Chris:	To Bandana Republic!
+Justin:	Word.
+	[the music plays again, and 'N Sync leaves]
+Bart:	Now we've got to get them a basket.
+-- "New Kids on the Blecch"
+
+% Bart gets a back massage in the living room, over Lisa's objections.
+% Homer hushes his kids up, for he does not want to miss Cienega's VJ
+% prattle.  After a bit of said prattle, Cienega introduces what we're
+% here to see:  Party Posse's first music video, "Drop Da Bomb."
+
+Posse:		[singing]
+		Oh, say can you ro-o-o-ck!
+		[the Posse members each fly in on a fighter jet]
+Milhouse:	There's trouble in a far-off nation,
+Ralph:		Time to get in love formation,
+Bart:		Your love's more deadly than Saddam,
+Nelson:		That's why I gotta drop da bomb!
+		[they do so.  Bombs labeled "PP" drop toward a small
+		group of Iraqi soldiers]
+Commander:	Party Posse!
+		[they are blown to smithereens]
+		[as the flash from the explosion dies down, we see
+		trio of pretty belly-dancing girls]
+Girls:		[singing]
+		Ee-van eht niojh.  Ee-van eht niojh.  Ee-van eht
+		niojh -- eht niojh!
+		[cut back to living room]
+Homer:		[singing off-key]  Ee-van eht niojh -- you gotta
+		love that crazy chorus.
+Lisa:		What does it mean?
+Homer:		Ah, it doesn't mean anything.  It's like, "rama-
+		lama-ding-dong," or, "Give peace a chance."
+		[back to the video.  The boys are parachuting to the
+		earth.  (Which is much easier than parachuting away
+		from it, now that I think about it)]
+Nelson:		[singing]
+		This party's happening; it's no mirage,
+Bart:		So, sing it again, ee-van eht niojh!
+Girls:		Ee-van eht niojh.  Ee-van eht niojh.
+		[the boys put up a tetherball pole, looking a little
+		like the famous Iwo Jima Marines in the process.
+		Party Posse and some women play a quick game of
+		tetherball, and then race off into the desert on a
+		dune buggy]
+-- "Drop Da Bomb," by ... "New Kids on the Blecch"
+
+% Lisa intuits that there's something fishy about the video, but can't
+% put her finger on what it is.  Later, she's watching the video in
+% her room, trying to puzzle out the meaning behind the "Ee-van eht
+% niojh" chorus.  Something flickers on the screen.  Lisa backs the
+% tape up and runs it again slowly to take a better look.  She's
+% surprised to see that it's the famous "I Want You" recruiting poster
+% with Uncle Sam.  Playing the tape backwards, and with the sound on,
+% she discovers that "Ee-van eht niojh" is the reverse of, "Join the
+% Navy."
+
+Lisa:	[gasps] They're recruiting people with subliminal
+	messages!
+	[outside, a horn honks.  Otto is about to board a bus for
+	the nearest naval base.  Lisa shouts out of her window]
+	Otto, what are you doing?
+Otto:	I dunno.  I just got an urge to join the Navy.
+Lisa:	You're being brainwashed!
+Otto:	Yeah, probably.  Ee-van eht niojh!  [gets on the bus,
+	which drives away]
+"hccelB eht no sdiK weN" ,rekaerbedoc retsam ,nospmiS asiL --
+
+% [End of Act Two.  Time:  12:10]
+%
+% Lisa goes to warn L. T. Smash that his band is being used as a
+% clandestine recruiting tool by the government.
+
+Lisa:	L. T., thank God you're here.  The government's playing
+	subliminal messages in your videos!
+Smash:	Subliminal messages?  Do you have any idea of how insane
+	that sounds?
+	[Lisa notices an anchor tattoo on Smash's arm]
+Lisa:	Is that a Navy tattoo?
+Smash:	A Navy tattoo?  Do you have any idea of how insane that
+	sounds?
+	[an electric fan stirs up a breeze that causes Smash's
+	shirt to flop open, revealing a large tattoo of a ship and
+	the slogan, "I [heart] THE NAVY".  Lisa gasps.  Then she
+	notices that the first period in Smash's "L. T. Smash"
+	nameplate is just pasted on.  She peels it off, revealing
+	"LT. Smash".
+Lisa:	Lieutenant Smash?
+Smash:	Yeah, that's right.  Lieutenant L. T. Smash.  [pulls off
+	his crew-cut wig, revealing an even shorter crew-cut]
+Lisa:	A wig!  But, but your pant legs ...
+	[Smash pulls a couple of ripcords on his waistline.  His
+	pant legs spread out, revealing the traditional flared
+	effect that Naval uniforms have]
+	Oh, how could you soil the good name of Star Blitzzz
+	Promotions?
+Smash:	Oh, come on, Lisa, we've always used pop stars to recruit
+	people, going back to Elvis [shows Lisa a picture of
+	Elvis's Army days].  Then there was Sgt. Pepper's [show
+	the Beatles, in Sgt. Pepper uniforms, attacking a dummy],
+	The Captain and Tenille, and the KISS Army.
+Lisa:	But you have recruiting ads on TV.  Why do you need
+	subliminal messages?
+Smash:	It's a three-pronged attack.  Subliminal, liminal, and
+	superliminal.
+Lisa:	Superliminal?
+Smash:	I'll show you.  [opens the window, and shouts at Lenny and
+	Carl, who are standing on the corner] Hey, you!  Join the
+	Navy!
+Carl:	Uh, yeah, all right.
+Lenny:	I'm in.
+-- Different strokes for different folks, "New Kids on the Blecch"
+
+% "Well, know that you know," Smash says ominously, "I'm afraid I
+% can't let you leave."  But Lisa has already left.
+%
+% She may be able to spread the news, but getting people to believe it
+% is harder.  Marge suspects that Lisa is just jealous.  Homer says
+% playfully, "Here comes the jealousy bug" and mock-attacks Lisa, but
+% she rebuffs him.  Homer wants to go home, but Marge insists that
+% they go to Bart's concert, as planned.
+%
+% Fitting in with the Naval theme, the show is being held on a
+% decommissioned aircraft carrier.
+%
+% Smash is the emcee, and introduces the Party Posse.
+
+Smash:		Good afternoon, and welcome to the USS Sea Spanker.
+		Are you ready to tear it up?  [audience cheers]
+		I can't hear you.  [audience cheers louder]
+		Do you maggots want to see a show, or not?
+		[audience is confused] Uh, I mean, uh, uh, here they
+		are -- the Party Posse!  [audience cheers, and the
+		music begins]
+		[a radar dish spins around, revealing Milhouse.  He
+		jumps onto the stage]
+Milhouse:	Had a girl in every port,
+		from here to Barcelona,
+		[Nelson uses a net to slingshot himself onto the
+		stage]
+Nelson:		But now I got to Springfield,
+		and girl, I'm gonna phone ya.
+		[Ralph parachutes in]
+Ralph:		I've stormed a lot of beaches,
+		but you're the one that I miss,
+		[Bart straddles a large battleship gun]
+Bart:		Let's get back together, girl,
+		Let's re-enlist.  [the gun fires]
+		[speaking] Ow!  Hot, hot, hot!
+		[he slides off the gun onto the stage]
+Posse:		So sign me up, for a hitch of love,
+		Recruit my heart; four sweet years of love.
+-- "New Kids on the Blecch"
+
+% Bart asks everyone to "ball-walk," and the audience does so.  In Lt.
+% Smash's mind the children, dancing in unison, turn into soldiers
+% marching in formation.  They do battle with hippies riding a giant
+% praying mantis.  The hippies, shouting anti-American slogans, fire
+% flowers back at the soldiers.  One man takes a hit.
+%
+% One of Smash's superior officers jolts him back to reality.
+
+Admiral:	Lieutenant!  Lt. Smash!
+Smash:		Oh, Admiral.
+Admiral:	That hippie fantasy again?
+Smash:		They're getting less frequent, sir.
+Admiral:	Excellent.  [the two men walk onto the bridge of the
+		ship.  The admiral closes the door behind them]
+		Well, there's no easy way to say this.  The new
+		administration is shutting down Project Boy Band.
+Smash:		Shutting it down?  Permission to say that's crazy,
+		sir.
+Admiral:	You won't say it's crazy when you see next week's
+		issue of "Mad Magazine."  [holds up an advance copy,
+		which reads, "We flush the Party Posse"]
+Smash:		Oh, dear God.
+-- They don't care whose toes they step on, "New Kids on the Blecch"
+
+% The Admiral goes onto say that when the magazine hits the stands,
+% Party Posse "will have as much recruiting power as a wax apple."  He
+% uses a pistol to throw the switch on the boys' voice-enhancement
+% machine, turning it off.  In mid-song, Party Posse stops sounding
+% like 'N Sync, and starts sounding like a bunch of elementary-school
+% boys.  Musically challenged elementary-school boys, at that.
+%
+% L. T. Smash takes the pistol from the admiral, and uses the barrel
+% to flip a switch re-activating the aircraft carrier.  It pulls free
+% of its moorings, and the sudden motion throws the Admiral overboard.
+% Most of the audience literally jumps ship.  Soon, the only people on
+% board are Smash, the Posse, and Homer, who returns from the
+% bathroom.
+
+Homer:	So, what songs did I miss?
+Bart:	Dad, L. T.'s gone crazy.
+	[Homer looks at the ship's bridge, where Smash laughs
+	maniacally]
+Homer:	Yeah, that's the look.  [laughs]
+-- "New Kids on the Blecch"
+
+% The ship steams ahead to destinations unknown.
+
+Bart:	Think he's going to do something dangerous?
+Nelson:	How should I know?  Just keep loading missiles.  [loads
+	one into a launcher]
+Ralph:	[carrying a missile] Pop music's hard work.
+-- It's not just a job, it's an adventure, "New Kids on the Blecch"
+
+% The ship passes the Statue of Liberty, which is still not enough for
+% Milhouse to figure out where he is.  Smash tells Posse what their
+% designated target is:  The offices of Mad.  Homer and the boys gasp
+% in horror.  "Not Mad!" says Homer, "That's our nation's largest
+% mental-illness-themed humor magazine."
+%
+% Oblivious to the approaching danger, the writers plan their next
+% witty satire.
+
+Writer 1:	Why don't we call it, "Everyone Hates Raymond."
+		[the writers laugh]
+Writer 2:	Well, we stayed up all night, but it was worth it.
+-- And that's how they came to be #1, "New Kids on the Blecch"
+
+% The Party Posse realizes Smash has to be stopped.
+
+Nelson:		We can't let L. T. blow up Mad.  Tina Brown was just
+		starting to turn it around.
+Milhouse:	We gotta mellow him out.
+Bart:		But how?  We would need the ultimate chill-out song.
+Ralph:		And fast!
+		[as that music plays again, 'N Sync approaches the
+		Sea Spanker in their speedboat.  It leaps in the air
+		and lands on the carrier's deck]
+Lance:		We heard what you said!
+Joey:		Yeah, heard it old-school!
+Milhouse:	It's 'N Sync!
+Justin:		Can the chit-chat, Milhouse.  We got just the song
+		you need to defuse this whack attack.
+Joey:		Defuse it old-school!
+Homer:		About time.
+		[J. C. jots something down on paper, hands and hands
+		it to Bart]
+Milhouse:	Radical!
+Nelson:		Awesome!
+Ralph:		I can't read!
+Nelson:		I can't sing without dancing.
+J. C.:		Fine.
+'N Sync:	[demonstrating the moves as they name them] Thrust,
+		spin, turn.  Pivot, pout, jiggy.  Jiggy, robot, do-
+		se-do.
+Lance:		And close with a Matrix.  [pull that "Matrix" move
+		where they hold their position in mid-air.  Chris
+		falls down]
+Nelson:		Nobody pouts going into a jiggy.
+Milhouse:	Yeah, that's stupid.
+Ralph:		I wanna twirl.
+Bart:		Aw, come on, guys.  We've only got a few minutes ... 
+		[missiles fly past] Uh-oh.
+-- Never mind, "New Kids on the Blecch"
+
+% The missiles blow up the Mad building.  Miraculously, no one is
+% hurt.  (One guy even says he feels better.)
+%
+% The authorities arrive to take Smash into custody.
+
+Smash:	Well, boys, the Party Posse is over, but at least I saved
+	you from a public spoofing.
+	[copies of the new "Mad" magazine float down onto the
+	carrier deck]
+Bart:	Aw, man, we could have been on the cover of "Mad."
+Nelson:	[reading a copy] They called me, "Smellson."  Ha-ha!
+	[all but Smash laugh]
+Homer:	"Smellson" -- it's funny because you smell.  [laughs]
+Smash:	"Smellson."  I could have thought of that.
+Cop:	Sure you could have.  Off you go, now.  [they lead Smash
+	away]
+-- "New Kids on the Blecch"
+
+% Meanwhile, 'N Sync convenes on the bridge of the Sea Spanker.
+
+Justin:	You know, we've had a lot of fun tonight, at the expense
+	of the U. S. Navy.
+Lance:	But they're out there every day protecting us from
+	Godzilla.
+Chris:	And don't forget pirates!
+J. C.:	And jellyfish.
+Joey:	Those whack invertebrates will sting you, old-school!
+Justin:	So check out the Navy for a two, or four-year hitch.
+Lance:	We signed J. C. up yesterday.
+J. C.:	What?  [shore police men drag away J. C.] Noooo!
+-- 'N Sync practices what they preach, "New Kids on the Blecch"
+
+% Cut to the credits, as Party Posse's backup singers sing an
+% inspiring refrain of "Join the Navy."
+%
+% It may be the end of the third act, but not the end of the fun, for
+% now we get to see 'N Sync recording their lines and goofing around
+% in the studio.
+
+Milhouse:	It's 'N Sync!
+		[Chris plays the "Simpson" theme on what I guess is
+		a pitch-pipe.  The people in the studio laugh]
+Justin:		I can't believe I'm meeting Milhouse.
+Joey:		Yeah, heard it old-school!  [laughs]
+J. C.:		Noooo!
+Lance:		Bart was so cool.  Real short.  He's about this
+		tall.  [makes a gesture to indicate someone really
+		short]
+Bart:		Don't print that.
+		[more pitch-pipe playing.  The people in the room
+		applaud as he finishes up]
+Justin:		Word.  It just sounds like something I would say.
+-- "New Kids on the Blecch"
+
+% The normal Gracie shush and production logos follow.
+%
+% [End of Act Three.  Time, including closing credits: 21:04]
+
+
+<|endoftext|>

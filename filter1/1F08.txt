@@ -1,0 +1,738 @@
+% [Syndication cuts are marked in curly braces "{}" and are courtesy of
+% Ricardo Lafaurie and Frederic Briere.]
+%
+% An old newsreel film is shown.
+
+The News On Parade Corporation presents "News On Parade Corporation
+News".
+-- A newsreel's introduction, "$pringfield"
+
+% The narrator continues: "Bringing you the world of current events," as
+% an atomic bomb explodes in the background and a smiling soldier in the
+% foreground collapses, "new gadgets," showing a family watching a train
+% approach them on a small television; they raise their hands in fright
+% when the train reaches the camera, "and Hollywood. look: it's Amos
+% from radio's 'Amos and Andy'!" the narrator says, and Amos greets us:
+% "Hello, everybody!"
+
+Springfield: City On the Grow.  It's a proud day as Springfield is
+declared one of America's four hundred fastest-growing cities.
+And why not?  Business is booming!  Half the country wears Springfield
+galoshes.  And say hello to the state's first Aqua-Car factory.  Keep
+'em coming, boys!
+The city's even in the celebrity business.  Everyone knows Professor
+Rubbermouth hails from Springfield.
+Everybody's chipping in; even this fellow [a dog with pulling a wagon
+with a sign, "I'll pull for Springfield"] has Springfield's can-do
+spirit.
+So watch out, Utica: Springfield is a City On the...Grow!
+-- Shameless newsreel tourism plugs, "$pringfield"
+
+% The newsreel ends, and a young Abe and Jasper walk out of the theater.
+
+   Abe: Hah!  The way people act around here, you'd think the streets
+        were paved with gold.
+Jasper: They are.
+-- Logical conclusions, "$pringfield"
+
+% As if to prove Jasper's point, a car tries unsuccessfully to brake,
+% but the shiny street surface is too slippery.
+%
+% 1993 fades in and Abe and Jasper age forty years in a blink.  The
+% formerly tranquil background is polluted with gunfire and a siren.
+% The two old men encounter a street bum.
+
+Bum: Got any spare change, man?
+Abe: Yes!  And you ain't gettin' it.  Everybody wants something for
+     nothing.
+      [Abe walks into the social security building] I'm old: gimme gimme
+     gimme!
+-- Everybody indeed, "$pringfield"
+
+% At the power plant, Homer is in the bathroom, humming.
+
+Hey!  _There's_ something you don't see in a toilet every day.
+-- Homer at the power plant, "$pringfield"
+
+% It's a pair of horn-rimmed glasses.
+
+Homer: Anyone lose their glasses?  [no one answers]
+       Last chance!  [still no one answers]
+       Woo-hoo!
+        [Homer fishes the glasses out of the toilet.  He puts them on]
+       The sum of the square roots of any two sides of an isosceles
+       triangle is equal to the square root of the remaining side.
+  Man: That's a _right_ triangle, you idiot!
+Homer: D'oh!
+-- Reverting to Homercles the Greek, "$pringfield"
+
+% Mr. Burns says farewell to a distinguished guest.
+
+   Burns: Thank you so much for visiting our plant, Dr. Kissinger.
+   Henry: It was fun.
+Smithers: We'll let you know if your glasses turn up.
+   Henry: Er, yes, well, I'm sure I left them in the car.  [sotto voce]
+          No one must know I dropped them in the toilet; not I, the man
+          who drafted the Paris Peace Accord.
+-- Material for the National Enquirer, "$pringfield"
+
+% Burns and Smithers grunt awkwardly for a few seconds, eventually
+% closing the door on Dr. Kissinger.
+
+Smithers: Sir, bad news from accounting: the economy's hit us pretty
+          hard.
+   Burns: Heh, tough times, huh?  I've lived through twelve recessions,
+          eight panics, and five years of McKinleynomics.  I'll survive
+          this.
+Smithers: Even so, sir, we _could_ stand to lay off a few employees.
+   Burns: [enthusiastic] Oh, very well!  [points at some monitors] Lay
+          off him, him, him, him --
+           [sees Homer wearing Kissinger's glasses]
+          Hmm...better keep the egghead.  He just might come in handy.
+-- An effective disguise, "$pringfield"
+
+% Lisa tries to dissuade Homer.
+
+ Lisa: Dad, you shouldn't wear glasses that weren't prescribed for you.
+Homer: [to Bart] Lisa, just because you're ten feet tall doesn't mean
+       you can tell me what to do.
+ Bart: I'm Bart.
+ Lisa: [snatching them] Gimme those!
+Scott: And finally, Henry Kissinger was hospitalized today after walking
+       into a wall.
+-- Cause and effect, "$pringfield"
+
+ Scott: And now over to Kent Brockman for some grim economic news.
+  Kent: Scott, things aren't as happy as they used to be down here at
+        the unemployment office.  Joblessness is no longer just for
+        philosophy majors.  _Useful_ people are starting to feel the
+        pinch.
+Barney: I haven't been able to find a job in six years.
+  Kent: Hmph.  And what training do you have?
+Barney: Five years of modern dance, six years of tap.
+-- Have you considered Broadway?, "$pringfield"
+
+The economic slump began last spring when the government closed Fort
+Springfield, devastating the city's liquor and prostitution industries.
+ [Shot shows prostitutes holding signs]
+Now, at the risk of being unpopular, this reporter places the blame
+squarely on you, the viewers!
+-- Kent Brockman editorializes, "$pringfield"
+
+% A town meeting is held to decide how to handle the economic slump.
+
+  Quimby: I propose that I use what's left of the town treasury to move
+          to a more prosperous town and run for mayor.  And, er, once
+          elected, I will send for the rest of you.
+Audience: Boo!
+    Lisa: Excuse me, Mr. Mayor --
+  Quimby: The chair recognizes the little chick with the gleam of hope
+          in her eyes.
+    Lisa: This piggy bank contains fifteen dollars I've saved from my
+          allowance.  It isn't much, but I would like to help.
+  Quimby: Aw, just what I need to tip the skycaps.
+-- The Mayor distinguishes himself, "$pringfield"
+
+I'll tell you what made this town great!  Good old-fashioned gumption.
+there's nothing here a little elbow-grease won't fix.  So let's roll up
+our sleeves and -- [falls asleep standing up]
+-- Abe's pep rally, ruined by narcolepsy, "$pringfield"
+
+% Mayor Quimby doesn't agree.
+
+ Quimby: People, people: let's be a little more realistic.
+Skinner: Now, I, uh, hesitate to bring this up, but a number of cities
+         have rejuvenated their economies with, er, legalized gambling.
+          [Everyone talks excitedly]
+         There _is_ an added bonus: some of the revenue can go to help
+         our underfunded public schools.
+          [Everyone stares stonily]
+  Patty: {Well, I liked the part about the gambling.}
+-- Principal Skinner: one for two, "$pringfield"
+
+% Just to make sure it's OK with God, Ned checks with Rev. Lovejoy.
+
+     Ned: What do you think, reverend?
+ Lovejoy: Once something has been approved by the government, it's no
+          longer immoral.
+Audience: Yay!
+   Burns: By building a casino, I could tighten my stranglehold on this
+          dismal town!
+Audience: Yay!
+  Barney: {[burps]}
+Audience: {Yay!}
+-- No one fickle here, "$pringfield"
+
+% Quimby bangs his gavel to restore order.
+
+  Quimby: Well now, are there any objections?
+           [Everyone grumbles, "Marge Simpson..."]
+   Marge: Actually, I think it might really help our economy.
+           [Everyone sounds surprised]
+  Quimby: Very well, then: instead of fleeing this town, I'll sit back
+          and grow fat off kickbacks and slush funds.
+Audience: Yay!
+-- And everyone is happy!, "$pringfield"
+
+% The audience departs, cheering.
+
+Marge: This could be a whole new beginning for Springfield.
+Homer: And you know what the best part is?  We've really done something
+       for the children.
+-- Advantages of legalized gambling, "$pringfield"
+
+% [End of Act One.  Time: 5:27]
+%
+% Mayor Quimby takes Mr. Burns for a stroll along the prospective site
+% for the new casino.
+
+ Quimby: We're thrilled you've decided to build your casino on our
+         waterfront.
+  Burns: Oh, I'll never forget my carefree boyhood days on this old
+         boardwalk.
+          [flashback to Mr. Burns driving a bumper car -- straight into
+         the legs of a workman]
+Workman: Why you -- oh!  Master Burns.  I mean, carry on!
+          [Young Burns smashes him repeatedly] Ah!  Oh!  Ow!  Oh, me
+         leg's gone gimpy.  Who will provide for me little ones?
+-- Burns the sadist, "$pringfield"
+
+% Young Burns laughs evilly, and old Burns laughs as he remembers.  His
+% laughter continues in the shower later that day, in bed that night, in
+% church on Sunday, and at his desk on Monday as he pounds his desk in
+% merriment.  "What was I laughing at now?...Oh yes, that crippled
+% Irishman!"  He breaks into hysterical mirth again.
+
+  Smithers: Sir, the designers are here with some prototypes for your
+            casino.
+      Brit: Gentlemen, I give you Brittania!  Gambling with all the
+            glitz and glamour of the British Isles.  Best of all, the
+            waitresses and showgirls are all real Brits -- fresh from
+            the streets of Sussex, they are.
+     Woman: Freshen your drink, Guv'ner?
+     Burns: Get out.
+     Hippy: OK, all right, wait, now -- now dig this, man --
+     Burns: Get out.
+     Hippy: Ho ho, wow, oh, let me just get my head together.
+     Burns: Now!
+McAllister: I'll need three ships and fifty stout men.  We'll sail
+            'round the Horn and return with spices and silk, the likes
+            of which ye have never seen.
+     Burns: We're building a casino!
+McAllister: Arr...can you give me five minutes?
+-- One bad design after another, "$pringfield"
+
+% Mr. Burns is unimpressed.  "Idiots.  I'll design it myself!  I know
+% what people like: it's got to have sex appeal and a catchy name."  He
+% calls it "Mr. Burns' Casino", and makes a giant mermaid statue of
+% himself in the center of a fountain.
+%
+% Lisa talks to Marge at home.
+
+ Lisa: Mom, we're having a geography pageant at school, and I don't know
+       which state to go as.
+Marge: In honor of legalized gambling, why not go as the state of
+       Nevada?
+ Lisa: No: Nevada makes my butt look big.
+-- Texas would be worse, "$pringfield"
+
+Marge: Then how about going as Florida?  You enjoy orange juice, old
+       people like you --
+ Lisa: Dad, what do _you_ think?
+Homer: Shh!  I'm trying to teach the baby to gamble.
+Marge: Why?
+Homer: I got a job at Burns' casino.  As you know, it's been my lifelong
+       dream to become a blackjack dealer.
+Marge: Your lifelong dream was to be a contestant on "The Gong Show",
+       and you did it in 1977, remember?
+        [Flashback to Homer and Barney playing a giant harmonica,
+       wearing a pair of two-man large overalls, getting gonged and
+       booed]
+Homer: We got more gongs than the break-dancing robot that caught on
+       fire.
+-- Something to be proud of, "$pringfield"
+
+% At Burns' casino, Otto meets the official greeter.
+
+Gerry: Hello.  I'm retired heavyweight boxer Gerry Cooney.  Welcome to
+       Mr. Burns' Casino!  If there's anything I can do to make your
+       visit more enjoyable, please: just let me know.
+ Otto: Er, great.  See ya!
+Gerry: Uh, don't forget to apply for our V.I.P.  Platinum Club for
+       special discounts on --
+ Otto: Hey!  I said, bug off!
+        [Otto punches him in the jaw, and he collapses]
+-- That glass jaw again, "$pringfield"
+
+% Homer works at his job with vim and vigor.
+
+   Homer: Uh, let's see: eighteen, twenty-seven, thirty-five...Dealer
+          busts!  Looks like you all win again.
+   Texan: Yee-haw!  Homer, I want you to have my lucky hat.  I wore it
+          the day Kennedy was shot, and it always brings me good luck.
+   Homer: Why thanks, Senator!  Oh -- looks like my shift is over.
+Everyone: Uh oh.  [they all leave]
+-- Taking a break, gentlemen?, "$pringfield"
+
+% {Abe prepares to roll the dice at the craps table.}
+
+Abe: {Come on, lucky seven!  Poppa needs a new pair of spats.  I want
+     some of that sweet, sweet Do Re Mi.  Fat city, here I come!}
+Apu: {Please throw the dice now, please, now.}
+Abe: {Don't rush me!  I have arthritis.}
+Man: {Would the gentleman please roll the dice?}
+Abe: {All right, all right, smart guy.  Oh, for crying out loud, I
+     dropped one.  Oh, now it's in my shoe.  Ow!  Ooh!  Ow!  Ooh!...}
+-- No free drinks for _him_, "$pringfield"
+
+% Inside one of the showrooms, Gunter and Ernst demonstrate their
+% talented albino tiger riding a unicycle.  "A round of applause,
+% please, for Anastasia.  She loves show-business.  So much nicer than
+% the savagery of the jungle, ja?"  In a flashback, we see Anastasia
+% sleeping peacefully in Africa.  Behind her two men approach in a jeep.
+% "Hey, tiger!" one of them calls out, "Wake up!"  He shoots a
+% tranquilizer dart into her, and she slumps over.  The memory angers
+% her sufficiently to attack her owners and tear them to shreds.
+%
+% Bart plays a slot machine with a quarter he finds.
+
+Bart: Woo-hoo!  Jackpot.
+ Kid: Wait a minute: are you over 21?
+Bart: Are you?
+ Kid: I'm not authorized to answer that.
+-- Crafty questioning, "$pringfield"
+
+% But Bart is tossed into the street nonetheless.
+
+Bart: By the way, your martinis suck!
+ Kid: Oh yeah?  What are you going to do?  Start your own casino in your
+      treehouse and get all your little friends to come?  I'd like to
+      see that.  Ah ha ha ha...
+       [Kids pile into Bart's new casino in his treehouse]
+Bart: Hi, yeah, welcome.  Have a lucky day.  Mm hmm.
+ Kid: Well, he certainly showed me.
+-- Retributive justice at its finest, "$pringfield"
+
+% [3F31 revealed a new cut scene.  Transcript courtesy of Frederic
+% Briere.]
+
+Blofeld: 20.  Your move, Mr. Bond.
+   Bond: I'll take a hit, dealer.  [Homer gives him a card] Joker!  You
+         were supposed to take those out of the deck.
+  Homer: Oh, sorry.  Here's another one.
+   Bond: What's this card?  "Rules for Draw and Stud Poker"?
+Blofeld: What a pity, Mr. Bond.
+          [Odd Job and Jaws grab Bond and drag him out]
+   Bond: But...but it's Homer's fault!  I didn't lose.  I never lose!
+         Well, at least tell me the details of your plot for world
+         domination.
+Blofeld: Ho ho ho, I'm not going to fall for _that_ one again.
+          [as they all leave, Marge comes in, holding Maggie]
+-- "$pringfield"
+
+% [End of cut scene.]
+%
+% Marge greets Homer at the blackjack table.
+
+Marge: Hi Homey.
+Homer: Hey Marge, after your big tantrum against legalized gambling, I
+       bet it feels pretty weird to be in a casino.
+Marge: I was for the casino.
+Homer: Strike three, Marge!  I remember that meeting and I have a
+       photographic memory.
+        [In Homer's memory, Marge wears a blue dress and has green hair.
+       She holds a rolling pin.  Homer's arms are massive]
+Marge: Legalized gambling is a bad idea.  You can build a casino over my
+       dead body.  Blah blah blah blah blah.  Blah blah blah, blah blah
+       blah blah blah.
+  Man: For you: it's the President.  [tentacle hands Homer a phone]
+Homer: Y'ello?
+        [back to reality] And then I said to the President -- get this
+       -- Marge?  Marge?
+-- No captive audience, "$pringfield"
+
+% As Marge walks away from Homer, she notices a shiny 1992 quarter on
+% the red carpet.  "I wonder if they have a Lost and Found?" she asks,
+% but she notices the "25 cent" sign above a nearby slot machine.  "Oh,
+% what the hey," she reasons, and puts the coin in.
+%
+% The wheels stop spinning, and a short snatch of victory music sounds.
+% Four quarters drop into the tray, and Marge seems impressed.  She
+% walks out the sliding doors of the casino, but looking at her watch,
+% she decides she has time for a couple more turns on the slot machine.
+%
+% Bart's casino is doing well.  A lighted sign announces, "Tonight:
+% Milhouse.  Next week: an evening with Jimbo."  Inside, under the odds
+% board, children swarm around the buffet.  Jimbo uses a rake as a
+% croupier stick at the craps table.
+
+Hey, how's it going?  Hey: good to see you.  Hey, friends: looking
+lucky.  Hey, what's happenin'?  Love the jacket.
+-- Bart the Emcee at his own casino, "$pringfield"
+
+% Milhouse's act involves Snowball II and "The Box of Mystery."  He
+% says, "The cat goes in --" but the poor animal seems reluctant to
+% comply.  Milhouse tries to force her, but this only aggravates her
+% more.  She knocks his top hat off to reveal another similar-looking
+% cat underneath it, and the two cats wreak havoc with their claws on
+% Milhouse's face while the audience applauds.
+%
+% {Back in Burns' Casino, Homer watches a Dustin Hoffman-lookalike with
+% amazement while a Tom Cruise-lookalike sits next to him.}
+
+  Homer: {Twenty-one?  Do that card counting thing again.  Come on: do
+         it again.}
+Raymond: {Definitely have to leave the table.}
+  Homer: {No!  Please, please, please, please, please?}
+Raymond: {Gotta watch Wapner.  Leave the table.  Yeah, leave the table.}
+  Homer: {No!  [grabs his arm]}
+Raymond: {Aah!  [screams repeatedly, hits his head with his palm]}
+  Homer: {Aah!  [screams repeatedly, hits his head with his palm]}
+-- Autism is contagious, "$pringfield"
+
+% From the control room, Smithers and Burns watch the patrons gamble.
+% Burns' hair is longer and he has some stubble.
+
+Smithers: Sir, you haven't slept since the casino opened five days ago.
+   Burns: Yeah, well, I've discovered the perfect business: people swarm
+          in, empty their pockets, and scuttle off.  Nothing can stop me
+          now -- [paranoid] except microscopic germs.  But we won't let
+          that happen, will we, Smithers?
+Smithers: Uh, no sir.
+-- Good thing they're not in Iraq, "$pringfield"
+
+% Marge stands in front of two slot machines, playing them
+% simultaneously.  In boredom, Maggie spits her pacifier into the air
+% and catches it in her mouth repeatedly.  On one ejection, it lands in
+% a cup full of coins being held by a woman who walks by.  Maggie
+% reaches for the woman, but she's already walking away.  She crawls
+% into a nest of feet looking for the woman, and Marge doesn't notice
+% her departure.
+%
+% Maggie thinks she spots the woman with her pacifier, so she climbs up
+% onto the craps table to reach for it.
+
+     Man: A baby on the table!  That's good luck!
+Everyone: Yay!
+           [The man throws the dice, and they come up double one]
+Croupier: Snake-eyes.  Sorry.
+Everyone: Boo!
+-- Blast those 35:1 odds, "$pringfield"
+
+% Gunter and Ernst leave the circus room after their act is over.
+
+Hillbilly: Gawrsh: it must be excitin' to live in the cuh-see-no.
+   Gunter: Ja.
+    Ernst: You know, we're having a party tonight...
+            [Maggie pulls on Anastasia's whiskers playfully]
+            [She roars and tries to bite Maggie, but Barney saves her]
+   Barney: Marge, you gotta watch out.  Your little boy, Bart, could
+           have been eaten by that pony!
+-- Saved in the nick of time, "$pringfield"
+
+% Marge is effusively grateful: "I would never have forgiven myself,"
+% she rues.  "Now you stay put, young lady," she says, giving her
+% daughter a new pacifier which she pulls from her hair.  Barney watches
+% her go back to pulling the handle on the slot machine.
+
+        [Barney watches Marge gamble]
+Barney: Man, that's classic compulsive behavior.
+         [Sees a waitress holding a tray with three cups on it]
+        Wow, free beer!
+         [He chugs all three]
+   Man: Buddy, those are my quarters!
+         [Barney burps up some quarters]
+ Woman: This guy's paying off!
+-- How to win friends, "$pringfield"
+
+% {Krusty's latest gig is a "For Adults Only" show at midnight in the
+% casino.}
+
+Krusty: {I don't want to hit a sore spot, but can we talk about herpes?
+        Herpes herpes, bo-berpes, banana, fana fo-ferpes -- her-pes.
+        Ow!
+        Hey: that spot on Gorbachev's head -- herpes, trust me!
+        Anybody here have herpes?  Huh?  Huh?
+         [No one answers]
+        You people are the worst audience I've ever seen.}
+   Man: {You're the worst comedian we've ever seen!}
+Krusty: {Oh, great!  Well, we'll just sit here silently for the next
+        ninety minutes.}
+   Man: {Fine with us.}
+Krusty: {[groans and sits]}
+-- Comedic lead balloons, "$pringfield"
+
+% Burns has become more of a germ-freak in the meantime.
+
+   Burns: [spraying the monitors with disinfectant] They're all covered
+          with filthy germs, aren't they Smithers?
+Smithers: Why, what do you mean, sir?
+           [The germs on Smithers' face grow in size before Burns' eyes]
+   Germs: Freemasons run the country!
+   Burns: Ew!
+-- Germ back-masking, "$pringfield"
+
+% Marge continues playing the quarter slots.
+
+Homer: Marge!  You waited for me.
+Marge: Er --
+Homer: OK, Marge, let's go.
+Marge: I'll catch up to you.
+Homer: Marge, I'm taking the car.
+Marge: I'll walk.
+Homer: This late?  Through the bad neighborhood?
+Marge: Yeah.
+Homer: Marge --
+Marge: Go home!  You're bad luck.
+Homer: Wait!  I see what's happening here.  You're just mad because
+       everyone in this town loves gambling except for you.  Well that's
+       just sad.
+-- Homer Perot, "$pringfield"
+
+% Homer walks off in disgust, but Marge doesn't notice.
+%
+% [End of Act Two.  Time: 14:45]
+%
+% The casino is almost deserted except for Marge.  Smithers walks up to
+% her with two security guards.
+
+Smithers: Er --
+   Marge: [annoyed] What?
+Smithers: Excuse me, ma'am: don't you think you've gambled enough?
+   Marge: No!
+Smithers: OK.  We're required by law to ask every 75 hours.  Get her
+          another free drink.
+-- Just doin' my job, "$pringfield"
+
+% At the Simpson home, dishes are piled everywhere.  Snowball II jumps
+% out yowling from within their midst.
+
+Lisa: Do you get the feeling this family is disintegrating?  I mean, we
+      haven't had a meal with Mom all week.  And she hasn't even started
+      my costume for the geography pageant.
+Bart: Pipe down, sister.  I gotta book a new act for tonight.  Turns out
+      that Liza Minnelli impersonator was really Liza Minnelli.
+      [shudders]
+-- Wouldn't want to book her, "$pringfield"
+
+% Homer wanders in and opens the refrigerator.
+
+ Lisa: There's nothing to eat for breakfast.
+Homer: You gotta improvise, Lisa: cloves, Tom Collins mix, frozen pie
+       crust --
+ Lisa: Maybe mom just doesn't realize we missed her.  We could go down
+       to the casino and let her know...
+Homer: Oh, come on, Lisa, there's no reason to -- [takes a bite] --
+       let's go see Mom.
+-- Maybe there _was_ a reason, "$pringfield"
+
+% Marge compulsively gambles still.
+
+Homer: Marge, we need to talk.  You're spending too much time at the
+       casino and I think you may have a problem.
+Marge: I won sixty dollars last night!
+Homer: Woo-hoo!  Problem solved.
+-- Elegant solutions, "$pringfield"
+
+% Burns continues to degenerate.
+
+          [Mr. Burns hold a model airplane]
+   Burns: Smithers, I've designed a new plane.  I call it the "Spruce
+          Moose", and it will carry two hundred passengers from New
+          York's Idyllwild Airport to the Belgian Congo in seventeen
+          minutes!
+Smithers: That's quite a nice model, sir.
+   Burns: Model?
+-- Burns' brain, slowly pickling, "$pringfield"
+
+% That night, Lisa calls out for Marge.
+
+ Lisa: Mom!
+Homer: Huh -- wha -- Lisa!  What's up?
+ Lisa: I just had a bad dream!
+Homer: Oh, sure.  You just lie down and tell me all about it.
+ Lisa: Well, I know it's absurd, but I dreamed the bogeyman was after
+       me, and he's hiding under --
+Homer: Aah!  Bogeyman!  You nail the windows shut, I'll get the gun!
+-- So much for parental guidance, "$pringfield"
+
+% Homer runs into Bart's room: "Bart, I don't want to alarm you, but
+% there may be a bogeyman or bogeymen in the house!"
+%
+% Marge arrives home, squealing the tires as she stops in the driveway.
+% She gets to the front door and sees a hole has been torn through it,
+% and that chairs and other objects have been stacked against the knob.
+% When she opens it, Homer peeks up from behind a bent-over mattress on
+% the floor, aiming the shotgun at her and quivering.  Bart, Lisa, and
+% Maggie look over at Marge, and everyone sighs with relief.
+
+Marge: What happened here?
+Homer: Oh, nothing, Marge.  Just a little incident involving the
+       bogeyman!
+        [He tosses the shotgun aside and it discharges]
+       Of course, none of this would have happened if you had been here
+       to keep me from acting stupid.
+-- Aware of his own limitations, "$pringfield"
+
+Marge: I'm sorry.  I _have_ been spending too much time at the casino.
+       I'll be around more from now on.
+ Lisa: Does this mean you'll help me with my costume?
+Marge: Sure, honey.  I promise.
+ Lisa: Thanks, Mom.
+        [Marge hugs her]
+Homer: Aw, just like on TV.
+        [Homer trips on an ottoman.  A laugh-track is heard]
+-- Meta-humor, "$pringfield"
+
+% At the airport, Bart holds up a sign reading "Robert Goulet".
+
+Goulet: Hi.  You from the casino?
+  Bart: I'm from _a_ casino.
+Goulet: Good enough.  Let's go.
+-- A Machiavellian ploy, "$pringfield"
+
+% But Mr. Goulet is supposed to perform at Burns' Casino, alongside the
+% Concrete and Asphalt Expo '93.  Smithers brings Mr. Burns the bad
+% news.
+
+Smithers: I'm afraid Robert Goulet hasn't arrived yet, sir.
+   Burns: Hmm.  Very well; begin the thawing of Jim Nabors.
+-- Thank God for cryogenic Gomer, "$pringfield"
+
+% Bart rides his bike home with Goulet seated atop the handlebars.  When
+% they arrive home, Goulet sees Nelson spelling his name on a board.
+
+Goulet: Are you sure this is the casino?  I think I should call my
+        manager.
+Nelson: Your manager says for you to shut up!
+Goulet: _Vera_ said that?  Hmph.
+        {[struggles to climb the ladder up to the treehouse]}
+-- You ought to know her well, "$pringfield"
+
+% Goulet struggles to climb the ladder up to the treehouse.
+%
+% Lisa runs in in a panic.
+
+ Lisa: Dad, Mom said she'd be home to help me with my costume and she's
+       not, and the geography pageant is tonight!
+Homer: Lisa, your mom still loves you.  It's just that she has a career
+       now.  She's a slot-jockey.
+ Lisa: But Dad, if I don't show up in a rubber suit shaped like the
+       state of Florida, I'll be the laughing-stock of the whole school!
+Homer: [disgusted] Oh, it's always _something_, isn't it?  First I have
+       to drive your pregnant mother to the hospital so she can give
+       birth to you.  And now this.
+-- From bad to worse, "$pringfield"
+
+% Homer tries to sew with a needle and thread, but he keeps poking
+% himself.  He tries to use the sewing machine, but he pokes himself
+% even more often.  He starts up his blow torch, but it's for something
+% on the car instead.  Lisa has to remind him to work on her costume
+% again.
+%
+% Finally the costume is done.
+
+Homer: Hello, Florida!  [tapes an orange to her, but it falls off]
+ Lisa: [gasps] I'm not a state, I'm a monster!  [sobs]
+Homer: [wipes a tear away] No, Lisa.  The only monster here is the
+       gambling monster that has enslaved your mother!  I call him
+       Gamblor, and it's time to snatch your mother from his neon claws!
+-- A man of action, "$pringfield"
+
+% Homer runs into the casino and calls for his wife: "Marge!  Where are
+% you?  Damn this casino!"  He punches the cardboard cutout of Robert
+% Goulet, knocking it over.  He runs up to a crown-and-anchor-type wheel
+% and spins it in anger.  It comes up double stars: "Everybody wins!"
+% announces the man working the table.  Principal Skinner is preparing
+% to throw the dice at craps, but Homer forces the dice from his hand
+% and throws them himself.  "Seven, lucky seven!" announces the
+% croupier.
+%
+% Dave Shutton, the reporter, talks on the phone, and Homer grabs it
+% from him.  "He can't talk now!"  Homer states, hanging it up.  Dave
+% looks puzzled.  Burns watches Homer's progress across his monitors.
+
+   Burns: Smithers, I don't want that unpredictable lunatic working in
+          my casino.
+Smithers: Fine, we'll transfer him to the nuclear plant, sir.
+   Burns: Aw, my beloved plant.  How I miss her -- bah!  To hell with
+          this.  Get my razors!  Draw a bath!  Get these kleenex boxes
+          off my feet.
+Smithers: Certainly, sir.  And, uh, the jars of urine?
+   Burns: Oh, we'll hang onto those.  Now, to the plant!  We'll take the
+          Spruce Moose.  [picks up the model] Hop in!
+Smithers: But, sir --
+   Burns: [pointing a gun] I said, hop in.
+-- Inexorable logic, "$pringfield"
+
+% Homer dashes hither and thither, finally seeing Marge parked at one of
+% the slot machines.
+
+Homer: [grabbing Marge] Yer gotta redda kid forrad yarrar!
+Marge: Homer, what is it?  Slow down!
+Homer: [slowly] J'yer gedda ferda redderarrar.
+Marge: Think before you say each word.
+Homer: You broke a promise to your child.
+Marge: What?
+Homer: You promised Lisa to help her with her costume.  You made her
+       cry.  Then I cried.  Then Maggie laughed -- she's such a little
+       trooper.
+-- Maggie the Brave, "$pringfield"
+
+% Marge is aghast.  "I didn't realize.  I'm so sorry."
+
+Homer: Marge, I want you to admit you have a gambling problem.
+Marge: You know, you're right, Homer.  Maybe I should get some
+       professional help.
+Homer: No, no, that's too expensive.  Just don't do it any more.
+-- "$pringfield"
+
+% Robert Goulet performs at Bart's Casino.
+
+[singing]
+Jingle Bells, Batman Smells
+Robin laid an egg
+Batmobile lost its wheel
+The Joker got away, hey!
+ [spoken] Thank you, thank you very much.
+ [hits Milhouse in the face with the microphone]
+Oh, I'm sorry, kid...
+-- Robert Goulet performs for Bart and his friends, "$pringfield"
+
+% Principal Skinner hands out awards at the geography pageant
+
+Skinner: And special awards go to the two students who obviously had no
+         help from their parents: Lisa Simpson and Ralph Wiggum.
+  Ralph: I'm Idaho!
+Skinner: Yes, of course you are.
+-- Ralph and his "Idaho" sign, "$pringfield"
+
+% Marge and Homer walk out of the casino and then along the waterfront.
+
+Homer: You know, Marge, for the first time in our marriage I can finally
+       look down my nose at you.  _You_ have a gambling problem!
+Marge: That's true.  Will you forgive me?
+Homer: Oh, sure.  Remember when I got caught stealing all those watches
+       from Sears?
+Marge: Hmm.
+Homer: Well, that's nothing, because _you_ have a gambling problem!  And
+       remember when I let that escaped lunatic in the house 'cause he
+       was dressed like Santa Claus?
+Marge: Hmm.
+Homer: Well _you_ have a gambling problem!
+Marge: Homer, when you forgive someone, you can't throw it back at them
+       like that.
+Homer: Aw, what a gyp.
+        [They kiss]
+Homer: Remember when I --
+Marge: Homer!
+Homer: Oh, yeah; I forgot already.
+-- Forgive, and...forget, "$pringfield"
+
+% [End of Act Three.  Time: 21:22]
+%
+% The music over the closing credits is akin to a Las Vegas show tune.
+% Over the "Gracie Films" logo, we hear a slot machine handle being
+% pulled and the rush of coins as the machine pays off.
+
+<|endoftext|>

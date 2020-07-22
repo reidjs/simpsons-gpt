@@ -1,0 +1,1719 @@
+Treehouse of Horror VII                     Written by Ken Keeler, Dan Greaney
+                                                            and David S. Cohen
+                                                  Directed by Mike B. Anderson
+==============================================================================
+Production code: 4F02                      Original airdate in U.S.: 27-Oct-96
+Capsule revision D,  14-Jun-97            Original Airdate in Canada: 26-Oct-96
+==============================================================================
+> "TV Guide" Synopsis  {ljs}
+==============================================================================
+   Three segments comprise "Treehouse of Horror VII," the annual
+   Hallowe'en installment of the series, including aliens who invade the
+   bodies of President Clinton and Presidential candidate Bob Dole; Bart
+   and Lisa discover Bart's evil twin in the attic.
+
+==============================================================================
+> Title sequence
+==============================================================================
+Opening    :- It's Halloween night, and Homer proceeds to light a
+              jack-o'-lantern. The pumpkin ignites instantly, and the
+              fire spreads to Homer's hand, then to his entire body. He
+              runs back and forth, screaming, as "The Simpsons Halloween
+              Special VII" appears on-screen.
+
+Couch      :- The Grim Reaper is sitting on the couch. Maggie, Lisa,
+              Bart, Marge and Homer try to reach the couch, but drop
+              dead in front of it, falling one on another. The Grim
+              Reaper puts up his feet on the pile of bodies and sighs
+              contentedly.
+
+              [It seems we can bid farewell to the tombstones... --ed]
+
+==============================================================================
+> Did you notice...
+==============================================================================
+    ... all the stuff in the attic?  [see FFF]
+    ... the tiny eggheads resemble Prof. Frink, and Benjamin, Doug, and
+        Gary from 1F02?
+    ... the alien grappling hook used to hoist Homer is the same as
+        those found in the game costing $.50 in which you attempt to
+        retrieve cheap carny prizes?
+    ... Lisa is the only person in the auditorium who does not cheer the
+        candidates?
+    ... the alien's air masks immediately pop out and cover their heads
+        after their disguises are removed?
+
+Dale G. Abersold:
+    ... this is the first major role for Kang and Kodos since the
+        "Monkey's Paw" segment of ToH II?
+    ... David S. Cohen has written the final segment of the Halloween 
+        episodes for three consecutive years?
+
+Steven Boswell:
+    ... Hugo is considerably stronger than Bart despite the fact he has
+        been living in the attic his whole life?
+    ... the ships that are attacking Bart can travel in one ear and out
+        the other without damaging his brain?
+    ... Homer actually volunteers to be probed?
+
+Frederic Briere:
+    ... the picture of a Lincoln-like man in the hallway?
+    ... Maggie gasping for air, turning around when Homer and Marge come
+        home, and pointing to the attic just like Bart and Lisa?
+    ... the claw marks on the front door when Hugo escapes?
+    ... Dr. Hibbert's number begins with 3312?
+    ... in the flashback, Bart and Hugo seem to be linked by a slim
+        piece of skin, without any bone or organ in common (despite the
+        x-rays)?
+    ... Marge doesn't provide Hugo with decent clothes before dinner?
+    ... Lisa's statue is wearing her nightgown?
+    ... the tooth at the end of the tub's scepters?
+    ... Bart distinguishes the smell of rum? (Do they serve that kind of
+        liquor in Legitimate Businessmen Clubs?)
+    ... people turn around and stare when Kang/Kodos are walking down
+        the streets, hand in hand?
+    ... Homer is stalking Kang and Kodos?
+    ... in their last speech, Kodos applauds Kang, but Kang does not
+        return the favor?
+    ... Homer speaks about America's _beloved_ candidates?
+
+Don Del Grande:
+    ... Lisa calls Snowball II "she"?
+    ... Snowball II wears four booties and a baby bonnet (which are
+        blue, despite being a "she")?
+    ... Homer's attic door has a cord with a ball at the end of it, just
+        like the Flanders have (in 1F22)?
+    ... while Lisa can reach the Flanders attic cord by herself, she
+        needs Bart and Maggie's help here?
+    ... Maggie isn't scared by Hugo?  (This isn't new; she wasn't scared
+        by the giant ants in 1F13)
+    ... the characters in the flashback look as if they were lifted out
+        of 8F10?
+    ... for someone who's been in an attic for ten years eating buckets
+        of fish heads, Hugo certainly knows how to handle a plate and a
+        glass (when he first meets Bart)?
+    ... Lisa's missing tooth is in the same spot as Hugo's?
+    ... in the time it took Lisa to eat a pancake, the tub people went
+        from Stone Age to Renaissance?  (How fast do these people have
+        children, anyway?)
+    ... when Lisa lands in the tub, there's a trumpet fanfare?
+        (Wouldn't a Lisa-based planet have saxophone fanfares instead?)
+    ... the tub people's God has "only" 8 fingers and 8 toes?  (In the
+        "real" world, God is shown with 10 fingers and 10 toes)
+    ... when Lisa asks for shoes, someone suggests socks as well,
+        although Lisa normally only wears socks with formal outfits?
+    ... the aliens use a grappling device to lift humans into their ship
+        instead of the beams they used in 7F04?
+    ... the new flag has Kang holding a skull?
+    ... when Homer says "Don't blame me, I voted for Kodos", Kodos whips
+        him?
+
+Jason Hancock:
+    ... Bart has a Space Mutants doll on his dresser during both "The
+        Thing and I" and "The Genesis Tub?"
+    ... Bart's room is cleaner in the second act than in the first act?
+    ... the throne Lisa sits on is shaped like a tooth?
+    ... Sherri and Terri have an ant farm for their science fair
+        project?
+    ... Ralph's project _isn't_ thrown away?
+    ... Kodos accents the _second_ syllable of "Clinton?"
+    ... the presidential debate has a $5.00 admission fee?
+
+Ryan Johnson:
+    ... Bart uses Maggie to hold the flashlight when he is searching for
+        his evil (good) twin?
+    ... when bart smashes the city he chips the tooth?
+    ... the mini armada flies through one of Bart's ears and right out
+        the other?
+
+Pamela S. Klemm:
+    ... Bart holds Maggie like a lantern in the attic?
+    ... Homer planned to watch hockey the night Hugo got loose?
+    ... everyone but Homer is eating breakfast in their pajamas?
+    ... the lasers in Bart's eyes when the ship attack inside his head?
+
+Haynes Lee:
+    ... little people look like Smurfs(tm) under microscope?
+    ... Maggie's dress is white in Part II?
+    ... Clinton's and Dole's nether regions are briefly visible but the
+        animators did not draw in the naughty bits?
+    ... Marge hates "Slick Willy" Clinton?
+    ... the giant ray gun looks like Mr. Burns slanted drilling rig?
+
+Ricardo Lafaurie:
+    ... Lisa sleeps with the cat?
+
+David Ney:
+    ... Hugo is taller than Bart?
+    ... the Itchy doll on Lisa's bookshelf?
+    ... the box factory behind Bob Dole?
+    ... Bob Dole holding his pencil while he is abducted?
+
+Damian Penny:
+    ... Martin could come up with nothing better than a milk-carton
+	ukelele?
+    ... Martin's Hawaiian grass-skirt outfit?
+    ... there's a black man in the Republican National Committee? (Now
+        THAT's surreal humor!)
+    ... the Democratic National Committee guy looks like George
+	Stephanopolous?
+    ... Clinton sleeps in until noon?
+
+Ana Robles:
+    ... although all he's ever had to eat is fisheads, Hugo is taller
+        and somewhat more fit than Bart?
+    ... after punching Hugo, Hibbert looks at his watch, as if to check
+        for time of death?  [I believe he was taking his pulse --ed]
+    ... miniature Frink has square glasses?
+    ... Skinner considers a milk carton ukelele impressive?
+    ... the camara doesn't hold of Krang and Kodos for the full time
+        that they laugh?
+
+Benjamin Jay Robinson:
+    ... Richard Sakai is listed as Richard "In the midst of retiring"
+        Sakai?  [Both he and with David Silverman are retiring from "The
+        Simpsons" this season.]
+    ... even in freedom, fish heads are Hugo's snack of choice?
+    ... Bart proves himself to be a nerd, since he must conduct
+        electricity to zap Lisa?
+    ... Bill Clinton doesn't sleep with Hillary?
+
+Liam J. Scanlan:
+    ... there is no tombstones in the opening?
+    ... the Grim Reaper in the couch gag got a "Starring" credit?
+    ... Dr. Hibbert resorts to violence?
+    ... Dr. Hibbert stays for dinner?
+    ... Lisa loves waffles?
+    ... the SNPP cooling towers behind the fishing lake?
+    ... Kang played Dole and Kodos played Clinton?
+    ... Bart is considered "evil" twice this episode?
+
+Rick Senger:
+    ... Homer carries a golf iron to the attic with him?
+    ... Homer apparently follows hockey (tells Bart to tape game)?
+    ... Dr. Hibbert appears in the Simpsons' home out of nowhere without
+        warning TWICE and no one seems to care?
+    ... Dr. Hibbert has a paper cutter in his examining room?
+    ... Lisa's tooth comes from her upper left quadrant (probably an
+        incisor based on location, though it looks like a molar)?
+    ... Lisa's tooth is wider than her finger?
+    ... Bill Clinton apparently doesn't sleep in the same bed with
+        Hillary?
+    ... The Clinton/Dole debate has a $5.00 entry fee?
+    ... Marge cheers for Clinton's nonsensical "twirling" speech?
+    ... Homer is familiar with the navigational controls of Kodos'
+        spaceship?
+    ... Bob Dole coins the term "corn chute" as a synonym for butthole?
+    ... KANG wins the election, meaning that the country actually
+        elected Bob Dole president, not Clinton?
+
+Robert Vasquez:
+    ... Kodos shudders as Homer bares his hairy yellow butt?
+
+==============================================================================
+> Voice credits
+==============================================================================
+- Starring
+    - Dan Castellaneta (Homer)
+    - Julie Kavner (Marge)
+    - Nancy Cartwright (Bart, Hugo)
+    - Yeardley Smith (Lisa)  [Credited as "The Reaper"]
+    - Hank Azaria (Frink, Bill Watson, "Why do bad things happen to good
+         people?", "She'll want socks, too.", "I believe I'll vote for a
+         3rd party candidate.")
+    - Harry Shearer (Hibbert, tiny man, "Why am I so fat?", Skinner,
+         Kang, Kodos, Bob Dole, Kent Brockman, Announcer for Dole)
+- Special Guest Voice
+    - Phil Hartman  (Bill Clinton)
+
+   [I admit, I guessed many one-liners; I'll have to train my ear to
+   identufy those --ed]
+
+==============================================================================
+> Movie (and other) references
+==============================================================================
+  + "Day of the Locust"  {jh}
+     - "Day of the Cohen" in the opening credits
+
+  + "The King and I", musical by Rogers & Hammerstein.
+     - "The Thing and I"
+  + "Fish Heads", song by Barnes & Barnes
+     - Homer humming this song
+    "Chinatown"  {dga}
+     - "Do you know what happens to nosey detectives/kids?"
+    "The Exorcist"  {jm}
+     - strange sounds come from the attic (which also has a pulldown
+       stepladder)
+  + "The Hunchback of Notre Dame", classic novel by Victor Hugo
+     - Hugo's name
+     - Hugo is similar to Quasimodo
+     - a difformed creature living recluse in an attic
+    Pap Smear  {bjr}
+     - Dr. Hibbert's "soul smear" might be related to this test for
+       cervical cancer
+    "Basket Case"  {dp}
+     - siamese twin wants to be re-connected to the other
+    "Frankenstein", classic horror tale by Mary Shelley
+     - creating life out of discarded body parts (ie pigeon-rat)
+
+  + "SimCity 2000", computer games  {dga}
+     - That's what Lisa's city looks like
+  + "Battleground", short story by Stephen King  {av}
+     - someone is attacked by tiny spaceships / army men who seek
+       revenge
+     - note that the next story in the book ("Trucks") was made into the
+       movie "Maximum Overdrive", co-starring Yeardley Smith
+  + "Star Wars"  {dp}
+     - spaceships attacking Bart similar to attack on the Death Star
+    "Hitchhikers Guide to the Galaxy"  {hl}
+     - Miniature alien race retaliate by sending miniature space fleet
+       to earth (Bart)
+  + "When Bad Things Happen to Good People"  {bjr}
+     - The man who asked, "Why do bad things happen to good people,"
+       must have read this book
+
+  + "Citizen Kane", classic film by Orson Welles
+     - "Citizen Kang" spoofs the title of this classic movie
+  ~ "Saturday Night Live"
+     - Phil Hartman doing Clinton
+  + "Independance Day (ID4)"
+     - shadow of Bart's head moving over the crowd  {dp}
+     - alien ship over the White House, firing a laser beam / grappling
+       hook directly through the middle
+     - "Inauguration Day" on-screen
+  + "2001: A Space Odyssey"
+     - The corpses of the real Dole and Clinton drift into space like
+       the body of Frank Poole.
+  + "Earth vs. the Flying Saucers", 50's movie by Ray Harryhausen
+     - flying saucer crashing into the Capitol dome
+  + "V" Television Series  {rs}
+     - unmasking the alien leader(s)
+    "Scooby-Doo"
+     - Ripping off the masks of the villains
+
+  + "Bad to the Bone" song by George Thorogood  {jh}
+     - "Brad to the Bone Bird" in the closing credits
+
+==============================================================================
+> Previous episode references
+==============================================================================
+- "Citizen Kane" References  {dga}
+   - [7F01] "Is your boss governor? / Not yet son, not yet."
+   - [9F05] The "There is a Man" musical number
+   - [1F01] Basically the entire episode ("Rosebud")
+   - [2F02] Sideshow Bob's campaign for mayor
+
+- Clinton and Perot references  {eh}
+   - [9F13] Bill Clinton is in the audience of Krusty's 29th Anniversary
+            Show.
+   - [1F11] Bart's autobiography is "mostly about Ross Perot".
+   - [1F15] Bill plays the saxophone with the The Little White Girls
+            Blues Quartet.
+   - [1F21] To Burns: "I'm happy you finally found love."
+   - [1F21] Homer reads a Ross Perot pamphlet.
+
+- [SC#24] The presidential candidates visit Springfield  {dn}
+- Bongo Comics' "Treehouse of Horror #1" - "Little Shop of Homers"
+   Lisa Simpson, as part of a science fair project, creates life.
+
+- [MG13] Vases in which the kids were thought to be hiding  {mk}
+- [7G04] Bart: "My finger slipped!"  {av}
+- [7G06], [2F32] Bart has a scar/stiches
+- [7G08] Marge twiddles the phone cord  {av}
+- [7F04] Homer is abducted by Kang and Kodos  {hl}
+- [7F06] Bart: "You can't watch me/them every minute."  {th}
+- [7F07] OFF has a vent system
+- [7F11] A Simpson eats large quantaties of raw fish  {ljs}
+- [7F11], [7F20] Homer goes fishing  {ljs}
+- [7F12], [8F10] Hibbert is seen with an afro  {jh}
+- [7F14] Marge knows Hibbert's phone number
+- [8F02] Kang and Kodos take over the earth  {jh}
+- [8F02] Kang's sceptre  {av}
+- [8F02] Radio Shack is mentioned  {jh}
+- [8F04], [1F02] Homer randomly presses buttons at console  {hl}
+- [8F05] Boring old religious questions
+- [8F10] Bart is delivered by Dr. Hibbert  {hl}
+- [8F11] Homer: "Don't make me come down there!"
+- [8F15] Homer doesn't know how many kids he has; Marge sets him right
+         {av}
+- [8F22] Martin's lute (cf. carton ukulele)
+- [9F01] OFF has a waffle iron (Perhaps it was since Homer's "Moon
+         Waffle" that "the iron's been in the shop forever"?)  {ak}
+- [9F10] Hibbert separates siamese twins  {dga}
+- [9F14] Bart wins a science fair over Lisa  {hl}
+- [1F01] Humans are pictured as slaves
+- [1F02] Benjamin, Doug, and Gary (the college nerds)  {dn}
+- [1F07] Hugo looks just as goofy as Bart did w/ the hair salve on
+         {ljs}
+- [1F09] OFF has a portable TV
+- [1F11] The box factory  {dn}
+- [1F13] Homer: "Crash the space shuttle into the White House"  {dn}
+- [1F13] Homer flies in outer space  {jh}
+- [1F19] Dr. Hibbert's investigation into evil (cf. the evil gene)
+         {dga}
+- [1F21] Ross Perot is mentionned
+- [1F22] Lisa trying to open an attic trap  {ddg}
+- [2F02] A political debate is held in Springfield  {jh}
+- [2F03] A Simpson is shrinked/enlarged
+- [2F03] Homer's hand in the jack-o'-lantern is similar to his hand
+         being stuck in the toaster
+- [2F05] OFF is still a hockey family. - "Take the hockey game!"  {ak}
+- [2F17] Bart is tied up in a similar way
+- [3F01] One of Lisa's baby teeth falls out  {dga}
+- [3F04] Kang and Kodos are newlyweds (cf. now brother and sister)  {ak}
+- [3F06] Homer removes bushes to reveal Walt Whitman's grave (cf. the
+         flying saucer)  {jh}
+- [3F08] Alien probes are mentionned
+- [3F13] New words are invented: "De-bigulator" (cf. "embiggen")  {ks}
+
+==============================================================================
+> Freeze frame fun
+==============================================================================
+- The opening credits  {ddg}
+
+   [commas indicate names that were on separate lines, except as noted]
+
+    - Created by RAT GROENING
+    - Developed by JAMES HELL BROOKS; MAD GROENING; SAM "SAYONARA" SIMON
+
+    - Co-Executive Producer GEORGE "EXIT WOUND" MEYER
+    - Co-Executive Producer MIKE SCARY
+    - Co-Executive Producer STEVE PUMPKIN
+    - Supervising Producer LOU "BOO" COLLIER
+    - Supervising Producer THE ABOMINABLE DR. KEELER
+    - Producer DAY OF THE COHEN
+    - Producer WRETCHED APPEL
+    - Consulting Producer IAN TOMBSTONE-GRAHAM
+    - Consulting Producer DECADENT DAVID MIRKIN
+    - Consultant SCARY JOHN SWARTZWELDER
+    - Co-Producer COLIN D.O.A. LEWIS
+    - Produced by J. MONSTROSITY MENDEL
+    - Produced by RICHARD REALLY UNRULY RAYNIS
+    - Produced by DIABLO SILVERMAN
+    - Produced by RICHARD IN THE MIDST OF RETIRING SAKAI; LA DIABLA
+        SIRKOTA
+    - Written by The Incredibly Strange Creatures Who Stopped Living And
+        Became KEN KEELER; DAN GREANEY; DAVID S. COHEN
+    - Directed by MUTANT MIKE B. ANDERSON
+
+- Things in the attic  {jr}
+    - Ping-pong table
+    - Fishing hat
+    - Dress manequin
+    - Skis and skiing poles
+    - Box of bottles
+    - Ringo Starr painting
+    - Treasure chest
+    - Plastic (water? bleach?) bottle
+    - Mary Worth telephone
+    - Bart's electric guitar
+    - Golf clubs
+    - A stack of blue/green dog dishes
+    - Box labeled "Be Sharps"
+    - SpineMelter 2000
+    - Boxes of Lisa Lionheart
+    - Box of Homer's autobiography
+    - "I Didn't Do It" T-Shirt
+    - Lamp
+    - Empty Frame
+    - Barrel
+    - Bicycle
+    - And lots and lots of boxes, orned with dust and spider webs
+
+- Homer's autobiography
+
+      HOMER,
+      I HARDLY
+      KNEW
+      ME
+             [pic of Homer]
+      by
+      HOMER
+      SIMPSON
+
+- Lisa's carton
+
+     [tooth]                   o
+               WILL  COLA       \o
+     [small]    DISSOLVE        o-o
+     [print]    A TOOTH?      o-o  o  [that's a molecule drawing...]
+                                o-o
+     [diagram]                   \o
+
+- Close-up of Lisa's small print
+
+   [let me know if you can do better]
+
+         WILL SEER TO
+      DEMONSTRATE  TO
+      SODA PCP IS GOG
+      ???   TOOTH  IN
+      MOPOS TO  STPMT
+
+- Bart's carton
+
+      THE LITTLE
+      UNIVERSE
+       BY            [handwritten, with obviously no care at all]
+           BART
+      SIMPSON
+
+- Exhibits at science fair
+    - Bart: Lisa's tub universe
+    - Janey: ???
+    - Ralph: ???
+    - Martin: Milk carton ukulele
+    - Wendell: Some sort of molecule model
+    - Milhouse: Volcano
+    - Sherri & Terri: Ant farm
+
+- Notables in crowd at debate  {jh}
+    - Third row from top:  Lenny, Apu
+    - Fourth row:  Moe, Carl, Bart, Lisa, Marge (holding Maggie)
+    - Sixth row:  Mr. and Mrs. Van Houten
+                     [the next person looks like Akira from 7F23]
+
+- The closing credits {ddg}
+    - Executive Producers: THE LATE BILL OAKLEY &
+                           THE ESTATE OF JOSH WEINSTEIN
+    - Executive Producers: JAMES HELL BROOKS; MUD GROENING;
+                           SAM "SAYONARA" SIMON
+    - Starring ATENALLETSAC NAD (Say Three Times)
+               GHOULIE KAVNER
+               NANCY HEART-FRIGHT
+               THE REAPER
+               HANK AAAAAAHH!-ZARIA
+           and HARRY SHEARER
+    - Special Guest Voice PHIL "BRAIN-ON-A-STICK" HARTMAN
+    - Animation Executive Producer PHIENDISH PHIL ROMAN
+    - Animation Producers BILL "DON'T SAY BOO" SCHULTZ;
+                          MISCHIEVOIS MICHAEL WOLF
+    - Executive Consultant BRAD TO THE BONE BIRD
+    - Executive Story Editor DONICK SCARY
+    - Story Editors DEAD-EYE DAN GREANEY; NED GOLEMREYER;
+                    RON "THE ONE-HEADED MAN" HAGUE
+    - Associate Producer ALISON CHAINS ELIOT
+    - Theme by BORIS ELFMONIVICH
+      * Music Decomposed by SHEER TERROR CLAUSEN
+    - Casting by BONE-EATER PIETILA
+    - Editors MICHAEL SNARLES BRIDGE; DIABLO DON BARROZO;
+              LYNCANTHROPIC LEE HARTING
+    - Animation Production Manger for Gracie Films KRAZY-MAN KUWAHARA
+    - Post Production Coordinators DOMI "BLACKULA" BRAUD; THING WARNER
+    - Dialogue Sound Editors BOBBY "THE SCARY MOOK" MACKSTON;
+                             TERRIBLE TERRY GREENE; NORMAN "BATES"
+                             MACLEOD
+      * Music Masher LOBOTOMIZED LEDESMA
+    - Sound Effects Editor TRAVIS THE TERMINATOR POWERS
+    - Re-Recording Mixer RUSTY "BLADE" SMITH; BORIS ORLOFF
+    - Creative Consultant MAD GROENING
+    - Executive Creative Consultant JAMES HELL BROOKS
+
+==============================================================================
+> Animation, continuity, and other goofs
+==============================================================================
+   [Remember that in Halloween 'sodes, continuity is more or less
+   irrelevant. In that aspect, I didn't include reported inconsistencies
+   between "Citizen Kang" and "Hungry Are the Damned". --ed]
+
+
+c The closed-captions have Homer saying "D'oh!" and screaming in the
+  couch scene, but nothing is heard.  {jh}
+
+
+   "The Thing and I"
+
+* Hugo couldn't have gotten into the air vents if he was chained up in
+  the attic.  {sb}
+
++ There was never an air vent in the kitchen or in Bart's room.  {sb}
+
++ Wouldn't Bart and Lisa have noticed the strange noises coming out of
+  the attic a long time ago?  {mar}
+
++ OFF's attic had stairs leading to it in 7F18; now, there's a pull-down
+  ladder.  {rl}
+
+= Pictures and a table that were in the hall in the first scene are gone
+  when the kids go into the attic.  {mar}
+
++ Homer must have had those attic windows put in for dramatic effect,
+  because the house sure didn't have them before  {bjr}
+
+* Dr. Hibbert arrives in the pouring rain bearing no raincoat nor
+  umbrella, yet he is dry as a bone.  {rs}
+
++ The birth of Bart, besides the obvious Siamese twin flaw, has another
+  continuity error: Homer was there in 8F10.  {rl}
+
+* Hugo shouldn't have teeth right when he's born.  {sb}
+
++ Wouldn't Bart have noticed his hideous scar at some point in his life?
+  {mar}
+
+* Bart closes an _wide_open_ window, yet it's pouring outside.
+
+c Captioning quotes: "I went mad after they _cut_ us apart".
+
+* A pigeon couldn't buoy a rat.  {th}
+
+* How did Dr. Hibbert get in if Bart locked all the doors and windows?
+  {jh}
+
+= Bart loses his big hideous scar when Marge unties him.  {bjr}
+
++ Lisa has turkey on her plate.  {mar}
+
+c Before everyone laughs at Hugo eating his napkin, captioning indicates
+  someone is gasping.
+
+* The vents from the attic extend into rooms on both the first and
+  second floor.  {th}
+
+
+   "The Genesis Tub"
+
+= Lisa loses what appears to be an incisor or canine tooth, but the
+  tooth in the tub is a molar.  {av}
+
+= Lisa's missing tooth grows back the next day.  {ddg}
+
+= The "giant" spaceship manages to shrink quite a lot when it enters
+  Bart's room and when it lands back in the tub.  {ddg}
+
+* The tub city's population seems much too large for it's size.  {sb}
+
+* For the tub's inhabitants to learn English, Lisa should have spoken
+  every word they know. For the vocabulary they seem to possess, they
+  must have listened to her for a *very* long time.
+
+* There is no apparent damage to the tub world when Skinner removes the
+  lid. Knowing how much few care Bart must have taken when transporting
+  the tub from Lisa's room to the school (riding Otto's bus in-between),
+  this wouldn't fit in any Richter scale they might have...
+
+= When Lisa is shrunk, she has her slippers on her feet. At the end,
+  when she asks for shoes, the slippers have disappeared.  {ak}
+
+
+   "Citizen Kang"
+
+* Kang & Kodos don't know squat about Dole and Clinton, yet they can
+  locate them in a second.
+
+* The aliens travel some distance to pick up Dole and Clinton, yet their
+  ship is right over the lake again when they throw Homer off.  {ljs}
+
+= Clinton's audience on TV has miniature flags, which are frozen in thin
+  air.  {dk}
+
+* Wouldn't most people at a Dole rally cheer when he says "No abortions
+  for anyone?"  {mar}
+
+= Clinton and Dole kept shifting position while in suspended animation.
+  {mar}
+
+= There are two metal clasps on the tubes Clinton and Dole are in, but
+  when Homer is driving the ship, we only see one clasp from the back.
+  {dk}
+
+* The aliens "bio-dupliacte," yet Homer simply rips of their masks to
+  reveal them.  {ak}
+
+==============================================================================
+> Reviews
+==============================================================================
+   [Due to the divergence of opinion on the subject, and because this
+   was the first episode in several months, I included many reviews, and
+   allowed them to be much longer than usual. --ed]
+
+Dale G. Abersold:  The Simpsons return from their excessively long
+   summer hiatus...to a triumph!  This is easily the best Halloween
+   episode since the fourth one.  The Thing and I: sick and twisted.  I
+   loved it!  A-.  The Genesis Tub: Too bad Lisa Goddess isn't
+   omnipotent.  A. Citizen Kang: Whaddya bet the writers are all voting
+   for Nader?  A.  (A)
+
+Jennifer M. Blaske:  I think the first section was the best - I
+   particularly liked the references to the paper cutter, etc, which
+   really did throw me for a loop. The second segment, about Lisa, was
+   cute ("I've created Lutherans!") but I think I would've liked it more
+   if the ending had been more resolved. I liked how the third segment
+   was so topical, but found myself bored halfway into. It could be,
+   though, that after two hours of the Simpsons I was just starting to
+   zone out.  (B)
+
+Stephan Bonneville:  "The Thing and I" was just average, with the only
+   funny moment being the "pigeonrat" scene. "The Genesis Tub" was one
+   of the worst and most forgettable Treehouse of Horror sketches in
+   quite a while, while "Citizen Kang" was just boring.  (C-)
+
+Jesse Burgheimer:  Overall, this episode was a big disappointment, being
+   the anticipated Season Premiere, the anticipated Halloween episode,
+   and the fact that we had to wait until the last week of October to
+   see a new "Simpsons" episode. It made me want to VOMIT in TERROR!
+   (D)
+
+Chris Courtois:  The Thing and I: Essentially a shaggy-dog story with a
+   predictable punchline (don't worry, Bart. I wasn't surprised) livened
+   up with a few good gags (the routine soul smear, Marge's
+   bottle-feeding comment, Lisa's Radio Shack crack). Hearing Homer
+   singing Barnes&Barnes' "Fishheads" was amusing enough to push this up
+   to a B-.
+      The Genesis Tub: Good premise, but it didn't make much of an
+   impression. Not bad, but not great either. B.
+      Citizen Kang: Some good satirical jabs at campaigning, although
+   Season 2's "Two Cars In Every Garage; Three Eyes On Every Fish"
+   remains the series' best attack on the American political system. The
+   two-party system jab was on-target. One problem this segment has is
+   that it was *too* topical, and will be dated when it reruns next
+   year, and probably won't make sense to people who see it in
+   syndication 10 years from now. B+
+      Overall: Overall not as inspired as previous outings, but still
+   entertaining.  (B)
+
+Don Del Grande:  The first story took too long setting up the premise to
+   actually go anywhere with Hugo, but the other two stories were closer
+   to what is to be expected from Halloween episodes - and both had
+   decent surprise endings (Lisa is stuck in her own world; one of the
+   aliens ends up President)  (A-)
+
+Jason Hancock:  The season premiere gave us a mixed bag of Halloween
+   material.  "The Thing and I" was rather dull and had a forced ending.
+   (C+)  The Professor Frink clone stole the show in "The Genesis Tub."
+   (B)  And "Citizen Kang" was hilarious, but the nude Clinton and Dole
+   bit was overdone somewhat. (A-)  Overall, this definitely wasn't the
+   best of the Halloween specials, but it was still decent enough.  (B)
+
+Patrick Hayden:  Well, the new season has arrived, and I'm beginning to
+   wish there was a game seven after all.  THOH VII was pretty awful, at
+   least as far as I'm concerned.  It ceratinly was nowhere near the
+   quality of VI, which aired right before, and I believe it was the
+   worst Halloween Special in Simpson's History.  Nothing stands out as
+   laugh out loud humor. In "The Thing and I", the pace seemed off. It's
+   hard to describe, but it felt wrong somehow.  The only thing I
+   laughed at was the paper cutter bit. Otherwise, it blew. "The Genesis
+   Tub" was a better idea, but the total execution came off as unfunny
+   and dull.  The ending was sudden and relatively pointless.  As was
+   the ending on the first segment. "Citizen Kang" was better, with some
+   real laugh lines like the whole LaRouche was right about the nude
+   conspiracy thing.  Still, there was ample ability to lampoon both
+   Clinton and Dole, but we only got Marge's dull "Slick Willie" line.
+   And again, the ending was sudden and pointless.  It had me yearning
+   for the sharp wit of Jennifer Crittenden(sarcasam).  (D)
+
+Tony Hill:  This is the least compelling of the Hallowe'en specials so
+   far.  There were some classic moments, such as the urn gag, and
+   Hibbert's knock on political correctness and the one on Radio Shack.
+   But it wasn't up to the magic of past THOH episodes.  And the sendoff
+   of Clinton and Dole was much too mild.  (C+)
+
+Ryan Johnson:  I thought this was a horrible special.  Every single
+   episode had no, or a very sketchy, bad ending, unlike nearly all of
+   the previous specials. I was very dissapointed with this episode, and
+   if it is an indicator of what's ahead, look out.  (C-)
+
+Andrew Krupowicz:  This episode got better with every part. Overall it's
+   better than last year's Tree House of Horror. The people's questions
+   for their god (Lisa) and "Bob Dole's" tackling of the abortion issue
+   were hilarious. This episode looks like a sign of good episodes to
+   come.  (A)
+
+Matthew Kurth:  Three really great ideas which either never went
+   anywhere, or were set up well before realizing they were out of time.
+   Absolutely no pacing and no discipline in the writing to the time
+   limits involved.  The first specials dealt with stories that could be
+   dealt with in a ~7 minute time span rather than overachieving and
+   winding up with a final product that falls way short of expectations.
+   Perhaps THOH8 should have only 2 shorts instead of 3, or perhaps the
+   writers should pick something they don't have to push so hard to
+   finish (or not finish) in such a short amount of time.
+      I really loved where "The Thing and I" and "The Genesis Tub" were
+   going, kudos must go to whoever came up with the ideas.  But what we
+   got were only glimpses of the potential whole, the squandered
+   potential of not only pushing of the envelope, but seeing it through
+   with the careful construction and consideration that went into the
+   series before the Great Exodus in Season Four.  Smoke, but no fire,
+   and alas, that seems to be the trademark of the current production
+   staff.  (C+)
+
+Haynes Lee:  A passable THOH but has no linking material and abrupt
+   endings. A little too much of OFF and no memorable lines from the too
+   few secondary characters.  (B-)
+
+Ricardo Lafaurie:  Better than last year's.  I even liked "The Thing and
+   I", after I thought I'd never like Ken Keeler.  "Genesis Tub" was a
+   blast.  "Citizen Kang" gave me a bad feeling: too much political
+   stuff. I agree with the guy who said "Abortions for all" was
+   tastless.  And I'm not buying that Kang and Kodos are brother and...
+   SISTER.  (B-)
+
+Ondre Lombard:  As all THoHs go, this was probably the worst.  Instead
+   of creating a horror story, this episode succeeded in just putting
+   the family in unbelieveable fantasy and philosophical situations
+   because they can do it without worrying about breaking continuity
+   laws (since its Treehouse of Horror).  All the shorts lacked terror
+   and completeness.  Almost all of them had abrupt endings to them.  As
+   Mr. Kurth said, the first season's THoH didn't leave a sour taste in
+   your mouth because all three shorts delt with situations that weren't
+   so complicated, that didn't ahve so many levels to them than 7
+   minutes couldn't sustain them all.  These shorts deserved to have
+   more to them than 7 minutes (Except Citizen Kang, which I could've
+   totally done without).  (C-)
+
+David Ney:  Although it may not have been the greatest Halloween special
+   of all time, it was still pretty good.  The Dr. Hibbert / Knife gags
+   were great, and so was the pigeon rat.  I also loved the political
+   commentary.  (B+)
+
+Damian Penny:  "The Thing and I" - Bart finding his evil twin in the
+   attic seems ripe with comic possibilities, but this segment was just
+   not that funny, mainly because it wasn't quite as absurd as most of
+   the other Halloween sketches.  Grade: C "The Genesis Tub" - This one,
+   with Lisa accidently creating her own universe in a science project,
+   was better, largely thanks to the presence of a Frink lookalike in
+   Lisa's kingdom.  Problem was a surprising lack of movie references
+   and parodies - there were a few, but there were plenty of
+   opportunities for more. Grade: B "Citizen Kang" - Now, THIS is more
+   like it!  [...]  This one - especially "Dole"'s speeches - provided
+   some of the biggest laughs this show has given me in a long time, and
+   proves that our favorite show still has what it takes.  Grade: A
+   OVERALL - not bad, but probably the worst of all the Haloween
+   specials.  (B)
+
+Mark Aaron Richey:  A moderately amusing outing this time around.  None
+   of the three stories were out and out duds, but both "The Thing and
+   I" and "The Genesis Tub" had abrupt, unsatisfying conclusions.  Only
+   "Citizen Kang" was able to sustain itself to the end.  However, all
+   three were, for the most part, well written.  Hopefully, this is a
+   good indication of the season to come.  "Thing" and "Genesis" each
+   rate a B.  "Kang" rates an A-.  (B+)
+
+Ana Robles:  Not the best Tree House of Horror.  'The Thing and I'
+   wasn't bad (the vase joke cracked me up), I liked Genesis Tub,
+   although except for Frink, I didn't find it anything outstandingly
+   funny in it. I was rather disapointed with 'Citizen Krang' because I
+   was expecting some political humor, of which there was almost none. I
+   was suprised that Krang and Kodos we're that funny this time.  (C+)
+
+Matt Rose:  I liked the plot ideas very much, but there wasn't much to
+   laugh at. Dr, Hibbert's quip about the "Hillbillies prefer to be
+   called 'sons of the soil'" and Lisa's "I've created Lutherans" were
+   the only real memorable lines. Still, not a bad episode. Maybe if
+   last year's special hadn't aired before it I would have though more
+   highly of it.  (B-)
+
+Liam J. Scanlan:  A good solid episode. The best of the Treehouse of
+   Horrors. "The Thing and I" wasn't that good at all. A couple of good
+   laughs. I give it a 6/10. Both "The Genesis Tub" and "Citizen Kang"
+   made me ROTFLMAO a hundred times. I give both a perfect ten!  (A-)
+
+Rick Senger:  After more than four months, it was unlikely the show
+   could meet expectations, but I wasn't particularly impressed.
+   Halloween 'sodes have always been classic, but while this one was
+   funny, it was the second worst of the seven (the first being the
+   worst).  The Kodos/Kang bit had some excellent political satire and
+   was generally strong.  The Genesis Tub was only okay, despite the
+   thought provoking religious angle and weird premise.  Bart's
+   conjoined twin just didn't do it for me.  Too predictable and almost
+   no real gags, funny or otherwise. The Thing And I: C  The Genesis
+   Tub: B  Citizen Kang: A  (B)
+
+Aaron Varhola:  Not up to most of the previous THOH episodes; more of an
+   emphasis on storytelling, with fewer references, but all three shorts
+   had problems leading up to an ending.  The Thing and I: Interesting
+   premise, with a few gags, but never seemed to go anywhere. C.  The
+   Genesis Tub:  Good, but disappointing.  A lot of deep theological
+   questions posed about the relation of a people to their God, but a
+   rushed ending hurt this one.  B+. Citizen Kang: Vicious political
+   satire, and Kang's speech "twirling, twirling, twirling towards
+   freedom" is an instant .sig line quote. David S. Cohen's political
+   satire is effective, but the ending is a bit too abrupt.  (A-)
+
+Yours Truly: A somewhat enjoyable episode, but I expected way more out
+   of a Treehouse of Horror. "The Thing and I" was too cliche and
+   predictable, "The Genesis Tub" was rather nice but not great, and
+   "Citizen Kang" aimed at a much lower level than I thought The
+   Simpsons capable of. Combined with abrupt endings and out of
+   character scenes, this clearly rates in my book as the worst
+   Treehouse of Horror in many years.  (C+)
+
+
+AVERAGE GRADE: B- (2.75)
+
+NIELSEN RATING:  10.5  (ranked 31st out of 110)  {ol}
+
+==============================================================================
+> Comments and other observations
+==============================================================================
+>> Fish Heads, Fish Heads, Roly-Poly Fish Heads...
+
+Pamela S. Klemm:  "Fish Heads" is a novelty song by Barnes & Barnes,
+   which is an alias name for "Lost in Space" star Bill Mumy and a
+   friend of his. Anyway, the song is funny and has been on everyone of
+   Dr. Demento's Top 25 song of the year countdown.
+
+Mike Clawson provides us with the lyrics of that song, which he
+   attributes to the album "Woobaha" (1980, Rhino Records):
+
+      Fish Heads, Fish Heads, Roly Poly Fish Heads
+      Fish Heads, Fish Heads, Eat them up, Yum
+      In the morning, laughing, happy fish heads
+      In the evening, floating in the soup
+      Ask a fish head anything you want to
+      They won't answer, they can't talk
+      I took a fish head out to see a movie
+      Didn't have to pay to get it in
+      They can't play baseball, they don't wear sweaters
+      They're not good dancers, they don't play drums
+      roly poly fish heads
+      are never seen drinking cappucino
+      in Italian restaurants with Oriental women
+      Yeah
+
+Rick Diamant: Mostly famous for playing Will Robinson on Lost in Space,
+   Bill Mumy also played the little boy in the episode `It's a Good
+   Life' on the original Twilight Zone, which was spoofed on the middle
+   episode of Treehouse of Horror II.  What a coincidence!
+
+Today's viewers will recognize him as Lennier on Babylon 5. Funny
+   enough, Lennier is a Minbari, which race can be easily spotted by the
+   big bone they have on the head. This has often lead Humans to call
+   them "boneheads" -- coincidence?  
+
+
+>> I think I'll bottle-feed that one
+
+Benjamin Jay Robinson:  Actually, I thing Marge ended up bottle-feeding
+   all of her children. An experiment conducted by pediatricians
+   discovered that babies use one sucking technique for bottles and
+   pacifiers, and a different one for breast-feeding.  Mothers who
+   breast-feed should not use pacifiers, the doctors warned, because
+   this could lead to -- I am not making this up - - a condition called
+   "nipple confusion."
+
+   Okay, it was only tangentially related to the story, but how often do
+   you get to say "nipple confusion" in polite conversation?
+
+
+>> Attack of the Kung Pao Chicken
+
+Benjamin Jay Robinson: The health risks of alcohol and tobacco are well
+   known to anyone not in the employ of the beer and cigarette
+   industries.  The hazards of Chinese food are a little more obscure.
+   Monosodium glutamate (MSG) used to be a frequent ingredient in
+   take-out Chinese cookery (and popular in snack foods such as Doritos,
+   as well).  Unfortunately, some people have a bad allergic reaction to
+   MSG, and people on low-sodium diets should also avoid it.  Chinese
+   restaurants now offer low-MSG dishes so often that the phrase, "No
+   MSG," has virtually become a cliche slogan.
+
+   The story does not end there, however.  A recent study indicts some
+   popular dishes as being high in fat.  The nutritionists publishing
+   the study listed Kung Pao chicken as the worst offender.  The Chinese
+   food lobby contested this, saying that in people in China ate dishes
+   like Kung Pao chicken only occasionally, while staple foods, like
+   rice, were actually quite healthy.  I suppose next they'll find
+   something in the soy sauce....
+
+
+>> Didn't I see you before, little guys?
+
+Ah, how many references were given to The Genesis Tub...
+
+Harv Laser:  Genesis Tub was a parody of of an old Zone (whose title I
+   forget) in which two astronauts land on a seemingly barren asteroid
+   to do ship repairs. [...] While working on their rocket, the other
+   spaceman wanders off and discovers a microscopic civilization near a
+   tiny rivulet of water. He starts to lord it over them, literally,
+   and they worship him as a god as the tiny people in Lisa's tub
+   worshipped her, even building a huge statue of him as the tub people
+   did for Lisa. However he is "evil" (like Bart) and not benevolent
+   and caring (like Lisa). To prove his god-hood to the tiny people he
+   stomps his boots on parts of their city, like Bart's "Uh oh, my
+   finger slipped!"
+
+Alan Hamilton:  Actually, I think it's a reference to Theodore
+   Sturgeon's "Microcosmic God".  This is a short story published in
+   1941 about a man who creates miniture life that evolves quickly into
+   an advanced civilization (the Neoterics) who think of him as a god. 
+   His financer turns against him, and trys to destroy him and the
+   Neoterics. In the story, the Neoterics create an impeneratable
+   shield to protect themselves.
+
+Daniel L. Dreibelbis:  To me, it's also reminiscient of an episode of the
+   original OUTER LIMITS called "Wolf 359", in which a biological culture
+   made from a meteorite from that area of space becomes a civilization and
+   also advances rapidly to a nuclear age. (the name of the episode was the
+   inspiration years later for the area of space where the Federation battle
+   the Borg and get their butts kicked on ST:TNG)"
+
+Rick Senger: Lisa's creation of a new microscopic life form in a small
+   dish reminds one of Wesley Crusher's creation of Nanites, a new
+   microscopic life form, in a third season episode of ST:TNG.
+
+   Lisa's miniaturization and integration with the futuristic city she
+   created is mighty similar to a famous Superman comic book from the
+   late 50's in which Superman gets shrunk down to size to communicate/
+   help a futuristic/highly evolved city of Kryptonians called Kandor.
+
+Aaron Varhola:  I'd have to say that the city itself was inspired by
+   SimCity 2000, especially Bart's interference with it. Who else among
+   us has saved their city, then watched the fun as they unleash
+   disaster after disaster on their poor little city? :)
+      [I know I did -- ed]
+
+
+>> Funny, I thought that some German guy created Lutherans
+
+Benjamin Jay Robinson:  Once upon a time, all of Western Christendom
+   was united under the Roman Catholic Church and the Pope.  The
+   members of the clergy were only human, however, and fell victim to
+   the usual array of human vices.  The Church sometimes appeared more
+   interested in other people's purses than their souls.  (Among other
+   things, it was even possible to by pardons from sins by donating
+   money to the Church.) Some clergymen looked around them and thought
+   the Church could do better, from a spiritual standpoint.  One such
+   reformer, Martin Luther, even went so far as to write up his
+   reformations and nail them to the church door of the administrative
+   church in his area.  It might have ended there, except a local
+   printer (movable type was a recent invention, and printing was as
+   "hot" then as multimedia is today) printed up and distributed
+   Luther's reformist ideas.  The notions spread like wildfire through
+   the countryside.  The Lutherans -- and the Protestant movement in
+   general -- were born.
+
+   [Benjamin later added that Luther is said to have nailed his theses
+   on October 31st]
+
+
+>> The Hazards of Topical Humor
+
+Benjamin Jay Robinson:  Throughout "Citizen Kang," Bob Dole is referred
+   to as, "Senator Dole." Oops -- Dole quit the Senate several months
+   back to work on his campaign full time.  (Fat lot of good it did,
+   too.) Evidently, it was too late for the producers to change the
+   show to reflect this development.
+
+   [There has been quite a discussion on a.t.s. regarding whether or not
+   senators should still be called by this title after they quit. -- ed]
+
+
+>> Politician Figures
+
+   - Lyndon LaRouche
+
+Mark Aaron Richey:  A Democrat, he runs as an Independent every four
+   years after he fails to get his party's nomination.  I don't know
+   much about him, other than he usually buys a half-hour of network
+   time every so often (which usually ends up as the lowest-rated show
+   of the week), and he's conducted his last couple of campaigns from
+   jail.
+
+   - Ross Perot
+
+Mark Aaron Richey:  Another perpetual third party canadate.  A rich
+   Texas billionaire, he actually made a serious run for the office
+   four years ago.  This year, he's pretty much seen as a joke, even
+   though he does have about 7% in the latest polls, and he is from the
+   greatest city in the world.  He was also generous enough to buy my
+   Eagle Scout badge (as well as every other Eagle Scout's in Dallas).
+
+
+>> "Excuse me, little boy, but that's the press secretary's seat."
+   "I =am= the press secretary, you idiot!"
+
+Benjamin Jay Robinson:  The Democratic National Committee advisor who
+   warns `Clinton' about holding hands with `Dole' bears a striking
+   resemblance to George Stephanopolous [sic?], Clinton's first press
+   secretary.  (After a couple of years on the job, he stepped down.)
+   Mr. Stephanopolous was noted for both his youth (he was in his
+   twenties or early thirties when he took the job) and for his handsome
+   looks.  The latter item supposedly earned him a cult following among
+   the young female Washington Watchers.
+
+
+>> Don't forget your stinking flag
+
+Tom Restivo:  June 1976(5?), during the era of the Boston Busing Crisis,
+   there was a demonstration turned violent on City Hall Plaza. One of the
+   white participants saw a black man dressed in a suit and used the staff
+   of a flag pole (with flag attached) to spear and beat him. The picture
+   was taken by Stanley Forman of the Boston Herald American (now the Boston
+   Herald).
+
+   The photo won the 1976 Pulitzer Prize for Spot News Photography for
+   Mr Forman.
+
+   BTW, the view of Homer with the staff is 'reverse angle'; the picture
+   had the polethruster on the left (underhand jab, flag behind) and the
+   black professional sprawling but standing on the right of the photo.
+
+
+>> Loose Ends
+
+Haynes Lee:  Homer running around on fire in the beginning refers to
+   when Richard Pryor caught on fire while free-basing cocaine in the
+   1980s.
+
+Haynes Lee:  There was a pair of siamese good/evil siamese twins who was
+   never separated. One was drunk and slept around alot to the the
+   disgust of the other.
+
+Jason Hancock:  Boys Town is a community for underprivileged young boys
+   located near Omaha, Nebraska.  It was founded by Father Edward Flanagan
+   in 1917 and was made famous in a 1938 movie starring Mickey Rooney and
+   Spencer Tracy.
+
+Mark Aaron Richey:  Radio Shack is a chain of electronic shops.  They
+   contain all sorts of electronics from remote control cars to
+   computers.
+   [It's also known as a great place for geeks and nerds to hang out,
+   like I used to do years ago... -- ed]
+
+Mark Aaron Richey:  The time in Europe in the sixteenth and seventeenth
+   centuries when the Dark Ages ended and great advancments in science
+   and the arts were made.
+
+Of course Saturn has rings, but so do Jupiter, Neptune and Uranus. Given
+   the references to rectal probing, the latter is clearly Kang and
+   Kodos' home planet...
+
+Haynes Lee:  Giant ray gun looks like the super gun Saddam Hussein tried
+   to build.
+
+Dale G. Abersold:  Based on this episode and "Much Apu About Nothing"
+   [3F20], it seems that David S. Cohen has found his niche on the writing
+   staff, writing political satire.
+
+==============================================================================
+> Quotes and Scene Summary
+==============================================================================
+% First segment title: "The Thing and I"
+%
+% The night has fallen upon Springfield, and everything is quiet.
+% However, Bart and Lisa are awakened by strange moaning and rattling
+% sounds.
+
+Lisa: Did you hear that, Bart?
+Bart: Maybe it was just the cat.
+Lisa: No, she's sleeping with me.
+       [Snowball II shows up, wearing a baby bonnet and booties]
+-- Like child like cat, "Treehouse of Horror VII"
+
+% It appears the sounds originate from the attic. The next morning,
+% during breakfast, Bart asks Homer about it.
+
+ Bart: Did you guys hear something moving around in the attic last
+       night?
+Homer: Attic? Oh, that's silly.  [laughs]  Seriously though, don't ever
+       go up there.
+-- What a frank attitude, "Treehouse of Horror VII"
+
+Marge: Homer, isn't it about time for the... you know?
+Homer: Yeah, yeah, I'll go feed it.
+       [goes to the fridge, where he picks up a bucket of fish heads]
+       [singing] Fish heads, fish heads, doo doo doo doo doo...
+-- Nothing suspicious there, "Treehouse of Horror VII"
+
+% Homer whistles all the way to the attic, followed by Bart and Lisa.
+% They can't see what's going on in there, but the sound of animal
+% munching they hear is nothing to reassure them.
+%
+% The following night, Bart not only hears, but also sees something
+% crawling in the air ducts. Come morning, the kids ask to be told the
+% truth.
+
+ Lisa: What's up there?
+ Bart: Is it a monster?
+ Lisa: We have to know.
+ Bart: Tell us what's the secret.
+Homer: No more questions. I work my butt off to feed you four kids and
+       all you do is...  [Marge is staring at him]  What?
+Marge: *Three*. We have _three_ kids, Homer.
+Homer: Yeah, three _nosy_ kids. And you know what happens to nosy kids
+       who ask too many questions?
+ Kids: [quickly]  No, what? Does something happen? Does something happen
+       to nosy kids who ask questions? What happens?
+-- Never mind, "Treehouse of Horror VII"
+
+% Since they cannot get any explanation from their parents, Bart and
+% Lisa decide to investigate the matter. After Homer and Marge go out
+% for a moment, they form a human ladder with Maggie, who opens the
+% attic's door.
+%
+% Slowly and carefully, they step into the attic, where dozens of
+% useless items are stacked up, collecting dust. Among them, Bart
+% discovers the unsold copies of Homer's autobiography, "Homer, I Hardly
+% Knew Me". Lisa quickly directs his attention to a pair of restricting
+% chains, from which something has just escaped. The creature emerges in
+% the shadows and jumps right before the kids, causing them to run in
+% fear.
+
+       [view of 3 vases, matching the kids' height]
+Lisa: [muffled]  Bart, do you think it's safe?
+Bart: [muffled]  I don't care -- I can't breathe in here!
+       [the kids rush out of a nearby closet, gasping for air]
+-- They still remember Tracey Ullman, "Treehouse of Horror VII"
+
+% At that moment, Homer and Marge come back into the house.
+
+See, Marge, who needs a car-wash when you can just drive around in the
+rain?
+-- Homer, "Treehouse of Horror VII"
+
+Bart+Lisa: [quickly]  Mom! Dad! We saw something in the attic! We saw
+           something in the attic!
+    Marge: You went into the attic?  [gasps]  I'm very disappointed and
+           terrified.
+-- Thanks for calming my fears, "Treehouse of Horror VII"
+
+% Armed with an iron club, Homer pokes his head into the attic, and
+% witnesses that "it" has escaped, leaving behind his chains and a dish
+% full of bones. The whole family gasps in horror when they hear rapid
+% footsteps and see the front door wide open.
+%
+% Marge doesn't waste any time and picks up the phone.
+
+Marge: Yes, doctor. It's what we've always feared: it's loose. Hugo is
+       loose. See you soon!
+-- Casual phonecalls, "Treehouse of Horror VII"
+
+% Of course, Bart and Lisa overheard.
+
+ Bart: Who or what is Hugo?
+Marge: Hmm. I'm afraid we haven't been entirely honest with you, Bart.
+       You see... you have a brother.
+ Lisa: So I have _two_ brothers?
+Homer: Lisa, please.  [pushes her aside]
+-- "Treehouse of Horror VII"
+
+% Homer explains that Bart has in fact a twin brother: "When you were
+% born, there was an irregularity."  "A monstrous irregularity" adds Dr.
+% Hibbert, coming out of nowhere, much to Marge stupor.
+
+Hibbert: Yes, I remember Bart's birth well. You don't forget a thing
+         like... [dramatic] Siamese twins!
+   Lisa: I believe they prefer to be called "conjoined twins".
+Hibbert: And Hillbillies prefer to be called "sons of the soil". But it
+         ain't gonna happen.
+-- "Treehouse of Horror VII"
+
+% Dr. Hibbert narrates the birth of Bart and Hugo. It seems that one of
+% them was pure evil.
+
+        [Hibbert shows Bart-Hugo to Marge]
+        [one of them starts gnawing the other ferociously]
+Marge: I think I'll bottle-feed that one.
+-- "Treehouse of Horror VII"
+
+Hibbert: The routine soul smear confirmed the presence of pure evil. It
+         was then I knew the only option was to separate you two
+         immediately.  [chops a paper cutter]
+         [hands forms to Marge and Homer]  You'll both need to sign
+         these.  [chuckles]
+-- "Treehouse of Horror VII"
+
+Hibbert: But what to do with poor Hugo? Too crazy for Boys Town, too
+         much of a boy for Crazy Town. The child was an outcast. So, we
+         did the only humane thing.
+  Homer: We chained Hugo up in the attic like an animal and fed him a
+         bucket of fish heads once a week.
+  Marge: It's saved our marriage.
+-- "Treehouse of Horror VII"
+
+% But Bart remains sceptic: "You expect me to believe all this? If any
+% of it was true, wouldn't I have a big hideous scar right --". Indeed,
+% the scar is there.
+%
+% The family starts looking for Hugo.
+
+Homer: We'll search out every place a sick twisted solitary misfit might
+       run to.
+ Lisa: I'll start with Radio Shack.
+-- Hey, I used to hang out there!, "Treehouse of Horror VII"
+
+Bart, you stay home and tape the hockey game.
+-- Homer, "Treehouse of Horror VII"
+
+% Bart locks every door and window, until he hears rustling from inside
+% the house. "You're here, aren't you?" he realizes. His twin brother
+% comes out of the shadows, holding a glass and a plate of fish heads:
+% "Yes, Bart, I never left you." Bart inquires about what Hugo might
+% want from him. "You'll see, Hugo replies, after the surgery."
+%
+% So here is Bart, tied up in the attic.
+
+Hugo: I went mad after they tore us apart, but I'll be sane... once I
+      sew us back together.
+Bart: But you'll *kill* both of us.
+Hugo: No, it's easy. Look, I've been practicing: I made a pigeon-rat.
+       [said pigeon-rat flies into a wall, falls back, and tries to
+       enter a mouse hole]
+-- Natural evolution, "Treehouse of Horror VII"
+
+Well, let's get started: you want to be on the right or the left?
+-- Hugo, about to sew himself to Bart, "Treehouse of Horror VII"
+
+% Fortunately for Bart, Dr. Hibbert shows up right on time.
+
+Hibbert: There, there, Hugo. I understand. All those years caged up in
+         here, why, you've probably never ever seen your own face in the
+         mirror, have you? Here.
+          [Hibbert hands up a frame between him and Hugo]
+   Hugo: Mmm?  [stares into the frame, which reveals Hibbert's face]
+          [Hibbert punches him through the (empty) frame]
+-- No need for violence, "Treehouse of Horror VII"
+
+% Homer and Marge step in.
+
+We think we saw Hugo at the airport; he was boarding a plane to
+Switzerland and...  [sees Hugo]  Oh.
+-- Homer, "Treehouse of Horror VII"
+
+% Marge unties Bart while Hibbert and Homer take care of Hugo.
+
+Hibbert: You know, isn't it interesting how the left -- or sinister --
+         twin is invariably the evil one. I had this theory that... Wait
+         a minute. Hugo's scar is on the wrong side. He couldn't have
+         been the evil left twin. That means the evil twin is, and
+         always has been... Bart!
+   Bart: Oh, don't look so shocked.
+Hibbert: Well, chalk this one up to carelessness on my part.
+-- Pobody's Nerfect, "Treehouse of Horror VII"
+
+% Nevertheless, Hibbert thinks "there's a way to set everything right".
+%
+% Later that day, everybody -- with Hugo in lieu of Bart -- is gathered
+% around the table for a nice family dinner.
+
+Hibbert: Care for a drumstick, Hugo?
+          [Hugo noisily eats his drumstick in 3 seconds, wipes his
+          mouth, then starts eating the napkin]
+   Lisa: Mom, Hugo's eating his napkin.
+          [laughter]
+   Bart: [from the air ducts]  Hey, can I have some turkey?
+  Marge: No, you finish your fish heads. Then we'll talk.  [closes the
+         vent]
+-- "Treehouse of Horror VII"
+
+% [End of Act One.  Time: 7:00]
+%
+% Segment two title: "The Genesis Tub"
+%
+% In front of her mirror, Lisa looks at the newest gap in her dentition.
+
+Lisa: This tooth will be perfect for my science project.
+       [sets up her exhibit: "Will cola dissolve a tooth?"]
+      Science has already proven the dangers of smoking, alcohol and
+      chinese food, but I can still ruin soft drinks for everyone!
+-- A lifetime mission, "Treehouse of Horror VII"
+
+Bart: Hey, Lis. Check out _my_ science project.  [rubs a balloon over
+      his head, then touches Lisa with a spark of static electricity]
+Lisa: Ow! What's _that's_ supposed to prove?
+Bart: That nerds conduct electricity.  [touches her again]
+Lisa: Ow!
+-- "Treehouse of Horror VII"
+
+% Bart runs away laughing, and Lisa gets back to her exhibit. When she
+% touches her tooth, now soaking in cola, she gets a shock again.
+% "Stupid Bart" she grumbles, not making much a case of it.
+%
+% Throughout the night, Lisa sleeps deeply, while the tooth and the cola
+% seem to undergo some sort of strange electrical reaction. Come
+% morning, Lisa wakes up and looks at her experiment.
+
+Oh boy, mold! That's science fair pay dirt.
+-- I can't hold my excitement, "Treehouse of Horror VII"
+
+% She brings the tub under her microscope for further analysis. "Looks
+% about the same" she complains, until she notices the microscope is set
+% for 1x magnification. She brings it to 10x, then 100x, to find
+% something shocking: miniature prehistoric human lifeform.
+
+ Lisa: [gasps]  Tiny little people! My God! I've created life!
+Marge: Lisa! Breakfast! We're having waffles!
+ Lisa: Ooh! Waffles!  [runs down]
+-- The meal of choice of Darwin, "Treehouse of Horror VII"
+
+% She gets disappointed once she reaches her seat, as the promised
+% waffles are "just square pancakes", the waffle iron being in the shop.
+% "The waffle iron's been in the shop forever" she grumbles back to her
+% room.
+%
+% Taking another look at her microscope, she is stunned to observe that
+% her "little stone age tub dwellers" have already evolved into the
+% Renaissance.
+
+Wait, one of them is nailing something to the door of the cathedral.
+[gasps]  I've created Lutherans!
+-- Lisa, "Treehouse of Horror VII"
+
+% During the night, light emerges from the tub, lighting up the whole
+% room. The following day, the tub has already evolved well beyond our
+% own world. Lisa marvels to this sight of our own possible future.
+%
+% Bart steps in and inquires about her project; when he sees what seems
+% like a model city, he squashes some bits of it ("Oops, my finger
+% slipped"), and runs away laughing. Looking back at her microscope,
+% Lisa witnesses the damage he's caused.
+%
+% The following night, a squadron of spaceships launch from the tub and
+% proceed to attack Bart for a short time before they come back to their
+% base. Bearing many bumps on the face, the boy bursts into Lisa's room,
+% ready to strike back. Lisa stops him in time.
+
+Bart: Your micro-jerks attacked me!
+Lisa: Well, you practically destroyed their whole world.
+Bart: You can't protect them every second. Sooner or later, you'll let
+      your guard down, and then flush: it's toilet time for Tinytown.
+-- "Treehouse of Horror VII"
+
+% Bart leaves, and Lisa sits next to the tub, expressing a long sigh.
+% Her attention is suddenly caught by a whirring sound from the tub,
+% followed by some sort of energy which surrounds her, shrinking her and
+% bringing her into the tub. She is dropped on a tooth-shaped seat, in
+% front of an audience which seems to comprise every man and woman in
+% this world.
+%
+% A Frink-like man rejoices.
+
+It worked! The de-bigulator world!
+-- Tiny Frink, "Treehouse of Horror VII"
+
+% The audience hails her, and what seems to be a spiritual leader greets
+% her.
+
+Leader: Welcome to our world, most gracious Lisa.
+  Lisa: Your world is incredible. _And_ you speak English.
+Leader: We have listened to you speak since the dawn of time, O Creator.
+        And we have learned to imatoot you exarktly.
+-- Close enough, "Treehouse of Horror VII"
+
+% The audience bows, revealing a statue of Lisa. She then realizes that
+% she is granted the status of godhood, as she is the one who created
+% this world. In that aspect, those people are counting on her to save
+% them from the devil, ie. Bart.
+%
+% When she announces that the devil is her brother, murmurs emerge from
+% the audience. Gradually, people come forward with the usual boring
+% theological questions (why does a good god allow bad things).
+
+ Lisa: Listen, I can take care of everything. All you have to do is
+       unshrink me.
+Frink: Unshrink you? Well, that would require some sort of a
+       *re*-bigulator, which is a concept so ridiculous is makes me want
+       to laugh out loud and chortle, and...  [Lisa looks at him]  uh...
+       but not at you, O holiest of gods, with the wrathfulness and the
+       vengeance and the blood rain and the hey-hey-hey-it-hurts-me...
+-- "Treehouse of Horror VII"
+
+% His words are quickly covered by screams from the audience, as the
+% grinning face of Bart appears in the sky. He closes the tub, which is
+% later opened by... Principal Skinner.
+
+First-rate work, Bart. This universe you've created is even more
+impressive than Martin's milk-carton ukulele.
+-- Principal Skinner, "Treehouse of Horror VII"
+
+% Skinner nominates Bart as winner, and instructs Willy to throw out the
+% other projects. Children moan.
+
+Principal Skinner, wait! *I* created the universe! Give _me_ the gift
+certificate!
+-- Lisa, "Treehouse of Horror VII"
+
+Lisa: Oh, great. I'm stuck in this lousy tub for the rest of my life.
+       [people stare at her]
+      Shouldn't you people be grovelling?
+       [they do]
+      And bring me some shoes. Nice ones.
+ Man: She'll want socks, too. I'll get socks.
+-- "Treehouse of Horror VII"
+
+% [End of Act Two.  Time: 12:52]
+%
+% Third segment title: "Citizen Kang"
+%
+% Late at night, Homer is relaxing on a boat.
+
+Homer: Ah... The old fishin' hole. So peaceful and relaxing, doesn't
+       even matter if I catch a single fish.  [yawns]
+       [pauses, then abruptly springs forward]
+       Come on, you stupid fish! Take the bait! Don't make me come down
+       there!
+-- The pleasures of fishing, "Treehouse of Horror VII"
+
+% His attention is quickly grabbed by nothing else than a flying saucer
+% over him. The saucer drops a crane and brings him on board -- after
+% dropping him in the lake once.
+%
+% His abductors are none else than... Kang and Kodos!
+
+Oh, my God. Space aliens. Don't eat me! I have a wife and kids! Eat
+them!
+-- Homer faces alien abduction, "Treehouse of Horror VII"
+
+ Kang: Silence! We are travellers from a certain nearby ringed planet
+       whose name we'd prefer not to mention.
+       My name is Kang, and this is my sister Kodos.
+Kodos: [masculine voice]  Hello.
+-- Charmed, "Treehouse of Horror VII"
+
+Homer: [gulps]  I suppose you want to probe me. Well, might as well get
+       it over with.  [unzips his pants]
+ Kang: [disgusted]  Stop! We have reached the limits of what rectal
+       probing can teach us.
+-- And what a passionating subject, "Treehouse of Horror VII"
+
+% Kodos explains that they're on a mission of conquest, and need to
+% locate Earth's leader.
+
+Homer: I guess you mean President Clinton. He usually hangs around
+       Washington, D.C.
+ Kang: President Clin-Ton? Excellent.
+Homer: Except, um... there's this election next week, so after that, it
+       might not be him anymore. It might be what's-his-name, uh...
+       Mumbly Joe, uh... I saw him on TV the other... uh... Bob Dole!
+-- The well-informed American voter, "Treehouse of Horror VII"
+
+% This election complicates matters a bit, so Kang and Kodos decide to
+% abduct both candidates.
+%
+% Their first target is Bob Dole, who's walking out of the Republican
+% National Committee.
+
+Ugh, Bob Dole doesn't need this.
+-- Bob Dole being abducted by aliens, "Treehouse of Horror VII"
+
+% Next is Bill Clinton, who they pull through the roof of the White
+% House, still in bed.
+
+Wha-wha-wha what's happening? Is it noon already?
+-- Bill Clinton being abducted by aliens, "Treehouse of Horror VII"
+
+% Dole and Clinton are stripped bare naked (urgh!) and pushed into some
+% kind of tube.
+
+What the hell is this, some kind of tube?
+-- Bob Dole, in some kind of tube, "Treehouse of Horror VII"
+
+% Dole's tube quickly fills up with some sort of fluid which stops his
+% movements, yet keeps him alive. Clinton thanks Kang and Kodos for
+% taking care of Dole for him, but he soon goes through the same
+% process.
+%
+% The aliens link themselves to the tubes, and initiate a
+% bio-duplication. In other words, Kang and Kodos take the shape of Dole
+% and Clinton, respectively.
+
+Oh, no! Aliens, bio-duplication, nude conspiracies... Oh my God! Lyndon
+LaRouche was right!
+-- Homer, "Treehouse of Horror VII"
+
+Kodos: What? Are you still here? I'm afraid we'll have to dispose of
+       you...  [pushes a button]
+        [out of somewhere comes a cannon, which reveals a smaller
+        cannon, which reveals an even smaller one, from which emerges a
+        tube, spraying Homer]
+Homer: What are you spraying me with?
+ Kang: Rum. So no one will believe your story.
+        [Kodos kicks Homer off the saucer]
+Kodos: And don't come back.
+-- That should take care of him, "Treehouse of Horror VII"
+
+% The next morning, Marge and the kids watch a portable TV in the
+% kitchen.
+
+ Kent: Kent Brockman here, with Campaign '96: America Flips A Coin. At
+       an appearance this morning, Bill Clinton made some rather cryptic
+       remarks, which aides attributed to an overly tight necktie.
+Kodos: I am Clin-Ton. As overlord, all will kneel trembling before me
+       and obey my brutal commands.  [crosses arms]  End communication.
+Marge: Hmm, that's Slick Willie for you, always with the smooth talk.
+-- "Treehouse of Horror VII"
+
+% Homer runs in.
+
+Marge! Marge! There I was, I had just caught the largest fish you'd ever
+seen, when I was abducted by a flying saucer!
+-- Homer, catching up the fisherman profile, "Treehouse of Horror VII"
+
+% "Sure you were, rummy" replies Bart. Homer gasps when he sees Dole on
+% the screen.
+
+Kent: Senator Dole, why should people vote for you instead of President
+      Clinton?
+Kang: It makes no difference which one of us you vote for. Either way,
+      your planet is doomed. DOOMED!
+Kent: Well, a refreshingly frank response there from senator Bob Dole.
+-- "Treehouse of Horror VII"
+
+These candidates make me wanna vomit in terror!
+-- Homer speaks out loud what we think, "Treehouse of Horror VII"
+
+% Bob Dole gives an electoral speech:
+
+Announcer: Ladies and Gentlemen, 73-year-old candidate, Bob Dole.
+     Kang: Abortions for all.
+            [crowd boos]
+           Very well, no abortions for anyone.
+            [crowd boos]
+           Hmm... Abortions for some, miniature American flags for
+           others.
+            [crowd cheers and waves miniature flags]
+-- American politics in its simplicity, "Treehouse of Horror VII"
+
+% Later, Kang and Kodos are walking down the streets, holding hands.
+
+ Kang: Fooling these Earth voters is easier than expected.
+Kodos: Yes. All they want to hear are bland pleasantries embellished by
+       an occasional saxophone solo or infant kiss.
+-- "Treehouse of Horror VII"
+
+% A Democratic National Committee van pulls up, and George
+% Stephanopoulos pokes his head out.
+
+George: Uh, Mr. President, Sir. People are becoming a bit... confused by
+        the way your and your opponent are, well, constantly holding
+        hands.
+  Kang: We are merely exchanging long protein strings. If you can think
+        of a simpler way, I'd like to hear it.
+-- "Treehouse of Horror VII"
+
+% One night, Springfield holds a Dole-Clinton debate. Clinton is giving
+% the opening speech:
+
+My fellow Americans. As a young boy, I dreamed of being a baseball, but
+tonight I say, we must move forward, not backward, upward not forward,
+and always twirling, twirling, twirling towards freedom.
+-- Kodos gives a speech, "Treehouse of Horror VII"
+
+% The crowd is cheering heartily, and Dole is about to take the stand,
+% when Homer comes bursting in.
+
+Homer: Stop! Those candidates are phonies!
+        [crowd murmurs]
+       You heard me! They're alien replicons from beyond the moon!
+        [crowd laughs at him]
+-- You just said the "A" word, "Treehouse of Horror VII"
+
+% Homer tries to prevent secret agents from throwing him out by using a
+% flag as defence, but to no avail. "Don't forget your stinking flag"
+% says one, before throwing it at him.
+%
+% Dejected, Homer takes a walk by the shore of a lake.
+
+Why won't anyone believe my crazy story?
+-- Homer, "Treehouse of Horror VII"
+
+% In frustration, he kicks a bush, only to hit metal. Removing the bush,
+% he discovers the aliens' spaceship -- clearly visible anyway. Inside,
+% he removes the liquid from the tubes, re-animating the real
+% candidates.
+
+Clinton: Oh, no, am I still here? I don't wanna serve out my term naked
+         in a tube...
+   Dole: I am so mad at the Secret Service right now.
+-- Clinton and Dole wake up, "Treehouse of Horror VII"
+
+% Homer takes the ship in space, flying towards Washington.
+
+Clinton: You know, Senator, being in suspended animation gave me time to
+         think. Partisan politics are tearing our country apart.
+   Dole: You got a point there, Bill. If you and I are gonna whup these
+         one-eyed space fellas, we're gonna have to set aside our
+         differences.
+Clinton: Together, we can lead America into a new Golden Age.
+   Dole: Friend, you got a deal. 
+-- But enough with the fairy tales, "Treehouse of Horror VII"
+
+% Dole asks Homer to get them out of those tubes, but Homer somehow
+% manages to press the wrong button, and sends them both flying into
+% space.
+
+Oh, no. What have I done? What am I doing? What will I do?
+-- That is the question, "Treehouse of Horror VII"
+
+% In panic, Homer smashes the control panel, and sends the saucer
+% crashing towards Washington.
+%
+% Meanwhile, outside the Capitol, the candidates are giving their last
+% electoral speach.
+
+ Kang: The politics of failure have failed. We need to make them work
+       again. Tomorrow, when you are sealed in the voting cubicle, vote
+       for me, Senator Ka... Bob Dole.
+        [applause]
+Kodos: I am looking forward to an orderly election tomorrow, which will
+       eliminate the need for a violent blood bath.
+        [applause]
+-- Pre-electoral speeches, "Treehouse of Horror VII"
+
+% From the sky comes a scream, as Homer is crashing right into the
+% Capitol. A few footsteps later, he comes running down the stairs.
+
+Homer: America, take a good look at your beloved candidates. They're
+       nothing but hideous space reptiles.  [unmasks them]
+        [audience gasps in terror]
+Kodos: It's true, we _are_ aliens. But what are you going to do about
+       it? It's a two-party system; you have to vote for one of us.
+        [murmurs]
+ Man1: He's right, this is a two-party system.
+ Man2: Well, I believe I'll vote for a third-party candidate.
+ Kang: Go ahead, throw your vote away.
+        [Kang and Kodos laugh out loud]
+        [Ross Perot smashes his "Perot 96" hat]
+-- "Treehouse of Horror VII"
+
+% The next day, Kodos announces the result: "All hail, President Kang."
+%
+% The field in front of the Capitol has now become a working ground
+% where humans are whipped by aliens and used to carry materials.
+%
+% The Simpsons family is working too, with Homer and the kids carrying
+% wood, and Marge pushing a wheelbarrow of cinderblocks -- with Maggie
+% on top.
+
+Marge: I don't understand why we have to build a ray gun to aim at a
+       planet I never even heard of.
+Homer: Don't blame me, *I* voted for Kodos.
+-- "Treehouse of Horror VII"
+
+% [End of Act Three.  Time: 21:28]
+
+==============================================================================
+> Contributors
+==============================================================================
+{ak}  Andrew Krupowicz
+{av}  Aaron Varhola
+{bjr} Benjamin Jay Robinson
+{ddg} Don Del Grande
+{dga} Dale G. Abersold
+{dk}  Diego Kontarovsky
+{dn}  David Ney
+{dp}  Damian Penny
+{hl}  Haynes Lee
+{jh}  Jason Hancock
+{jm}  Jon May
+{jr}  Joe Reeves
+{ks}  Ken Simons
+{ljs} Liam J. Scanlan
+{mar} Mark Aaron Richey
+{mk}  Matthew Kurth
+{rl}  Ricardo Lafaurie
+{rs}  Rick Senger
+{sb}  Stephan Bonneville
+{th}  Tony Hill
+==============================================================================
+> Legal Mumbo Jumbo
+==============================================================================
+This episode capsule is Copyright 1996 Frederic Briere. It is not to be
+redistributed in a public forum without consent from its author or current
+maintainer (capsules@snpp.com). Any quoted material, episode summaries and
+lack of episodes this summer remain property of The Simpsons, Copyright of
+Twentieth Century Fox. If swallowed, see a doctor.
+
+This work is dedicated to Raymond Chen, James A. Cherry, Ricardo Lafaurie, and
+all of those who made episode capsules what they are today.

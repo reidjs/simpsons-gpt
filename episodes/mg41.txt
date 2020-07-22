@@ -1,0 +1,115 @@
+Bart's Fantasy                                         Written by Matt Groening
+===============================================================================
+[$Id: mg41 1.1 92/04/11 11:29:59 raymond Exp Locker: raymond $]
+===============================================================================
+> Didja notice...
+===============================================================================
+    Voice credits:
+        NANCY CARTWRIGHT as Bart
+        YEARDLEY SMITH as Lisa
+        JULIE KAVNER as Mrs. Simpson
+
+    Animation producer was Margot Pipkin.
+    Animators were Wesley Archer and David Silverman.
+
+    ... Maggie fell once?  (When the door slammed.)
+        Twice if you count the fall in the intro.
+    ... Adult-sized Maggie still sucked on a pacifier?
+    ... in Bart's dream, the pictures on the wall are of Bart and Lisa?
+        In reality, the pictures on the wall are of Homer and Marge.
+
+===============================================================================
+> Freeze Frame Fun
+===============================================================================
+
+===============================================================================
+> Assorted comments and observations
+===============================================================================
+Brian Howard {bh} gives the timing for this short as 0:58, whereas the
+syndication package contains only 0:50 of animation.
+
+===============================================================================
+> Quotes and scene summary
+===============================================================================
+% H = Homer, M = Marge, B = Bart, L = Lisa
+%
+% Homer pushes the kids...
+
+H: Get in there!
+M: And clean up that mess!
+
+% ... into the rumpus room.
+%
+% Maggie, Bart and Lisa stand among the toys strewn all over the floor.
+
+L: Do we <have> to?
+H: Yup.
+B: Why?
+M: Because we're the parents and you're the children.
+
+% The door closes.  The force of the slamming causes Maggie to lose her
+% balance.  Lisa surveys the room.
+
+L: Oh no, this'll take forever!
+B: I've got a plan.  You guys clean up.  And I'll tell you a story.
+
+% Lisa has started pickup up stuff.
+
+L: Oh, brother.
+
+% Bart dives onto the couch, lies down, and tells a story...
+
+B: Once upon a time, there was a planet where the children were the parents
+   and the parents were the children...
+
+% Dissolve into Bart's fantasy.  Adult-sized Bart, Lisa and Maggie stand
+% in the doorway with a tiny Marge and Homer.  Bart shoves his parents...
+
+B: Get in there!
+L: And clean up that mess!
+
+% ... into the rumpus room.
+%
+% Homer and Marge stand among the household appliances, power tools, golf
+% clubs, and other adult toys strewn all over the floor.
+
+M: [young Marge voice] Do we <have> to?
+B: Yup.
+H: Why?
+L: Because we're the children and you're the parents.
+
+% The door slams shut.  Young Marge surveys the room.
+
+M: Oh no, this'll take forever!
+H: I've got a plan.  You clean up.  And I'll tell you a story.
+
+% Marge has started pickup up stuff.
+
+M: Forget it!
+
+% Dissolve back to Bart reclining on the couch.
+
+B: And then...
+
+% The door bursts open.
+
+M: Bart!
+
+% Homer storms in, grabs Bart, and yanks him out of the room.
+
+H: If you won't help your sister, then get out there and mow the lawn!
+
+% Lisa and Maggie look out the window to see Bart unhappily mowing the
+% lawn.  Maggie tugs on Lisa's arm.
+
+L: How does Bart's story end?  Well, everyone lived happily ever after.
+
+% The girls wave at Bart.  {Bart growls back.}
+%
+% [End Act One.  Time: 0:50]
+===============================================================================
+Shorts summaries Copyright 1992 by Raymond Chen.  Not to be redistributed
+in a public forum without permission.  (The quotes themselves, of course,
+remain the property of The Tracey Ullman Show, and the reproduced articles
+remain the property of the original authors.  I'm just taking credit for the
+compilation.)

@@ -1,0 +1,489 @@
+                          The Simpsons Archive's
+                      Simpsons Syndication Cuts Guide
+
+                          Season Ten (1998-1999)
+
+             "Syndication... is there anything they can't do?"
+
+                         Version 2.25 - 07 Apr 2001
+                          Last updated 04 Oct 2003
+
+                 Maintained by Matt Garvey <garvey@snpp.com>
+                      Guide created by Frederic Briere
+               Contributions from Chad Lehman and Tim Reardon
+
+[===========================[Season Ten Summary]============================]
+
+Story cut episodes: 5F19, AABF02, AABF03, AABF07, AABF09, AABF10, AABF13.
+Compressed episodes: All episodes were compressed.
+Changed content: AABF10.
+
+Story time cut: 3:03 (3 min 3 sec)
+Total time gained: 29:45 (29 min 45 sec)
+
+Notes: One will notice the lack of cuts in Season 10. Woo hoo! It seems that
+       they've opted more for compression than cuts. By Season 11 we notice
+       that cuts are almost non-existent. Too bad we can't apply this type
+       of syndication to some butchered classics. *Sigh* [-ed] 
+
+ ==[ 5F20 ]============================================ Lard of the Dance ===
+         CUTS:  0 seconds     GAINED: 77 seconds      20:01 / 21:18
+                            Original short opening
+
+~~~~~    ACT I    <---->   (0:28)   6:24 / 6:52
+~~~~~    ACT II   <---->   (0:29)   6:47 / 7:16
+~~~~~    ACT III  <---->   (0:20)   6:50 / 7:10
+
+
+ ==[ 5F21 ]============================== The Wizard of Evergreen Terrace ===
+         CUTS:  0 seconds     GAINED: 75 seconds      19:39 / 20:54
+                               Original opening
+
+~~~~~    ACT I    <---->   (0:25)   7:01 / 7:26
+~~~~~    ACT II   <---->   (0:25)   6:58 / 7:23
+~~~~~    ACT III  <---->   (0:25)   5:40 / 6:05
+
+
+ ==[ 5F22 ]============================================== Bart the Mother ===
+         CUTS:  0 seconds     GAINED: 81 seconds      20:02 / 21:23
+                            Original short opening
+
+~~~~~    ACT I    <---->   (0:21)   5:45 / 6:06
+~~~~~    ACT II   <---->   (0:31)   8:15 / 8:46
+~~~~~    ACT III  <---->   (0:29)   6:02 / 6:31
+
+
+ ==[ AABF01 ]===================================== Treehouse of Horror IX ===
+         CUTS:  0 seconds     GAINED: 80 seconds      19:50 / 21:10
+                               Original opening
+
+~~~~~    ACT I    <---->   (0:29)   7:43 / 8:12
+~~~~~    ACT II   <---->   (0:25)   5:05 / 5:30
+~~~~~    ACT III  <---->   (0:26)   7:02 / 7:28
+
+
+ ==[ 5F19 ]==================================== When You Dish Upon a Star ===
+         CUTS: 26 seconds     GAINED: 73 seconds      19:18 / 20:31
+                               Original opening
+
+~~~~~    ACT I    <0:26>   (0:37)   4:35 / 5:12
+
+         Homer: Come on, boy. Let's get me a six-pack.
+           Man: Uh, sir, you can't operate a boat under the influence of
+                alcohol.
+         Homer: Oh, that sounds like a wager to me.
+
+       % Homer, Marge, Bart and Maggie sit in the boat, and Lisa is on skis,
+       % standing on the bank holding a tow rope.
+       %
+       % Homer: Life jackets?
+       %  Bart: Check.
+       % Homer: Tow rope?
+       % Marge: [grabbing it] Secure.
+       % Homer: Skier?
+       %  Lisa: [raising hand] Ready.
+       % Homer: Here we go... [Homer takes off fast]
+<0:24> %  Bart: [immediately] She's down.
+       %
+       % The tow rope is skipping across the water.
+       %
+       % Homer: Oh, look at it go!
+       % Marge: [calling] Stay there, honey. We'll come back for you.
+       %
+       % Homer shifts the boat into reverse. The propellor gets nearer, and
+       % nearer. Lisa gets scared.
+       %
+       %  Lisa: Whoa! AAAH! [ducks underwater, then resurfaces after the boat
+       %        passes]
+         Marge: [driving boat] How's he doing?
+          Bart: I don't know. I think Dad might be a little heavy for
+                parasailing.
+         Homer: [tiptoeing across water] Faster, Marge! Faster!
+<0:02> %        [looking over his shoulder at turtles] The snapping turtles
+       %        are massing!
+
+         The boat approaches the beach, and Homer floats over it.
+
+       ! Some people will be upset at this Lisa scene being cut; others will
+       ! be ticked at the snapping turtle joke's demise. Myself, I thought
+       ! the shot of Marge sitting in the boat in her life jacket was too
+       ! sexy to cut =)
+
+
+~~~~~    ACT II   <---->   (0:24)   7:55 / 8:19
+~~~~~    ACT III  <---->   (0:12)   6:48 / 7:00
+
+
+ ==[ AABF02 ]======================================== D'Ohin' in the Wind ===
+         CUTS: 51 seconds     GAINED: 81 seconds      19:07 / 20:28
+                               Original opening
+
+       ! The 30 seconds saved by compression should have been enough to
+       ! take the episode below 20 minutes, without the need for cuts.
+
+~~~~~    ACT I    <0:04>   (0:19)   7:33 / 7:52
+
+         Burns: Guh--you dunderheaded stooges are the worst bunch of--!
+
+         The commercial ends.
+
+         Marge: Hey! [as family applauds]
+         Homer: Pretty good, huh?
+<0:04> % Marge: Well, it's... better than that last Barbra Streisand movie.
+          Lisa: I didn't quite get the point of it, Dad...
+
+
+~~~~~    ACT II   <0:47>   (0:54)   6:09 / 7:03
+
+
+       % The entire first scene of Act II is cut. Establish house. Homer
+       % stands in the living room, wearing his poncho.
+       %
+       %   Homer: Okay. If I'm going to be a real hippie, I have to learn
+       %          from the master--Mr. Bob "flower child" Hope. [pops tape in
+       %          VCR]
+       %     Bob: [walks out on stage; making peace sign] Hey peace man, far
+       %          out. Groovy, I'm a hippie. [canned laugher] Ladies and
+       %          gentlemen, Miss Jill St. John! [applause]
+       %    Jill: [she walks on, and gives him a kiss] Hey, Bob. I just came
+       %          to invite you to the love in...
+       %     Bob: [purrs; audience laughs]
+       %    Jill: I got you a date with a perfect flower child... Phyllis
+<0:47> %          Diller.
+       %
+       % To a drumbeat, she walks on in hippie garb, cigarette holder.
+       % Audience applauds.
+       %
+       % Phyllis: [raspy] Let's get it on... [laughs]
+       %     Bob: [the flower in his hair wilts] Now I know how Dean Rusk
+       %          feels. [canned laughs] Good night, everybody.
+       %
+       % Homer sits on the floor taking notes.
+       %
+       %   Homer: [while writing] Bummer... love in... Dean Rusk... by
+       %          George, I've got it!
+       %
+       % Homer sits at the dinner table,
+         and leans his chair back to put his feet up.
+
+
+~~~~~    ACT III  <---->   (0:08)   5:25 / 5:33
+
+
+ ==[ AABF03 ]============================================= Lisa Gets an A ===
+         CUTS: 19 seconds     GAINED: 74 seconds      19:12 / 20:26
+                               Original opening
+
+~~~~~    ACT I    <0:03>   (0:14)   6:23 / 6:37
+
+         Marge: Oh, you don't sound so good. We'd better get you some cold
+                medicine.
+       % Homer: No problem, I picked some up at the store. [produces a box of
+<0:03> %        cold tablets on a toothpick]
+       % Marge: [disappointed] Tsk, Oh...
+
+
+~~~~~    ACT II   <0:16>   (0:22)   5:55 / 6:17
+
+
+         Homer: Come on boy, dig in.  It'll give you a big, strong thorax.
+
+         Pinchy pulls the sausage links into the wading pool, and Homer with
+         them.
+
+         Homer: Why you little-- Gah!
+
+       % Pinchy cowers against the side of the pool.
+       %
+       % Homer: [keeling in the pool] Aw, look at him cower... just like the
+<0:16> %        boy.  I can't stay mad at such a helpless little mammal.
+       %        [Pinchy perks up, and squirts Homer in the face; he laughs]
+       %        Oh, I'm going to get you for that, you little scamp!
+       %        [splashes Pinchy] Here, here--take that, Pinchy! [giggles]
+
+       ! Homer bonds with his lobster; important to the plot, but it gets
+       ! axed.
+
+
+~~~~~    ACT III  <---->   (0:38)   6:54 / 7:32
+
+       ! Some heavy duty compression, here.
+
+
+ ==[ AABF04 ]========================== Homer Simpson in "Kidney Trouble" ===
+         CUTS:  0 seconds     GAINED: 75 seconds      19:11 / 20:26
+                               Original opening
+
+       ! Heavy compression in ACTS II & III
+
+~~~~~    ACT I    <---->   (0:05)   7:08 / 7:13
+~~~~~    ACT II   <---->   (0:21)   4:11 / 4:32
+~~~~~    ACT III  <---->   (0:49)   7:52 / 8:41
+
+
+ ==[ AABF05 ]========================================= Mayored to the Mob ===
+         CUTS:  0 seconds     GAINED: 80 seconds      19:08 / 20:28
+                               Original opening
+
+~~~~~    ACT I    <---->   (0:28)   5:51 / 6:19
+~~~~~    ACT II   <---->   (0:28)   5:33 / 6:01
+~~~~~    ACT III  <---->   (0:24)   7:44 / 8:08
+
+
+ ==[ AABF06 ]========================================== Viva Ned Flanders ===
+         CUTS:  0 seconds     GAINED: 74 seconds      19:14 / 20:28
+                               Original opening
+
+~~~~~    ACT I    <---->   (0:19)   5:19 / 5:38
+~~~~~    ACT II   <---->   (0:31)   8:23 / 8:54
+~~~~~    ACT III  <---->   (0:24)   5:32 / 5:56
+
+
+ ==[ AABF07 ]================================= Wild Barts Can't Be Broken ===
+         CUTS: 30 seconds     GAINED: 86 seconds      19:02 / 20:28
+                               Original opening
+
+~~~~~    ACT I    <0:30>   (0:51)   5:30 / 6:21
+
+         Homer: So who won... the losers?
+          Bart: No, they lost.
+         Homer: Heh, heh, heh. Losers.
+       % Marge: But only by two points. And they didn't resort to stealing
+       %        bases like the other team, so it's kind of a moral victory.
+       %  Lisa: [reading program] With a little middle relief, they might
+<0:16> %        even make the playoffs.
+       % Homer: [smug] You'll be in your cold, cold grave before THAT ever
+       %        happens.
+       % Marge: [annoyed] Homer, would you _please_ stop talking about the
+       %        children's graves?
+
+         Six Months Later--Homer walks into Moe's.
+
+       ! Sloppy cut... they cut in late, right into the scene music as Homer
+       ! enters Moe's. Very obvious cut.
+
+~~
+         The Isotopes win the game, Homer dumps a beer on his head, and
+         Barney shakes up a keg--releasing it on Kent Brockman. He then chugs
+         it down.
+
+       %    Moe: [sadly stirring food on habachi; sighs]  Heh. nobody touched
+       %         my rumaki.
+       %  Homer: Woo! Rumaki! [picks it up and dumps it on Moe, who cringes]
+<0:06> %
+       % Cut to: Homer driving down the street, head out the window, holding
+       % a beer.
+       %
+       %  Homer: Yeah! [o.h. shot, weaving from lane to lane; honking horn]
+                 Iso-topes!
+       %                    Woo!
+       %
+       % Pan over to Barney, who chugs two beers. Carl and Lenny punch each
+       % other in the face, in the back seat.
+<0:08> %
+       %  Lenny: I-so [punches] topes!
+       %   Carl: Ugh! I-so [punches] TOPES!
+       %  Lenny: Rrr!
+       %   Carl: [off-screen; over Springfield Elementary sign] Isotopes!
+       %         [pull back to show school]
+                 [as they drive by the school] You know what I'm sayin'?
+         Barney: Yeah...
+
+
+~~~~~    ACT II   <---->   (0:11)   6:25 / 6:36
+~~~~~    ACT III  <---->   (0:24)   7:07 / 7:31
+
+
+ ==[ AABF08 ]====================================== Sunday, Cruddy Sunday ===
+         CUTS:  0 seconds     GAINED: 70 seconds      19:15 / 20:25
+                               Original opening
+
+~~~~~    ACT I    <---->   (0:25)   7:03 / 7:28
+~~~~~    ACT II   <---->   (0:22)   5:51 / 6:13
+~~~~~    ACT III  <---->   (0:23)   6:21 / 6:44
+
+
+ ==[ AABF09 ]=========================================== Homer to the Max ===
+         CUTS:  7 seconds     GAINED: 81 seconds      19:07 / 20:28
+                               Original opening
+
+
+~~~~~    ACT I    <---->   (0:22)   5:56 / 6:18
+~~~~~    ACT II   <0:07>   (0:25)   5:05 / 5:30
+
+         Producer: The thirteen of us began with a singular vision: Titanic
+                   meets Frasier!
+       %    Woman: But then we found out that ABC had a similar project in
+<0:07> %           development with Annie Potts and Jeremy Piven.
+       %    Homer: Who's Jeremy Piven?
+       %    Guy 1: We don't know.
+            Guy 2: But it scared the hell out of us, so we slapped together a
+                   cop show instead.
+
+
+~~~~~    ACT III  <---->   (0:34)   8:06 / 8:40
+
+
+ ==[ AABF11 ]============================================= I'm With Cupid ===
+         CUTS:  0 seconds     GAINED: 79 seconds      19:09 / 20:28
+                               Original opening
+
+~~~~~    ACT I    <---->   (0:24)   6:00 / 6:24
+~~~~~    ACT II   <---->   (0:23)   5:57 / 6:20
+~~~~~    ACT III  <---->   (0:32)   7:12 / 7:44
+
+
+ ==[ AABF10 ]================ Marge Simpson in "Screaming Yellow Honkers" ===
+         CUTS: 14 seconds     GAINED: 76 seconds      19:12 / 20:28
+                               Original opening
+
+~~~~~    ACT I    <0:14>   (0:42)   7:51 / 8:33
+
+           Gil: Who's voice is that? Is that Fred? [distraught] Oh, you said
+                it was over. No, don't put him on! [friendly] Neh-- hello,
+                Fred! Heh--hi!
+
+       % Stan tears off a computer print out.
+       %
+       %  Stan: Ok, you've got the under coating, clear coating, rust
+<0:14> %        proofing, underguard spray, [Homer looks spaced-out] gravel
+       %        guard XJ, Vitaseal, Repelzit-- but, if you wanna protect the
+       %        paint, you'd BETTER keep it in this tent. [throws green tent
+       %        on table]
+       % Homer: [excited] Will do.
+          Stan: Ok, here's how your lease breaks down.
+
+
+~~~~~    ACT II   <---->   (0:18)   5:57 / 6:15
+~~~~~    ACT III  <---->   (0:16)   5:24 / 5:40
+
+       ! In the original version with short credits, Homer starts reading his
+       ! retraction immediately over the Exec credits, and it all finishes in
+       ! time for the Gracie Films logo (where the gunshots are heard). In
+       ! syndication, there is silence over the Execs, presumably to keep it
+       ! all on one side of the commercial break; after the gunshots, the
+       ! normal theme starts "in progress," and the gunshots are heard again
+       ! at Gracie Films (talk about overkill! ha-ha! ha...). I have no idea
+       ! what satellite viewers saw. [-mg]
+
+
+ ==[ AABF12 ]========================================= Make Room for Lisa ===
+         CUTS:  0 seconds     GAINED: 78 seconds      19:09 / 20:27
+                               Original opening
+
+~~~~~    ACT I    <---->   (0:25)   5:56 / 6:21
+~~~~~    ACT II   <---->   (0:23)   5:12 / 5:35
+~~~~~    ACT III  <---->   (0:30)   8:01 / 8:31
+
+
+ ==[ AABF13 ]========================================= Maximum Homerdrive ===
+         CUTS: 36 seconds     GAINED: 78 seconds      19:11 / 20:29
+                               Original opening
+
+~~~~~    ACT I    <---->   (0:29)   6:49 / 7:18
+~~~~~    ACT II   <0:31>   (0:44)   5:19 / 6:03
+
+           Gil: [pulling his tie] Oh, that's just what I need... another
+                piranha in the tank.
+
+       % Cut to: Outside Joe's Diner "Now aware of camp value!". Red's truck
+       % is parked outside. Inside, Bart and Homer eat at the bar, as a
+       % waitress approaches with coffee.
+       %
+       %  Gwen: [offering coffee] Little more High Test, darlin'?
+       % Homer: Sure thing, [reading nametag] Gwen.
+       %  Gwen: [fills his cup] I'll be right back with your pie, hun.
+       %        [leaves]
+       % Homer: [fondly] Ah. That's a nice friendly gal.
+<0:31> %  Bart: Yeah.
+       % Homer: Wouldn't it be great to live right here at the truck stop,
+       %        watching all the people come and go [watching beautiful woman
+       %        pass] ... you could have a different best friend every day.
+       %  Bart: I suppose. [continues eating]
+       % Homer: Great. [pointing over shoulder w/thumb] I'll write your
+       %        mother and tell her the marriage is off. And then, when the
+       %        paperwork is done, [wistful] I'll make Gwen my wife.
+       %  Gwen: [returns with pie] Will that be all, sweetie?
+       % Homer: [sexy] For now...
+
+         Marge finishes installing the doorbell.
+
+
+~~~~~    ACT III  <0:05>   (0:05)   7:03 / 7:08
+
+         Trucker 1: Nah. Let's just find some other scam.
+       % Trucker 2: Hey. How 'bout bootleggin' Beanie Babies?
+       %  Truckers: [randomly] Sounds good to me--oh, I like that.
+
+         Red's rig arrives in Atlanta "Home of Ted Turner's mood swings"
+
+       ! Strangely enough, there is no compression in this act; after two
+       ! compressed acts, they stop--a first for the syndicators. It seems
+       ! five seconds saved by compression would have made this last cut
+       ! unnecessary
+
+
+ ==[ AABF14 ]===================================== Simpsons Bible Stories ===
+         CUTS:  0 seconds     GAINED: 76 seconds      19:16 / 20:32
+                               Original opening
+
+~~~~~    ACT I    <---->   (0:28)   5:47 / 6:15
+~~~~~    ACT II   <---->   (0:26)   5:29 / 5:55
+~~~~~    ACT III  <---->   (0:22)   8:00 / 8:22
+
+
+ ==[ AABF15 ]============================================ Mom and Pop Art ===
+         CUTS:  0 seconds     GAINED: 71 seconds      19:08 / 20:19
+                               Original opening
+
+~~~~~    ACT I    <---->   (0:38)   7:48 / 8:26
+~~~~~    ACT II   <---->   (0:21)   4:43 / 5:04
+~~~~~    ACT III  <---->   (0:12)   6:37 / 6:49
+
+
+ ==[ AABF16 ]============================== The Old Man and the C Student ===
+         CUTS:  0 seconds     GAINED: 82 seconds      19:07 / 20:29
+                               Original opening
+
+~~~~~    ACT I    <---->   (0:38)   7:47 / 8:25
+~~~~~    ACT II   <---->   (0:32)   5:36 / 6:08
+~~~~~    ACT III  <---->   (0:12)   5:44 / 5:56
+
+
+ ==[ AABF17 ]==================================== Monty Can't Buy Me Love ===
+         CUTS:  1 second      GAINED: 77 seconds      18:52 / 20:08
+                               Original opening
+
+~~~~~    ACT I    <---->   (0:36)   7:23 / 7:59
+~~~~~    ACT II   <---->   (0:29)   5:25 / 5:54
+
+       ! Previous versions of the guide said the one-second establishing shot
+       ! of the plant at the start of the act was missing, but it's in the
+       ! syndicated version I have - a local glitch for Chad? [-mg]
+
+
+~~~~~    ACT III  <---->   (0:11)   6:04 / 6:15
+
+       ! 18:51 is the shortest synd ep. I've seen since I took over.
+       ! (18:52 now, Chad... [-mg])
+
+
+ ==[ AABF18 ]==================================== They Saved Lisa's Brain ===
+         CUTS:  0 seconds     GAINED: 78 seconds      19:09 / 20:27
+                               Original opening
+
+~~~~~    ACT I    <---->   (0:30)   6:29 / 6:59
+~~~~~    ACT II   <---->   (0:32)   5:50 / 6:22
+~~~~~    ACT III  <---->   (0:16)   6:50 / 7:06
+
+
+ ==[ AABF20 ]================================== Thirty Minutes Over Tokyo ===
+         CUTS:  0 seconds     GAINED: 84 seconds      19:04 / 20:28
+                               Original opening
+
+~~~~~    ACT I    <---->   (0:32)   6:27 / 6:59
+~~~~~    ACT II   <---->   (0:33)   5:55 / 6:28
+~~~~~    ACT III  <---->   (0:19)   6:42 / 7:01
+
+
+ ==[ ---- ]==================================================================

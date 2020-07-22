@@ -1,0 +1,1577 @@
+                           The Simpsons Archive's
+                       Simpsons Syndication Cuts Guide
+
+                          Season Twenty (2008-2009)
+
+               "Syndication... is there anything they can't do?"
+
+                                 23 Sep 2010
+
+                 Maintained by Matt Garvey <garvey@snpp.com>
+                      Guide created by Frederic Briere 
+               Contributions from Chad Lehman and Tim Reardon
+
+[==========================[Season Twenty Summary]==========================]
+
+Story cut episodes: All but KABF17, KABF15, KABF16, KABF21, KABF22.
+Compressed episodes: KABF17, KABF15, KABF16, KABF18, KABF21, KABF22 (normal);
+                     LABF03, LABF04, LABF11, LABF05, LABF06, LABF08, LABF10,
+                     LABF09, LABF12 (chunky).
+Expanded episodes: KABF14, KABF19, KABF20 (normal);
+                   LABF01, LABF11, LABF07, LABF08, LABF12 (chunky).
+Altered content: KABF15, KABF22, LABF01, LABF08, LABF09.
+Altered opening: LABF11.
+Missing credits: KABF16 (Gracie), KABF18, LABF03.
+Original breaks: None!
+
+Total time cut: 7:09 (7 min 09 sec)
+Story time cut: 6:26 (6 min 26 sec) (not including added content)
+Total time gained: 7:35 (7 min 35 sec)
+
+Notes: They're finally breaking me. This was a terrible season for
+       syndication.
+
+       The biggest offender is the handling of the LABF episodes, for several
+       reasons. Beginning with that production season, the show has been in
+       high-def (720p) and in widescreen. It makes use of the entire 16:9
+       frame and is NOT 4:3-safe. However, the syndication package has
+       undergone the pan and scan treatment to deliver a 4:3 (and standard-
+       def?) version. If it is also available in widescreen in certain areas
+       or at stations' discretion, I have not been able to find out. But I do
+       know that it was constructed with some attention to the framing, as
+       various shots in the 4:3 version are not simply the middle of the
+       original picture. As an example, the blackboards would often be
+       illegible with a center cut, but can be read in syndication. For
+       specific notes about this, I have used an "F" (for framing) in the
+       column of symbols.
+
+       The resized Gracie logo, as seen in the HD/widescreen episodes, is
+       seen in the same proportions here (but letterboxed!), even in the KABF
+       holdovers. (KABF21 is the only exception, see also below.) Also, even
+       in SD format, these seem to be available in 5.1 sound in syndication.
+       Older seasons may also be available that way, but I only recently got
+       the appropriate equipment.
+
+       The other format change that occurred this season (KABF22 and up) was
+       the switch to four acts instead of three. On Fox, almost every episode
+       until then had commercials before the first act, and none before the
+       credits; this was usually reversed in syndication, with a handful of
+       exceptions in early seasons and then very many in seasons 17-19. With
+       that trend, even the stigma of credits seemed to be acceptable to
+       those preparing the syndication versions, so it was completely
+       reasonable to predict that the 4-act format would work out for
+       everyone if just left alone. How unreasonable I am. Instead, each of
+       those 13 episodes combines acts 3 and 4 into one, and orphans the
+       credits again. (There is no gap between the combined acts, and in fact
+       3 episodes blur the line between them. Also of note are the two that
+       call attention to their nature, LABF04 and LABF09; see the full text.)
+       The other 8 follow typical old syndication trends. Unrelated to
+       syndication but still interesting, the season 20 DVDs also treat acts
+       3 and 4 as one as far as chapter stops are concerned, despite having a
+       "spare". See my DVD guide.
+
+       This has the additional effect of breaking the streak of seasons
+       17-19. With one minor exception, episodes with no cuts had original
+       breaks, and episodes with original breaks had no cuts. It was so nice.
+       Now that's out the door. Special credits fare about as well as they
+       had under 17-19, though, with a few replaced for no good reason either
+       way; but whereas using the original breaks meant the special credits
+       were safe, with little guarantee otherwise, now with the Spanish voice
+       credits there is a little extra buffer to smooth the discontinuity.
+
+       In addition to the changes above, the LABF episodes also introduce a
+       new style of compression and expansion, which I'm terming "chunky". No
+       longer are episodes sped up or slowed down nearly imperceptibly and as
+       continuously as possible. Now much more discrete chunks are removed
+       from largely motionless areas such as establishing shots and after
+       lines. They are not worth detailing most of the time, but they wreck
+       the flow subtly anyway. There is no common compression style as some
+       recent seasons have had.
+
+       I'll remind you about all of this below.
+
+       In other news, the Spanish voiceover credits are still here (see
+       scg-19), but now, to fit in better, they're in the same yellow MG
+       handwriting font. The only exceptions are KABF16's, which are green to
+       match the TOH credits, and KABF21's, which for some reason use the
+       same white typed look as season 19.
+
+       Finally, as usual, there is no production code in XDS, and no visual
+       rating bug. The V-chip can find them, but a handful of ratings differ
+       from the original broadcasts. Some may be in error.
+       KABF17: was 14-DLSV, now shows as PG-DLSV
+       LABF01: was PG-D,    now shows as PG-DSV
+       LABF11: was 14-DLV,  now shows as PG-DLV
+       LABF05: was 14-DLSV, now shows as PG-DLSV
+       Three of them seem to downgrade the 14 to PG while keeping the
+       subcodes, as if to say "it's PG now"; how LABF01 got worse I do not
+       know.
+
+
+ ==[ KABF17 ]================================= Sex Pies and Idiot Scrapes ===
+         CUTS:  0 seconds     GAINED: 38 seconds      21:12 / 21:50
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:24 / 0:24
+ ~~~~~    ACT I    <---->   (0:11)   6:11 / 6:22 *Comp: start to near end
+ ~~~~~    ACT II   <---->   (0:17)   8:29 / 8:46 *Comp: start to near end
+ ~~~~~    ACT III  <---->   (0:10)   5:20 / 5:30 *Comp: start to almost end
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish badly sep
+
+
+ ==[ KABF15 ]=============================================== Lost Verizon ===
+         CUTS:  5 seconds     GAINED: 21 seconds      21:13 / 21:34
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:18 / 1:18
+ ~~~~~    ACT I    <---->   (0:01)   5:09 / 5:10 *Comp: post-cred to near end
+ ~~~~~    ACT II   <---->   (0:09)   8:54 / 9:03 *Comp: start to near end
+ ~~~~~    ACT III  <0:05>   (0:11)   5:04 / 5:15 *Comp: start to end
+
+       % Missing from the network repeats and syndication is a dedication to
+<0:05> % Paul Newman after the executive producers, featuring a still image
+       % from CABF21 (his salad dressing bottle). Underneath:
+       % Dedicated to the memory / of / PAUL NEWMAN
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish (+odd fanfare)
+
+       * There is also negligible compression in the credits.
+
+
+ ==[ KABF14 ]============================= Double, Double, Boy in Trouble ===
+         CUTS: 25 seconds     GAINED: 16 seconds      21:15 / 21:31
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:07 / 1:07 *Exp a bit?
+ ~~~~~    ACT I    <---->  (-0:03)   7:34 / 7:31 *Exp: after cred to end
+ ~~~~~    ACT II   <0:25>   (0:21)   7:50 / 8:11 *Exp: start to end
+
+         Milhouse: Yeah, but that was never gonna happen. [a crush on Lisa]
+
+       % Simon, in Bart's PJs, looks out the bedroom window. We see he's
+       % looking at Homer and Santa's Little Helper grappling over something
+       % in the (dark) yard. SLH is growling.
+       %
+       %    Homer: Give me back my newspaper!
+       %    Marge: [off screen] Homer, it's not a real paper! It's a rubber
+       %           chew toy!
+       %    Homer: [in closeup] For your information, The Daily Growl is the
+       %           only newspaper that's not afraid to say how great this
+<0:25> %           country is.
+       %
+       % (The newspaper toy has a headline, by the way: Man Bites Dog.) Homer
+       % gets it away from SLH, and as he talks to it he listens carefully:
+       %
+       %    Homer: Ha ha! [squeaks it] How's the war going? [squeaks twice]
+       %           We're winning? That's great! ...And our standing abroad?
+       %           [squeaks twice] Fantastic!
+       %
+       % Inside, Simon walks to the bed, gets out his cell phone, and
+         calls Bart from bed.
+
+
+ ~~~~~    ACT III  <---->  (-0:02)   3:56 / 3:54 *Exp: start to end
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish (+20th TV)
+
+
+ ==[ KABF16 ]==================================== Treehouse of Horror XIX ===
+         CUTS:  0 seconds     GAINED: 26 seconds      21:16 / 21:42
+                          Original Halloween opening
+
+ ~~~~~    OPENING  <---->   (----)   1:30 / 1:30 *Slight compression
+ ~~~~~    ACT I    <---->   (0:02)   4:54 / 4:56 *Comp: post-cred to near end
+ ~~~~~    ACT II   <---->   (0:12)   7:02 / 7:14 *Comp: HEAVY, to near end
+ ~~~~~    ACT III  <---->   (0:12)   7:01 / 7:13 *Comp: HEAVY, start to end
+ ~~~~~    ENDING   <---->   (----)   0:49 / 0:49 +0:04 Spanish GREEN***
+
+       % For some reason, the special Gracie sound (a pleasant piano-based
+       % Peanuts-like theme) is missing from Fox repeats and syndication. It
+       % is on the DVD, at least.
+
+
+ ==[ KABF18 ]=========================================== Dangerous Curves ===
+         CUTS: 26 seconds     GAINED: 36 seconds      21:15 / 21:51
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   0:49 / 0:49 *Slightly compressed
+ ~~~~~    ACT I    <0:19>   (0:21)   6:17 / 6:38 *Comp: after cred to end
+
+         Homer: Video games: the reason this generation of Americans is the
+                best ever.
+
+       % Outside shot of the station wagon. They pass an SUV superstore with
+<0:06> % banners: "GOING OUT OF BUSINESS" and "THANKS FOR NOTHING". A harp
+       % flashback to its "GRAND OPENING" (which we'll find out is 5 years
+       % earlier). Flashback Homer, Marge, and the twins drive into frame and
+         the background starts moving.
+
+       ! Note that you can clearly see the "grand opening" banner in synd.
+       ! Also, music started during the cut part but it is untouched, and
+       ! abrupt, in syndication. Seconds later:
+
+ ~~
+         Patty: You sneeze like a girl!
+
+       % Exterior shot of the car:
+<0:03> %
+       % Selma: Your neck looks like a sideways ass!
+       % Homer: That's it!
+
+         The car screeches to a halt and Homer dumps the twins out.
+
+ ~~
+         (Seconds later again!) On a shot of the empty fuel gauge:
+
+         Homer: Uh-oh.
+
+       % Homer and Marge walk down the right side of the street, with the car
+       % visible behind them. Homer has a gas can.
+       %
+<0:10> % Homer: How many times to I have to say I'm sorry? [now to side shot]
+       % Marge: You haven't said you're sorry!
+       % Homer: I know. I was hoping the number might be zero.
+       %
+       % They stop. Marge crosses to the left side (farther from the camera).
+         They resume walking down the street. Five grunts from Marge.
+
+
+ ~~~~~    ACT II   <0:07>   (0:12)   8:12 / 8:24 *Comp: start to end
+
+         Patty and Selma laugh twice at Homer's expense,
+       %                                                 then keep going as
+       % the shot blends into Homer (and then Sylvia) laughing on their
+<0:07> % chests on rafts in the pool (5 years ago). In fact, lots of
+       % laughter. Homer slams his arm down (the way one might slap one's
+       % knee) and falls off, knocking Sylvia in as well.
+                                                          She surfaces. They
+         laugh more and then we zoom out quickly to Alberto bringing Marge a
+         dress.
+
+       ! In syndication the new fade is pretty bad, and Homer's voice doesn't
+       ! match well in pitch either with the cut.
+
+
+ ~~~~~    ACT III  <---->   (0:03)   5:09 / 5:12 *Comp: start to end
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+       % In syndication, the special credits music (based on the movie "Two
+       % for the Road", which is referenced throughout the episode [thanks to
+       % a.t.s user "swansong"]) is replaced with the normal theme. Ugh. I
+       % might also note that it was not continued over from the executive
+       % producers and would work with the commercial break.
+
+
+ ==[ KABF19 ]======================== Homer and Lisa Exchange Cross Words ===
+         CUTS: 84 seconds     GAINED: 36 seconds      21:14 / 21:50
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:23 / 0:23 *Expanded slightly
+ ~~~~~    ACT I    <---->  (-0:05)   6:40 / 6:35 *Exp: after cred to end
+
+       % The Fox premiere had a little glitch left in between Bart's mention
+       % of "San Francisco people mover" and Homer at the gay club. It was a
+       % half frame that read
+       %
+       % Scene 151
+       % Take 2
+       % Akom &
+       % Film Roman Fix
+       %
+       % It's not apparent in any other version (repeats, synd, DVD). Eh.
+
+
+ ~~~~~    ACT II   <1:24>   (1:00)   7:47 / 8:47 *Exp: heavy throughout
+
+         Chalmers: Skimmer!!
+          Skinner: You called?
+         Chalmers: You misheard.
+          Skinner: My mistake.
+
+       % Establishing shot of Simpson house at night. Homer hums. We see
+       % Homer and Marge in bed, Homer holding a wad of bills.
+       %
+       %    Homer: Marge, if I had a hundred dollars for every customer I've
+       %           broken up, I'd have exactly this amount. 'Cause that's
+       %           what I charge! [laughs]
+       %    Marge: Homie, I'm not sure about this new business of yours.
+       %           You're making it too easy for couples to break up, just
+       %           because they hit a rough patch.
+       %    Homer: [patting her hand] I know this is hard on you, but in time
+       %           you'll come to see it's for the best.
+       %    Marge: [yanks her hand away] That's one of your breakup lines!
+       %           [folds her arms, stares for a second] What would have
+       %           happened if there was someone who could break us up every
+       %           time I had my doubts about you?
+       %
+       % Homer considers this for a moment, then looks up in epiphany. Marge
+       % turns off the light and rolls over. Match fade to a slightly wider
+       % shot: Marge is asleep, Homer still pondering wide-eyed. Dramatic
+       % music that will fill the scene starts. Another slightly wider shot,
+       % then another, then another (Marge is snoring, Homer is starting to
+       % nod off, and she changes positions each time). He falls asleep
+       % sitting up. Now the room is filled with a green glow. He wakes up to
+       % see green-tinted ghosts hovering near the ceiling: Snake, Skinner,
+       % the guy who wanted to marry Miss Hoover, Julio, Doreen.
+       %
+       %    Homer: Who are you?
+<1:24> %    Julio: We are the spirits of the relationships you killed!
+       %
+       % Aerial shot. They're making moaning zombie sounds and movements, and
+       % Homer runs out of bed, screaming... to the door, then into the hall,
+       % where he's confronted with 12 baby ghosts.
+       %
+       %     Baby: We're the babies those couples would have had!
+       %
+       % Homer screams and runs back through the hall. There's green-tinted
+       % ghost furniture on the floor. A writing desk with a "mouth" speaks.
+       %
+       %     Desk: And we're the antiques those couples would have bought
+       %           together!
+       %
+       % The furniture starts advancing on him. Homer backs into the corner.
+       % They continue.
+       %
+       %    Julio: [points] Get him, chairs and babies!
+       %
+       % Homer tries to run in a few directions, but is blocked. They close
+       % in. He wakes up from this nightmare, wailing.
+       %
+       %    Marge: Homie?
+       %    Homer: Marge, I'm getting out of the breakup business. And I
+       %           don't know if I'll ever sleep soundly again!
+       %    Marge: Well, maybe--
+       %
+       % But Homer is already asleep, snoring.
+                                               Est: Hyatt, for tournament.
+
+       ! Yeesh! At least it's not a crossword-related cut, but now this
+       ! subplot just sort of fizzles out.
+
+
+ ~~~~~    ACT III  <---->  (-0:19)   5:36 / 5:17 *Exp: heavy throughout
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+
+ ==[ KABF20 ]====================================== Mypods and Boomsticks ===
+         CUTS: 31 seconds     GAINED: 24 seconds      21:16 / 21:40
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:01 / 1:01
+ ~~~~~    ACT I    <0:03>   (0:01)   5:55 / 5:56 *Exp: after cred to near end
+
+         Bart: Smells like a hamburger cooked at a rug store.
+
+<0:03> % Wide shot, one-quarter perspective on Bashir's house. Bart walks
+       % toward the back yard. Music starts.
+                                             He pushes through the hedge to
+         the back yard.
+
+       ! In syndication, the music starts on Bart's line, but not all of it.
+       ! Also, what on earth?
+
+
+ ~~~~~    ACT II   <0:25>   (0:22)   6:23 / 6:45 *Exp: start to end
+
+         Homer: I guess I have no choice.
+
+         Ominous music. Establishing shot of house at night.
+       % Inside, Marge is setting the table. She and Homer are dressed up.
+       %
+       % Marge: Homie, it's very open-minded of you to have Bart's Muslim
+       %        friend's Muslim family over.
+       % Homer: Here's the plan, Marge. You keep 'em talkin'. I'll be
+       %        listening. [tents fingers] And quietly judging.
+<0:18> %
+       % The doorbell rings. Marge goes to get it. Lenny appears in a thought
+       % bubble.
+       %
+       % Lenny: The doorbell will tell you when they're here.
+       %
+       % Ominous music, then he disappears. Then dinner. Grampa is eating.
+
+         Marge: So, how did you two meet?
+
+       ! Note that in both versions, Marge's first line overlaps the house.
+
+ ~~
+          Homer: OK, I'll apologize.
+
+       % His eyes widen. Cut to Maggie dipping her finger in the cake icing.
+       % She takes out her pacifier to eat the icing, and Homer walks over to
+       % stop her.
+<0:07> %
+       %  Homer: [baby-talk voice] Up-up-up-up! Don't eat that, sweetie.
+       %         [puts her pacifier back in] It's poison.
+       % Maggie: [thuck]
+
+         Homer drives up to Bashir's house.
+
+
+ ~~~~~    ACT III  <0:03>   (0:01)   7:09 / 7:10 *Exp: Mapple HQ to end (?!)
+
+         Homer rushes out of his bedroom after his nightmare.
+       % Lisa is on the couch in the TV room. The pets are napping. She's on
+<0:02> % the myPod. The doorbell rings. [Doorbell is looped onto previous
+       % shot in syndication.]
+                               She answers the door.
+
+ ~~
+         Lisa falls down with her myBill. [Syndication: Music starts here.]
+<0:01> % A shot of the wall Homer is about to jump over. Music starts.
+         Homer pops his head up and jumps over the wall.
+
+ ~~
+       * As noted above, expansion starts in this act only when Lisa goes to
+       * the Mapple HQ. What's the point? 24 seconds are needed. Hmm. Where
+       * are there a few big cuts?
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+
+ ==[ KABF21 ]===================================== The Burns and the Bees ===
+         CUTS:  0 seconds     GAINED: 16 seconds      21:14 / 21:30
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:04 / 1:04
+ ~~~~~    ACT I    <---->   (0:06)   6:59 / 7:05 *Comp: start to near end
+ ~~~~~    ACT II   <---->   (0:05)   6:00 / 6:05 *Comp: start to near end
+ ~~~~~    ACT III  <---->   (0:05)   6:23 / 6:28 *Comp: start to near end
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish (see below)
+
+       * Credits are slightly compressed.
+
+       % Also, for some reason, the Spanish credits are not yellow or in the
+       % handwriting font. They're like season 19. Also, this seems to be the
+       % only episode in season 20 to use the traditional shorter Gracie
+       % logo! (And while we're at it, it has an odd-sounding 20th fanfare.)
+
+
+ ==[ KABF22 ]======================================= Lisa the Drama Queen ===
+         CUTS:  0 seconds     GAINED:  4 seconds      21:16 / 21:20
+                               Original opening
+
+       ! This is the first episode originally aired with four acts. Not in
+       ! syndication; now the last two acts are merged oddly. See intro.
+       ! Because of this, I give syndication Act III one time, but provide
+       ! the original episode's splits as well.
+
+ ~~~~~    OPENING  <---->   (----)   1:20 / 1:20
+ ~~~~~    ACT I    <---->   (0:01)   6:04 / 6:05 *Comp: late, to near end
+ ~~~~~    ACT II   <---->   (----)   6:11 / 6:11
+ ~~~~~    ACT III  <---->   (0:03)   6:53 / 6:56 *Comp: light throughout
+        + ACT IV                           (3:35, 3:21)
+
+       ! Act break in original is between the bar mitzvah remark and closing
+       ! the cages on Lisa and Juliet. It has some visual and musical
+       ! repetition that becomes silly when they're merged.
+
+ ~~
+       % The original had Bart's introduction to Fallout Boy over the execs,
+       % but that got shifted over (see below). In syndication,
+       + a portion of "Wipeout" from earlier is repeated over the execs.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+       % These are all shifted to include Bart's introduction to the band,
+       % though it starts late ("--adies and gentlemen") and - even with some
+       % buffer time from the Spanish credits - fades a little early when the
+       % Gracie logo shows up. Yup.
+
+
+ ==[ LABF01 ]======================================= Take My Life, Please ===
+         CUTS: 24 seconds    GAINED: -19 seconds      21:14 / 20:55
+                               Original opening
+
+       ! This is the first episode originally done in widescreen (and HD).
+       ! NOT IN SYNDICATION. It's now a pan-and-scan version, though at least
+       ! it's not just the middle of the frame all the time. The episodes are
+       ! sent to stations this way, so it's not just my TV. I will mark
+       ! particularly notable problems with an "F" (for framing).
+       !
+       ! This is also the first episode to feature more discrete ("chunky")
+       ! compression or expansion systems. See my introduction for more. I
+       ! will treat tiny cuts as always, and any notable examples with "*"s.
+
+
+ ~~~~~    OPENING  <---->   (----)   1:56 / 1:56
+ ~~~~~    ACT I    <0:11>  (-0:11)   7:45 / 7:34 *Exp: heavy, even start/end!
+
+       * You can tell it's going to be a nightmare to get through these 12
+       * episodes when the very first part after the opening is expanded in a
+       * big chunk. Be glad you didn't have to do this.
+
+       F Wall of plaques cuts off some fun-to-read names.
+
+ ~~
+         Marge: Here comes Vance!
+
+       % Shot of the crowd with the sidewalk down the middle and the wall of
+<0:02> % fame behind. The crowd murmurs. Vance waves and walks around.
+       %
+       % Vance: Thanks for coming out.
+
+         Closer shot of people lined up across the screen. Vance greets them.
+
+         Vance: Heya, Gail!
+
+ ~~
+       F Moe gets cut out of frame often during the bar scenes. Like:
+
+         (Moe,) Homer, Lenny, and Carl stare at Al Gore (offscreen) after the
+         Nobel Prize bit.
+       %                  Establishing shot of house at night. Music. We hear
+       % and then see (by aerial shot of Homer and Marge in bed) Homer
+<0:09> % mumbling in his sleep, angrily.
+       %
+       % Homer: Ballots... stolen... real winner unknown... [in closeup] What
+       %        is the truth? [gets up] I gotta know!
+
+         Establishing shot of Lonely Arms apartments.
+
+ ~~
+       * Expansion draws out the end of the act too. This will happen a lot.
+
+
+ ~~~~~    ACT II   <0:13>   (0:04)   4:12 / 4:16 *Exp: throughout
+
+       F At the start, the lady in the golf foursome is not seen.
+
+ ~~
+         Dondelinger: Now if you'll excuse me, I'm going to sit under that
+                      tree and think of all the women I could have talked to
+                      but didn't.
+
+       % From the other side of the bench, we see him walk over to the bench
+       % by that tree and sit down as Homer walks away.
+       %
+<0:13> % Dondelinger: Hmm. The brown-haired girl gave me a look.
+       %              The redhead in the park was reading a book.
+       %              The girl at the airport upgraded my car.
+       %              Tonight I wonder just where you are.
+
+         Establishing shot of Luigi's.
+
+       F The bench is almost missing from the first part anyway!
+
+ ~~
+       F Marge loses her head when she glances into the restaurant kitchen.
+       F Maggie is invisible in the kitchen.
+       F The chef is almost invisible when Homer stares into the sauce,
+       F because the focus is on Homer to avoid the "talking noses".
+
+
+ ~~~~~    ACT III  <---->  (-0:12)   6:33 / 6:21 *Exp: throughout
+        + ACT IV                           (4:24, 1:57)
+
+       F Bart is left out before one flashback; Maggie is left out after it.
+
+       ! Act break in original is between the chef hitting Homer with a spoon
+       ! and Homer in a pool in the back yard.
+
+       F Homer's not in shot when the man proposes taking a picture with him.
+       F The frame moves along with an original pan later.
+       F Homer is cut off again when Marge first tugs him away.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+       + Maggie Roswell was not credited in the original airing, despite
+       + obviously working on the episode. I don't know if this was fixed for
+       + repeats, but she's credited in syndication and on DVD.
+
+
+ ==[ LABF02 ]======================================= How the Test Was Won ===
+         CUTS:  3 seconds     GAINED:  3 seconds      21:16 / 21:19
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:52 / 1:52
+
+       F In the couch gag, we don't see Lisa turn to face Sideshow Bob. See
+       F also LABF12.
+
+ ~~~~~    ACT I    <---->   (----)   6:21 / 6:21
+
+       F Janey and Richard framed out during the "Shy to gregarious" song.
+
+       * There were a few points that looked like tiny cuts and a little
+       * apparent expansion toward the end, but I think they were glitches in
+       * my DTV reception. A tiny bit in Act II too.
+
+
+ ~~~~~    ACT II   <---->   (----)   4:33 / 4:33
+ ~~~~~    ACT III  <0:03>   (0:03)   7:42 / 7:45
+        + ACT IV                           (2:16, 5:29)
+
+       ! Act break is between Ralph's Elmo rat and the (second) book club.
+
+ ~~
+       ! The sole cut comes during "Footloose" at the end, of all things,
+       ! thereby messing up the music too. It cuts approximately:
+
+         -oot
+       %     loose, kick off your Sunday
+                                         shoes. Please, Louise...
+
+       ! The cut, visually:
+
+         First wide shot with a lot of dancing.
+<0:03> % Lisa sits down with a conspicuous copy of Sylvia Plath's "The Bell
+       % Jar"; we zoom out to see that she's kicking her feet in time anyway.
+         Chalmers (in closeup) looks around and joins in.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+       % The insertion of the Spanish credits is done poorly, with the theme
+       % splitting across the gap.
+
+
+ ==[ LABF03 ]=================================== No Loan Again, Naturally ===
+         CUTS:  4 seconds     GAINED:  4 seconds      21:15 / 21:19
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:36 / 1:36
+ ~~~~~    ACT I    <---->   (----)   8:00 / 8:00 *Minor compression!
+
+       * There is a small amount of compression here anyway, including
+       * between the opening and the act proper (this happens often).
+
+       F Lou's reaction missing when Wiggum shoots and shotguns the keg.
+       F Cramped when au pair shows up.
+       F Auction attendees handing in paddles, such as Mr. Prince, not seen.
+
+
+ ~~~~~    ACT II   <---->   (----)   4:52 / 4:52
+
+       F Oddly centers on the entire TV + Kent, instead of just the screen.
+       F Almost centered anyway a bit later when transforming Ned into devil!   
+
+ ~~~~~    ACT III  <0:04>   (0:04)   5:59 / 6:03
+        + ACT IV                           (3:31, 2:32)
+
+       ! Complicated cut!
+
+         Homer: [as Jesus] Do you have a computer nearby?
+
+       % Closeup shot of a NOTICE TO VACATE as Flanders nails it to their
+       % door. Zoom out. [This part isn't cut, just moved!]
+
+<0.5>  % Pan to Homer and Marge peeking out of the curtains. [actual cut]
+
+         Homer: He's nailing something to our door!
+
+       ! Here's where the notice is nailed up in syndication.
+
+       %  Lisa: [seen inside] Hmm. I wonder if it's theses.
+<3.5>  % Homer: [ducks back inside] Eww, that's gross.
+       % Marge: [back inside too]
+                                  Homie, I think it's an eviction notice.
+
+       ! Act break is just before the homeless shelter.
+
+       F Near the end, family shots are framed so Rod is almost gone (and is,
+       F with overscan), and Bart is gone entirely.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+       % The original Mardi Gras music is gone in syndication and replaced
+       % with the standard theme. Really, really badly. It cuts in slightly
+       % late, and then the Spanish credits insert silence too early so the
+       % final flourish spans the gap. How do you mess that up when you're
+       % adding it in?
+
+
+ ==[ LABF04 ]=========================================== Gone Maggie Gone ===
+         CUTS: 20 seconds*    GAINED: 37 seconds      21:15 / 21:52
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <0:02>   (0:12)   4:58 / 5:10 *Chunky comp throughout
+
+       * This episode was a pain in the ass. It's full of tiny tiny cuts,
+       * some of which I'm styling as "chunky compression" when it's mainly
+       * silent stillness cut, and not listing here to save *your* sanity.
+       * Mine is gone already. It's the first episode to really use this.
+
+ ~~
+         Marge: You can have my viewer.
+<0:02> %  Lisa: But Mom, you'll miss the eclipse!
+         Marge: There'll be another one in North Yemen in two-thousand
+                twenty-seven.
+
+ ~~
+       * Notable short cut: family looking at Marge before Lisa says "we have
+       * totality", then another cut as the family turns to follow her lead.
+
+       * Many many more, available upon request. They do add up since each is
+       * the better part of a second!
+
+
+ ~~~~~    ACT II   <0:07>   (0:12)   6:12 / 6:24 *Chunky comp throughout
+
+         Homer: Oh no, oh no,
+<0:02> %                      ohhhh-ho-ho no,
+                                              there is no way Homer Simpson's
+                gonna put on a dress.
+
+ ~~
+         Lisa knocks the "Darwin" and legs off a Darwin fish,
+<0:02> % puts it around her neck and checks out the look, goes "mm-hmm!",
+         and knocks on the convent door.
+
+ ~~
+         Lisa: "Heart and Soul"!
+
+<0:01> % A wide shot of Lisa approaching the organ is entirely cut.
+         She sits down to play.
+
+ ~~
+         Lisa: I fell in love with you, heart and soul...
+       + (Syndication seems to dwell a bit on that shot, repeating frames?)
+<0:02> % Pan to the upper keyboard, which starts opening on a gear system.
+         Lisa looks up as it opens.
+
+       * Then many many more tiny cuts as the device works all the way open,
+       * although the synd version still has a bit of each shot.
+
+
+ ~~~~~    ACT III  <0:11>   (0:13)   8:55 / 9:08 *Chunky comp throughout
+        + ACT IV                           (5:02, 4:06)
+
+       ! Here's a stupid cut. Until doing the comparison, I forgot that they
+       ! were in fact trailing her without her knowledge!
+
+         Lisa: What are you doing here?
+<0:01> %  CBG: Following you!
+                              We seek the Gem of St. Teresa.
+<0:01> % Lisa: Ohhhh.
+                      Well I seek it so I can find my sister.
+
+       * Several short cuts during the sequence with the bell.
+
+ ~~
+         Skinner: Oh, the *word* "ring"!
+
+<0:01> % Lisa and CBG exchange a smile and meaningful short "hmm!"
+         They clamber up the cliff.
+
+ ~~
+       ! Gee, I wonder where the act break is.
+
+ ~~
+         It's denied that kissing Milhouse "counts".
+
+<0:01> % Lisa: It all adds up!
+                               I *am* the gem that will bring world peace!
+
+       F To the right on this line, leaving out Smithers and most of Burns.
+
+ ~~
+       * Missing in syndication is most of Lisa walking over after CBG talks
+       * about the sunrise, along with Skinner's head turn as he starts his
+       * line. The start of his line is looped, as usual, to the part before.
+
+         Skinner: We could make it if we took Mr. Burns's helicopter!
+<0:01> %   Burns: Hmm,
+                       I don't really want you people inside...
+
+ ~~
+         Warden: Just set it to massage.
+
+         This is done; a shot of Snake as the electric chair turns on.
+
+<0:02> %  Snake: Hoooooh.
+                          Something tells me the Gem of St. Teresa's been
+                 returned to its throne.
+
+<0:01> % A shot of Maggie from underneath is then cut.
+
+ ~~
+         Mother Superior: Four centuries of patient sacrifice has [sic]
+                          finally paid off.
+<0:02> %                                    All is peace and harmony.
+
+         Marge bursts in.
+
+ ~~
+<0:01> % Marge: Well,
+                      it would be nice if the first thing I saw was a world
+                at peace.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+
+ ==[ LABF11 ]============================= In the Name of the Grandfather ===
+         CUTS: 38 seconds     GAINED: 36 seconds      21:15 / 21:51
+                               Shorter* opening
+
+ ~~~~~    OPENING  <0:38>   (0:38)   0:34 / 1:12
+
+       % Yep, a shortened opening! Actually, altered. The original had the
+       % crow go left to right, and was the full-length intro until Lisa's
+       % solo. This is clouds to driveway, with the crow right to left.
+       % Aside from that, here's what's missing (more variable stuff with the
+       % new opening):
+       %
+       % Ralph:      nothing
+       % Billboard:  Dr. Nick: Pay For Septuplets, Get Octuplets Free!
+       % Blackboard: Four-leaf clovers are not mutant freaks
+       % Barney:     standard burp
+       % Solo:       Too-Ra-Loo-Ra-Loo-Ral
+       %
+       % A pity, since it's a rare blackboard (and a very rare solo) that
+       % matches the episode.
+       %
+       % Now, the TV does fall off in both versions. And you might be
+       % thinking, hey, why did the crow change directions? Proximity, I bet.
+       % There were four episodes with a short opening from LABF01 to LABF12:
+       % LABF04, 06, 09, and 10. LABF06/09 have the crow left to right, but
+       % LABF04/10 (right to left) are closer to this episode whether you go
+       % in production or airing order. Oddly, whether the TV falls off is
+       % the opposite (yes LABF06/09/11, no LABF04/10). But the original
+       % couch is used here anyway. My guess is they just grabbed the nearest
+       % shorter opening and slapped the first half of it on, then joined the
+       % original once it hit the driveway.
+       %
+       % For the timing of the original opening, you may consult LABF08,
+       % since it is intact in syndication.
+
+
+ ~~~~~    ACT I    <---->   (----)   5:27 / 5:27 *Chunky exp and then comp!
+
+       * Yes, there are a few chunks each of expansion, and then compression
+       * later! For what net gain? BEATS ME!
+
+       F Also, Grampa's note is too wide in closeup now!
+
+
+ ~~~~~    ACT II   <---->  (-0:02)   7:53 / 7:51 *Chunky exp throughout
+
+       F We see an artificial pan in this version when Grampa dances across
+       F the sheep. (The shot doesn't move in the original.)
+
+       F Framing also cuts off "Bog, Bath, and Beyond" at the first bar
+       F establishing shot.
+
+       * Then, lots of chunky expansion.
+
+
+ ~~~~~    ACT III  <---->   (----)   6:33 / 6:33 *Chunky exp and comp (a bit)
+        + ACT IV                           (4:33, 2:00)
+
+       * There is one chunky expansion after the first refund, and one
+       * chunky compression (I think) around the smoking revelation. Why?
+
+       ! Act break in original is after the paddy wagon departs.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+
+ ==[ LABF05 ]======================================= Wedding for Disaster ===
+         CUTS: 19 seconds     GAINED: 25 seconds      21:15 / 21:40
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:42 / 1:42
+ ~~~~~    ACT I    <0:05>   (0:09)   5:45 / 5:54 *Chunky comp throughout
+
+         The parson speeds off.
+
+<0:02> % Wide shot: Tim and Helen in front of the church. Tim is pacing. In
+       % a closer shot, he turns around to pace to the right.
+                                                              More pacing.
+         Helen reassures him.
+
+ ~~
+       * Mostly a chunky compression cut, but on the closeup of Tim's "Psalm
+       * Pilot" one entry is cut for time: "Allied Vestment Brokers".
+
+ ~~
+         Jasper: Good. 'Cause I left her ashes on the bus.
+<0:02> %    Tim: Mmmm.
+
+         Establishing shot (itself slightly trimmed) of Sea Captain on boat.
+
+       ! Genius. There's a longer trim after the wave crashes over this boat
+       ! shortly thereafter, too.
+
+ ~~
+       * One of Tim's knocks on Homer's door, out of four, is cut. This is
+       * getting sloppy.
+
+ ~~
+         Marge: And I think Apu got lucky with my sister.
+<0:01> %                                                  [long sigh]
+
+         End of sigh as Marge closes the wedding album.
+
+
+ ~~~~~    ACT II   <0:06>   (0:08)   5:28 / 5:36 *Chunky comp throughout
+
+<0:01> % Start of act is cut (end too!). Establishing shot of house and
+       % music are trimmed.
+
+ ~~
+         Lisa: That's the angry one.
+
+         Homer starts grunting,
+<0:01> %                        then keeps strangling Bart for a while.
+         The marriage license is stamped.
+
+ ~~
+         Homer and Marge see the line to exit (from the hall of long lines).
+         Homer sighs.
+       %              They look at each other sadly.
+<0:02> %
+       % Back at the house, Marge spritzes a paper towel, then
+         wipes the spritzer and puts it in a cabinet of identical ones.
+
+       ! Joke crippled: check.
+
+ ~~
+       F Marge is left out of Homer's talking about his rocket cake.
+
+ ~~
+<0:02> % The end of the act is cut also: the band keeps playing, and we cut
+       % to Marge sobbing.
+
+
+ ~~~~~    ACT III  <0:08>   (0:08)   7:32 / 7:40
+        + ACT IV                           (3:52, 3:48)
+
+<0:01> % (Start of this act cut too! We don't need EITHER bookend.)
+       % Marge sobs and coughs a bit,
+                                      sniffs once, then talks.
+
+ ~~
+       % The start of the in-camera view of the videographer's take of Marge
+<0:01> % is cut, during which she goes from moping to crying. (Good grief,
+       % did the League of Never Showing Women Crying show up?)
+
+ ~~
+         Marge: [referring to spring rolls] They taste like nothing.
+
+<0:02> % New shot: Marge and Helen as seen through the open hotel door. Pan
+       % to Lisa and Bart walking into the groom's room.
+
+          Lisa: I don't understand.
+
+ ~~
+         Sarcastic Guy: Company policy forbids chitchat.
+
+         Marge moves to open one of the boxes.
+<0:01> %                                       She opens it with a rip strip.
+         Meanwhile, Homer has made his chain into the shape of Marge.
+
+ ~~
+       F Mr. Teeny is not seen until he's needed now.
+
+ ~~
+       ! Act break is after Patty and Selma laughing, before Homer wonders if
+       ! this imprisonment is Bart's doing. It has the feel of an act break,
+       ! even more so if you see the whole thing! But alas, there is a cut to
+       ! reduce the effect and confuse you: an overlapping cut.
+
+       % The start of Act IV, a slightly different over the shoulder shot of
+<0:01> % the twins laughing at Homer on the monitor that ended Act III, is
+       % cut. The act and next shot start with music, which is copied onto
+       % the end of Act III in syndication.
+                                            Homer is in his cell.
+
+ ~~
+         Apu: Good day to you!
+
+<1.5>  % Exterior shot of the Simpson house. Not as far away as usual. Lisa
+       % and Bart run up to the door, and
+                                          burst in the door.
+
+ ~~
+       % About half a second is cut before the executive producers. (In that
+<0.5>  % half second, the blimp's sign, currently reading "WEDDING" again,
+       % starts blinking. The music is not cut there, but fades earlier.
+       % See also credits.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+       % Somehow, the music is shifted in the other direction here; it's not
+       % quite in sync and the first note is missing, although Dan's credit
+       % is *seen* in full. (It's also a little on the short side of :48.)
+
+
+ ==[ LABF06 ]======================================= Eeny Teeny Maya, Moe ===
+         CUTS: 10 seconds     GAINED: 35 seconds      21:15 / 21:50
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:32 / 0:32
+ ~~~~~    ACT I    <0:06>   (0:15)   7:28 / 7:43 *Much chunky comp throughout
+
+       F Homer waves off Maggie, and now she is unseen being sad.
+
+ ~~
+         Marge: Here's the score, mister!
+<0:01> % Homer: Yes? [seen only in long version]
+       % Marge: Yo
+                  ur daughter barely knows who you are!
+
+       ! Yes, it's really cut that way.
+
+ ~~
+         Moe: Warm and rusty.
+
+<0:02> % He walks away from the water fountain.
+       % New shot: he sits back down in his seat at the computer,
+                                                                  and laughs.
+
+ ~~
+         Moe hangs up on Marge.
+<0:01> %                        Pan down to the playground outside.
+         Maggie is playing in the sandbox, then bullies approach.
+
+ ~~
+         Establishing shot of Moe's and music from Homer carrying Maggie
+         away.
+<0:02> %       Music continues. Long shot inside Moe's. He puts flowers in a
+       % vase and hums.
+                        Closer shot from behind the bar. He finishes with the
+         flowers and washes his hair with beer from the tap. (Music continues
+         over this part in syndication.)
+
+
+ ~~~~~    ACT II   <0:02>   (0:08)   6:03 / 6:11 *Much chunky comp throughout
+
+       F "3rd base point" (in the vein of makeout point) sign hard to read.
+
+       F Framing also strained on Moe's later daydream of the guys pushing
+       F Maya around in the janitor cart.
+
+ ~~
+       * Silly trim on the shot going out the window from Homer crying (which
+       * is shorter in syndication) about the limerick to Maggie being
+       * taunted by the drumming circle of babies. The music is slightly
+       * differently timed. The first long pan of the babies is also trimmed
+       * in a noticeable chunk.
+
+ ~~
+       F Bart is cropped out of a line of Lisa's.
+
+       F New framing also cuts off the circular edges of the hidden camera,
+       F so it's tough to get the idea of what's going on.
+
+ ~~
+       * I'll count this as compression, but barely. There are several tiny
+       * cuts when Marge places the camera in Maggie's bow, including Maggie
+       * blinking in the next shot and the "wa" in "Wait a second, Marge..."
+
+ ~~
+         Maya: This is where I live.
+
+         She moves to open the car door,
+<0:02> %                                 and they both open them and exit.
+       % Slight trim of next shot:
+                                   Moe approaches the tree on her lawn.
+
+
+ ~~~~~    ACT III  <0:02>   (0:12)   6:24 / 6:36 *Much chunky comp throughout
+        + ACT IV                           (3:52, 2:44)
+
+       * Slight trim at start (doorbell).
+
+       F Later, camera's circular sides framed out, just making the fisheye
+       F less useful.
+
+ ~~
+       * Trim of the last time little Kearney clinks bottles together.
+
+ ~~
+         Photo booth pictures print out. Marge grabs them.
+<0:01> % She sighs/murmurs.
+                            Music as we pan down Marge and Homer's set.
+
+ ~~
+       ! Act break is after Largo's Julie Newmar lament.
+
+       * And the start of Act IV is trimmed!
+
+ ~~
+<0:01> % Marge sniffs before
+                             her line about Homer being a strong finisher.
+
+ ~~
+       * A few minorly notable trims near the end: the music may be reworked
+       * around a trim of an establishing shot of Moe's, and Moe's blink
+       * after Homer mentioning what will make him smile is trimmed.
+
+       * Later, music is reworked for a few more trims for the final scene,
+       * and there's an early jump to the executive producer credits.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+
+ ==[ LABF07 ]========================== The Good, the Sad, and the Drugly ===
+         CUTS: 56 seconds     GAINED: 26 seconds      21:14 / 21:40
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:20 / 1:20
+ ~~~~~    ACT I    <---->  (-0:12)   6:44 / 6:32 *Chunky expansion throughout
+
+       F While Willie is talking in the office, we hear, but no longer see,
+       F the clock falling apart.
+
+
+ ~~~~~    ACT II   <0:56>   (0:49)   5:44 / 6:33 *Slight chunky expansion
+
+          Lisa: Oh, go ahead. Numb me.
+
+       % Establishing shot of house with dramatic music sting. Inside, the
+       % family eats while Marge does the dishes. Bart goes to the sink.
+       %
+       %  Bart: Mom, can I get those dishes for you? [takes them, hums]
+       % Marge: [a beat] What's your angle, mister?
+       %  Bart: [quickly] No angle!! [normally] Um, if this girl I'm seeing
+       %        comes here, and she might, I wouldn't mind if you told her I
+       %        was the kind of boy that does the dishes.
+       % Homer: Yeah, busboys get all the chicks. [chuckles]
+<0:33> %
+       % Lisa is moping at the table. The bus is heard pulling up and honks.
+       %
+       %  Lisa: Well, off to school, where they'll prepare our little minds
+       %        for a future we'll never see.
+       % Homer: [taps out a pill] Sounds like someone's got a case of the
+       %        Mondays!
+       %
+       % He offers it to her with an encouraging sound. She takes it and
+       % walks away.
+                     Establishing shot of bus before she takes the pills.
+
+ ~~
+         After the montage of happy faces ("What a Wonderful World"),
+         establishing shot of the house at night.
+       % Inside, Bart (in a suit) is setting the table for dinner with Jenny.
+       %
+       %  Bart: So *this* is setting the table. If I'd known how easy this
+<0:15> %        was, I'd have just done it instead of throwing all those
+       %        tantrums.
+       % Marge: Oh, Bart, I don't care that this is just an act. You've
+       %        finally become the boy that every mother dreams of: a girl!
+
+         The family eats with Jenny. (Marge is in the kitchen.)
+
+       ! The song hadn't quite finished when the cut began, so it fades over
+       ! the dinner scene in syndication.
+
+ ~~
+       ! Annoying cut here. There's repeated animation and audio overlapping.
+
+           Lisa: [to Bart & Jenny] Hello, smiley face! Hello, smiley faaace!
+
+<-0:01>+ Lisa was waving at them, and at "faaace" the waving animation is
+       + repeated in syndication.
+
+       % In the original, the image was panning instead to the following:
+       % Out the window we see a smiley-face Snake being chased by a smiley-
+       % face gasping Wiggum on foot. They stop right in front of the house
+       % and draw guns. Snake shoots Wiggum; smiley-face blood pours out as
+       % Snake runs out; Wiggum falls on his back. A pool of smiley blood (a
+<0:08> % single rapidly-growing smiley) collects by his side.
+       %
+       % Wiggum: Aaaah! Officer down.
+       %
+       % Lisa makes a dopey smile and a gawky "wehh" laugh, and Marge walks
+       % in.
+
+          Marge: Jenny, it's amazing what you've done with my son.
+
+       ! In syndication, the laugh is heard over the previous shot, as is
+       ! "Jenny, it's amazing". Lisa goes right from "smiley faaaace" to
+       ! "wehh".
+
+
+ ~~~~~    ACT III  <---->  (-0:11)   6:38 / 6:27 *Chunky expansion throughout
+        + ACT IV                           (4:18, 2:09)
+
+       ! Act break is between "you'll always have your family" breakdown and
+       ! the Shrek Squishee.
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+
+ ==[ LABF08 ]========================================= Father Knows Worst ===
+         CUTS: 21 seconds     GAINED: 15 seconds      21:15 / 21:30
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:19 / 1:19
+ ~~~~~    ACT I    <---->  (-0:04)   6:14 / 6:10 *Chunky expansion throughout
+
+       F Marge's daydream is harmed by the framing now (see also LABF06).
+
+ ~~~~~    ACT II   <0:21>   (0:19)   7:12 / 7:31 *Chunky expansion throughout
+
+       F Homer's daydream has the same problem.
+       F When Moe runs to his bed, the extra touch of a teddy bear in a chair
+       F on the side is no longer visible.
+
+ ~~
+         Establishing shot of Crafty Art's Arts and Crafts.
+
+       % Inside, Otto brings a whole bunch of model airplane glue to the
+       % counter.
+       %
+       % Sarcastic Guy: Son, you buy an awful lot of airplane glue, but you
+       %                never buy any models.
+       %          Otto: Oh, uh, right, models. [pointing behind the clerk,
+       %                where these items are seen, boxes labeled clearly]
+<0:21> %                One Messerschmidt M.E.-262, a '67 SS GTO, an Alfred
+       %                E. Neuman with interchangeable arms...
+       %
+       % The Neuman box illustrates the arms: they're holding signs saying
+       % "ban the bomb" and "wash a hippie". He exits, holding those three
+       % boxes and a bag of the glue. He then dumps the models in a trash
+       % can, humming, and passing Homer and Bart on their way to the door.
+       % Homer and Bart walk to the door, open it, and
+                                                       approach the counter.
+
+       ! In the original, the establishing shot has Otto humming. In synd,
+       ! there's the sound of a shop bell tinkling, which was heard twice in
+       ! the cut (but also accompanied by a door sound, which isn't present
+       ! in synd, presumably because the door is visible and not moving now).
+       ! Probably this is a trimmed sound from the end of the second tinkle.
+
+
+ ~~~~~    ACT III  <---->   (----)   5:42 / 5:42 *Chunky exp then comp!
+        + ACT IV                           (2:38, 3:04)
+
+       * Yes, this winds up being the same length, but first it's expanded in
+       * chunks, then one expansion after the switch to Act IV, it suddenly
+       * goes to chunky compression. I don't get it.
+
+       ! Act break is between Homer smashing up the Abbey in his sleep and
+       ! Homer driving Bart to school.
+
+ ~~
+       % Finally, the Executive Producer credits are silent in syndication so
+       % that the Canvas rendition of the theme is all together. They're also
+       % centered like usual, though in the original they were underneath the
+       % video box as the credits are. See below.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+       % The entire Canvas video and a cappella theme is shifted 5 seconds
+       % so that it starts when the cast credits begin in syndication, rather
+       % than over the Execs originally. This also means the video portion
+       % disappears 5 seconds earlier (including a bit of business where they
+       % bob back and forth in time with the tune) as the credits fill the
+       % screen. There are the usual 4 seconds of buffer time from the new
+       % Spanish credits, and it overrides the Gracie audio for that last
+       % second, cutting off some of the murmuring but leaving the "shh!"
+
+
+ ==[ LABF10 ]=================================== Waverly Hills, 9021-D'oh ===
+         CUTS: 32 seconds     GAINED: 34 seconds      21:15 / 21:49
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:23 / 0:23
+ ~~~~~    ACT I    <0:04>   (0:05)   5:38 / 5:43 *Chunky comp throughout
+
+<0:01> % About a whole second of Marge's humming in the stall is cut as Janey
+       % comes in.
+                   Only one hum is heard in syndication.
+
+ ~~
+       F Milhouse and (mostly) Maggie framed out in gasp after Lisa says
+       F Waverly Hills' ES's auditorium and gym are two separate rooms. (Not
+       F related to syndication in particular, but they are at SES too!)
+
+ ~~
+         Marge: ...but we would have a Waverly Hills address!
+<0:01> %  Lisa: Mom,
+                     that's brilliant!
+
+       ! Unlike this cut...
+
+ ~~
+       F Framing cuts out the Heimlich maneuver poster in the teachers'
+       F lounge during the telemarketing scene.
+
+ ~~
+         The Chigurh character validates Homer's parking.
+<0:02> % Closeup of Marge. She lets out a worried "ohhh!"
+         End of act.
+
+
+ ~~~~~    ACT II   <0:28>   (0:28)   6:31 / 6:59 *Chunky comp after cuts
+
+         Homer: Where am I? [inside the wall]
+
+<0:01> % Establishing shot: Waverly Hills Elementary. Kids file in. Zoom out.
+         Marge drives into frame to drop the kids off.
+
+       ! We see no zoom in syndication. The car is only slightly in frame by
+       ! the time the cut ends, especially in the 4:3 version. The car sound,
+       ! however, is looped onto the end of Homer's shot.
+
+ ~~
+         Establishing shot of WHE.
+<0:02> % Wide shot of the lunchroom. Lisa is by herself, looking around, kind
+       % of sad.
+                 Closeup. She is eating, and the girls approach her.
+
+ ~~
+         Wiggum hands Bart one gift bag as part of their deal.
+       %                                                       They turn to
+       % look as a huge SUV rolls into the foreground from the right, with
+       % music ("Sopranos" theme?) thumping. Wide aerial shot: It pulls up
+       % alongside Wiggum's car. The music stops after the car parks. The
+       % Fat Tony group gets out (Tony, Legs, Louie, Johnny Tightlips).
+       %
+       %   Legs: You wanted a powwow, Chief? [heard only; may be Tony?]
+<0:25> % Wiggum: I know you've been dealing drugs at the high school, but
+       %         I'll look the other way if you come to Ralphie's party.
+       %  Louie: I ain't gonna pin no tail on no donkey.
+       % Wiggum: Look, just come to the party. It's gonna be fun--Batman's
+       %         gonna be there!
+       %  Louie: B-b-b-b-b-Batman?
+       % Johnny: I ain't messin' with no caped crusader!
+       %
+       % They flee back to the SUV. Wiggum adjusts his hat, and sighs sadly.
+         Bart walks smugly down the path at school.
+
+       F Barely visible in that last shot is a kid in front of Bart on left
+       F of frame, who looks concerned.
+
+ ~~
+       F The "mosaic" of multiplying texts is not reformatted for 4:3. Thus,
+       F while originally it's 2x2, 4x4, 8x8, 16x15.5 (since the bottom row
+       F isn't complete), in syndication, where the sides are cut off, it's
+       F 2x2 (which was framed mostly 4:3-safe), then 4x4 with the outer
+       F columns cut in half, 6x8, and 12x15.5.
+
+ ~~
+       * There is only one bit of compression I noted: just a tad after the
+       * explosion at the phone company.
+
+
+ ~~~~~    ACT III  <---->   (0:01)   7:55 / 7:56 *Chunky comp: start of act 3
+        + ACT IV                           (5:09, 2:47)
+
+       * There was only compression at the start of the act, but at the act
+       * break, Lisa's last line, "guess not," seems a bit cut off (no "tuh"
+       * sound.
+
+       ! Act break right after that scene with Lisa and the security guards.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+       % The ending music, the "Waverly Hills" parody song, starts over the
+       % exec credits, and is actually retained there in syndication; it just
+       % starts over again for the credits after the commercials in synd. See
+       % for example EABF07. Good news: there are 4 buffer seconds because of
+       % the Spanish credits. Bad news: there are 6 seconds of execs. Both
+       % versions fade slightly into the Gracie sound, but those 2 seconds of
+       % the song finishing are lost in synd.
+
+
+ ==[ LABF09 ]============================ Four Great Women and a Manicure ===
+         CUTS: 20 seconds     GAINED: 36 seconds      21:15 / 21:51
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:26 / 0:26
+ ~~~~~    ACT I    <0:02>   (0:03)   4:24 / 4:27 *Chunky comp throughout
+
+         Selma: [as Queen] I've always loved you!
+<0:01> % Marge: Ummmm...
+                         wh-which one of us are you talking to?
+
+ ~~
+       % A pan is cut between Lovejoy's invocation and Homer's "amen"; the
+<0:01> % actual cut is a closeup of three of the other guys first, then the
+       % pan to Homer.
+
+
+ ~~~~~    ACT II   <0:03>   (0:08)   5:01 / 5:09 *Chunky comp throughout
+
+       F Marge's expressions are cut out as Lisa talks to the Disney lawyer.
+
+ ~~
+         Willie: I - I - I canna do it! [make construction paper heart]
+
+<0:02> % He sighs and hangs his head.
+       % Elsewhere, Lisa crosses the bridge (slightly cut). Then abruptly:
+
+           Lisa: Let's see.
+
+ ~~
+         Lisa walks by "Grandma's house";
+<0:01> % a bit of the Tex Avery wolf sighing and hanging his head is cut.
+
+ ~~
+       * Lengthier compression chunks include shortening of the dwarves'
+       * mailbox, and a blink from Lisa after she lies down in the bed. There
+       * are other, less notable ones too.
+
+
+ ~~~~~    ACT III  <0:15>   (0:25)  10:36 /11:01 *Chunky comp throughout
+        + ACT IV                           (6:55, 4:06)
+
+<0:01> % Marge: Ohhhh,
+                       I wouldn't be stuck washing costumes...
+
+ ~~
+         Director: Homer, you got the lead.
+<0:02> %    Marge: [closeup] [smiles offscreen and murmurs happily]
+
+         Establishing shot of theater, with music.
+
+       ! Actually a bit of the establishing shot is trimmed too; the music
+       ! starts on the director's line in synd.
+
+ ~~
+         Establishing shot of Moe's for the first cast party.
+       % (Originally it has outdoorsy weather sounds, but in syndication, the
+<0:02> % sounds of the party from the end of the cut are heard instead.)
+       % Wide shot of people in the bar, then
+                                              Homer speaks to Marge ("I can't
+         wait for the reviews").
+
+ ~~
+<0:01> % About a second of Homer crying over Marge's dead body is cut.
+
+ ~~
+       ! Act break is obvious, but the cut blurs the line a bit (see LABF05).
+
+         End of act 3.
+<0:02> % Start of act 4: Wide salon shot, with Marge admiring her nails in
+       % front of her face. Closer shot, then
+
+         Marge: That's it, three stories. That's what we always tell.
+
+       ! So yes, in syndication, the end of act 3 leads right to... the
+       ! middle of that first sentence (the middle of "three"). The first
+       ! half is heard over the end of act 3. Then:
+
+<0:01> % She looks down and leans over.
+         Maggie is seen tugging on Marge's dress.
+
+ ~~
+         Marge: The Fountainhead! [seen in closeup]
+<0:01> %  Lisa: [seen] Moooom,
+                               isn't that book...
+
+ ~~
+         Agnes tiger-growls over Ayn Rand (mistaking the picture for a man).
+       % Shot of Marge.
+<0:01> %
+       % Marge: Sooooo,
+                        anyway...
+
+       ! Fairly abrupt in the cut version too. How useful too.
+
+ ~~
+         Mr. Toohey lets the blocks fall out of the cabinet, covering the
+         babies.
+<0:04> %         Pan as he walks past them to leave the room. Maggie pops out
+       % of the pile and "thuck"s. Slightly trimmed is
+                                                       a shot of his desk,
+         panning from him to...
+
+         Marge: Maggie's genius and creativity...
+
+       ! "Maggie's" is not seen in syndication; the cut ends there, and that
+       ! word is heard over the block shot.
+
+ ~~
+       * Many borderline chunky compression cuts in this episode, but a lot
+       * of meaningful looks and walk-offs are missing around here. One such
+       * is an entire closeup of Maggie before zooming out, over "babies and
+       * (gentlemen of the jury)".
+
+ ~~
+       ! One more thing! Originally the act ending is silent from Maggie's
+       ! shrug to halfway through Al Jean's credit, when "Time to Say
+       ! Goodbye" starts up. Since the song has been shifted in syndication
+       ! (of course; see below), the originally silent part is a reprise of
+       ! the string section from a minute earlier until his name disappears,
+       ! and the last 3 are silent now.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+       ! So yep. "Time to Say Goodbye" (a.k.a. "Ho-Hi") is the credits music,
+       ! which originally starts with 4.5 seconds of the Exec credits to go.
+       ! There are 4 seconds of buffer from the Spanish synd credits; the
+       ! first half second is missing here, and the ending syncs up fine (the
+       ! transition to the Gracie logo is the same). Oy.
+
+
+ ==[ LABF12 ]========================================= Coming to Homerica ===
+         CUTS: 11 seconds     GAINED:  6 seconds      21:15 / 21:21
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:52 / 1:52
+
+       F In the couch gag, we don't see Lisa turn to face Sideshow Bob. See
+       F LABF02.
+
+ ~~~~~    ACT I    <---->  (-0:03)   6:17 / 6:14 *Chunky expansion throughout
+
+       F In the TV promo for "The Drowningest Catch" and the Krustyburger
+       F commercial, we don't see the circular frame of the TV(?).
+
+       F Nor can we later read the billboard or Builder's Barn sign.
+
+
+ ~~~~~    ACT II   <0:10>   (0:08)   7:21 / 7:29 *Chunky expansion throughout
+
+         Marge: Maggie, now you have a nanny!
+       %                                      Just like the ones Joe Piscopo
+       %        and Ethan Hawke left their wives for! ...[to Inga, angrily]
+       %        But hands off my Homie!
+<0:10> %
+       % Inga pauses, then gets a notepad out of her apron and writes, while
+       % saying aloud:
+       %
+       %  Inga: Hands off the Homie. Got it!
+
+         Maggie protests.
+
+         Marge: Sorry, sometimes she's nervous around new people.
+
+       ! You're not allowed to cut Joe Piscopo jokes! Anyway, the "J" at the
+       ! start of her line is somehow heard over Maggie's protesting closeup
+       ! in syndication.
+
+ ~~
+       F Much later, the Aquavit sign is framed out when Moe is saying he
+       F doesn't mind the money.
+
+
+ ~~~~~    ACT III  <0:01>   (0:01)   4:57 / 4:58
+        + ACT IV                           (2:16, 2:42)
+
+       F Gil is pretty much out of the first scene, if you have overscan.
+
+ ~~
+       ! The act break is between the dinner scene agreeing to build the wall
+       ! and Quimby addressing the group of volunteers.
+
+<0:01> % But about the first second of act 4 is missing and Quimby's line
+       % looped over the end of act 3 in syndication.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48 +0:04 Spanish
+
+       ! Originally, the music began in the Exec credits, and it's heard
+       ! there in syndication too, but restarts on a beat for the rest of the
+       ! credits after the break. 4.5 seconds are repeated, and syndication
+       ! offers 4 seconds more space to put it in, but the last half second
+       ! (fade) is lost.
+
+
+ ==[ ------ ]================================================================

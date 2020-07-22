@@ -1,0 +1,1050 @@
+                           The Simpsons Archive's
+                       Simpsons Syndication Cuts Guide
+
+                         Season Fifteen (2003-2004)
+
+               "Syndication... is there anything they can't do?"
+
+                                 03 May 2005
+
+                 Maintained by Matt Garvey <garvey@snpp.com>
+                      Guide created by Frederic Briere 
+               Contributions from Chad Lehman and Tim Reardon
+
+[=========================[Season Fifteen Summary]==========================]
+
+Story cut episodes: All but EABF21, FABF11, FABF15, FABF18.
+Compressed episodes: All but FABF03, FABF08.
+Expanded episodes: FABF06, FABF08.
+Missing lines: FABF02.
+Added content: EABF19, FABF01, FABF12 (openings); EABF22, FABF03 (recycling).
+Changed content: FABF01, FABF06, FABF07, FABF09, FABF12, FABF17.
+
+Total time cut: 6:28 (6 min 28 sec) (lengthened intro times not counted)
+Story time cut: 6:28 (6 min 28 sec)
+Total time gained: 10:10 (10 min 10 sec)
+
+Notes: Careful viewers will note that the edited openings are no longer
+       "voiceless," as in seasons 13 and 14. Like seasons 13 and 14, however,
+       the TV ratings are still missing.
+
+       I would like to note that I only had access to a few original full-
+       length credits; as they all seem to be 48 seconds anyway, it's
+       probably fine. I also have not included the time "un-cut" by
+       lengthened openings in the episode headers, so you know.
+
+       A few trends: For some reason, three episodes were given longer
+       opening sequences, even though two of them needed absolutely no help
+       there; if someone can explain this, please let me know. (Like 7F01 for
+       season 14, DABF02 is the opening filler of choice, often overriding
+       existing elements.) Also perhaps to add time, there seem to be pauses
+       of a few seconds before the first acts of FABF04/05/09/08/10/13 and
+       maybe more, which I imagine is a nationwide trait; again, information
+       would be useful.
+
+       One thing I have not noticed before is that almost every time
+       compression is used in Act I, it does not begin until just after the
+       running credits end. There must be a reason for this; I know it not.
+
+       As if to round off the insanity, it seems that this season's favored
+       method of dealing with continuous credit music (see also the class
+       of 2F03 et al., CABF12, DABF03, EABF07 and EABF08, and so forth) is to
+       excise it entirely after the commercial break, and replace it with the
+       usual theme music. (FABF10 stands out as an exception.)
+
+ ==[ EABF21 ]==================================== Treehouse of Horror XIV ===
+         CUTS:  0 seconds     GAINED: 33 seconds      21:17 / 21:50
+                         Original Halloween opening
+
+ ~~~~~    OPENING  <---->   (0:01)   1:25 / 1:26
+ ~~~~~    ACT I    <---->   (0:05)   5:11 / 5:16
+
+       * Compression starts after credits (Jasper's scene).
+
+ ~~~~~    ACT II   <---->   (0:14)   7:39 / 7:53
+ ~~~~~    ACT III  <---->   (0:13)   6:14 / 6:27
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ EABF18 ]==================================== My Mother the Carjacker ===
+         CUTS: 22 seconds     GAINED: 34 seconds      21:17 / 21:51
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <0:09>   (0:12)   7:23 / 7:35
+
+       ! As you may already know, the original run (and perhaps the rest)
+       ! featured a fun editing glitch. In the transition between the
+       ! newspaper closeup ("...4th Street overpass midnite") and a wider
+       ! shot, there is a field (half-frame) left in that states, in white on
+       ! a blue background, "THE SIMPSONS / TAKE 02 / SC 075 / AKOM" (slashes
+       ! are new lines). I do not know if or when this was edited out, but if
+       ! you have a VCR that can display fields and a copy of the episode in
+       ! syndication (or a later Fox broadcast), send me a message. I'll even
+       ! credit you. (See also FABF14.)
+
+ ~~
+       * Compression starts after credits (at the overpass).
+
+ ~~
+            Lou: Is that fugitive radical Mona Simpson?
+
+       % Pan to Wiggum.
+       %
+<0:09> % Wiggum: Yeah, and that's Tokyo Rose moppin' the floor.
+       %   Rose: [inside, mopping] [to Wiggum] Hey Joe, your girlfriend
+       %         sleeps with Tyrone Power!
+       %  Eddie: [looking at poster] Chief... [holds it up to window]
+                 I think we've got a match here.
+
+
+ ~~~~~    ACT II   <0:13>   (0:17)   7:00 / 7:17
+
+         Mel finishes his speech ("...the refill was in the mug!"), and the
+         door of the empty courtroom swings three times.
+
+       % Mel: The jets in the whirlpool anticipated my every move! ...when it
+       %      was _working_. And _three dollars_ for a local call! _They_
+<0:13> %      should be the ones on trial!
+       %
+       % He leaves the jury box and starts to walk out.
+         Meanwhile, there's a family reunion on the courthouse steps.
+
+ ~~~~~    ACT III  <---->   (0:05)   5:44 / 5:49
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ EABF20 ]================================== The President Wore Pearls ===
+         CUTS: 32 seconds     GAINED: 32 seconds      21:17 / 21:49
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (----)   6:16 / 6:16
+ ~~~~~    ACT II   <---->   (----)   7:48 / 7:48
+
+       * Don't let the identical timing above fool you; there is a tiny,
+       * pointless, 1/3-of-a-second cut. The establishing shot of the Simpson
+       * house after "Boy, this key opens everything!" is silent in both
+       * versions but shorter in the syndicated one. Go figure.
+
+ ~~~~~    ACT III  <0:32>   (0:32)   6:03 / 6:35
+
+          Bart: Lis, you made this school even worse! And it wasn't exactly
+                San Diego State to begin wtih.
+
+       % In her room, Lisa has discarded her outfits (the pink suit and brown
+       % jacket, plus purse, necklace, earrings) on her bed and is back in
+       % her red dress and shoes. She is sitting on the bed and brushing out
+       % her hair, which reverts surprisingly well. While she speaks with
+       % arms and legs crossed, the camera pans out to show Homer and Marge
+       % standing there.
+       %
+       %  Lisa: They made me pretty and popular just so they could exploit me
+<28.5> %        and ruin my good name.
+       % Homer: Lisa, you've got to stand up to these guys. And when you do,
+       %        people will remember you! [in a one-shot] Just look at these
+       %        postage stamps. [grabs a stack of sheets, each with 12-20
+       %        stamps] There's Bugs Bunny, Fat Elvis, Autumn in New England,
+       %        Bats of the Southwest... all heroes. [suddenly] Wanna see
+       %        Elvis kiss a bat? [holds stamps accordingly]
+       %        [Elvis voice] Hey baby, c'mere, I wanna kiss ya. [closeup of
+       %        stamps] Mmm! [kissy sounds] Squeak squeak squeak! [3-shot]
+       %        [bat voice] No, don't kiss me! [more kissy sounds and moan]
+
+         Lisa bursts into Skinner's office.
+
+       ! Note that besides being an important plot point, this cut introduces
+       ! a bit of a continuity error, when Lisa is suddenly dressed her own
+       ! way.
+
+ ~~
+         Chief: [to Lou] Well, I can't take that rattlesnake out of his
+                mailbox _now_, now can I?
+<03.5> % Eddie: Yes, Chief, you could.
+       % Chief: [to Eddie] Well, lemme ask you this: Shut up!
+
+          Kent: The Springfield student strike has entered its fourth day
+                with no end in sight.
+
+       ! Note that the cut line makes--made--a nice parallel with Chalmers'
+       ! line earlier: "I've got a question: You're crazy!"
+
+ ~~
+       * There's also a little compression in the music at the end.
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ EABF22 ]====================================== The Regina Monologues ===
+         CUTS: 20 seconds     GAINED: 32 seconds      21:18 / 21:50
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:04)   6:40 / 6:44
+
+       * Compression starts after credits (shortly before the moon party).
+
+ ~~~~~    ACT II   <0:13>   (0:22)   7:26 / 7:48
+
+         Lord Daftwager: Don't worry...we'll find more wagers.
+       %    Other Dandy: Hmm...I love you, Lord Daftwager.
+       % Lord Daftwager: Yesss, and I you!
+<08.5> %
+       % They embrace and French kiss, making guttural kissing sounds
+       % (Daftwager contributes a "yes, quite").
+
+                  Marge: Ooh, look at all these classy British plays!
+
+ ~~
+         Inside the car, Marge, Homer, and Lisa are going "whoa, whoooa,
+         whoooooa!" (Bart and Maggie are there too, but hidden behind seats.)
+       % Same external shot as before:
+<04.5> %
+       % Marge: Turn... turn... keep turning, keep turning...
+                Keep turning, keep turning...
+         Homer: I see an opening!
+
+       ! Ruins the joke a bit ("turn" by itself, as well as the length).
+
+ ~~~~~    ACT III  <0:07>   (0:06)   6:02 / 6:08
+
+         Homer puts out the fire, grabs a torch, and pushes the back wall,
+         which moves away. He opens his mouth in surprise.
+
+       % Homer: Boy... it's a good thing I'm leavin' before I went nuts!
+       %        [looks behind him] Goodbye, sparkly elves!
+<0:07> %
+       % There are three little elves hovering in the air, with sparkles
+       % around them and sparkly sound effects. They say "goodbye!"
+       % Homer turns back to the fireplace.
+<-0:01>+ A quick shot of Marge, Lisa, and Bart standing outside is recycled.
+         Homer crouches to go into the passage.
+
+       ! The lengths they'll go to to make a cut! The recycled piece is
+       ! actually closer to 2/3 of a second, but hey, whole numbers are good.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ EABF19 ]=================================== The Fat and the Furriest ===
+         CUTS: 12 seconds     GAINED: -34 seconds     21:17 / 20:43
+                DABF02 blackboard, DABF02 solo, original couch
+
+ ~~~~~    OPENING <-0:55>  (-0:55)   1:30 / 0:35
+
+       + Blackboard: I do not have a cereal named after me
+       + Solo: Three Blasts
+       + [no blackboard/solo in original]
+
+       ! Yes, you saw right. This episode could easily have been left
+       ! completely alone for syndication, at over 30 seconds below the time
+       ! limit. Instead of the cut, some medium compression or the medium-
+       ! length intro would have done; I don't get it.
+
+
+ ~~~~~    ACT I    <0:12>   (0:15)   6:09 / 6:24
+
+       * Compression starts after credits (when Marge gets the Carnival).
+
+ ~~
+         Homer throws the candy ball down, dusts off his hands, and starts to
+         walk away, when he's knocked aside by the bear.
+       %                                                 On the ground, he
+       % sees the bear (from his POV for a bit) growling and moving around.
+       %
+       % Homer: Oh my God, I'm gonna be killed by a bear! [calmly, removing a
+<0:12> %        pipe from his shirt pocket] Well, I guess I don't have to
+       %        worry anymore about the dangers of smoking. [lights it with a
+       %        lighter from his pants pocket, exhales] Smooooth...
+       %
+       % The bear knocks the pipe out of his hand, and Homer yelps.
+         A shot from Homer's POV looking up at the bear, before it zooms in
+         to show his reflection in the bear's eyes.
+
+
+ ~~~~~    ACT II   <---->   (0:06)   8:00 / 8:06
+ ~~~~~    ACT III  <---->   (----)   4:50 / 4:50
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ FABF01 ]======================================== Today, I Am a Clown ===
+         CUTS: 14 seconds     GAINED:  4 seconds      21:18 / 21:22
+                DABF02 blackboard, DABF02 solo, original couch
+
+ ~~~~~    OPENING <-0:28>  (-0:28)   1:18 / 0:50
+
+       % Blackboard: Over forty & single is not funny
+       % Solo: Break Out
+
+       + Blackboard: I do not have a cereal named after me
+       + Solo: Three Blasts
+
+       ! Total time gained in this episode: 4 seconds! Gee, 4 seconds of
+       ! compression or a quick cut would have done just fine... So would
+       ! leaving the original blackboard and solo in!
+
+
+ ~~~~~    ACT I    <0:04>   (0:08)   6:24 / 6:32
+
+         Marge: You and Lisa better go find homes for these puppies. And
+                don't just dump them all off on some crazy lady!
+
+       % Pan to show the crazy cat lady from 5F15 standing on their walkway,
+<0:04> % with three cats clinging to her. She makes crazy sounds, then a sad
+       % sound, and starts walking away. The cats meow.
+         At his shack, Groundskeeper Willie takes a puppy out of the box.
+
+ ~~
+       * Compression starts a little later, when Krusty opens his fridge.
+
+
+ ~~~~~    ACT II   <0:10>   (0:17)   6:25 / 6:42
+
+         Krusty: Are you nuts? I can barely get through _one_ show on Friday!
+       %         Even with the [imitates snorting]...
+       %
+<0:10> % Krusty sees Bart and Lisa watching him. Bart blinks, then Lisa.
+       %
+       % Krusty: ...uh, you know, smellin' flowers? [lamenting] Such
+       %         expensive flowers...filled with remorse. Anyway,
+                 we gotta book a guest host!
+
+       ! This really reminds me of the scene cut in BABF17 (see scg-12).
+
+ ~~~~~    ACT III  <---->   (0:07)   6:23 / 6:30
+
+       * Compression ends once the Simpsons' plot is resolved.
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ FABF02 ]================================== 'Tis the Fifteenth Season ===
+         CUTS: 18 seconds     GAINED: 33 seconds      21:18 / 21:51
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:26 / 0:26
+ ~~~~~    ACT I    <0:18>   (0:22)   7:16 / 7:38
+
+         As the family hangs stockings, we hear music:
+         "It's the most wonderful time of the yee
+       %                                         eeear..."
+       % The music fades as Marge puts a sweater on Santa's Little Helper.
+<0:11> % He starts growling and gnawing it off. Snowball II comes into frame,
+       % meowing and trying to get her own sweater off. The camera pans to
+       % Homer, doing the same.
+         Establishing shot of power plant.
+
+       ! The usual crow sound is missing in syndication; I think they
+       ! overlapped the music just a little bit. Otherwise, the song does end
+       ! as abruptly as implied.
+
+ ~~
+       * Compression starts after credits (at the baseball card).
+
+ ~~
+         Prune: We are the fruit that your grandmother loves...
+
+         Two prunes wave their hands in the air.
+       %                                         The music continues. Cut to
+       % the sax-playing prune. The lead singer comes into frame and hums
+<0:07> % nonsense words for a bit. Cut to the manger, where Joseph and Mary
+       % prune are holding up Jesus prune (who is wearing sunglasses and
+       % holding his arms up). The song ends.
+                                              As the music fades out:
+
+          Lisa: This is offensive to Christians and prunes!
+
+       ! Not as much without the above scene!
+
+
+ ~~~~~    ACT II   <---->   (0:06)   6:53 / 6:59
+ ~~~~~    ACT III  <---->   (0:05)   5:55 / 6:00
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ FABF03 ]================================ Marge vs. Singles, Seniors, ===
+ ================================== Childless Couples and Teens, and Gays ===
+         CUTS: 23 seconds     GAINED: 23 seconds      21:18 / 21:41
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (----)   7:32 / 7:32
+ ~~~~~    ACT II   <---->   (----)   5:39 / 5:39
+ ~~~~~    ACT III  <0:23>   (0:23)   6:57 / 7:20
+
+         During Homer's TV spot:
+
+         Homer: We're not affiliated, we're just piggybacking on their
+                message board.
+
+       % Cut to Homer holding up a patriotic picture of Rudy Giuliani. As
+       % creepy music plays, Homer circles it around and says spookily:
+       %
+<0:11> % Homer: "I am Rudy Giuliani... Do* as I command *you! I am Rudy*
+       %        Giuliani! Do* as I command *you!"
+       %
+       % (At each * above, "YES ON 232" flashes on the screen.)
+         A synthesizer sound plays as the screen holds on "YES ON 232" once
+         more, before Marge turns it off.
+
+       ! The cut kind of ruins the joke, eh?
+
+ ~~
+         Homer: Marge, wait!
+
+       % He produces the picture of Rudy from his pocket, somehow, and starts
+       % waving it in the direction Marge walked. Spookily again, with the
+       % same elongated vowel sounds:
+<0:12> %
+       % Homer: "I am Rudy Giuliani... You must forgive Homer... [higher] I
+       %        am Rudy Giuliiani... You must forgive Homer! [starts walking
+       %        after her, then higher still] I am--"
+<-0.3> +  Lisa: [still image]
+                              Bart, we're gonna lose!
+
+       ! I guess they had to hold on Lisa for a little while longer to space
+       ! out the two comments. I'm still rounding it to 12 seconds total.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ FABF04 ]===================================== I, (Annoyed Grunt)-bot ===
+         CUTS: 25 seconds     GAINED: 36 seconds      21:16 / 21:52
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (----)   5:28 / 5:28
+ ~~~~~    ACT II   <---->   (0:08)   9:08 / 9:16
+ ~~~~~    ACT III  <0:25>   (0:28)   5:30 / 5:58
+
+         Lisa and Marge leave the shelter sadly, and some cats hiss at them.
+       % Establishing shot of the house at night.
+       %
+       % Marge: [vo until bed is seen a few words in] My job was to keep
+       %        Lisa's hope alive, but instead she's really depressed.
+       % Homer: You think _you_ got problems, [produces a giant metal shard]
+       %        look what I just pulled out of my arm!
+       % Marge: [shocked gasp]
+<0:25> % Homer: That's what we in the business call a "biggie"!
+       % Marge: Business? What business?
+       % Homer: The business of being a dad! ...Can you hand me that magnet?
+       % Marge: Sure! [hands him a large horseshoe magnet]
+       %
+       % Homer lifts up his shirt and holds the magnet near his torso. Many
+       % smaller shards fly out of him and stick to the magnet.
+       %
+       % Homer: Can you do my back?
+
+         Lisa sits on the front step.
+
+       ! Takes a little oomph out of the "metal in my eye" line in Act 2.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ FABF05 ]================================ Diatribe of a Mad Housewife ===
+         CUTS: 28 seconds     GAINED: 33 seconds      21:16 / 21:49
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:01)   6:02 / 6:03
+
+       * There are about five spots with tiny cuts. You wouldn't notice them
+       * unless you watched this version alongside the original, but like the
+       * useless cut in EABF20, these take place where nothing is happening.
+
+ ~~~~~    ACT II   <0:23>   (0:27)   7:54 / 8:21
+
+       * More of the itty-bitty cuts persist here. Some are longer, but
+       * none are noticeable. There's also some regular compression as well.
+
+ ~~
+         Homer: Ooh, ice cream truck! [runs off]
+
+       % Later, clothed, Homer has the ambulance parked in the back yard (you
+       % can see the tire tracks in the grass) and is washing the back out
+       % with a hose. To the tune of "Cars":
+       %
+       % Homer: Here in my car, I am hosing off blood.
+       %        [dancing] Some of it's mine, but most of it's not!
+       %        [turns off hose] Here's Marge.
+       %
+<0:23> % Marge comes into frame, carrying her manuscript.
+       %
+       % Marge: Homie, I finished my novel. [hands it to him]
+       % Homer: Ooh, typed!
+       % Marge: [nervously] It's really important that you read it and tell
+       %        me what you think.
+       % Homer: No problem. [riffles through it] Ohh, two hundred and eighty-
+       %        six pages!
+       % Marge: [annoyed] It's double-spaced!
+       % Homer: Woo-hoo, I'm halfway through!
+
+         In the hammock, Homer puts on his glasses to read the manuscript.
+
+
+ ~~~~~    ACT III  <0:05>   (0:05)   6:10 / 6:15
+
+       * A couple more tiny cuts in this act, too. Go figure.
+
+ ~~
+         Marge: Jack Ruby was a man, not a jewel!
+<0:05> % Homer: Wha--? Ohh, bu-- all right. We're back to square one. Put on
+       %        some coffee.
+
+         Marge gets off the bed and murmur-sighs while walking away.
+
+       ! Without that part, her annoyance seems a little unjustified.
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ FABF06 ]====================================== Margical History Tour ===
+         CUTS: 24 seconds     GAINED: 32 seconds      21:17 / 21:49
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:03)   7:26 / 7:29
+
+       * Compression starts after credits (when Anne Boleyn appears).
+
+ ~~~~~    ACT II   <0:24>   (0:25)   4:17 / 4:42
+
+         Marge: No problem! In elementary school, we girls learned about
+                Sacajawea while the boys were learning math!
+          Lisa: Okay.
+
+         She puts the book back on the shelf,
+       % then a bum runs up behind her, and takes it off the shelf.
+       %
+<0:04> %   Bum: All right! Toilet paper!
+       %
+       % He walks away with it, and Lisa walks over to Marge
+                                                             and sits down.
+
+ ~~
+       * Somewhat sporadic compression starts here.
+
+ ~~
+          Lisa: And when you get a chance, bury your friend.
+                [vulture squawks]
+       % Lenny: Hey, we're still mourning! [points behind him] Let's get a
+       %        drink.
+       %
+       % Pan to a log cabin Moe's with Moe inside. He leans out the window...
+       %
+       %   Moe: All right, customers! And they said you couldn't open a bar
+       %        in Kansas!
+       %
+       % A tornado comes out of nowhere and starts to sweep up the bar.
+<0:20> %
+       %   Moe: H-hey!
+       %
+       % The tornado disappears as quickly, leaving some timbers and Moe.
+       %
+       %   Moe: Well, nothing can crush the frontier spirit!
+       %
+       % He starts to hammer together some boards, then a mostly intact Moe's
+       % falls on top of him with a loud crash.
+       %
+       %   Moe: [quietly] That'll do it. Ooohhh!
+
+         A body of water is seen.
+
+
+ ~~~~~    ACT III  <---->   (0:04)   8:24 / 8:28
+
+       * Compression stops around "Animal House," but the stills are actually
+       * expanded a bit. This is so that the music (which isn't expanded)
+       * ends at a nice point, which was a few seconds into the voice credits
+       * originally. (In the spirit of the episode, it's just before the
+       * "tooting" line.)
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+       % Originally, "Eine Kleine Nachtmusik" continued throughout the
+       % credits. In syndication, it's replaced with the standard theme. Why?
+
+
+ ==[ FABF07 ]========================= Milhouse Doesn't Live Here Anymore ===
+         CUTS: 12 seconds     GAINED: 31 seconds      21:18 / 21:49
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:03)   5:59 / 6:02
+
+       * Compression starts after credits (the Easter special).
+
+ ~~~~~    ACT II   <0:12>   (0:23)   9:17 / 9:40
+
+         Marge: Well, I'm sure he'll be happy you came. [kisses Bart]
+       %    PA: Now departing: No-Frills Airlines flight 89.
+       %
+       % Outside, a life-size balsa airplane with a rubber-band propeller is
+<0:12> % wound up by mechanics, then the propeller is released. It starts
+       % flying shakily, and passengers inside make "whoa" sounds and scream.
+       % It lands about 200 yards away, by nose diving, and makes a balsa-
+       % crack sound. The wings become misaligned and one of the tail pieces
+       % cracks off.
+                     Cut to establishing shot of Capitol City Apartments.
+
+       ! I had forgotten about this scene when I first watched the episode in
+       ! syndication. Doing this check reminded me it was here, and it
+       ! suddenly made a lot more sense! It might be silly and unrealistic,
+       ! but it's important (to explain why Bart is _flying_ to CC).
+
+
+ ~~~~~    ACT III  <---->   (0:05)   4:52 / 4:57
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+       % Originally, "Movin' On Up" continued into and throughout the
+       % credits. It's replaced in syndication by the standard theme. Ugh.
+
+
+ ==[ FABF09 ]========================================== Smart and Smarter ===
+         CUTS:  6 seconds     GAINED: 23 seconds      21:17 / 21:40
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:02)   6:04 / 6:06
+
+       * Compression starts after credits (Maggie's first interview).
+
+ ~~~~~    ACT II   <---->   (0:09)   6:15 / 6:24
+
+       ! At the very start of the act, there's a changed line, resulting in
+       ! a net gain of about .3 seconds. It sounds like the whole line was
+       ! re-recorded, so I've marked it as such. (Of Fox's original airings,
+       ! I only have the first one; if anyone can tell me which version the
+       ! other two used, or can offer an explanation, I'd be grateful.)
+
+         Over an establishing shot of the house, Marge says:
+
+       % "Maggie, I can't believe how much stuff your new school sent over."
+       + "Maggie, look at all the stuff your new school sent over!"
+
+
+ ~~~~~    ACT III  <0:06>   (0:12)   7:48 / 8:00
+
+         Skinner: Nope, never under a dollar.
+            Lisa: [sighs]
+
+       % Establishing shot of the house with squad car parked on the street.
+<0:03> %
+       %   Marge: [vo] Lisa's gone, you have to find her! [1 second silence]
+          Wiggum: Why can't you just accept the fact that Lisa is old enough
+                  to take care of herself?
+
+ ~~
+         The squeaky-voiced teen lets people pass into the auditorium. He
+         mumbles twice,
+<0:03> %                twice more, then again over a shot of Lisa (behind
+       % the sign). She giggles and he keeps mumbling.
+
+         Teen: [patting down a man] No food allowed! You can't hide it in
+               your clothes!
+
+ ~~
+       $ There's a change in Fox repeats, see below.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+       $ In both the original and syndicated versions, Simon Cowell insults
+       $ the credits, including the executive producers at the end of Act 3.
+       $ For Fox network repeats (I don't know about Global), the short
+       $ credits were used, and this gag was taken out. In its place were the
+       $ standard goofy exec music (as added to CABF09 and CABF12 in synd)
+       $ and then the standard theme and Gracie sound. Fun.
+
+
+ ==[ FABF08 ]================================ The Ziff Who Came to Dinner ===
+         CUTS: 32 seconds     GAINED: 25 seconds      21:16 / 21:41
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:09 / 1:09
+ ~~~~~    ACT I    <---->  (-0:02)   7:27 / 7:25
+
+       * Expansion starts after credits (before Lenny's part in the movie).
+
+ ~~~~~    ACT II   <---->  (-0:03)   5:26 / 5:23
+ ~~~~~    ACT III  <0:32>   (0:30)   6:26 / 6:56
+
+         Selma: Come on, short round...we're goin' back to my Temple of Doom.
+                [single laugh]
+         Artie: Be gentle!
+
+         She drags him about halfway out the door,
+       %                                           then all the way.
+       % Moe turns to Patty.
+       %
+       %   Moe: Uh, you know... [laughs] they say that the love of a good
+       %        woman can save any man.
+       % Patty: Except you, freak!
+       %   Moe: Well, if you change your mind, you know where I am.
+       % Patty: [leaning forward, from Moe's point of view] In my nightmares!
+       %   Moe: I'm gonna stop now. [blinks twice at her]
+       %
+       % From the twins' living room, looking at the open bedroom door:
+       % Artie makes two thrusting sounds (each followed by a sigh).
+<0:32> %
+       % Selma: What the hell are you doing?
+       %
+       % Now Artie can be seen, fully dressed on the bed and tugging at his
+       % left sock, as Selma brings champagne and two glasses into the room.
+       %
+       % Artie: I can't get my socks off!
+       % Selma: Ahh, leave 'em on. I like a man with a little... [throws away
+       %        the glasses and bottle] mystery! [approaches him, kisses him]
+       % Artie: I'm done.
+       % Selma: [kisses him again] My kinda man!
+       %
+       % She throws him to the bed, and Artie makes a surprised "ooh!" sound.
+       % Fade to:
+                  Artie and Selma lie in bed.
+
+         Artie: Wonderful...glorious...magnificent...and you were pretty good
+                too!
+
+ ~~
+       * Expansion stops after this.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ FABF10 ]========================================= Co-Dependent's Day ===
+         CUTS: 34 seconds     GAINED: 53 seconds      21:18 / 22:11
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <0:10>   (0:18)   7:47 / 8:05
+
+       * Compression starts after credits (after they leave the theater).
+
+ ~~
+           Lisa: Wow, Mom and Dad sure are having fun.
+       %   Bart: Hey, as long as they're not hurting anybody.
+       %
+       % They look to their right.
+       %
+<0:10> %   Lisa: Uh oh!
+       %
+       % Marge and Homer are tossing Curtis back and forth, laughing.
+       %
+       % Curtis: Whoa, ah... I-I'll give you money! ...I'm going to tell!
+       %         [more noises]
+
+         End of act.
+
+       ! Nothing's better than an inscrutable line to end a scene, eh?
+
+
+ ~~~~~    ACT II   <0:22>   (0:28)   5:28 / 5:56
+
+         Marge: Moe's Tavern?
+<0:04> %        [closeup] That's your fun place! Like me and the lamp store!
+       % Homer: [chuckles twice]
+                                 Come on! We'll have a blast!
+
+       ! In syndication, an omission should be obvious both from the pacing
+       ! and visually. Not a super cut.
+
+ ~~
+          Marge: I'm goin' to jail!
+
+       % Wiggum stands up, and Eddie joins him and Lou by the car. They hear
+       % a branch snap.
+       %
+       %    Lou: What was that?
+       % Wiggum: [putting his gun to his chin thoughtfully] Maybe someone
+<0:18> %         _else_ is here, and maybe he'll step forward and admit to
+       %         being the _real_ culprit!
+       %
+       % They look around, and hear birds, then a caw. Homer is seen in the
+       % woods, making a third type of bird call ("oo-ee, oo-ee").
+       %
+       %  Homer: Oh, this is a new low for me. [does all three calls again]
+
+         End of act.
+
+
+ ~~~~~    ACT III  <0:02>   (0:07)   6:53 / 7:00
+
+       * Compression ends once Homer goes to get Marge out of rehab.
+
+ ~~
+           Marge: Pour me another!
+       % Captain: Just take the whole leg.
+<0:02> %
+       % She starts to reach for it.
+                                     Then there's a shot of three empty
+         glasses on a table, before zooming out to show Marge and Agnes.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ FABF11 ]======================================== The Wandering Juvie ===
+         CUTS:  0 seconds     GAINED: 29 seconds      21:17 / 21:46
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:06)   6:06 / 6:12
+
+       * Compression starts after credits (after the store credit song).
+
+ ~~~~~    ACT II   <---->   (0:15)   6:51 / 7:06
+ ~~~~~    ACT III  <---->   (0:08)   7:10 / 7:18
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ FABF12 ]==================================== My Big Fat Geek Wedding ===
+         CUTS: 55 seconds     GAINED: 31 seconds      21:19 / 21:50
+                 DABF02 blackboard, DABF02 solo, DABF02 couch
+
+ ~~~~~    OPENING <-0:56>  (-0:56)   1:18 / 0:22
+
+       % Couch: Play-Doh Simpsons squeezed onto couch through fun factory
+
+       + Blackboard: I do not have a cereal named after me
+       + Solo: Three Blasts
+       + Couch: The Simpsons in a slot machine
+
+       ! Though not unusual for this season's syndication package to have
+       ! lengthened openings with the components above, it's rare indeed to
+       ! alter existing components (particularly the couch gag, not including
+       ! the infamous 1F01). And again, in this case, it was totally
+       ! unnecessary. In fact, of the four cuts here, only the last two seem
+       ! to have been made for stylistic reasons, and they add up to the
+       ! amount of time it had to be shortened. Yeesh.
+
+
+ ~~~~~    ACT I    <0:55>   (1:06)   7:45 / 8:51
+
+            Bart: We have the same dream, ma'am.
+
+       % Zoom in on Bart as a thought bubble appears. It's Skinner, mounted
+       % like a fish (though still clothed). The plaque says "PRINCIPAL." He
+       % starts singing like a Billy Bass toy, with cheesy synthesized music:
+<0:09> %
+       % Skinner: My Bonnie lies over the ocean; My Bonnie lies over the sea.
+       %
+       % Zoom out, the bubble disapperars, and Bart does a trademark chuckle.
+         Exterior of Simpson house during the bachelorette party is seen.
+
+ ~~
+       * Compression starts after credits (at Moe's).
+
+ ~~
+            Marge: Spice up! _Spice_ up!
+            Homer: Whatever.
+       %                     The important thing is to get Skinner to that
+       %           altar! 'Cause once a union has been sancitifed by God, it
+       %           takes at least six months to tear it apart. [zoom out]
+       %           Right, naked Duff Man?
+<13.5> %
+       % Duff Man is on a chair, naked except for his hat, sunglasses,
+       % footwear, and Duff can belt, and is counting money.
+       %
+       % Duff Man: Hmm? Oh...uh, [thrusts] OH yeah...a-ha.
+
+         Exterior of school set up for the wedding.
+
+ ~~
+         Skinner stretches at the altar.
+
+       % Homer: Don't worry, I got a man on the perimeter.
+       %  Bart: [through walkie talkie] Cowabunga One to Fat Load.
+       % Homer: [quietly] This is Fat Load. [normally] I'd like to request a
+<13.5> %        new code name?
+       %  Bart: De-nied. [static]
+       % Homer: OK, Fat Load here.
+       %  Bart: [seen from outside] Here comes the bride. [bus is pulling up]
+       %        Repeat, here comes the bride.
+
+         Edna gets off the bus.
+
+       ! Note that there's no reason for Bart's separation from the rest of
+       ! his family anymore.
+
+ ~~
+         Edna runs out of the gym, sobbing. The camera holds on Bart,
+       % and zooms in on Bart. He picks up the walkie talkie.
+       %
+       %    Bart: [static] We got a runner! Snipers, take your shots!
+       %
+       % Outside, Nelson is perched in a tree, wearing a headset and readying
+       % a water balloon slingshot. Edna runs outside, but:
+       %
+       %  Nelson: I can't do it! That dress is a Vera Wang!
+       %
+<0:19> % Skinner comes outside.
+       %
+       % Skinner: Edna!
+       %
+       % Nelson shrugs, murmuring. He hits Skinner with a balloon, but it's
+       % not filled with water.
+       %
+       % Skinner: [sniff] Is this corn oil?
+       %  Nelson: Canola!
+       %
+       % Hold on Nelson for a beat, then
+                                         end of act.
+
+
+ ~~~~~    ACT II   <---->   (0:13)   5:16 / 5:29
+ ~~~~~    ACT III  <---->   (0:08)   6:12 / 6:20
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ FABF14 ]======================================= Catch 'em If You Can ===
+         CUTS: 14 seconds     GAINED: 32 seconds      21:18 / 21:50
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:05)   6:49 / 6:54
+
+       * Compression starts after credits (before Marge suggests a movie).
+
+ ~~~~~    ACT II   <0:14>   (0:20)   5:06 / 5:26
+
+          Homer: You keep thinking that!
+
+         He and Marge keep laughing, as the couple looks at each other.
+
+       % Grampa pulls up to a stop sign, and across the street is a sign
+       % saying "ENTERING MIAMI BEACH". Inside, all are in the front seat
+       % (Lisa between Grampa and Bart).
+       %
+       % Grampa: We're here! And it's a good thing, too; the car's been
+       %         drivin' funny since Orlando!
+<0:14> %
+       % Pan to the right rear wheel, where a man in a brown Eeyore-like
+       % costume is stuck. (The costume isn't great; you can see his face.)
+       % He pushes himself out and dusts himself off. As the car pulls off
+       % and he walks away, he says in an Eeyore-like voice:
+       %
+       %   Man: Everything happens to Eemore.
+
+         The car pulls up to the Swelldorado.
+
+       ! In syndication, this cut might be obvious; on my first pass, I
+       ! thought I caught a glimpse of something between the two bounding
+       ! scenes. Going frame by frame revealed nothing, but my VCR doesn't
+       ! skip by fields (half-frames), and I suspect that it's a leftover in
+       ! one of the fields. If someone with such a capability could check
+       ! this and send me a note, I'd be happy. (See also EABF18.)
+
+
+ ~~~~~    ACT III  <---->   (0:07)   8:13 / 8:20
+
+       * Compression ends once they get to the amusement park.
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ FABF15 ]============================================= Simple Simpson ===
+         CUTS:  0 seconds     GAINED: 31 seconds      21:17 / 21:48
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:05)   6:29 / 6:34
+
+       * Compression starts after credits (once place judging starts).
+
+ ~~~~~    ACT II   <---->   (0:20)   8:29 / 8:49
+ ~~~~~    ACT III  <---->   (0:06)   5:09 / 5:15
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ FABF13 ]========================================= The Way We Weren't ===
+         CUTS:  5 seconds     GAINED: 32 seconds      21:17 / 21:49
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:05)   6:38 / 6:43
+
+       * Compression starts after credits (before the flashback).
+
+ ~~~~~    ACT II   <---->   (0:08)   6:38 / 6:46
+ ~~~~~    ACT III  <0:05>   (0:19)   6:51 / 7:10
+
+         As Marge does the laundry:
+
+         Homer: What about now?
+         Marge: No, Homer.
+
+       % Marge takes the trash out that night. She sets a can down next to
+       % another one, and Homer pops out of the one she was carrying, with
+<0:05> % the lid still on his head.
+       %
+       % Homer: [hopefully] What about _now_?
+       % Marge: [tired] No, Homer.
+
+         In bed:
+
+         Homer: What about now?
+
+       ! Thus, three out of four of these are seen in syndication. Not a bad
+       ! cut if one has to be made.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ FABF17 ]======================================== Bart-Mangled Banner ===
+         CUTS: 12 seconds     GAINED: 32 seconds      21:18 / 21:50
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:05)   6:21 / 6:26
+
+       * Compression starts after credits (before Bart's hearing stops).
+
+ ~~~~~    ACT II   <0:12>   (0:20)   7:39 / 7:59
+
+         Cookie: $17.76? I can't afford to sell a west-side home for that!
+
+       % Luigi walks into frame.
+       %
+       %  Luigi: But what a fantastical year for pizza by the slice!
+<0:12> %
+       % He starts dancing and singing the Tarantella, which gets the crowd
+       % clapping along. He repeats, this time adding words:
+       %
+       %  Luigi: Charge-a-money for-the-pizza buy-myself-a bigga new car!
+
+         Lisa and Janey walk down the street.
+
+
+ ~~~~~    ACT III  <---->   (0:07)   6:08 / 6:15
+
+       * Compression stops once they get to the exterior of the island.
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+       % Originally, "America" continued through the credits. Here, it is
+       % once again replaced by the standard theme.
+
+
+ ==[ FABF18 ]============================================= Fraudcast News ===
+         CUTS:  0 seconds     GAINED: 33 seconds      21:17 / 21:50
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:26 / 0:26
+ ~~~~~    ACT I    <---->   (0:06)   5:22 / 5:28
+
+       * Compression starts after credits (at Smithers' tattoo).
+
+ ~~~~~    ACT II   <---->   (0:13)   7:04 / 7:17
+ ~~~~~    ACT III  <---->   (0:14)   7:37 / 7:51
+
+       * Compression stops about the time of "Lisa loves Milhouse."
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+ ==[ ------ ]================================================================

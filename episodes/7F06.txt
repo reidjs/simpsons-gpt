@@ -1,0 +1,461 @@
+<PRE>
+Bart the Daredevil                  Written by Jay Kogen and Wallace Wolodarsky
+                                                Directed by Wesley Meyer Archer
+===============================================================================
+[$Id: 7f06 1.6 91/12/17 14:45:20 raymond Exp Locker: raymond $]
+===============================================================================
+> Title sequence
+===============================================================================
+Driveway   :- no oil on the driveway.
+              Homer does not shake his fist at Bart.
+              Homer says nothing when Lisa scoots past.
+
+Couch:     :- Homer's weight tips the couch.
+===============================================================================
+> Didja notice ...
+===============================================================================
+   ... Lisa is reading a book through the entire wrestling match?
+   ... the wresling match was sponsored by Duff Beer?
+   ... the wrestling match arena was empty in real life, yet we saw
+       a packed auditorium on TV?
+   ... when Homer rushes home from Moe's, the oil spot is back in the
+       driveway?
+   ... the unidentifiable food glop they were eating?  (What *was* it?)
+   ... the poor guy stuck behind Marge's hairdo at the recital?
+   ... when Homer stands and applauds Lisa's solo, Maggie sort of claps,
+       too? [Alan J Rosenthal (flaps@dgp.toronto.edu)]
+       (And when Homer points at his watch, who does he think he's showing
+       it to?  Lisa?  Mr. Largo?)
+   ... nobody (except Maggie) was wearing seat belts when Truck-a-Saurus
+       grabbed the car?  (Esp. with respect to Captain Lance Murdock's
+       exhortation, ``Seat belts save lives, so buckle up!'')
+   ... at the arena, the slogan on the beer mug was ``I survived
+       Truck-a-Saurus''?   (Truth in advertising strikes again.)
+   ... the sign outside the Emergency Ward:  `Cash Only'?
+   ... Marge start to realize that TV violence can be a problem?
+   ... Maggie is spooning her dinner onto the floor when Homer
+       tells Bart not to jump Springfield Gorge?
+
+Chris Baird {cjb}:
+   ... when the kids are watching the wrestling, Maggie's walking trainer is
+       in a corner?
+   ... Homer drives home directly from Moe's Tavern?  (So much for the
+       designated driver...)
+   ... when Dr Hibert is showing the family around the childrens'
+       ward, there looks to be an <eagle> in one of the beds (or maybe
+       just a kid with a very large nose)?  Hibert was pointing at it
+       when he said 'the tragic always is'.
+   ... when Lisa mentions to Lance Murdoch that Bart intends jumping over the
+       Gorge on his skateboard, watch his eyes bulge...
+   ... someone with `Lisa-hair' is in the audience when Bart shows off before
+       he climbs the ramp?  (A reasonable guess would be to say that it
+       was Lisa, since she's the only one I've [cjb] seen with that type of
+       hair-style.)
+
+Dave Hall {dh}:
+   ... when Homer is driving `defensively' down the highway, he cuts off a cab
+       with Bleeding-Gums Murphy?
+   ... the billboard in front of the Springfield Speedway, states
+       ``SUNDAY: BEAR BAITING''?
+   ... when Marge receives the cheque, she places it in her hair.
+   ... Otto appears to be wearing a pearl(?) bracelet on his right hand,
+       and socks with lace trim?
+
+===============================================================================
+From: markn@cbnewsm.att.com (Mark Nevar) 10 Dec 90
+
+When Bart gets sent to his room, we see Maggie tossing her food on the floor.
+We see her from 3 angles, then she is out of the high-chair, but there is
+a Maggie doll in the chair.  Maggie takes this doll and walks away from the
+table.  More meta-humor for your enjoyment.
+
+[Alas, that isn't true.  It is Lisa that comes back to pick up Maggie.]
+
+===============================================================================
+> Freeze Frame fun
+===============================================================================
+>> Bart's T-shirt
+
+Tim P. McNerney (tpm@wdl1.wdl.loral.com) observes that Bart's
+skull-and-crossbones T-shirt he wears for the jump across the gorge
+has a skull with ``Bart-spikes''.
+
+But Jym Dyer recalls that the X-rays in ``Bart Gets Hit By A Car'' shows a
+normal skull. (Normal for cartoon characters, that is.)  Bart's spiked skull
+is clearly a matter of artistic license on his part.
+
+===============================================================================
+> Animation goofs
+===============================================================================
+At the gorge,  Nelson (the bully) says, ``Where is he?  I thought he said
+noon!'' but notice that Milhouse's mouth also moves to the words.
+
+(And, as a plot discontinuity, Bart never said he was going to jump at noon.
+He said, ``May I have your attention, please?  This Saturday, I will be
+jumping over Springfield Gorge on my skateboard.  There is a good possibility
+I will plunge to my bloody death.  Hope to see you there!  Thank you.'')
+
+===============================================================================
+As Homer and Bart walk to the house after coming home from Truck-a-sarus,
+as they walk from the driveway, they are shaded on their backs, as though
+the light is coming from the left.  When they turn to go inside, walking away
+from the viewer, the shading remains on their backs.
+
+But this isn't an animation error.  There are two light sources in the
+scene.  The first is the streetlamps, which provides Shadow #1.  The
+second is the lights from the house, which provides Shadow #2.
+
+===============================================================================
+> The concert
+===============================================================================
+[raymond@math.berkeley.edu]
+
+Schubert's Unfinished Symphony and Tchaikovsky's 1812 Overture are a
+bit too highbrow (and difficult!) for a bunch of eight-year-olds.
+
+Mr. Largo counts, ``five, six, seven, eight'' before giving the
+downbeat.  Unfortunately, the Unfinished Symphony begins in 12/8 time.
+(So he really should have counted either, ``7 8 9 10 11 12'' or just
+``3 4''.)  And, of course, the tempo he sets is nothing like the tempo
+the orchestra plays.  (And, the symphony doesn't even begin that way.
+Mr. Largo skipped the introductory bars.)
+
+There is no saxophone part in the Unfinished Symphony, a fortiori, no
+saxophone solo.
+
+The playing itself was down to school standards.  Despite Mr. Largo's
+exhortation of ``Remember children, stay together,'' they fall out of
+step at the moment the first note is played.  And the conclusion of
+the 1812 Overture was the embodiment of school concerts.  Everybody
+had long since fallen out of step with everybody else, and moved on to
+bigger and better things like playing the wrong note.
+
+When Homer says, ``How much longer was Sherbert planning on making
+this junk!'', the symphony comes to an end, and all applaud.
+Unfortunately, what was played was only the end of the first movement.
+The piece was only halfway finished.%  Perfectly in keeping with
+what always happens at school concerts.  (Parents applaud during
+any break in the action.)
+
+% -- To the extent that `halfway finished' applies to an unfinished symphony.
+
+And as the Symphony started, you could hear Maggie sucking away.
+
+Principal Skinner announced that it was the first in a series of Saturday
+Evening Concerts.  This is way beyond the abilities of a student orchestra.
+It typically takes grammar school orchestras 10 to 14 weeks to prepare for
+a single concert.  (Unless they intend to have other performing groups
+fill in, like Bart's fourth-grade dance demonstration.)
+
+The only thing missing that I could think of was flashbulbs going off
+intermittently as eager parents take pictures of their kids, unaware that
+the flashes are immensely distracting.  (And, as someone else pointed out,
+useless beyond 15 feet.)
+
+>> Lisa's solo
+
+From: csk017@umaxc.weeg.uiowa.edu (Brian Heil) 9 Dec 90 05:43:35 GMT
+
+Another interesting note about the concert and Lisa's sax solo:  I haven't
+paid close enough attention in the past to say if Lisa is lefthanded, but I
+assume she is, seeing the way she held the saxophone.  Of course lefthanded
+sax players hold it the same way as righthanded players... in fact it is nearly
+impossible to play a sax as it was pictured!
+
+>> Todd's solo
+
+Theron Stanford {tws} identifies Todd's solo as
+`My Heart at Thy Sweet Voice' from the opera ``Sampson and Delilah'' by
+Camille Saint-Saens.
+
+Alan J Rosenthal notes that Todd's bowing was very odd.  When he held a note,
+he stopped the bow movement.  Of course, this would stop the sound.
+
+===============================================================================
+> Quotes and scene summary
+===============================================================================
+% While Bart and his pals crowd around the TV set to watch pro wrestling,
+% Lisa reads a book.
+
+Live, from the Springfield Center for the Performing Arts,
+the wrestling match of the century!
+-- Announcer, ``Bart the Daredevil''
+
+Announcer: Rasputin, the friendly Russian!
+Millhouse: Didn't he use to be the Mad Russian?
+Lisa:      Yes, but I'm afraid the forces of history have changed
+           wrestling, perhaps forever.
+-- ``Bart the Daredevil''
+
+[in the Simpsons' living room, watching a wrestling match]
+Bart:  If you ask me, this is going to be one helluva match.
+Lisa:  Oh, Bart, I hope you're not taking this seriously.
+       Even a 5-year-old knows that this is as choreographed as any ballet!
+[in Moe's tavern]
+Homer: Eh, Rasputin's got the reach, but on the other hand,
+       the Professor's got his patented coma lock.
+       If you ask me, this is going to be one helluva match.
+-- Great minds think alike, ``Bart the Daredevil''
+
+% The match between Rasputin and Professor Werner von Brawn begins...
+
+Rasputin is spinning the professor like an autogyro.
+That's <got> to be disorienting...
+-- Announcer for wrestling match, ``Bart the Daredevil''
+
+% Bart asks Millhouse to turn up the volume, and steals his seat.
+% Homer does the same to Barney.  Brawn wins the match by cheating.
+% (What?  Pro wrestling has rules?)  Next comes a TV advert for
+% the Monster Truck Rally...
+
+If you miss this, you'd better be dead... or in jail...
+And if you're in jail, break out!
+-- Announcer for ``Truck-a-Saurus'', ``Bart the Daredevil''
+
+% Homer rushes home as Bart rushes to the front door to greet him.
+% They have the same thing on their mind:  Truck-a-Saurus!
+% At the dinner table...
+
+Homer: I have an announcement to make.  As a family growth thing, Bart and
+       I think we should all go to the monster truck rally this Saturday.
+Lisa:  Aren't you forgetting something?
+Homer: Uh... Monster truck rally... Growth thing.  No, I don't think so.
+-- at the dinner table, ``Bart the Daredevil''
+
+I'll be playing my first solo!  If you miss it on Saturday,
+I'd advise you to start looking for a child therapist on Sunday.
+-- Lisa, ``Bart the Daredevil''
+
+Oh cruel Fate!  Why do you mock me?
+-- Homer, ``Bart the Daredevil''
+
+% Marge points out that they can go to Lisa's recital first, then afterwards
+% go to the Monster Truck Rally.  At the concert...
+
+Skinner:  Tonight, Sherberts, oops, heh heh, Schubert's Unfinished Symphony.
+Homer:    Oh good, unfinished.  This shouldn't take long.
+Marge:    Mmmmm.
+-- music recital, ``Bart the Daredevil''
+
+% Despite Mr. Largo's exhortation of `Remember children, stay together!',
+% they fall out of step within the first two seconds.  (What'd you
+% expect?  They're only eight years old!)  Lisa executes her solo, but
+% Homer is anxious to leave.  Todd Flanders has a solo...
+
+Flanders: [weeping at his son's solo]  My son!  My son!
+Homer:    Come on Flanders, he's not <that> bad.
+-- music recital, ``Bart the Daredevil''
+
+% The concert concludes with the 1812 Overture, complete with cannons.
+% Homer takes Lisa away almost before the last note is played.
+% He drives recklessly through traffic to get to Springfield Speedway.
+
+I reached him!
+-- Lisa, on Homer humming the 1812 Overture while driving recklessly,
+   ``Bart the Daredevil''
+
+% but all the parking spots are taken.  They accidentally drive into the
+% arena itself, where they are attacked by Truck-a-Saurus, ``twenty tons
+% and four stories of car-crunching fire-breathing prehistoric insanity''...
+%
+% [End of Act One.  Time: 6:12]
+%
+% The car is a total wreck, and the rescue team has trouble pulling
+% Homer's girth out of the car.  The insurance adjuster writes Marge
+% a check, which she squirrels away in her hair.  The family then take
+% their seats...
+
+Let the destruction begin!
+-- Homer, at the Monster Truck Rally, ``Bart the Daredevil''
+
+% The last event of the evening is...
+
+The world's greatest daredevil, the man who's no stranger to danger,
+if he's not in action, he's in traction... Captain Lance Murdoch!
+-- Announcer at Monster Truck Rally, ``Bart the Daredevil''
+
+Ladies and gentlemen, and especially little children.  I'm glad you're
+all here to witness what may very well be my grisly death.  Tonight, my
+most dangerous stunt.  I will death-defy both nature and gravity by
+leaping over this tank of water, filled with man-eating great white sharks,
+deadly electric eels, ravenous piranha, bone-crushing alligators, and
+perhaps most frightening of all, the king of the jungle, one ferocious lion!
+[a lion is added to the pool]
+Heh heh heh.  I almost forgot.  To add a real element of danger, one
+drop of human blood.
+[pricks his finger, one drop of blood falls in, the pool bubbles furiously]
+And in case I don't survive, let me just say, seat belts save lives, so
+buckle up!
+-- Captain Lance Murdoch, at the Monster Truck Rally, ``Bart the Daredevil''
+
+% Aside from Bart, everybody in the arena is too scared to watch.  Bart
+% yells, ``He made it!'' and all cheer.  Murdoch takes a curtain call
+% and falls into the pool, where he is fished out and carted off.
+%
+% Homer drives what's left of the car home, as Bart daydreams in the
+% back seat...
+
+Ladies and gentlemen, the ten-year old who's brave and bold,
+when he's not in class, he's risking his ass,
+the world's greatest daredevil, Bart Simpson!
+-- Announcer in Bart's dream, ``Bart the Daredevil''
+
+% To the chant of `Bart!', he jumps his skateboard over a pool.
+% Homer wakes him up.
+
+Bart:  Dad, I want to be a daredevil.
+Homer: Heh heh heh.  Kids say such stupid things.
+-- ``Bart the Daredevil''
+
+% The next day, Bart tries to jump over a car on his skateboard, but
+% fails.
+
+Lewis:     Oh no, he's hurt.
+?:         Bad.
+Millhouse: Let's get out of here!
+-- kids after Bart hurts himself doing a stunt, ``Bart the Daredevil''
+
+% The family pick up Bart at the hospital.
+
+Marge:  Are you all right?
+Bart:   Better than all right.  I got stitches!  [lifts the bandage]
+Homer+Lisa:  Ewwwww.
+-- in the hospital, ``Bart the Daredevil''
+
+% Dr. Hibert has an idea of how they can discourage Bart from trying again.
+
+Bart, in this ward are the children who have been hurt by
+imitating stunts they saw on television, movies, and the legitimate stage.
+-- Dr. Hibert, ``Bart the Daredevil''
+
+Dr. H: This little boy broke his leg trying to fly like Superman.
+       This boy's brother hit him in the head with a wrench, mimicking a
+       recent TV wrestling match.
+       I won't even subject you to the horrors of our Three Stooges ward.
+Marge: Gee, I never realized TV was such a dangerous influence.
+Dr. H: Well, as tragic as all this is, it's a small price to pay for countless
+       hours of top-notch entertainment.
+Homer: Amen!
+-- Dr. Hibert shows Bart the injury ward, ``Bart the Daredevil''
+
+% Bart returns to attempt his jump a second time, and he succeeds.
+% He then jumps over the swimming pool.  He jumps over a
+% string of animals.  He jumps over Homer.
+%
+% On the class trip, Bart mopes because he's run out of things to jump.
+% Then he sees Springfield Gorge.
+
+Hey, this thing's pretty gnarly.
+I bet you could throw a dead body in there, and no one would eeeeever
+find it.
+-- Otto, on Springfield Gorge, ``Bart the Daredevil''
+
+Bart: Otto, I'm going to leap over Springfield Gorge on my skateboard.
+Otto: You know, Bart, as the only adult here, I feel I should say something?
+Bart: What?
+Otto: COOOOOOOOL!!!!!
+-- ``Bart the Daredevil''
+
+% [End of Act Two.  Time: 12:04]
+
+Otto: [humming into the bus microphone]
+Bart: Hey, Otto, can I use that microphone?
+Otto: Sorry, Bart-dude, it's for emergencies only.
+-- on the bus, ``Bart the Daredevil''
+
+% Bart takes the microphone to announce that he's going to jump Springfield
+% Gorge on Saturday.  With Dr. Hibert's help, Lisa takes Bart to see Captain
+% Lance Murdoch in the hospital.
+
+Murdoch:    [tries to give a thumbs-up sign]  Doc, I heard a snap.
+Dr. Hibert: Hm.  I'm afraid the bone is broken.  Well, that's all of them!
+-- in the hospital, ``Bart the Daredevil''
+
+% Since he can't use his hand, Murdoch writes a long dedication on an
+% 8 x 10 glossy to Bart by holding the pen in his teeth.  (When we eventually
+% see it, it's an illegible scrawl.)  When he learns that Bart intends to
+% jump Springfield Gorge...
+
+Now let me start by saying...  Good for you son!
+It's always good to see young people taking an interest in danger.
+Now a lot of people are going to be telling you you're crazy,
+and maybe they're right.  But the fact of the matter is:
+Bones heal.  Chicks dig scars.  And the United States of America
+has the best doctor-to-daredevil ratio in the world!
+-- Captain Lance Murdoch, upon hearing that Bart wants to do a dangerous stunt,
+   ``Bart the Daredevil''
+
+% Lisa is shocked by this.  The kids leave as Murdoch asks Bart to tell
+% the nurse he's ready for his sponge bath.  ``Another fringe benefit.''
+% At the dinner table, Bart is mad that Lisa squealed about his plans
+% to jump Springfield Gorge.
+
+I'm sorry Bart.  But if you got hurt or died, despite the extra
+attention I'd receive, I'd miss you.
+-- Lisa, ``Bart the Daredevil''
+
+% Homer forbids Bart from doing it, but Bart threatens, ``The minute your
+% back is turned, I'm grabbing my skateboard and heading for that gorge.''
+
+Homer: He's done it, Marge; there's nothing we can do.
+       He's as good as dead! [bawls]
+Marge: You're his father, you've got to try and reason with him.
+Homer: Oh, that never works.  He's a goner!
+-- Bart wants to jump Springfield Gorge on a skateboard, ``Bart the Daredevil''
+
+% Marge convinces Homer to have a heart-to-heart talk with Bart.
+% Homer catches Bart trying to sneak out the window.
+
+Homer: You were on your way to jump the gorge, weren't you!
+Bart:  Maybe.
+-- Bart and the 9th commandment? ``Bart the Daredevil''
+
+% He asks Bart to promise that he won't jump the gorge.
+
+Bart, this isn't one of those phony-baloney promises I don't expect
+you to keep!
+-- Homer, having a heart-to-heart with Bart, ``Bart the Daredevil''
+
+% Bart promises.  Homer returns to the dinner table, where we see Bart
+% skateboard past.  Bart arrives at the gorge, where a crowd of kids has
+% gathered to watch.  Homer heads upstairs...
+
+Why that little liar!  I should have...
+And I was going to play pickle with him.
+-- Homer, finding Bart's room empty, ``Bart the Daredevil''
+  (You need three people to play `pickle'.)
+
+% Bart warms up the crowd, then prepares to make his big jump.  As he
+% speeds down the ramp, Homer arrives and tackles him.  Homer takes
+% the skateboard...
+
+I tried ordering you, I tried punishing you, and God help me, I even
+tried reasoning with you.
+-- Homer, ``Bart the Daredevil''
+
+% Homer says the only thing left is for him to jump the gorge himself.
+% Bart begs him not to and promises not to jump anything any more.
+
+You know boy, I don't think I've ever felt as close to you as I do right...
+-- Homer, slipping away on a skateboard, ``Bart the Daredevil''
+
+% Homer speeds down the ramp, and across the gorge.  It looks like he's
+% going to make it, but he doesn't.  As if tumbling down the gorge is bad
+% enough, the skateboard lands on him.  A helicopter hauls him up, where he
+% is placed into an ambulance.  The ambulance tries to speed away, but
+% immediately crashes into a tree; the back doors open, and Homer falls out,
+% back down the gorge.
+%
+% In the hospital, Homer gets the bed next to Captain Lance Murdoch.
+
+You think you've got guts.  Try raising my kids.
+-- Homer to Murdoch, ``Bart the Daredevil''
+
+% [End of Act Three.  Time: 18:48]
+===============================================================================
+Episode summaries Copyright 1991 by Raymond Chen.  Not to be redistributed
+in a public forum without permission.  (The quotes themselves, of course,
+remain the property of The Simpsons, and the reproduced articles remain
+the property of the original authors.  I'm just taking credit for the
+compilation.)
+</PRE>

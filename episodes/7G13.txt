@@ -1,0 +1,869 @@
+<PRE>
+The Crepes of Wrath
+               Written by George Meyer, Sam Simon, John Swartzwelder, Jon Vitti
+                                         Directed by Wesley Archer, Milton Gray
+===============================================================================
+7G13 Revision: B Date: 02/08/15 By: Andrew A. Gill Original: Raymond Chen
+===============================================================================
+> Title sequence
+
+>> Blackboard
+    {Garlic gum is not funny.}
+    {Garlic gum is} at cutoff.
+
+>> Driveway
+    Homer yells ``Auuuugh!'' when the car closes in on him.
+
+>> Couch
+    Homer doesn't fit.
+
+> Quotes and scene summary
+
+%
+% Bart arrives home from school, littering the hallway with his skateboard
+% and knapsack.  Bart enters his messy room and feeds his pet frog.
+%
+% Out in the hallway, Homer complains about the mess, picking up a Krusty
+% doll to illustrate his point.  Bart's skateboard introduces Homer to the
+% quick way to get downstairs.  (``D'oh!  D'ah!  Son-of-a!  D'aargh!'')
+% His back injured, Homer is unable to move, his only company Bart's
+% Krusty doll, which says, ``I like to play with <you>'' over and over and
+% over and over again.  SLH wanders in.  ``Go get help, boy.''  The dog licks
+% Homer's face and takes a nap.
+%
+% Maggie crawls over Homer's face, then quiets him with her pacifier.
+% Maggie naps next to her father.  Pull upward to show Homer lying on
+% the floor, surrounded by Maggie, the pets, and a Krusty doll whose
+% batteries are near death.
+%
+% Marge and Lisa arrive home, and Homer says, ``The boy.  Bring me the boy.''
+% Marge storms into Bart's messy room and yells, ``If you had cleaned
+% your room when I asked you to, your father's trick back would still
+% be aligned!''  While tossing his junk into the closet, Bart discovers...
+% a cherry bomb.  ``I thought I blew all you guys up!''
+%
+% Recess.  Principal Skinner patrols the schoolyard, accompanied by his
+% mother.  Bart shows the explosive to his pals, who ask him what he's
+% going to do with it.  Before he can answer, Principal Skinner arrives,
+% and the foursome (Bart, Milhouse, Lewis and Richard) quickly line up and
+% greet Principal Skinner in unison.  Mrs. Skinner asks Spanky to introduce
+% the boys, and he does so.
+
+Mrs. Skinner: This is the Bart Simpson you're always talking about?
+Pr. Skinner:  Mm hm.
+Mrs. Skinner: Why, he looks so sweet!
+Bart:         I am, ma'am.
+-- He also lies, ``The Crepes of Wrath''
+
+% In the boys' room...
+
+Milhouse: You going to flush it?  [a cherry bomb]
+Bart:     What can I say?  I got a weakness for the classics.
+-- ``The Crepes of Wrath''
+
+% Mrs. Skinner pays a visit to the little girls' room just as Bart flushes
+% the cherry bomb.  Obvious consequences ensue.
+%
+% At the Simpsons' residence...
+
+Homer: [lying on the couch]  Oh, Maaarge, I'm still hurt!               \\
+       [rings a handbell]  Maaarge!   Maaaaaarge!
+Marge: [finally arrives]  Oh, Homer.  How many times do I have to fluff
+       your pillow?
+Homer: Actually, I was wondering if you could make me a grilled-cheese
+       sandwich?
+Marge: [reluctantly]  Well, okay.
+Homer: Make sure it's squished flat, and crunchy on the outside.
+Marge: I know how you like 'em, Homer.
+Homer: Oh, and can I have some of those wieners that come in a can?
+       Oh, and some fruit cocktail, in heavy syrup.
+Marge: Mmmmm...
+-- Milking an injury, ``The Crepes of Wrath''
+
+% The doorbell rings, and Homer rings the handbell.  ``Maaaaarge!  Maaarge!
+% MARGE!  GET THE DOOR!''  Marge peers through the peephole and gets a
+% distorted view of Principal Skinner.  Bart escapes to his room as Marge
+% brings Principal Skinner into the living room.  Homer remains on the couch.
+
+Homer:  Oh, hello, Principal Skinner.  I'd get up, but the boy crippled me.
+Principal Skinner: Mm hm.  I understand completely.
+-- ``The Crepes of Wrath''
+
+Pr. Skinner:  Mr. and Mrs. Simpson, we have transcended incorrigible.
+       I don't think suspension or expulsion will do the trick.  I think it
+       behooves us all to consider... deportation.
+Marge: Deportation!?  You mean, kick Bart out of the country?
+Homer: Eh, hear him out, Marge.
+-- ``The Crepes of Wrath''
+
+% Skinner admits to being overly melodramatic.
+
+Pr. Skinner:  Our elementary school participates in a foreign exchange
+       program.  Normally, a student is selection on the basis of academic
+       excellence or intelligence.  But in Bart's case... I'm prepared to
+       make a <big> exception.  And if you're willing to play along, he can
+       be spending the next three months studying far, far away.
+Homer: Sounds great!
+-- ``The Crepes of Wrath''
+
+% Marge scolds Homer for agreeing even without knowing what country Bart
+% is going to.
+
+Pr. Skinner: He'd be staying in France, in a lovely chateau in the heart
+       of the wine country.
+Marge: But Bart doesn't speak French.
+Pr. Skinner: Oh, when he's fully immersed in a foreign language, the average
+       child can become fluent in weeks!
+Homer: Yeah, but what about Bart?
+Pr. Skinner: I'm sure he'll pick up enough to get by.
+-- ``The Crepes of Wrath''
+
+% The Simpsons will be asked to host a student in exchange.
+
+Wait a minute, Skinner.  How do we know some principal over in France isn't
+pulling the same scam you are!
+-- Homer learns that Bart has been selected for an exchange program,
+   ``The Crepes of Wrath''
+
+Pr. Skinner: You'll be getting an Albanian.
+Homer: You mean, all white with pink eyes?
+-- Student exchange program, ``The Crepes of Wrath''
+
+% Marge thinks Bart should have some say in the matter.
+
+Ah, the life of a frog.  That's the life for me.
+-- Bart, ``The Crepes of Wrath''
+
+% Bart loves the idea of going to France.
+
+He makes <me> crazy twelve months a year.  At least you get the summer off.
+-- Homer chats with Principal Skinner, ``The Crepes of Wrath''
+
+Bart:  And I'd get to take a plane there, wouldn't I, Mom?
+Marge: Yes, Bart.
+Bart:  And one back?
+-- We'll think about it, ``The Crepes of Wrath''
+
+% Marge returns with Bart and announces that Bart has given the green light.
+% Principal Skinner and Homer leap to their feet and exchange high fives.
+%
+% [End of Act One.  Time: 5:44]
+%
+% At Springfield International Airport, Marge kisses her ``special little guy''
+% good-bye.  Lisa scowls, ``What do you know about France?''  Bart sneers
+% back, ``I know I'm going and you're not.''
+
+Always remember that you're representing your country.  I guess what I'm
+saying is...  Don't mess up France the way you messed up your room.
+-- Homer sends Bart to France, ``The Crepes of Wrath''
+
+% Bart is (literally) loaded onto the plane.  Meanwhile, in Tirana, Albania,
+% a young boy bids farewell to his family.  (Mom, Dad, boy, sister, and baby
+% girl.  Hmm...)
+%
+% Upon arrival in Paris, Bart is greeted by a surly young gentleman.  ``Okay,
+% kid, let's go.''  Bart rides sidecar through the French countryside to
+% Ch\^ateau Maison, a dilapidated vineyard.  An older man tells his donkey,
+% ``Ah, Maurice.  Once the American boy arrives, your days of back-breaking
+% work labor will be over.''  Bart arrives.
+%
+% Meanwhile, the rest of the family await the arrival of the exchange student.
+% Lisa reads from a reference book.
+
+Lisa:  You know, in Albania, the unit of currency is called the lek.
+Homer: Heh heh heh.  The lek!
+Lisa:  And the national flag is a two-headed eagle on a red field.
+Homer: Give me the ol' stars-and-stripes!
+Lisa:  And the main export is furious political thought.
+Homer: Political what?
+-- ``The Crepes of Wrath''
+
+% The plane carrying the exchange student lands.
+%
+% Meanwhile, the older gentleman (Cesar) introduces his nephew Huguolin (the
+% gentleman who picked up Bart at the airport).
+
+You will find life here at the ch\^ateau hard, but if you shut up and
+do exactly what we say, the time will pass more quickly.
+-- Cesar, ``The Crepes of Wrath''
+
+% ``He's right, you know,'' adds Huguolin.
+%
+% The young boy deplanes and greets the family members by name.  He kisses
+% Homer once on each cheek.  ``Affectionate little Albanian, isn't he.''
+%
+% Bart's hosts go through his luggage and divvy up the proceeds.
+%
+% The students are gathered to welcome Adil Hoxha.
+
+You might find his accent peculiar.  Certain aspects of his culture may seem
+absurd, perhaps even offensive.  But I urge you all to give little Adil the
+benefit of the doubt.  This way, and only in this way, do we hope to better
+understand our backward neighbors throughout the world.
+-- Principal Skinner's introduction, ``The Crepes of Wrath''
+
+% Adil addresses his fellow students.
+%
+% Cesar, Huguolin, and Maurice walk cheerfully along, followed by Bart,
+% straining under the weight of water buckets.
+%
+% Dinnertime at the Simpsons.
+
+Adil:  How can you defend a country where five percent of the people
+       control ninety-five percent of the wealth?
+Lisa:  I'm defending a country where people can think and act
+       and worship any way they want.
+Adil:  Cannot!
+Lisa:  Can too!
+Adil:  Cannot!
+Lisa:  Can too!
+Homer: Please, please, kids, stop fighting.
+       Maybe Lisa's right about America being the land of opportunity,
+       and maybe Adil's got a point about the machinery of capitalism
+       being oiled with the blood of the workers.
+-- The thoughts of a worker who does not control the means of production,
+   ``The Crepes of Wrath''
+
+% This succeeds in defusing the situation.
+
+Marge: I'll just clean the dishes...
+Adil:  No, Mrs. Simpson, you have been oppressed enough today.
+       <I> will clear the dishes.
+-- ``The Crepes of Wrath''
+
+Did you see that?  This is the way I always wanted it to be!  We've become
+a fully-functioning family unit!  We've always blamed ourselves, but I
+guess it's pretty clear which cylinder wasn't firing.
+-- Homer trades Bart for Adil, ``The Crepes of Wrath''
+
+% Lisa leaves the table in disgust.
+
+Oh, she's just jealous.  She'll get over it.
+And if she doesn't, we can always exchange her!  Heh, heh, heh.
+-- Homer on Lisa's recent ourburst, ``The Crepes of Wrath''
+
+% Cesar and Huguolin enjoy their dinner of sausage, while Bart eats a raw
+% turnip.  Huguolin orders Bart to go to sleep, and points at a pile of hay.
+% But Maurice beats Bart to it, leaving our hero to sleep on the floor.
+%
+% Homer tucks Adil into bed.
+
+Homer: Look, Adil, you can call me `Dad'.
+Adil:  All right... `Dad'.
+Homer: Awwww, you called me `Dad'.
+-- ``The Crepes of Wrath''
+
+% Adil asks to see the nuclear power plant.
+
+None of my biological kids ever wanted to see me at work...
+-- Homer, upon Adil's request to see SNPP, ``The Crepes of Wrath''
+
+% Homer gladly agrees.  Adil says quietly to himself, ``Excellent...''
+%
+% Cesar instructs Bart on the proper way to pluck grapes.  ``Now do it a
+% million times.''
+%
+% Homer takes Adil to SNPP.
+
+See these?  American donuts.  Glazed, powdered, and raspberry-filled.
+Now, how's <that> for freedom of choice!
+-- Homer introduces Adil to the American workplace, ``The Crepes of Wrath''
+
+% Adil asks to see the plutonium isolation module.
+
+Homer: Hey, Lenny, does this place have one of those plutonium
+       isolation deals?
+Lenny: Yeah, in Sector 12.
+Homer: Sector 12?
+Lenny: Third floor, by the candy machine.
+Homer: Oh, <that> Sector 12!
+-- ``The Crepes of Wrath''
+
+% Bart carefully plucks grapes.  He looks around and pops one into his
+% mouth.  Huguolin whaps him on the back, causing Bart to spit out the
+% grape. ``Ungrateful swine!  We give you food, we give you shelter, and
+% this is how you repay us?''
+%
+% A radiation-suited Adil snaps photos furiously as Homer takes him through
+% the plant.  They reach the plutonium isolation module, marked ``TOP SECRET''.
+% Adil snaps away, and Homer keeps leaning into the frame to wave hello.
+% ``D'oh, wait a minute.''  Homer removes his radiation hood and smiles
+% for the camera.
+%
+% Bart unhappily stomps grapes.  ``I hate France, ungh, ungh, ungh.''
+%
+% Marge and Homer chat in bed.  A framed portrait of Adil hangs on the wall.
+% Marge makes Homer admit that he loves Bart, and Homer makes Marge admit
+% that Adil is a very sweet boy.  (``Darn tootin'!'')
+%
+% Pan out Bart's window to the treehouse, which is filled with electronics
+% equipment.  Adil prepares a fax machine and tunes his radio.  ``Sparrow to
+% Nest.  Sparrow to Nest.  Stand by for transmission.''  In Tirana, the fax
+% is received.  ``I told you the Sparrow would not fail.''  The two generals
+% admire the photo of the plutonium isolation module, with a smiling Homer
+% standing in front of it.
+%
+% [End of Act Two.]
+%
+% His feet purple with grape juice, Bart reads a letter from Marge.
+
+We think Maggie may say her first word any day now.
+-- Marge's letter to Bart, ``The Crepes of Wrath''
+
+% Bart finishes the letter, moans quietly, and blows out the candle.
+%
+% Cesar and Huguolin inspect the wine vats.  Cesar is optimistic about this
+% year's harvest, but Huguolin notes that the wine has been fermenting for
+% only three days.
+
+Quand je sens que ma foi dans les forces supr\^emes faiblit,
+je pense toujours au miracle de l'anti-freeze.
+-- Cesar, ``The Crepes of Wrath''
+
+Whenever my faith in God is shaken, I think of the miracle of anti-freeze.
+-- Cesar, ``The Crepes of Wrath''
+
+% ``Too much can be poison, but the right amount gives wine just the right
+% kick.''  Cesar mixes some antifreeze with the wine.  Bart coughs outside,
+% and Cesar shoos him away, then reconsiders.  He invites Bart in.  (``Watch.
+% I bet it won't even blind him.'')
+
+Cesar: [shoves a cup of wine in Bart's face]  Drink this.
+Bart:  Oh, no thanks.
+Cesar: Do not worry.  This is France.  It is customary for children to take
+       a little wine now and then.
+Bart:  Yeah, but it's got anti-freeze in there.
+Cesar: Drink it!
+-- ``The Crepes of Wrath''
+
+% Bart swallows hard, downs the wine, belches, and waits.  Cesar waves his
+% hand in front of Bart's face.
+
+He sees well enough.  Now go buy a case of anti-freeze.
+-- Cesar, ``The Crepes of Wrath''
+
+% Huguolin doesn't want to go out in the rain, so they send Bart.
+%
+% Bart pedals to Paris in search of 14 Rue Voltaire, but gives up.  He flags
+% down a passing policeman.  Unfortunately, there's a language problem.
+% The policeman unwraps a candy.  ``Voil\`a un bonbon.''  Bart reluctantly
+% takes it but is unable to communicate.  ``Je suis d\'esol\'e.''  Bart
+% walks away, dejected.
+
+I'm so stupid.  Anybody could've learned this dumb language by now.
+Here, I've listened to nothing but French for the past |{deux mois,}
+                                                       |[two months,]
+{et je ne sais pas un mot.}
+[And I haven't learned a word.]
+{Eh!  Mais, je parle Fran\c{c}ais maintenant!}
+[Wait!  I'm talking French now!]
+{Incroyable!}
+[Incredible!]
+-- Bart learns French, ``The Crepes of Wrath''
+
+% He rushes back to the policeman.
+
+Bart: You gotta help me.  These two guys work me night and day.
+      They don't feed me.  They make me sleep on the floor.
+      They put anti-freeze in the wine, and they gave
+      my red hat to the donkey.
+Policeman: [shocked]
+      Anti-freeze in the wine?  That is a very serious crime.
+-- ``The Crepes of Wrath''
+
+% Homer arrives home with something tucked under his arm.
+
+Oh, just some blueprints Adil wanted.
+I'm telling you, he's such a curious little Dickens.
+I bet he could <build> a nukeeler power plant if he wanted to!
+-- Homer fetches classified information for Adil, ``The Crepes of Wrath''
+
+% A voice calls to the Sparrow to surrender.  Homer goes outside to see
+% what the to-do is about.
+
+Homer: I'm his neighbor, what'd he do?
+Agent: [through the megaphone]  Well, sir, the...
+       [turns off the megaphone] Well, sir...
+-- ``The Crepes of Wrath''
+
+% The agent explains that they're closing in on a spy code-named ``The
+% Sparrow''.  Homer thinks Adil might get a kick out of this.  Adil
+% nervously drops his microphone out of the treehouse and attracts
+% attention.  Homer waves hello, and is quickly trampled by dozens of
+% FBI agents.
+%
+% In France, Cesar and Huguolin are placed in a paddy-wagon.  ``Au revoir,
+% suckers!'' says Bart.  Bart makes headlines and receives a medal.
+%
+% At Springfield Airport, the agent explains that they will trade Adil
+% for one of their own spies that had been captured.  The spy looks an
+% awful lot like Bart.
+
+Spy:  So, Sparrow, we meet again.
+Adil: Yes.  Sometimes I think that I am getting too old for this game.
+-- ``The Crepes of Wrath''
+
+% Adil bids the Simpsons farewell, and Marge and Lisa mumble farewell.
+
+Good-bye, Adil!  I'll send you those civil defense plans you wanted!
+-- Homer bids farewell to an Albanian spy, ``The Crepes of Wrath''
+
+% Flight mille neuf cent quatre-vingt huit arrives from Paris.  Bart leaps
+% off the plane and greets his family.  Lisa checks the bags Bart was
+% carrying.  ``He brought us gifts!  His first unselfish act.''
+%
+% In the kitchen, Bart concludes his story.
+
+So, basically, I met one nice French person.
+-- Bart's summary of his trip to France, ``The Crepes of Wrath''
+
+% Lisa says, ``It's good to see you,'' and Bart reflects the sentiment.
+% Marge asks to try the wine Bart brought, as Homer struggles to open it.
+
+Some wise-guy stuck a cork in the bottle!
+-- Homer struggles to open a wine bottle, ``The Crepes of Wrath''
+
+Mon p\`ere!  Quel bouffon!
+-- Bart, ``The Crepes of Wrath''
+
+% ``Ya hear that, Marge?  My boy speaks French!''  Homer finally uncorks
+% the bottle with his teeth.
+%
+% [End of Act Three.]
+
+> Didja notice...
+
+    ... the doors were missing from the toilet stalls in the boys' room?
+        Typical elementary school facilities.
+    ... Bart got his wish?  He lived the life of a frog!
+    ... someone took a bicycle on the plane as carry-one luggage?
+    ... not to mention a lamp? (Your baggage must fit inside this box, indeed!)
+    ... Principal Skinner gave a speech and didn't screw up a single word?
+    ... Adil was using a machine that looked like an Enigma machine?
+    ... Bleeding Gums Murphy on the plane?
+
+
+
+> Movie (and other) References
+
+    * Assorted French paintings
+        - Bart's ride through the French countryside
+        - Dejeuner sur l'herbe
+        - Three others
+    * Jean de Florette and Manon of the Spring
+        - Cesar and Huguolin look like and have the same names as the evil
+          peasants. @{tas}@{jmv}
+    * Red Balloon [Tony Wright]
+        - Maggie holds on to a red balloon
+    * Enver Hoxha
+        - Adil Hoxha is a reference to this Albanian president
+    * Jim Belushi
+        - This famous Albanian was the reason that the country was used.
+
+> Goofs
+
+The American flag in the auditorium is hanging the wrong way.  It should
+be hung with the blue field in the upper left corner.
+
+> Comments and other observations
+
+>> French, as viewed by a Frenchman
+
+Jean-Marc Vezien @{jmv} volunteered to study the episode from a French point
+of view, and here's the result of his analysis:
+
+Although ``Bart's Dog Gets an F'' remains my favorite, ``The Crepes of Wrath''
+is certainly a very good episode, especially for a French native.  The
+depiction of the two bad guys is hilarious (I'll try to explain why below), as
+well as the accent itself.  First, the names: Maurice, Cesar (this should be
+C\'esar, with acute accent, but who cares?) and Huguolin.  Maurice is a typical
+French name, very common for men in their 40's or 50's. Definitly out of
+fashion, and usually associated with countryside flavor (which tends to be
+pejorative nowadays).  Needless to say, this doesn't reflect the average IQ of
+all the Maurices in France, but so there.
+
+Cesar and Huguolin are two very famous characters of French literature, from
+the novel ``Manon des sources'' (Manon of the Springs), two corrupted,
+bad-mannered peasants of the 30's.  They don't happen to make wine, but steal
+the water from another guy's land by obstructing his spring.  In fact, the
+story is rather intricate and probably not interesting for Americans.  But
+Cesar and Huguolin represent the archetype of the typical narrow-minded,
+twisted farmer of France at the beginning of the century, ready to commit any
+abuse for a little money.  Needless to say, this doesn't reflect the average
+behaviour of all the farmers in France, but so there.
+
+The funniest thing all along the episode is the accent.  The point is, except
+the policeman (who speaks such a accentless French that it's funny anyway), all
+the French speaking characters have a <very thick> American accent.
+Furthermore, Cesar and Huguolin's voicers have tried to imitate the French
+countryside accent, which kept me rolling on the floor with laughter.  Some of
+the sentences are very hard to catch, even for a native, and a few words remain
+a mystery for me.  Oh well.  I also like the way the French guys speak English
+(a very good catch of the real French accent, putting `e' at the ends of
+sentences, or rolling the `r').
+
+Now, for those who plan to go to France for a vacation or an exchange student
+program, let me state this:  It is possible to go in September, to the
+southwest of France (the Bordeaux region) and spend a marvelous (although
+exhausting) time, gathering the grapes.  Lots of gigantic meals, free wine and
+girls (well, at least wine...), in a friendly atmosphere.  No Cesar or
+Huguolin, and no risk of anti-freeze!  Along this line, it's absolutly <true>
+that some crooks tried to add anti-freeze to the wine in order to make it
+taste ``older''.  (Normally it takes at least one and up to 20 years to make a
+decent wine.)	This, of course, is prohibited and the production is severely
+controlled.  (I speak for France, now the situation can be somewhat different
+in Italy or Spain, which produce lots of cheap wine.)
+
+And out of curiosity, is it real Albanian?
+
+>>> Now for the French part
+
+%%%%Raw
+{\catcode`\|\active\def\({\Q\parskip0pt\QuoteMulti}\let\\\medbreak
+\def\){\endQuoteMulti\eQ}\let\,\c\def|#1: #2|{\QuoteLine{#1}{#2}\endQuoteLine}
+%%%%eRaw
+
+Before Bart arrives...
+\(
+{|C\'esar:     Ah, Maurice. D\`es que le gar\,con am\'ericain arrive,
+               tes jours d'esclavage sont finis.
+||Translation: Ah, Maurice.  As soon as the American boy arrives,
+               your days of slavery are over.
+||Subtitle:    Ah, Maurice.  Once the American boy arrives /
+               your days of back-breaking labor will be over.
+|}\)
+\\
+
+Huguolin and C\'esar go through Bart's things:
+\(
+{|Huguolin:     C\'esar, regarde!  Nous sommes riches!
+||Translation:  C\'esar, look!  We are rich!
+||Subtitle:     Cesar, look!  We are rich!
+|\smallskip
+ |C\'esar:      Ceux-l\`a sont trop petits, mais on peut les vendre.
+||Translation:  These are too small, but we can sell them.
+||Subtitle:     These won't fit us, but we can sell them.
+|\smallskip
+ |Huguolin:     Regarde, Maurice.  Un beau chapeau rouge pour toi.
+||Translation:  Look, Maurice.  A beautiful red hat for you.
+||Subtitle:     And a red hat for you, Maurice.
+|}\)
+\\
+
+Dinnertime...
+\(
+{|Huguolin:     Elle est bonne cette saucisse.
+||Translation:  This sausage is really good.
+||Subtitle:     Mmm.  Good sausage.
+|\smallskip
+ |C\'esar:      Oui tr\`es. Passe-moi le vin.
+||Translation:  Yeah, a lot.  Give me the wine.
+||Subtitle:     Yes.  Pass me the wine.
+|}\)
+So we have here the archetype of (1)~the typical rural French meal
+and (2)~the typical rural French conversation.
+\\
+
+As Bart reads the letter from Marge...
+\(
+{|C\'esar:     Silence!
+||Translation: Silence!
+|}\)
+But you knew that already.
+\\
+
+In the wine shack...
+\(
+{|C\'esar:      Ah, je crois que \,ca va \^etre notre meilleur cuv\'ee.
+||Translation:  Ah, I think this is going to be our best vintage.
+||Subtitle:     This will be our finest wine ever.
+|\smallskip
+ |Huguolin:     Mais le vin n'a ferment\'e que trois jours.
+||Translation:  But the wine has only fermented for three days.
+||Subtitle:     But it's only been fermenting for three days.
+|\smallskip
+ |C\'esar:      Quand je sens que ma foi dans les forces supr\^emes
+                faiblit, je pense toujours au miracle de l'anti-freeze.
+||Translation:  When my faith in the supreme forces weakens, I always
+                think of the miracle of the antifreeze.
+||Subtitle:     Whenever my faith in God is shaken,
+                I think of the miracle of anti-freeze.
+|}\)
+I couldn't stop laughing at this one.  First, C\'esar pronounces <cuv\'ee>
+(vintage) with an American ``u'', sounding <coov\'ee>, or using French
+spelling, <couv\'ee>, which means ``clutch''!  Then there is this
+incredible sentence refering to supreme forces.  I don't know for the
+Americans, but it sounds crazy in French.
+[It sounds crazy in English, too. --rjc]  Last, C\'esar says
+<antifreeze> (we say <antigel> in French), which, combined
+with the leading <de l'>, sounds almost like
+<dentifrice> which means <toothpaste>!
+\\
+
+Continuing...
+\(
+{|C\'esar:      Si on en met trop, bien s\^ur, c'est du poison.
+||Translation:  If you put put too much of it, of course, it's lethal.
+||Subtitle:     Too much can be poison,
+|\smallskip
+ |C\'esar:      Mais dans les proportions voulues, \,ca donne du corps au vin.
+||Translation:  But in the desired proportions, it gives body to the wine.
+||Subtitle:     but the right amount gives wine just the right kick.
+|}\)
+``Corps'' is difficult to translate here, as I'm not a specialist of wine.
+In fact, I realize I don't even know how to describe it properly.
+Let's stick to ``body'', which is reasonably accurate.
+\\
+
+\(
+{|Huguolin:     Je crois que tu en as mis trop.
+                Tu vas tuer quelqu'un avec \,ca.
+||Translation:  I think you put too much of it.
+                You'll kill somebody with that.
+||Subtitle:     You put in too much.  It may kill someone.
+|\smallskip
+ |C\'esar:      Tuer quelqu'un?  T'es fou!
+||Translation:  Kill someone?  You're nuts!
+||Subtitle:     Kill someone?  Don't be ridiculous.
+|}\)
+\\
+
+As they're about to feed Bart the tainted wine...
+\(
+{|C\'esar:      Regarde, je te parie que \,ca va m\^eme pas le rendre aveugle.
+||Translation:  Look, I bet you he's not even going to be blind.
+||Subtitle:     Watch.  I'll bet it won't even blind him.
+|}\)
+The word ``aveugle'' is spoken in such a manner that only by consulting
+the subtitle could I figure out what he said!
+\\
+
+\(
+{|C\'esar:      Qu'est ce que je t'avais dit?
+                Maintenant, vas nous chercher une caisse
+                d'anti-freeze au magasin.
+||Translation:  What did I tell you?
+                Now, go and get us a case of antifreeze at the store.
+||Subtitle:     He sees well enough.  Now go buy a case of anti-freeze.
+|}\)
+Here, <d'anti-freeze> really sounds like <dentifrice>.
+\\
+
+\(
+{|Huguolin:     Mais il pleut!
+                Est-ce qu'on peut attendre \`a faire le vin demain?
+||Translation:  But it's raining!
+                Can't we wait until tomorrow to make the wine?
+||Subtitle:     But it's raining outside.  Let's make the wine tomorrow.
+|}\)
+It seems that Huguolin's voicer had problem with this sentence, which
+sounds terrible. Besides, the <\`a> is incorrect.  It should be <pour>~(for)
+or <et>~(and).
+\\
+
+\(
+{|C\'esar:      On a d\'ej\`a perdu trois jours.
+||Translation:  We've already lost three days.
+||Subtitle:     We have already waited three days.
+|}\)
+Sounds like a good score for wine-making!
+\\
+
+\(
+{|Huguolin:     Alors, envoie le gar\,con!
+||Translation:  Then, send the kid!
+||Subtitle:     Then send the boy.
+|}\)
+\\
+
+Bart's visit to Paris.  Stores named <La Rotisserie> and <Bon Dormir>.
+Bart spots a (not so) typical French policeman and tries to talk to him.
+\(
+{|Policeman:    Excusez-moi, je ne parle pas Anglais.
+||Translation:  Excuse me, I don't speak English.
+|}\)
+Ah, ha, ha, ha, ha ha!  A French policeman <never> apologizes.  Besides,
+this guy sounds like a shy school teacher who spent his life behind
+his books (with a perfect, sweet, accentless French), not like the
+average cop, who would have said: ``<Ben alors petit, t'as perdu ta
+m\`ere?>''  (So shorty, lost your mum?)
+\\
+
+Bart's struggle with the language continues.
+\(
+{|Policeman:    Tiens, petit gar\,con.  Voil\`a un bonbon.
+||Translation:  There, little boy.  here's a piece of candy.
+|}\)
+Do you <really> think French cops give sweets to lost American kids?
+\\
+
+\(
+{|Policeman:    Je suis d\'esol\'e, j'aimerais vraiment pouvoir vous aider.
+||Translation:  I'm sorry, I'd really like to help you.
+|}\)
+Come on!  An understanding cop?  Gimme a break, man!
+\\
+
+Bart complains to himself, ``Anybody could have learnt this dumb language
+by now!''  (Sure, especially Homer!)
+\(
+{|Bart:         Here, I've listened to nothing but French for the past
+                deux mois, / et je ne sais pas un mot.
+||Translation:  two months, / And I don't know a word!
+||Subtitle:     two months. / And I haven't learned a word.
+|}\)
+Not too bad an accent, for a beginner.
+\\
+
+\(
+{|Bart:         Mais, je parle Fran\,cais maintenant! / Incroyable!
+||Translation:  My, I speak French now! / Incredible!
+||Subtitle:     Wait!  I'm talking French now! / Incredible!
+|}\)
+Indeed, it is.
+\\
+
+\(
+{|Bart:         Hey, Monsieur, aidez-moi!
+                Ces deux types me font travailler jour et nuit.
+                Ils ne me donnent pas \`a manger,
+                ils me font dormir par terre,
+                ils mettent de l'antifreeze dans le vin,
+                et ils ont donn\'e mon chapeau rouge \`a l'\^ane.
+||Translation:  Hey sir, help me!
+                Those two guys make me work day and night.
+                They don't feed me,
+                they make me sleep on the ground,
+                they put antifreeze in the wine,
+                and they gave my red hat to the donkey.
+||Subtitle:     You gotta help me.  These two guys work me night and day. /
+                They don't feed me.  They make me sleep on the floor. /
+                They put anti-freeze in the wine,
+                and they gave my red hat to the donkey.
+|}\)
+Note that the policeman gulps when Bart mentions the antifreeze.
+Nothing is worse than to adulterate wine in France.
+Death penalty at the very least.
+\\
+
+\(
+{|Policeman:    De l'antifreeze dans le vin?
+                Ah mais c'est s\'erieux \,ca!
+                Viens avec moi, fiston, tu n'as plus rien \`a craindre.
+||Translation:  Antifreeze in the wine?
+                This is serious indeed!
+                Come with me, boy, you've got nothing to fear anymore.
+||Subtitle:     Anti-freeze in the wine?  That is a very serious crime. /
+                Come along, boy.  There is nothing for you to fear now.
+|}\)
+Two major flaws here:  First, the French cop understands it all right away.
+Usually you have to explain things four or five times just to get a
+glimmer of comprehension.  Second, Bart is now all alone with a cop,
+which typically means that he's in deep, deep trouble.
+\\
+
+\(
+{|Bart:         Mon [???].  Vous aurez toujours une place dans mon c{\oe}ur.
+||Translation:  My [???].  You will always have a place in my heart.
+||Subtitle:     My savior.  You will always have a place in my heart.
+|}\)
+The first two words are covered by music and are impossible to figure out.
+As for Bart's behaviour (thanking a cop), I can
+see only one explanation:  Antifreeze poisoning.
+According to Sergio Bayarri Gausi <euimail@aiind.upv.es>:
+[???] is "sauveur": "Mon sauveur. Vous aurez toujours une place dans mon
+coeur." ("My saver. You will always have a place in my heart.")
+\\
+
+The bad guys get busted...
+\(
+{|Policeman:    He ben maintenant, vous ferez votre vin en prison!
+||Translation:  Well, now, you'll make your wine in prison!
+||Subtitle:     From now on you will be doing all your winemaking in prison.
+|}\)
+Ha, ha, ha.  Typical cop joke.
+\\
+
+\(
+{|Huguolin:     Nous [????] les prisons!
+||Translation:  We [????] the jails!
+|}\)
+The word marked [????] is not a French word. I swear it.
+Sergio:
+Actually, I'm almost sure that Huguolin says "Je n'aime pas la prison!"
+("I don't like jail!").
+\\
+
+\(
+{|C\'esar:      Et tout \,ca, parce qu'on a particip\'e \`a un
+                programme d'\'echange d'\'etudiants!
+||Translation:  And all this because we were part of an student
+                exchange program!
+||Subtitle:     And all because we participated in a student exchange program.
+|\smallskip
+ |Bart:         Au revoir, suckers!
+||Translation:  Bye bye, suckers!
+|}\)
+Note that Bart could have used the French equivalent of suckers, ``pigeons''.
+\\
+
+At the airport:
+\(
+{|Voice:        Air France, flight mille neuf cent quatre-vingt huit,
+                Paris to Springfield, is now arriving.
+||Translation:  Air France, flight 1988, Paris to Springfield, is now arriving.
+|}\)
+\\
+
+Back at home, Bart muses to himself...
+\(
+{|Bart:         Mon p\`ere, quel bouffon.
+||Translation:  My father.  What a buffoon.
+||Subtitle:     My father.  What a buffoon.
+|}\)
+All in all, pretty funny. Nevertheless, I wonder why they didn't take
+real French speakers.  (Hey, they could have asked me!)  Now don't
+tell me it was too difficult to find.  The depiction of France was as
+grotesque as I expected (Bart met one nice person in France), and
+Groening et al.\ captured some of the worse features you can find on a
+trip to France.  (Wonder where he got his info.)
+}
+
+>> But antifreeze is so sweet and tasty!
+
+The antifreeze is a reference to an actual case in which small amounts of
+diethylene glycol were found in wine.  In the commentary to the Season 1 DVD,
+the writers indicate that it was probably a mistake, but that's not the whole
+truth.
+
+A few Austrian winemakers wanting to comete with the more highly-rated Germanic
+wines, so they started adding diethylene glycol, a close cousin to antifreeze
+(and may be a component of some antifreezes), which causes the wine to be
+sweeter and more viscous.  This was discovered when one winery listed the
+chemical in its tax returns.  There are reports of various importers relabeling
+the wine and trying to pass it off as domestic, unaware of the antifreeze.
+
+Ironically, the 1985 Austro-Germanic Diethylene Glycol Wine Scandal caused
+Austria to implement extremely strict wine laws, such that Austrian wine is now
+very highly regarded.
+
+>> Miscellaneous
+
+You'd think the water in the toilet bowl would've extinguished the fuse
+on the cherry bomb.
+
+Andrew Gill responds: Not necessarily!  Some fuses are waterproof (before
+and/or after ignition), and some explosive devices will continue to work if
+they start out of water (Not that anyone in my family would have
+ever--ahem--tried this).  Besides--as Bart says, this is a classic.  People
+have been doing this since toilets were invented.
+
+> Boring distribution restrictions
+
+Episode summaries Copyright 1991--1992 by Raymond Chen.  Updated 2002 by Andrew
+Gill.  Diethylene glycol was not used in the making of this capsule.  Not to be
+redistributed in a public forum without permission.  (The quotes themselves, of
+course, remain the property of The Simpsons, and the reproduced articles remain
+the property of the original authors.  I'm just taking credit for the
+compilation.)
+</PRE>

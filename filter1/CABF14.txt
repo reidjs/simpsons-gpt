@@ -1,0 +1,598 @@
+% Springfield awakens to a beautiful new day of blue skies and warm
+% sunshine.  A garbage truck makes its rounds, its mechanical can-
+% lifting arm uprooting Ned's mailbox.  ("Son of a diddly," Ned
+% mutters.)  The paperboy delivers news of a truce between picnickers
+% and ants.  Homer applies deodorant to *all* his bodily hair.  And
+% Marge decides to try something new for breakfast.  It is the start
+% of ...
+%
+%                            Homer's Day
+%
+% Homer has just stepped out of the shower when Marge calls
+% "breakfast," that he loses his towel in the rush downstairs.  Lucky
+% for rest of the family, he's fully dressed by the time he's seated
+% at the table.  But the family's not so lucky when it comes to the
+% breakfast menu.
+
+Homer:	Aw, cereal?  You know I like my breakfast fried, or 
+	chicken-fried.
+Marge:	It's that healthy cereal from Europe.  Meuslix.
+	[spoons some from the bowl; it's viscous beige glop]
+	[the children shudder simultaneously]
+	They also make juicelix.
+	[Maggie takes a drink from her cup.  The same gooey cereal 
+	forms a messy strand between her face and the bottle]
+	[the doorbell rings]
+Bart:	It's Milhouse.
+	[the doorbell rings several more times]
+	And it sounds like he has big news!  [runs out of the 
+	room]
+Homer:	[spooning his cereal] Yugh.
+Lisa:	Yuch.  [aside to Homer] I'll get us out of this.
+	[louder] Say Dad, wanna go see my project for the school 
+	science fair.
+Homer:	[winks] No, Lisa.  But I sure don't want to eat this 
+	crappy breakfast.  [Lisa and Homer run out of the room, 
+	leaving Maggie trapped in juicelix like a tar baby]
+-- Master of subtlety, "Trilogy of Error"
+
+% Lisa shows her father her science-fair project, a little homemade
+% robot.
+
+Lisa:	Meet Linguo, the grammar robot.  I built him all by 
+	myself.  If you misuse language, he'll correct you.
+Homer:	Well, let's put him to the test.  [slowly] Me love beer.
+Linguo:	*I* love beer.
+Homer:	Aw, he loves beer.  Here, little fellow.  [pours a handy 
+	can of beer in Linguo's mouth]
+Lisa:	Dad, no!
+Linguo:	[shorting out] Error.
+Homer:	I'm sorry.  I thought he was a party robot.
+Lisa:	Ugh.  This is why I can't have nice things.  [growls, 
+	takes Linguo and goes upstairs]
+-- "Trilogy of Error"
+
+% Homer catches a whiff of something good and follows the scent to the
+% kitchen.  Marge is making brownies for after dinner.  Homer wants
+% one now, and playfully makes several grabs at them while Marge tries
+% to cut them into smaller squares.
+%
+% You know how they say you shouldn't fool around with sharp knives? 
+% Homer discovers there's a good reason for that:  Marge accidentally
+% severs his right thumb.
+
+Homer:	Oh God, Oh God, Oh God!
+Marge:	I'm sorry!  I'm so sorry!
+Homer:	Sorry doesn't put thumbs on the hand, Marge!
+-- "Trilogy of Error"
+
+% Marge quickly bandages Homer's hand, and tells him that if they can
+% get to the hospital quickly enough, the doctors can re-attach it. 
+% That may be easier said than done.  In the confusion, Santa's Little
+% Helper has nabbed Homer's thumb.  Homer tries tackling the dog, but
+% he misses, and SLH runs out through the doggie door.  Homer gives
+% chase.
+%
+% Meanwhile, Marge calls 911.
+
+Wiggum:	[answering phone] 9-1-1.  This'd better be good.
+Marge:	I cut off my husband's thumb!
+Wiggum:	Attempted murder?  You'll burn for this -- burn in jail!
+Marge:	It was an accident.
+Wiggum:	Yeah, yeah.  Save it for "Dateline: Tuesday."  Uh, what's 
+	your address so I can come arrest you?
+Marge:	Arrest me?  Um, my address, it's um, 1-2-3 ... Fake 
+	Street.
+-- "Trilogy of Error"
+
+% Homer chases the dog around the back yard.
+
+Homer:	You want people food?  I can give you people food.
+	[SLH runs off]
+	Oh, I have nothing he wants.
+-- Except maybe the other thumb, "Trilogy of Error"
+
+% Ned reads a story to Todd.
+
+Ned:	[reading] Harry Potter, and all his wizard friends, went 
+	straight to Hell for practicing witchcraft.
+Todd:	Yay!
+	[Ned tosses the book into the fireplace, and it burns]
+-- Fundamentalist story-time hour, "Trilogy of Error"
+
+% Santa's Little Helper and Homer bound through the Flanders' living
+% room.  "What the diddly-o?" Ned yells.  Homer finally grabs the dog,
+% knocking the thumb into the path of Rod's electric train.  Just
+% before the engine can run over the thumb, Homer stomps on the track,
+% saving the thumb but ruining Rod's train.
+%
+% No time for remorse, though.  Homer and Marge rush in their car to
+% seek medical help.  Marge is at the wheel.
+
+Marge:	We've got to get to the hospital, Homer.
+Homer:	Okay, if the doctor asks why you cut it off, you caught me 
+	in bed with four beautiful women.
+Marge:	Let's just say that Bart did it.
+-- "Trilogy of Error"
+
+% Thinking up an alibi distracts Marge from the road, and she rear-
+% ends another car.
+
+Marge:	[frustrated] Eh, doodlebugs.
+Ranier:	[gets out of his car] My Ferrari!  I had to do awful 
+	things to pay for her.
+-- "Trilogy of Error"
+
+% The enraged actor pulls a golf club from his car and exacts revenge
+% on the Simpsons' windshield.  While Wolfcastle focuses on that,
+% Homer sneaks into the Ferrari, and motions for Marge to come join
+% him.  She does, and they are soon on their way to Springfield
+% General Hospital.
+%
+% At the hospital, they consult with Dr. Hibbert.
+
+Hibbert:	I'm sorry, Homer.  Your HMO doesn't cover this type 
+		of injury.
+Homer:		But I have finger insurance.
+Hibbert:	A thumb is not a finger!
+Marge:		Isn't there anything you can do?
+Hibbert:	Well, I could cut off the other thumb for a sense of 
+		symmetry.
+Homer:		Symmetry, eh?
+		[cut to Homer and Marge driving in the Ferrari]
+Marge:		Hibbert's really losing it.  We're going to Dr. 
+		Nick's.
+-- Now you're talking desperate, "Trilogy of Error"
+
+% The thumb is starting to fade, so the Marge and Homer stop at Moe's
+% for some more ice.  Homer goes into the bar while Marge waits in the
+% car.
+
+Homer:	Quick, Moe!  Marge cut off my thumb.
+Moe:	No problem.  Just stick the ol' eye-gouger in the pickle 
+	brine.  That'll keep your thumb fresh and delicious.
+Homer:	[puts the thumb in the pickled-egg jar, and takes the jar 
+	toward the front door] Thanks, Moe.
+Moe:	Hey-ya, hey!  Ain't you gonna have a beer?  [sets a mug on 
+	the bar]
+Homer:	Well, I really shouldn't, what with my massive blood loss 
+	and all.  Although I do like the occasional beer.
+	[several occasions later]
+	[drunkenly] Did you ever see that Blue Man Group?  Total 
+	rip-off of the Smurfs.  And the Smurfs -- they suck!  
+[passes out]
+-- "Trilogy of Error"
+
+% Moe smells the tell-tale scent of gangrene, and realizes he has to
+% revive Homer.  Barney suggests a pot of coffee, which works.  Homer
+% runs outside -- only to find Marge has gone!
+%
+% Homer tries hitchhiking, but his hitching thumb is the one in the
+% jar.  Even so, Cletus the hick stops for him.
+
+Homer:	Hey, thanks for stopping.
+Cletus:	Tain't nothing.  You and me share a common infirmity.  If 
+	anyone ever tells you a hog won't eat a finger, they's 
+	lying.  [holds up his left hand, which has two fingers 
+	missing]
+-- Country wisdom, "Trilogy of Error"
+
+% Cletus and Homer arrive at Dr. Nick's clinic, but Homer's streak of
+% bad luck continues.  The clinic is on fire.  Dr. Nick talks to the
+% fire chief, saying, "'Inflammable' means 'flammable'?  What a
+% country!"  It makes you wonder what led up to that incident.
+%
+% Homer doesn't have time to consider that, though.  He asks Cletus if
+% he can take him to Shelbyville Hospital, but a thief makes off with
+% Cletus's truck.  Homer has to walk the twenty miles to Shelbyville.
+%
+% He makes it a mile or so out of town before realizing that it's
+% futile.  Homer sadly concedes defeat, sets down the pickled-egg jar,
+% and cradles his thumb in his hand.  "Well, friend, we always knew
+% this day would come," he says.  "Say goodbye to your brother." 
+% There's a "bang" in the distance.  Something is launched from the
+% city, and lands near Homer.  It's Linguo's head!
+
+Homer:	[gasps] Linguo -- dead?
+Linguo:	Linguo *is* dead.  [fades out]
+-- "Trilogy of Error"
+
+% Homer manually closes Linguo's eyes.
+%
+% [End of Act One.  Time:  6:38]
+%
+% Springfield awakens to a beautiful new day of blue skies and warm
+% sunshine.  A garbage truck makes its rounds, its mechanical can-
+% lifting arm uprooting Ned's mailbox.  ("Son of a diddly," Ned
+% mutters.)  The paperboy delivers news of a truce between picnickers
+% and ants.  And Marge decides to try something new for breakfast.  It
+% is the start of ...
+%
+%                             Lisa's Day
+%
+% Lisa is doing some tai-chi exercises to new-age music when Marge
+% announces breakfast is ready.
+
+	[the doorbell rings]
+Bart:	It's Milhouse.
+	[the doorbell rings several more times]
+	And it sounds like he has big news!  [runs out of the 
+	room]
+Homer:	[spooning his cereal] Yugh.
+Lisa:	Yuch.  [aside to Homer] I'll get us out of this.
+	[louder] Say Dad, wanna go see my project for the school 
+	science fair.
+Homer:	[winks] No, Lisa.  But I sure don't want to eat this 
+	crappy breakfast.  [Lisa and Homer run out of the room, 
+	leaving Maggie trapped in juicelix like a tar baby]
+-- Déjà vu, "Trilogy of Error"
+
+% Lisa shows her father her science-fair project, a little homemade
+% robot.
+
+Homer:	Here, little fellow.  [pours a handy can of beer in 
+	Linguo's mouth]
+Lisa:	Dad, no!
+Linguo:	[shorting out] Error.
+Homer:	I'm sorry.  I thought he was a party robot.
+Lisa:	Ugh.  This is why I can't have nice things.  [growls, 
+	takes Linguo and goes upstairs.  Homer catches a whiff of 
+	something good]
+-- "Trilogy of Error"
+
+% Lisa light's a small acetylene torch.
+
+Lisa:	Hang on, Linguo.  You'll be up and conjugating in no time.
+Homer:	[offscreen] Aaagh!  My thumb!
+Lisa:	Quiet, please!  Some of us are trying to weld.
+-- Some people can be so inconsiderate, "Trilogy of Error"
+
+% In spite of all the commotion from downstairs, Lisa quickly finishes
+% the repair job.
+
+Lisa:	Almost done -- just lay still.
+Linguo:	*Lie* still.
+Lisa:	I knew that.  Just testing.
+Linguo:	Sentence fragment.
+Lisa:	"Sentence fragment" is also a sentence fragment.
+Linguo:	[shifts eyes around] Must conserve battery power.  [shuts 
+	himself down]
+Lisa:	Just come on.  [runs downstairs]
+-- "Trilogy of Error"
+
+% Lisa just barely misses the bus, delighting Martin, who figures he
+% has a lock on first place.  Lisa runs to the back yard to get her
+% bike, but it's missing.  She tries to get a ride from her mother,
+% but by now Homer and Marge are rushing to the hospital.  Desperate,
+% she begins to run to school.  Downtown, a limousine almost hits her
+% as she crosses the street.  Krusty leans out the rear passenger's
+% window.
+
+Krusty:	[to his chauffeur] Idiot!  You almost ran over a viewer!  
+	And she's in our key demo.
+	[to Lisa] Sorry about that, kid.  Need a ride?
+Lisa:	Can you take me to school, Krusty?
+Krusty:	Hop in.
+	[Lisa gets in the car.  Cut to the inside of the limo]
+	[taps on the dividing glass] Hey, moron -- Springfield 
+	Elementary, and step on it.
+	[the glass lowers, letting us see that Mr. Teeny, Krusty's 
+	chimp, is the chauffeur]
+	[they drive a short distance before Chief Wiggum pulls 
+	them over]
+Wiggum:	Hey, Teeny, you know where 123 Fake Street is?
+Teeny:	[subtitled] <I don't know what you're saying.>
+Wiggum:	Ah, it's okay.  Hey, we got the same hat.  [drives off]
+-- What's under it is similar, too, "Trilogy of Error"
+
+% Mr. Teeny drops Lisa off at school.  She goes to her classroom, and
+% is surprised to discover a French language class in progress.
+
+Lisa:		Huh?  This isn't Miss Hoover's class.
+Teacher:	[heavy French accent] I do not know this 
+		mademoiselle Oo-vair of which you speak.
+Lisa:		What's happening?  Where am I?
+Teacher:	Sacre bleu!  What a foolish question.  You are at 
+		West Springfield Elementary School.
+Lisa:		*West* Springfield!?  I'm at the wrong school!
+		[the class laughs]
+Teacher:	En Francais.
+		[class laughs with a stereotypical French accent]
+-- "Trilogy of Error"
+
+% Lisa runs down the hall and literally bumps into another student, a
+% boy about her age.
+
+Lisa:		Sorry.  I was rushing because I'm at the wrong 
+		school.  [giggles] Can you believe that?
+Thelonious:	It's understandable.  All the schools in this area 
+		were built from identical plans.  I guess they 
+		didn't have enough money to hire I. M. Pei.
+Lisa:		You know about I. M. Pei?  I. M. Impressed.
+		[they share a laugh]
+Thelonious:	My name's Thelonious.
+Lisa:		As in "Monk?"
+Thelonious:	Yes.  The esoteric appeal is worth the beatings.
+Lisa:		What do your friends call you?
+Thelonious:	I don't really have any friends.
+Lisa:		[gasps] Just like me!
+-- Birds of a feather, "Trilogy of Error"
+
+% Lisa and Thelonious hold hands and joyfully twirl around on West
+% Springfield's front lawn.  Linguo joins in at some point. 
+% Eventually, Lisa stops.
+
+Lisa:		Oh, my God!  It's 11:15!  We've been spinning for 
+		hours.  I've got to get to my school and hand in 
+		Linguo.  Oh, but I don't want to leave you.
+Thelonious:	You must.  You can't sacrifice grades for romance.  
+		That's not the girl I fell for.
+Lisa:		Will I ever see you again.
+Thelonious:	Of course you will.  At the magnet high school.  Now 
+		go!
+-- If you love someone, set them free, "Trilogy of Error"
+
+% Lisa starts running again.  Forty-five minutes later, she's in front
+% of Moe's tavern.  She goes in, hoping to find her father there. 
+% Homer hasn't shown up yet, but Chief Wiggum is sitting at one of the
+% booths, listening intently to a 2-way radio.  Lisa jogs up to him.
+
+Lisa:	Chief Wiggum, can you take me to school?  It's an 
+	emergency.
+Wiggum:	Uh, no can do, dollface.  I've got this informant wearing 
+	a wire.  Heh -- just like on "Nash Bridges."  We're trying 
+	to get the goods on some smugglers.
+Tony:	[over the radio] Why, I'd be delighted to sell you some 
+	illegally smuggled goods.
+Lisa:	That sounds like Fat Tony.
+Wiggum:	Only one way to be sure.  [picks up a microphone] Fat 
+	Tony, is that you?  Fat Tony!
+Legs:	[over the radio] Hey, where'd that voice come from?
+Louie:	[over the radio] This guy's wearing a wire.
+Tony:	[over the radio] Take him out.
+	[ominous bangs]
+Wiggum:	My bad!  Can't work my answering machine, either.  Now I 
+	need a new informant.  Say, Lisa, people trust you.  How'd 
+	you like to be a snitch?  The pay stinks, but ... [notices 
+	Lisa heading for the bar's rear door] Oh.
+-- "Trilogy of Error"
+
+% Just then, Homer runs into the tavern.  It seems Marge has cut off
+% his thumb, and he needs to put it on ice ...
+%
+% Lisa runs to the front of the bar.  Marge spots her, calls her over
+% to the car, and rather casually relates the day's events.  When
+% Homer gets started on the Blue Man Group, Marge figures she has
+% plenty of time to get her daughter to school.
+%
+% More tough luck for Lisa -- the car runs out of gas.  Cletus's truck
+% pulls up for a light, so Marge and Lisa hitch a ride by hopping in
+% back with the chickens.
+%
+% Meanwhile, up in the cab, Homer entertains Cletus by doing that
+% "detaching your own thumb" bit.  Now, however, he can do it for
+% real.
+
+Homer:	Abraca-thumb-bra!
+Cletus:	[laughs] Dang, you could be one of them TV magic queers.
+-- "Trilogy of Error"
+
+% Cletus stops at Dr. Nick's clinic, and he and Homer get out of the
+% truck.  Marge and Lisa are too busy digging themselves out from
+% under spilled chicken crates to notice them.  It's getting late, and
+% Lisa begs her mother to get her to school.  Reasoning that she's
+% already "borrowed" one car today, Marge takes Cletus's truck.
+%
+% Cletus yells after his missing truck.  Homer dourly begins the long
+% walk to Shelbyville.
+%
+% Marge and Lisa barrel down the road to school.  Suddenly, one of the
+% manhole covers in the street opens up.  Bart climbs up through the
+% hole and into the path of the truck.  Could this be the end for
+% America's bad boy?
+%
+% [It's the end of Act Two, at least.  Time:  13:54]
+%
+% Springfield awakens to a beautiful new day of blue skies and warm
+% sunshine.  A garbage truck makes its rounds, its mechanical can-
+% lifting arm uprooting Ned's mailbox.  ("Son of a diddly," Ned
+% mutters.)  The paperboy delivers news of a truce between picnickers
+% and ants.  Bart's Krusty the Clown alarm clock goes off.  It is the
+% start of ...
+%
+%                             Bart's Day
+%
+% Bart hits the snooze button.  In response, mechanical Itchy and
+% Scratchy figures pop out of Krusty's forehead and strike Bart with a
+% mallet and an axe.  Bart wakes up as his mother announces breakfast
+% is ready.
+
+	[the doorbell rings]
+Bart:	It's Milhouse.
+	[the doorbell rings several more times]
+	And it sounds like he has big news!  [runs out of the 
+	room]
+-- Bart ducks out on a crappy breakfast, "Trilogy of Error"
+
+% Milhouse does have big news.
+
+Milhouse:	I found something awesome in the woods!
+Bart:		Is it a dead body?
+Milhouse:	It's cooler than a million dead bodies!
+-- "Trilogy of Error"
+
+% Bart and Milhouse gleefully run to the back yard to fetch some
+% bikes.  Bart grabs his bike, and offers Lisa's to Milhouse.  Bart
+% has to flip through a huge ring of keys before finding the one to
+% Lisa's bike lock, but soon the boys are riding through the woods. 
+% (Milhouse says it's "disturbingly comfortable" to ride a girls'
+% bike.)  Milhouse takes Bart to cave, where his big discovery lies.
+
+Bart:		Whoa.  How'd you find it?
+Milhouse:	This is where I come to cry.
+Bart:		Cool.
+		[Milhouse leads Bart to a chamber within the cave, 
+		which holds ten or twenty sacks]
+		Sacks!  Burlap sacks!
+Milhouse:	It gets better -- they're full of fireworks!  [opens 
+		one, revealing a bundle of fireworks]
+Bart:		[surveying the cache] Bottle rockets, frog 
+		launchers, wheezing mamas ... [holds up a 
+		particularly large firework] Tijuana toilet-
+		crackers!
+-- Worth their weight in gold, "Trilogy of Error"
+
+% The boys go on a firework-lighting spree.  They blow up Skinner's
+% garden gnomes.  They launch fireworks into an Army training base,
+% scaring the daylights out of the soldiers.  They attach bottle
+% rockets to a bicycle wheel, and light them.  The fiery wheel spins
+% rapidly, then launches itself off the bike.
+%
+% Meanwhile, in Dr. Nick's clinic, Cap'n McAllister is about to
+% undergo some light surgery.
+
+Dr. Nick:	So, what are we doing?  A lengthening, or a 
+		widening?
+Cap'n:		Yar, er, let's make it both.
+		[the flaming wheel flies into the office through an 
+		open window, and lands on a canister of ether as if 
+		it were peg in a ring-toss game]
+Cap'n:		Yar!
+Dr. Nick:	Don't worry; it's inflammable.
+		["inflammable" means "flammable" -- the canister and 
+		the office quickly ignite]
+		Let's keep this our little secret.
+-- Patient-doctor confidentiality, "Trilogy of Error"
+
+% Bart and Milhouse are walking down the street when they hear the
+% sirens closing in on them.  Not wanting to do time for illegal
+% fireworks profession, they duck into an abandoned building with a
+% funny address:  123 Fake St.
+%
+% Chief Wiggum pulls up, having finally found his destination -- the
+% home of "knifey-wifey."  Lou gets permission to hold his cocked
+% sideways, like actors in the movies, because it's his birthday.
+%
+% The cops burst into the room.
+
+Wiggum:		Okay, drop the knife, Stabitha!  [notices Bart and 
+		Milhouse trying to stuff a sack of fireworks into a 
+		closet]
+		Great Grucci's ghost.  We've uncovered a hard-core
+		cracker house.
+Lou:		There's enough Chinese sky candy here to put you 
+		boys away for a long time.
+Milhouse:	I can't go to juvey.  They use guys like me as 
+		currency.
+Wiggum:		Yeah, they'll pass you around like ... [pauses to 
+		think] well, like currency, like you said.
+-- "Trilogy of Error"
+
+% "Maybe we can make you boys a deal," Wiggum says.  Later, he and the
+% boys are sitting at one of the booths in Moe's tavern.  Wiggum rigs
+% Bart up with a walkie-talkie and outlines his plan.
+
+Wiggum:	Your mission is to find the fireworks smugglers, and get 
+	them to say something incriminating on this tape.  [holds 
+	up a cassette tape]
+Bart:	[reading the tape label] "Hootie and the Blowfish"?
+Wiggum:	Yeah.  It's cheaper than blank tape.
+-- I'll just say "ouch" for Hootie, "Trilogy of Error"
+
+% Back at the cave, Fat Tony, Legs, and Louie start loading fireworks
+% from a large box into the sacks.  They remark that they like this
+% new gig much better than running unions, a job that involved too
+% much paperwork.  Bart interrupts them.
+
+Bart:		Knock, knock.  Excuse me.  My friend and I were 
+		interested in purchasing quality fireworks.
+Milhouse:	[conspicuously into Bart's shirt] Yes, we are.
+Tony:		Why, I'd be delighted to sell you some illegally 
+		smuggled goods.  [holds up a string of firecrackers]
+Wiggum:		[over the radio] Fat Tony, is that you?  Fat Tony!
+Legs:		Hey, where'd that voice come from?
+Louie:		[lifts Bart's shirt] This guy's wearing a wire.
+Tony:		[points to Bart] Take him out.  
+		[Bart lights the fireworks Fat Tony's holding, and 
+		they go off with a bang.  He takes the bag and runs 
+		away with Milhouse]
+Wiggum:		[over the radio] My bad!
+-- "Trilogy of Error"
+
+% Tony and his men give chase, using sparkers to light their way.  The
+% mobsters corner Bart and Milhouse at a dead end in the cave.  Legs
+% and Louie draw their guns.  Bart looks up, and sees a manhole cover
+% overhead.  The sparklers burn down, singing the men's hands, and
+% Bart uses the darkness and confusion to climb the ladder to the
+% manhole.  Milhouse follows him.
+%
+% Out of the frying pan, into the fire, it seems.  Bart emerges in
+% front of Cletus's truck.  Marge brakes hard, but still dinks Bart in
+% the back of the head.  There's not much time to complain.  Bart and
+% Milhouse crawl out of the manhole, with the gangsters close behind.
+%
+% Bart and Milhouse climb up some crates and then over a fence into an
+% alleyway.  The mobsters climb the same fence and close in on the
+% boys, who are trapped.  Fat Tony kicks down the crates so no one
+% else can follow them into the alley.  Marge runs up to the fence,
+% and yells at Fat Tony.  Then, she takes Linguo out of Lisa's
+% backpack and throws him at the gangsters.  He hits Louie and comes
+% to rest sitting on the pavement.
+
+Louie:	Hey!  They's throwing robots!
+Linguo:	They *are* throwing robots.
+Legs:	He's disrespecting us.  [to Linguo] Shut up you face!
+Linguo:	Shut up *your* face.
+Legs:	Whassamatta, you?
+Louie:	You ain't so big.
+Legs:	Me and him are going to whack you in the labonzza!
+Linguo:	Bad ... gad grammar overload -- error, error!
+-- Yeah, what he said, "Trilogy of Error"
+
+% Linguo, who could really use a better error-handling mechanism,
+% throws sparks.  Some of them land on Bart's fireworks bag, setting
+% off an explosion that blasts Linguo to the high heavens.
+%
+% Meanwhile, at a trash can just outside of town, Linguo's head lands
+% near Homer.
+%
+% Cut back to the alleyway.  There's a big scorch mark on the ground. 
+% Fat Tony and his gang lie unconscious on the pavement.  Marge lifts
+% the lid of the garbage can where Bart and Milhouse are hiding, and
+% tells them they're safe now.  Homer runs up with his severed thumb
+% and Linguo's head.
+
+Homer:	Oh, thank goodness everyone's okay.
+Marge:	Except your thumb, and Lisa's science project.
+Tony:	[who has regained consciousness, and is being handcuffed 
+	by Wiggum] I couldn't help but notice your respective 
+	predicaments.  Perhaps I may offer a bipartite solution.
+-- "Trilogy of Error"
+
+% At school, Lisa presents a new, off-the-cuff project on severed
+% digit re-attachment.  Legs demonstrates the principle by sewing
+% Homer's thumb back on his hand.
+
+Legs:	There you go.  Enjoy your thumb.
+	[Homer wiggles his thumb, and it regains its normal color]
+Lisa:	As the circulation returns, the subject prepares for a 
+	long and painful recovery.
+	[the class applauds]
+	It's lucky for me that Legs is an experienced Mob doctor.
+Tony:	He once pulled a slug out of my arm and inserted it into a 
+	stoolie's brain.
+Hoover:	That's a first-place science project Lisa.
+Family:	Yay!
+	[class applauds again]
+Marge:	Boy this sure was one crazy day.  [Mr. Teeny jumps into 
+	her arms] Right Mr. Teeny?  [he makes some chimp noises, 
+	and the class laughs]
+Teeny:	<This plot made no sense!  Tell the people!>
+-- Everyone's a critic, "Trilogy of Error"
+
+% [End of Act Three.  Time:  20:13]
+%
+% Normal closing credits and Gracie Sound.
+
+
+<|endoftext|>

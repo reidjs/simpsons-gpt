@@ -1,0 +1,806 @@
+<PRE>
+Some Enchanted Evening                   Written by Matt Groening and Sam Simon
+                               Directed by David Silverman and Kent Butterworth
+===============================================================================
+7G01 Revision: B Date: 99/08/25 By: Andrew A. Gill Original: Raymond Chen
+===============================================================================
+> TV Guide Synopsis
+===============================================================================
+
+With their parents out for a night of romance, Bart and Lisa recognize
+their sitter on ``America's Most Armed and Dangerous''.
+
+===============================================================================
+> Title sequence
+===============================================================================
+Blackboard :- `I will not yell ``Fire'' / in a crowded classroom'.
+              `I will not yell ``F' at cutoff.
+
+Driveway   :- Homer yells ``Auuuugh!'' when the car closes in on him.
+
+Couch:     :- Everyone fits, but it's a tight squeeze.
+
+===============================================================================
+> Didja notice ...
+===============================================================================
+
+    ... at breakfast, Bart poured the <entire> bowl of sugar onto his cereal?
+        Maggie meanwhile stirred her brown oatmeal...
+    ... is `melon wrestling' a euphemism for something less printable?  {cjb}
+    ... the gleeful expressions on the girls' faces as they anticipate
+        watching the Happy Little Elves tape?
+    ... the FBI warning at the beginning of the Happy Little Elves tape?
+    ... The Larry Davis Experience plays the same song Homer was humming?
+
+Dave Hall {dh}
+
+   ...Marge does join the family at breakfast, but hovers over them?
+   ...Homer and the kids each have something green for breakfast?
+   ...Maggie stirs her mush but doesn't eat it?
+   ...Bart has mush with his bowl of sugar?
+   ...the audio sound of the donut hitting Homer's head?
+   ...Homer sucks the tips of his fingers after inhaling the donut?
+   ...Marge wears bunny slippers?
+   ...one of Dr. Monroe's job requirements is eating stacks of donuts?
+   ...the very first crow call of the series?
+   ...Dr. Monroe's assistant holds the phone with pinkly extended?
+   ...Marge is 34 years old?
+   ...Dr. Monroe butts his cigarette into the console?
+   ...Marge is a phone cord twiddler?
+   ...Dr. Monroe's dramatic use of donuts?
+   ...Moe plays the classic bartender of giving advice?
+   ...the original Moe looks a little like Hank Azaria?
+   ...the music while Marge waits for Homer to come home?
+   ...the tick of the grandfather clock is replaced by the sound of Maggie's
+      pacifier?
+   ...the fiery look to Marge's eyes?
+   ...Lisa calls Marge `glamorous' yet Marge isn't dressed and still had
+      hair curlers on?
+   ...the reading material in the bathroom?
+   ...Homer shaves his face in 7 quick strokes of the razor?
+   ...Homer's facial hair quickly grows back after shaving?
+   ...the house shakes when Bart slides off the banister and hits the floor?
+   ...the squeaking sound Homer's head makes when rubbed?
+   ...the heart in the center of the front door when Homer and Marge leave?
+   ...Ms. Botz peculiar walk?
+   ...the cute wave Maggie makes when Ms. Botz carries her away?
+   ...the body shape in the Simpson basement?
+   ...the bowling ball Bart was going to drop on Ms. Botz has `HOMER'
+      lettered on it?
+   ...Marge plays with Homer's hair strands?
+   ...Maggie knows what a TV remote is used for?
+   ...the cute smirk on Maggie's face after Bart whacked Ms. Botz?
+   ...the `unladylike' position Ms. Botz laid on the floor?
+   ...Ms. Botz's `Life in Hell' rabbit key chain?
+   ...the constant sucking sound of Maggie's pacifier?
+   ...the overuse of footstep sounds in this episode?
+
+Hari Wierny {hw}:
+
+    ... there isn't a car from the opening shot of the house, even though it's
+        morning and Homer hasn't gone to work yet?
+    ... Marge drops the kids' lunchboxes when Homer screams, yet she doesn't
+        pick them up afterwards?
+    ... Marvin Monroe's ash tray is empty?
+    ... the poster of a weird looking woman's face in SNPP?
+    ... when Bart does a prank call to Moes Tavern, he presses the same key on
+        the phone many times?
+    ... the Simpsons' kitchen clock doesn't have any numbers on it?
+    ... there is a painting of a tropical palm tree beach above OFF's couch?
+    ... when Marge picks up the phone and hears Moe scolding at Bart (and Marge
+        thinks it's a crossed wire), we don't hear any laughter in the
+        background from the crank call?
+    ... Homer shaves the bottom half of his chin twice?
+    ... the cool color-gradient on the walls during the part where Marge
+        explains the video cassette etc.? (note: we only get to see this effect
+        in the first couple of full length eps.)
+    ... there's a [heart] on the back of OFF's door?
+    ... we hear Homer and Marge drive away as Ms. Botz goes to put the tape in?
+    ... the background on the Happy Little Elves repeats itself as the lame
+        little elf rides a bear cub?
+        [In fact, it looks like just the same three or so frames -aag]
+    ... one of the shows Bart flicks past appears to be bowling? (we hear the
+        pins collapse.)
+    ... Homer's napkin has a picture of a lobster on it?
+    ... ``The Larry Davis Experience'' looks extremely miserable?
+    ... Lisa doesn't realize Miss Botz is dragging her by the phone cord until
+        it's too late?
+    ... the VCR remote only has four buttons on it? (these are relatively
+        large; they just about take up the whole remote.)
+    ... the framed picture of Krusty on the wall when they knock out Miss Botz?
+    ... there's an pictureless frame on the Offramp Inn room's wall?
+    ... Miss Botz's vehicle looks like a golf buggy? (it changes, however --
+        see Goofs.)
+    ... Homer gets a wad of cash to pay Miss Botz, and says he'll pay her
+        double, yet when he offers her triple, he doesn't make any additions to
+        the cash?
+
+===============================================================================
+> Reviews
+===============================================================================
+Chris Baird {cjb}:  One of my all-time favourite episodes.
+
+Yours Truly {rjc}:  An all-time classic.  'Nuff said.
+
+===============================================================================
+> Movie References
+===============================================================================
+  + The Hunchback of Notre Dame
+        - ``The Elves!  The Elves!''
+  + America's Most Wanted and other ``Criminals At Large''-type programs.
+        - America's Most Armed and Dangerous
+        - host looks similar to John Walsh
+    Jaws
+        - the music as Ms. Botz approaches
+  + Night of the Hunter{Robert MacIntosh}
+        - a murderous thief visits kids
+        - kids hide in a similar basement
+        - thief tries to coax kids out
+        - canned produce on the walls
+        - board drops on thief
+        - a local woman (with a voice similar to Marshall's) tries to coax the
+          kids out, too
+  + Patricia, a song by Perez Prado and His Orchestra
+        - the tune that Homer mimics
+  + Some Enchanted Evening, song from Rodgers and Hammerstein's
+     _South Pacific_
+        - title
+  + ``Life in Hell'' [comic strip]
+        - Maggie has a rabbit doll{hw}
+
+===============================================================================
+> Freeze Frame Fun
+===============================================================================
+>> Lunchboxes
+   Krusty
+   Happy Little Elves
+
+>> Calls on the line
+    Line 1:  Marge, 34, another unappreciated wife
+    Line 2:  Paul Hsi, nail biter (not his own)
+
+>> The power plant
+    [7] days since last accident
+        The `7' is a replaceable section of the sign.
+    In case of meltdown, break glass.
+
+>> Rubber Baby Buggy Bumpers Babysitting Service
+>>> Three babysitters on the couch (incl. Ms. Botz)
+    Painting of a dog barking at a burning house.
+>>> Poster with photos of the kids: ``No!  No!  No!''
+>>> The poster:
+                    THE SIMPSONS
+
+            NO! NO! NO!     [head shot]
+                            [of Lisa]
+             [head shot]      LISA
+             [of Bart]
+                            [head shot]
+              BART          [of Maggie]
+                              MAGGIE
+
+>> The phone booth
+   poster of a space mutant (Space Mutant 4) on the wall behind the phone
+   booth
+
+>> The Number of the Beast
+   The video tape has the number 666 on it.{dh}
+
+>> Ms. Botz on ``America's Most Armed and Dangerous'' {hw}:
+
+[front]    [side]
+[view ]    [view]
+[face ]    [face]
+
+LUCILLE   BOTZCOWKI
+HEIGHT 6' WEIGHT 178
+
+
+>> Sign near Offramp Inn{hw}:
+
++-----------+
+| NEXT EXIT |
+|    34     |
+|   MILES   |
++-----------+
+
+>> Some stuff seen in OFF's closet{hw}:
+   - a metal canister
+   - something wrapped up with rope
+   - a [shoe?] box
+   - a regular box
+   - the infamous ``Homer'' bowling ball (funny, the ball was purchased
+     in 7G11. I guess it fits in with continuity, though, because
+     7G01 aired after 7G11 despite it being made before.)
+   - a [gym?] bike
+   - a mummy (yes, a genuine Egyptian mummy!)
+   - a few shelf units
+   - a broken mirror
+   - a lamp with a smashed lightbulb
+   - a cupboard filled with home-made pickled beets
+
+>> Sign on back of Offramp Inn room door{hw}:
+
+CHECK OUT
+9:00 AM
+-------
+-------
+
+>> The note on Homer's Offramp Inn key (note: this was pretty hard
+to get, because we only see it for about a second, plus it's
+small and in the background. It's cool that the animators
+actually put this in.){hw}:
+
+DO NOT
+USE
+THIS
+
+
+>> Caption on TV{hw}:
+
+HOMER SIMPSON
+LOCAL BOOB
+
+>> Krusty the Clown{hw}
+   - picture on Bart's lunchbox
+   - framed picture on the wall when they knock out Botz
+   - poster on Bart's wall
+
+>> Slow-mo fun worth seeing{dh}:
+   - when Marge growls at the kids.
+   - when Bart and Lisa screams at Ms. Botz.
+   - when Homer throws Marge into the bed.
+   - Maggie falling at the bottom of the stairs.
+
+>> FF worth seeing{dh}:
+   - when Homer and Marge kiss on the front doorstep.
+   - Marge with hair curlers.
+
+===============================================================================
+> Comments and other observations
+===============================================================================
+>> References
+>>> Previous Episodes
+    [7G10] The Off-Ramp Inn
+>>> Simpsons 1992 Fun-Time Calendar
+    Dancing lesson
+
+>> Maggie's 21 falls{dh}:
+        3 during Bart's first prank phone call.
+        1 when the kids were waiting for Homer to come home.
+        1 after Marge growled at the kids.
+        3 during Bart's second prank phone call.
+        1 when Ms. Botz introduces herself.
+        1 when Marge thanks Ms. Botz. for coming.
+        5 on way to watch video tape:
+           2 silent, rapid falls in hallway;
+           1 in front room;
+           2 in TV room.
+        1 after landing on a pile of toys.
+        1 sneaking pass Ms. Botz.
+        1 at the bottom of the stairs.
+        1 arriving at the TV room.
+        1 when she tricks Ms. Botz into following her.
+        1 at the telephone booth.
+
+>> What Homer usually has at Moe's{dh}:
+      A quick one, some peanuts, hunk of beef jerky, a couple pickled eggs.
+
+>> The Unabridged Oliver Wendell Holmes
+
+Bart's blackboard punishment references a series of cases from 1917, most
+notably Schenck v. US.  Schenck was convicted of violating the Espionage Act,
+which made it illegal to ``obstruct the recruiting or enlistment service.''
+In his ruling, Justice Holmes wrote:
+
+	The most stringent protection of free speech would not protect a man in
+	falsely shouting fire in a theatre and causing a panic.
+
+This is the first time that the First Amendment had really been limited.  All
+other limitations on that amendment stem from this.
+
+>> Save money!  Make your season premiere the season finale!
+
+Although this episode is the first in the production series, it was not aired
+until the end of the season.  This was due to the fact that the production team
+was just getting used to creating full-length episodes, and so there were a few
+innocent mistakes.  Like including an ulttraviolent clip from a show and making
+the family look like demons.  Matt Groening balked and sent it to be
+reanimated.  As a result, it wound up last in the production series.
+
+This makes for an interesting chronology:
+
+The series pilot was ``Simpsons Roasting on an Open Fire'' [7G08], which aired
+on 12/17/89, but the series proper didn't begin until 1/14/90, with ``Bart the
+Genius,'' yet the first episode to be produced wasn't aired until 5/13.  Phew!
+Got that?
+
+>> But they didn't DO anything!
+
+Because this episode wasn't aired in chronological order, the couch gag makes
+even (more/less) sense.  Obviously, it was intended that this gag was going to
+be ``normal,'' and the others were variations.  The result that they got was
+just the opposite.  According to one fan (Jessi Cuellar):
+
+	When ``Some Enchanted Evening'' aired here a few months ago, my 3 year
+	old son and I were watching.  After the couch scene, he laughed, and I
+	asked him what was funny, and he said ``They didn't do anything.'' Not
+	really relevant, but I am so proud.
+
+>> Misc., &c.
+
+   Dave Hall notes: Marge states they have a video library, yet we never get
+   to see this video library anywhere in the whole series?
+
+   Homer & Marge supposedly had rushed home, yet they have taken the time
+   to get completely dressed.{dh}
+   [Probably keeping up appearances for the kids -aag]
+
+===============================================================================
+>Animation, Continuity, and Other Goofs
+===============================================================================
+= Various items from the kitchen move/disappear from the overhead shot.{hw}
+
+= The amount of pickled eggs changes (between shots) from 12, to 10, to 15!{hw}
+
+= When the kids ask Marge for some ``grub'' it's about 9:37 PM.  After Marge
+  has scared off her children and continues to wait for Homer, it's about 8:32
+  PM.  Then when (and just before) Marge is hallucinating, the clock reads
+  just past 6:30 PM.{hw}
+
+= When Bart makes a prank call to Moes from the kitchen, the telephone is
+  different than it was in the ep's opening scene. 
+  [it changes <again> from the side view.]{hw}
+
+= Marge's nose is drawn very oddly during the scene of her prettying herself up
+  in front of the mirror.{hw}
+
+= The doorknob on OFF's front door changes color between shots.{hw}
+
+= On the first shot of ``The Larry Davis Experience,'' we see the drummer
+  hitting a cymbal and a tom-tom drum, yet all we hear is the cymbal.{hw}
+
+= When Maggie comes into the TV room where Bart and Lisa are tied up, on the
+  ``Happy Little Elves'' the bear-cub-in-the-honey scene is recycled, but then
+  from a different shot the ending appears on the screen.{hw}
+
+= Miss Botz's vehicle changes from scene to scene.{hw}
+
+  Ms. Botzcowski's car was should have been intercepted by the police that
+  came from the other direction.  Note that she left only second(s) before
+  the police arrival.
+
+* The check out time for the Off-Ramp Inn is either 4 or 9 a.m.{dh}
+
+= An unknown hand removes the carton of milk from the kitchen table.{dh}
+
+= The kitchen chairs appear to be knocked over in some scenes.{dh}
+
+= Homer is watching stuff coming down a conveyor belt, yet his station
+  starts at the very beginning of the conveyor belt.{dh}
+
+= The contents of Barney's beer mug vanish.{dh}
+
+= Homer's wristwatch goes missing from his hand in the shot of him standing
+  outside the house.{dh}
+
+= The candy box and rose in Homer's hands switches places.{dh}
+
+= Homer's rose appears to have been mishandled, yet it appears pristine when
+  Marge is holding it.{dh}
+
+= Marge's earrings goes missing in one scene after Marge just put them on.{dh}
+
+= Marge produces the video tape out of thin air.{dh}
+
+= The kids were in the hallway, yet the scene of Homer and Marge leaving
+  the house depicts an empty hallway.{dh}
+
+= The cover of the Video tape disappears.{dh}
+
+= Bart shoves the video tape upside down into the VCR.{dh}
+
+= Marge leaves the house without her purse, yet she has it at the
+  restaurant.{dh}
+
+= Intercutting scenes depict Bart and Lisa's feet as dangling or not
+  dangling over the couch cushions.{dh}
+
+= After Bart falls from the cupboard, there shouldn't be a shadow on Ms.
+  Botz and him.{dh}
+
+= Homer somehow manages to unlock and open the suite door while holding
+  Marge in his arms.{dh}
+
+= Marge's head was to the right of Homer when he threw her so Marge should
+  have landed on the bed with her head to the right.{dh}
+
+* Since we haven't seen Marge with a purse at the hotel suite, there really
+  isn't anyway for her to bring a change of clothing.{dh}
+
+= TV/VCR remote isn't seen in TV room when Maggie enters the room.{dh}
+
+= Homer & Marge's bedroom door opens inwards, yet the door opens outwards
+  when Ms. Botz leaves the room.{dh}
+
+* Homer couldn't have helped Ms. Botz with the suitcases if the suitcases
+  were still on the floor of Homer & Marge's bedroom -- amongst the mess
+  Ms. Botz made in her quest for `Samson' goodies.{dh}
+
+*  Possible Plot-hole:
+      Where is Homer's car while he stood in front of the house?  If the car
+      were in the garage then Homer should have used the garage door
+      entrance.{dh}
+===============================================================================
+> Voice credits
+===============================================================================
+ Special Guest Voice
+    Penny Marshall (Ms. Botz)
+
+Hank Azaria         (Moe)
+Harry Shearer       (Dr. Marvin Monroe)
+Christopher Collins (Worker #1)
+June Foray          (Receptionist)
+Paul Wilson         (Florist)
+
+===============================================================================
+> Quotes and scene summary
+===============================================================================
+% Breakfast at the Simpsons.  Homer and the kids chow down while Marge watches,
+% standing and sipping her coffee.  The radio is tuned to the KBBL traffic
+% report.
+
+Bad news, drivers.  There's an overturned melon truck on the interstate.
+Oh, it's a mess.  There's lots of rubber-necking and melon wrestling
+going on, folks...
+-- Bill Pie ``in the Sky'', KBBL traffic report, ``Some Enchanted Evening''
+
+% Homer reaches for the milk, revealing a box of ``Yummy Donuts''.  Bart
+% and Lisa struggle for custody of the box (Maggie's eyes watch the
+% back-and-forth) until the donut pops out of the box, bounces off Homer's
+% head, and lands on his plate.  Homer inhales the pastry.
+%
+% The school bus honks its horn, and the kids head out.  Marge holds up two
+% lunchboxes:  ``You forgot the special lunches I made.''  Bart and Lisa
+% help themselves to Marge's purse.  ``That's okay, Mom!'' responds Bart.
+% ``We got money!'' finishes Lisa as she replaces the purse in Marge's
+% pocketbook.  Marge's protest is interrupted by a ``Yaaaargh!'' from
+% Homer as he glances at his watch and gets up.  Marge closes her eyes
+% for a kiss, but Homer takes and drinks her coffee then leaves.
+%
+% Overhead shot of the kitchen wreckage.  ``Well, Maggie, it's just you
+% and me again.''  Maggie has fallen asleep.
+
+This is KBBL talk radio, K-Babble.  All talk, 24 hours a day.
+If you'd like to share your embarrassing problem with our listening
+audience, we invite you to call our therapist of the airwaves, Dr. Marvin
+Monroe.  The number is 555-PAIN.
+[Marge drums her fingers and casts nervous glances at the phone]
+Don't be afraid, call now!
+[Marge dashes for the phone]
+-- ``Some Enchanted Evening''
+
+% Marge starts to explain her problem.  ``Hey lady, save your whining for
+% when you're on the air, okay?''
+%
+% At the plant, Homer listens to the radio.  Dr. Monroe snuffs out his
+% cigarette, reaches for another donut, and selects his next call.
+
+Dr.MM: Next we have Marge.  She's 34 and trapped in a loveless sham of
+       a marriage.
+Homer: Hey, turn it up!  I love hearing those wackos!
+-- The SNPP workers listen to a radio call-in show, ``Some Enchanted Evening''
+
+Dr.MM: [radio talk show therapist]  Tell me about your husband, Marge.
+Marge: [on the phone] When we were dating, he was sweeter... and more
+       romantic! ...  [beginning to sob]  And forty pounds thinner,
+       and he had hair... [burbling barely coherently]  And he ate
+       with utensils!  [breaks down crying]
+-- Marge calls KBBL, ``Some Enchanted Evening''
+
+% Homer refuses to believe that it's his wife calling.
+
+Dr.MM: Your husband sees you as nothing.
+Marge: [pause]  Oh, okay.  Well, thank you.  [about to hang up]
+Dr.MM: No no no, don't hang up!
+-- Marge calls a radio talk show therapist, ``Some Enchanted Evening''
+
+% The plant employees nudge each other knowingly.
+
+Dr.MM: The pig has made you into his mother.
+       You are not the hot love object you deserve to be!
+Marge: Really?
+Dr.MM: I'm as sure of it as I'm sure my voice is annoying.
+       Marge, tonight, the second he comes through that front door, you've got
+       to tell him you're fed up, and if he doesn't start loving you,
+       you will be leaving.
+Marge: Leave Homer!?
+Dr.MM: Please!  Don't use his real name!
+Marge: Leave Pedro!?
+-- Marge calls a radio talk show therapist, ``Some Enchanted Evening''
+
+% The employees crack up.  Homer swallows hard.
+%
+% At the Simpsons residence...
+
+Lisa: Aw, come on, Bart, not again!
+Bart: [dialing the phone] Aw, where's your sense of humor.
+Moe:  Moe's Tavern.
+Bart: Hello, is Al there?
+Moe:  Al?
+Bart: Yeah, Al.  Last name:  Coholic.
+Moe:  Lemme check...  [calls]  Phone call for Al.  Al Coholic.
+      Is there an Al Coholic here?
+      [bar denizens laugh]
+      Wait a minute...
+      [to phone]
+      Listen, you little yellow-bellied rat jackass, if I ever find out
+      who you are, I'm gonna kill you!
+-- ``Some Enchanted Evening''
+
+% Homer's at the bar, dreading going home.  While Homer eats a pickled
+% egg, he explains that Marge is going to leave him because he's a pig.
+% Moe agrees; he <is> a pig.  Homer goes for a second opinion.
+
+Homer:  Hey, Barney, am I a pig?
+Barney: You're even more of a pig than I am!   [huge belch]
+-- From someone who should know, ``Some Enchanted Evening''
+
+Moe: Homer, buy your wife some flowers and take her out for a night on the
+     town.  Candles, tablecloth, the whole nine yards.
+-- Gee, I didn't mean to put you to so much trouble, ``Some Enchanted Evening''
+
+% And after dinner, Moe suggests they check into a motel.  Homer likes the
+% idea and heads out.
+%
+% The kids sit at the dinner table.  ``Wow, a quarter past six.  What's
+% keeping Dad?'' asks Lisa.  Bart mutters, ``Yeah, he couldn't possibly
+% be late on Meatloaf Night.''
+%
+% Homer wanders into the florist shop.
+
+Homer:   [unsure of himself]  Uh, I'd like some flowers.
+Florist: What kind of flowers?
+Homer:   Uh, you know, pretty ones, not dead.
+Florist: Well, we've have some beautiful long-stemmed roses.  They're $55
+         a dozen.
+Homer:   [thinks]  One, please.
+-- Think small, ``Some Enchanted Evening''
+
+% It's now 8:35.  Marge stares angrily at the front door, growling.
+% The kids approach her from behind with their empty plates and ask for
+% some food.  Marge turns around and *ROARS*.  The kids scream and dash
+% off in fright.  Marge turns back towards the door and waits...
+%
+% [End of Act One.  Time: 5:33]
+%
+% As Marge growls at the door, evil thoughts penetrate her mind, and her
+% eyes turn red...
+%
+% Outside in the rain, Homer holds a heart-shaped box of candy in one hand
+% and a wilted rose in the other.  He practices his entrance, but realizes
+% it's no use and just heads for the door.  Marge pulls the door open as
+% Homer tries to insert the key.  Stunned, Homer holds up the candy and
+% the flower.  ``I love you, Marjorie.''  Marge softens, and they kiss.
+%
+% In the kitchen, Bart dials the phone...
+
+Bart: [dialing the phone] A little pre-dinner entertainment.
+Moe:  [answering the phone]  Moe's Tavern.
+Bart: Is Oliver there?
+Moe:  Who?
+Bart: Oliver Clothesoff.
+Moe:  Hold on, I'll check.  [calls]  Oliver Clothesoff!  Call for Oliver
+      Clothesoff!
+Bart+Lisa: [laugh]
+-- ``Some Enchanted Evening''
+
+% Homer fills Marge in on their itinerary...
+
+Homer: And, I made reservations at Chez [pron. /chez/] Paree!
+Marge: Oh, but Homer, that's expensive!
+Homer: It matters not, mon frere!
+-- A night on the town with the boys?  ``Some Enchanted Evening''
+
+% Marge picks up the phone to call a babysitter, and hears Moe:  ``Listen,
+% you lousy bum, if I ever get a hold of you, I <swear> I'll cut
+% your belly open!''  She hangs up, figuring it was a crossed wire,
+% and tries again.  She calls the Rubber Baby Buggy Bumper Babysitting
+% Service, but they refuse when she identifies herself as Mrs. Simpson.
+
+Clerk: Rubber Baby Buggy Bumper Babysitting Service!
+Homer: Hello, this is Mr... Sam-son.
+Clerk: Did your wife just call a second ago?
+Homer: No, I said Samson, not Simpson.
+-- Just checking, ``Some Enchanted Evening''
+
+Actually, the Simpsons are neighbors of ours, and we've found them to be a
+quite misunderstood and underrated family.
+-- Homer pretends to be Mr. Samson, ``Some Enchanted Evening''
+
+% Upstairs, Lisa watches Marge pretty herself up for a night out.
+% Bart listens to Homer talk about his mambo dancing, but his smart
+% mouth gets him thrown out.  Homer shaves (and his beard grows back
+% almost immediately).
+%
+% The doorbell rings, and Homer tells Bart to answer it.
+
+Aye-aye, Mambo-Man!
+-- Bart, ``Some Enchanted Evening''
+
+% Bart slides down the banister (*thud*) and answers the door as Lisa
+% and Maggie join him.  He opens the door.  The kids swallow hard.
+% It's the babysitter.  (Insert jarring chord.)  Curiously, Ms. Botz
+% has brought two suitcases.  Marge leaves her with brief instructions:
+% Maggie should be put to bed immediately; Bart and Lisa can watch
+% ``The Happy Little Elves Meet The Curious Bear Cub''.
+
+[moaning] Oh!  The Elves!  The Elves!
+-- Quasi-Bart-o, ``Some Enchanted Evening''
+
+% Marge kisses the kids good-bye.  Bart tries to get Ms. Botz to approve
+% alternate viewing, but a menacing threat puts him in his place.  Ms. Botz
+% carries Maggie away to bed.  (Maggie waves bye-bye.)
+%
+% At the restaurant, Homer checks out the lobster tank and chooses...
+% the one floating upside-down at the top.
+%
+% Bart suffers through the Happy Little Elves...
+
+Bart: [watching a Happy Little Elves tape] Oh, man, I can't take it any more!
+Lisa: But I want to see what happens.
+Bart: You <know> what happens.  They find Captain Quick's treasure.
+      All the elves dance around like little green idiots.  I puke.  The End.
+Lisa: Bart, you're just like Chilly, the elf who cannot love.
+-- ``Some Enchanted Evening''
+
+% Bart switches to ``America's Most Armed and Dangerous'', though Lisa
+% finds the show too scary.
+
+The Cue-ball Killer should be considered extremely armed and dangerous.
+If you think you've seen him, call 1-800-U-SQUEAL.
+-- ``Some Enchanted Evening''
+
+% At the restaurant, the bubbly stops flowing, so Homer orders another bottle
+% of their second-cheapest champagne.
+%
+% Back at the house...
+
+The defenseless youngsters were tied up and gagged in the living
+room, while the bandit roamed the house at will,
+[TV pans over an empty house]
+stealing the valuable objects it took the family a lifetime to shop for!
+-- Watching `America's Most Armed and Dangerous', ``Some Enchanted Evening''
+
+% To the music of the Larry Davis Experience, Homer and Marge mambo divinely.
+%
+% Meanwhile, Bart and Lisa watch more of America's Most Armed and Dangerous,
+% and as the description of the Babysitter Bandit continues, they become
+% increasingly frightened.  ``In a moment, we will show you a picture of the
+% real Babysitter Bandit, Miss Lucille Botzcowski [pron. /botzokowsky/],
+% and remember... she may be using a clever alias.''  A picture of Ms. Botz
+% appears on the screen, and the kids scream.  Ms. Botz appears, carrying
+% a length of rope.  Bart and Lisa: ``Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-
+% aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-
+% aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-
+% aaaaaaaaaa!''  Thunder roars outside.
+%
+% [End of Act Two.  Time: 13:23]
+%
+% The kids make a run for it.  Bart ducks into the basement.  Lisa skids
+% (cartoon style) into the kitchen and grabs the phone.  But she gets a
+% busy signal.  Meanwhile, Homer and Marge are on the highway looking for
+% Ye Olde Offramp Inn.  They spot it, but miss the exit.  ``No problemo,''
+% says Homer.  ``We'll just get off at the next exit.''  A sign reads,
+% ``Next Exit 34 Miles.''
+%
+% Ms. Botz descends into the basement looking for Bart.  While searching,
+% she finds a cabinet of pickled beets and helps herself.  Atop the
+% cabinet is Bart and a bowling ball.  Bart tries to roll the ball onto
+% Ms. Botz, but he loses his balance and falls.
+
+Seeing as no one was hurt, I think it would be really silly to dwell on this.
+-- Bart to The Babysitter Bandit, after a failed capture attempt,
+   ``Some Enchanted Evening''
+
+% Meanwhile, Lisa hides under the kitchen table and finally gets through.
+% As she talks, she is dragged by the phone cord out from under the table.
+% By Ms. Botz.  Oops.
+%
+% Homer carries Marge across the threshold, stumbles, and trips, tossing Marge
+% (``Wheeeee!!'') onto the waterbed, where she relaxes, while Homer  rubs his 
+% knee.
+%
+% Back at home, Ms. Botz has finished tying up Bart and Lisa...
+
+Bart: We know who you are, Ms. Botz.  Or should I say, Ms. Botzcowski.
+      You're the Babysitter Bandit.
+Ms.B: You're a smart young man, Bart.  I hope you're smart enough to keep
+      your mouth shut.
+Lisa: He isn't.
+-- A little knowledge, ``Some Enchanted Evening''
+
+% ... disables the phones, tapes Bart's mouth shut, and leaves them on the
+% couch to suffer through The Happy Little Elves.  Bart protests, but Lisa
+% says, ``Quiet, Bart!  Let's make the best of this.''
+%
+% At the motel, Marge offers to go ``slip into something more comfortable'',
+% and Homer hopes it's the blue thing with the... things.
+%
+% Maggie wakes up and grabs the mobile above her crib, which she uses as a
+% trapeze, landing in a pile of stuffed animals.  She spots Ms. Botz in the
+% hallway, relieving the closet of its valuables (and some unvaluables).
+% Maggie then wanders downstairs and spots her elder siblings, as well as
+% the Happy Little Elves.  She decides to watch the Elves.
+%
+% The movie ends, and Maggie tries to turn off the TV with the remote control.
+% Lisa asks, ``Wanna watch the Happy Little Elves again?''  Maggie nods.
+% ``But ya hafta untie me, first.''  Maggie does so.
+%
+% ``Oh... Homer...'' calls Marge seductively.  She's indeed wearing the blue
+% thing with the... things.  Homer gives one of his lustful, ``Ohhhhh...''s.
+%
+% Ms. Botz continues her pillaging and spots Maggie walking through the
+% hallway.  She follows the sound of the sucking, which leads her into
+% a dark room.  (*whump*)  The lights come on.  Bart (sucking on Maggie's
+% pacifier) has clobbered her with a baseball bat.
+%
+% Homer and Marge relax in the waterbed, and Marge decides to check up on
+% things at home.  There is no answer because Bart, Lisa, and Maggie
+% (clutching Bart's neck like a knapsack) have escaped out the window.
+% The kids call from a pay phone.  (Bart goes down on all fours so Lisa
+% can stand on his back to reach the phone.)
+
+Operator: Hello, vigilant viewer.  How may we help you?
+Lisa: We caught her!  We caught the Babysitter Bandit!  She's tied up
+      at our house right now!
+Bart: Ask if there's a reward.
+Lisa: Is there a reward? ... [to Bart] If she's convicted, we get T-shirts.
+Bart: Yeah!
+-- Calling America's Most Armed and Dangerous, ``Some Enchanted Evening''
+
+% Homer and Marge return home to find Ms. Botz bound and gagged, being forced
+% to watch, yes, The Happy Little Elves.  Homer and Marge untie her and
+% apologize profusely.  Ms. Botz's first words:  ``Please turn off the TV.''
+%
+% Homer helps Ms. Botz with her luggage (``Oh, these things are heavy!'')
+% and pays her triple the rate, just so there are no hard feelings.
+
+Ms.Botz: Mr. Samson, can I give you a bit of advice?
+Homer:   Sure.
+Ms.Botz: Don't turn your back on that boy for a second.
+-- Words of warning from the Babysitter Bandit, ``Some Enchanted Evening''
+
+% Ms. Botz speeds off just before Homer is surrounded by police cars.
+% Bart explains that they left her tied up in the house, but Homer snags
+% him and scolds, ``I just had to untie your babysitter and pay her off
+% so that...''  Microphones are shoved in his face.  A reporter asks,
+% ``Are you telling the world that you just aided and abetted the escape
+% of the notorious Babysitter Bandit?''  Homer fumbles, ``Actually, it
+% was quite a struggle!''
+%
+% Homer and Marge watch the news.  The caption reads, ``Homer Simpson,
+% local boob.''  TV-Homer says, ``Have you ever seen a kung-fu movie?
+% It was just like that!''
+%
+% Homer shuts off the TV.
+
+Homer: Lord help me, I'm just not that bright.
+Marge: Oh, Homer, don't say that.  The way I see it, you raised three
+       children who could knock out and hog-tie a perfect stranger,
+       you must be doing <something> right.
+-- ``Some Enchanted Evening''
+
+% Homer thinks...  ``Yeah!'' and the two kiss as Marge turns off the lights.
+% Homer asks, ``Can we make up again?''   Responds Marge, ``Oh, my goodness!''
+%
+% [End of Act Three.  Time: 20:17]
+===============================================================================
+Episode summaries Copyright 1992 by Raymond Chen.  Updated 1999 by Andrew
+A. Gill.  Unattributed discrepancies between this and the previous revisions
+are mine.  Penny Marshall hates Triangle Man.  They have a fight, Triangle
+wins.  Not to be redistributed in a public forum without permission.  (The
+quotes themselves, of course, remain the property of The Simpsons, and the
+reproduced articles remain the property of the original authors.  I'm just
+taking credit for the compilation.)
+</PRE>

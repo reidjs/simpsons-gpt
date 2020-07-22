@@ -1,0 +1,1471 @@
+Das Bus                                              Written by David S. Cohen
+                                                      Directed by Pete Michels
+==============================================================================
+Production code: 5F11                     Original airdate on FOX: 15-Feb-1998
+Capsule revision A (26-Sep-2001)
+==============================================================================
+> "TV Guide" synopsis
+==============================================================================
+   None submitted.
+
+   [For the sake of reference, the following is a TV Guide-like synopsis:
+   The kids of Springfield Elementary find themselves stranded on a remote
+   desert island when their bus goes off a bridge.  Meanwhile, Homer sets up
+   his own Internet company.]
+
+==============================================================================
+> Title sequence
+==============================================================================
+Blackboard:     None.
+
+Couch:          The family are frogs (Maggie is a tadpole) and the couch is a
+                lilypad on water. Frog Homer turns on the TV with his tongue.
+
+==============================================================================
+> Didja notice...
+==============================================================================
+   ... in Noah's Ark, the clouds light up blue each time God speaks a
+       syllable?
+   ... the colors on the rainbow in Noah's Ark are wrong? (They are red,
+       orange, yellow, indigo and blue when they should be red, orange,
+       yellow, green, blue, indigo and violet.)
+   ... in the Model U.N. club, Nelson was just about to butcher Wendell with
+       his sword from behind when Skinner stops everybody?
+   ... even Lisa is enjoying Bart and Nelson's fruit race?
+   ... When the bus is filling with water, Ralph breaths through his mouth
+       (which is underwater), even though his nose is still above the surface?
+   ... Nelson appears to consider using the sun together with Milhouse's
+       glasses to start the fire for a split second, but then uses a stone
+       on them?
+   ... Terri (or possibly Sherri) has lost both her hair bow and her shoes
+       and socks by the time the Milhouse trial is underway?
+   ... the writers appeared to think that not everybody would know who Bill
+       Gates was, so they had Homer say "Bill Gates? Billionaire computer
+       nerd Bill Gates?"
+   ... one of Bill Gates' lackeys snaps a thick handful of pencils without
+       any struggle whatsoever, despite not looking very buff?
+
+Nathan Mulac DeHoff:
+   ... Martin seems less intelligent than usual throughout this episode?
+   ... Bart confuses Lewis and Wendell (probably because neither of them has
+       featured in any recent episodes)?
+   ... Bart doesn't represent France at the Model U.N., even though he's been
+       there and speaks the language?
+   ... Milhouse apparently has asthma?  (How many health problems are the
+       writers planning on giving him?)
+   ... the animators actually remember to keep Milhouse's glasses broken?
+
+Jordan Eisenberg:
+   ... Noah (aka: Troy McClure) used a magic marker?
+   ... Ralph's banana had 'BANANA' written on it?
+   ... Ralph cheered his banana as it moved backwards?
+   ... Milhouse and Lisa weren't in Bart's fantasy?
+   ... Ralph was eating his banana in Bart's fantasy?
+   ... the 'Ah, Fudge' bar in the cooler?
+   ... the bag of Chippos?
+   ... the Krusty Bar lying next to Milhouse?
+   ... Bart used a rock as a mallet?
+   ... one of Bill Gates' lackeys looked like he was Data's father?
+
+Andrew Gill:
+   ... CBG has a lame-o token ring adapter?
+   ... Homer's SPAM is in the standard proportions?
+
+Don Del Grande:
+   ... Bart is part of the Model United Nations, something you don't normally
+       expect people like Bart to be members of?
+   ... the bus is lighter than water?
+   ... everyone's clothes managed to dry rather quickly (and rather
+       wrinkle-free) after they reached the island?
+   ... they didn't have any suitcases, so presumably it was a one-day Model UN
+       meeting, yet nobody (apparently) reported them (or the bus) missing?
+   ... Homer managed to get an ad on the Internet despite not having a
+       computer -- and it appeared in the middle of a graphic download?
+   ... they managed to survive even after eating the boar?
+   ... the boar managed to open the cooler, eat all of the food, and close
+       the cooler again without knocking it over?
+
+Diego Kontarovsky:
+   ... A.M. Springfield has the same theme song as Eye On Springfield?
+   ... Sherri & Terri are hugging each other as they're flooded out of the
+       bus?
+   ... only one of the twins loses both her shoes and bow?
+   ... Nelson hits Milhouse 10 times in the cage without him budging?
+   ... the mischievous expression on Nelson's face before Bart agrees to let
+       him punch Milhouse again?
+
+Joe Klemm:
+   ... Homer has his face in pins?
+   ... one of the twins lost her bow when on the island?
+
+Haynes Lee:
+   ... tadpole Maggie has no arms?
+   ... Springfield residents did not notice their children are missing?
+   ... Martin Price is a Finnish Laplander?
+
+Ondre Lombard:
+   ... we never see Homer use a computer system once throughout the Internet
+       subplot?
+
+Benjamin Robinson:
+   ... how fitting it is that Sherri and Terri should represent Trinidad &
+       Tobago?  (T&T are two islands linked under one government, as I recall)
+   ... as the bus hits the water, Wendell looks like he's about to lose his
+       lunch?
+   ... in the scene where Bart says goodbye to Lewis, Ralph doesn't struggle
+       to get out of the water?
+
+==============================================================================
+> Voice credits
+==============================================================================
+- Starring
+   - Dan Castellaneta (Homer)
+   - Julie Kavner (Marge)
+   - Nancy Cartwright (Bart, Nelson, Ralph)
+   - Yeardley Smith (Lisa)
+   - Hank Azaria (Chief Wiggum, Comic Book Guy, Bill Gates, foreign guy on
+        boat)
+   - Harry Shearer (God, Kent Brockman, Principle Skinner, Otto, Ned Flanders,
+        foreign guy on boat)
+
+Also starring
+   - Pamela Hayden (Milhouse)
+   - Russi Taylor (Wendell, Sherri, Terri, Lewis, Martin)
+
+Special guest star
+   - Phil Hartman (Troy McClure)
+   - James Earl Jones (Narrator)
+
+==============================================================================
+> Movie (and other) references
+==============================================================================
+   + "Das Boot" [German movie]
+     - obvious inspiration for episode title
+
+   + "Batman" [movies]
+     - the music on the Noah's Ark movie
+
+   + "Suddenly Last Summer"
+     - "Suddenly Last Supper" {tr}
+
+   + Noah's Ark
+     - the sinking bus almost got perched on a rock similar to Mt. Sainai {je}
+
+   + Titanic
+     - the bus hits a rock
+     - the bus tilts as it sinks
+
+   + "The Lord of the Flies" [book]
+     - general plot (kids stuck on an island, resort to savagery, scared of
+       supposed monster on the island with them)
+     - conch shell used to assemble everybody {nmd}
+     - building shelter from branches {dk}
+     - sending out food hunting parties {dk}
+     - Milhouse's asthma {dk}
+     - glasses used to start a fire {nmd}
+     - Nelson's comment "Sucks to the law!" {dk}
+     - throwing rocks at Milhouse {dk}
+     - the kids turn on eachother {nmd}
+     - the "Kill the Dorks" chant {dk}
+     - tack-on rescue {nmd}
+     - the tribe's war paint {dk}
+     - the chase scene {dk}
+     - the cave near the cliffs {dk}
+     - the boar {dk}
+
+   + Genesis 6:15 and 6:19-20
+     - Troy McClure's Biblical epic takes some liberties with these verses
+       {bjr}
+
+   + "10 Commandments"
+     - very long biblical movie {hl}
+
+   + Kruschev's U.N. speech
+     - while making a point during his U.N. address, Kruschev took off his
+       shoe and pounded it on the podium, just as Skinner does {bjr}
+
+   + "Race For Your Life, Charlie Brown!" [movie]
+     - raft careens off a waterfaller, we see water (silence), they come
+       crashing down (screams), goes underwater (silence), surfaces
+       (screaming) {lj}
+
+   + "Swiss Family Robinson" [the Disney movie]
+     - Bart's imagined treehouse similar to the one in the movie {bjr}
+     - ...with invention that carried water up to the top {dk}
+
+   + "Gilligan's Island"
+     - coconut radio {hl}
+
+   + Dutchess of York
+     - Nelson calls Lisa the Dutchess of Dork
+
+   + "Star Trek Voyager" [TV series]
+     - Comic Book Guy is downloading Kate Mulgrew (Captain Janeway) nude
+
+   + Kiss [rock band]
+     - Ralph Wiggum has the same cat face makeup as Peter Chriss the drummer
+       from Kiss {hl}
+
+   + "Space:  The Final Frontier"
+     - Comic Book Guy lampoons the motto of "Star Trek" as, "Lace:  The Final
+       Brassiere" {bjr}
+
+   + "Dummies" Books
+     - Homer reads "The Internet for Dummies: Remedial Edition" {nmd}
+
+   + The O.J. Simpson Trial
+     - Bart's verdict, "Probably did it, but due to lack of evidence..." {dk}
+
+   ~ "The Little Mermaid"
+     - when the gang goes on the warpath, Sherri wears a bikini top made of
+       seashells, as Ariel the mermaid does {bjr}
+
+==============================================================================
+> Previous episode references
+==============================================================================
+- [7F03] "Who said that??" {ol}
+- [7F04], [2F03] James Earl Jones guest stars {nmd}
+- [7F08], [7F20], [1F14], [1F22] Homer's infatuation with Maude Flanders {nmd}
+- [7F11] Blowfish appears
+- [8F03] Ah, Fudge appears {je}
+- [8F07] Bart and Nelson race eachother
+- [8F23], [3F05] The drinking bird appears {nmd}
+- [8F24] Bart leads a rebellion at Kamp Krusty {hl}
+- [9F01], [9F07], [7F13] God speaks {je}
+- [9F07] Homer the Internet King, similar to Barney the Plow King {ddg}
+- [9F13] Ralph's self-inflicted nosebleeds are mentioned {nmd}
+- [1F06] Rations are carelessly wiled away in a desperate, stranded situation
+         {ol}
+- [1F11] Kent Brockman's news headline interrupts the end of a program using
+         the standard split-screen {ol}
+- [1F19] Homer gets jury duty {ol}
+- [2F03] Bart, Lisa, and Milhouse are pursued by enemies {nmd}
+- [2F17] Comic Book Guy hooked on the internet {ms}
+- [3F05] Homer decides to work at home {ji4}
+- [3F18] Bart deep sea dives {ol}
+- [3F22] Lisa in French club {hl}
+- [4F03] Moe saves a stranded native {je}
+- [4F11] kids playing with fruit leads to a disaster {ol}
+- [3G04] submarine caught in Chinese fishing net {hl}
+
+==============================================================================
+> Freeze frame fun
+==============================================================================
+- The kids and their Model U.N. Club countries
+   - Nelson / Japan
+   - Wendell / Mexico
+   - Sherri / Trinidad
+   - Terri / Tobago (note: Trinidad and Tobago are both under the same
+     political order, so it is fitting that the twins share this Republic.)
+   - Lisa / France
+   - Bart / Libya
+   - Milhouse / Poland
+   - Ralph / Canada
+   - Lewis / U.S.A
+   - Martin / Finland
+
+
+- Time of the Model U.N. Club meeting
+   - 6:54 AM
+
+
+- What is happening when Skinner brings order to the Model U.N. Club
+   - Martin and Lewis arguing
+   - Ralph singing
+   - Bart about to punch Milhouse
+   - Lisa and Terri arguing
+   - Sherri has Wendell by the collar
+   - Nelson is about to butcher Wendell with his sword from behind
+
+
+- Banner on the side of the schoolbus
+
+    +---------------------------+
+    |  M O D E L   U. N.    [*] |
+    | "ORDER AT ANY COST"       |
+    +---------------------------+
+
+    * = A picture of a bird with a gun.
+
+
+- Parents who came to see their kids off
+   - Kirk Van Houten
+   - Martin's parents
+   - Luanne Van Houten (stood far away from Kirk)
+   - Marge (with Maggie)
+   - Clancy and Sarah Wiggum
+
+
+- Flanders' address
+
+  FLANCREST ENTERPRISES
+  740 Evergreen Terrace
+  Springfield,      USA
+
+
+- Otto's tape
+
+  +-------------------------+
+  |  SONGS    TO    ENRAGE  |\
+  |  B u s  D r i v e r s ! | \
+  |    .--.  _____  .--.    |  |
+  |    |  | |)) ((| |  |    |  |
+  |     ""   """""   ""     |  |
+  |     _______________     |  |
+  |    /o O         O o\    |  |
+  |---/-----------------\---|  |
+  \   .--.  .-----.  .--.    \ |
+   \   \==\  \=====\  \==\    \|
+    """""""""""""""""""""""""""
+
+
+- Kids bus-wrecked on the island {dk}
+   - Bart
+   - Milhouse
+   - Nelson
+   - Martin
+   - Sherri
+   - Terri
+   - Ralph
+   - Lisa
+   - Wendell
+   - Lewis
+
+
+
+- Things on Homer's table in the first scene {je}
+   - Potted plant with a picture of a dove on it
+   - Typewriter
+   - Telephone
+   - 5-ball clickity-clackety whatchamacallit
+   - Coffee mug
+   - Stack of paper
+   - Family portrait
+   - Marge's good butter
+
+
+- The book Homer reads
+
+     +---------------------+
+     |                     |
+     | +-----------------+ |
+     | | I N T E R N E T | |
+     | |      F O R      | |
+     | |  D U M M I E S  | |
+     | +-----------------+ |
+     |                     |
+     |                     |
+     |                     |
+     | ------------------- |
+     |  Remedial  Edition  |
+     |                     |
+     +---------------------+
+
+
+- Things on Homer's table in the second scene {je}
+   - Typewriter
+   - Telephone
+   - 5-ball clickity-clackety whatchamacallit
+   - Marge's good butter
+   - Needle box with his face imprinted
+   - Scotch tape
+   - Drinking bird
+   - Pliers
+   - Batteries
+   - Pen holder
+   - Matchbox
+   - Other tiny things
+
+
+- Things new on Homer's table in the last two scenes {je}
+   - Monkey doll
+   - Boat paperweight
+   - Many pencils
+
+
+- Kids in Bart's dream sequence {je}
+   - Bart (overlooking scene in a straw hat)
+   - Martin (showering in a clam)
+   - Wendel (sliding down the river)
+   - Lewis (climbing stairs on the tree)
+   - Sherri & Terri (driving wooden cart)
+   - Ralph (eating a roasted pig)
+   - Monkey waiter (climbing to serve Nelson)
+   - Nelson (lying in hammock)
+
+==============================================================================
+> Animation, continuity, and other goofs
+==============================================================================
+= At the Model U.N. Club meeting, the children have their arms on top of their
+  country's sign as if it were part of the desk. {dk}
+
+= Bart's Lybian glasses overlapped his country tag when he put them down. {je}
+
+= Bart's sunglasses change position on his desk at school. {dk}
+
+= Bart's papers appear from nowhere.
+
+* Sherri and Terri represent Trinidad and Tobago, but "Trinidad and Tobago" is
+  a single country; it would be like representing England and Scotland (and
+  Wales and Northern Ireland) separately, instead of a single United Kingdom
+  entry. {ddg}
+
+@ You can hear Sherri and Terri laughing when Bart cracks his "point of odor"
+  joke, even though they simultaneously tell Bart to leave Lisa alone.
+
+* Model UN (IIRC) sponsors only one nation, in real life. {ag}
+
+= The kids' clothes got disheveled real quick, didn't they?  They were
+  starting to get tattered after just one night on the island. {bjr}
+
+= The hole the fish bit into Bart's shorts wasn't there when Bart got back to
+  the island. {ddg}
+
+= Homer reads the fronts of three envelopes, but I saw him holding only two.
+  {ji4}
+
+= The phone's position on Homer's table changes after he first puts it down.
+  {dk}
+
+= Lisa pulls some berries from her pocket, even though her dress doesn't have
+  a pocket.
+
+* Advertisers would <like> to have an ad (like Homer's "Internet King" promo)
+  spring up unbidden in the middle of your Internet dealings. Thankfully, they
+  can't actually do this yet. {bjr}
+
+* Ethernet and Token Ring connections cannot coexist on the same cable
+  connection. {ol}
+
+* All of us asthmatics know that you can't go diving using an inhaler for
+  air... all it would do is make your pipes expand and your heart beat like
+  nuts. {jo}
+
+* Bart was able to swim while carrying an ice-cooler. {je}
+
+= Bart has no shirt on when he comes back to shore with the cooler, but he is
+  wearing one seconds later while scoffing food. He didn't have sufficient
+  time to put the shirt back on, never mind start eating food as well.
+
+c Comic Book Guy says 28.8 kilo., but captions say 2.8! {ji4}
+
+* Considering that the kids couldn't build an acceptable treehouse, that's a
+  pretty secure homemade cage holding Milhouse. {bjr}
+
+= Lisa gets that UN charter out of thin air. {ol}
+
+= Nelson says "move in for the kill" as they enter the cave, yet the shadow of
+  his mouth on the wall doesn't move.
+
+c Lisa says "Oh, figs", but captions say "Oh, turds". {ji4}
+
+= Where did Lisa get the Model U.N. Charter from?
+
+= If the boar ate the food from the cooler, how come there were no boar
+  tracks? {ddg}
+
+= The kids were able to hog-tie (no pun intended) the wild boar. {je}
+
+= The kids are eating parts of the boar, even though the entire bore seems to
+  be in one piece over the fire. It could be argued that the meat they have is
+  from the side of the boar which we don't see. However, Martin is eating the
+  entire snout -- which we do see over the fire.
+
+==============================================================================
+> Reviews
+==============================================================================
+Dale G. Abersold: A great main plot, saddled with an unfortunate subplot and
+   a few truly unfortunate time-wasting jokes (in an episode that was short of
+   time). David S. Cohen proves once again that he is one of the stalwarts of
+   the current writing staff.  (B+)
+
+Jason Adams: Some of you are going to really hate this episode, and it does
+   seem to have a Principal-and-the-Pauper-esque plot hole, but this is just a
+   little more clever than that. The subplot about the Internet company was
+   perfect, for one thing. For another, it's nice to see Springfield
+   Elementary, especially some of the more minor characters, get a little
+   spotlight. Unfortunately, the mitigating factors didn't quite outweigh the
+   bad plotline, although the James Earl Jones ending was inspired.  (C)
+
+Chris Courtois: "Das Bus" was a solid episode, with an entertaining main story
+   and subplot. Unlike many Season 5 and 6 extended parodies which fell flat
+   if one was unfamiliar with the material being spoofed, this worked even if
+   one wasn't familiar with "Lord of the Flies". Somehow I made it out of high
+   school and college without ever reading it, nor did I see either film
+   version, yet I did not get the "gee-if-I-knew-what-they-were-spoofing-this-
+   might-be-funny" feeling I've gotten in some episodes. The subplot provided
+   some great digs at Bill Gates and computer nerds (Comic Book Guy asking for
+   faster nudity was a classic line). Nothing gut-bustingly hilarious, but
+   enough solid entertainment to rate a...  (B+)
+
+Nathan Mulac DeHoff: Well, the idea was fairly original, and I think they
+   pulled it off pretty well.  There were many few funny moments, and, while I
+   probably wouldn't rank it among the all-time greats, it was definitely a
+   good one.  The subplot was pointless, but funny.  I enjoyed the "Lord of
+   the Flies" references, although I have to admit that some of the best
+   laughs occurred before the kids reached the island.  The ending, however,
+   was quite possibly even more purposely pathetic than that of "The Principal
+   and the Pauper."  It was somewhat amusing, but I think they could have come
+   up with something a little better.  (A-)
+
+Jordan Eisenberg: What do you get when you mix Lord of the Flies, James Earl
+   Jones, Bill Gates and a bus driver working as a slave on an oriental
+   fishing boat?  I don't know and I don't care, but last night's episode sure
+   was funny!  Homer was back to his charming old numbskullery, the kids play
+   a central role for once, there wasn't one OOC moment, not one awkward phase
+   in the plot, plenty of great lines, political satire, literary satire...
+   With two hits in a row so far, it'll take a lot more than a
+   guest-star-centered episode to shake my faith in this season again.  (A-)
+
+Marc Flynn: I'm the last one to criticise the Simpsons. In fact, I am usually
+   the one to defend even the worst episodes, but I agree, das bus was
+   mediocre.  The scenes on the island were not funny, simply because they
+   were ripped off of a story every one knows.  Lord of the Flies was not
+   parodied, rather, it was mimicked, using the Simpsons characters instead
+   of piggy etc.  The internet thing was funny, but it was so underdeveloped.
+   It was as if the writers couldn't get enough milage out of recycling lots
+   so they inserted this half hearted sub plot.  Homer starting a business
+   would have made a great episode.
+
+Andrew Gill: David S. Cohen used to be able to write endings.  But not here.
+   Both the plot and the subplot are ended by trite (gluey) unctions.  Besides
+   that, this was a terriffic episode.  I must admit that I didn't like "Lord
+   of the Flies", but this was a good parody.  It had just the right
+   combination of parody and duplication.  I felt that both of the plots were
+   a little weak, but they were executed beautifully.  The pace and style
+   hearkened back to early 5th season--or perhaps even 2nd season.  If this
+   keeps up, Season 9 will be easily my 4th most favorite season.  Gradewise,
+   this was kept from an A+ by Lisa's mischaracterization at the end (although
+   you can justify that by saying that logically, the slime must be somewhat
+   nutritional if it sustains the boar, and the Lisa wouldn't go for the
+   meat), but it comes quite close.  (A)
+
+John Isles IV: This episode had a good plot, and a mediocre sub-plot.
+   Having Springfield Elementary's best known students trapped on a deserted
+   island was brilliant.  Many of the jokes worked out well, leaving a
+   well-rounded story line for Bart and Lisa (great joke at the end...  Won't
+   Lisa <ever> learn?)  Overall, this was a good plot.
+   On the flip side of the coin,  the ideas for Homer's home business must
+   have come from the cellar.  Homer used a computer earlier in the series,
+   so shouldn't Homer have known about the Internet already?  To make matters
+   worse, there was a poor [mock] Bill Gates cameo-- this would have been
+   better sans the Gates interaction.
+   This is one episode where a bad sub-plot hurts the main story, but I would
+   still recommend this one... <only> for the "Lord of the Flies" setup.  (B-)
+
+Diego Kontarovsky: A step up from last week's "The Joy of Sect," this story
+   kept me entertained and had its moments.  Some really lame jokes, and a few
+   recycled gags, but the crash scene was original and exciting, and the
+   ending, which at first I thought to be stupid, grew on me because of it's
+   originality.  If they'd put more time into Homer's sub-plot, it would've
+   been less confusing, and ultimately funnier.  One final thought that's been
+   nagging at me for a while, though.  Take a look at the genius writing in
+   classic episodes such as "Lisa's Pony," or even "Colonel Homer".  We don't
+   get that kind of script anymore.  Is this what we have to do for a decent
+   plot?  PARODY something?  Bring back the quick-paced wit that made the
+   Simpsons popular in the first place.  Not this slow-paced, first-draft,
+   lame-ass DRY "humor".  (B-)
+
+Haynes Lee: Two of the most non-related story lines. The Homer one was good
+   but too short. The other one with Bart was overly long with abrupt ending.
+   It would have been better if Bart was dropped off altogether and have it
+   entirely based on Homer's internet foray.  (C-)
+
+Ondre Lombard: An episode with a relatively simplistic plotline (most of which
+   was borrowed from another story), padded with a lot of dull, slow,
+   contrived jokes.  (The thing with abusing Milhouse's glasses got old real
+   fast.)  The subplot with Homer didn't start to pick up any pace until Comic
+   Book Guy received his ad (that was priceless.)  I will have to admit,
+   though, I was expecting something a little interesting after the end of
+   act One.  I guess the bottom line when dealing with the episode is this:
+   based on as much as I can remember of "Lord of the Flies," trying to
+   concise the involved story into 15 minutes isn't going to do either the
+   novel or The Simpsons any favors.  I mean, for example, to hurry into the
+   Lord of the Flies spoof, they had to have Bart recover from the trauma of
+   nearlydrowning to death seconds after the fact.  Another thing that bothers
+   me is this ubiquitous trend of setting up situations, and not resolving
+   them. (Such as in 4F08, 5F07 and now here.)  I guess I should give some
+   credit for the half-assed attempt to set closure to the story.  Yet another
+   episode reaching farther away from reality, indicating that ideas are
+   becoming very hard to come up with.  Some genuinely enjoyable moments save
+   this one from a failing grade, but it's not high on my list.  (D+)
+
+Michael K. Neylon: I can't place a figure on anything *wrong* with the
+   episode, but only with presentation and development that could have been
+   done better. I wouldn't imply that the writers aren't trying their hardest,
+   but it felt like an 80% effort, instead of the full 100%.  For a Season 9
+   episode, its above average (7/10), but as an OFF episode overall, its
+   doesn't quite tickle my fancy (5/10).
+
+John Ogan: This episode was truly brilliant, though I'm not without my
+   complaints. I was happy to see the behavior of the kids at the Model U.N.
+   meeting and all the refs to Lord of the Flies, but the Homer sub-plot
+   killed the main plot.  They could've done so much more with the kids on the
+   island if they had had the extra time Homer's stupid business took up.
+   There was also a lot of wasted time here and there, such as the movie, when
+   Nelson is punching Milhouse, and while we're waiting for the bus to hit the
+   water, and the pacing scene.  I'd also felt like I'd seen some of this
+   episode before while watching the first act...Homer with a new business,
+   Homer calling in with a dumb excuse, Kent Brockman covering half the
+   screen, Troy acting badly... if they wanted to do a good homage to LotF,
+   they could've axed some of this stuff for a more in-depth look at the
+   island.
+
+   I was trying to guess before I saw this episode who the role of Ralph was
+   going to be given to... I guessed Bart, and was pretty much right (conch).
+   I guessed Nelson would be Jack (yep), and thought Milhouse would be Piggy
+   (the glasses, the inhaler).  Nice inclusion of Sherri and Terri for Sam
+   and Eric.  Of course, Milhouse doesn't make the ideal Piggy, because he's
+   not the rational one who serves as the connection to society and human
+   culture, that role is given to Lisa.  I thought the "Kill the dorks, Mash
+   their butts" chant was splendidly done.  A great chase scene as well.
+
+   On the vegetarian themes... while I choose not to eat meat in a civilized
+   society, any vegetarian who counts self-preservation as one of their
+   tiniest inclinations would revert back to some degree of flesh-eating if
+   stranded on an island.  Let's be reasonable...licking slime off a rock?
+   Hardly nourishing when you consider how much strength you need for
+   survival.  This episode isn't exactly a victory for vegetarians.  I'm not
+   totally "humorless" about it though, ha, ha, yeah.  Mmm...
+
+   Was that James Earl Jones at the end?  Well, "they were saved by Moe" my
+   ass, James.  Actually, that was kind of funny in a way, but still, take
+   some of that pointless time from Homer, give it to the kids, and have a
+   decent rescue scene.  The Bill Gates humor might be a little tired, but
+   you have to love the two geeks smashing up Compuglobalhypermeganet.
+   Generally, we're going to have to take this as a silly little episode
+   that was a great translation of a classic book, and put some of our
+   protests about the glory of the original Simpsons episodes away.  Sigh.
+   We'll be doing that for the rest of the show, it seems.  (B+)
+
+Tom Rinschler: Ehh.  Not that bad, but not that good either.  The plot (and a
+   subplot!) were reasonably well crafted, although the ending was rushed.
+   There were a few good jokes, but it wasn't a non-stop laugh fest either.
+   It was nice to see some of the underused children, like Lewis and Wendell.
+   Overall, a rather average outing.  (B-)
+
+Benjamin Robinson: "Das Bus" shows that you can have surreal setups, yet still
+   maintain the characterization and "human-ness" that makes "The Simpsons"
+   special.  The civilized children's slide into primitive behavior was
+   generally funny, and didn't violate anything we knew about their
+   characters.  A subplot detailing Homer's attempts to enter the Internet
+   business provides some good contrast and a few laughs.  This show aired on
+   creator Matt Groening's birthday.  It would make a pretty good present,
+   indeed.  (A-)
+
+Matt Rose: Well, this wasn't too bad... I feel like there were a lot of strong
+   things this week. I feel like everyone was in character for the most part.
+   I wish that Otto would have been more involved, though. The subplot with
+   Homer was *very* weak, and really had no business being in the episode.
+   Homer Simpson is unlikeable now. I can't stand the way he's being
+   portrayed... something needs to change and change soon. I see a few
+   subtleties creeping back into the episodes, which is a good thing. I feel
+   like after watching this that some thought was at least put into this
+   episode, and that's a step in the right direction. There is still room for
+   improvement and I'm satisfied with what I've seen, but this show can still
+   be a lot funnier.  (B-)
+
+Yours truly: I don't like it. It's bad news when it's hard to distinguish
+   whether or not an episode is supposed to be taking place in the "real"
+   Simpsons continuity, or whether it's supposed to be a Treehouse of Horror
+   kind of episode, where the events never actually take place. The subplot
+   involving Homer's Internet company worked nicely though. It's a shame that
+   the main storyline was so unbelievable and far-fetched. Personally I'd
+   have preferred an entire episode revolving around Homer's 'net company.
+   The ending was just pathetic, this Moe thing. I suppose it was supposed to
+   be funny, but I'm sure anybody who for some reason found it funny would
+   sacrifice that little chuckle to get a proper ending. (D)
+
+==============================================================================
+> Comments and other observations
+==============================================================================
+>> That was a long movie!
+
+Joe Klemm: The joke about the length of the film bashes the Ten Commandments.
+   This film is a perennial ABC Sunday Night film around Lent. However, the
+   film with commercials is 5 hours long. Yet, they still show the film in one
+   night, with the exception of last year, when the film was split in two
+   parts.
+
+
+>> How can they fall off a bridge into the ocean?
+
+Tom Rinschler: There are plenty of bridges that go over inlets or straits that
+   have ocean on one or both sides.  The most extreme example would be in the
+   Florida Keys, where US 1 skips from island to island in over fifty bridges,
+   with ocean on both sides.  I suggest that the UN conference was on Key
+   West, the bus fell over one of these bridges, and the kids floated to a
+   nearby tropical island.
+   Try driving to Key West sometime.  Or from Norfolk, VA to the Delmarva
+   Peninsula.  Both these bridge complexes (and many more) pass over long
+   stretches of ocean.   In the former case, the island they would land on
+   would be tropical in nature, as seen in the episode.
+
+
+>> Lord of the Flies
+
+Daniel L. Dreibelbis: A novel by William Golding in which English schoolboys
+   are stranded on an island by a plane-wreck in which the pilot was killed;
+   attempting to form a society, they rapidly devolve into barbarism. One
+   character, Piggy, a bespectacled nerd, comes to an especially sticky end.
+   This was made into two movies, with the 1963 version considered the
+   classic.
+
+
+>> Detailed Lord of the Flies notes by Justin Stout
+
+   - Characters:
+      - Bart "Ralph" -- Leads the entire group and then just the characters
+        that favor society.)
+
+      - Milhouse "Piggy" -- Afflicted by physical and social problems and is
+        the person that feels the brunt of anarchy.
+
+      - Lisa "Ralph/Piggy/Simon" -- Shows characteristics of all three.  Like
+        Ralph she favors society, like Piggy she is the planner that is
+        rejected, and like Simon she is the voice of reason that no one
+        listens to.
+
+      - Nelson "Jack/Roger"
+        Like Jack, leads the hunters that rebel against the fire keepers
+        (society favoring characters.)  Like Roger, sadistic torturer pelts
+        Milhouse/Piggy with a rock.
+
+      - Sherry/Terry "Samneric
+        Twins that initially side with Bart/Ralph but join the hunters.
+        (Okay, thats a little bit of a strech since Samneric was tortured.)
+        [Yes I'm aware I used a singular verb.  Read the book.]
+
+   - Groups:
+      - Nelson & co. "Hunters"
+        Favor violent methods, separate themselves from the others,
+        anarchists.
+
+      - Bart & co. "Fire-keepers"
+        Planners, favorers of society, the victim of the hunters violent
+        impulses.
+
+   - Plot similarities:
+      - Children shipwrecked on an island.
+      - Milhouse/Piggy helped by Bart/Ralph.
+      - Ralph/Barth blows a conch to assemble the children.
+      - High aspirations of fun on the island that gradually wither away.
+      - Severe look of the island (in the novel there is a large "scar" formed
+        by the crash.
+      - Originally well planned society.
+      - Abscence of adults.
+      - Nelson/Jack using Milhouse/Piggy's glasses to start a fire.
+      - The invention of a monster caused by xenophobia.
+      - The ostracism of Milhouse/Piggy.
+      - Nelson pokes Milhouse with a stick, the hunters' method of torture and
+        killing.
+      - The theft of Milhouse/Piggy's glasses, the source of the fire-keeper's
+        power.
+      - The glasses cracking.
+      - The feeble attempts by Bart/Lisa at order.
+      - Nelson/Roger's pounding of Milhouse and throwing the rock at him.
+      - Ralph/Bart's conflict between being with the hunters and keeping the
+        society alive.
+      - The lack of clothes and war paint.
+      - The chase through the jungle resembles somewhat the final chapter.
+
+   - Major Differences:
+      - Bus instead of plane.
+      - There are no girls on the island in the book.
+      - The monster is an animal while the beast is a dead parachutist that
+        the boys fear because of paranoia.
+      - The fight between Bart, Lisa, and Milhouse and Nelson and the others
+        is resolved peacefully, while the fight between Ralph, Simon, Piggy,
+        and Samneric and Jack, Roger, and the rest of the bigguns is resolved
+        when a naval officer finds them as Jack and Roger are about to kill
+        Ralph, Simon and Piggy have been killed, and Samneric has been
+        tortured and forced to fight for the others.
+      - Food is easy to find in the book, and is not the cause of the
+        conflict.
+
+
+>>Geek spoken here
+
+Benjamin Robinson: If you're reading this, chances are you could follow most
+   of the Comic Book Guy's ISP "wish list."  Internet dilettantes, and other
+   people who have a life, probably thought the writers just threw together a
+   bunch of random buzzwords.  Not so; he made a coherent and sensible (if
+   hard to grant) request.
+
+   Here's what Comic Book Guy asked for:
+
+   "I'm interested in upgrading my 28.8 kilobaud Internet connection to a 1.5
+   megabit fiber optic T1 line.  Will you be able to provide an IP router
+   that's compatible with my Token Ring Ethernet LAN configuration?"
+
+   Here's what the words mean:
+
+   28.8 kilobaud:  Today's (1998) standard modem speed is 28,800 bits per
+   second, commonly abbreviated to, "28.8".  A "bit" is the smallest unit of
+   data that a computer will recognize:  One letter occupies eight bits.
+   (Well, it does for most machines. If you don't know the gory details
+   already, you probably don't want them.)  A 28.8 modem transmits 216,000
+   characters a minute. That's enough to transmit this post x times over.
+
+   "Kilobaud" is something of a misnomer; it's more accurate to say "kbps",
+   where "bps" means bits per seconds, and "k" is the "kilo" prefix.
+
+   1.5 megabit: Another measure of a computer link's speed, this time a much
+   faster one.  How fast is a "much faster?"  Consider that 1.5 megabits is
+   1,572,864 bits per second, or 11,796,480 characters per minute.  That's
+   enough to transmit a day's worth of posts to alt.tv.simpsons x times over.
+
+   Fiber optic:  Technically not a computer term, since fiber optic technology
+   is used outside the computer world.  A fiber optic line is like a wire made
+   of glass.  Information travels along the glass "wire" in the form of light,
+   just as electricity flows down a regular wire.  The chief advantage of
+   fiber optic lines is that they can carry much more information than regular
+   wires.
+
+   T1: A high-speed communications link for computer.  Most large
+   institutions, such as colleges or local Internet Service Providers, have
+   one of these.  They have enough capacity to carry several people's Internet
+   sessions at once.  A T1 link costs several thousand dollars (U.S.) a month
+   to maintain, so having your own private one is a little like having your
+   own Learjet.  (Actually, there are even faster links, but these are used
+   primarily by telecommunications companies to form the Internet "backbone"
+   itself.)
+
+   IP router: A computer dedicated to the purpose of routing Internet messages
+   to their proper destination.  IP routers are a black art to me, so I'm not
+   certain why the Comic Book Guy would want one, let alone why they may not
+   be compatible with the equipment he already has.
+
+   Ethernet: A popular network architecture.  ("Network architecture" refers
+   to the layout and design of the equipment that makes up a computer
+   network.)  Before a computer on an Ethernet network transmits data, it
+   "looks" to see if the network is in use.  If another machine is
+   transmitting, it will wait; otherwise, the computer will transmit right
+   away.  This allows computers to share the network without too much
+   overhead.  Oh, and what happens if two computers transmit at exactly the
+   same time? That's called a "collision," when it happens, the two machines
+   wait a random amount of time before retrying the send.  If that sounds
+   dicey, you're not alone.  One joke I've read is that "Ethernet works in
+   practice, but not in theory."
+
+   Token Ring: Another network architecture.  In Token Ring, the computer must
+   grab an electronic "token" before it can transmit.  (The token is just a
+   sequence of data, not a physical thing that you can see or feel.)  The
+   sending computer attaches the data to the token, and sends the data/token
+   pair on its way.  The receiving computer strips the data from the token,
+   and returns the token to circulation.  This allows for collision-free
+   sharing of the network.
+
+   (The book from which I'm looking this up -- Paul McFedries' Windows 95
+   Unleashed -- implies that Ethernet and Token Ring are two different network
+   types.  "Ethernet Token Ring," would be self-contradictory then, although I
+   could swear that I've heard the phrase before.)
+
+   LAN: Local Area Network, a small network of computers usually deployed in
+   one building.  The Comic Book Guy says he has a LAN, implying that he has
+   at least two computers at home, and that he went to the trouble of hooking
+   them together.  There are actually people who do this in real life...
+
+   Putting it together, Comic Book Guy was asking, "I'd like to upgrade my
+   Internet connection so that it will work about fifty times faster. Can you
+   provide one that will work with my existing computer network?"
+
+Christian Armour doesn't agree: First of all, from the way it was worded and
+   intoned, it sounded that the CBG was suggesting that Ethernet is a form of
+   Token Ring.  We know this to be completely inaccurate.
+
+   What might make sense is that he has 3 interfaces in his network topology:
+   an Ethernet, a Token Ring and a Point-to-point gateway to his ISP.  He
+   mentions he is running a LAN.  Obviously, the machine with the PPP link is
+   a router (ie. is multi-homed on at least two and probably three
+   interfaces).  This implies that the CBG has at least three machines in his
+   basement: at least one Token Ring endpoint, at least one Ethernet endpoint
+   and finally, the router with the modem attached.  Since IP is IP and exists
+   at the transport layer of the OSI model, irrespective of the physical layer
+   (Ethernet or Token Ring), it makes no sense that Homer's company support
+   the CBG's Token Ring or Ethernet LAN configuration, he need only know how
+   to route IP (which everyone does anyway).  He could use DECnet or even
+   carrier pigeons to route the stuff from there.
+
+   I therefore conclude that the CBG's request to Homer, as funny as it may
+   be, made no technical sense whatsoever.
+
+
+>>And you thought the Scientologists were controversial
+
+Benjamin Robinson: Even if you are so non-technical that you can't get rid of
+   the blinking "12:00" on your VCR, chances are you've heard of Bill Gates,
+   or his company, Microsoft.  Gates' company is the biggest player in
+   personal computer software, producing Windows 95, Word, Excel, and other
+   best-selling titles.  Lately, Microsoft has been under fire for all sorts
+   of things, ranging from the way their Internet Explorer Web browser is
+   distributed, to the way they pay their contract workers.  Interestingly,
+   although Microsoft has bought a number of smaller companies, including
+   WebTV, few people have complained about this.  As far as I know, they
+   haven't bought out a competitor solely to put it out of business.  Usually,
+   they just re-brand the new product under the Microsoft name, and sell a ton
+   of it.
+
+
+>> Since Net memory tends to be short:
+
+David Sewell: Homer's self-identification as the "Internet King" in "Das Bus"
+   was a reference to the brief (but not brief enough) notoriety of
+   self-styled "Spam King" Jeff Slaton of Albuquerque, who began his spamming
+   career in summer '95 by mailing ads for Fat Man and Little Boy atomic bomb
+   blueprints to hundreds of Listserv mailing lists, and who then went on to
+   perpetrate a variety of email and Usenet spams. He probably reached the
+   height of his fame with a profile in WIRED 4.02, which can be found at:
+   <http://www.wired.com/wired/4.02/spam.king.html>
+   (Homer, not coincidentally, is reading WIRED in this episode.)
+   More recently, some journalists have applied the "Spam King" label to
+   Sanford Wallace of Cyberpromo ill fame, but I don't believe Wallace has
+   called himself that.
+
+
+>>Wired Magazine
+
+Benjamin Robinson: Homer reads this while setting up his Internet business.
+   It's a magazine for the hip new digital age (somewhat self-consciously so).
+   Wired differs from its competition in that it focuses on people behind
+   computers, and on the machines' impact on society, where other magazines
+   mostly test and review new hardware and programs.
+
+
+>> I'm so hungry I could eat at Arby's!
+
+Joe Klemm: Arby's is a restaurant chain that specializes in roast beef
+   sandwiches.
+
+
+>> Dummies Books
+
+Joe Klemm: The Dummies books are very popular books for computer users. They
+   tell people how to run the computers and objects used with it. Currently,
+   the book has broaden into deeper territory with topics not associated with
+   computers.
+
+
+>> Worst Ending Ever
+
+Paul Tomko: Ah, but you see, Lord of the Flies also had a cop out ending. The
+   Simpsons writers were merely parodying that ending. Ironically, if they
+   were to have given it a tight ending, it would not have been as good of
+   a parody. The "cop out" ending had more humor for me for that reason.
+
+
+>>Miscellaneous, etc.
+
+- It's not so far-fetched that the Noah's Ark movie would end just as it was
+  time for the kids to go to school, because the Model U.N. Club meeting that
+  they attended was BEFORE school hours.  The proof is in the scene where they
+  wrap up the meeting and the wall clock reads about 6:52 A.M. {dk}
+
+- "Zeppelin Rules" -- Led Zeppelin (1969 - 1980) is <the> band for the
+  dinosaur rock enthusiast, so this was a really good thing for Otto to yell.
+  {bjr}
+
+- You have to register an Internet domain with Internic which has a monopoly
+  over this. There is a EDGECOM.COM, CUTCO.COM, but no domains pertaining to
+  FLANCREST or INTERSLICE. {hl}
+
+- Haynes Lee's alterna-title for the episode is "The Fly King".
+
+- Haynes Lee owns the domain http://www.compuglobalhypermega.net!
+
+==============================================================================
+> Quotes and Scene Summary
+==============================================================================
+% The clouds are dark, lightning flashes, and Troy McC-- uh, Noah stands in
+% the mountains as he recieves the words of God.
+
+ God: Noah! They shalt build thyself an ark, measuring 300 cubits in length!
+Noah: [Jotting this down with a jumbo marker] 300 cubits, give or take.
+ God: <Exactly> 300! And thou shalt taketh two of every creature!
+Noah: [Writing it down] Two creatures.
+ God: Two of <every> creature!
+Noah: Even stink beetles?
+ God: <Especially> stink beetles!
+-- Troy McClure as Noah, "Das Bus"
+
+% The Simpsons are sat together watching the TV.
+
+ Bart: Wow, cool, God is so in your face!
+Homer: Yeah, he's my favorite fictional character.
+-- "Das Bus"
+
+Marge: Oh, it's so late! You kids have to go to bed!
+ Bart: But the flood's only knee-high! At least let us watch 'til the midgets
+       drown!
+ Lisa: Yeah, mom, c'mon! You let us stay up to watch Troy McClure in such
+       other bible epics as David vs. Super-Goliath and Suddenly Last Supper!
+ Bart: Go Lis! Way to cite precedent!
+       [They high five.]
+-- "Das Bus"
+
+Marge: Alright, you can stay up late tonight, but tomorrow everyone's going to
+       bed at 5 o'clock!
+Homer: Woo hoo!
+-- "Das Bus"
+
+% Much time has passed, and the movie is coming to an end. The dark clouds
+% clear and a rainbow is in the sky.
+
+          God: Go forth, Noah! And remember! The key to salvation is--
+               [The screen splits as Kent Brockman begins his morning news
+               report.]
+Kent Brockman: You've seen the movie, now meet a real-life Noah! Only this
+               Noah has been accused of <killing> two of every animal! Coming
+               up next on AM Springfield!
+-- "Das Bus"
+
+% The movie was so long that it's time for school by the time it's finished.
+% Homer is on the phone to Smithers.
+
+Ah, can't make it in today, Mr. Smithers! I have smallpox! ...Well, it wasn't
+wiped out in <my> house!
+-- Homer on the phone to Smithers, "Das Bus"
+
+% At school, a Model U.N. Club meeting is taking place.
+
+You leave tomorrow for the statewide Model U.N., so this is out last chance
+to bone up. And bone we will!  [The kids break into laughter]
+-- Skinner, "Das Bus"
+
+% Skinner gets Martin to do his native Finland dance. He then moves onto
+% Milhouse, who represents Poland.
+
+ Skinner: Poland! Tell us about your nation's achievements!
+Milhouse: Well, I heard they sent a rocket to the sun once.. at night. And
+          there was that submarine, with the screen doors..
+ Skinner: No, no, no, no, young man, you need to do some <serious> boning!
+    Lisa: [laughs]
+    Bart: Oh, grow up, Lis.
+-- "Das Bus"
+
+Skinner: OK, Libya.. exports!
+   Bart: Yes, sir, you American pig!
+Skinner: [chuckles] Nice touch.
+   Bart: Uh, ahem, let's see...
+         [Bart shuffles through his papers, which are blank.]
+         The exports of Libya are numerous in amount. One thing they export
+         is corn, or as the Indians call it, "mase". Another famous Indian was
+         "Crazy Horse". In conclusion, Libya is a land of contrast. Thank you.
+-- the Model U.N. club, "Das Bus"
+
+% Before Skinner can comment on Bart's research, he is distracted by someone
+% else.
+
+         [Nelson, since he's representing Japan, sticks some chopsticks up
+         Wendell's nose.]
+  Lewis: Oww, I can't breath! Please stop him!
+Skinner: I'd like to, but I'm afraid he has diplomatic mutiny.
+-- Model U.N. club, "Das Bus"
+
+Lisa: Point of order, if we want to learn anything we must respec--
+Bart: Point of odor, Lisa stinks.
+      [Laughter]
+-- "Das Bus"
+
+% Sherri tells Bart to leave her alone, which stirs up the rest of the class,
+% and within moments, all the kids are fighting eachother.
+
+[Banging his shoe on the table] Order, order! Do you kids wanna be like the
+real U.N., or do you just wanna squabble and waste time?
+-- Principle Skinner, "Das Bus"
+
+% The next day, the kids are getting onto the bus ready to go on their Model
+% U.N. Club trip. Marge wishes them a good time.
+
+Remember, Ralphie, if your nose starts bleeding it means you're picking it too
+much... or not enough.
+-- Chief Wiggum "Das Bus"
+
+% With the kids on the bus, Skinner announces to them that Otto is in charge.
+
+[Quietly] Remember, Otto. We're trusting you with our greatest natural
+resource... the school bus.
+-- Principle Skinner, "Das Bus"
+
+% Back at home, Homer is stood by his mailbox checking what letters he's
+% recieved this morning.
+
+Water bill, third notice. Jury duty, third notice. Mortgage bill.. ooh,
+second notice! [Drops it down the drain.]
+-- Homer checks the mailbox, "Das Bus"
+
+       Homer: Flancrest Enterprises?
+Ned Flanders: [from his mailbox] Oops! That's for me! Flancrest Enterprises
+              is my home business.
+       Homer: You liar! You don't have a home business, why would you make up
+              a lie like that?
+Ned Flanders: [Laughs] Oh, it's true! Maude and I sell religious book rugs
+              over the Internet!
+       Homer: [smooth] Internet, eh?
+Ned Flanders: Yes, indeedy! Making some good scratch, too!
+       Homer: [smooth] Scratch, eh?
+Ned Flanders: Yep!
+       Homer: [smooth] Maude, eh?
+-- "Das Bus"
+
+% Soon enough, Homer is setting up an office for his new Internet company.
+% He's collecting all the vital things, such as a typewriter, a drinking
+% bird, a picture of the family, and putting them onto a table. He tells
+% Marge everyone is making money off the Internet nowadays except them!
+
+       [Marge notices Homer has a handfull of pencils poked into some butter.]
+Marge: Is that my good butter?
+Homer: Can't discuss that now, Marge! I have to write another delicious memo!
+       [He takes a pencil from the butter and licks the buttery end.]
+       Mmmm... memo...
+-- "Das Bus"
+
+% Otto sits in the bus, while the noise of the kids singing "sixty three
+% bottles of beer on the wall, sixty three bottles of beer..." floods his
+% ears... but it's not the kids in the bus. It's a tape named "Songs to
+% Annoy Bus Drivers," which he throws out the window.
+% Nelson and Bart decide to have a race with fruit to see who's fruit reaches
+% the front of the bus first. Bart chooses and apple, Nelson chooses an
+% orange. Ralph joins in... with a banana. As the race is coming to an end,
+% Milhouse makes a last minute decision to throw a grapefruit into the mix.
+% He bowls it, and it surpasses the other fruits, but gets caught under the
+% brakes pedal! Otto tries to stop the bus, but the grapefruit prevents him
+% from pushing the pedal down. Instead, it bursts the fruit open, and some
+% juice splashes into Otto's eyes -- it burns! The kids have to be Otto's
+% eyes if they want to drive safely until Otto gets his vision back, but
+% within seconds, Otto has swerved out of control and the bus is plunging
+% from the bridge into the ocean far below. The bus makes a big splash, and
+% floats on the surface -- but not for long. Water is filling up the bus,
+% so Otto declares he must swim for help. But as soon as he gets outside,
+% the strong current washes him away on the opposite direction.
+
+Zeppelin rules!
+-- Otto, as he's washed away into sea, "Das Bus"
+
+% The water level inside the bus is rising -- and quickly.
+
+ Bart: I guess this is the end, Wendell.
+Lewis: He's Wendell! [points to Wendell] I'm Lewis!
+ Bart: Well, whatever, just tell Wendell I said bye.
+-- Bart's legacy, "Das Bus"
+
+% The kids open the bus window, and more water pours in, but it gives them
+% a chance to escape the sinking bus. They do just that.
+
+Somebody help me! I think I'm getting swimmer's ear!
+-- Milhouse, as the schoolbus sinks, "Das Bus"
+
+% Bart comes to Milhouse's aid, and the kids watch as the bus sinks. They're
+% safe for now, but they must make their way to the nearest shore.
+
+% Soon enough, the kids crawl onto the sandy shores of a remote desert island.
+
+Sherri: This is all Lisa's fault, she started the stupid U.N. club!
+  Lisa: Hey! Martin seconded the notion, it's entirely his fault.
+Nelson: People, people! Let's not blame eachother! We all know this is
+        Milhouse's fault!
+-- "Das Bus"
+
+% Everybody agrees, and once again, the kids squabble... until we hear the
+% sound of conch shell, coming from Bart, who stands atop a large rock.
+
+What's everyone's problem? I'm glad we're stranded! It'll be just like the
+Swiss Family Robinson, only with more cursing! We'll live like kings! Damn,
+hell, as kings!
+-- Bart, "Das Bus"
+
+% The kids envision a fun in the sun island, with waterslides, "Under the Sea"
+% style music, and everyone having a good time. Suddenly the future looks a
+% whole lot brighter -- especially at the thought of having monkey butlers.
+
+Good, let's get to work! Me and Nelson will build the treehouse. Martin, draw
+a plan for a coconut radio, and if possible, a coconut Nintendo system.
+-- Bart, "Das Bus"
+
+  Lisa: What about the rest of us?
+  Bart: You guys gather food for the big feast tonight! And maybe a little
+        wine for the older kids.
+Nelson: Delicious wine?
+  Bart: Exactly.
+-- "Das Bus"
+
+% Back at home...
+
+Homer: Oh, what am I gonna call my Internet company? All the good names are
+       taken. Oh wait, I've got it! Flancrest Enterprises! [he checks "Wired"
+       to see if it's available... apparently not!] D'oh!
+Marge: What exactly is it your company does again?
+Homer: This industry moves so fast it's really hard to tell. That's why I need
+       a name that's cutting-edge, like CutCo, EdgeCom, Interslice... come on,
+       Marge, you're good at these! Help me out!
+Marge: How about... Compuglobalhypermeganet?
+Homer: Fine, it's not important...
+-- "Das Bus"
+
+What really matters is my title. I think I'll make myself.. vice president.
+[Excited] No, wait! Junior vice president!
+-- Homer decides his title in his own home business, "Das Bus"
+
+[The phone rings, Homer answers] Compuglobalhypermeganet, junior vice
+president Homer Simpson speaking, how may I direct your call? [miserable] It's
+Patty. [hands the phone to Marge]
+-- Homer, "Das Bus"
+
+% Back on the island, food patrol brings their findings -- a few poisonous
+% looking berries.
+
+Ralph: I ated the purple berries!
+       [Within moments, he collapses to the ground, groaning in pain.]
+ Bart: How are they, Ralph? Good?
+Ralph: They taste like.. burning!
+-- .. good? "Das Bus"
+
+    Bart: OK, food patrol blew it.
+Milhouse: Yeah? Well your treehouse looks kinda crummy, too. Kinda <really>
+          crummy!
+    Bart: When the monsoon season comes, you'll be glad it's there!
+          [There is a mild gust of wind, and the crudely made treehouse falls
+          to pieces.]
+-- "Das Bus"
+
+% Bart realises that the island isn't very good after all, and decides they
+% should have swum for it like Otto.
+% Hmmm, I wonder where Otto is right now?
+% Cut to Otto, in the middle of the ocean, swimming for his dear life.
+
+Well, I'm done for... at least I'll leave a beautiful corpse.
+-- Otto swimming for his life, "Das Bus"
+
+% Otto lets himself drift underwater, but seconds later a huge fishnet is
+% uprooted from beneath him, carrying him onto a fishing boat with a couple
+% of foreigners on it! Otto thinks they're going to help him, but subtitle
+% translations of their dialogue suggests otherwise.
+
+% Back on the island, Milhouse runs towards the other kids screaming "monster,
+% monster!" -- naturally, everybody hides (except Ralph, who covers his eyes).
+% A few moments pass, with no sign of a monster, and everybody comes out of
+% hiding. Nelson shouts at Milhouse for being a scaredy. Lisa decides to
+% change the subject, and discuss something more productive -- how are they
+% going to light a fire. Nelson uses Milhouse's glasses and a rock to make
+% sparks, and lights the fire.
+
+% Night comes around, and the kids sit around the fire.
+
+ Terri: I'm so hungry I could eat at Arby's!
+  Lisa: Oh my gosh!
+Nelson: That <is> hungry.
+  Lisa: <Really> hungry...
+-- "Das Bus"
+
+          [Deep growling noise.]
+Milhouse: It's the monster! [takes a few doses of his inhaler]
+    Bart: No it's not, it's my tummy.
+          [Nelson looks at him, in disapproval.]
+          I mean stomach!
+          [Nelson remains unsatisfied.]
+          Gut!
+          [Still unhappy.]
+          Crap factory!
+          [Nelson nods.]
+-- Muntz-speak, "Das Bus"
+
+% Lisa remembers that there was a cooler full of food on the bus. Bart decides
+% to swim to the bottom and get it! He takes Milhouse's inhaler for
+% respiration. Soon enough, after an encounter with a blowfish (Bart screamed,
+% and it deflated, much to Bart's amusement), Bart returns to shore with the
+% bounty. The kids tuck in immediately, but Lisa stops them because they'll
+% need the food even more in the future.
+
+    Lisa: Stop! We may have to live on this food for a long time, so no more
+          until tomorrow!
+Milhouse: But I'm hungry now!
+          [All the other kids agree.]
+  Nelson: Yeah, who put the dutchess of dork in charge?
+-- "Das Bus"
+
+% The following morning, Lisa is the first to wake, so she wakes everybody
+% else up, and they all head for the rations! But the cooler is empty -- and
+% Milhouse sleeping beside it surrounded by empty food packaging! The kids
+% wake Milhouse up, and he assures them he's innocent.
+
+Milhouse: [belch]
+  Nelson: [sniffs] Nacho cheese. Get him!
+Milhouse: You wouldn't dare hurt me! You forget that I have... the glasses!
+  Nelson: [takes the glasses from Milhouse's face] Yoink!
+Milhouse: [extremely nervous] Now that you've got every you need, I'll just
+          get out of here...
+          [He walks a short distance but bumps into Nelson again.]
+  Nelson: Not so fast, two eyes!
+-- "Das Bus"
+
+Come on, let's slice him open and get our food back!
+-- Nelson thinks Milhouse stole everybody's rations, "Das Bus"
+
+% Once again, Lisa puts herself in charge, and tells the rest of the kids
+% that Milhouse has the right to a fair trial, much to the kids disgust.
+
+Society blows.
+-- Nelson, "Das Bus"
+
+% Cut to the Comic Book Guy on his PC. He's typing away.
+
+Oh, Captain Janeway... Lace -- the final brassiere!
+-- Comic Book Guy downloads porn, "Das Bus"
+
+% Despite having found what he wants, his modem is very slow and he's
+% impatient.
+
+Ugh, this high-speed modem is intolerably slow!
+-- Comic Book Guy, "Das Bus"
+
+% The picture slowly appears, line by line, but as soon as it gets to the
+% cleavage, an ad for "Internet King" (Homer) appears and covers any nudity
+% on the screen.
+
+What the-- the Internet King... I wonder if he can provide faster nudity.
+-- Comic Book Guy sees one of Homer's ads on a porn site, "Das Bus"
+
+% So Comic Book Guy goes to Homer's "office"!
+% At the office...
+
+         Homer: Welcome to the Internet, my friend, how can I help you?
+Comic Book Guy: I'm interested in upgrading my 28.8 kilobaud Internet
+                connection to a 1.5 megabit fiber optic T1 line. Will you be
+                able to provide an IP router that's compatible with my token
+                ring ethernet LAN configuration?
+         Homer: [stares blankly for a few seconds] Can I have some money now?
+-- "Das Bus"
+
+% Back on the island, Milhouse's trial begins. Milhouse is in a cage made from
+% sticks.
+
+Court is now in session. All rise. [The kids rise.] Nah-ha, made you rise!
+-- Bart as the judge, "Das Bus"
+
+    Lisa: Your honor, the defense calls it's first and only witness --
+          Milhouse Van Houten.
+          [Mumbling from the jury.]
+          Milhouse, did you steal the food.
+Milhouse: Nuh-uh, no way.
+    Lisa: Could anybody else have taken it?
+Milhouse: Well... I guess you could have!
+    Lisa: [hurt] Milhouse, I am defending you!
+Milhouse: Oh... sorry, I'm just saying it was either you or the monster.
+-- "Das Bus"
+
+Nelson: Monster... pff... oh, please...
+  Bart: I remind you, we are not here to debate the existance of monsters.
+  Jury: [groans]
+-- "Das Bus"
+
+% Since nobody saw Milhouse eat the food, Lisa rests her case. Nelson, the
+% prosecutor, paces back and forth deep in thought beside Milhouse's cage.
+% He bursts into fury, punching the hell out of Milhouse. Lisa tells Bart to
+% stop him because he's not asking any questions, but Bart allows it.
+% Bart's concludes that Milhouse is not guilty, since nobody saw him eat the
+% rations, but he probably did it anyway. The other kids are unhappy with this
+% verdict, and pelt stones at Milhouse. Once again, Lisa comes to Milhouse's
+% rescue, and when the other kids turn on Lisa too, Bart comes to Lisa's
+% rescue. And thus was the beginning of a civil war. Bart, Lisa and Milhouse
+% vs. Nelson and the other kids.
+% The hunt is on! The other kids have plans for the "dorks", namely acts of
+% violence, so the dorks make a run for it!
+
+% Back at the Simpsons home, Homer reads "Internet For Dummies"...
+
+Ooh, they have the Internet on computers now!
+-- Homer, "Das Bus"
+
+% Marge tells Homer Bill Gates is here to see him. Homer panicks, and tells
+% Marge to get out of here so it doesn't look like a two-bit operation.
+
+Bill Gates: Mr. Simpson?
+     Homer: You don't look so rich...
+Bill Gates: Don't let the haircut fool you, I am exceedingly wealthy.
+     Homer: [quietly] Get a load of the bowl-job, Marge!
+-- "Das Bus"
+
+Your Internet ad was brought to my attention, but I can't figure out what, if
+anything, Compuglobalhypermeganet does, so rather than risk competing with
+you, I've decided simply to buy you out.
+-- Bill Gates, "Das Bus"
+
+% Homer and Marge quietly discuss this proposal.
+
+     Homer: I reluctantly accept your proposal!
+Bill Gates: Well everyone always does. Buy 'em out, boys!
+            [Gates' lackeys trash the room.]
+     Homer: Hey, what the hell's going on!
+Bill Gates: Oh, I didn't get rich by writing a lot of checks! [insane
+            laughter]
+-- Bill Gates buys Homer's Internet company, "Das Bus"
+
+% Back on the island, the savages (Nelson and the other kids with warpaint on)
+% are hunting down the dorks (Bart, Lisa and Milhouse). The dorks are
+% exhausted, and the savages are not far behind.
+
+I can't go on, you two go ahead... and carry me with you!
+-- Milhouse, "Das Bus"
+
+% Bart and Lisa reluctantly agree. They reach a huge drop, with a large space
+% in between them and the other side. Fortunately, there is a vine hanging
+% down from above. Bart and Lisa let Milhouse swing across first, but he
+% doesn't throw the rope back, and leaves Bart and Lisa for dead. The clock
+% is ticking, but Bart sees a tree which is almost uprooted, so he uses his
+% strength to push it down, creating a crude bridge to the other side. They
+% run across and hide in a cave. But it doesn't take long for the savages to
+% find them and close in on them, but just as the two sides are about to
+% clash, the monster appears from deeper into the cave! The kids evacuate the
+% cave, and watch on as the "monster" exits the cave. The two sides seem to
+% have forgotten their differences when they notice that the monster, which
+% Martin identifies as nothing but a run-of-the-mill wild boar, has some
+% food packaging on it's tusk. Nelson apologises to Milhouse.
+
+  Lisa: Hey, if a boar can survive here, there must be a source of food! Look,
+        he's licking slime off that rock! That's what he's been eating --
+        slime! And there's enough slime for all of us! We're saved!
+        [Cut to the kids roasting the boar over a fire, and eating parts of
+        it.]
+Nelson: Mmm, all that slime made the boar extra tender!
+Martin: More snout anyone?
+  Bart: How's your dinner, Lis!
+        [Lisa is licking slime from a rock.]
+  Lisa: Ah, shut up... savages...
+-- "Das Bus"
+
+% The camera slowly zooms out from the kids eating, and eventually shows the
+% whole island.
+
+So the children learned how to function as a society, and eventually they were
+rescued by, oh, let's say.. Moe.
+-- "Das Bus"
+
+% What the--
+
+==============================================================================
+> Contributors
+==============================================================================
+{ag}  Andrew Gill
+{bjr} Benjamin Robinson
+{ddg} Don Del Grande
+{dk}  Diego Kontarovski
+{hl}  Haynes Lee
+{je}  Jordan Eisenberg
+{ji4} John Isles IV
+{jo}  John Ogan
+{lj}  Lee Johnson
+{ms}  Mike Smith
+{nmd} Nathan Mulac DeHoff
+{ol}  Ondre Lombard
+{tr}  Tom Rinschler
+
+==============================================================================
+> Legal mumbo jumbo
+==============================================================================
+[5F11] capsule copyright 2001, Hari Michael Wierny. (The quotes remain the
+property of Fox, and the reproduced articles remain the property of their
+respective authors. I'm just taking credit for the compilation.) Not to be
+redistributed in public forum without permission.
+
+Thanks to Benjamin Robinson and Frederic Briere for providing me with the
+alt.tv.simpsons archives necessary for compiling the capsule!

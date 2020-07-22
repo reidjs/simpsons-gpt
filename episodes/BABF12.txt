@@ -1,0 +1,1340 @@
+Pygmoelian                                              Written by Larry Doyle
+                                                     Directed by Mark Kirkland
+==============================================================================
+Production code: BABF12                   Original Airdate on FOX: 27-Feb-2000
+Capsule revision A (23-Nov-2000)
+==============================================================================
+> "TV Guide" Synopsis
+==============================================================================
+   [From milpool.com] Moe wins Duff's "beer-tending" contest but loses out on
+   making their calendar.  So he undergoes plastic surgery and lands a soap-
+   opera role that he missed years before.  {jp2}
+
+==============================================================================
+> Title sequence
+==============================================================================
+Blackboard:     DODGEBALL STOPS AT / THE GYM DOOR
+
+Couch:          The Simpsons take their places on the couch.  Matt Groening's
+                signature is on the lower right-hand corner of the screen.
+                Marge wipes up the errant marking with a rag.  As soon as she
+                does so, Matt Groening runs back onto the set and re-signs the
+                scene.
+
+==============================================================================
+> Did You Notice...
+==============================================================================
+   ... "Dr. Tad's" eye-patch shade?  [Probably too noticeable for a DYN, but
+       let's include it for the record -- Ed.]
+   ... if you listen carefully, it sounds like the technical director is
+       saying, "What the fudge?"
+   ... Duff Man's real first name is Larry?
+
+Nathan DeHoff:
+   ... Moe's acting career apparently didn't end with his murder of the
+       original Alfalfa?
+
+Don Del Grande:
+   ... Lisa picked her "attendance" trophy over her music ones?
+   ... Homer's car now has a cassette player (instead of the 8-track)?
+   ... Homer's cassette player requires him to enter the cassette lengthwise
+       (and tape-side first)?  [See "Comments" section for more -- Ed.]
+   ... Homer must have given Lisa back her car door handle before they arrived
+       (otherwise how did she open the car door so soon?), yet she waited
+       until they parked before escaping?
+   ... nobody cheered for Moe when he was introduced, but Homer and the others
+       cheered for him later?
+   ... either it's summer vacation, or the soap opera is on at a time when
+       Bart and Lisa are home?
+   ... Moe signed for the book left-handed?  (He could have been doing it to
+       disguise his signature)
+
+Curtis Gibby:
+   ... this is the second time this month that they've bashed Dartmouth's
+       drinking?
+   ... January 1 is a Saturday, which is consistent with this year (2000)?
+   ... this is the second week in a row that Homer's been on TV?  (First
+       during the PBS pledge enforcement thing in [BABF11], and this week on
+       "It Never Ends.")
+   ... Marge's cursive is pretty good?
+
+Matt Greenberg:
+   ... Marge wants to save a vacuum cleaner?
+   ... Maggie didn't have her pacifier in the scene where she played with the
+       balloon
+   ... this is the second episode in the row that the endings are cut short?
+
+Darrel Jones:
+   ... the Irish bartender from Chicago "tosses" Larry the Lush during the
+       contest?
+   ... Springfield isn't in Rhode Island?
+   ... the board roam the balloon floats through is for the Log Cabin
+       Republicans?  [See "Comments" section for more -- Ed.]
+   ... Luanne Van Houten, Mrs. Krabappel, and Selma can be seen among the
+       crowd adulating the "new" Moe?
+
+Joe Klemm:
+   ... Apu, Skinner, and Milhouse's dad are designated drivers at Duff Days?
+
+Adam Long:
+   ... the band at Duff Days looks really dreary?
+   ... this episode had robots that *weren't* destroyed by Homer?
+   ... Moe practices a little dance before going on stage?
+   ... Kearney is at Duff Days?
+   ... for someone who "doesn't talk much", Carl has a lot of dialogue in this
+       episode?
+
+Jerry P:
+   ... the Duff calendar is for 2000?
+   ... two of the three people Moe wants to get revenge on want to apologize?
+   ... there wasn't much of an attempt to make Moe look like the previous Dr.
+       Tad Winslow?
+
+James Reisdorf:
+   ... this is the first time Moe's last name has been pronounced on the
+       Simpsons?  (And it's correctly pronounced)
+   ... Surly from Duff Gardens is at the festival?
+   ... Apu was in the designated drivers "cage"?  (Ironic ... since he offers
+       alcohol at the Kwik-E-Mart)
+   ... the tipsy-o-whirl is basically one of those astronaut training devices
+       without the motor?
+   ... Mello Yello's "Oh Yeah" was used AGAIN for a theme?
+   ... Moe is a VERY fast tapper, and organized to boot?
+   ... Moe's Tavern has been run illegally for over 25 years?
+   ... Homer knows who Bill Maher is?
+   ... Moe sings "Silver Bells" under anesthesia?
+   ... "It Never Ends" features a Soap Opera rarity, someone who actually
+       ANNOUNCES the actors?
+   ... on the same note, it features another rarity, the show being televised
+       live?
+   ... Marge is attracted by the new-look Moe?
+
+Benjamin Robinson:
+   ... Snake's "little dude" doesn't mind riding a girls' bike?
+   ... Manjula is among Moe's admirers?
+
+Jeremy Vitrano:
+   ... OFF's smoke detector sounds more like a car alarm?
+   ... Marge leaves the vacuum behind after all?
+   ... the man was asking who was the designated driver was talking to Bart
+       and Lisa?
+   ... Moe listens to the director's conversation with the stethoscope?
+   ... Moe was hired without knowing if he could act?
+
+==============================================================================
+> Voice Credits
+==============================================================================
+- Starring
+   - Dan Castellaneta (Homer, Ben Franklin [?], Michael Finn, Barney, GOP 2,
+        Casting Director [?], Actor)
+   - Julie Kavner (Marge)
+   - Nancy Cartwright (Bart, Little Dude)
+   - Yeardley Smith (Lisa)
+   - Hank Azaria (Chief Wiggum, Designated driver attendant, Announcer, Duff
+        Man, Surgeon, Carl, Moe, Snake, Delivery Boy)
+   - Harry Shearer (Surly, Babe Ruth, Phil Angelides, TD, Narrator)
+
+- Special Guest Voice
+   - Marcia Wallace (Edna Krabappel)
+
+- Also Starring
+   - Pamela Hayden (Milhouse, Titania [?], Pumpkin Dance Woman, Contessa)
+   - Tress MacNeille (Tipsy-Wheel Woman, Nurse, Anesthetist, "Bye bye, Moe",
+        "Don't be a stranger", Producer, Cleo)
+   - Karl Wiedergott (GOP 1 [?], GOP 3 [?])
+
+==============================================================================
+> Movie (and other) references
+==============================================================================
+   + "Pygmalion" by George Bernard Shaw (play)
+      - episode title a spoof [See "Comments" section for more -- Ed.]
+      - both revolve around someone being made over to appeal to respectable
+        society  {bjr}
+
+   + "The Lost Weekend" (movie)  {bjr}
+      - this movie (about alcoholism, appropriately enough) referenced in the
+        "Duff Days" banner
+
+   + "Cocktail" (movie)  {jg2}
+      - the Trick Bartending competition is reminiscent of Tom Cruise's moves
+
+   + tough love (phrase)  {bjr}
+      - "Duff love" a spoof
+
+   + delirium tremens (medical disorder)  {bjr}
+      - Duff gives away pink elephant balloons -- seeing pink elephants is
+        often taken as a sign that you've had too much to drink  [Ed Gein
+        adds, "Yes, and the DTs are what happens when a drinker goes without
+        alcohol.  If Duff beer wanted to promote delirium tremens, they'd have
+        given out black spider balloons" -- Ed.]
+
+   + Pres. Kennedy's "Berlin Wall" speech  {bjr}
+      - Duff sticker reading, "Ich Bin Ein Duff" (cf. "Ich Bin Ein Berliner")
+
+   + Mt. Rushmore (national monument)  {bjr}
+      - Moe disparagingly refers to his face as, "Mt. Crapmore"
+
+   + "Politically Incorrect" (TV show)  {jg2}
+      - "That's why they won't let Bill Maher on TV before midnight!"  [The
+        show airs at 12:05am Eastern Standard Time -- Ed.]
+
+   + "Gilligan's Island" (TV show)  {jg2}
+      - "I meant Maryann on Gilligan's Island ugly ..."
+
+   + "Planet of the Apes" (movie)  {jg2}
+      - "... not Cornelius on the Planet of the Apes ugly!"
+
+   + "Days of Our Lives" (TV soap opera)
+      - opening sequence similar to "It Never Ends"
+      - announcer's line similar to "Days'":  "Like sands through the
+        hourglass, so are the days of our lives ..."
+      - soap character wearing an eye patch  {jk}
+
+   - "All My Children" (TV soap opera)
+      - Tad Martin, a hunky, woman-getting character on this series [could be
+        the inspiration for] Dr. Tad Winslow
+
+   + "The Young and the Restless" (yet another TV soap opera)
+      - the faces shown during the opening of "It Never Ends"  {dj}
+      - opening music to soap opera similar  {jk}
+
+   + heartworms (canine disease)  {bjr}
+      - as Homer implies, Moe's description of the acting bug similar to what
+        heartworms do
+
+   - "Hole in my Soul" (song)  {cg}
+      - Moe's line during rehearsal is similar to the title and chorus of this
+        Aerosmith song
+
+   + "Tootsie" (movie)
+      - Moe and Homer trashing the soap opera on live TV reminded me quite a
+        bit of a similar scene in Tootsie, where Dustin Hoffman reveals his
+        "secret" on live TV  {ep}
+      - a staircase in the background is similar  {ep}
+      - "Should I cut him off?" line similar to movie  {cg2}
+
+   ~ "Tiny Toon Adventures" (TV series)  {jpr}
+      - episode is somewhat similar to a Tiny Toons ep where Babs Bunny leaves
+        Acme Acres for a prime-time soap opera, herself getting a new look in
+        the process, like Moe does
+      - Homer's barging in unscripted on a live show similar to Buster Bunny's
+        unscripted arrival to bring Babs back to Acme Acres
+      - like Buster, Homer's unscripted arrival features the spilling of
+        secret information
+      - (All of this MIGHT be a stretch)  [Might?  Oh, well, I thought it was
+        an interesting enough coincidence to include -- Ed.]
+
+==============================================================================
+> Previous episode references
+==============================================================================
+- Past episodes that have a kid who looks just like his or her parent of the same sex  {cj}
+   - [8F05] Itchy & Scratchy
+   - [9F10] Krusty's little boy
+   - [4F04] Kearney's son
+
+- [MG20] Homer sounds a false disaster alarm  {bjr}
+- [8F02] Moe chases someone with a board with a nail at the end  {jg2}
+- [8F08] We see Moe's pillow talk  {cg}
+- [9F11] Robots of drunken historical figures  {jg2}
+- [9F11] Surly, one of the Seven Duffs, seen
+- [9F11] Sleazy appears  {jg2}
+- [2F11] Bart and Lisa (cf. Principal Skinner) try to catch a balloon after it
+         floats away  {jg2}
+- [2F12] Moe (cf. Krusty) has plastic surgery  {jg2}
+- [2F31] Moe acting  {mg}
+- [3F03] Flying pig  {al}
+- [3G02] King Toot's Music Store  {jv}
+- [4F02] Board with a nail  {jv}
+- [4F03] Moe's "acting days" mentioned  {al}
+- [4F15] Bart drunk  {al}
+- [4F19] Pencils have erasers  {cg}
+- [4F19] "That's why pencils have erasers"  {al}
+- [4F22] Duffman appears
+- [4F22] Homer having to piss.  Again and again ...  {jj}
+- [5F01] Homer having to go to the bathroom to pee  {mg}
+- [5F04] Homer impersonates a heavenly being  {jg2}
+- [5F12] Moe calls himself a gargoyle, and refers to his cauliflower ears
+         {cg}
+- [5F23] Hoverbikes appear/mentioned
+- [AABF04] Moe could use a better butt  {dj}
+- [BABF10] Dartmouth College drinking joke  {jv}
+
+==============================================================================
+> Freeze frame fun
+==============================================================================
+- Awards on Lisa's trophy shelf, from left to right  {bjr}
+
+    - apple on pedestal
+    - student at desk, on cup (for attendance; this is the one Lisa
+      saves)
+    - book on pedestal
+    - big pencil standing on end
+    - horse on pedestal
+    - diamond on pencil
+    - graduate in cap and gown
+    - musical note on pedestal
+    - big trophy cup
+
+- Banner at festival  {bjr}
+
+                 Duff DAYS
+    A LOST WEEKEND FOR THE WHOLE FAMILY!
+
+- Sign on the designated drivers' cage  {bjr}
+
+    DUFF DESIGNATED DRIVERS'
+        ROCKIN' FUN ZONE
+
+- At the animatronic exhibit  {bjr}
+
+       THE
+    ALCO-HALL
+     OF FAME
+
+- Gyro wheel sign  {bjr}
+
+    THE TIPSY-WHEEL
+
+- Contest sign  {bjr}
+
+    BEER-TENDER CONTEST
+
+- Contest "round cards"  {bjr}
+
+     TRICK    DRUNK
+    POURING   TOSS
+
+- Duff stickers  {bjr}
+
+    DRINK   DUFF     VIVA
+    Duff    ENUFF   LA DUFF
+
+    KISS               I'MO
+     ME    Ich Bin     DUFF
+    I'M    Ein Duff   YOU UP!
+    DUFF
+
+- Cosmetic surgeon's door sign  {bjr}
+
+      COSMETIC
+       SURGERY
+        GROUP
+
+     "WE'LL CUT
+    YOU UP GOOD!"
+
+- Anesthetic machine  {bjr}
+
+    NEW CAR SMELL / ANESTHETIC
+              [dial]
+
+    [The actual label was in a semicircle above the dial.]
+
+- Something to shoot for  {bjr}
+
+    A GAY PRESIDENT IN 2084
+
+- Marge's soap notes  {bjr}
+
+    Sexy Results   [in cursive]
+    ------------
+    ------------
+
+==============================================================================
+> Animation, continuity, and other goofs
+==============================================================================
+c  When Lisa says, "trophies, trophies," the closed captioning reads,
+   "panicked gasping."  {bjr}
+
+=  The family managed to change from their pajamas to their street clothes en
+   route to the festival.
+
+*  Once the car stopped, the kids could open the rear doors even without the
+   door handles.  {bjr}
+
+*  What happens to the pets in the car?  {jp}
+
+-  Actually, I think the "Fun Zone" used plain barbed wire, rather than razor
+   wire.  {bjr}
+
++  Bart already knows what it's like to get drunk from [4F15].  {cg}
+
+c  When Lenny says, "that's my moo," the CC reads, "that's my Moe."  {bjr}
+
+=  Kirk Van Houten found in audience during the beer tending competition, and
+   also in the Rockin' Fun Zone as well.  {af}
+
+*  Lenny reads Moe's liquor license upside-down.  {jv}
+
+c  When Carl says, "lazy bald and fat," the CC reads, "lazy reckless and fat."
+   {bjr}
+
+=  While the plastic surgeon is drawing on Moe's face, you can't see the
+   marker on his profile at first.  In the next profile shot, it magically
+   appears.  {jv}
+
++  Moe has significantly less armpit hair than he did in [8F08].  {cg}
+
++  The sign outside the hospital said "Springfield General Hospital", but
+   above the entrance it says "Springfield Hospital."  {ddg}
+
+*  How could Duffman talk with the sticker on his face if he couldn't breathe?
+   {jg2}
+
+*  The balloon should not have gone through the chimney, then lowered back
+   down to where Bart and Lisa could reach it, then back up to the upper
+   floors of a tall building.  {ddg}
+
+c  Here's a nit-picky one:  When Homer says, "guy who never picks our
+   numbers," the closed captioning reads, "*that* never picks ..."  [Emphasis
+   the author's -- Ed.]  {bjr}
+
+*  What if a women has to go to the bathroom?  The bathroom may still be the
+   place where Moe's wrestling office is.  {mg}
+
+*  The book Moe got was plot ideas, not scripts, so why would they have pink
+   "dream sequence" pages in them?  {ddg}
+
+*  These days, soap operas are never done live anymore.  Thus, the writers
+   could have cut Homer's angel bit from the program and explain that Moe's
+   death was really a dream.  [See "Comments" section for more -- Ed.]  {cg}
+
+*  On every video switcher I've ever seen, the lever to fade to black (i.e.
+   take the program off the air and show nothing) is on the right, not the
+   left.  {cg}
+
+=  The lever is gone in the second shot of the control room, when the
+   executive tells the technical director to cut Homer off.  {cg}
+
+*  The TD wouldn't push a button to kill the show, he'd pull a lever.  [See
+   "Comments" section for more -- Ed.]  {cg}
+
+=  The set piece that falls on Moe has double doors on one side, but a single
+   door on the other.
+
+*  That flat [backdrop] would have and should have broken if it was simply
+   screwed or nailed into the floor, or it should have had jacks on the back
+   of it to keep it balanced.  {tm}
+
+   Flats don't weigh that much.  {tm}
+
+   There's enough wind resistance to keep it from falling so fast.  {tm}
+
+   Moe would have more likely choked because the top rail (the top part of the
+   flat) landed on his throat.  {tm}
+
+==============================================================================
+> Reviews
+==============================================================================
+Nate Birch:  This episode started out fairly decently (even if we've seen the
+   exact same thing happen before) with some good gags and a decent plot,
+   right up to when Moe's new face was revealed.  From here I was expected
+   some hilarious stuff about Moe dating, and all the funny stuff related to
+   that, but instead we get a jumbled up, predictable, and not very funny
+   second half to the show.  Usually I'd give a show like this at least a B,
+   but what the hell was up with the Lisa and Bart subplot?  Why in God's name
+   would they care if a balloon flew away, in previous episodes Bart didn't
+   notice when Maggie made off with the car!  And the payoff is some joke
+   about a gay president in 2084?  Huh?  All in all a pretty dull episode.
+   (C)
+
+Nathan DeHoff:  It was kind of random, but I still liked it.  It wasn't very
+   deep or developed, with the show pretty much just moving from one joke to
+   another, but at least the jokes were funny.  There were plenty of great
+   scenes and lines (the bartender competition bit, the soap opera spoof, and
+   Carl revealing why he doesn't talk much, for instance).  Perhaps it could
+   have used a more developed plot, and I think they introduced the makeover
+   so late into the episode that they didn't have a chance to do anything but
+   a few random gags with it.  Still, it kept up a good, humourous pace, and
+   there's a lot to be said for that.  (B)
+
+Curtis Gibby:  A little extreme wackiness, like in last week's [BABF11], is
+   occasionally a good thing.  But it's always good to come back to a solid
+   plot-line with good quasi-reality-based humor.  I saw this solid
+   performance in "Pygmoelian," and it made me happy.  There were several
+   laugh-out-loud moments, such as the return of Duff Man and Moe's liquor
+   license.  However, I do have one complaint.  Where did the balloon subplot
+   go?  I would've liked to have seen the balloon show up in the later scenes
+   back at home.  Anyway, keep 'em coming.  Season 11's turning out all right!
+   (A-)
+
+Joe Green:  Ehhh ... Not an out-and-out BAD episode, but just sort of bland.
+   The story didn't really go anywhere, not to mention the gratuitous subplot
+   and deus ex machina ending.  (C-)
+
+Carl Johnson:  It's either a good episode or a strange writing staff, or both,
+   when the only major flaw a production holds is Homer J. Simpson.  BABF12 is
+   the best of the season-- not so perfect as to be considered classic-- but a
+   fine piece of entertainment.  It would be just mean of me to nit-pick about
+   the third act, to say that the joke revolving about Moe replacing the other
+   eye patch guy was too much of an in-joke to be worthwhile, that the show is
+   trying too hard to please its implacable hard-core fan base.  So I won't.
+   Because for once this hard-core fan WAS pleased, and, being a
+   self-righteous little bugger, that's all that matters to me.  (A-)
+
+Darrel Jones:  Like Moe himself once said, "It's not without its charm."  The
+   Beer-Tender bit was interesting, and I liked how the new Moe looked (any
+   resemblance to Hank Azaria?  I'm curious).  [No physical resemblance,
+   really -- Ed.]  But it went downhill after Moe started seeking revenge.
+   The soap opera was fun, but the "angel" part was overdone.  The balloon
+   subplot should have been excised.  But the ending was cute.  (B-)
+
+Andrew Levine:  This episode had less to hate about it than most from 1997 on;
+   cartoonishness is kept to Season 5 levels, and steps out of the spotlight a
+   little to let a supporting character carry the superplot.  My only real
+   gripe is that it didn't make sense for Homer to drag his whole family to
+   the beer festival, when he could probably have had a better time on his own
+   (and we would have been spared some onerous, unfunny scenes).  That said,
+   the episode doesn't have a good deal of positive things going for it
+   either.  The subplot made me smile, but it was resolved too quickly; I
+   would have had Maggie go after the elephant on her own and done a full
+   parody of "La Ballon Rouge."  In short, this is one of those episodes, like
+   "Marge Gets a Job" or "This Little Wiggy," which didn't strike me as
+   remarkably good or bad, and probably won't adhere well to my memory.  (B-)
+
+Adam Long:  Larry Doyle maintains his status as one of the best writers on the
+   staff with another great episode.  "Pygmoelian" had many elements of humor
+   to remind me how much I miss the Season 6-8 episodes, such as Duff Days,
+   the bandage-removing gag, the whole "It Never Ends" bit and many more which
+   I can't think of right now.  Most all of the gags worked, and I loved the
+   ending.  The subplot was nice but a bit short.  Nevertheless, great show!
+   (A-)
+
+Michael Nusair:  A pretty average episode.  It was good in that it avoided
+   over-the-top wackiness, and it had pretty good characterization.  It was
+   definitely enjoyable, especially for this season, but something just seemed
+   to be ... Lacking.  I dunno.  I can't really put my finger on it.  There
+   were a few funny parts, and the revelation of Carl's full name was nice
+   (Carl Carlson).  Now if we could just get Lenny's full name ...  Anyway,
+   overall:  A good episode, just not a great one.  (B)
+
+James Reisdorf:  A less than stellar episode in my book.  Moe getting a face
+   lift was a cool idea, but the script was as poorly written as the ones on
+   "It Never Ends".  It kinda bugged me at the end why we don't know how Moe's
+   face went back to normal.  We can just speculate.  (D+)
+
+Jeremy Vitrano:  There were a lot of good gags that made me laugh out loud.
+   In my opinion, this is one of the best this season.  Moe getting a
+   storyline was great.  The ending left something to be desired, and that
+   whole balloon thing seemed like only an excuse for the gay-Republican joke.
+   All in all, very enjoyable.  (A-)
+
+Yours Truly:  An interesting mix of old- and new-style "Simpsons."  Most of
+   the show was from modern, anything-goes mold, where the story is there to
+   serve as a framework for jokes satirizing the liquor industry, soap operas,
+   and our obsession with surface appearances.  Once it got to the bar-tending
+   contest, it was handled well.  However, a tiny subplot featuring the kids
+   and a pink elephant balloon was a highlight.  It had slice-of-life quality
+   to it that was a trademark of "The Simpsons'" earlier seasons.  I'm an
+   old-schooler, so I might be a little biased on the matter, but I think it's
+   telling when the best part of a new episode is the part that reminds me
+   most of an old episode.  (B-)
+
+AVERAGE GRADE:  B (2.94)   Std Dev.: 0.6691   (19 reviews computed)
+
+==============================================================================
+> Comments and other observations
+==============================================================================
+>> Meta-reference corner
+
+Benjamin Robinson:  After his botched attempt at comforting his friends, Carl,
+   a background character who doesn't get that many lines, turns to the camera
+   and this is why he doesn't talk much.
+
+   Moe explains the implausibility of the ending, so we don't have to.
+
+   As Moe explains, he gets cut off by the credits, as if the producers of the
+   show wanted to shut him up.
+
+
+>> Musical References
+
+Darrel Jones:  "Hippy Hippy Shake" by Swingin' Blue Jeans (1964) is played
+   during the Beer-Tender contest.
+
+
+>> Oh, so that's where it comes from
+
+Joe Green:  It should be noted that Shaw's "Pygmalion" took its title from a
+   Greek myth.  In the myth, Pygmalion was a sculptor who didn't think any
+   woman was good enough for him, and created a female statue named Galatea
+   that was so perfect that he fell in love with it.  The love goddess
+   Aphrodite subsequently rewarded Pygmalion by turning Galatea into a real
+   woman.  A longer and more detailed retelling of this story can be found at
+   <http://www.loggia.com/myth/galatea.html>.
+
+
+>> Found:  A practical use for 8-track players
+
+Courtesy R. Schram:  You can play cassettes in 8-track players, by inserting
+   them "lengthwise and tape-side first"; an old trick -- The animators DO
+   care about the little details!  (Of course, it would have been more
+   authentic had we seen Homer shaving off some of the excess plastic case on
+   the cassette so that the tape would fit better in the 8-track.
+
+
+>> Great Drinkers in American History
+
+Benjamin Robinson describes them:  Ulysses S. Grant:  American general for the
+   North during the Civil War, and later President of the United States.  He
+   was rumored to be a two-fisted drinker, but this reputation may have been
+   exaggerated by his critics.
+
+   Babe Ruth:  The Sultan of Swat, Ruth held the record for most home runs in
+   a career, until Hank Aaron beat the mark in the mid-70s.  Had there been
+   records for carousing, Ruth might have held them, as well.
+
+   Benjamin Franklin:  Statesman, founding father, inventor, publisher, and
+   all-around Renaissance man, even though the Renaissance was over when he
+   appeared on the scene.  Alas, he sometimes had a problem holding onto his
+   liquor, especially in his later years.
+
+
+>> Art Imitates Life Dept.
+
+Kudos to Hari Wierny for forwarding this article:  Official Savors Simpsons
+   Role
+
+   February 29th, 2000 -- Sacramento Bee
+
+   "The Simpsons" cartoon show has waded into California politics.  The latest
+   episode featured a bar-tending contest with the winner getting his photo on
+   a beer calendar.  A photographer stepped forward to snap the winner's
+   picture -- a photographer identified as, "Phil Angelides, Duff Beer vice
+   president for calendars and fake ID's."
+
+   The character looked only a little like the state treasurer and Sacramento
+   developer by the same name.  "Nobody looks good on 'The Simpsons,' but I'll
+   take it as an endorsement," Angelides said.  "If I ever run for office
+   again, I'll say I'm the vice president for calendars and fake IDs.  That
+   should be worth some votes."  The mention was more than a coincidence.
+   Angelides said "Simpsons" creator Matt Groening is a friend.  Good thing
+   he's not a relative ...
+
+
+>> "Let's see how you like a sticker on *your* face!"
+
+"Censoring" by sticker has been done before, as Joe Klemm notes:  In some
+   printed materials, there may be something that could be inappropriate to
+   some people.  Thus, some companies may put a sticker over the product.
+   That way, the dirty part can be censored, unless the reader decides to pull
+   the sticker off.  One example of this type of censorship appears in an
+   "Outland" comic-strip collection book, in which the cover features a
+   sticker covering a kid mooning Opus, the penguin in "Outland"/"Bloom
+   County."
+
+
+>> At least it will give archaeologists something to find.
+
+Benjamin Robinson:  Lisa isn't exaggerating when she says Maggie's balloon
+   will be around for 10,000 years.  According to environmentalists, modern
+   man-made materials don't naturally decompose and return to the environment
+   the way wood, cloth, and some metals do.  The result is litter that hangs
+   around for generation after generation until someone cleans it up.  I don't
+   know about balloons specifically, but one statistic that I remember
+   predicts cigarette butts discarded today will remain more or less intact
+   for nine centuries.
+
+
+>> "We're here!  We're queer!  We don't want any more Democrats!"
+
+Darrel Jones:  The Log Cabin Republicans is, basically, a group of homosexual
+   members of the US's Republican party.  Any out-of-the-closet gay man in the
+   US, even if they generally agree with them on the issues, would have a hard
+   time being a Republican because their leaders promote "family values" and
+   other things considered offensive to gays.  Nevertheless, a Log Cabin
+   Republican currently serves in the US House of Representatives: Arizona
+   Congressman Jim Kolbe.  BTW, their candor about "Elect a Gay President in
+   2084" is atypical of homosexual activists; like many other political
+   organizations considered on the "fringe" of society, they're usually a lot
+   bolder in public.
+
+
+>> Ever Been To White Castle?
+
+Jeremy Vitrano:  White Castles aren't located everywhere, so allow me to
+   explain. It is a fast food joint, shaped like a, um ... white castle, that
+   sells hamburgers, but the hamburgers are very thin and very tiny -- almost
+   bite-sized --and cooked on a steamer.  White Castles are also called
+   Sliders, because they go in one end and come right out the other.  :)
+
+
+>> Up late with the ugly people
+
+James Reisdorf writes:  Bill Maher is a political comedian who gained fame as
+   a stand up act, and is currently the host of ABC's (formerly Comedy
+   Central's) "Politically Incorrect", a semi-satirical "talk show" where a
+   panelist of 4 famous people (from newsanchors to singers, political writers
+   to actors) talk about current issues, mostly in a humourous fashion.  It
+   shows at 12:05 AM in most areas, making Homer partially right about him not
+   being allowed on before midnight.  However, in the Central Time Zone, it
+   shows at 11:05 PM.  (Does this mean Springfield isn't in Missouri?)  Plus,
+   it showed at 11 PM when it was on Comedy Central.
+
+
+>> Fade to black
+
+Curtis Gibby explains video switcher operation:  The TD wouldn't push a button
+   to kill the show, he'd pull a lever. Even if he did push a button (which
+   would defy most television control room conventions, but is still
+   possible), it wouldn't have looked like that one, it would have been in a
+   long row of buttons.  (Aren't you all glad that I'm taking the broadcast
+   journalism class that deals with this kind of thing this semester?)
+
+
+Brad Dancer:  You can do either on most switchers -- in fact, every one I've
+   seen in any TV studio -- its either button or lever and it can be placed by
+   itself so its not easily hit by accident.
+
+
+Curtis Gibby answers:  That's what I was saying in my first point, that the
+   lever is usually placed on the right side of the panel, away from
+   everything else.  But if you wanted, you could just punch up black in your
+   program bus. However, most TDs wouldn't do this, for form's sake.
+
+
+>> Live from Springfield ...
+
+Someone (and my records don't indicate who) wondered about the live broadcast
+   of "It Never Ends," since most dramas airing nowadays are taped in advance.
+
+
+Jimmy Jay answers:  Did you see "Mommy Dearest"?  It was broadcast live there
+   too.  Soap Operas are notorious for being broadcast live.
+
+
+"Scan" adds:  Occasionally, a soap opera will have to tape live or some parts
+   of an episode live because of deadline problems.  Which means that
+   Springfield not located in the Pacific Time Zone.
+
+
+>> It Was All A Dream ...
+
+Wilson Banswell:  Deaths occur often on TV, and a lot of it, especially on
+   Soap Operas, turns out to be a dream, the most famous example would be
+   "Dallas" On day time soaps deaths, and the such turn out to be dreams,
+   comas, whatever, as referenced tonight.
+
+
+Jerry P wonders:  Going along with the replacement actor metaphor, was Marcia
+   Mitzman-Gaven upset about Maude being killed off?  Was Maude originally
+   only going to die in a dream?
+
+
+>> Miscellaneous, Etc.
+
+The Nathan DeHoff (!) alterna-title for this show is:  Amoerican Beauty
+
+
+Don Del Grande:  Springfield Is In: ... not Rhode Island
+
+
+John Jensen:  Fugly = [Fudging] Ugly
+
+
+Michael Nusair, on Carl's "breaking the fourth wall":  Coming next week from
+   Fox:  "Carl in the Middle!"
+
+
+Benjamin Robinson contributes these next two items:  Faye Dunaway is a
+   respected actress.
+
+
+==============================================================================
+> Quotes and Scene Summary  {bjr}
+==============================================================================
+% The shrill call of the fire alarm breaks the stillness of the night. 
+% Lisa bolts out of bed, scoops up her saxophone and Snowball II, and
+% hurriedly decides which of her trophies to save.  She picks out her
+% attendance award and joins Bart, who is carrying Santa's Little
+% Helper, and Marge, who holds Maggie and a vacuum cleaner, in the
+% hallway.  Homer hustles everyone into the car and drives away from
+% the house.
+
+Homer:	Good work, everyone.  We're sure to be first in line for 
+	"Duff Days."
+Marge:	You set off the smoke alarm to rush us to a beer festival?
+Homer:	[chuckles] I know.  I'm a character.  Now a little beer 
+	music to get in the mood.  [inserts a tape in the car's 
+	cassette deck, which plays traditional German beer-hall 
+	music]
+	[Bart and Lisa desperately claw at the doors, but the 
+	handles have been removed]
+	[dangling the handles from his finger]  Looking for these?
+-- German fire drill, "Pygmoelian"
+
+% The Simpsons arrive at the Duff Days site.  Homer switches off the
+% beer music, to the kids' relief.  As soon as they step out of the
+% car, though, a live band plays exactly the same tune.
+%
+% Near the entrance, a man is dressed as Surly, one of the Seven 
+% Duffs.
+
+[loudly] Drink Duff!  [under breath] Responsibly.
+[loudly] Drink Duff!  [under breath] Responsibly.
+-- Duff spokes-character Surly, "Pygmoelian"
+
+% Marge volunteers herself to be the designated driver.  For her
+% trouble, she gets sent to the "Duff Designated Drivers' Rockin' Fun
+% Zone."  It's not as much fun as it sounds, unless being put in a box
+% surrounded by razor wire is your idea of a good time.
+%
+% Lisa admires the Alco-Hall of Fame, featuring animatronic robots of
+% Ulysses S. Grant, Babe Ruth, and Benjamin Franklin.  The later two
+% get into a drunken shouting match.  Elsewhere, Bart discovers what
+% it's like to be drunk.  Evidently, it's like being strapped to a
+% giant gyroscope and spun silly.  After the ride, Bart staggers off
+% to join his friend Milhouse, who's similarly "wasted."
+%
+% The highlight of the day is a contest to find the best bartender.
+
+Announcer:	All right, Springfield!  Belly up for the Duff beer-
+		tender of the year contest!  [crowd cheers] Now, 
+		fresh from his appearance before the House 
+		subcommittee on teenage alcoholism, Duff Man!  
+		[Mello Yello's "Oh, Yeah" begins to play]
+Duff Man:	Are you ready for some Duff love?
+		[crowd cheers] All right, today we're going to find 
+		out which of these bartenders has the right stuff to 
+		dispense Duff.  From the Green Potato Pub at O'Hare 
+		International Airport -- Michael Finn!  [crowd 
+		cheers]
+		From Juggernauts in Hollywood, California -- 
+		Titania.  [the first syllable is pronounced to rhyme 
+		with "sit."  The crowd lustily cheers the well-
+		endowed woman]
+		[cut to a shot of Moe preening his hair backstage]
+		And now, the local mug who fills your mug with the 
+		drug you chug, oh, yeah -- give it up for Moe 
+		Szyslak!
+		[Moe runs out onstage]
+Moe:		Hello, Springfield!  How you --
+		[interrupted when Titania splashes some beer on her 
+		chest, wet T-shirt style, drawing massive crowd 
+		response]
+-- "Pygmoelian"
+
+% The first round is trick pouring, which incidentally qualifies for
+% course credit at Dartmouth.  As "Hippy Hippy Shakes" plays, Finn
+% uses a cleaver to split a mug of that wonderful Duff in two.  The
+% halves of the can fall aside, leaving the beer standing in place. 
+% Before it can spill, he scoops it up in a mug.  Titania pours two
+% mugs from two taps, while letting her natural assets bounce up and
+% down.  The beer overflows the mugs.  Moe quickly pours mug after
+% mug, arranging them to spell "Duff" in big letters on the bar. 
+% Titania takes the round, and Moe looks disappointed.
+%
+% Round Two:  A Duff quiz.
+
+Duff Man:	Duff beer is brewed from hops, barley, and sparkling 
+		clear mountain ... what?
+Titania:	[rings bell] Goat.
+Duff Man:	Eh, close enough!  [crowd cheers]
+		[cut to Homer, drinking beer]
+Homer:		Ah.  You can really taste the goat.
+-- "Pygmoelian"
+
+% Round Three.  Duff Man announces it makes up 98% of the score,
+% "making the previous rounds a complete waste."  He also reminds the
+% audience that the winner of the competition will be featured on the
+% new Duff calendar.
+%
+% Cut to the audience, where Homer, Carl, and Lenny sit next to each
+% other.
+
+Homer:	All right, guys -- one, two, three, ...
+	[they lift up their shirts.  A letter is painted on each 
+	of their chests spelling M ... O ... O?]
+	"Moo?"  Lenny, you were supposed to be "E".
+Carl:	See what happens when you skip rehearsal?
+-- "Pygmoelian"
+
+% Round Three is the Drunk Toss.  Michael Finn tosses one of the usual
+% patrons from Moe's Tavern into a sand pit, like at a track meet. 
+% Titania's up next, but she meets her Waterloo in this round.
+
+Titania:	Ew.  You said if I slept with you I wouldn't have to 
+		touch the drunk.
+Duff Man:	Duff Man says a lot of things.  Oh, yeah!
+		[Titania walks out in a huff]
+-- If you can't trust Duff Man, who can you trust?  "Pygmoelian"
+
+% Moe now has a shot at winning, but first he must toss Barney.  It's
+% an uphill battle, since Moe can't even pick up Barney, let alone
+% throw him any distance.  He falls back to plan "B":  brandishing a
+% board with a nail in it, he chases Barney, who jumps into the sand
+% pit to escape.  He lands a bit short of the first drunk, and it
+% looks like Finn will win by a nose, but then Barney's tongue unfurls
+% from his mouth.  It stretches a little past the first drunk's
+% landing spot, and Moe wins by a tongue.
+
+Duff Man:	And the winner:  Moe Szyslak!
+Moe:		Aw, that's great; thank you, thanks a lot.  Uh, I
+		just want to say that it was an honor for me to 
+		compete against the Mick and the, uh, the chick with 
+		the rack there.
+-- Moe Szyslak, goodwill ambassador, "Pygmoelian"
+
+% The barflies cheer Moe from the stands.  Lenny shouts, "That's my
+% Moo!"
+
+Duff Man:	And now, to take your official calendar portrait, 
+		Duff's Vice President in charge of calendars and 
+		fake IDs, Phil Angelides.
+		[Phil takes the picture with a Polaroid (TM) camera.  
+		An unflattering shot of Moe develops]
+		Oh, that's a mug you don't want to chug.
+Phil:		Knock it off, Larry, we can't put this face on our 
+		calendar.
+		[Moe looks at Phil and gives the thumbs-up sign.  He 
+		doesn't look any more handsome in real life]
+-- Should have gone with dogs playing poker, instead, "Pygmoelian"
+
+% Homer and the kids spring Marge from the Rockin' Fun Zone, and they
+% walk back to the car.  On the way out, they pass one of the Seven
+% Duffs, who is handing out pink elephant balloons.
+
+Marge:	Kids, would you like a balloon?
+Bart:	[sarcastic] Yeah, right, Mom.  Then I'd like a rattle and 
+	a wowwypop.  Actually, I would like a wowwypop.
+Lisa:	Those balloons won't biodegrade for ten thousand years.  
+	And if Bart gets a wowwypop, I want a wowwypop.
+	[Maggie takes one of the balloons]
+Homer:	Aw, Maggie wants a balloon.  And Daddy will take a hand 
+	stamp so he can get back in.
+Marge:	[threatening grumble]
+Homer:	Just kidding.  [they walk out.  Homer slyly turns around]  
+	Remember my face.
+-- Can't get enough ... "Pygmoelian"
+
+% Some time later, Moe paces nervously at the bar, waiting for the
+% calendars to arrive.  Homer shows up, waving some envelopes.
+
+Homer:	Moe!  The new Duff calendars are out!  The ones with your 
+	picture.
+Moe:	Oh, boy!  Move over, liquor license.  [takes a framed 
+	license down from the wall]
+Lenny:	[reading license] Hey Moe, this license expired in 1973, 
+	and it's only good in Rhode Island ... and it's signed by 
+	you.
+Moe:	Yeah, yeah, I've been meaning to get that updated, uh, for 
+	this state and, real.
+-- Damn paperwork, "Pygmoelian"
+
+% "Now," Moe says, "let's see the poster boy for the new Moe-lennium,"
+% tears the wrapping off the calendar, and is surprised to see a
+% sticker covering his face.  No, make that two stickers.  Or is that
+% three?  How about six?  Finally, he peels off the last sticker and
+% exposes his picture-imperfect face.
+
+Moe:	[gasps] Am I really that ugly?
+Carl:	Moe, it's all relative.  Is Lenny really that dumb?  
+	[Lenny looks grief-stricken] Is Barney that drunk?  
+	[Barney is saddened] Is Homer really that lazy, bald, and 
+	fat?  [Homer also looks stricken]
+Moe:	Oh, my God, it's worse than I thought!  [Moe and all the 
+	bar patrons except Carl literally cry in their beers]
+Carl:	[to the camera] See, this is why I don't talk much.
+-- "Pygmoelian"
+
+% [End of Act One.  Time:  7:11]
+%
+% The guys try to console Moe by pointing out he's not as ugly as the
+% people at White Castle.
+
+Moe:	Aw, c'mon, look at me, I'm a gargoyle.  What with the 
+	cauliflower ear there, and the lizard lips ...
+Carl:	... little rat eyes ...
+Homer:	... caveman brow ...
+Lenny:	... don't forget that fish mouth.
+Moe:	Okay, I get it.  I ain't pleasant to look at.
+Lenny:	Or listen to.
+Carl:	Or be with.
+-- Moe's comforters, "Pygmoelian"
+
+% Lenny offers something more constructive.
+
+Lenny:	Hey, Moe, if you're tired of being an eyesore, why not get 
+	some plastic surgery?
+Moe:	Plastic surgery, eh?  Maybe they could dynamite Mount 
+	Crapmore here [indicates his face] and carve me a new 
+	kisser.
+Carl:	Oh, I don't know.  Plastic surgery might make you look 
+	good on the outside, but you still might feel bad in the 
+	inside.
+Moe:	But I'd look good on the outside, right?
+Carl:	Yeah, but you'd feel bad inside.
+Moe:	Plastic surgery it is!  Carl Carlson, you just saved my 
+	life.
+	[the cash register rings, and the camera angle shifts to 
+	let us see that Homer is raiding the till]
+	Hey!  Get outta there.
+-- "Pygmoelian"
+
+% Back home, Maggie plays with her new balloon.  Bart and Lisa go from
+% being slightly condescending towards Maggie's entrancement to being
+% entranced themselves.  Bart and Lisa both try to grab the balloon at
+% once, but in the ensuing struggle, it gets away and heads for the
+% front door.  Bart closes the door in time, but the balloon floats up
+% the chimney and off into the distance.  Maggie sees her rubber
+% friend going bye-bye, and cries.
+
+Bart:	Okay, don't panic.  I'll get the bikes.
+Lisa:	[facetious] I hope they're hoverbikes.
+Bart:	Oh, man, that would be so awesome.
+Lisa:	[groans]
+-- "Pygmoelian"
+
+% Moe gets his pre-operation evaluation from the cosmetic surgeon.  He
+% stands, in his underwear, on a stool as the doctor gives him the
+% look-see.  He examines Moe's face, and renders his verdict by
+% mimicking a bomb dropping.
+
+Moe:		It's hopeless, ain't it?
+Surgeon:	No, no, no; I love a challenge.  First, we must 
+		install buttocks ...
+Moe:		Nah, nah, nah -- no luxury items.  Just the face.
+Surgeon:	[drawing on Moe's face with a marker] Okay, I'm 
+		going to move this up, this wider.  Gonna lose that 
+		... I've never even seen one of these.
+		[cut to show Moe's face, all marked up]
+Moe:		Can the medical mumbo-jumbo.  Can you fix me or not?
+Surgeon:	Well, we'll see.  You know, most faces need a little 
+		remodeling, but this is a total tear-down.  Let me 
+		clean up this mess I made.  [sprays some blue liquid 
+		on Moe's face, and wipes the markings up with a 
+		cloth]
+Moe:		Hey, hey!  That really burns, there!
+Surgeon:	Oh, stop it.  You're worse then Faye Dunaway.
+-- "Pygmoelian"
+
+% Bart and Lisa give chase to Maggie's balloon.  Lisa rides her bike,
+% carrying Bart on her shoulders.  Bart tries to capture the balloon
+% with a butterfly net, but it floats just out of reach.
+
+Bart:	Gotta get closer.
+Lisa:	Ugh, I'm trying.  Can't I get on your shoulders?
+Bart:	I'm not riding a girls' bike.  Hey, it's getting away!  
+	Step on it!  [kicks Lisa, like a cowboy spurring a horse] 
+	Yah!  Yah!
+Lisa:	Stop kicking me!
+Bart:	Yah!
+-- Now you know how Trigger felt, "Pygmoelian"
+
+% Moe's operation gets under way, once the anesthesiologist switches
+% her machine from "New Car Smell" to "Anesthetic."
+%
+% Meanwhile, the balloon floats into the top floor of a tall building. 
+% Lisa pulls up in front, and she and Bart run inside.  Seconds later,
+% Snake's son (who bears a striking resemblance to his old man) steals
+% it.  Tears well up in Snake's eyes, as he takes pride in his son's
+% first theft.
+%
+% Inside the building, a group of suit-wearing men hold a meeting.
+
+GOP 1:	We need a symbol.  Something that says we're gay *and* 
+	Republican.
+	[Maggie's pink elephant balloon floats in through an open 
+	window]
+GOP 2:	A little on the nose, don't you think?
+	[Lisa and Bart come into the room]
+Lisa:	Excuse me, we just came to get our balloon.
+GOP 1:	Here you go.  [hands her the balloon] And, have a bumper 
+	sticker.  [gives her one of those, too]
+Lisa:	Thank you.  [reading] "A gay President in 2084"?
+GOP 3:	We're realistic.
+-- "Pygmoelian"
+
+% The surgery (and presumably the recuperation period) is complete. 
+% Homer watches as the surgeon removes the bandages from the head of
+% his patient, revealing ... a beautiful woman.  Moe is the *other*
+% patient.  The doctor slowly unwinds his bandages.
+
+Surgeon:	Well Moe, now we see if you go on my wall of fame, 
+		or my blooper reel.  [The bandages come off, and the 
+		camera cuts to show Moe from behind.  Homer and the 
+		surgeon gasp]
+Moe:		What, I'm a monster, right?  I knew it.  I guess 
+		I'll just crawl back to live in the sewer, 
+		periodically emerging to sue you.  [points at the 
+		surgeon]
+		[the surgeon hands Moe a mirror, showing him and he 
+		audience that he's now very handsome]
+		[gasps] Is that me?  [sheds a tear]
+Surgeon:	Oopsie, we got some leakage.  Let me just cauterize 
+		that for you.  [holds what looks like a soldering 
+		iron to Moe's face]
+Moe:		[in pain, as we hear a sizzling sound] Oh!  Ah!
+-- Looks like we're headed to the wall of fame, "Pygmoelian"
+
+% The doctor's pretty nurses say goodbye.  Moe still can't believe his
+% good fortune, and figures that he died during the operation and went
+% to Heaven.  Homer says that Moe *did* die, but only for a minute. 
+% Now, Moe can start his new life.
+
+A new life!  A second chance ... for revenge!
+-- Moe, "Pygmoelian"
+
+% Duff Man waters his lawn.
+
+Duff Man:	That brown patch needs a little H20.  Oh, yeah!
+		[Moe and Homer drive up.  Moe hops out of the car]
+Moe:		Hey, Duff Man, let's see how you like a sticker on 
+		*your* face!  Yeah.  [slaps one on him and gets back 
+		into the car.  Homer and Moe speed off]
+Duff Man:	[collapses] Duff Man -- can't breathe!  Oh, no!  
+		Oooh!
+-- "Pygmoelian"
+
+% Next, Moe tries to get back at the woman who turned him down for the
+% Springtime Pumpkin Dance at his high school.  When he identifies
+% himself, she apologizes, which was the one thing Moe didn't
+% anticipate.  While he tries to puzzle out his next move, Homer
+% heaves a rock through her window.  Homer and Moe haul butt out of
+% there.
+%
+% The last stop is the studios of Channel Six.  Homer surmises that
+% they are here to wreak revenge on the Lotto guy, who never picks
+% their numbers.  Moe has a more personal motive.
+
+		[the scene flashes back to many years ago.  Moe has 
+		his old face, an afro-like hairstyle and big 
+		sideburns]
+Moe:		It all goes back to my acting days.  I was 
+		auditioning for the role of Dr. Tad Winslow on the 
+		hit soap, "It Never Ends."
+		[reading from a script] Angela, I'm afraid I --
+Producer:	[interrupting] Thank you; next!
+		[dejected, Moe leaves]
+		[to Casting producer] What were you thinking?
+Casting:	Well, you said you wanted gritty.  In other words, 
+		ugly.
+Producer:	I wanted Mary Ann on "Gilligan's Island" ugly, not 
+		Cornelius on "Planet of the Apes" ugly.  TV-ugly, 
+		not ... ugly-ugly.
+		[Moe is behind one of the sets, eavesdropping with a 
+		stethoscope.  Naturally, he is shattered by what he 
+		hears]
+		[flash back to the present]
+Moe:		I've been called ugly, pug-ugly, fugly, pug-fugly, 
+		but never ugly-ugly.
+Homer:		Well, it's time to get some closure ... extreme 
+		closure.
+-- "Pygmoelian"
+
+% On the set, the producer -- the same woman who turned down Moe in
+% his pug-fugly days -- argues with the actor playing Tad Winslow.
+
+Actor:		But I've been playing Dr. Tad Winslow for twenty-
+		five years!  It's time I got a raise.
+Producer:	Oh, shut up you windy old hack.
+Actor:		And another thing, you have to stop calling me that.
+Moe:		[walks up] Remember me?  Twenty-five years ago, you 
+		said I was too ugly to play Dr. Tad Winslow.
+Producer:	I did?  Well, that's why pencils have erasers, hon.  
+		You're our new Dr. Tad Winslow.
+Moe:		Really?  You mean it?
+Actor:		But there can't be two Dr. Tad Winslows, that's 
+		going to ... [realizes] Oh.  [takes off his eye-
+		patch, hands it to Moe, and walks off the set]
+-- "Pygmoelian"
+
+% This is the moment for which Moe has been waiting all his life. 
+% Suddenly, Homer walks by, pouring gasoline on the set and giggling. 
+% Moe stops him, telling him there's been a change of plans. 
+% Disappointed, Homer drops the can and stalks off.
+%
+% [End of Act Two.  Time:  14:37]
+%
+% Time for the show.
+
+Narrator:	Like the cleaning of a house ... It Never Ends.  
+		[the theme music comes up.  As the narrator 
+		introduces the characters, penciled renditions of 
+		their faces appear on the screen]  With Gabriela 
+		DeFarge as Gabriela St. Farge.  Allegra Hamilton as 
+		Sister Bernadette and Roxy Monoxide.  And as Dr. Tad 
+		Winslow, Moe Szyslak.
+Lisa:		I don't know if I'll be able to accept Moe as Dr. 
+		Tad Winslow.
+Marge:		Well, I'm going to keep watching as long as they 
+		have shocking story twists and endless pillow talk.
+-- And no jerkass Tad Winslow, "Pygmoelian"
+
+% We see Moe engaged in some of the aforementioned pillow talk.  He's
+% in bed with a beautiful woman, who turns out to be a 5,000-year-old
+% mummy that Winslow brought back to life.  She'd like him to join her
+% in a city-burning rampage, but Winslow turns her down, citing
+% hospital regulation.  What's more, "Clyde Dancer" is spying on
+% Winslow, waiting for him to make a mistake.
+%
+% Homer, Lenny, and Carl head towards Moe's tavern for a drink.
+
+Carl:	So, Lenny, how are things working out between you and that 
+	girl next door?
+Lenny:	Eh, it's over.  She got a window shade.
+-- "Pygmoelian"
+
+% When the two men enter the bar, they are shocked to discover Moe
+% surrounded by dozens of groping women.  Moe's too preoccupied even
+% to get Homer a beer, so he lets Homer get it himself.  Homer pours a
+% mug, commenting to himself that it's easier than Moe made it sound. 
+% Then the tap breaks off, soaking Homer.
+%
+% Moe rehearses his upcoming lines with Homer.
+
+Moe:	I didn't bring you back to life just so you could make a 
+	fool of me at the club!
+Homer:	[reading from the script] You don't love me!  The only 
+	thing you love is your ear, nose, and throat pavilion.
+Moe:	I've dedicated my life to diseases of the head holes, but 
+	the one hole I've never been able to fix is the one in my 
+	soul.
+Homer:	That was amazing, Moe.  I'm actually a little turned on.
+Moe:	Yeah, hey, I've got a gift.  As a child, I was bitten by 
+	the acting bug.  Then it burrowed under my skin and laid 
+	eggs in my heart.  Now, those eggs are hatching and I -- 
+	the feeling is indescribable.
+Homer:	I know what you mean.  Our dog had that.
+-- Wouldn't have if he had is acting bug pills, "Pygmoelian"
+
+% A delivery boy appears at the door, bearing an envelope marked, "Top
+% Secret Storylines."  Moe signs for it, and then has a little peek at
+% what the writers have in store for him.
+
+Moe:	[reading] Looks like my character gets back together with 
+	that evil Contessa.
+Homer:	The one with the amulet?
+Moe:	Precisely.  Then I get in a sky-diving accident and have 
+	to be rushed to the ... [turns page] graveyard?!  They're 
+	killing off Dr. Tad Winslow!
+Homer:	What?  Let me see that!  [takes the script and reads it] 
+	"Interior -- Coroners' office.  Close-up on Dr. Winslow's 
+	mangled corpse.  Coroner:  'Let's get that brain out and 
+	weighed and call it a day.'"  Yep, that does sound kind of 
+	bad.
+Moe:	Well, if they're going to stomp on my dreams, the least I 
+	can do is go out in a blaze of sour grapes.
+-- That's the spirit, "Pygmoelian"
+
+% Dr. Winslow and the Contessa (played by someone who appears to be
+% Titania's cousin) relax in a hot tub.  The Contessa suggests that
+% she and Winslow go sky-diving.  Suddenly, the doorbell -- which
+% sounds suspiciously like Homer saying, "ding-dong" -- rings. 
+% Winslow answers it.  On the other side is Homer dresses as an angel.
+
+Homer:		Dr. Winslow!
+Moe:		Why, who are you?
+Homer:		I am an angel from the future!
+		[cut to the control room]
+Producer:	Angel?
+TD:		What the [bleep]?  Should I cut him off?
+Producer:	No, let's see where this is going.
+		[cut back to the set]
+Moe:		And what do you have to tell us, O angel of the 
+		future.
+Homer:		You're going to die in a sky-diving accident.
+Moe:		How tragic!  Tell me more.
+Homer:		Gabriella's baby shower will be invaded by 
+		terrorists, with sexy results.
+Moe:		Ooh, that's unexpected.  What else?
+Homer:		Well, Sister Bernadette will leave the convent and 
+		start a softball team, with sexy results.
+		[cut to the Simpson home, where Marge and the 
+		children watch the show]
+Bart:		What's Dad doing on the show?
+Marge:		Who cares?  He's dishing out the dirt.  [writes 
+		"Sexy Results" on her notepad]
+		[back to the show]
+Homer:		And only then do we find out that Professor 
+		Galloway's half sister is plotting to take over 
+		International Perfume and Wine.
+		[cut to the control room]
+Producer:	Aagh!  He just gave away a year's worth of 
+		storylines.  Cut him off ... n-n-now.  [TD does so]
+-- Homer reveals soap secrets, with sexy results, "Pygmoelian"
+
+% Homer and Moe, proud of their revenge, high-five each other.  The
+% producer walks over to them.
+
+Producer:	What the hell are you two doing?
+Moe:		Sticking it to you for killing off my character.  
+		[he and Homer high-five each other again]
+Producer:	You idiot -- Dr. Winslow was only going to die in a 
+		dream.
+Moe:		Whaa?
+Producer:	[holds up script to a pink page] Pink pages always 
+		mean a dream.
+Moe:		I thought dreams was on goldenrod.
+Producer:	No, goldenrod is for coma fantasies.
+Moe:		I see.  So, uh, what time tomorrow?
+-- Dream on, "Pygmoelian"
+
+% The producer laughs sardonically and has her security guards escort
+% Moe and Homer off the set.  Moe wrestles free from his guard and
+% declares, "With a mug like this, I can get on any soap in
+% Springfield."  He walks off the set and slams the door behind him. 
+% Bad move -- the "wall" is actually a set, and slamming the door
+% causes it to tip over.  To the horror of all concerned, it falls
+% over, pinning Moe's head underneath it.  The security men lift the
+% fallen wall and free Moe.  He sits up, and the onlookers gasp.  The
+% impact has caused Moe's face to return to its former ugly self.
+%
+% Moe and Homer drown their sorrows in Moe's Tavern.
+
+Homer:	Sorry about your face, Moe.
+Moe:	Nah, it's just as well.  That handsome face was nice, but 
+	it was too much maintenance.  I had to wash it, rub it 
+	with neat's-foot oil ... you did me a favor, Homer.  And 
+	to think I was about to sell the bar to Hooters.
+Homer:	Yeah, you were -- D'oh!
+Moe:	Well, I guess that wraps it up.  There's just one thing I 
+	don't get, though.  When my face was crushed, why'd it go 
+	back to my old face?  I mean, shouldn't it have turned 
+	into some kind of third face that was different?  Heh.  
+	Don't make no --
+	[the closing credits abruptly cut off Moe]
+-- "Pygmoelian"
+
+% [End of Act Three.  Time: 20:05]
+%
+% Normal closing credits.  The Gracie logo sound is Duff Man saying,
+% "Oh, Yeah!"
+
+==============================================================================
+> Contributors
+==============================================================================
+{af}  Al Foley
+{al}  Adam Long
+{bjr} Benjamin Robinson
+{cg}  Curtis Gibby
+{cg2} Cathie Gifford
+{cj}  Carl Johnson
+{ddg} Don Del Grande
+{dj}  Darrel Jones
+{ep}  Eric Pastoral
+{jg2} Joe Green
+{jj}  John Jensen
+{jk}  Joe Klemm
+{jp}  Jerry P
+{jp2} Jouni Paakkinen
+{jpr} James Reisdorf
+{jv}  Jeremy Vitrano
+{mg}  Matt Greenberg
+{tm}  Tim MacKay
+
+==============================================================================
+> Legal Mumbo Jumbo
+==============================================================================
+This episode capsule is Copyright 2000 Benjamin Robinson.  It is not to be
+redistributed in a public forum without consent from its author or current
+maintainer (capsules@snpp.com).  All quoted material and episode summaries
+remain property of The Simpsons, Copyright of Twentieth Century Fox.  All
+other contributions remain the properties of their respective authors.  The
+Quote and Scene Summary itself is Copyright 2000 Benjamin Robinson.  This
+capsule has been brought to you by Duff Breweries.
+
+This work is dedicated to Raymond Chen, James A. Cherry, Ricardo Lafaurie,
+Frederic Briere, and all of those who made episode capsules what they are
+today.  Also thanks to Adam Long and Don Del Grande for the writer's and
+director's names.

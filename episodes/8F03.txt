@@ -1,0 +1,768 @@
+<PRE>
+Bart the Murderer                                  Written by John Swartzwelder
+                                                         Directed by Rich Moore
+===============================================================================
+[$Id: 8f03 1.3 92/01/16 08:13:19 raymond Exp Locker: raymond $]
+===============================================================================
+> Title sequence
+===============================================================================
+Cut from clouds directly to driveway.
+
+Driveway   :- Homer says `D'oh!' when Lisa scoots past.
+
+Couch:     :- Couch is missing.
+
+Elapsed time:  21 seconds, compared to the already-clipped 48 seconds they
+usually use, leaving room for... yep, ANOTHER COMMERCIAL!
+
+Canadians, however, were given a fuller intro.  Details courtesy of
+Darren Ewaniuk (ewaniu@ee.ualberta.ca):
+
+Blackboard :- High explosives and school don't mix.
+
+Lisa's solo:- transcribed by Alan J Rosenthal {ajr}
+              amended by Raymond Chen
+              in a moderate 3/4, with swing
+                          ...
+                      .   #Nb  b  + b   b N
+              8___/// 5__ 443 875 4_3 4_3 356 /8/8_ /8
+
+Couch:     :- The family form a pyramid, with Maggie on top.
+              Maggie strikes her classic ``Ta-Da!'' pose.
+
+===============================================================================
+> Didja notice...
+===============================================================================
+    ... the voice of Fat Tony was supplied by Joe Mantegna?
+        (Doubly funny when you notice who plays Fat Tony in the TV movie.)
+        And Neil Patrick Harris provided his own voice as well.
+    ... Chief Wiggum not only drank on the job, but he didn't seem to
+        take notice that a ten-year-old boy was working as a bartender?
+    ... Bart's cell-mate is none other than Sideshow Bob?
+    ... the D.A. is the same lawyer that defended Burns in Hutz' $1 million
+        lawsuit?
+    ... Fat Tony's prisoner number was 8F03, the production code for this
+        episode? {dwt}
+    ... right after Homer blames the sleazy Hollywood producers, the credits
+        started rolling and who should be listed first but the producers! {jk}
+
+Dave Hall {dh}:
+    ... the grieving look on the teacher's face as the kids are loaded into
+        the school buses?
+    ... the satellite dash on top of the "Ah Fudge!" factory?
+    ... fuzzy dice in the Pizza delivery truck?
+    ... according to the clock in Bart's classroom, it's 8:35 when
+        Ms. Krabappel made the announcement?
+    ... the bars on the window of the "Lock Smith" shop?
+    ... the hooded executioner beside the electric chair?
+    ... According to the line marks, on the wall in Bart's jail cell,
+        he (or the person in the cell before him) spent 18 days in jail?
+    ... in Bart's nightmare, it appears Otto was the only one grieving?
+    ... the cops were more interested with what's in Skinner's fridge than
+        finding him?
+    ... at 10:10 AM, Bart Simpson walked out of the courthouse a free boy?
+    ... Maggie fell but once?
+
+===============================================================================
+> Rave reviews
+===============================================================================
+stephen cr miller {scm}:  The episode had an eerie, dreamlike quality.
+There were strange shadows throughout, and events so odd they could only
+happen in dreams.  I kept expecting Bart to wake up and have the whole
+thing be a dream - and then he did, except that it wasn't a dream after
+all.  A nice touch.  All in all, an excellent episode.
+
+Chuck Musciano {cm}:  This was a great episode!  The Simpsons are back!
+
+Alan J Rosenthal {ajr}:  The way the clouds come out the first time was
+the most amazing part.  Did you notice that Bart immediately gets splashed
+by a passing car?
+
+Ron Carter {rc}:  This is the Simpsons I know and love; Bart getting
+trodden every moment, Homer dumb, Marge just plain exasperated, Lisa being
+superior in attitude (but lacking in true compassion), and the whole clan
+getting screwed in the end... Funny, 'cause it's true...
+
+Yours Truly {rjc}:  My favorite part was the entire first act, where
+absolutely <nothing> goes right for Bart.  A close second is Principal
+Skinner's tale of his ordeal.
+
+===============================================================================
+> Movie (and other) References
+===============================================================================
+  + The Godfather
+        - Joe Montegna as a gangster
+    Robert Crumb's `Snoid from Sheboygan'
+        - The smiling Aztec.  Same vertically-compressed, oval head, 3/4 view,
+          and twisted smirkysmile. {abw}
+    Willie Wonka (and the Chocolate Factory) {rc}
+  ~ Risky Business
+        - clock ticks backwards {jpc}
+  ~ Trading Places, Raiders of the Lost Ark, Blues Brothers, etc.
+        - being surrounded by guns.
+  + Goodfellas
+        - In the movie, the young Henry Hill became a gofer for some mobsters
+          at a Brownsville pizza parlor.  When his school sent his parents
+          truancy notices, the mobsters threatened and beat up the postman,
+          and ordered him not to deliver any mail from the school.  The family
+          found out only when none of their mail came in.  Other scenes from
+          Goodfellas appear too; the reaction to Bart's suit, etc. {ej}
+        - In the movie, they hang around in someone's basement all the time,
+          and they have this kid who mixes drinks for them.
+          One difference is that the kid in the movie is incompetent. {cpc}
+        - The entire cigarette hijacking is taken from it.  The gangsters
+          also threaten the kid's principal at school. {cm}
+    The Pope of Greenwich Village
+        - One of the main characters in the movie gets a job in a `Social
+          Club', making Espresso for the `Mobbed up' boys who hang out
+          there. {cpc}
+    Frank Sinatra (one of his movies, perhaps?)
+        - Bart singing `Witchcraft'.  Also his expression at the end of the
+          scene. {wl}
+    House of Games {scm}
+    St. Valentine's Day Massacre
+        - The Itchy and Scratchy cartoon. {las}
+  + Night of the Living Dead
+        - Skinner's body rising from the dirt {my}
+    The Octopus by George Luks (in The Verdict)
+        - It's a political cartoon from the 19th century about large
+          corporations.  The drawing depicts an octopus (preying off
+          society) and on its tenticles are written names of large
+          corporations, like Standard Oil.
+        - After Homer admits his belief in Bart's guilt, the camera pans
+          to the jury and then to the Springfield Shopper.  The paper has
+          a picture of Bart and an octopus. {las}
+    MacGyver
+        - Skinner's method of escape {jrp} {cm}
+    Billions of mystery novels
+        - Skinner's method of narration {jrp}
+
+===============================================================================
+> Freeze Frame Fun
+===============================================================================
+>> The breakfast table, courtesy of Ron Carter {rc}
+
+Lisa was eating Jackie O's.  ``Free Stretchpants Inside!''
+Bart was eating Chocolate Frosted Frosty Krusty Flakes
+    ``Only Sugar Has More Sugar!''
+Vitapillars.  (On the box is a picture of a big purple caterpillar
+    with `human' facial features.)
+On the shelf was Kelp Chex.
+
+>> The visit to Ah Fudge, courtesy of Ron Carter {rc} by my personal request
+
+Huge Truck-a-saurus-sized thanks to Ron Carter for providing this.
+
+  - Kids swimming in the vats of chocolate.
+  - A kid walking on a conveyor belt picking up chocolate bars.
+  - Bunch of kids running (past a kid pulling a lever) and stepping on a
+    chocolate bar, including a very young naked child, leaving chocolate
+    footprints; another kid proceeds to pick up and eat this same bar.
+  - A kid, on his back on a conveyor belt, chocolate squirting into his mouth.
+  - As the kids bend over a vat of chocolate, the following fall in:
+    A pair of glasses, some pills(?), a roll of candy(?), pocket knife(?),
+    pencil with Krusty eraser(!), 2 Q-Tips, comb, pen, and a watch.
+  - Kids kicking around Cocoa Beanie who wears (naturally) a propeller beanie!
+
+The young naked kid for one frame looks like he needs a shave, yikes!
+
+>> Bart's fall down the stairs
+
+    Bart yells, ``Wauuuuuuugh!  Ugh, ak, ugh, son-of-a, D'oof!''
+
+>> The horses in the third race
+
+The names are all famous phrases from various cartoons.
+
+Sufferin' Succotash         (Sylvester the Cat)
+Yabba-Dabba-Doo             (Fred Flintstone)
+Ain't I a Stinker           (Bugs Bunny)
+That's All Folks            (Porky Pig)
+I Yam What I Yam            (Popeye)
+Don't Have a Cow            (Bart Simpson)
+
+And of course, there was `Eat My Shorts' in the fifth race.
+
+>> Recipe for Manhattan (according to Mr. Boston), courtesy of Dave Hall {dh}:
+
+     3/4 oz.  Sweet Vermouth       1/2 oz. Blended Whiskey
+
+(Stir with ice, and strain it into a cocktail glass.  Serve with a cherry.)
+
+>> The various Aces used by the gangsters, courtesy of Dave Chary {dc}
+
+Besides the normal Heart, Diamond, Spade, Club.
+
+In one mobster's hand:
+
+    Green Star
+    Anchor
+
+Exposed on table:
+
+    Blue Button
+    the planet Saturn
+    Atom Model
+    Red Cherries
+    Blue Male Symbol
+    Red Flower
+    Yellow Pentagram
+    Yellow Smiley Face
+
+>> Bart's Trial, courtest of Dave Hall {dh}
+
+In the jury:
+    Bleedin' Gums Murphy
+
+Notice the way the sketch artist uglified Bart in the drawing.
+
+Some people who attended Bart's sentencing:
+
+     Ms. Krabappel
+     Jasper
+     Abu
+     Mr. & Mrs. Lovejoy
+     Herman
+     Abe
+     Ned Flanders
+
+>> Miscellaneous Items
+
+From Ron Carter {rc}:
+
+The Legitimate Businessman's Social Club (Bart's place of employment)
+Straight And Narrow Storage Co. (jacket of guy who picks up cigs from Bart)
+Bart has pinky ring.
+Springfield Shopper is free.
+Fat Tony's limo has a "Mafia Staff Car Keepa Yo Hands Off!" bumper sticker.
+
+From Mike Berman {msb}:
+
+Try freezing right when Willie slaps Mrs. Krabappel.  For one frame she has
+four eyes.
+
+===============================================================================
+> Animation attention to detail
+===============================================================================
+Dave Hall {dh} obseves that when Bart starts off for school, his green
+note book is all nice and clean, but becomes water stained when he reaches
+the school.
+
+Theron Stanford {tws} notes that there were puddles on the playground when
+Bart was on the monkey bars.
+
+===============================================================================
+> Animation goofs
+===============================================================================
+Dave Hall {dh}:
+
+When Homer walks into the kitchen, the clock on the wall states 6:50, yet,
+when Bart points his finger at Homer, the clock states 9:10.
+
+Bart's bedroom shown to be facing the street, yet later, it's facing the
+backyard.
+
+Jeff De La Beaujardiere {jdlb}:
+
+When Bart missed the bus, he walked to school.  But when he left school, he
+had his skateboard with him.
+
+[Well, maybe he keeps a spare skateboard in his locker? --rjc]
+
+S. Mudgett {scm2}:
+
+Not only that, he left home bareheaded.  He left school bareheaded.  Then he
+came home wearing his lucky red hat.
+
+Lawrence Alan Schwimmer {las} notes that Bart's drawing of Skinner has
+mysteriously vanished when we switch back to Bart after Ms. Krabappel
+announces that Skinner is missing.
+
+===============================================================================
+> Assorted observations and comments
+===============================================================================
+Mark Yocom {my} notices that the smiling Aztec bears a striking similarity
+to the mascot of the Cleveland Indians baseball team.
+
+===============================================================================
+David Gillett {dg2} writes:
+
+Ha!  That cigarette truck was hijacked along Route 401 which, as we all
+know, is the freeway that runs between Montreal (almost -- the number
+changes at the Quebec border) and Detroit (almost -- Windsor, actually).
+And runs practically through the tobacco-growing regions of Ontario.
+
+===============================================================================
+Chuck Musciano {cm}:
+
+Bart was reading Radioactive Man while guarding the cigarettes.  In Three
+Men and a Comic Book, we learn that the Radioactive Man serials were sponsored
+by Laramie cigarettes.  And what kind of cigarettes were they?  That's right!
+
+[This becomes less of an amazing revelation when you stop and realize that
+ the only comic book we've ever seen is `Radioactive Man', and the only
+ cigarette brand we've ever seen is Laramie's. --rjc]
+
+===============================================================================
+For those whose recollection of basic chemistry is rusty...  Principal Skinner
+mixed baking soda (NaHCO3) and lemon juice (proton donor).  The resulting
+acid-base reaction produced water and carbon dioxide
+
+           -    +
+        HCO  + H    ->  H O + CO
+           3             2      2
+
+The carbon dioxide was used as a propellant.
+
+Of course, the reaction really isn't vigorous enough to do much.  (The
+solution just bubbles, like soda pop.)  Even if it were, once he released
+the cigar, its path would have been erratic, like a balloon when you let
+it whiz away.  Let's not even think about how absurd the vacuum cleaner
+stunt was...
+
+But then again, that was the point.  His story was so utterly fantastic, it
+was hilarious.
+
+===============================================================================
+From the musical front comes a note from Karen L. Klein {klk}:
+
+Once Bart becomes a permanent fixture at the club, the music playing is
+``One Fine Day'', including the lyrics, ``You're gonna want me for your
+girl.''  What the hell?
+
+===============================================================================
+> Quotes and scene summary
+===============================================================================
+% Bart wakes up bright and chipper (though he steps on a toy as he gets
+% out of bed).  At breakfast...
+
+Bart:  Looks like I've got me a genuine glow-in-the-dark police badge!
+       [hunts through the box of cereal]
+       Hey, it's not in here.  You stole it!
+Lisa:  No one wants your stupid police badge, Bart.
+Homer: [coming in] Hey, look what I got!  A genuine official police badge!
+       ``Calling all cars!  Come out with your hands up!'' Heh heh heh.
+Bart:  Hey, that's my badge, Homer.
+Homer: That's <Officer> Homer!  Hee hee hee hee.
+-- ``Bart the Murderer''
+
+% Bart returns to his room to find SLH chewing up his homework.  (9 x 9 = 100)
+
+You ate my homework!?  I didn't know dogs <really> did that...
+-- Bart to Santa's Little Helper, ``Bart the Murderer''
+
+% He sees Lisa boarding the school bus out his room window and rushes out,
+% only to have the bus doors close in his face.  Lisa waves good-bye from
+% the bus window.  The second the bus pulls away, storm clouds roll in, and
+% it starts pouring.  A car splashes him as he walks to school.  When he
+% gets to the school building, the storm suddenly clears.  (D'oh!)
+
+Ms.K: Bart Simpson, you're late.  Go fill out a tardy slip.
+Bart: But I'm only five... [looks at the clock]  ten, twenty...
+      Forty minutes!  That's pretty damn late!
+-- ``Bart the Murderer''
+
+% On the playground, Bart is on the monkey bars and says,
+% ``Hey girls, look at me!''  But he rips his pants while trying to do a
+% stunt.  ``You can stop looking at me now.''  A stray football hits him,
+% and he falls to the ground.  It's nearly 1pm, and the class are excited
+% about their field trip to the chocolate factory.  Everyone, that is,
+% except Bart, who suddenly realizes that he left his permission slip at home.
+
+Lisa:      I'm going to eat eight pieces of chocolate!
+Wendell?:  I'm going to each chocolate 'til I barf!
+-- Field trip to the chocolate factory, ``Bart the Murderer''
+
+% Meanwhile...
+
+Principal Skinner:  Here's a whole box of unsealed envelopes for the PTA!
+Bart: You're making me lick envelopes?
+P.S.: Oh, licking envelopes can be fun!  All you have to do is make a game
+      of it.
+Bart: What kind of game?
+P.S.: Well, for example, you could see how many you could lick in an hour,
+      then try to break that record.
+Bart: Sounds like a pretty crappy game to me.
+P.S.: Yes, well... Get started.
+-- ``Bart the Murderer''
+
+% The kids greet `Cocoa-Beanie' at the ``Ah Fudge!'' factory.
+
+I think this is something Bart would really have enjoyed.
+But it's the only way he'll learn...
+-- Lisa, ``Bart the Murderer''
+
+% The kids watch another of those educational films.
+
+Welcome to the Chocolate Factory.  I'm Troy McClure!  You probably remember
+me from such films as `The Revenge of Abe Lincoln', and `The Wackiest
+Covered Wagon in the West'.
+-- ``Bart the Murderer''
+
+[haunting native American music plays, scene changes to an Aztec pyramid]
+The history of chocolate begins with the ancient Aztecs.
+[see a hand holding an `Ah Fudge' candy bar]
+In those days, instead of being wrapped in a hygienic package,
+chocolate was wrapped in a tobacco leaf.
+[candy bar changes to a coiled tobacco leaf]
+And instead of being pure chocolate, like we have today, it was
+mixed with shredded tobacco.
+[pull back to see a smiling Aztec fellow holding the cigar-shaped tobacco leaf]
+And they didn't eat it, they smoked it!
+[Aztec lights it, takes a puff, and smiles broadly]
+-- Educational film at the chocolate factory, ``Bart the Murderer''
+
+% Bart continues licking the envelopes, and watches the second-hand on the
+% wall clock tick, ever so slowly.  (In fact, it even ticks backwards.)
+% Meanwhile, the kids frolic absurdly in the factory.  It's nearly 3pm,
+% and Bart's tongue is bone dry.  He asks, ``Cad I doe dow?''  Principal
+% Skinner can't understand him, so he writes his request (left-handed).
+% Principal Skinner lets Bart go a minute early.  Once Bart steps outside,
+% it starts raining again.  He skateboards home, and the bus (returning
+% from the field trip) splashes him.  Then the wheel falls off his skateboard
+% and he tumbles down a stairwell.  ``What next?'' he sarcastically asks
+% himself.  Bart finds himself on the wrong end of a dozen gun barrels.
+% ``Uh oh.''
+%
+% [End of Act One.  Time:  4:43]
+%
+% Fat Tony and the other members of the Legitimate Businessman's Social Club
+% see if Bart can be of any use to them...
+
+Tony: Pick a horse, kid.  We're putting two dollars on the third race.
+      Make it a good one.
+Bart: Eat my shorts!
+Tony: Eat My Shorts?  Ah, okay... [consults the racing form]
+      Let's see... Wait a minute, you little punk!  Eat My Shorts is
+      in the fifth race!  I said the <third> race!
+Bart: Don't have a cow!
+Tony: Mm.. [to a fellow crony] Don't Have a Cow in the third,
+      put a deuce on him.
+-- ``Bart the Murderer''
+
+% While they're waiting for the race to run, Tony shows Bart the bar,
+% the slot machine, and the card table.  The men listen to the horse race.
+
+As they come out of the turn, it's Sufferin' Succotash by a neck over
+Yabba-Dabba-Doo, two lengths back Ain't I a Stinker and That's All Folks.
+I Yam What I Yam can see them all, but here comes Don't Have a Cow flying on
+the outside, and coming down to the wire, it's all Don't Have a Cow!
+-- The third race, ``Bart the Murderer''
+
+% Tony says, ``Hey, I like this kid.  I can't believe we were going to shoot
+% him!''  Bart is ordered to mix a Manhattan.  He looks up the recipe and does
+% so.  They like it.  (``Soopoib.'')
+%
+% At home, Bart tells Marge that he has a job.
+
+Homer: How much does it pay?
+Bart:  Thirty bucks a week!
+Homer: Pfft!  I make more than that.
+-- Bart gets a part-time job, ``Bart the Murderer''
+
+% Bart continues to work for the Social Club.  We see them playing poker,
+% and all of them are cheating ridiculously.  Bart introduces them to
+% Itchy and Scratchy.
+
+It's funny because it's true.
+-- Fat Tony, ``Bart the Murderer''
+
+% Chief Wiggum comes in...
+
+Fat Tony:     Chief Wiggum!  You honor us with your presence.
+Chief Wiggum: Baloney!  I'm not going to rest until one of us is behind bars.
+              You!  You wouldn't happen to know anything about a cigarette
+              truck that got hijacked on Route 401?
+Fat Tony:     What's a truck?
+Chief Wiggum: Don't play dumb with me!
+-- ``Bart the Murderer''
+
+% He adds that ``the boy here makes an excellent Manhattan.''  He offers one to
+% Chief Wiggum, who drinks it and likes it.
+%
+% Homer sees Bart's room piled to the ceiling with cigarettes and concludes
+% that Bart has started smoking.  Bart insists they're not his, but Homer
+% doesn't believe him.  He threatens to make Bart smoke every single one
+% of them while he watches.  Just then, a delivery man comes by to pick up
+% the cigarettes, and Homer says, ``Son, I'll never doubt you again.''
+%
+% At a press conference, Chief Wiggum explains that 12,000 cartons of
+% Laramie 100's were stolen.
+
+Wiggum: Let me assure all you smokers out there that there is <no>
+        shortage of cigarettes.
+Reporter: [shouts]  How do we know that?
+Wiggum: Um, let me refer that question back to Jack Larson, Laramie Tobacco
+        Products.  Jack?
+Jack:   Thank you, Chief.  Folks, I'm pleased to announce that a new truckload
+        of Laramie's, with their smoooooth good taste of fresh tobacco
+        flavor is already heading towards Springfield.  The driver <has> been
+        instructed to ignore all stop signs and crosswalks. [all cheer]
+-- Press conference, ``Bart the Murderer''
+
+% ((I lost Chief Wiggum's cancer analogy.))
+
+Lisa: [somewhat shocked] Bart, is your boss a crook?
+Bart: I don't think so.  Although it would explain an awful lot.
+-- ``Bart the Murderer''
+
+% At work, Fat Tony gives Bart a present, in gratitude for his help with
+% the cigarettes.
+
+Bart: Uh, say, are you guys crooks?
+Tony: Bart, um, is it wrong to steal a loaf of bread to feed your starving
+      family?
+Bart: No.
+Tony: Well, suppose you got a large starving family.  Is it wrong to steal
+      a truckload of bread to feed them?
+Bart: Uh uh.
+Tony: And, what if your family don't like bread?  They like... cigarettes?
+Bart: I guess that's okay.
+Tony: Now, what if instead of giving them away, you sold them at a price
+      that was practically giving them away.  Would that be a crime, Bart?
+Bart: Hell, no!
+Tony: Enjoy your gift.
+-- What if he puts jelly on it?  ``Bart the Murderer''
+
+% Bart gets a tailored suit.  (``Soopoib.'')  He wears it proudly and sings
+% `Witchcraft' around the house.
+
+Give me three fingers of milk, Ma.
+-- Bart, ``Bart the Murderer''
+
+% That evening, Marge expresses her concerns about Bart's job to Homer...
+
+Marge: I'm not sure about the people Bart's working for.
+       I think they're criminals.
+Homer: A job's a job.  I mean, take me.  If my plant pollutes the water
+       and poisons the town, by your logic, that would make me a criminal.
+-- Guilt by association?  ``Bart the Murderer''
+
+Marge: That pizza delivery truck has been parked across the street for
+       two weeks.  [looking at a pizza delivery truck conspicuously
+       equipped with a satellite dish]
+[inside the truck, loaded with electronic snooping equipment]
+Marge's voice:  How long does it take to deliver a pizza?
+Man 1: Looks like our cover's blown.
+Man 2: Let's roll.  [the truck speeds off]
+[back in the bedroom]
+Homer: See?  It was all your imagination.
+[another truck pulls into the spot that was vacated.  The sign painted
+ on the side?   Flowers
+                By
+                Irene]
+-- ``Bart the Murderer''
+
+% Marge prevails upon Homer to pay Bart's employers a visit, to see what
+% they're like.  He does so...
+
+Homer: [playing poker]
+       Heh heh!  Read 'em and weep, boys.  Another pair of sixes!
+Tony:  [folding with four aces]  Beats me.
+Man:   I was... bluffing.
+-- ``Bart the Murderer''
+
+Tony:  I am thrilled you decided to let your boy continue to work here.
+Homer: You know, if you need a hat-check girl, I've got a daughter.
+Tony:  Homer, you're a helluva father.
+-- ``Bart the Murderer''
+
+% Homer returns home and tells Marge everything is square.  At school, Bart
+% supervises a ``I am still a weiner'' graffito, and when Skinner asks what's
+% up, he slips some cash into his pocket.  Inside, Skinner watches Bart
+% write, ``I will not bribe Principal Skinner'' on the blackboard...
+%
+% At the club, The Big Cheese notes that he was invited to try some of
+% the finest Manhattans in all of Springfield, but Tony's bartender isn't
+% in.  Tony tells Louie to make some, which he does, poorly.  He gives Tony
+% the Kiss of Death and leaves.  Bart finally arrives and puts on his
+% apron, grousing about Skinner.  Tony learns that Skinner held Bart after
+% school, and he offers to ``meet and greet this individual.''  Bart pours
+% himself a shot of milk.
+%
+% At school...
+
+Secretary: Some large men to see you, sir.
+Skinner:   Um, I don't have any appointment with any large men.
+           [Fat Tony and two heavies come in]
+Fat Tony:  You Skinner?
+Skinner:   <Principal> Skinner, yes.  And how, may I ask, did you get
+           past the hall monitors?
+-- ``Bart the Murderer''
+
+% The next day, Bart chuckles as he draws a sketch of Skinner hanging from
+% a noose.  Ms. Krabappel tells the class, ``Principal Skinner is...
+% missing!''  The class cheers.  Except for Bart, who merely says, ``Uh oh.''
+%
+% [End of Act Two.  Time: 13:22]
+%
+% The search for Skinner continues...  A river is dredged. Posters are, er,
+% posted.
+
+I can assure you that we're using the most advanced scientific techniques
+in the field of... [searching for the word]  body-finding.
+-- Police Chief Wiggum's briefing, ``Bart the Murderer''
+
+% A psychic joines the Skinner hunt.
+
+Gypsy:  [roaming her hands over a picture of Skinner]
+        I see wedding bells for Vanna White and Teddy Kennedy.
+Wiggum: Please, Princess Opal, if we could just stick to Principal Skinner.
+Gypsy:  Chief Wiggum, I am merely a conduit for the spirits.
+        [gasp]  Willie Nelson will astound his fans by swimming
+        the English Channel.
+Wiggum: Really?  Willie Nelson?
+-- Would she lie to you?  ``Bart the Murderer''
+
+% The Seymour Skinner Memorial Fire Hose is dedicated.  (``He loved fire
+% drills...'' notes Ms. Krabappel.)
+
+Lewis:    [covered in leaves]  Hey, look at me.  I'm Skinner's body!
+Bart:     That is not funny, Lewis.
+Milhouse: Well, I heard Skinner's buried under his parking spot.
+Student:  Well, I heard he was ground up into hamburger and served to us
+          at lunch.
+Nelson:   I heard Bart had Skinner killed by gangsters.
+Bart:     That's not true!  It's just a rumor.  You're engaged in speculation.
+          I know the law, you can't prove anything.
+-- He was like that when I got there.  ``Bart the Murderer''
+
+% Bart is tormented by a nightmare wherein Skinner's body keeps appearing
+% and saying, ``You killed me, Bart!''  Bart is thrown into jail (the
+% ``Death House'').
+
+Bart: Reverend Lovejoy!  You've come to comfort me?
+Rev.: Yes, Bart.  [pats Bart]  [emotionlessly]  There there.
+      [pats some more]  There there.
+-- An enormous help, ``Bart the Murderer''
+
+% Outside the prison, a crowd (including Homer) demands Bart's death.
+% Bart is placed in the electric chair, atop some telephone books, and
+% the switch is pulled.  Bart wakes up in fright.
+%
+% Bart goes to the club early in the morning...
+
+Bart: Did you kill my principal?
+Tony: Uh, Chinese guy with a moustache?
+-- ``Bart the Murderer''
+
+% He says he didn't kill Skinner.  Chief Wiggum bursts in and arrests them
+% all for the murder of Seymour Skinner.
+%
+% In jail (just like how Bart dreamed), Homer and Marge pay a visit...
+
+Oh Bart, why couldn't you have gotten a paper route like other boys?
+-- Marge, when Bart is arrested for murder, ``Bart the Murderer''
+
+Bart: What's that guy doing here?
+Hutz: Lionel Hutz, court-appointed attorney.  I'll be defending you against
+      charges of... [reads the deposition]  Murder One!  Wow!  Even if
+      I <lose>, I'll be famous!
+-- Inherit the Windbag, ``Bart the Murderer''
+
+% Burns and Smithers read the newspaper...
+
+Smithers: That Simpsons boy is looking at 180 years.
+Burns:    Thank God we live in a country so hysterical over crime that a
+          ten-year-old child can be tried as an adult.
+-- ``Bart the Murderer''
+
+% At the trial...
+
+Tony: I didn't order this Skinner guy killed...
+D.A.: But aren't you the head of this gang?
+Tony: No.  I just stop by the club occasionally to read the complimentary
+      newspaper.
+D.A.: Then who is the kingpin, the [jargon I can't make out]
+Tony: That's the guy!  [fingers Bart]
+All:  [gasp]
+Bart: Hey!
+Tony: Forgive me, Don Bartholomew.
+-- Is... ``Bart the Murderer''
+
+% The other testimony is similar, all implicating Bart as the head of the
+% operation.
+
+Hutz:  Mr. Simpson, you've been the boy's father for ten years.
+       Do you really think he could be the leader of a murderous
+       criminal syndicate?
+Homer: Well, not the leader, I mean...  [cries]  Oh, it's true, it's true!
+       All the pieces fit! [bawls]
+-- Is... ``Bart the Murderer''
+
+Now, in light of the damning testimony from your fellow gangsters, your
+father, your teachers, and the seemingly endless parade of emotionally
+shattered babysitters...
+-- The Judge's summing-up, ``Bart the Murderer''
+
+% But before he passes sentence, Principal Skinner bursts in, disheveled.
+% He tells his story:  Tony and his goons came to talk and he threw them
+% out.  He went home and began bundling his old newspapers, but the stack
+% fell on him.  (``Let this be a lesson to recycle regularly.'')  Trapped
+% until the pile of papers, he survived the week by eating his mother's
+% preserves and preserved his sanity by dribbling a basketball that was
+% barely within reach of his one free hand.  (``I made a game of it.  Seeing
+% how many times I could bounce the ball in a day, then trying to break that
+% record.'')  When the police came to search the house...
+
+Wiggum: Find anything this time, boys?
+Cop:    Uh, no sign of him, Chief.
+Wiggum: Princess Opal?
+Opal:   I see nothing here, but I'm afraid it's splitsville for Delta
+        Burke and Major Dad.
+Wiggum: But they seem so happy!
+-- ``Bart the Murderer''
+
+% ... he called out, but they didn't hear him.  So he used a little
+% fourth-grade chemistry to build a rocket, which he attached to a
+% vacuum cleaner cord, and which wrapped the cord around a support beam.
+% He then switched on the cord retraction on the vacuum cleaner, which
+% pulled him to safety.  He concludes his story, and all cheer.
+% The D.A. asks that Skinner's testimony be struck from the record,
+% unsuccessfully.
+
+Judge: Case dismissed!
+Hutz:  Your honor... Do I still get paid?
+-- Pro bono pocketo, ``Bart the Murderer''
+
+% Outside...
+
+Tony: Hey Bart, I hope there are no hard feelings.
+Bart: Get bent.
+Tony: I deserved that.
+-- ``Bart the Murderer''
+
+Tony: Me and the boys, we still think you got a big future in racketeering
+      and extortion.
+Bart: Sorry, Fat Tony.  I used to think your gang was cool.  But now
+      I learned that crime doesn't pay.
+Tony: Yeah, you're right.  [leaves in his expensive limo, complete with
+      pretty woman]
+-- Do as I say... ``Bart the Murderer''
+
+% At home, the family watch TV.
+
+Announcer:  Blood on the Blackboard!  The Bart Simpson story!
+    Starring Richard Chamberlain as Principal Skinner, Joe Montegna
+    as Fat Tony, Jane Seymour as the woman he loved, and TV's Doogie
+    Howser, Neil Patrick Harris, as Bart Simpson!
+`Tony':  Bart, I'm scared.  Let's get out of here.
+`Bart':  Shut up!  Where do you want it, Skinner?
+`Skinner':  [spits on him]
+`Bart':  Not smart.  [pumps him full of lead]
+Bart:  Cool!
+Homer: Hey, when do we get the check for this?
+Marge: Well, they said they changed it just enough so they don't have to
+       pay us.
+Homer: Oh, you know who the <real> crooks are?  Those sleazy Hollywood
+       producers!
+-- ``Bart the Murderer''
+
+% [End of Act Three.  Time: 20:38]
+===============================================================================
+Episode summaries Copyright 1991 by Raymond Chen.  Not to be redistributed
+in a public forum without permission.  (The quotes themselves, of course,
+remain the property of The Simpsons, and the reproduced articles remain
+the property of the original authors.  I'm just taking credit for the
+compilation.)
+</PRE>

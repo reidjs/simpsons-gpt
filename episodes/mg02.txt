@@ -1,0 +1,137 @@
+Watching Television                                    Written by Matt Groening
+===============================================================================
+[$Id: mg02 1.1 92/06/06 12:59:16 raymond Exp Locker: raymond $]
+===============================================================================
+> Didja notice...
+===============================================================================
+    Voice credits:
+        YEARDLEY SMITH as Lisa
+        NANCY CARTWRIGHT as Bart
+        DAN CASTELLANETA as Dad
+
+    Maggie falls:
+        2 - Walking towards the TV set.
+        1 - After changing the channel back. (*)
+
+    (*) This is a particularly funny fall since she very carefully extends
+        her foot, only to fall when it misses the floor.
+
+
+===============================================================================
+> Freeze-Frame Fun
+===============================================================================
+
+===============================================================================
+> Animation goofs
+===============================================================================
+
+===============================================================================
+> Assorted comments and observations
+===============================================================================
+Brian Howard {bh} gives the timing for this short as 1:21, whereas the
+syndication package contains only 1:16 of animation.
+
+===============================================================================
+> Quotes and scene summary
+===============================================================================
+% H = Homer, B = Bart, L = Lisa, T = TV set
+%
+% Bart and Lisa sit at opposite ends of the couch, watching TV.
+
+T: [weird music]  We'll be right back, after this word.
+
+% Bart and Lisa immediately start fighting, cartoon style.  (All you see
+% is a cloud of dust out of which assorted body parts briefly appear,
+% accompanied by yells of ``Take that!'' and ``Auugh!'')
+
+T: And now...
+
+% Bart and Lisa immediately stop fighting and return to their places.
+
+T: ... back to our show.
+   [sounds of gunfire, cars tires screeching, and a tremendous crash]
+
+% [End of Act One.  Time: 0:14]
+%
+% Bart and Lisa are fighting, and Maggie walks in.  She wanders up to
+% the television set and changes the channel.  Bart and Lisa freeze
+% in mid-fight.
+
+B: Hey!
+L: Don't change the channel.
+B: We're watchin' that show.
+
+% Maggie turns the TV back to its original station, and Bart and Lisa
+% resume their fighting.  Maggie watches them for a brief while, then
+% leaves.
+%
+% [End of Act Two.  Time: 0:29]
+%
+% Maggie sits between Bart and Lisa on the couch.  They seem to be watching
+% something like the Lawrence Welk Show.  Bart has the remote control on his
+% lap.
+
+L: This is a dorky show, Bart.  Change the channel.
+B: No.
+L: Change the channel.
+B: No.
+
+% During this argument, Maggie hops off the couch and heads for the TV set.
+% Meanwhile, the argument gets more heated.
+
+L: Change the channel!
+B: No.
+L: Change the channel!!
+B: No.
+
+% Maggie changes the channel.  We hear the Tracey Ullman Show theme.
+
+B+L: Hey!  Turn that back on!
+
+% Maggie changes the channel back.  Bart and Lisa continue where they left
+% off.
+
+L: Change the channel.
+B: No.
+L: Change the channel.
+B: No.
+L: Change the channel!
+B: No.
+L: Change the channel!
+B: No.
+L: Change the channel!
+B: No.
+L: Change the channel!
+B: No!
+L: Change the channel!!
+B: No!
+L: Change the channel!!
+B: No!
+L: Change the channel!!
+B: No!
+L: Change the channel!!
+B: No!
+L: Change the channel!!!
+B: No!
+L: Change the channel!!!!
+B: No!!
+
+% [End of Act Three.  Time: 0:52]
+%
+% Homer, Lisa, Maggie, Marge, and Bart sit on the couch, in that order.
+% Marge knits.  They're all watching TV.
+
+H: Well, here we are.  The whole family.  All together, sharing, getting
+   to know each other, exchanging ideas, stories and laughs, snuggling up,
+   bonding together as only a tightly-knit family can.  Why, we're more
+   than a...
+B: Dad, you can stop now.  The commercial's over.  The show's back on.
+H: Oh.  Oh, yeah.
+
+% [End of Act Four.  Time: 1:16]
+===============================================================================
+Shorts summaries Copyright 1992 by Raymond Chen.  Not to be redistributed
+in a public forum without permission.  (The quotes themselves, of course,
+remain the property of The Tracey Ullman Show, and the reproduced articles
+remain the property of the original authors.  I'm just taking credit for the
+compilation.)

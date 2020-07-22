@@ -1,0 +1,137 @@
+% B = Bart, H = Homer, M = Marge
+%
+% The Simpsons living room.  Over the couch is a picture
+% of an ocean liner.  Homer and Bart.  In Homer's left hand is a plate
+% heaped with green goop.  A plate of orange goop is in his right hand.
+
+H: Hey there, boy.  Mom took the girls to the `ballet' tonight, so
+   it's just you and me, kid.
+
+% Homer says the word `ballet' in a `la dee da' teasing manner.
+
+B: [not enthusiastic]  Uh, sure, Dad.
+H: So set up the TV trays and let's get started.
+   You want the frozen fish nuggets [the orange goop]
+   or pork-a-roni! [the green glop]
+
+% Bart's cheeks puff out in mock vomit.
+
+B: [still not enthusiastic] Well, it's a toss-up, Dad.
+H: I've got an idea!
+   Let's mix them together smorgasborg [sic] style!
+
+% Homer upends the plate of green goop atop the plate of orange goop
+% and mushes the two plates like an accordion.  After a few compressions,
+% the glop has turned a uniform purple color.
+
+H: Voila!  Fish pork-a-roni a la Simpson.
+
+% Bart raises his hand.
+
+B: Uh, Dad?  Is it too late for me to catch a bus to the ballet?
+
+% [End of Act One.  Time: 0:30]
+%
+% The picture over the couch is of the ocean liner nearing a mine floating
+% in the water.  (You know, the round spikey things.)
+%
+% Homer stands where he was before, carrying a plate of steaming-hot
+% purple/pink glop.  The two TV trays are set up in front of the couch,
+% but Bart is nowhere to be seen.
+
+H: Where'd he go?  Bart?  Bart?  Bart...
+
+% Homer's calling becomes short and clipped.
+
+H: Bart!  Bart!  Bart-Bart!
+
+% Bart's head rises from behind the couch.
+
+H: Baaart!
+B: Here I am.
+
+% Bart climbs over the couch.  Homer has an angry expression.
+
+H: Eat.
+
+% Homer tosses the plate of purple/pink glop (a ten-inch high pile)
+% on the TV tray in front of Bart (*splort*), who has sat down.  The glop
+% jiggles as it lands.  Bart pokes his finger at it and tastes his finger.
+
+B: Yech.  Tastes like dog food.
+H: Bart!
+
+% Bart holds a forkful of steaming hot purple/pink glop.
+
+B: Does eating dog food turn you into a dog?
+
+% Homer barks back.
+
+H: Bart!
+B: Well, that answers that question.
+
+% [End of Act Two.  Time: 0:55]
+%
+% The ship is going down in flames.  Homer and Bart are seated facing each
+% other, eating off the TV trays.  Both have a huge pile of purple/pink
+% glop.  Homer's mouth is demonstrably full of glop, which he swallows.
+% Homer shakes his forkful of glop at Bart.  (Little gloplets fly off.)
+% The area around Homer's plate is spattered with glop.  Bart hasn't
+% touched his food.  He just sits there, fork in hand, staring at the food.
+
+H: [scolding] You're not touching your fish pork nuggets-a-roni, boy.
+
+% The fork flies out of Homer's hand.
+
+H: [brightly] Whoops!  Dropped my fork!
+
+% While Homer bends down to pick up his fork, Bart dumps his food on
+% Homer's plate.  (*splort*)  When Homer gets back up, Bart sits in
+% his chair with an innocent smile, staring at the ceiling.  Homer
+% is somewhat astounded.
+
+H: Finished already?
+
+% Bart holds his very clean plate.
+
+B: Mmmm.  Licked the plate clean.
+
+% Homer reaches down and produces a saucepan of, yes, more purple/pink glop.
+% Bart reacts accordingly.
+
+H: Good!  Cause there's plenty more where that came from!
+
+% Homer forks a huge dollop of glop onto Bart's plate.  Bart's cheeks
+% puff out.
+%
+% [End of Act Three.  Time: 1:17]
+%
+% The foyer.  Marge and the girls return home.  Lisa and Maggie ballet-dance
+% on tip-toes off stage right.  (Maggie falls just as she leaves.)
+
+M: We're home!  The ballet was divine!  Oh, it was just...
+   [sniffs]  What's that smell?
+
+% She spots Homer and Bart, asleep on the couch, the remnants of a
+% fish-a-roni pork nuggets-a-thon on the TV trays.  The painting depicts
+% a bubbling ocean (glug glug) and some flotsam.
+
+M: [adorably]  Oh, look at that.  Our own two husky men snuggled
+   together on the couch.
+
+% Bart moans.
+%
+% Close-up on Homer's face.  He talks and gesticulates in his sleep.
+
+H: Pass that bucket of [smacks his lips] fish pork nuggets-a-roni this way.
+
+% Bart, meanwhile, waves his arms in front of him.  He is apparently
+% having a nightmare.
+
+B: Come on, man.  No nuggified fish porklets.  Ohhhh noooooo....
+
+M: Isn't that sweet...
+
+% [End of Act Four.  Time: 1:48]
+
+<|endoftext|>

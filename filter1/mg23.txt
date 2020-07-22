@@ -1,0 +1,94 @@
+% B = Bart, H = Homer, L = Lisa
+%
+% Bart sits in a comfy chair watching TV and eating chocolate chip cookies.
+
+H: [o.s.]  Bart!  Bart!
+
+% Bart spits out a mouthful of crumbs.
+
+B: Uh oh.  Chores!
+
+% Bart discards his box of cookies and runs upstairs.
+
+B: The toy chest...
+
+% Bart rushes to the toy chest and opens it.  Lisa is inside.
+
+L: Shhhhhhhhh!
+
+% Lisa angrily closes the top.
+
+B: The closet!
+
+% Bart runs in and closes the door.  It is pitch black.
+
+B: Ah, safe at last.
+
+% He shakes the doorknob.
+
+B: Oh no!  It's locked!
+
+% Bart panics.
+
+B: I'm trapped in here.  Trapped like a rat.  Help!  Help!
+H: [o.s.] Bart!
+B: [whispers]  Uh oh.  Dad'll hear me.  [still whispering]  Help.  Help.
+
+% [End of Act One.  Time: 0:24]
+
+B: I've got to get out of this closet.
+
+% Bart's eye zooms towards the camera.
+%
+% A Bart's eye view through the keyhole.  Maggie wanders into view.
+
+B: Maggie!  Maggie!  In here!
+
+% Maggie looks around, unable to find the source of the voice.
+
+B: In the closet!
+
+% Maggie finally spots the keyhole and walks up to it (one well-timed fall
+% along the way), putting her eye right up against the keyhole.
+
+B: Maggie, go... get... help...
+
+% Maggie's pupil wanders, not paying attention.
+
+B: Maggie, come <on>, man!
+
+% Maggie has lost interest and starts to walk away.
+
+B: Do what I'd do if I were in your place!
+
+% Maggie walks down the stairs, sits in Bart's chair, and watches TV.
+
+% [End of Act Two.  Time: 0:46]
+
+B: I can't take it any more!  I've gotta get out of this closet!
+
+% Bart tries to break down the door.  (*whump*)  He finally busts
+% out on the third try and emerges into daylight.  His eyes are
+% still dazed from the experience.
+
+B: I give up.  I'll do chores!
+
+% Bart's eyes clear up, and he spots a note on the table.
+
+B: Huh?
+
+% He picks it up, and we read it with him.
+
+B: [reading]  Dear Bart, The family has gone out for frosty chocolate
+    milkshakes.  Sorry we couldn't find you.  Love...
+
+% Bart looks out the window, just in time to see the car pull out of the
+% driveway (with Maggie in the back seat).
+
+B: ... Dad.
+
+% He tosses the note aside, walks into the closet, and shuts the door.
+
+% [End of Act Three.  Time: 1:10]
+
+<|endoftext|>

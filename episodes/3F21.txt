@@ -1,0 +1,1421 @@
+Homerpalooza                                 Written by Brent Forrester
+					      Directed by Wesley Archer
+=======================================================================
+Production Code: 3F21               Original Airdate in U.S.: 19-May-96
+Capsule Revision A, 10-Jun-96     Original Airdate in Canada: 18-May-96
+=======================================================================
+> "TV Guide" Synopsis {sp}
+=======================================================================
+
+    Homer goes to Hullabalooza, a rock concert featuring freakish
+    sideshow acts, where he displays his special talent: catching a
+    cannonball with his belly.  Cartoon cameos include Peter Frampton,
+    Smashing Pumpkins, Cypress Hill.
+
+=======================================================================
+> Opening Sequence
+=======================================================================
+
+>> COUCH SCENE
+
+     The couch scene begins in "black light", then Homer turns on
+     a lamp and the colors return to normal. {ddg}
+
+     While the black light is on (distortion guitar): {jl}
+
+	 (O1)L8    B> D# F# A#__.
+
+     When the regular light is turned on the harp plays and
+     normal music continues. {jl}
+
+	 (Recycled from 3F11.)
+
+=======================================================================
+> Did you notice...
+=======================================================================
+   ... the "Suicide Notes" clerk reads "Mondo Frowno" magazine (with
+       an ad for Laramie 100s in the back cover)?
+   ... the Led Zeppelin poster and Pink Floyd "Dark Side of the Moon"
+       poster, as well as a peace symbol, in teenage Homer's room?
+   ... Burns owns Ticketmaster?
+   ... Marge curses during the ride home?
+
+Ricardo A. Lafaurie Jr.:
+   ... Lisa eats bacon?
+   ... when Homer sings with Barney he sounds like Miss Piggy with
+       laryngitis?
+   ... young Homer wears a shirt with footprints on it?
+   ... this is the first time musical groups have appeared on the
+       Simpsons since 1F01?
+
+Jose Lafaurie:
+   ... right after Lisa says Gen. X has tolerance and respect for all
+       people, Homer says "A freak show!"?
+   ... Sonic Youth's rendition of the Simpsons theme vaguely resembles
+       the music used in "Bart vs. the Space Mutants" (It's wacko)?
+
+Haynes Lee:
+   ... the 8-Track player in Homer's Car?
+   ... Bart and Lisa used the same seatbelt in front seat, Milhouse and
+       Janey uses one, and Nelson uses a lap belt?
+   ... the phrase "pissed off" is used not once but twice?
+   ... one of the Cypress Hill band members says "Ha-ha"?
+
+Lawrence Lam:
+   ... Springfield has a wrecking yard?
+   ... Springfield seems to only have one school bus in the whole city,
+       since they cannot replace the wrecked one?
+   ... Homer thinks rainbow suspenders are cool?
+   ... Springfieldians don't know Apple Computers?
+   ... Hullabalooza is sponsored by Duff?
+   ... someone wears a Planet of the Apes T-Shirt when the guy doesn't
+       know if he's sarcastic?
+   ... someone wears a T-Shirt of the Great Gazoo (from The
+       Flintstones) when Marge says cannons are designed to hurt?
+
+Dale Abersold:
+   ... Homer realizes the great truth: the greatest music of all time
+       was released during one's high school senior year? (1987 rocks!)
+   ... the sexual innuendo in "The Second Base-Mobile"?
+   ... Homer's silly walk at "Hullbalooza" is reminiscent of Robert
+       Crumb's "Keep on Truckin'" character?
+
+Don Del Grande:
+   ... Homer listens to "KFSL 103 (FM)"?
+   ... young Barney's shirt pocket is on his right side?
+   ... Lisa knows about Woodstock?
+   ... Capitol City (spelled with an "O") is 30 miles from Springfield?
+   ... Homer calls Christianity "a religion" (as opposed to the number
+       of religions that it is)?
+   ... when Cypress Hill whispers among themselves, you can understand
+       everything they say, instead of the usual mumbling used for
+       whispers?
+   ... Maggie fell for the second time this season (the first being in
+       the Halloween Special)?
+
+Benjamin J. Robinson:
+   ... Bart and Lisa share a seat belt?  (this can be dangerous -- seat
+       belts are designed for one person at a time)
+   ... no one in the car has lap belts?
+   ... the poster in Suicide Notes hawking lava lamps?
+   ... the Pink Floyd (Dark Side of the Moon) and Led Zeppelin (Led
+       Zeppelin I) posters in young Homer's room?
+   ... Marge covers Maggie's eyes when Homer sets up for his stunt?
+
+Veronica Marquez:
+   ... Otto almost runs over Jasper?
+   ... OFF carpool with Nelson, Janey and Milhouse?
+   ... the "Suicide Notes" clerk appears repeatedly in Hullabalooza?
+   ... a "groove" is a kind of "rut"?
+   ... Homer brought a homemade Kahlua to Hullabalooza?
+   ... after Homer announces Peter Frampton and walks away, Frampton's
+       loud chord sends Homer shaking across and out the stage?
+   ... Patty, Selma, and Dolph in the hometown concert?
+
+Jason Hancock:
+   ... the store's "oldies" section has only vinyl albums (no CD's or 
+       tapes)?
+   ... Homer is able to hold a cannonball with one hand?
+   ... Homer doesn't wear underwear?
+   ... when Homer's cannonball act begins, the grandstands are nearly 
+       empty?
+   ... Homer doesn't wear his seat belt at all in this episode, while 
+       everyone else does?
+
+Tom Baker:
+   ... Homer was not wearing his seat belt?
+   ... Marge made the kids a big breakfast (bacon, eggs, and something)
+       and then Homer has a stack of pancakes?
+
+Michael Stein:
+   ... "Free Nose Piercing With Every Admission" on the ticket booth
+       sign?
+
+Mark Richey:
+   ... Otto nearly runs down Jasper and knocks over a mailbox?
+   ... Otto's jacket smells like marijuana (what a shock!)?
+   ... Homer "Keeps on Truckin'"?
+   ... Homer was wearing a bandana while roadskiing?
+   ... the Homer billboard?
+   ... Homer's skull & crossbone cape?
+   ... the constant refs to song and album titles scattered though the
+       dialogue?
+   ... Fox actually resisted the urge to talk over Sonic Youth's
+       closing theme?
+
+Dominik Halas:
+   ... the guy wearing an Edvard Munch's "The Scream" T-shirt?
+   ... the tattooed freak?
+
+Shawn Berry:
+   ... the doorman at the backstage of Hullabalooza looked almost like
+       Bart as a young adult?
+
+=======================================================================
+> Cast
+=======================================================================
+
+>> Starring
+   - Dan Castellaneta (Homer, Barney, Abe, nail guy, Otto's shoes)
+   - Julie Kavner (Marge)
+   - Nancy Cartwright (Bart, Nelson)
+   - Yeardley Smith (Lisa)
+   - Hank Azaria (Suicide Notes clerk, guy in the van, hat sales clerk,
+     NARC guy, man delivering orchestra)
+   - Harry Shearer (Otto, entrance guard, Pig guy, freak show manager,
+     guy who doesn't know if he's sarcastic, vet, security guard,
+     London Symphony Orchestra, Burns, Smithers)
+
+>> Also Starring
+   - Pamela Hayden (Milhouse, "Hate crimes!", Jimbo)
+   - Tress MacNeille (Sandra, Sandra's friend)
+
+>> Special Guest Voice
+   - Cypress Hill
+       - B-Real (himself)
+       - DJ Muggs (himself)
+       - Sen-Dog (himself)
+   - Peter Frampton (himself)
+   - The Smashing Pumpkins
+       - Billy Corgan (himself)
+       - Jimmy Chamberlain (himself)
+       - D'Arcy (herself)
+       - James Iha (himself)
+   - Sonic Youth
+       - Kim Gordon (herself)
+       - Thurston Moore (himself)
+       - Lee Ranaldo (himself)
+       - Steve Shelley (himself)
+
+=======================================================================
+> Movie, Music, and other References
+=======================================================================
+	
++ Annual rock concert Lollapalooza
+    - episode title (see below)
+    - "Hullabalooza"
+  "Jive Talking" by the Bee Gees {hl}
+    - Homer showing the kids how to say "jive"
++ CBS's "Read More About It" {ddg}
+    - Homer's line when the kids leave the carpool
++ "Mississipi Queen" by Mountain {gg}
+    - second song on Homer's radio
+~ "Necessary Roughness" {vm}
+    - "Par-tay"
++ Beach Boys' "Good Vibrations" {hl}
+    - name of the record store
++ "Hullaballoo" {hl}
+    - an NBC music and dance show of long past.
++ "Rock and Roll All Night" by KISS {hl}
+    - Homer saying he is going "Rock and roll all night and party every
+      day"
+    - KISS's first concert in 17 years was widely publicized when this
+      episode aired too
+  "Scooby-Doo" {jl}
+    - the 2nd-base mobile guy bears a striking resemblance to Fred
+    - the mobile looks like the Scooby-Doo gang's van
++ Edgar Winter Band's "Frankenstein"
+    - music during the strobe light scene
++ "You Make Me Feel Like Dancing" by Leo Sayer {hl}
+    - Homer and Barney butcher it
++ Robert Crumb's "Keep On Trucking"
+    - animation while Homer walks cool before he is claimed to be a
+      NARC
++ Pink Floyd's "Animals" album {hl}
+    - cover had a lot of pigs
+    - Pink Floyd reportedly hauled around the giant pig balloon while
+      touring on this album.  They recently brought it out of
+      retirement for one of their more recent tours {bjr}
++ "Zero"
+    - the Smashing Pumpkins' song
++ "Planet of the Apes"
+    - someone in the crowd wears a T-shirt featuring Dr. Zaius, that
+      wacky orangutan
++ "Insane in the Brain"
+    - Cypress Hill's second song
++ "Do You Feel Like I Do?"
+    - Peter Frampton's song
++ "The Flintstones"
+    - someone in the crowd wears a Great Gazoo shirt
++ "Don't Fear the Reaper" by Blue Oyster Cult {hag}
+    - Homer's line
++ Guns and Roses' "Appetite For Destruction" album {jh}
+    - Homer's line "... but all I really wanted was a club sandwich."
++ Huey Lewis and the News' "Hip to be Square"
+    - Homer's line "like the song says"
+    - many people thought it wasn't square enough to be hip, like me.
+      {vm}  [Hey, I like that song! --ed]
+
+=======================================================================
+> Freeze Frame Fun
+=======================================================================
+
+>> On the bus  {ddg}
+
+     Otto Mans
+     Bart Simpson 
+     Lisa Simpson
+     Milhouse van Houten
+     Wendell Borton 
+     Sherri and Terri
+     Janey Hagstrom 
+     Ralph Wiggum 
+     Lewis
+     Martin Prince 
+     Nelson Muntz 
+     
+     Becky and Ezekiel (but they apparently didn't get off)
+
+>> Street Sign
+
+    CAPITOL CITY
+      30 Miles
+
+>> Signs at Hullabalooza
+
+ -        HULLABALOOZA
+      Free Nose Piercing
+     With Every Admission
+
+ -   Register Not to Vote
+
+ -   Bungee Jump Against Racism
+
+ -       Raleigh-Durnam
+	 
+	   SKOAL
+	      BOWL
+
+	  HULLABALOOZA
+
+>> Some people in stands during the Frampton show  {jh}
+
+      Ruth Powers
+      Herman
+      Carl
+      Lenny
+      Otto Mann
+      Jimbo Jones
+      Waylon Smithers
+      Mr. C.M. Burns
+
+>> Sign at the Vet
+
+    CAT DETAILING
+    WHILE YOU WAIT
+
+>> Selected spectators on the grass during Homer's cannonball show {jh}
+
+      OFF (except Homer)
+      Sideshow Mel
+      Otto Mann
+      Patty and Selma
+      Nelson Muntz
+      Kearny
+      Jimbo Jones
+      Apu Nahassapeemapetilam
+      Herman {dh2}
+      Sideshow Mel {dh2}
+      Milhouse van Houten {dh2}
+
+>> Miscellaneous FFF
+
+- Homer walks by "Pizza" and "Discount Fashion".
+- Sponsors of Hullabalooza: Laramie Cigarettes, Duff Beer, Krusty
+  Burger, and Buzz Cola.  {tb}
+
+>> "Simpsons" Closing Theme Credits {ddg}
+
+     Simpsons Closing Theme
+	  Performed by
+	  SONIC YOUTH
+    
+	  Recorded at
+     ELECTRIC LADY STUDIOS
+	      by
+	 BRIAN SPERBER
+    
+>> Technical Credits (if you care) {vm}
+
+    Overseas Animation: Akom (N.J. Kim) {ddg}
+    Assistant Director: Nancy Kruse
+    Animation Timers: David Bastian, Nichole Graham, Pete Michels,
+      Brian Sheesley
+    Storyboard: John Rice, Chris Moeller, Ted Mathot
+    Character Design Supervisor: Scott Alberts
+    Character Design: Dale Hendrickson, Joseph Wack, Mark Howard, Matt
+      Groening, Sam Simon
+    Background Design Supervisor: Lance Wilder
+    Background Design: John Krause, Maria Marrioti-Wilder, Edgar
+      Duncan
+
+>> Lines in Copyright Page {ddg}
+
+    USE OF THE LOLLAPALOOZA TRADEMARK
+	COURTESY OF PERRY FARRELL
+
+=======================================================================
+> Previous Episode References
+=======================================================================
+- [7F05] Homer is a mascot and goes to Capitol City {hl}
+- [7F05], [7F13], [3F14] Mr. Burns mingles with the common people {vm}
+- [7F06] A family member wears a skull cape while doing a ridiculously
+  dangerous stunt {vm}
+- [7F11] Doctor warning Homer that he may die {jh}
+- [7F12], [1F03] Homer's high school days
+- [7F12] Flashbacks to 1974 {jh}
+- [7F17], [8F04] "Frankenstein" is heard {jl}
+- [8F17] Ominous chords using during "He'll die" {vm}
+- [8F21] Simpsons attend a concert
+- [8F21] Otto totals the bus {hl}
+- [8F21] Otto attends a rock concert {jh}
+- [9F03] Young Homer with a shirt with footprints
+- [9F09] Homer has a life-threatening medical condition {hl}
+- [9F10] Man with many cigarettes stuffed in his mouth (cf. Homer's
+  file photo)
+- [9F17] Homer is examined by a veterinarian {dh2}
+- [9F21] Homer uses the word "bong" while driving {dh2}
+- [1F20] Homer: "Forever... forever... forever..." {jl}
+- [2F02] Homer's weight neutralizes a heavy ball
+- [2F06] People accusing Homer of a crime he didn't commit {jh}
+- [3F04] Otto has acid hallucinations {vm}
+- [3F08] Raleigh/Durham, NC, is referenced {jh}
+- [3F09] Homer mentions rainbow suspenders {dh2}
+- [3F14] Someone almost runs over Jasper {vm}
+
+=======================================================================
+> Animation, Continuity, and other Goofs
+=======================================================================
+
+* Auto crushers don't pull cars in; the cars are pushed in from behind
+  somehow.  {ddg}
+
+= Becky and Ezekiel (or was that Ishmael) were on the bus before it was
+  crushed, but not in the crowd of kids afterward.  {ddg}
+
++ Lisa was eating bacon for breakfast.
+
++ Lisa should like oldies.  See 3F06.
+
++ Bart, Milhouse, and Nelson listened to seventies rock music on their
+  road trip (3F17); why would they object to it now?  {jh}
+
+= There are no houses visible along the street in front shots from
+  within the car, but houses do appear in side shots.  {dh2}
+
+= The "Laramie" ad on the magazine's back cover disappears in one shot.
+  {jh}
+
+* When Homer was looking at the van, he appeared to move only between
+  strobe flashes, and his last move would have been incredibly fast.
+  {ddg}  [Somehow, I think that was the joke.  --ed]
+
+- The flag outside Springfield H.S. has only eight stripes.  {dh2}
+
+- When Lisa holds the Hullabalooza tickets, one of them is especially
+  thick.  {ddg}
+
+* Capitol City was over 220 miles from Springfield in 7F05.  {jh}
+
+= Homer gets hit with the cannonball the first time, he sits on it ...
+  and it disappears!!  Where did it go?  {tb}
+
+* In this episode, Billy Corgan has a full head of hair, but he's
+  been bald for months now (see below).  {bjr}
+
+= At the desert venue, cheering noises are heard but the crowd is
+  motionless.  {dh2}
+
+c The closed captions misidentified Billy Corgan as "Billy Corrigan".
+
++ Homer usually wears briefs.  {vm}
+
+= One of the members of Cypress Hill is outside the building to laugh
+  at Bart, but when they get inside, he's instantly inside.
+
+= In the opening shot of the stage, it is empty, but in a close-up
+  shot, Peter Frampton is singing, and numerous people are on stage.
+
+= Otto and Jimbo are standing in front of the stage in one scene during
+  the Frampton concert, but in the next scene they are sitting in the 
+  stands.  {jh}
+
+= In the last scene, Homer is facing the cannon wearing shorts.  When
+  he jumps off the stage to hug Marge, he is back in his normal jeans
+  and no shirt (the redneck leisure suit!).  {rjr}
+
+= When the Smashing Pumpkins walk away to buy fur coats, Billy Corgan
+  and Jimmy Chamberlain are blond, and Iha and D'Arcy switch places.
+  {jl}
+
+=======================================================================
+> Comments and other observations
+=======================================================================
+
+>> Dinosaur Rock
+
+Benjamin J. Robinson notes, "In addition to the featured bands, we got
+    to hear from some classic-rock artists.  `Mississippi Queen' was
+    the second song on the radio (the one that Bart switched off in
+    disgust).  `Frankenstein,' by the Edgar Winters Group, was playing
+    as Homer reminisced about the custom van.  Of course, the song by
+    Grand Funk Railroad was, uh, was, say, what _was_ that song by
+    Grand Funk Railroad?"
+
+>> If this van's a rockin'...
+
+Benjamin J. Robinson says, "The `Kalifornia Kustom' van fad got its
+    start in the '70s.  People would find some hapless van, and outfit
+    it with high-end stereo, shag carpeting, and even beds.  Wild
+    graphics on the outside provided the finishing touch.  Custom vans
+    are still being made, but, like McDonald's, they've grown up.  Now
+    they're elaborately, almost formally, decorated, and marketed to a
+    middle-age clientele."
+
+>> I'm gonna haul ass to Lollapalooza!
+
+Benjamin J. Robinson notes, "Hullabalooza is (obviously) based on the
+    series of alternative-rock tours, Lollapalooza.  [Also based on
+    "Hullabaloo" (see above) --ed]  The original Lollapalooza was the
+    brainchild of ex-Jane's Addiction frontman Perry Farrell.  Inspired
+    by a similar festival in Reading, England (called, `The Reading
+    Festival'), Farrell created a touring concert that combined
+    cutting-edge music with sixties-throwback politics.  The basic idea
+    was to marshall together a group of bands new enough to be cool,
+    but not so new as to be completely obscure.  As they spent the day
+    playing, concert-goers could just groove to the music, or they
+    could go to an alternative `village.'  There, vendors had set up
+    kiosks selling everything from vegetarian food, to on-the-spot body
+    piercing, to the latest political causes.  The show was a big
+    success, and it has since become an annual event.  One year, a
+    traveling freak show shared the spotlight with the musicians.  They
+    performed weird stunts, many of which would never be able to air on
+    a network television show (even Fox) in a million years.
+    
+"Sonic Youth, Smashing Pumpkins, and (I think) Cypress Hill have all
+    played Lollapalooza.  So have other notable alterna-rock bands such
+    as Nine Inch Nails, the Breeders, Body Count, L7, and even funk
+    master George Clinton.  We're still waiting for Peter Frampton."
+
+>> Face the Music
+
+Benjamin J. Robinson tells me (and thank him, because I don't follow
+    the music scene.  It's none of my business.)  "If you don't follow
+    the rock music scene, you might not be familiar with all of the
+    bands.  Here's some background information on `Homerpalooza's'
+    musicians."
+
+"Some music critic once said that hardly anybody bought a Velvet
+    Underground album, but that everyone who did went out and founded a
+    successful band.  He could just as easily have been talking about
+    Sonic Youth; virtually every new band nowadays cites them as an
+    influence.  The people who decide who's hip and who isn't have long
+    admired Sonic Youth, despite (or because of) the their only
+    moderate album sales.  The band is known for their noisy, almost
+    atonal songs.  The dissonant closing theme is very Sonic Youth-ian.
+    This motif carries over into the bands they admire, too:  when
+    guitarist Thurston Moore hosted MTV's `120 Minutes,' he brought
+    along clips from acts that he liked.  They were even farther out
+    than Sonic Youth, if you can imagine such a thing."  Aaron Varhola
+    adds: "Sonic Youth has been rumored to want to do a longer version
+    of the Simpsons' theme for one of their albums.  That would make
+    the third album the theme was included on.  The other two are Danny
+    Elfman's `Music for a Darkened Theatre' and Danny Gratton's `88
+    Elmira Street'."
+
+Benjamin J. Robinson: "For the record, the Sonic Youth lineup is:
+
+     - Thurston Moore Guitar & Vocals
+     - Lee Ranaldo    Guitar
+     - Kim Gordon     Bass & Vocals
+     - Steve Shelley  Drums"
+
+"In their March 1994 issue, US magazine described Smashing Pumpkins'
+    sound as, `Passionate, richly textured neo-psychedelia.'  You can
+    judge the accuracy of this statement for yourself (they don't sound
+    _that_ psychedelic to me); Smashing Pumpkins is all over modern
+    rock radio.  The song they played was `Zero,' which oddly enough
+    was the current single when `Homerpalooza' aired.  Nice timing! 
+    Unfortunately, that timing seemed to break down when it came time
+    to drawing Billy Corgan.  He's been bald for months now, yet sports
+    a full head of hair in this episode.  One of the perils of working
+    with a long lead time, I suppose.  Oh, yeah, Smashing Pumpkins is
+    made up of:
+
+     - Billy Corgan     Guitar & Vocals
+     - James Iha        Guitar
+     - D'Arcy           Bass & Vocals
+     - Jimmy Chamberlin Drums
+
+    "According to the Smashing Pumpkins FAQ, Mr. Iha pronounces his
+    name, `ee-hah.'  You can access the FAQ at `http://www.engr.wisc.
+    edu/~agnew/sp-faq.html'.  It's designed to look best with Netscape
+    2.0.  An all-text version is at `http://www.engr.wisc.edu/~agnew/
+    sp-faq.txt' if your browser doesn't have the requisite bells and
+    whistles."  Nick Navas adds that Billy Corgan is reported to do a
+    good imitation of Homer and Marge, hence his "Woo-hoo"ing in this
+    episode.
+
+"I was less successful in finding information on Cypress Hill.  As you
+    could probably tell, they're a rap band.  They've enjoyed big
+    success with their single, `Insane in the Brain.'  In addition to
+    Lollapalooza, I remember the group performing on `Saturday Night
+    Live.'  Cypress Hill's biggest claim to fame so far is their
+    fiercely pro-marijuana-legalization stance; the band has been very
+    activist in promoting this cause on and off the stage.  This
+    explains why most of the drug humor in this episode is attached to
+    them."
+
+    "As the credits indicate, Cypress Hill is B-Real, D.J. Muggs, and
+    Sen-Dog.  I'm not Cypress Hill-literate enough to tell who mans
+    what position, however."
+
+"Peter Frampton was a big guitarist and singer in the mid-'70s.  He's
+    best known for (of all things) a live album, `Frampton Comes
+    Alive,' which featured such hits as `Show Me the Way.'  This
+    episode featured the live version of `Do You Feel Like I Do.'  I
+    don't think he's done anything earth- (or chart-) shattering
+    lately; like a lot of '70s acts, he's in a `permanent nostalgia
+    tour' mode.  On the other hand, David Bowie did pick him to play
+    guitar on the Glass Spider tour."  John Westergaard adds that
+    Frampton's guitar said, "I want to fV(& you" on "Frampton Comes
+    Alive" version.
+
+>> I'll give Gen X-ers the helping hand they deserve: the iron fist!
+ 
+Aaron Varhola notes, "Burns' remark was interesting.  A couple years
+    ago, Pearl Jam sued Ticketmaster, claiming anti-trust violations;
+    Pearl Jam wanted to market tickets for its tour at a flat $20, but
+    Ticketmaster insisted on adding `service charges' to the price.
+    The band members ended up testifying before Congress, but no anti-
+    trust action was taken.  BTW, Pearl Jam turned down the chance to
+    be in this episode; the line would have been more ironic had they
+    been in the episode."
+
+>> That Smooth Carolina Smoke
+
+Don Del Grande says, "The `Skoal Bowl' is probably a reference to
+    tobacco companies having to find `alternative' ways to advertise on
+    TV since tobacco commercials (cigarettes in 1971, all forms
+    sometime in the early 90s) were banned on television in the USA.
+    (For example, a number of tobacco signs appear on scoreboards that
+    would show up when a baseball player is rounding first base and is
+    shown in a close-up.)"
+
+>> The Wormy Apple
+
+The "Suicide Notes" clerk doesn't know about Apple Computer.  Veronica
+    Marquez rambles, "Apple Computer was a company pioneered by Steve
+    Wozniak and Steve Jobs out of their garages.  Since 1979 they have
+    catapulted into computer fame with the Apple II series and the
+    Macintosh computers.  But lately the company has been falling
+    apart.  Steve Jobs left Apple because of disputes about the Mac 
+    and formed his own company, NeXT.  He made veeery sloow computers
+    using the UNIX system and a clunky graphics interface.  [Which is
+    what I have at school.  --ed]  They had no color at first, but by
+    the time they released a color NeXT, it was too late, and the
+    company bowed out of the business in 1995.  The once-president of
+    Apple (can't recall his name, but they recruited him from PepsiCo)
+    tarnished the name of the company, and the Apple II series has been
+    discontinued.  Sales of Macs continue to be low today, despite
+    numbers of people who continue to be loyal (including myself.)
+    Things look bleak for Apple Computer."
+
+>> Slo-Mo Shot of Homer in his first Cannon Experience
+
+That is a reference to something, but I don't know what.  A '94
+    Skittles commercial featured stock footage from the '40s and '50s,
+    and one of them was a B&W shot of a big guy being shot with a
+    cannon and held by a trampoline much like Homer in slow motion.
+
+Richard Rodriguez, Jr. adds, "I think Fred Rogan (The Lighter Side of
+    Sports?)  used to give out a trophy commerating this act for people
+    who had shown similar intestinal fortitude."
+
+>> I just heard them on the King Biscuit Flour Hour!
+
+Jason Hancock says, "Styx (one of the groups whose record Homer found
+    in the `oldies' section) was a Chicago-based rock band of the late
+    seventies and early eighties.  Its well-known tunes include
+    `Renegade', `Blue Collar Man', `Too Much Time On My Hands', and
+    `Mr. Roboto,; a song Homer quoted from in `Team Homer' (3F10)."
+
+>> Freak Show!
+
+Philip H. Carver says "If I am not horribly mistaken, then this whole
+    sideshow thing is in reference to Jim Rose's travelling sideshow
+    freaks, who did/do tour with Lollapalooza...Not so sure about a
+    cannon man, but Jim Rose nails nails in his nose, and was seen in
+    the beginning of the concert..Also, for you X-Files fans, the
+    episode where the man who has a puzzel of a globe tattooed on his
+    body also travels with this group, and his name is The Enigma...if
+    you were curious.."
+    
+>> Miscellaneous References
+
+Abba... a mediocre foreign pop band that has a cult following... and
+    I think I just insulted them.
+
+"The Alan Parsons Project consists of Alan Parsons (mostly renowned as
+    a producer, and engineer of the Beatles' `Abbey Road' and Pink
+    Floyd's `Dark Side of the Moon') and Eric Woolfsonm as well as a
+    passel of British Studio musicians.  They have released a series of
+    concept albums beginning with `Tales of Mystery and Imagination:
+    Edgar Allan Poe' and are probably best remembered for their songs
+    `Eye in the Sky' and `Don't Answer Me'.  Though the group has its
+    fans (called `Projectologists') it is considered by many to be a
+    poor man's Pink Floyd," says Dale Abersold.
+
+Dominik Halas says, "Josten's is a company which sells overpriced
+    high-school photos and, apparently, class rings.  The Clark Bar is
+    one of many products, such as Bosco chocolate syrup and Drake's
+    coffee cakes, which I know of only from Seinfeld."
+
+=======================================================================
+> Reviews                                        
+=======================================================================
+
+Dale Abersold - To paraphrase a line from the episode, "Homerpalooza"
+    isn't about writing or characterization.  It's about marketable
+    guest voices.  It was saved from a failing grade only by its rips
+    on corporate America and its drug jokes.  C-.
+
+Tom Baker - Not bad at all.  I liked it.  But ... it was painfully
+    obvious I was watching a "cartoon", not something that could
+    really happen. [...] Besides, I don't like Generation X jokes.
+    That term doesn't seem to apply to the young people *I* know.
+    I give this a B.
+
+Shawn Berry - I thought this episode was kinda mediocre. I give it a C.
+
+Frederic Briere - Well... I didn't feel very comfortable watching
+    Homerpalooza, as if it were a party and I wasn't invited.  After
+    all, it was meant as a gift for the fans of all those bands
+    mentioned throughout the episode; since I don't know most of them
+    and don't care for the others, I don't think I have the right to
+    comment the musical part of it. As for the "true" Simpsons part,
+    which made roughly a third of the episode, it was above average,
+    making Homerpalooza still enjoyable for me.  GRADE: C+
+
+Chris Courtois - "Homerpalooza" was the sort of episode that has been
+    rare lately, one that improves on multiple viewings. The first time
+    through I was overwhelmed by the "look-at-all-the-cool-guest-stars-
+    we-got" aspect and ranked the episode a high C.  But the second
+    time around, I remembered all the genuinely funny bits scattered
+    throughout the episode. Lots of spoofing of the whole Lollapalooza
+    music festival scene. When the episode focused on satire, it was
+    quite good. It was less interesting when it was trying to come up
+    with stuff for the myriad guest stars to do. Fewer guests would
+    have improved the show. Still, as ratings ploys go, it was better
+    than it needed to be. Final grade: B.
+
+Don Del Grande - B-plus - the only things I didn't really like about
+    this episode were (a) the lack of "things happening" when Homer was
+    on the tour (it was "stop at a town, Homer takes a cannonball in
+    the stomach, stop at another town, Homer takes another one in the
+    gut, etc."), and (b) the telegraphed "Homer chooses his family"
+    ending.
+
+Jeff Gustafson - Well, it wasn't that good, but not that bad either.
+    This episode had a few laughs, but I feel it was upstaged by 
+    "Summer of 4 ft. 2".  Grade: B-
+
+Dominik Halas - Episodes in which rock groups guest star (Flaming
+    Moe's, The Otto Show) are usually excellent, and this was no
+    exception.  This episode had lots of great lines from Homer, a good
+    flashback, and dead-on satire of today's teenage culture.  Grade:
+    A-.
+
+Jason Hancock - To quote Braves announcer Skip Caray, "It had a home
+    run cut, but it came up empty" -- especially after all this hype.
+    I'm not a big fan of alternative music to begin with (and I'm 20
+    years old), but the whole idea of Homer trying to be a part of
+    Generation X just didn't work for me.  A generic ending didn't
+    help either.  Grade:  D.
+
+Lawrence Lam - This was an okay episode, didn't interest me too much.
+    I didn't see "The world is a vampire." "It is? AAAAAA!!!!" Wasn't
+    Barney supposed to be Smart before his Beer-years? It didn't seem
+    to like it. Who are these bands that Homer talks about? I give it a
+    B-.
+
+Norman J. Landis - "Homerpalooza" was a bit flat in parts and the real
+    musicians when given speaking parts showed why they should stick
+    with music and forego a career in voiceovers.  Still, any savage
+    satire, as this was, is OK by me.  Plus I finally got a new sig! 
+    Thanks Grampa!!!!  My grade: A-
+
+Haynes Lee - The Simpsons finally meet Generation X. A great season
+    finale. But what about the Yellow Album?  GRADE: A
+
+John Westergaard - [responding to above] I totally disagree.  D+.  All
+    jokes fell flat (IMHO)  Except the "Otto's jacket" one.
+
+Veronica Marquez - The Gen-X stabs were right on the money and the
+    guest voices didn't mind making fun of themselves.  It sounded
+    like it was going to be terrible but it turned out to be
+    wonderful.  I give it an A+.
+
+John Murray - Overall this was only an okay episode, while it did do
+    well at the gen X parody it seriously lacked any of the Simpsons
+    trademark ROFL lines that the great episodes have.  Even the guest
+    stars didn't really make me like this episode any better.  Also the
+    gen X parody, was funny at first but about halfway through it just
+    got old.  Grade:  D-
+
+Ryan Pederson - The Season Finale was okay, the part with Homer in the
+    car talking about jive was pretty funny and I also enjoyed the
+    Cypress Hill jokes.  Otto triping on acid was funny.  The show is
+    really turning into a show for oldering teens.  The flash back
+    scene with Homer was classic.  The show seemed to get off on a
+    great start, but after Homer goes to the concert it goes downhill.
+    But the none-stop jokes seem to have disappeared from the show
+    entirely.  Nevertheless still very funny, but this episode was too
+    hyped up.  They could have made better jokes with all the guest
+    stars on the show.  B
+
+Jeff Reis - I gotta say I liked it, though it did have its weaknesses--
+    the perfunctory guest shots, the abrupt ending, several flat gags.
+    I feel like more could have been done with such ripe material, but
+    this was an above average effort in spite of itself. [...]
+    Anyway the lame stuff/good stuff ratio was at least 50/50 here
+    (probably better) and that makes it one of the season's stronger
+    episodes. It's almost a B-, but I'll give it the benefit of the
+    doubt and a B.
+
+Benjamin J. Robinson - Good bands and great spoofing of the modern-rock
+    scene combine to make "Homerpalooza" a kickin' tale.  The best part
+    is that the highlight is _not_ the soundtrack -- it was the way the
+    writers poked fun at their guest bands. Peter Frampton, especially,
+    had a great cameo -- right up there with Ringo Starr's appearance
+    several years back.  Well, Dick, "Homerpalooza" had a nice beat and
+    you could dance to it, so I'll give this one an A-.
+
+Mark Richey - I'm not much of a fan of alternative music (my music
+   tastes actually run closer to Homer's), so this episode really
+   didn't work that much for me.  I enjoyed the ruthless satire of
+   Lollapalooza, and I did get most of the jokes involving the various
+   bands, but it could have been much funnier.  Grade:  C+
+
+Terrance Scanlan - The act I found had no storyline, and Otto's dream
+   at the beginning sorta threw it off, and if Homer knew that
+   Hullabalooza was coming to Springfield why didn't he wait til then
+   to take Bart and Lisa.  But what really made me smile was the idea
+   of Homer being a stuntman (and what his stunt was), it really made
+   Homer shine, unlike Homer Defined.  Grade: ***,  B+,  8/10.
+
+Devin Tuffy - A somewhat lame plot but helped with some good laughs
+   (most involving Cypress HIll) and lots of great Gen-X and
+   alternative music scene (?) slams.  B-
+
+Aaron Varhola - Tight writing and a lot of ROTFLMAO lines; the bands
+    did a good job of parodying themselves, especially Cypress Hill.
+    The opening seemed forced, and the end was a classic "moment of
+    uh...crud", but the rest of the episode held together well as both
+    satire and touching family comedy. I liked Bart's report topic,
+    touching and nicely understated. A/A-.
+
+Yours Truly - "Homerpalooza" surpasses "The Otto Show" at spoofing
+    rock and roll, and takes lots of stabs at Generation Xers.
+    Certainly there will be a few that are offended, but that's their
+    own damn problem.  I liked this episode, and give it a B.
+
+AVERAGE GRADE: C+/B- (2.78)
+
+=======================================================================
+> Quotes and Scene Summary {fb}
+=======================================================================
+% It's the School District Safety Awards night, and the winner is...
+% no, that can't be! Not Otto?!
+
+Wow. You know, most of my life I've... I've had to live with the shame
+of being a screw-up. But now, as I stand here with the award for the
+district's safest bus driver... well, it... it's like a dream come
+true.
+-- The fantasies of a bus driver, "Homerpalooza"
+
+% Of course it is a dream, as the district's safest bus driver would
+% never be sleeping on the road, which is what Otto is doing right now.
+% Milhouse wakes him up just in time to dodge Jasper who is crossing
+% the street, but abrupt maneuvers send the bus spinning off control
+% into the auto wrecking yard. With all the professionalism he has,
+% Otto manages to park the bus right into the car crusher. The kids run
+% out screaming as the bus is quickly reduced to one tenth of its size.
+
+So, um... who's good at keeping secrets?
+-- Otto, about to design a cover-up, "Homerpalooza"
+
+Dear parents. Due to yesterday's unscheduled field trip to the auto
+wrecking yard, the school bus will be out of commission for two weeks.
+By reading this letter out loud, you have waived any legal
+responsability on our part in perpetuity throughout the universe.
+-- Marge reads the school's letter, "Homerpalooza"
+
+Homer: Well, we'll have to organize a car pool. Hey! Every day will be
+       like a road trip... with your dad... to school!
+ Kids: [groans]
+-- This almost sounds exciting, "Homerpalooza"
+
+% The next morning, Homer takes the responsability of car pooling Bart,
+% Lisa, Milhouse, Nelson and Janey. He tries to make the trip fun, but
+% fails miserably.
+
+Homer: So... how about those rainbow suspenders, huh?
+ Bart: Dad...?
+Homer: Pretty cool way to keep your pants up, eh?
+ Bart: Dad!
+Homer: I see these kids now with "Jive" printed on their shirts.
+       Pftt... Now, I can teach you how you're supposed to say "jive".
+ Lisa: Dad... Please just drive the car, dad.
+Homer: I'm watching the road, sweetie.
+       You <jive> turkey. See? You got to <sass> it. Quit <jivin'> me,
+       turkey. You got to sass it. A "turkey" is a bad person.
+-- On the verge of beating Grampa, "Homerpalooza"
+
+% In order to sink even lower, Homer turns on the radio to his favorite
+% station, which he's the only one in the car to enjoy.
+
+KFSL -- Fossil 103. Classic hits from Abba to Zeppelin, comma, Led.
+-- Never thought I'd miss KBBL, "Homerpalooza"
+
+% Milhouse asks Homer to change the radio station, but Homer retorts
+% that it's Grand Funk Railroad.  No one knows what he's talking about,
+% and Homer is surprised.
+%
+% Homer drops the kids to school, and they rush out of the car.
+
+For more information on Grand Funk, consult your school library!
+-- Homer's word of wisdom, "Homerpalooza"
+
+% That afternoon, on the way back, Homer explains to the kids how he
+% nods his head to the music.
+
+ Bart: Dad, please, you're embarrassing us.
+Homer: No, I'm not.
+-- What an argument, "Homerpalooza"
+
+% And thus Homer keeps going on and on...
+
+Grand Funk Railroad paved the way for Jefferson airplane, which cleared
+the way for Jefferson starship. The stage was now set for the Alan
+Parsons project, which I believe was some sort of hovercraft.
+-- Homer, who else, "Homerpalooza"
+
+ Bart: Dad! No one cares about any of your stupid dinosaur bands! You
+       have the worst, lamest taste in music ever.
+	[turns off the radio]
+Homer: I'm just trying to party with you guys.
+ Bart: Homer, first of all, it's "par-tay", and second, we wouldn't
+       "par-tay" with you if you were the last dad on Earth.
+-- "Homerpalooza"
+
+% This slap in the face troubles Homer, so he decides to take a walk at
+% his favorite music store, "Good Vibrations" --later renamed "Suicide
+% Notes".  He searches for the latest Bread releases and is surprised
+% when directed to oldies.
+
+Homer: Now, here are some of your no-name bands. Sonic Youth? Nine Inch
+       Nails? Hullabalooza?
+Clerk: Hullabalooza is a music festival; the greatest music festival of
+       all time.
+Homer: There can only be one truly great festival a lifetime and it's
+       the "Us Festival".
+Clerk: The <what> festival?
+Homer: The "Us Festival"! Geez! It was sponsored by the guy from Apple
+       Computers.
+Clerk: <What> computers?
+-- You know, the guy with the suit, "Homerpalooza"
+
+% Homer walks in the street, dejected.
+
+Why do you need new bands? Everyone knows rock attained perfection in
+1974. It's a scientific fact.
+-- Homer, "Homerpalooza"
+
+% Flashback to the aforementioned year, where a group of people are
+% installing a strobe light in a custom van of theirs: "Quadraphonic
+% sound, a waterbed, and now a strobe light. Gentlemen, say hello to
+% the second-base mobile." When they resume dancing on "Frankenstein"
+% with the strobe light on, Homer tries to join in, but fails
+% miserably.
+%
+% "Back then, we didn't care what anyone thought and the chicks found
+% that irresistible." narrates Homer, as he remembers drinking from the
+% school fountain as two teen girls walk by. "I think you're <cool>,
+% Homer Simpson." affirms one of them, and even if the other one
+% declares that this remark was mean, Homer takes it as a compliment.
+%
+% "But most of all, I remember the music..."  Homer and Barney, in
+% Homer's room, butcher "You Make Me Feel Like Dancing", when Abe
+% interrupts them.  "What the hell are you two doing?"  "It's called
+% rockin' out," replies Barney, and Homer tells Abe he wouldn't
+% understand 'cause he's not "with it".
+
+I used to be with it, but then they changed what "it" was. Now, what
+I'm with isn't it, and what's "it" seems weird and scary to me.
+-- "Homerpalooza"
+
+% He warns them, "It'll happen to you."  But teen Homer denies the
+% undeniable, and looks at the mirror: "We're gonna keep on rockin'
+% forever... forever... forever..." Fade-in to adult Homer, looking at
+% his reflection, and realizing those words have lost their meaning.
+
+Marge: What's wrong, Homie?
+Homer: [sighs] I went to the record store today and they were playing
+       all that music I've never heard of. It was like the store had
+       gone crazy.
+Marge: Hmm. Record stores have always seemed crazy to me, but it
+       doesn't upset me. Music is none of my business.
+-- "Homerpalooza"
+
+% "That's fine for you, Marge", Homer says, "but I used to Rock 'N'
+% Roll all night and party everyday."  Now he finds he has little time
+% left to get funky.
+       
+I've gotta get out of this rut, and back into the groove.
+-- Homer, "Homerpalooza"
+
+% Marge asks him to include Bart and Lisa.
+%
+% The next morning, Bart and Lisa apprehend another humiliation.
+
+Bart: Dear Lord, if you keep Homer from embarrassing us today, we
+      promise to build several churches in your honor.
+Lisa: Bart, no!
+-- The price to pay, "Homerpalooza"
+
+% Homer passes in front of Milhouse without stopping.
+
+Hey, wait! I'm okay today! My mom bought me deodorant!
+-- Milhouse, "Homerpalooza"
+
+ Lisa: Dad, you forgot to pick up Milhouse.
+Homer: [exagerated] I <did>? I must be getting forgetful in my old age.
+       Open the glove compartment and fetch me my brain medicine.
+-- This stuff doesn't seem to be working at all, "Homerpalooza"
+
+% Lisa doesn't understand the point of all this, but Homer keeps
+% pointing at the glove compartent. Curious, she opens it, to find...
+
+Homer: Well? What have we here? Looks like your uncool dad scored
+       tickets to Hullabalooza!
+ Lisa: [gasps] Bart... these look real...
+ Bart: Check the authenticator spot
+	[Lisa removes a sticker, which reveals a microchip]
+ Chip: This is an authentic Hullabalooza ticket. For authentic
+       refreshment, eat Clark bars. And for totally outrageous class
+       rings, it's Josten's. Go, Josten's!
+-- "Homerpalooza"
+
+You're not going to school today. Today your classroom will be the
+Capitol City amphitheater; your teacher, four dozen rock bands. So, get
+ready for some well-supervised craziness while you rock out with your
+father!
+-- Homer, "Homerpalooza"
+
+% [End of Act One.  Time: 7'28"]
+%
+% Once they reach Hullabalooza ("Free nose piercing with every
+% admission"), the kids feel right at home.
+
+Wow! It's like Woodstock, only with advertisements everywhere and tons
+of security guards.
+-- Lisa reflects on Hullabalooza, "Homerpalooza"
+
+% They get let in, but Homer has to surrender his homemade kahlua.
+
+ Lisa: Generation X may be shallow but at least they have tolerance and
+       respect for all people.
+Homer: Hey: a freak show!
+-- To a certain extent, "Homerpalooza"
+
+% Performers include a bearded woman, a man smoking dozens of
+% cigarettes at one time, two poodles, and a man able to stick nails in
+% his nose.  After hitting his finger with the hammer, he presents the
+% next attraction: Cypress Hill.
+
+Before we start, we have a lost child here. If she's not claimed within
+the next hour, she will become property of Blockbuster Entertainment.
+-- A warning from Cypress Hill, "Homerpalooza"
+
+Bart: [sniffing] What is that smell?
+Lisa: It smells like Otto's jacket...
+-- Which can only mean one thing... "Homerpalooza"
+
+% Homer, on his side, is buying some kind of Jamaican hat.
+
+Clerk: Dude, karma.
+Homer: What?
+Clerk: [pointing at the hat] Karma, <karma>.
+	[pause]
+Homer: [neuter] Oh, I get it. [walks away]
+-- But I don't, "Homerpalooza"
+
+% Just as Bart and Lisa are starting to appreciate the show, Homer
+% shows up, wearing this hat of his.
+
+ Bart: Dad, you cannot wear that! That's a rastafarian hat.
+Homer: Pft. Hey, I've been safariing since before you were born.
+ Lisa: Wearing a Jamaican hat makes a bold statement about your
+       connection to reggae music.
+Homer: Well, <excuse> me.
+       [sticks a "Too cool for this planet" sticker to his hat]
+ Bart: You know what, dad? Maybe we'll go exploring on our own for a
+       while.
+	[the kids run away]
+-- Run boy, run for your life!, "Homerpalooza"
+
+% Left alone, it's time for Homer to get in touch with the young
+% people.  He tries to blend in the crowd, but his Jamaican-rastafarian
+% hat gets in the way.
+
+Homer: Good concert, am I right?
+Teen1: Yeah, nice try, narc.
+Teen2: Where's a narc?
+Teen3: Who?
+Teen1: That fat Jamaican guy.
+Homer: What did I say? What's going on?
+Teen4: Hey, we're just trying to have a good time, narc. Why do you
+       want to destroy us?
+Teen5: Don't commit your hate crimes here. [yelling] HATE CRIME!
+-- All I did was say "Gimme four more justices", "Homerpalooza"
+
+% Thus Homer finds himself on the top of the crowd, being led outside.
+%
+% Meanwhile, Bart and Lisa are at the concert listening to Smashing
+% Pumpkins, where the crowd is  dancing in sort sort of nostalgic
+% trance.
+
+Lisa: It may be bleak, but this music is really getting to the crowd.
+Bart: Eh, making teenagers depressed is like shooting fish in a barrel.
+-- "Homerpalooza"
+
+% Homer walks away, disillusioned as always.
+
+Oh... Makes no sense. I haven't changed since high school and suddenly
+I'm uncool.
+-- Hand Homer a mirror, "Homerpalooza"
+
+% In his rage, Homer kicks a cannon, which goes haywire. After several
+% bursts, it shoots its bullet right into Homer's stomach. After
+% bouncing off and falling on the ground, the bullet breaks open,
+% revealing an inflatable pig, which soars in the sky.
+
+    Tech: Aw, man. There goes Peter Frampton's big finale. He's gonna
+	  be pissed off.
+Frampton: You're damn right I'm going to be pissed off; I bought that
+	  pig at Pink Floyd's yard sale!
+-- Oink oink, "Homerpalooza"
+
+% But the crowd is more impressed with Homer's ability to withstand
+% such a blow without any side effects. Even a manager is impressed:
+
+Sir, I run Hullabalooza's pageant of the transmundane --the freak show,
+and I've been looking for a big fatso to shoot with a cannon. I'd like
+very much for you to be that fatso.
+-- Hullabalooza's manager wants to hire Homer, "Homerpalooza"
+
+% Homer is flattered, but Marge doesn't take it the same way.
+
+Marge: So... you want to go on tour with a traveling freak show.
+Homer: I don't think I have a choice, Marge.
+Marge: Of course you have a choice.
+Homer: How do you figure?
+Marge: You don't have to join a freak show just because the opportunity
+       came along.
+Homer: You know, Marge, in some ways, you and I are very different
+       people.
+-- After all these years, he finds out, "Homerpalooza"
+
+% As you could've guessed, Homer stuck with his idea, and is about to
+% be shot on stage for the first time ever.
+
+[in a shy, nervous tone] Hi everybody. Is everybody... good?
+-- Homer is about to begin his number, "Homerpalooza"
+
+% Homer puts on his safety glasses, takes place in front of the cannon,
+% and receives the bullet right in the stomach. He quickly gets up,
+% though, and is acclaimed by the crowd.
+%
+% In backstage, Homer autographs a cannon ball: "Stay in school, your
+% hero, Homer". The kid takes the ball, but is instantly crushed by it.
+
+Corgan: Hey cannonball, I like your statement: when life takes a cheap
+	shot at you, you stand your ground. Billy Corgan, Smashing
+	Pumpkins.
+ Homer: Homer Simpson, smiling politely.
+-- That's not a band!, "Homerpalooza"
+
+ Homer: You know, my kids think you're the greatest. And thanks to your
+	gloomy music, they've finally stopped dreaming of a future I
+	can't possibly provide.
+Corgan: Well, we try to make a difference.
+-- Positive differences, check with Barry Manilow, "Homerpalooza"
+
+% At school, Bart reads a letter from his father.  "Dear Bart and Lisa.
+% All is well on tour with America's most popular alternative music
+% festival."  Cut to a shot of the Hullabalooza bus on a 3-way
+% crossing.  They turn left for Cleveland, then back and right for
+% Cincinnati, then they change their minds and turn back home.
+%
+% "Our first job is to entertain."  Homer gets shot with a cannon, with
+% cheering from the crowd.  "And I like to think sometimes we get a
+% message across as well."  Same thing, but this time Homer has "No
+% Litter" written on his stomach before he gets shot.
+%
+% "But the main thing is: I've finally tapped into that spirit of self-
+% destruction that makes Rock 'N' Roll the king of music."  Everyone on
+% the bus is cheering Homer, who's "water-skiing" with the bus, only
+% with frying pans instead of skis.  Cypress Hill throws cans at him.
+% Homer yells "Woo-hoo!"
+
+% And the tour keeps going on, with a huge success.
+
+Teen1: Oh, here comes that cannonball guy. He's cool.
+Teen2: Are you being sarcastic, dude?
+Teen1: I don't even know anymore.
+-- Well, duh, "Homerpalooza"
+
+Thank you! And remember, don't trust anyone over 30! And now, Peter
+Frampton!
+-- Homer, after his number, "Homerpalooza"
+
+Corgan: Hey, Homer, looks like our next stop is your hometown,
+	Springfield.
+D'Arcy: Is it true that we have to bring our own water?
+ Homer: We got a little rule back home: if it's brown, drink it down;
+	if it's black, send it back.
+-- Springfield, still a national proudness, "Homerpalooza"
+
+Chamberlin: The hometown show's the big one, Homer.
+       Iha: Yeah, people who called you a weirdo in high school get to
+	    see what a successful freak you've become.
+	    [points to D'Arcy]
+    D'Arcy: Hey, I wasn't a weirdo. I was in the audio-visual club.
+     Homer: Really? Me too! But I got kicked out 'cause of my views of
+	    Vietnam. Also, I was stealing projectors.
+-- Also because I didn't know what I was doing, "Homerpalooza"
+
+% When Homer drinks beer to celebrate, though, his stomach echoes when
+% he burps.  The manager, worried, slaps his stomach and the same
+% echoic sound occurs.
+
+Homer, nothing's more important to me than the health and well-being of
+my freaks. I'm sending you to a vet.
+-- Hullabalooza manager, "Homerpalooza"
+
+% The veterinarian diagnoses that the cannonballs have demolished
+% Homer's stomach.  Among other things, he strongly encourages Homer
+% not to get hit by another cannonball.
+
+Homer: Pftt... Rules. I'm a rocker, I don't care for rules.
+  Vet: Mr. Simpson, this is serious. If you take one more cannonball to
+       the gut, you will die.
+Homer: Die? Well, you don't scare me, doc, 'cause dying would be a
+       stone groove. Got any messages for Jimi Hendrix?
+  Vet: Yes: "Pick up your puppy."
+	[pan to Rover Hendrix]
+-- And play better shuffleboard, "Homerpalooza"
+
+% [End of Act Two.  Time: 15'24"]
+%
+% Back at home, Homer is the subject of Bart's attention.
+
+ Bart: So, what's it like being famous, dad?
+Homer: People know your name, but you don't know theirs. It's great.
+-- Basic mantra of the prestigious, "Homerpalooza" 
+
+ Bart: Do you wear boxers or briefs?
+Homer: [checking] Nope.
+ Bart: What religion are you?
+Homer: You know, the one with all the well-meaning rules that don't
+       work out in real life. Uh... Christianity.
+-- "Homerpalooza"
+
+% Homer wonders why all those questions, but Bart avoids the subject by
+% saying it's "just some report [he's] gotta do for school", and offers
+% him a piece of pie. While he's away, Homer takes a look at Bart's
+% paper, which is about the person he admires most: his father. When
+% Bart comes back, they eat their pie silently, sharing this moment,
+% but the rumbling from Homer's stomach reminds him of the price he
+% could pay.
+%
+% At Springfield Fairgrounds, the family is allowed access to the
+% backstage of Hullabalooza.
+
+Guard: Clear the way, clear the way! Performer coming through.
+Marge: This is so exciting. Last time I got to go backstage was when
+       Bart ripped his pants at the Christmas play.
+ Bart: Mom...
+   DJ: [pointing to Bart] Ha-ha!
+-- Cypress Hill takes a cue from Muntz, "Homerpalooza"
+
+% Once backstage, it's time for the last-minute preparations...
+
+Who is playing with the London Symphony Orchestra? Come on people,
+somebody ordered the London Symphony Orchestra... posssibly while high.
+-- Backstage at Hullabalooza, "Homerpalooza"
+
+% Most signs point at Cypress Hill, so they take the orchestra:
+
+       DJ: Uh, do you know "Insane in the Brain"?
+Violinist: [British accent] We mostly know classical... but we could
+	   give it a shot.
+	    [hip-hop music, gradually accompanied by the orchestra]
+	   "Put the water on the flame, boiling temper"
+	   "Just toss that ham in the frying pan like spam..."
+-- Mmm... spam, "Homerpalooza"
+
+% On stage, Peter Frampton uses a synthesized voice to create the
+% illusion that his guitar "talks" while playing.
+
+     Jimbo: Man, that guy's guitar is talking.
+      Otto: Hey, my shoes are talking too!
+ Left Shoe: Don't worry. We won't hurt you.
+Right Shoe: We only want to have some fun.
+-- "Homerpalooza"
+
+% There are even some spectators you wouldn't expect...
+
+   Burns: [chuckles] And to think, Smithers: you laughed when I bought
+	  TicketMaster. "Nobody's going to pay a 100% service charge."
+Smithers: Well, it's a policy that ensures a healthy mix of the rich
+	  and the ignorant, sir.
+-- Burns attends Hullabalooza, "Homerpalooza"
+
+% Back on stage, Frampton's having some problems with his show, as his
+% "pig" pedal doesn't do anything.
+
+Frampton: God. Homer Simpson wrecks my pig, Cypress Hill steals my
+	  orchestra, and Sonic Youth's in my cooler! Get out of there,
+	  you kids!
+   Moore: Aw, come on, Mr. Frampton. You're not gonna eat <all> that
+	  watermelon.
+Frampton: Please, I'm trying to perform!
+ Shelley: Go ahead. We'll stay here and guard your cooler.
+	   [they all dig in]
+-- "Homerpalooza"
+
+% Discouraged, Frampton leaves the stage to Homer.
+
+And now, Springfield, this is the moment that you've been waiting for,
+the man who embodies everything about Rock 'N' Roll, except the music.
+-- Introduction, "Homerpalooza"
+
+% The crowd cheers their homegrown hero like no one else; even Milhouse
+% is proud to state: "I used to carpool with that guy".
+
+Oh, this is heavy. Okay Homer, don't fear the reaper.
+-- "Homerpalooza"
+
+Marge: Cannons are designed to hurt. They're <designed> to <hurt>.
+ Lisa: Shh! Mom, dad needs our support.
+Marge: [smiles to Homer]
+ Bart: You're the coolest dad alive!
+-- He won't stay both for very long, "Homerpalooza"
+
+% As the cannon fuse burns, everybody is paralyzed in anticipation of
+% Homer's stunt, even Sonic Youth who have stopped eating their
+% watermelon. Ultimately, Homer dodges the cannon, to the disappoint-
+% ment of the crowd.
+
+I thought I had an appetite for destruction, but all I wanted was a
+club sandwich.
+-- Homer, after "wussing out", "Homerpalooza"
+   
+   Homer: Oh, Marge. I thought I had an appetite for destruction, but
+	  all I wanted was a club sandwitch.
+   Marge: There might be one in this cooler.
+	  [digs in Frampton's cooler] Oh, here you go.
+Frampton: Ohh!
+-- "Homerpalooza"
+
+Oh, man. Homer wussed out. I'm so disillusioned.
+-- Lee Ranaldo, "Homerpalooza"
+ 
+Hullabalooza isn't about freaks; it's about music, and advertisement,
+and youth-oriented product positioning.
+-- Kim Gordon, "Homerpalooza"
+
+ Gordon: Hey, Hullabalooza isn't about freaks; it's about music, and
+	 advertisement, and youth-oriented product positioning.
+Sen-Dog: That, and getting toasted. Nicely toasted.
+-- "Homerpalooza"
+
+Manager: Homer, I'm sorry. There's nothing worse than a yellow-bellied
+	 freak... unless that's his act. I expect your letter of
+	 resignation on my desk.
+  Homer: You have a desk?
+Manager: I mean, the hood of my car.
+-- "Homerpalooza"
+
+     Homer: I'll miss you, Pumpkins, but I just can't share your bleak
+	    world view. I've got too much to live for.
+    Corgan: We envy you, Homer. All we have is our music, our legions
+	    of fans, our million of dollars and our youth.
+	     [pause]
+	    Woo-Hoo!
+       Iha: Let's all go out and buy fur coats!
+Chamberlin: I want a walk-in humidor.
+-- So much for _that_ plan, "Homerpalooza"
+
+% In the car, on the trip to go home, Homer concludes his adventure:
+
+    Homer: So, I realized that being with my family is more important
+	   than being cool.
+     Bart: Dad, what you just said was powerfully uncool.
+    Homer: You know what the song says: "It's hip to be square".
+     Lisa: That song is so lame.
+    Homer: So lame that it's... cool?
+Bart+Lisa: No.
+    Marge: Am I cool, kids?
+Bart+Lisa: No.
+    Marge: Good. I'm glad. And that's what makes me cool, not caring,
+	   right?
+Bart+Lisa: No.
+    Marge: Well, how the hell do you <be> cool? I feel like we've tried
+	   everything here.
+    Homer: Wait, Marge. Maybe if you're truly cool, you don't <need> to
+	   be told you're cool.
+     Bart: Well, sure you do.
+     Lisa: How else would you know?
+-- "Homerpalooza"
+
+% [End of Act Three.  Time: 21'30"]
+%
+% Over the credits, a crowd of teenagers dances mindlessly to "The
+% Simpsons" theme as played by Sonic Youth.
+
+=======================================================================
+> Contributions
+=======================================================================
+
+{dga} - Dale Abersold 
+ {tb} - Tom Baker
+ {gg} - Geoff Gardner
+{hag} - Herschel A. Gelman
+{ddg} - Don Del Grande 
+{dh2} - Dominik Halas 
+ {jh} - Jason Hancock
+ {hl} - Haynes Lee
+ {jl} - Jose Lafaurie
+ {vm} - Veronica Marquez
+ {sp} - Serge Polishchuk
+{rjr} - Richard Rodriguez, Jr.
+{bjr} - Benjamin J. Robinson 
+
+=======================================================================
+> Legal crud
+=======================================================================
+The above compilation of observations, quote summaries, statistics, and
+other miscellaneous information copyright 1996 Chips-Fey Productions.
+Not to be used in a public forum without explicit permission from the
+author (Ricardo A. Lafaurie Jr.) or his brother Jose Lafaurie.
+
+Any quoted material above remains property of the original authors;
+mainly, quoted material and episode summaries remain property of The
+Simpsons, and copyright to Twentieth Century Fox.  The compilation is
+copyright to Frederic Briere.  So don't sue.
+
+Huge thanks and applause applause to Dave Hall for sending me the notes
+from alt.tv.simpsons while I was away on my damn six-day weekend.

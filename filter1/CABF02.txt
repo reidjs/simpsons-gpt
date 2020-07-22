@@ -1,0 +1,592 @@
+% Our show opens with Homer reporting to work at the power plant -- or
+% trying to anyway.  As he rattles the locked gate, Lenny and Carl
+% drive up, and tell Homer the plant is closed for fumigation.
+
+Homer:	No one told me the plant was closed.
+Carl:	Didn't you get the email?
+Homer:	What's an email?
+Lenny:	It's a computer thing, like an electric letter ...
+Carl:	... or a quiet phone call.
+Homer:	I don't have a computer.
+Lenny:	Heh, heh, too bad, that's why you're at work, and we're 
+living it up on our day off!
+Lenny:	Hey Carl, turn up the car radio!
+Carl:	Why not!  Anything goes today.  [they drive off]
+Homer:	That does it, I'm getting a computer.  As soon as somebody 
+	let's me out of here.  [rattles gate again, realizes he's 
+	outside]  Oh, I'm sooo stupid.
+-- A potential Microsoft user, then, "The Computer Wore Menace Shoes"
+
+% The scene switches to Honest John's Computers, Homer is talking to
+% consumer-compatible liveware.
+
+Homer:		Umm ... I guess I'll take that one.
+Salesman:	Well, do you need a paperweight?  'Cause if you buy 
+		that machine, that's all you're going to have, an 
+		expensive paperweight.
+Homer:		Well, a paperweight would be nice, but what I really 
+		need is a computer.  How about that one?  [points to 
+		a second machine]
+Salesman:	That technology is three months old.  Only suckers 
+		buy out-of-date machines.  You're not a sucker, are 
+		you sir?
+Homer:		Heavens no!
+Salesman:	Oh good, because if you were, I'd have to ask you to 
+		leave the store.
+Homer:		I just need something to receive email.
+Salesman:	[whistles] You'll need a top-of-the-line machine for 
+		that.  [shows Homer a top-of-the-budget machine]  
+		That's the same computer astronauts use to do their 
+		taxes.
+Homer:		I was an astronaut.
+Salesman:	Of course you were.
+-- "The Computer Wore Menace Shoes"
+
+% Homer looks at the price tag -- $5,000 -- and does a spit-take
+% (first drinking a cup of coffee so he'll have something to spit). 
+% Assured by the sales man that this machine "is the best computer in
+% the world and always will be," Homer agrees to the deal, running his
+% deed through a scanner to take out his fifth mortgage.
+%
+% Homer drags his new toy home behind the car.
+
+Homer:	Hey Lisa!  Check out my new computer!
+Lisa:	Dad!  You shouldn't drag that around!
+Homer:	[laughs] That's right, top-of-the-line.
+	[the car hits large pothole, Homer bangs his head on the 
+	roof of the car]
+	Stupid pothole.  Don't worry, head.  The computer will do 
+	our thinking now.
+-- Well, something needs to, "The Computer Wore Menace Shoes"
+
+% Homer sets up his new computer, adjusting a can holder and mirror he
+% has attached to the monitor.
+
+Homer:		Oh, yeah, perfect.  Now, then.  [talking into mouse] 
+		Computer, kill Flanders.
+Flanders:	Did I hear my name?  My ears are burning.
+Homer:		[Whispering to computer] Good start.  Now finish the 
+		job.
+Flanders:	Oh, you're busy.  Catch you later, computator.
+Homer:		Oh, five thousand dollars for a computer and it 
+		can't handle a simple assignment.  [pushes computer 
+		into trash can]
+		[Lisa and Bart walk in]
+Lisa:		Dad, I'll set up your computer.  Why don't you and 
+		Bart go play in the backyard.
+Homer:		[tagging Bart] You're it!
+		[Bart and Homer run off to play, while Lisa gets to 
+		work]
+-- "The Computer Wore Menace Shoes"
+
+% Lisa eventually gets the computer running, and has even written down
+% the basic commands so Homer can better understand them.  No use --
+% the computer once again winds up in the trash.  Marge insists that
+% Homer bring it back inside.
+%
+% With a little persistence, though, Homer does catch on.  Soon, he's
+% browsing the Web like a pro.  Or at least like a newbie.
+
+Homer:	Ooooh!  Dancing Jesus!  Dee-dee-dee-dee-dee-dee-dee.
+	[we hear tune "Rock of Ages, Cleft for Me"]
+	If there's a better use for the Internet, I haven't found 
+	it.
+	[Homer types and brings up the Springfield Police 
+	Department Web site]
+Wiggum:	[digitized image on a Web page] If you've committed a 
+	crime, and want to confess, click "Yes".  Otherwise, click 
+	"No".
+	[Homer clicks on "No"]
+	You have chosen "No", meaning you've committed a crime, 
+	but don't want to confess.  A paddy wagon is now speeding 
+	to your home.
+Homer:	Hey!!
+Wiggum:	While you wait, why not buy a police cap or T-shirt.  [T-
+	shirts and baseball caps with the SPD logo circle Wiggum's 
+	head] You have the right to remain fabulous!  [the screen 
+	flashes "NOW 80% OFF"]
+-- "The Computer Wore Menace Shoes"
+
+% Soon Homer isn't just browsing Web pages, he's creating them, as
+% well.  He calls in the rest of the family to show them his new pride
+% and joy.
+
+Homer:	Here it is everybody!  The world's greatest web site!
+	[a highly annoying newbie web page, complete with several 
+	clashing sounds, is seen]
+	You'd think all the noises would be annoying, but they're 
+	not.
+Bart:	I got suspended from school today.
+Homer:	No kidding [obviously ignoring and then continuing to 
+	ignore Bart]  What do you think of my page, Lisa?  Be 
+	honest, it's great, isn't it?  Go ahead, say it's great if 
+	you want to.
+Bart:	They found a switchblade in my locker.
+Lisa:	Well, a web page is supposed to be a personal thing.  
+	You've just stolen copyrighted material from everyone 
+	else.  They could sue you for that.
+Bart:	I took a swing at a cop.
+Homer:	They can't sue me if they don't know who I am.  I'll just 
+	call myself Mr. "X".
+Bart:	I'm just mad all the time.
+Homer:	Yep, you just can't go wrong with Mr. "X".
+-- "The Computer Wore Menace Shoes"
+
+% Later that night, Homer's Web page hasn't gotten a single hit.  Lisa
+% tells her father that a successful page has to offer people
+% something, like jokes or opinions.
+%
+% Just then, the screech of car tires is heard outside.  The car hits
+% the pothole and the wheel comes off.  It smashes through the front
+% window and lands in front of the fireplace.
+
+Homer:	That lousy pothole.  Why don't they fix it?
+Bart:	[walks in with a cookie and a glass of milk] I heard Mayor 
+	Quimby spent the street repair fund on a secret swimming 
+	pool for himself.
+Homer:	Get out.  Who told you that?
+Bart:	Nelson.
+Homer:	Hmmm.  That's the kind of dirt that belongs on my web 
+	page.
+Lisa:	You can't post that on the Internet.  You don't even know 
+	if it's true!
+Homer:	Nelson has never steered me wrong, honey.  Nelson is gold.
+Bart:	You know, it might have been Jimbo.
+Homer:	Beautiful, we have confirmation.  [Lisa sighs in 
+	exasperation]
+-- More Americans get their news from Nelson than from any other
+   source, "The Computer Wore Menace Shoes"
+
+% The scene shifts to CBG's living quarters typical bachelor pad,
+% where he munches on tacos and browses the Web.  There's a poster of
+% a girl in a bikini on the wall, a stained desk and computer,
+% cardboard boxes to the rear, and an unemptied garbage pail.
+%
+% CBG's search for X-rated sites snares the URL for Homer's "Mr. X"
+% site.  After a moment's contemplation, CBG decides to cross "the
+% final frontier."  He reads Homer's pothole story and is outraged.
+
+There's no emoticon for what I'm feeling!
+-- CBG, "The Computer Wore Menace Shoes"
+
+% We switch to Principal Skinner at home.  He is also reading Mr. X's
+% scoop.
+
+Skinner:	Our mayor is corrupt?  Mr. "X" has done this town a 
+		great service, despite his poor grammar and 
+		spelling.
+Agnes:		Seymour, are you looking at naked ladies?
+Skinner:	No, Mother.
+Agnes:		You sissy!
+-- "The Computer Wore Menace Shoes"
+
+% At City Hall, Mayor Quimby tries to fend off the press.  Some
+% reporters see one of the Mayor's aides trying to discreetly close a
+% door behind him and senses that something is up.  They barge into
+% the secret room.  We see a lavish pool, a roman bath with statues,
+% and girls in bikinis.  A city worker is working with a spade from a
+% bag labeled "pothole cement".
+
+Good Lord, we've discovered the ruins of an ancient city!  OK, you do 
+better.
+-- Mayor Quimby, "The Computer Wore Menace Shoes"
+
+% The news hits the headlines.  Homer basks in his accomplishment.
+
+Homer:	I did it!  I've changed the world!  Now I know exactly how 
+	God feels.
+Marge:	You want turkey, sausage or ham?
+Homer:	Bring me two of every animal!
+	[Santa's Little Helper and Snowball II exit whimpering]
+-- "The Computer Wore Menace Shoes"
+
+% [End of Act One.  Time: 6:38]
+%
+% Homer the news reporter now is news himself.
+
+Kent:	A new Internet watchdog is creating a stir in Springfield.  
+	Mr. "X", if that is real name, has come up with a 
+	sensational scoop.
+Homer:	[watching at home] Darn tooting!
+Kent:	But we must never forget that the real news is on local 
+	TV, delivered by real officially licensed newsmen, like 
+	me, Kent Brockman.  Coming up: how do they get those dogs 
+	to talk on the beer commercials?  [a reporter in a big 
+	cowboy hat appears] Cowboy Steve will tell you!
+-- "The Computer Wore Menace Shoes"
+
+% Looking through the living-room window, Bart and Lisa watch the road
+% crew fill the pothole in front of the house.  Lisa suggests that
+% Homer quit while he's ahead.  Homer agrees and the episode comes to
+% an abrupt end.
+%
+% Just kidding.  Homer vows to keep digging up the dirt as Mr. X.
+%
+% At the Kwik-E-Mart ...
+
+Krusty:	Blah!  A coconut bagel?  Like poison it tastes.
+Apu:	Alright, I'll tell you a secret.  My bagels are nothing 
+	but week-old donuts.
+Krusty:	Who am I to point the finger?  I once ran over a guy in a 
+	parking lot and dumped the body on a golf course.
+Homer:	What a bombshell!
+-- "The Computer Wore Menace Shoes"
+
+% On his homepage, Homer breaks the story of ... the faux bagels.  
+% Wiggum hold a news conference and announces that the police have
+% confiscated all the donuts in town.  Going on to address another Mr.
+% X story, he says the police don't release the prisoners from their
+% cells to race them.  (At least, not anymore.)  Wiggum hurriedly
+% calls the conference over when a reporter asks about allegations the
+% police use the electric chair to cook chicken.
+%
+% Meanwhile, the usual gang meets at Moe's Tavern.
+
+Lenny:	According to my uncle, Miss Springfield isn't as beautiful 
+	as she seems.  Word is she uses appearance-altering 
+	cosmetics.
+Moe:	Oh my God, that's shocking.
+Carl:	The public should be warned.  I wish Mr. "X" was here.
+Homer:	[slyly] Oh, I don't know, Carl, he might be closer than 
+	you think.
+Carl:	Are you him?  Are you Mr. "X"?
+Homer:	No.
+Carl:	But you talked in the real sly voice.  Hey, hey, 
+	everybody!  Homer's Mr. "X".
+Homer:	I am not! ... [slyly] or am I?
+Lenny:	Are you?
+Homer:	No.
+-- Plausible denial, "The Computer Wore Menace Shoes"
+
+% Moe says he'd give a beer to Mr. X, were he in the bar.  Homer can't
+% claim it, though, because he can't reveal his secret identity to
+% Moe.
+%
+% The next day, Homer answers nature's call in the SNPP bathroom.
+
+Homer:		[singing] I've been sitting on the toilet, all the 
+		live-long day.
+		[Burns and Smithers come in.  They don't notice 
+		Homer, and walk over to the sinks]
+Burns:		Is everything ready for the secret meeting Smithers?
+Smithers:	Yes, Sir.
+Burns:		I hope no one finds out about this.  It's pure 
+		journalistic dynamite!
+Smithers:	Uh, sir, this place could be bugged.  [Turns on hand 
+		dryer] OK, now we can talk.
+		[Burns can't handle the breeze generated by the 
+		dryer, and is literally almost blown away]
+Burns:		Turn it off!  [Smithers does so]  Journalistic 
+		dynamite.
+-- "The Computer Wore Menace Shoes"
+
+% Burns meets with some dangerous-looking men in his office.  Homer
+% hides in the air vent, taking notes on the proceedings.
+
+Burns:		Then it's agreed.  I'll supply you terrorists with 
+		deadly uranium.
+Terrorist:	You are a credit to the great Satan.
+Burns:		Oh, pshaw.
+Homer:		Uh-huh.  [scribbling on pad] I love spying.
+		[Terrorist picks up a bar of uranium.  Radioactive 
+		gas boils off the surface of the rod]
+Burns:		Don't worry about those fumes.  They'll be sucked 
+		into that air  vent.
+Homer:		[moans from fumes, drops pad out of vent and onto 
+		the floor].
+Burns:		This place is falling apart.  [walks over, picks up 
+		pad and shoves it back into the vent]
+-- It was funnier a year ago ..., "The Computer Wore Menace Shoes"
+
+% Homer recovers well enough to write up his story that night.  Almost
+% as soon as he uploads his page, the FBI swoop in on Burns.  Two
+% agents drag him past Homer's window.  Homer matter-of-factly
+% observes that his boss is in a pickle.
+%
+% Even though he's anonymous, Homer's journalistic efforts do not go
+% unrewarded.  A ceremony is held for Mr. X outside of Springfield
+% Town Hall.
+
+Woman:		We'd like to award this years Pulitzer prize to Mr. 
+		"X".  Unfortunately, we don't know who he is, so his
+		cash award will be used to feed starving children.
+Homer:		Noooo!  [runs down to podium]
+Homer:		I'm Mr. "X"!  Gimme, gimme!
+Woman:		We'll need some proof.
+Homer:		[Homer puts Mr. "X" hood on head] Ta-Da!
+Krabappel:	He _is_ Mr. "X"!  Hah!
+Homer:		Thank you folks, and now I'm off to expose more 
+		secret conspiracies and ...
+		[walks into a pole, since he has the hood on his 
+		head still]
+		Oh, I bit by thongh.
+-- "The Computer Wore Menace Shoes"
+
+% Back at home.
+
+Marge:	I'm proud that you won the Pulitzer ...
+Homer:	Finally..
+Marge:	... but I do feed bad about the starving children.
+Homer:	They're with God now.
+Marge:	Oh, well, that's good.  [realizes] Hmmmm.
+-- "The Computer Wore Menace Shoes"
+
+% Homer soon discovers that there was an advantage in keeping his Mr.
+% X alter-ego a secret.  He's no longer welcome at Moe's bar, Mr. X
+% might blow his secrets (like the fact that he's keeping Moleman
+% trapped in his floorboards).  Reverend Lovejoy stops conversing with
+% his wife when Homer gets within earshot.  Even the website is
+% affected.
+
+Homer:	Oh, nobody's visiting my web page anymore.  My counter is 
+	actually going down.
+	[we see a tumbleweed bounce across his web site, as his 
+	counter rapidly decreases]
+Lisa:	Well, you can't post news if you don't have any.
+Homer:	That's a great idea!  I'll make up some news!
+Lisa:	At least take off your Pulitzer prize when you say that.
+-- "The Computer Wore Menace Shoes"
+
+% Homer obligingly removes prize from around his neck, giving it to
+% SLH.  His first "story" concerns a new race of beings found living
+% under Denver.  Spanish and Italian are the same language, or so goes
+% another scoop.
+%
+% The scene shifts to the Flanders home.
+
+Flanders:	[reading a computer screen] They're controlling our 
+		minds with flu shots.  I knew it.  Well, kids, now 
+		aren't you glad that we don't believe in 
+		inoculations?
+Rod + Todd:	[shivering from an apparent fever] Yay.
+Todd:		Mommy?
+-- "The Computer Wore Menace Shoes"
+
+% Outside the Kwik-E-Mart, Nelson approaches Homer.
+
+Nelson:	Hey, Mr. "X", I've got a tip for you.  They're dissecting 
+	frozen hobos in Science class.  And I've got the bindles 
+	to prove it.  [holds up some empty bindles]
+Homer:	Real news is great, son, But I'm getting a thousand hits 
+	an hour with Grade-A bullplop.
+-- "The Computer Wore Menace Shoes"
+
+% Homer goes inside the Kwik-E-Mart and asks Apu for some tickets. 
+% Apu seems unresponsive, perhaps because he is a cardboard cutout. 
+% Frightened, Homer steps backwards into a refrigerator display unit
+% only to discover it's also a fake.  We switch outside to see this
+% fake Kwik-E-Mart is nothing but a semi-truck.  The fake front folds
+% up and the truck drives away, taking Homer with it.
+%
+% Bart rides on his skateboard unaware of what just transpired.  He
+% rolls into the store, browses a magazine and then notices Apu behind
+% the counter tied up with his mouth taped.  He climbs up on the
+% counter and pulls off the tape.  The first thing Apu says is, "This
+% is not a library."
+%
+% The truck with Homer drives off to parts unknown.
+
+Save me Mr. "X"!  Wait, I'm Mr. "X".  Ohhh ...
+-- Homer, "The Computer Wore Menace Shoes"
+
+% [End of Act Two.  Time: 13:19]
+%
+% Homer has apparently been deposited in the kidnappers' hideout,
+% which looks like a lush countryside estate stocked with exotic birds
+% ... and exotic people in Victorian dress.
+
+Homer:	Huh!  Whuzza?
+	[he groggily awakes to the sight of a pink flamingo 
+	wearing a hat]
+	What the hell?  How did I get here?  What is this place?
+	[a man in a bowler hat appears]
+Man 1:	This is ... The Island.
+Homer:	How do I get out of here?
+Man 2:	Oh, no one leaves the island.
+Homer:	So I'm a prisoner.  How come?
+Man 1:	Because you know something.
+Homer:	But I don't know anything.  At least I don't think I do.
+Man 1:	See you tomorrow.
+Homer:	No you won't!  [Runs to a red British phone booth]
+	Hello, operator.  I'd like to report a really weird 
+	island.  Please send lot's of rescue 'copters to ... [the 
+	phone gases him]
+	[groggily] Oh, well, alright.  Whatever.
+-- "The Computer Wore Menace Shoes"
+
+% Home wakes up at a cocktail party.  The room is decorated in what
+% was considered pop-modern thirty years ago, with lava lamps and
+% wallpaper in bright primary colors.  Everyone is wearing their best
+% Carnaby Street togs.
+
+Number 6:	Welcome, friend.  I'm Number 6.
+Number 15:	I'm Number Fifteen.  What number are you?
+Homer:		I am not a number!  I am a man!  And don't you ever 
+		... oh wait ... [notices a button on his lapel with 
+		a "5" on it] I'm Number Five.  Ha-ha!  In your face 
+Number 6.
+Number 6:	Yes.  Well done.
+Homer:		Who are all these oddballs?
+Number 6:	Well, they keep us here because we know too much.  
+		Number 27 there knows how to turn water into 
+		gasoline.  Number 12 knows the deadly secret behind 
+		Tic-Tacs.  And I invented the bottomless peanut bag.
+Homer:		Wow.  So who brought us here?
+Number 6:	I don't know.
+Homer:		Did you bring us here?
+Number 6:	No.
+-- "The Computer Wore Menace Shoes"
+
+% Back in Springfield, Marge, Police Chief Quimby, and Lou are walking
+% through Springfield Forest ("Witch-Free Since 1998") with a
+% bloodhound.
+
+Wiggum:	Don't worry, if even half of your husband is out here, 
+	Officer Scraps will find him.
+Marge:	Oh, that's a darling name for a dog.
+-- "The Computer Wore Menace Shoes"
+
+% The dog, sniffing Homer's trail, runs into ocean.  He gets perhaps
+% fifty years out before he realizes he's in over his head.  As the
+% dog frantically tries to keep his head above water, Wiggum orders
+% Lou to go after him.  Lou prepares by removing his shoes, but Wiggum
+% reminds him that the shoes are part of the uniform.  So Lou wades
+% into the ocean, shoes and all.
+
+% Back on the island, Homer awakens from another drug-induced stupor. 
+% An empty teacup rests on his belly.
+
+Homer:		Oh, they drugged the tea.  They knew my one 
+		weakness.
+		[a man descends from ceiling]
+Number 2:	Hello, Number Five.  How is every little thing?
+Homer:		Who are you and why are you holding me here?  I want 
+		answers now or I want them eventually!
+Number 2:	Fair enough.  I'll level with you.
+		[Homer throws a saucer at him]
+		Ow.  Please.  Don't do that.
+Homer:		Sorry.
+Number 2:	I'll be blunt.  Your web page has stumbled upon our 
+		secret plan.
+Homer:		That's impossible.  All my stories are bullplop.  
+		Bullplop!
+Number 2:	Don't be cute.  I'm referring to the flu shot 
+		expose.  You see we're the ones loading them with 
+		mind-controlling additives.
+Homer:		But why?  [throws another saucer]
+Number 2:	To drive people into a frenzy of shopping.  That's 
+		why flu shots are given just before Christmas.
+Homer:		Of course.  It's so simple.  [Reconsidering] Wait, 
+		no it's not.  It's needlessly complicated.
+Number 2:	Yes it is.  And we can't have you out there mucking 
+		it up, now, can we?
+Homer:		No, sir.
+Number 2:	That's a good boy.  Let's get you some ice cream.
+		[a bowl of ice cream and hypodermic syringes rises 
+		from within the table]
+		There we are.
+Homer:		Look, you can drug me all you want, but my family 
+		won't rest until they find my drug-bloated corpse.
+Number 2:	I wouldn't count on that Number Five.  As far as 
+		your family knows, Homer Simpson is walking in the 
+		front door right about now.
+Homer:		[his face covered in ice cream and drugs] I'm sorry?  
+		What?
+-- "The Computer Wore Menace Shoes"
+
+% Indeed, back at Springfield an imposter Homer walks through the
+% front door.  He looks exactly like our Homer, but has a thick German
+% accent.
+
+Marge:		Homey!
+Homer #2:	Marge honey-fräulein, I'm home.
+Marge:		You're not my husband.
+Homer #2:	Ja, please forgive my unexplained two-week absence.  
+		To make it up to you, we will go out to dinner at a 
+		sensibly  priced restaurant, then have a night of 
+		efficient German sex.
+Marge:		Well, I sure don't feel like cooking.
+-- "The Computer Wore Menace Shoes"
+
+% Back on the Island, the real Homer plays croquet.  The ball gasses
+% him again.
+%
+% In Springfield Homer #2 and Bart watch TV.  Homer #2 uses an
+% electric shaver to copy Homer's unique bi-strand hairdo.  Bart
+% senses that there's something different about his father.  Homer #2
+% explains he's wearing a new tie, which satisfies Bart's curiosity.
+%
+% Meanwhile, back on the Island ...
+
+Homer:		I'm tired of being drugged and gassed.  There's got 
+		to be a way to escape.
+Number 6:	Psssst.
+Homer:		Huh?
+Number 6:	[shows Homer a raft hidden in foliage] I worked on 
+		this for 33 years.  It's made out of toilet paper 
+		rolls, toothpicks, and plastic forks.  And the sail 
+		is made of scabs and dynamite.  It's small and it's 
+		smelly, but it should carry both of us to ...
+		[Homer punches him, jumps into boat and sails off]
+Number 6:	That's the third time that's happened!
+-- "The Computer Wore Menace Shoes"
+
+% As Homer sails away, a large orb rises from the ocean and gives
+% chase.
+
+Homer:		Oh no, an anti-escape orb!  [grabs one of the 
+		plastic forks from the boat and pops the orb]
+		Huh.  That was easy.
+		[back in the kidnappers' headquarters]
+Number 2:	Why did you think a big balloon would stop people?
+Scientist:	Shut up!  That's why!
+-- "The Computer Wore Menace Shoes"
+
+% Homer makes it back home safely.  He logs onto the computer and
+% tries to warn the world about the "crazy creeps" on the Island. 
+% Suddenly the words he's typing melt away, and the mysterious Number
+% 2 appears on his screen.  He informs Homer he's shutting down the
+% Mr. X site.  Homer defiantly vows that only he can stop himself. 
+% The impostor Homer takes this as his cue to attack.
+
+Number 2:	Yes, Fight and Struggle!
+Homer:		If I know me, he won't like being kicked in the 
+		crotch!  [Homer ... disables Homer #2]
+Homer #2:	Gott in himmel!
+Homer:		Oh Marge, it's me, the real Homer!
+Marge:		Oh Homey!
+Number 2:	[claps sarcastically] Bravo, Number Five.  But you 
+		know what happens to bad little fishies who wriggle 
+		through the net.
+Lisa:		Can I turn this off?
+Homer:		Absolutely.
+		[Lisa turns off the computer]
+Number 2:	Hey!  [the monitor goes dark]
+-- An unforeseen setback, "The Computer Wore Menace Shoes"
+
+% The family welcomes the real Homer back, but the reunion doesn't
+% last long.  The Islanders have rigged SLH with their trademark
+% sleeping gas.  The next thing the Simpsons know, they are on the
+% Island, wearing mod-Victorian clothes and living the genteel country
+% life.
+
+Marge:	Once you get use to the druggin's, this isn't a bad place.
+Homer:	Oh, it's wonderful.  Truly God's country.
+-- Even better than the Hotel California, "The Computer Wore
+   Menace Shoes"
+
+% A koala bear wearing sunglasses walks by.  He turns to the camera
+% and removes the glasses, revealing a pair of gas nozzles where his
+% eyes normally would be.  He "gasses" the audience, and the scene
+% fades to black.
+
+Homer:	[hypnotically] See you on the island.
+Lisa:	Yes ... the island.
+-- "The Computer Wore Menace Shoes"
+
+% [End of Act Three.  Time: 20:01]
+%
+% Normal end-credit music and Gracie sound effect.
+
+
+<|endoftext|>

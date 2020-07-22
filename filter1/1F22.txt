@@ -1,0 +1,563 @@
+% (Thanks to Dave Hall for all his help with this part)
+
+% [Syndication cuts are marked in curly braces "{}" and are courtesy of
+% Ricardo Lafaurie and Frederic Briere.]
+%
+% The sun, that happy Springfieldian character, beats down on the placid
+% town.  Hans Moleman walks out of his house, into the heat, and looks
+% up.  "Well, you're certainly doing your job today, Mr. Sun," he
+% observes, and holds his glasses off his face a bit.  The sun's rays
+% focus through the thick lenses, burning twin holes in his shirt and
+% setting it on fire.  "Oh, rats," he laments.
+%
+% At the Springfield Wax Museum, a teenager leads a group on a tour.
+% "And here we have the world-famous Beatles," his voice cracks,
+% "exactly as they looked performing on the Ed Sullivan show."  He
+% motions to four puddles of wax on a stage.  "I hardly think it's fair
+% to be charged full price; I'm up to my knees in the original cast of
+% 'Mash'!"  Skinner exclaims, literally standing in the puddles of wax
+% that were once models of Alan Alda, Jamie Farr, et al.
+%
+% A hippie on the street plays his guitar and sings, "Sunshine on my
+% shoulders makes me happy," but an angry Springfield citizen punches
+% him in the face and walks off scowling.
+%
+% Homer, however, has found a great way to beat the heat: he's opened
+% the refrigerator door and put a tent in front of it.  Turning the
+% coldness knob to "10", he tapes the tent door flaps to the freezer.
+% Bart and he sit inside in their underwear with boxes of frozen food to
+% keep their skin cool.
+
+ Bart: Homer, my hat goes off to you.
+Homer: It's _cool_ in here, boy.  For the rest of the summer, we can
+       live inside the refrigerator.
+Marge: [poking her head in] Homer, the fridge wasn't meant to be used
+       this way...although I must say, it's certainly refreshing!
+        [She and Lisa crawl in]
+        [Maggie does too, and goes to sleep on some jello]
+Homer: I got the idea when I noticed the refrigerator was cold.
+Marge: Won't this overload the motor?
+        [the motor buzzes, then fizzles and smokes]
+Homer: Marge, can you set the oven to "cold"?
+-- Forgetting his Appliances 101 class, "Bart of Darkness"
+
+% The family sits around glumly in the living room, trying to bear the
+% heat.  Marge turns on two fans, which blow her hair right, then left,
+% then forward.  Bart and Lisa perk up when they here the Ice Cream man
+% calling outside.  Peeling himself off the chair, Bart runs outside
+% with Lisa, and both gasp with delight when they see him approaching.
+
+Ice Cream man: [driving past in his truck]
+               I'm all out of ice cream!
+                [to Bart and Lisa] It's true, you know.
+               Ice cream!  Ice cream!
+    Bart+Lisa: {Aw...}
+    Chili man: {[driving past in his truck]
+               Chili!  Red-hot Texas-style chili!  And we got gingerale:
+               boiling-hot Texas-style gingerale!  Texas...}
+         Bart: {Ew!}
+         Lisa: Aw, face it, Bart.  Our salvation isn't just going to
+               roll by on the back of some stupid truck.
+                [The "Springfield Pool-Mobile" truck drives up]
+                [Otto screeches to a halt, gets splashed by a wave]
+         Otto: Woo, I gotta replace that window.
+    Bart+Lisa: Pool Mobile?!
+-- So it would seem, "Bart of Darkness"
+
+% Many children frolic and play in the pool.
+
+  Bart: [coming up for air] Look, Lis, I snatched five bathing suits --
+        all Martin's!
+Martin: Take your best shot!  I'm wearing seventeen layers.
+         [tough kids surround him and tear at his bathing suits]
+        Ha ha ha -- [gasps, notices his layers are gone]
+         [quietly] I brought this on myself.
+-- Learning the lesson yet again, "Bart of Darkness"
+
+% All good things must come to an end, however.
+
+Otto: OK, little dudes, time's up.  Everybody out!
+       [kids groan, leave, except for Bart and Lisa]
+Lisa: Time's up?
+Bart: So long, Lis.  I'm going to stow away under water and go where the
+      pool goes.  [hugs her] Have a good life.
+       [holds his breath, submerges, but comes up again gasping]
+Otto: Sorry, Bart-dude.  We gotta fill this thing with epsom salts and
+      jam it on over to the old folks' home.
+Bart: Oh well.  Same time tomorrow, Otto?
+Otto: [laughs] No way, man.  One day of summer is all we're budgeted
+      for.  I guess it is kind of a tease.
+-- Curse you, financial planners!, "Bart of Darkness"
+
+% Bart and Lisa get an idea.
+
+           [Homer watches TV]
+     Lisa: [walking in with Bart, blocks Homer's view of TV] Dad?
+            [Homer flops sideways, continues watching TV]
+     Lisa: Dad!  [turns off TV]
+            [Homer turn it back on with remote control]
+     Lisa: Dad!  [Bart unplugs TV]
+    Homer: [cheery] Yes, Lisa?
+     Lisa: Dad, as you know, we've been swimming, and we've developed a
+           taste for it.  We both agree that getting our own pool is the
+           only way to go.  Now before you respond, you must understand
+           that your refusal would result in months and months of...
+Bart+Lisa: Can we have a pool Dad?
+           Can we have a pool Dad?
+           Can we have a pool Dad?
+           Can we have a pool Dad?
+           Can we have a pool Dad?
+     Bart: Can we -- [Lisa motions him to stop]
+    Homer: I understand.  Let us celebrate our new arrangement with the
+           adding of chocolate to milk.
+-- A fitting celebration, "Bart of Darkness"
+
+% The family drives off to "Pool Sharks" and are shown the various
+% models by the salesman.
+
+Salesman: Over here we have the Hick Tub, the, er, Insta-Rust, that's
+          the Lightning Magnet, that's the Tinkler --
+   Homer: Ooh, the Tinkler!  I like the sound of that.  We'll take it!
+   Marge: Is it true we should wait at least an hour after eating before
+          we go in?
+Salesman: Look, question, lady.  This job is not what I really do, OK?
+          I play keyboards.
+-- Keeping his day job, "Bart of Darkness"
+
+% The family all pitch in to assemble the new pool; Bart raises planks,
+% Homer saws, Lisa drills, Marge welds, even Maggie brings out the
+% circular saw.  At the end, they admire their work.  The camera pulls
+% back to show the nice new aluminum barn they've built.
+
+Homer: All right.  Everybody in the pool!
+Amish: 'Tis a fine barn, but sure 'tis no pool, English.
+Homer: D'oh-eth!
+-- The non-Indo-European "D'oh!" variants, "Bart of Darkness"
+
+% They reassemble the pool properly.
+
+Homer: [timid] Is it a pool yet?
+ Lisa: [tired] Yes, Dad.
+Homer: Woo hoo!
+        [the doorbell rings]
+Marge: Who could that be?
+        [she answers it; a huge crowd of children in bathing suits
+       smiles]
+Jimbo: Uh, hello, er, Mrs., uh, Bart.  Is your pool ready yet?
+Marge: Mmm...
+-- News travels fast, "Bart of Darkness"
+
+% The house is filled with yelling children in bathing suits.  Marge,
+% conscientious hostess that she is, makes sandwiches for everyone, one
+% of which is being eaten contentedly by Lewis.
+
+Marge: Bart, are all these children friends of yours?
+ Bart: Friends and well-wishers, yes.
+        [children walking by all say "Hi Bart!", "Hey Bart!" to some fat
+       kid eating a sandwich]
+  Boy: Hello, Mrs. Cumberdale.
+-- Giving them an inch, "Bart of Darkness"
+
+% Everyone frolics in the water, but Bart climbs up on top of his
+% treehouse to make an announcement.
+
+    Bart: People, people!  It's time we all discussed the pool safety
+          rules!
+    Kids: [chanting] Jump, Bart, jump!  Jump, Bart, jump!
+    Bart: You got it!
+  Nelson: Hey, Bart!  Your epidermis is showing.
+    Bart: [worried] It is?  [checks himself]
+           [the kids laugh]
+           [Bart falls, starts yelling]
+  Nelson: [to Kearney] See, "epidermis" means your hair.
+           [Bart lands with a thud]
+          So technically it's true.  That's what makes it so funny.
+          Pardon me a moment --
+           [at Bart] Ha ha!
+Milhouse: Hey Nelson, he's really hurt.  I think he broke his leg.
+  Nelson: [exasperated] I said, "Ha ha"!
+-- A quote for every occasion, "Bart of Darkness"
+
+% [End of Act One.  Time: 5:40]
+%
+% {Bart is rushed into the Emergency Room at the hospital.  The room is
+% packed with other patients, so a nurse with a cigarette orders an
+% orderly to get Bart a magazine.}
+
+Hibbert: I'm sorry, that leg's going to have to come off.
+          [Homer and Bart gasp]
+Hibbert: [chuckles] Did I say "leg"?  I meant that wet bathing suit.
+         I'm afraid you'll need a cast on that broken bone.
+   Bart: Aw, I'm going to miss the whole summer.
+  Homer: Don't worry, boy.  When you get a job like me, you'll miss
+         every summer.
+-- Yeah, but he'll also be earning money, "Bart of Darkness"
+
+% Back at home, Lisa is surrounded by kids from her class.
+
+Sherri: [to Lisa] Isn't it amazing the same day you got a pool is the
+        same day we realized we liked you?
+ Terri: The timing worked out great, don't you think?
+-- Fair-weather friends, indeed, "Bart of Darkness"
+
+% Bart sits on a chair next to the pool in his bathing suit.  Some kids
+% file past him, saying "Hi" uncomfortably.
+
+    Bart: Hey, guys!  Sign my cast?  [holds out a pen] Sign my cast?
+           [they all walk past] Guys!
+           [they jump in the pool, laughing and playing]
+          Milhouse!
+Milhouse: [sneaking by] Uh...hi Bart.
+    Bart: Faithful Milhouse.  You'll spend the long, hot days by my
+          side, won't you?  [forces the pen into his hand]
+Milhouse: [signing hurriedly] Uh, I think I lost my glasses in your
+          pool.  I better go in and find them.
+    Bart: But you're wearing your glasses.
+Milhouse: No I'm not.  [he's signed "MilpooL", the L trailing off]
+-- "Bart of Darkness"
+
+% Lisa looks over at the dejected Bart and feels sorry for him.  "Maybe
+% I should go keep him company, at least for a little while," she
+% thinks.  But a group of boys call to her, begging her to watch them as
+% they hold one boy under water and pummel him.  Lisa is torn; Bart
+% looks at her plaintively, then she laughs guiltily and calls "Coming!"
+
+Bart: [thinking] Well, it looks like it's just you and me, Barty-boy.
+       [aloud] Oh, great, I get to spend the summer with my brain.
+-- The perils of a broken leg, "Bart of Darkness"
+
+% In his room, Bart tries to rationalize his position: "What fun can you
+% have in a pool anyway that you can't have in a bathtub with a garbage
+% bag taped around your cast?"  He looks out, sees the kids playing,
+% then Busby Berkeley music begins as all the kids dive in in a
+% synchronized way.  Sixteen kids form a square in the water, then turn
+% upside down and wave their feet.  Lisa dives in after four similarly-
+% dressed kids and comes up for air in the center of a ring of kids
+% rotating slowly in the water.  The ring opens to let Homer lying on an
+% inner tube in.  He takes a swig of beer and spouts it like a whale
+% does water from its blow hole.
+%
+% Bart pulls down his blind angrily.  "Traitors!  Go on and have your
+% pool.  I'm fine by myself, right here."  He turns on the TV and
+% watches an Itchy and Scratchy cartoon, "Planet of the Aches".  Itchy
+% barricades Scratchy behind a brick wall for 3000 years, after which
+% many blue mice with large brains and white robes release him.
+% Scratchy is old and grey and trembles when they approach, but they pet
+% him and lead him to a bath.  Their brains pulse, and brushes come in
+% and groom the wizened cat; a white robe descends and clothes him.
+% Sighing, Scratchy is led into an arena full of mice by his three
+% liberators.  They look at him expectantly, and he begins to sweat.
+% The audience closes its eyes, and their brains pulse, bringing forth
+% many sharp objects which slice and dice the hapless cat.  They applaud
+% approvingly.
+
+  Bart: [laughing at I&S] You know, this isn't so bad.  I'll just spend
+        the summer getting better acquainted with an old friend called
+        television.
+         [kids cheer, Krusty appears and laughs]
+Krusty: Hope you enjoyed that, kids, 'cause Krusty's out of here for the
+        summer.  In the meantime, we'll be running [groans] "Klassic
+        Krusty".  [laughs uncomfortably] Enjoy...
+         [the Krusty Show from February 6th, 1961 comes on]
+Krusty: [chuckles] Good evening.  Tonight my guest is AFL/CIO chairman
+        George Meany, who will be discussing collective bargaining
+        agreements.
+ Meany: It's a pleasure to be here, Krusty.
+Krusty: Let me be blunt: is there a labor crisis in America today?
+        [looks bored]
+ Meany: Well that depends what you mean by "crisis"...
+         [Bart groans]
+-- Not as classic as Krusty with Noam Chomsky, "Bart of Darkness"
+
+% Homer gets up at sunrise and sighs.
+
+Homer: Ah, there's nothing like rising with the sun for a quiet,
+       peaceful dip in your very own pool.
+        [cheers, dives in]
+        [comes up covered in algae, yells and sputters]
+        [Lisa walks out] Lisa, the Blob has got me!  Don't touch me or
+       he'll get you too.
+ Lisa: Dad, you have to put chlorine in the water every day to keep it
+       clean.
+Homer: Chlorine, eh?
+        [later, all the kids scream and rub their bloodshot eyes]
+Ralph: [coming up] Ow, my face is on fire!
+-- Big surprise there, "Bart of Darkness"
+
+% Marge grumbles, then looks up at Bart's room.
+
+     Marge: Oh look, there's Bart!  Wave to him!  [she and Lisa do]
+             [Bart pulls his blinds down]
+            Mmm, maybe we should spend more time with Bart.  He's
+            becoming isolated and weird...
+             [in Bart's room, Bart plays Stratego and holds one red
+            piece and one blue piece, and does the voices for each]
+Blue piece: I swear I don't know where the bombs are.  Only the miners
+            know that.
+ Red piece: Maybe this will loosen your tongue...hah!
+Blue piece: No!  Aah!
+-- A tenuous grip on reality, "Bart of Darkness"
+
+% Lisa walks in.
+
+Lisa: Uh, Bart --
+Bart: [pointing] Don't turn on that light!
+Lisa: Sorry, I just came to see how you were feeling.
+Bart: I'm fine, just fine.
+Lisa: What are you writing here?  A play?
+Bart: Er...no.
+Lisa: Y'uh huh, [reads] cast of characters: Viceroy Fizzlebottom, a
+      hearty cherub of a man --
+Bart: [grabs it] Gimme that, it's a work in progress!
+-- The sensitive playwright, "Bart of Darkness"
+
+Bart: So...how do you like being Miss Popularity?
+Lisa: Oh, well, you know, it ain't so great.
+       [Bart looks at her]
+      Bart, it's the best thing that ever happened to me in my whole
+      life!  [forced laugh] Well, anyway, I brought you a present.  It's
+      a telescope I won at the optics festival.
+Bart: There was an optics festival and I wasn't informed?
+-- Apparently not, "Bart of Darkness"
+
+% Bart dismisses her and picks up a Mad Magazine with Alfred E. Neuman
+% dressed in a police uniform and the title "NYPD Blecch".  "What have
+% we here?  'The Lighter Side of Hippies'," he reads, then laughs
+% strangely.  "They don't care whose toes they step on!" he laughs
+% strangely again.
+%
+% Outside, Marge laughs raucously while Homer chuckles seductively,
+% their garments draped over the outside of the pool.
+
+ Marge: This was a lovely idea, Homey.  Come here and kiss me...
+ Homer: Mmm...[shudders]
+         [a light shines down on them, and they cover themselves and
+        scream]
+Wiggum: [from a helicopter, through a megaphone] Do not be alarmed,
+        continue swimming naked.  [eats popcorn] Aw, c'mon, continue!
+        Come on!  Oh...
+         [to Lou] All right, Lou, open fire.
+-- Misdemeanors in Springfield only, "Bart of Darkness"
+
+% Bart checks out space with his telescope, many wondrous sights passing
+% before his eyes.
+
+ Bart: Wow, the universe is so boring.  I know!  I'll use this to peer
+       into Springfield's seamy underbelly.
+        [scans school, sees Skinner sharpening pencils, groans]
+        [scans Dr. Hibbert riding his bike and watching TV, groans]
+        [scans Jimmy Stewart in a wheelchair with a camera and a large
+       telephoto lens]
+Jimmy: Grace, c'mere!  There's a sinister-looking kid I want you to see.
+-- A rear window into Springfield, "Bart of Darkness"
+
+  Bart: Oh, I'm never _ever_ going to see anything interesting with this
+        stupid piece of junk.  [disassembles telescope, puts it away]
+         [a woman screams]
+        That came from Flanders' house!
+         [starts reassembling the telescope, then gives up]
+         [woman screams again]
+         [Bart hastily assembles the telescope, spies Flanders looking
+        at the floor]
+   Ned: Oh my God, what have I done?  I've killed her!  [pulls blind]
+  Bart: This can't be what it looks like: this is Flanders we're talking
+        about!  Nah, I'll just watch some TV.  [turns it on]
+Krusty: And now, what you've been waitin' for, another long raga by Ravi
+        Shanker.
+  Ravi: Shankar.
+Krusty: Shankar.  Groovy, man.
+-- "Bart of Darkness"
+
+% Bart falls asleep, but awakens to a digging sound.  Curious, he looks
+% through the telescope and sees Flanders filling dirt into a grave.
+
+      [Flanders fills in a grave]
+Bart: Oh, this can't be what it looks like!  There's gotta be some other
+      explanation!
+ Ned: I wish there was some other explanation for this, but there isn't.
+      I'm a murderer.  I'm a murderer!
+Bart: Then that's not the real Ned Flanders.
+ Ned: [yelling] I'm a mur-diddley-urdler.
+Bart: If that's not Flanders, he's done his homework.
+-- Understudying for Ned, "Bart of Darkness"
+
+% [End of Act Two.  Time: 14:00]
+%
+% Bart watches through the telescope as Rod and Todd walk up to their
+% Daddy.
+
+    Todd: Daddy, where's Mommy?  We miss her.
+     Ned: Mommy...had to go away.  She's with God now.
+Rod+Todd: Yay!  Can we go there too?
+     Ned: [remorsefully] Soon enough.
+Rod+Todd: Yay!
+    Bart: [gasps] He's going to kill Rod and Todd too.  That's horrible!
+          ...in principle.
+-- Bart vs. the seventh commandment, "Bart of Darkness"
+
+% Lisa lies in the pool on a floating chair with her sunglasses on while
+% the other kids try to impress her.
+
+Nelson: Look, Lisa: I found this change on the bottom of the pool.  You
+        can have it.
+  Lisa: Thanks, Nelson.
+ Ralph: [coming up for air] Somebody took my juice money!
+   Rex: Lisa, please join my family for a weekend in the country.
+        They'll be hunting, charades, and ever so many delightful
+        romantic misunderstandings?
+         [kids clamor for her]
+  Lisa: [thinking] They're only using you for your pool, you know.
+         [aloud] Shut up, brain!  I got friends now.  I don't need you
+        any more.
+         [moronically] Duh, yeah, I'd love to go to your house, hyuck
+        hyuck.
+-- Nope, no need for thinking, "Bart of Darkness"
+
+% Martin Prince has had a brainwave, despite the heat wave.  He's
+% cajoled his parents into building him his very own pool.  Two workmen
+% fill it.
+
+Martin: Ah, my plan has come to fruition.  Soon _I'll_ be queen of
+        summertime.  Er, king.  King!
+         [workmen look at each other]
+-- Filling Martin's new pool, "Bart of Darkness"
+
+% Back at the Simpson pool...
+
+              [Dolph whispers to Jimbo]
+       Jimbo: [to Kearney] Dude, Buzz has it an even wussier kid has an
+              even better pool than this!
+               [pool empties of kids; water level sinks dramatically]
+        Lisa: Huh?  Hello?  Hey, I'm stuck in here!
+              I gotta think of a way to get out.
+Lisa's brain: Well, well, well: look who's come crawling back.
+-- No easy escape from one's brain, "Bart of Darkness"
+
+% Bart pleads with his family to believe him about Ned.
+
+  Bart: Listen, Ned Flanders murdered his wife!
+ Homer: But why?  She's such a fox.
+         [Marge scowls at him]
+        I mean, what's on Fox tonight?  Something ribald ["rye-bald"],
+        no doubt.
+ Marge: Mmm, I wish you'd stop spreading bad rumors about people.
+        Remember how you got Grampa tarred and feathered?
+  Bart: Sure, that was twenty minutes ago.
+Grampa: Gonna be in the tub for a while.
+-- That, you are, "Bart of Darkness"
+
+% Lisa apologizes to Bart for her behavior.
+
+Lisa: Bart, I'm really sorry I've been ignoring you lately.  I got
+      carried away with being popular.  But, now that I'm unpopular
+      again, I want you to know I'm here for you.
+Bart: You can start making it up to me right now.  Flanders is leaving
+      the house.  I want you to sneak in there and bring me back some
+      evidence.  And something sweet for later.
+Lisa: Bart, I'm here for you, but I'm not going to break into somebody's
+      house.
+Bart: All right, you're right, you're right, let's, let's just forget
+      about that.  Here: let me read to you from my play.  Ahem.
+       [cockney] "`Kippers for breakfast, Aunt Helga?  Is it St.
+      Swithin's Day already?'
+      `'Tis,' replied Aunt Helga" --
+Lisa: I'm going, I'm going!
+-- Incentive enough for anyone, "Bart of Darkness"
+
+% Bart follows her progress as she walks in through Flanders' sliding
+% patio doors.  She opens the fridge and pulls out a sphere labeled
+% "Human Head".  Bart gasps, but when Lisa brushes off the condensation,
+% it reads "Schuman Farms Head of Lettuce".  "Phew!  Oh, of course."
+%
+% But Flanders drives into his driveway and Bart panics, pleading with
+% Lisa to leave.  Instead she climbs the stairs, but Bart warns her
+% she'll be trapped.  He sees Ned looking angry, walking with an ax.
+
+ Bart: [watching Flanders] An ax.  He's got an ax!  I'll save you, Lisa!
+        [tries to walk on his leg, falls back] Uh, I'll save you by
+       calling the police.  [dials 911]
+Voice: Hello, and welcome to the Springfield Police Department Resc-u-
+       Fone[tm].  If you know the name of the felony being committed,
+       press one.  To choose from a list of felonies, press two.  If you
+       are being murdered or calling from a rotary phone, please stay on
+       the line.
+ Bart: [growls, punches some numbers]
+Voice: You have selected regicide.  If you know the name of the king or
+       queen being murdered, press one.
+-- Shockingly ineffective answering services, "Bart of Darkness"
+
+% Bart goes back to the telescope and sees Flanders closing in on Lisa.
+% He vows, "I'll save you, cast or no cast!" and steps into his garbage
+% can.  It sticks to his foot.  "Gotta save Lisa, trash can or no trash
+% can," he intones, walking precariously down the stairs.  Outside, he
+% steps on a hose, which sticks to the trash can, and goes "D'oh!"  A
+% giant piece of sod sticks inside the hose, but Bart continues on
+% inexorably.  Jimmy Stewart watches the whole thing and frets, "Oh no!
+% That sinister-looking kid is coming to kill me.  Help.  Help!  Aah!"
+%
+% Flanders' shadow ascends the stairs singing "Mary Had a Little Lamb"
+% softly, the ax plainly silhouetted, and Lisa gasps in fright.  She
+% looks both ways down the hall, seeing no escape, then spies a way into
+% the attic.  Frantically she jumps for the cord that brings the stairs
+% down, catching it just in time and running up them.  Slamming them
+% behind her, she hides behind a trunk behind a bird cage and waits,
+% shaking.
+%
+% Flanders, too, pulls the cord and climbs into the attic.  Bart
+% stumbles through the front door, dragging a tricycle and a dog as well
+% now.  Flanders pants, "It's time to put you away," and raises the ax
+% menacingly.  "Put you away...for good!" he says ominously, and Lisa
+% screams, as does Bart.  But Flanders merely places the ax back in its
+% holder.
+
+  Ned: Ho!  What the gumdrops is going on here?
+ Bart: Came to stop you from murdering Lisa like you murdered your wife!
+  Ned: Murdered?  [groans, faints]
+        [later]
+Maude: Murdered?  Oh no, I've just been in the country for a week.
+ Bart: [to Flanders] But I distinctly heard you say that Maude was with
+       God.
+Maude: Oh, that's right.  I was at Bible Camp.  I was learning how to be
+       more judgemental.
+-- A useful Christian skill, "Bart of Darkness"
+
+ Bart: But I saw the murder and then I saw you bury the corpse in the
+       back yard!
+  Ned: [weeping] All right, it's true.  I am a murderer!
+        [everyone gasps]
+       I overwatered Maude's favorite ficus plant, I panicked, then I
+       buried the remains.  I was hoping to replace it before you got
+       home.
+ Bart: But I heard a woman scream.
+  Ned: Oh?  Well, now that I can't explain.
+  Lou: [holding up plant] Found it, Chief.
+  Ned: [screams like a woman]
+ Bart: Oh.  Well, I guess that explains everything.
+Homer: Not everything.  There's still the little matter of the
+       whereabouts of your wife.
+Maude: Um, I'm right here.
+Homer: [sarcastic] Oh, I see.  Then everything is wrapped up in a neat
+       little package.
+        [everyone looks at him]
+       Really, I mean that.  Sorry if it sounded sarcastic.
+-- Getting his histrionics wrong, "Bart of Darkness"
+
+% Martin's pool is even fuller with kids than the Simpsons' was.
+
+Martin: More friends!  More allies!  More, I say.  Hang those who talk
+        of less.  There's a few inches over here, ho!
+         [one more kid squeezes in, causing the pool to burst]
+        My precious pool and its lifestyle accoutrements...no!
+         [everyone grumbles, leaves]
+Nelson: [rips off Martin's bathing suit] Ha ha!
+Martin: Oh.  The gentle caress of the summer breeze.  [sings]
+        The summer wind
+        Came blowing in
+        From across the sea...
+-- Martin Frank Prince, I presume?, "Bart of Darkness"
+
+% [End of Act Three.  Time: 21:24]
+%
+% The music to Frank Sinatra's "Summer Wind" continues over the credits.
+
+<|endoftext|>

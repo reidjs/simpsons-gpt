@@ -1,0 +1,119 @@
+Shut Up Simpsons                                       Written by Matt Groening
+===============================================================================
+[$Id: mg30 1.1 92/04/05 12:41:41 raymond Exp Locker: raymond $]
+===============================================================================
+> Didja notice...
+===============================================================================
+    Voice credits:
+        NANCY CARTWRIGHT as Bart
+        YEARDLEY SMITH as Lisa
+
+    Animation producer was Margot Pipkin.
+    Animators were Wesley Archer and David Silverman.
+
+===============================================================================
+> Freeze Frame Fun
+===============================================================================
+
+===============================================================================
+> Assorted comments and observations
+===============================================================================
+Brian Howard {bh} gives the timing for this short as 1:11, whereas the
+syndication package contains only 1:02 of animation.
+
+Maggie really tears that bunny apart when she squeaks it.
+
+When Lisa says ``Quit squeaking that toy!'', notice that her face does
+the characteristic Bart Twitch.  (Her head goes one way and her mouth
+goes the other way.)
+
+===============================================================================
+> Quotes and scene summary
+===============================================================================
+% H = Homer, G = Grampa, B = Bart, L = Lisa
+%
+% Text in {curly braces} denote items cut in syndication.
+%
+% On the couch (from left to right) are Maggie (playing with a squeak-toy
+% rabbit doll), Lisa, Bart, and Homer.  In the comfy chair sits Grampa.
+% A black-and-white picture of Marge is mounted over the couch.
+
+L: Just think.  Sitting right here are three generations of Simpsons.
+B: What a nightmarish concept.
+H: Bart!
+G: Homer!
+H: What?
+G: Leave him be.
+L: Yeah, Dad.
+
+% Maggie squeaks her rabbit.
+
+H: Lisa!
+G: Homer!
+H: What?
+G: Leave her be.
+B: Yeah, Homer.
+
+% Maggie squeaks her rabbit.
+
+H: Bart!
+G: Homer!
+H: What?
+B: And the beat goes on.
+
+% [End of Act One.  Time: 0:16]
+%
+% Maggie squeaks her rabbit.
+
+L: [annoyed] Quit squeaking that toy!
+
+% Lisa gives Maggie a shove.
+
+B: Don't shove Maggie.  She's just a little baby!
+
+% Bart gives Lisa a shove.
+
+H: Don't hit your little sister.  She's a girl.
+
+% Homer hits Bart.
+
+G: Keep your hands off him, Homer!
+
+% Grampa whaps Homer with a rolled-up newspaper.
+%
+% {Maggie squeaks her rabbit.  Everyone glares at her.}
+%
+% [End of Act Two.  Time: 0:27]
+
+B: We can't bicker like this.  We're the Simpsons!
+G: You know, the little scamp's got a point there.
+L: Let's all get together and give each other a big hug.
+
+% They do.  (Maggie hugs Homer's leg.)
+
+H: Say, this isn't half bad.
+B: Now, let's all forgive each other.  Lisa, I forgive you.
+L: Grampa, I forgive you.
+G: Homer, I forgive you.
+H: And I forgive you, Bart.
+B: Apology accepted, Homer.
+
+% Homer smiles.
+
+B: I'd forgive you too, if you'd use a breath mint.
+H: Why you little...
+
+% Homer strangles Bart.
+
+G: Homer!
+
+% Grandpa strangles Homer.  Homer strangles Grandpa.
+% Maggie resumes squeaking.  Lisa looks disgusted.
+%
+% [End of Act Three.  Time: 1:02]
+===============================================================================
+Shorts summaries Copyright 1992 by Raymond Chen.  Not to be redistributed
+in a public forum without permission.  (The quotes themselves, of course,
+remain the property of The Tracey Ullman Show, and the reproduced articles
+remain the property of the original authors.  I'm just taking credit for the
+compilation.)

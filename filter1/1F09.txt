@@ -1,0 +1,608 @@
+% [Syndication cuts are marked in curly braces "{}" and are courtesy of
+% Ricardo Lafaurie and Frederic Briere.]
+%
+% It's another peaceful night in Springfield.  Our favorite family are
+% nestled, all snug in their beds, when a shadow falls on the front
+% door.  A man approaches with a suitcase which he places on the
+% doorstep and opens to reveal a large number of tools.  He seems intent
+% on breaking into the front door, but he doesn't need to: Homer has
+% left his keys in the lock.
+%
+% Santa's Little Helper growls at the intruder, but he has anticipated
+% this: he hands the dog some sausages, and the dog whimpers and begins
+% to eat them.  Homer wanders in, apparently still asleep, and the
+% intruder holds out some sausages to him too.  He sniffs them, says
+% "Mmm!", and begins to eat them, still asleep and standing up.
+%
+% The man enters Lisa's room first.  He pulls back her covers to reveal
+% that she sleeps with her saxophone at her lips.  With each exhale, she
+% plays the note E. The man deftly exchanged her saxophone for a party
+% favor.  Lisa doesn't notice the difference.
+%
+% In Bart's room, the man pulls back his covers and finds Bart with the
+% portable TV under his arm.  Again, the intruder takes in and places a
+% copy of a "Coping With Loss" book in the boy's arms.  Bart mutters a
+% little, but he doesn't awaken.
+%
+% Lastly, the man steals Marge's red pearl necklace.  She's been wearing
+% it for so long that each bead makes a popping noise as he pulls it
+% loose.  The intruder sneaks out of the house past Santa's Little
+% Helper and Homer, who are still asleep in the front hallway.
+%
+% The next morning, Homer and the dog haven't moved.
+
+ Bart: Dad...we've been robbed!
+ Lisa: Wake up, Dad, wake up!  There was a burglar and he took my
+       saxophone!
+Homer: Woo-hoo!
+ Bart: And our portable TV!
+Homer: D'oh!
+Marge: And my necklace!
+Homer: Ehh, that's no big loss.
+Marge: Homer, that necklace was a priceless Bouvier family heirloom.
+Homer: Oh, you've probably got a whole drawer full of 'em.
+Marge: Well, yes I do.  But they're all heirlooms too.
+-- The morning after the burglar's visit, "Homer the Vigilante"
+
+  Bart: [upset] The burglar even took my stamp collection.
+  Lisa: _You_ had a stamp collection?
+         [Homer, Marge, and Lisa laugh their heads off]
+         [The phone rings; Bart answers it]
+Nelson: Stamp collection?  Ha ha!
+-- News travels fast, "Homer the Vigilante"
+
+ Lisa: Bart's pain is funny, but mine isn't.  That saxophone was my one
+       creative outlet.  It was the only way I could truly express
+       myself.
+Homer: Shh, quiet, Lisa.
+-- "Homer the Vigilante"
+
+% Bart observes that the burglar has left his business card.  Marge
+% reads it: "'You have just been robbed by the Springfield Cat
+% Burglar'...cute."  Just then, Flanders walks in.
+
+Flanders: Heidely-ho, neighborinos!
+   Homer: Can't talk.  Robbed.  Go hell.
+Flanders: Heh.  You folks got robbed too?  The burglar took my Shroud of
+          Turin beach towels.
+    Bart: Wow, it's a crime wave!
+-- Misplaced adoration, "Homer the Vigilante"
+
+% Principal Skinner is despondent that day as well.  "Good Lord!" he
+% exclaims, "My Stormin' Norman commemorative plates stolen!...again."
+% {Barney wakes up in the middle of his floor, naked, in an empty
+% apartment.  "Hey, I thought I had more stuff than this."}
+
+ Lisa: {We _are_ insured, aren't we, Mom?}
+Marge: {Homer, tell your child what you bought when I sent you to town
+       to get some insurance.}
+Homer: {Curse you, magic beans!}
+Marge: {Oh, stop blaming the beans.}
+-- "Homer the Vigilante"
+
+% Homer decides to report the robbery to the Springfield police.
+
+ Homer: Hello, Police?  Are you sitting down?  Good!  I wish to report a
+        robbery.
+Wiggum: [bored] A robbery, right.  Thanks for the report.  [hangs up]
+        That's _another_ one, Lou...723 Evergreen Terrace.
+         [Looks at a map with the robbery locations marked on it]
+        Well, there doesn't seem to be any pattern yet, but if I take
+        this one and move it here...and I move these over here...hello!
+        It _almost_ looks like an arrow!
+   Lou: Hey, look, Chief: it's pointing right at this police station.
+Wiggum: Let's get out of here!
+-- Deduction at its finest, "Homer the Vigilante"
+
+% The Springfield Shopper announces the news of the burglary in its
+% headlines.  Kent Brockman reports on the bad news.
+
+     Kent: When cat burglaries start, can mass murders be far behind?
+           This reporter isn't saying that the burglar is an inhuman
+           monster like the Wolfman, but he very well could be.  So,
+           professor: would you say it's time for everyone to panic?
+Professor: Yes I would, Kent.
+-- Reasoned judgement, "Homer the Vigilante"
+
+% At a press conference, Chief Wiggum reports on the police's progress.
+
+Ladies and gentlemen, ladies and gentlemen -- please.  We have a major
+break in the case.  We recovered the burglar's hankerchief from one of
+the crime scenes.  Now, one sniff of this baby, and our tracking dog
+will be hot on his trail.
+Gosh, look at me, I'm...sweating like a pig here.  [wipes himself] Oh...
+aw man...that's better.
+All right, get the scent, boy.  [dog sniffs it] Come on, get the scent.
+Now kill!
+ [Dog jumps at his throat]
+Oh!  Ow!  Hey!  Oh, my jugular, argh!  Ooh!  Any questions?
+-- Chief Wiggum at the press conference, "Homer the Vigilante"
+
+% Professor John Frink has even come up with a plan to foil the burglar:
+% a house that runs away on giant feet when the burglar trips the alarm.
+% His miniature demonstration model trips and falls, however, bursting
+% into flames.  Little wooden people fall out of the house, burning.
+% "The real humans won't, er, wo -- won't burn quite so fast," he
+% consoles sheepishly.
+%
+% {As Bart walks down the street the next day, many bars automatically
+% slam shut in front of windows.  He stops in front of one house and
+% says, "Cool: high-tech security system!"  He tosses a pebble at the
+% house, and two lasers follow its course while a third one blasts the
+% pebble to dust.  The house next door gets up on two giant legs and
+% begins running away from Bart, but it trips and bursts into flame.}
+%
+% {The house with the lasers draws all the neighborhood kids.  They toss
+% stones at it and watch them getting destroyed.  "All right!" grooves
+% Otto, "Free laserium!  All the colors of the 'bow, man!"  Just then,
+% Jasper walks by and gets zapped in the eyes by a laser.}
+
+        {[a laser hits Jasper in the eyes]
+Jasper: Oh!...my cataracts are gone.  I can see again!  All the beauty
+        of na --
+         [Another laser hits him in the eyes]
+        I'm blind.  Oh well: easy come, easy go.}
+-- Jasper's nonchalance over sight, "Homer the Vigilante"
+
+% At the Springfield Retirement Home, Abe sleeps.  His door opens and a
+% shadow appears at it.
+
+   Abe: Oh!  It's the Cat Burglar.  Please don't kill me!
+Malloy: Abe, can I borrow your ointment?
+   Abe: Oh, it's you, Malloy.  All right -- but this time, clean off the
+        applicator!
+-- A close call, "Homer the Vigilante"
+
+% Apu is even frightened: when a man drives up to the Kwik-E-Mart and
+% gets out of his car, Apu takes a shot at him with a shotgun from his
+% perch atop the roof of the building.  The man hurries off, and Apu
+% shouts after him, "Thank you for coming.  I'll see you in Hell."
+%
+% Homer decides to lay down some new rules for the family.
+
+Homer: All right: these are our new family security rules.  Be home
+       before dark, and make sure you're not followed.  Lock all doors
+       and windows.
+Marge: And don't take candy from strangers.
+Homer: [plaintive] Marge, they're only human!
+-- "Homer the Vigilante"
+
+ Lisa: What's the point of all these precautions?  I've already lost the
+       only thing that matters to me.
+Homer: Oh, Lisa, stop pining for your saxophone.  I got you another
+       instrument.
+ Lisa: What, this jug?
+        [She blows its spout, producing two alternating tones in rhythm]
+        [Homer begins to laugh and cheer, but Lisa stops]
+Homer: Lisa, never _ever_ stop in the middle of a hoedown!
+-- "Homer the Vigilante"
+
+% Lisa starts to cry.  Homer says, "Oh honey, I didn't realize how much
+% that horn meant to you.  Don't worry; Daddy's going to get it back.  I
+% don't know how, but I'll figure out something."  Lisa thanks him.
+% Homer continues, "You know, Lisa, music helps Daddy think."  She
+% starts blowing the jug again, and Homer dances in place while
+% thinking.
+%
+% The Springfield Shopper asks rhetorically, "Is Nothing Safe?"
+% Apparently the answer is no: the Cat Burglar steals the paper, leaving
+% his business card in its place.  Flanders has a meeting in his rumpus
+% room.
+
+Flanders: Welcome, neighbors.  Since the police can't seem to get off
+          their dufferoonies to do something about this burglarino, I
+          think it's time we started our own neighborhood watch...
+          eroony!
+           [Everyone cheers]
+          Now, who should lead the group?
+     Man: You!
+Everyone: Yay!  Flanders!  Flanders!  Flanders!
+Flanders: I don't really have very much experience, but I'll --
+     Moe: Someone else!
+Everyone: Yay!  Someone else!  Someone else!  Someone else!
+   Homer: _I'm_ someone else.
+   Lenny: He's right!
+   Homer: We don't need a thinker.  We need a doer: someone who'll act
+          without considering the consequences.
+Everyone: Homer!  Homer!  Homer!
+-- How quickly they sway, "Homer the Vigilante"
+
+    Barney: I'm with you, Homer!
+McAllister: I be with ya too, matey.
+   Skinner: I'm with you, Homer.
+       Moe: You're the man, Homer.
+       Apu: You should do it.
+      Otto: You're the man, man.
+       Abe: I'll join!  I'm filled with piss and vinegar.  At first I
+            was just filled with vinegar.
+     Homer: Hmm...sorry, Dad.  You're too old.
+       Abe: [stammers] Too old?  Why, that just means I have experience.
+            Who chased the Irish out of Springfield village in aught
+            four?  Me, that's who!
+ Irish man: And a fine job you did, too.
+     Homer: Aw, Dad.  You've done a lot of great things, but you're a
+            very old man now, and old people are useless.  [tickles Abe]
+            Aren't they?  Aren't they?  Huh?  Yes they are!  Yes they
+            are!  Tee hee --
+       Abe: Stop it!  That's a form of abuse.
+-- Father and son, "Homer the Vigilante"
+
+% Moe, Homer, McAllister, and Skinner all check out their own shotguns
+% in the Simpson home.
+
+     Marge: I don't think the guns are a good idea.
+     Homer: Marge!  We're responsible adults.  And --
+       Moe: [shoots] Whoops.
+     Homer: And if a group of responsible adults can't handle firearms
+            in a responsible way --
+McAllister: [shoots] Sorry.
+   Skinner: [shoots] Uh oh.
+       Moe: [shoots] Me again.
+      Bart: [shoots] Sorry.
+-- You were saying?, "Homer the Vigilante"
+
+% [End of Act One.  Time: 8:05]
+%
+% {At Moe's Tavern, Homer and Barney shake hands back to back, reaching
+% through their legs.}
+
+Homer: {OK, we've got the secret vigilante handshake.  Now we need code
+       names.  I'll be Cue-Ball, Skinner can be Eight-Ball, Barney will
+       be Twelve-Ball, and Moe, you can be Cue-Ball.}
+  Moe: {You're an idiot.}
+-- No, Moe can be Lucille Ball, "Homer the Vigilante"
+
+% The men check out the display of weapons at Herman's store.  {The shot
+% of Herman's is shortened by a second in syndication.}
+
+Herman: So...wedding, huh?
+ Homer: No, we're forming a vigilante group.
+-- An easy mistake to make, "Homer the Vigilante"
+
+% Herman entreats Homer to go with him.
+
+ Herman: See, it's a miniature version of the A-Bomb.  The government
+         built it in the fifties to drop on beatniks.
+          [Homer imagines a beatnik on the grass with a bongo]
+Beatnik: Radiant cool, crazy nightmare
+         Zen New Jersey nowhere...
+          [A group of beatniks snap their fingers in time]
+          [Homer flies overhead in a plane]
+  Homer: Put this in your pipe and smoke it!
+          [Presses a button, but the A-Bomb doesn't fall]
+Beatnik: How now, brown bureaucrat?
+          [Homer jumps on the bomb, and it falls with him still on it.
+         He cheers as though he's riding a bronco]
+          [It explodes, bringing us back to reality]
+         Take that, Maynard G. Krebs!
+ Herman: Hey...see the sign?  ["Do not ride the bomb"]
+  Homer: Sorry.
+-- Eradication of undesirables, "Homer the Vigilante"
+
+% The vigilante group is now outfitted and ready to go.  Homer inspects
+% their uniforms.
+
+  Homer: OK, men, it's time to clean up this town!
+Skinner: Meaning what, exactly?
+  Homer: You know, push people around, make ourselves feel big.
+-- A noble directive, "Homer the Vigilante"
+
+% Homer gets in a motorcycle sidecar with Barney as the driver, and he
+% demands that Bart give him his megaphone.  "It's not just _a_
+% megaphone, Dad, it's a Rapmaster 2000," Bart explains, but Homer grabs
+% it nonetheless, figuring he must whip the neighborhood into shape.  As
+% he uses it, a beat emanates from it under his voice, and the
+% neighborhood children mistake Homer for Hammer.  The follow the
+% motorcycle, dancing and gyrating, ignoring Homer's warning to return
+% to their homes and places of businesseses.
+%
+% On one of the patrols, the vigilante group come upon a college student
+% playing a saxophone for money on the street.
+
+  Homer: Hey, you!  Where did you get that saxophone?
+Student: [pause] Sears.
+  Homer: Get him!
+-- Mistaken identity, "Homer the Vigilante"
+
+% On another patrol, they come across a man burning leaves in his yard.
+% {The man takes a puff of his cigarette.}  "No burning leaves without a
+% permit!"  Homer rudely informs him, as the members of the group kick
+% the burning leaves all around.  "I got one," the man protests, but it
+% is too late.  The vigilantes run off, and the man has to douse the
+% leaves before they burn his house to the ground.
+%
+% They come upon Jimbo who is spray painting "carpe diem" on a wall.
+
+Homer: You better have a good reason for doing that, boy.
+Jimbo: It makes me feel like a big man.
+Homer: Let me check my reason list.  ...Yep!  It's on here.
+Jimbo: Hey!  You're that drunken posse.  Wow...can I join ya?
+Homer: [skeptical] I don't know...can you swing a sack of door knobs?
+Jimbo: _Can_ I?
+Homer: You're in!  Here's the sack.
+  Moe: But you gotta supply your own knobs.
+-- A small price to pay, "Homer the Vigilante"
+
+% That night at dinner, Homer relates his antics to the rest of the
+% family.
+
+Homer: So I said to him, "Look, buddy, your car was upside down when we
+       got here.  And as for your Grandma, she shouldn't have mouthed
+       off like that!"
+ Lisa: Dad, don't you see you're abusing your power like all vigilantes?
+       I mean, if you're the police, who will police the police?
+Homer: I dunno.  Coast Guard?
+-- You scratch my back..., "Homer the Vigilante"
+
+Marge: Homer, wasn't the whole point to catch the Cat Burglar?
+ Lisa: And I still don't have my saxophone.
+Homer: Lisa, the mob is working on getting your saxophone back.  But
+       we've also expanded into other important areas.  [reads a list]
+       Literacy programs, preserving our beloved covered bridges, world
+       domination --
+ Lisa: World domination?
+Homer: Oh ho, heh, that might be a typo.
+        [thinks] Mental note: the girl knows too much.
+-- Precocious eight-year-olds, "Homer the Vigilante"
+
+% Homer is invited to be a guest on Smartline.  Kent Brockman interviews
+% him.
+
+ Kent: Mr. Simpson, how do you respond to the charges that petty
+       vandalism such as graffiti is down eighty percent, while heavy
+       sack-beatings are up a shocking nine hundred percent?
+Homer: Aw, people can come up with statistics to prove anything, Kent.
+       Forfty percent of all people know that.
+ Kent: I see.  Well, what do you say to the accusation that your group
+       has been causing more crimes than it's been preventing?
+Homer: [amused] Oh, Kent, I'd be lying if I said my men weren't
+       committing crimes.
+ Kent: [pause] Well, touche'.
+-- Effective interview responses, "Homer the Vigilante"
+
+       [phone rings]
+ Kent: Well it looks like we have our first caller...and I mean ever,
+       because this is not a call-in show.  Hello, you're on the air.
+  Man: Hello, Kent.  Hello, Homer -- my arch-nemesis.
+Homer: Y'ello.
+  Man: You _do_ realize who this is?
+Homer: Uh...Marge?
+  Man: No, Homer, I'm not your wife.  Although, I do enjoy her pearls.
+       As a matter of fact, I'm holding them right now: listen.  [plays
+       with them]
+Homer: Why you monster.  And you have my daughter's saxophone too!
+        [He strangles someone off camera]
+ Kent: Homer!  That's our stage manager.
+Homer: Oh...heh, sorry.  I'm a little nervous.
+-- No great loss, "Homer the Vigilante"
+
+  Man: You may be interested to know that for my next crime, I'll be
+       pinching the pride and joy of the Springfield Museum -- the
+       world's largest cubic zirconia.
+Homer: Listen, Mr. Cat Burglar, I vow to go without sleep and guard the
+       Springfield Museum day and night for as long as it takes from now
+       on.  Unless you want to taunt me more by giving me an approximate
+       time...
+        [no answer]
+        [sweetly] We'll be right back.
+ Kent: I get to say that!
+-- No fair, "Homer the Vigilante"
+
+% Homer stands outside the museum.  Abe, Jasper, and Malloy approach
+% him.
+
+  Abe: Son, we want to help you catch that plug-ugly yegg.
+Homer: [sweet] Dad, the best way for you to help is to set a good
+       example.  [serious] Just stand around and don't steal anything.
+        [He turns away, but suddenly turns back, noticing Abe and Jasper
+       carting something from the museum] Hey!
+  Abe: We're on our break!
+-- Oh, _that_ justifies it, "Homer the Vigilante"
+
+% Homer walks up to Skinner.
+
+Skinner: Any sign of the burglar yet?
+  Homer: He'll show.
+Skinner: How's that?
+  Homer: It's his job.
+Skinner: How's that?
+  Homer: He's a burglar.
+-- Socratic questioning, "Homer the Vigilante"
+
+% Homer and Skinner nod at one another as the theme music from "Dragnet"
+% plays.
+
+Well, Mr. Cat Burglar, you'd like to get in here, wouldn't you?  There's
+just one little problem: 36 years ago, some lady gave birth to a man
+named Homer J. Simp -- ohmigod: underage kids drinking beer without a
+permit!
+-- Homer guards the Springfield Museum, "Homer the Vigilante"
+
+% The Cat Burglar wastes no time in taking advantage of the situation.
+% He walks into the museum and flips the alarm switch, ignoring the "Do
+% not turn off" warning on it, and the glass surrounding the monstrous
+% bogus diamond lowers.  He sneaks away as three teenagers encourage
+% Homer to chug a beer.
+%
+% The Springfield Shopper announces the next day, "Zirconia Ztolen!",
+% and accuses Homer of being asleep.  The picture shows Homer passed out
+% with beer cans all around him.
+
+Homer: "Asleep at the switch"?  I wasn't asleep, I was drunk!
+ Bart: I believe you, Dad.
+-- Your sympathy is touching, "Homer the Vigilante"
+
+% Homer realizes he's still got a job to do, and he walks out the front
+% door, only to be pelted by fruit and vegetables.  Barney yells, "Go
+% home, Simpson!"  Jimbo walks up to Homer and empties a sack full of
+% doorknobs in front of him.
+
+Jimbo: You let me down, man.  Now I don't believe in nothing no more.
+       I'm going to law school
+Homer: Noo!
+ Lisa: Dad...maybe this will cheer you up.  [plays her jug]
+Homer: Aw, this doesn't work any more.  [Lisa stops] I didn't say stop!
+-- The healing power of hoedown, "Homer the Vigilante"
+
+% [End of Act Two.  Time: 14:37]
+%
+% As Homer picks the fruit from his body, Marge finally realized how
+% much the town loved the giant zirconia.  Abe walks in.
+
+ Abe: Let me through!  Let me through.
+Lisa: Oh, Grampa, they pelted you too?
+ Abe: No, actually, I fell down at the Big Boy.
+-- Great free-food scams, "Homer the Vigilante"
+
+  Abe: Son, I've come to help you.  I know who the Cat Burglar is.
+Homer: What?
+Marge: Who?
+ Bart: Huh?
+ Lisa: What?
+  Abe: [triumphant] Well, well, well!  Before I was just too old, and no
+       one wanted my help.  Suddenly, look who comes to old Grampa --
+       wait!  Where are you going?  [meek] Come back, I'll tell you.
+-- No gloating allowed, "Homer the Vigilante"
+
+  Abe: He was right under my nose the whole time.  He lives in my
+       retirement home.  His name is Malloy.
+ Lisa: Wow!  How'd you track him down, Grampa?
+  Abe: Good question!  On one of my frequent trips to the ground, I
+       noticed Malloy wore sneakers...for sneaking.
+       My next clue came yesterday at the museum.  We felt slighted by
+       your age-bashing, and started home.  Malloy said, "I'll catch up
+       with you."
+        [Malloy shoots a rope over the building]
+       I couldn't quite put my finger on it.  There was something
+       strange about the way he walked -- much more vertical than usual.
+       And finally, Malloy, unlike most retired people, has the world's
+       largest cubic zirconia on his coffee table.
+Homer: Aw, Dad, I could kiss you!
+  Abe: Well, kiss me right here.  It's the only part that still has
+       feelings.
+-- Sherlock Abe, "Homer the Vigilante"
+
+% Homer walks outside, and everyone cocks their arm, but Homer stops
+% them by saying he knows where the burglar is.  "To the retirement
+% home!" yells Abe, and everyone cheers.  They all rush off and accost
+% Malloy.
+
+Skinner: And there she is: the world's largest cubic zirconia.
+    Moe: What an eyesore!
+  Homer: So, Mr. Malloy, it seems that the cat has been caught by the
+         very person who was trying to catch him.
+Skinner: How ironic.
+-- Moronic, that is, "Homer the Vigilante"
+
+Malloy: Homer, old chap, well done.  If anyone was going to catch me,
+        I'm glad it was you.
+ Homer: Actually, it wasn't me, it was my dad, Grampa.
+   Abe: Thanks, Son.  So you see, old people aren't so useless after
+        all.  Malloy's old, and he outsmarted the lot of you.  And I'm
+        even older and I outsmarted him!  Ah ha ha ha --
+   Moe: Shut up.
+   Abe: [meek] I've had my moment.
+-- You'll have fourteen more, "Homer the Vigilante"
+
+Malloy: And of course, I'm happy to return all of your treasured
+        possessions.
+         [Everyone talks with surprise]
+        Selma, my dear: your lock of MacGyver's hair.
+ Selma: Thank you.  I'll add it to the ball.
+-- That's why he's going bald, "Homer the Vigilante"
+
+  Malloy: And little Lisa: here's your saxophone.
+    Lisa: Thank you.  And thank you, Dad.  You got it back -- just like
+          you said you would.
+  Malloy: I sincerely regret any inconvenience that I may have caused.
+          And although I have stolen your material goods, let me assure
+          you that your dear town has stolen my heart.
+Everyone: Aw!
+ Skinner: Oh, he's so charming.
+  Barney: Let's let him go!
+Everyone: Yeah!
+  Wiggum: Oh, sorry folks.  [sarcastic] Gee, I really hate to spoil this
+          little love-in, but Mr. Malloy broke the law.  And when you
+          break the law, you gotta go to jail.
+  Quimby: Uh, that reminds me, er, here's your monthly kickback.
+  Wiggum: You just -- you couldn't have picked a worse time.
+-- Kickbacks aren't illegal, they're in the Springfield Towne Charter,
+    "Homer the Vigilante"
+
+% Homer gloats outside Malloy's prison cell.
+
+ Homer: I caught the Cat Burglar!  I caught the Cat Burglar!  That means
+        you-ou!  You are the Cat Burglar!
+Malloy: I suppose you're wondering where I hid all the millions of
+        dollars I stole over the years.
+ Homer: Shut up!
+Wiggum: No, wait a minute -- maybe we should, er, hear him out.  Where'd
+        you hide the loot, Malloy?
+Malloy: It's buried right here in Springfield...under a big T.
+ Homer: No...kidding?
+Wiggum: Big T, huh?
+ Homer: [backing away] Well...I guess I'll be going to my home now,
+        and...sleep.
+Wiggum: Yeah...me too...I will also go home...for sleep.
+-- Dripping with nonchalance, "Homer the Vigilante"
+
+% Eddie, Lou, Wiggum, and Homer frantically run out of the jail.  Homer
+% pushes people aside, yelling how he must find a big T. "There's
+% millions of dollars buried under a big T!"  People look at the Big T
+% Building, Big T Burgers and Fries, the Tea Factory, and the Big T
+% Theater (featuring Ice T and Booker T), but no one finds anything.
+% They all rush to the jail.
+
+Wiggum: We need more information.
+Malloy: Very well.  It's buried at 4723 Maple Valley Road.
+         [Everyone stares blankly]
+         [sighs] You take highway 201 south for 15 minutes.  You take a
+        left -- a left --
+-- On a silver platter, "Homer the Vigilante"
+
+% Marge hops in the motorcycle and Homer in the sidecar while the other
+% citizens of Springfield drive in whatever they can.  Barney flies a
+% biplane with Selma and Patty in the other seats straight through a
+% Duff billboard.  A man in a convertible drives in what he thought was
+% a shallow stream, but his car gets lower and lower in the water.  Bart
+% watches with a grin as the man sinks, and Bart waves goodbye.
+%
+% Kent Brockman reports on the situation.
+
+     Kent: Hordes of panicky people seem to be evacuating the town for
+           some unknown reason.  Professor, without knowing precisely
+           what the danger is, would you say it's time for our viewers
+           to crack each other's heads open and feast on the goo inside?
+Professor: Mmm, yes I would, Kent.
+-- A reasoned opinion, "Homer the Vigilante"
+
+% People arrive helter-skelter at the address given by Malloy.  It has a
+% palm tree shaped like a T planted in the ground there.  Several men
+% begin shoveling and picking away at the ground with their shirts off
+% as others look on anxiously.  Snake even licks his chops in
+% anticipation.  Eventually Otto hits paydirt.
+
+  Otto: I found something!  [pulls a briefcase from the ground]
+Wiggum: [opens it] It's just a piece of paper.
+ Homer: It's mine!  [reads] "Frightfully sorry, but there is no hidden
+        treasure.  I have already used this time to escape from your
+        jail.  Fondest wishes" -- oh, I can't make out the signature!
+Quimby: Keep digging.  We're bound to find something!
+-- Missing the point, "Homer the Vigilante"
+
+% They do as Quimby suggests, until there are only a few of them at the
+% bottom of a hole forty or fifty feet deep.
+
+Quimby: I guess we're not going to find anything.
+  Otto: Um, how are we going to get out of here?
+ Homer: We'll dig our way out!
+Wiggum: No, dig _up_, stupid.
+-- "Homer the Vigilante"
+
+% [End of Act Three.  Time: 20:55]
+%
+% The theme music at the end has an oom-pah-pah bass, and it sounds more
+% goofy than usual (this ties in with the "It's a Mad, Mad, Mad, Mad,
+% World" theme.)
+
+<|endoftext|>

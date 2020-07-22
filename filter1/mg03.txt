@@ -1,0 +1,91 @@
+% B = Bart, H = Homer
+%
+% Bart stands on a table, Homer stands a few feet away.  On the wall are
+% a portrait of Marge and a framed sign, ``No foolish horseplay.''
+% Homer reaches his arms towards Bart.
+
+H: Leap into your father's arms.  Come on, just like the old days!
+B: I'm too big now, Dad.  There's no way.
+
+% As Homer continues to plead, Bart does some knee bends and otherwise
+% prepares to jump.
+
+H: Come on, boy!  Leap!  Do it!  Atta boy!  Come on, Bart!
+
+% Bart not so much leaps as hops feebly off the table, landing on (and
+% bouncing off) his spiky-haired head.  Homer scowls.
+
+H: You call that a leap?
+
+% [End of Act One.]
+%
+% Bart is back on the table.  Bart is annoyed in a bored, whiney sort of way.
+% During the conversation, Bart continues doing knee bends and otherwise
+% preparing to jump.
+
+B: Dad, why are we doing this?
+H: You've always afraid of falling on your head ever since you were a
+   little baby.  I'm trying to help you overcome that fear.
+B: You want me to jump because I've always been ... jumpy?
+
+% Bart jumps...
+
+H: [laughs] That's a good one son.  Always been jumpy! [laughs more]
+
+% ... and lands on his butt because Homer was laughing too hard.
+%
+% [End of Act Two.]
+%
+% Back on the table.  Bart is whining.  His forehead has a small bandage,
+% as well as an unbandaged bruise.
+
+B: Daaad, this is really dumb.  My head still from the last two times...
+H: Let's go, boy.  No excuses.  Leap!  Leap, boy!  I wanna see some
+   gumption!
+
+% Bart closes his eyes, clenches his fists, and starts doing knee bends in
+% preparation for a really big leap.
+
+H: Leap like you never, um...  Leap like you never...
+
+% Homer turns his head to the side, mentally distracted.
+
+H: What's the past tense of leap?
+
+% Homer wanders off in search of a dictionary just as Bart jumps.
+
+H: Leapt?  Leaped?  That doesn't sound right...
+
+% Bart lands on his head, bounces once, and reclines on the floor yet
+% again, a new bruise on his shirt.  The usual cartoon embellishments
+% emanate from Bart's head.
+%
+% Off-screen, Homer flips through the dictionary.  (Three page flips.)
+% He returns, dictionary in hand, and all smiles.
+
+H: Well, whaddya know!  Leaped <and> leapt.  They're <both> right!
+
+% [End of Act Three.]
+%
+% You know the set-up.
+
+B: But Dad...
+H: I haven't got all day.  Now leap, and give it all you got.
+B: Do I have to?
+H: Bart!
+
+% The doorbell rings.
+
+H: I'll get it.
+
+% Homer turns and leaves.  Meanwhile, Bart has closed his eyes and
+% jumped.  He lands on his head, bounces twice, and lies, inert,
+% flat on his back.
+%
+% Homer returns, four boxing gloves in his hand.
+
+H: Good news, son!  The boxing gloves have arrived!
+
+% [End of Act Four.]
+
+<|endoftext|>

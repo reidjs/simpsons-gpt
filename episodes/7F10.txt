@@ -1,0 +1,486 @@
+<PRE>
+Bart Gets Hit by a Car                             Written by John Swartzwelder
+                                                      Directed by Mark Kirkland
+===============================================================================
+[$Id: 7F10 1.5 91/12/17 14:46:14 raymond Exp Locker: raymond $]
+===============================================================================
+> Title Sequence
+===============================================================================
+Blackboard :- `I will not sell school/property'.
+              `I will not sell schoo' at cutoff.
+
+Driveway   :- no oil on the driveway.
+              Homer does not shake his fist at Bart.
+              Homer says Aaagh! when Lisa scoots past.
+
+Couch:     :- Homer bumps everybody off the couch.
+
+===============================================================================
+> Didja notice...
+===============================================================================
+
+    ... nary two seconds after we see `Bart Gets Hit by a Car',
+        Bart gets hit by a car?
+    ... the Devil is using a windowing interface to his computer?
+    ... when Homer is called into Mr. Burns' office (the first time),
+        there is a line of attorneys standing next to Burns' desk,
+        and at the end of the line is a stuffed mounted polar bear?
+    ... Della is reading `Popular Secretary'?
+    ... when Burns and Smithers spy on Marge and Homer through the painting,
+        Burns looks through the eyes of a portrait of Mr. Burns, and
+        Smithers bends over to look through the eyes of Burns' dog?
+        [I'll leave the `bends over' part to the people who like to
+        argue about whether Mr. Burns is a Homer-sexual.]
+    ... Doctor Julius Hibert went to Johns Hopkins?
+    ... when Hutz buries his head in his hands after Marge ruins his case,
+        there are crumpled up pieces of paper and a broken pencil on the
+        table in front of him?
+
+[John Kupec]
+    ... one of the stores in opening scene is named `Cloth Store'?
+    ... Burn's limo has an atom hood ornament?
+    ... green goo dripping all over the nuclear power plant?
+    ... Hutz's secretary's name is Della as in Perry Mason?
+
+[Thomas Skrobala]
+    ... that Judge Moulton looked a lot like non-Supreme-Court-justice
+        Robert Bork?
+
+Also, when Burns' attorney asked Marge for her opinion of Dr. Riviera,
+notice that Lionel Hutz didn't raise any objection?  It seems he
+didn't learn much about law at the Louvre Law School...
+
+Some people note that Homer indignantly turns down Burns's offer of $500,000
+even though that's what he would've gotten if he had won the lawsuit once he
+paid Hutz's 50% fee.  But Hutz probably would have claimed 50% of the $500,000
+settlement, leaving Homer with $250,000.
+
+===============================================================================
+> Movie References
+===============================================================================
+  ~ A Tale of Two Cities
+        - After hitting Bart, Burns says, ``Just give him a nickel
+          and let's get going.''  In the book, the Marquis St. Evremonde
+          runs over a boy in the street and just tosses the father a coin.
+          Gaspard (the father) refused the coin and instead murdered the
+          Marquis.  Wonder if Burns knew... {jdlb}
+  + Hieronymus Bosch (1450-1516), `Garden of Earthly Delights'
+        - the rendition of Hell
+  + Rolling Stones, `Sympathy for the Devil'
+        - Satan says, `Please allow me to introduce myself.'
+  + Wizard of Oz
+        - Bart waking up from his `dream' saying `And you were there,
+          and you and you...'
+  + Miracle on 34th Street
+        - Judge asking Bart if he knows the difference between telling
+          the truth and telling a lie.
+    ? Some as-yet unidentified movie ?
+        - Burns cradling Bart's head in his lap (in the Burns version)
+          and the camera pulling upward with a crowd of people surrounding
+          him.
+          Guesses include
+            - The Last Picture Show, when the poolroom owner's adopted son
+              gets tagged by a semi while sweeping the street. {rc}
+            - The Pulitzer-Prize-winning photo of the Kent State Massacre
+              of May 1970.
+            - Colors, when Robert Duvall is shot. {sy}
+            - The Human Comedy, ``check it out if you don't believe me'' {sf}
+            - Potemkin, when the mother holds her dead child {jev}
+            - Rebel Without a Cause, ``I'm pretty sure'' {ja}
+            - Romeo and Juliet, the final scene {din}
+            - West Side Story, the final scene {din}
+            - Superman, when Superman finds Lois Lane dead {sp}
+            - Twilight Zone, `In Praise of Pip', when Jack Klugman
+              prays for his son, he says something like ``Take me,
+              I'm old.'' {wb}
+          and probably the best guess
+            - Darby O'Gill and the Little People (Sean Connery)
+              Towards the end of the movie, old man Darbys' daughter disobeys
+              her fathers commands and goes up a mountain after a horse (storm
+              coming).  She trips over a ledge and is knocked unconsious.
+              Fearing the Banshee curse placed on Darby will claim another
+              victim, he races after her and finds her lying on the ground.
+              Cradling her head in his lap, and with the camera pulling back,
+              yells out at the approching banshee ``Go away!  Take me I'm
+              old!''  Darby throws a lantern at the hag, who disappears, then
+              he and her boyfriend (Connery) carry her back home.
+              {cjb's brother}
+
+===============================================================================
+> Bart's visit to Hell
+===============================================================================
+Several people have pointed out that the rendition of Hell is taken
+Bosch's ``Garden of Earthly Delights''
+
+As to what computer system the devil was using, I personally doubt very
+much the writers had a particular system in mind.  Assorted evidence:
+
+    The mouse had only one button. (suggests Macintosh)
+    the pull-down menu did not come from a menu bar. (rules out Macintosh)
+    there was more than one type of menu pulled out of thin air.
+        (rules out Windows 3, SunView)
+    the menu changed without having to press the mouse button.
+        (rules out everything else)
+
+Note, though, that the devil was right-handed.  So much for `sinister'
+intentions...
+
+===============================================================================
+> Bart's return to the world of the living
+===============================================================================
+
++ Bart passes through earth with dinosaur fossils embedded in it.
+
++ The Flanderses were getting booster shots on the ground floor of the
+  hospital; how typically responsible of them. [David Tamkin]
+
++ the sign on the door reads `State Booster Program'. [Joe Kincaid]
+
++ The syringe you see is not a real syringe, but rather is part of the
+  inoculation poster. [Thomas C. Allard]
+
++ The sign on the door reads `Authorized Personnel Only'. [Jeffrey R Carden]
+
++ Jacques is seeing his proctologist, probably more out of need than
+  Flanders-like prevention. [David Tamkin]
+
++ Bart passes by a room where a body with a toe tag lies in bed.
+
+===============================================================================
+> Lionel Hutz, the Lawyer
+===============================================================================
+[David Tamkin]
+
+Hutz's sponge card (a degree from the Louvre?) tells us to dial KL 5-LAWW;
+he's been clogging our courts since 1974.  [1976, actually. --rjc]
+
+===============================================================================
+> `Doctor' Riviera
+===============================================================================
+[David Tamkin]
+
+The block from Hutz's office to Riviera's had ``(Something) Nook'' on the
+corner, then ``[Your?] Law Offices of Lionel Hutz,'' then ``Gum for Less,''
+[which Joe Kincaid points out is a new low in niche marketing] and
+finally ``Dr. Nick Riviera, general specialist credit doctor.''  Signs in
+Riviera's office windows read ``Yes, we're open'' and ``Yes, we use
+anesthetic.''  How reassuring.
+
+Riviera's degrees read ``Mayo Clinic Correspondence School,'' ``Club Med
+School,'' ``Female Body Inspector,'' (how about ``Female Body Impersonator''?),
+and ``I went to medical school for four years and all I got was this lousy
+diploma.''  But as Hutz said, Riviera was the only person in the room who
+even came close to being a doctor.
+
+===============================================================================
+> Burns' story
+===============================================================================
+From: jasmerb@prism.cs.orst.edu (Bryce Jasmer)
+
+Burns driving in that pink VW Bug with purple flowers. I think it was the
+music that really made it great.
+
+[dattier@ddsw1.MCS.COM (David W. Tamkin) and jwk@Scripps.EDU (John Kupec)
+confirm that the music was "Tijuana Taxi" by Herb Alpert & the Tijuana Brass.]
+
+===============================================================================
+> Lisa's role
+===============================================================================
+Lisa has but five lines in the entire episode (sigh):
+
+1) Excuse me, Mr. Hutz.  Are you a shyster?
+2) Hello, Dr. Hibbert.
+3) Dad, may I please make an observation?
+4) I think this is all a charade to make Bart look
+   more injured than he really is.
+5) Mmm.
+
+===============================================================================
+> Quotes and scene summary
+===============================================================================
+% While skateboarding recklessly, Bart gets hit by Mr. Burns' car.
+
+Smithers:  I think the boy is hurt.
+Burns:     Oh for crying out loud, just give him a nickel and let's get going.
+-- after... ``Bart Gets Hit by a Car''
+
+% Bart's spirit rises from his body...
+
+Hey, cool, I'm dead.
+-- Bart realizes he's dead, ``Bart Gets Hit by a Car''
+
+% and he takes an escalator to the pearly gates, seeing Great Grampa Simpson
+% and a tire-track-marked Snowball on the way.  A voice instructs...
+
+Please hold onto the handrail.  Do not spit over the side.
+[and repeated in Spanish]
+-- Heavenly voice, ``Bart Gets Hit by a Car''
+
+% Bart spits over the side, and Bart falls down, down, down... as the voice
+% chides, `We told you to hold onto the handrail.  We asked you not to spit
+% over the side'.  Bart finds himself in the Underworld.
+
+I'm Bart Simpson, who the hell are you?
+-- Bart introduces himself to Satan, ``Bart Gets Hit by a Car''
+
+% But there seems to have been a mistake...
+
+According to this, you're not due to arrive until the Yankees
+wins the pennant.  That's nearly a century from now.
+-- The Devil, on Bart's premature visit to Hell, ``Bart Gets Hit by a Car''
+
+Boy is my face red.
+-- Satan after realizing Bart isn't due to arrive yet,
+   ``Bart Gets Hit by a Car''
+
+Bart:  Um, say, is there anything I can do to avoid coming back here?
+Satan: Oh, sure, yeah.  But, eh, you wouldn't like it.
+Bart:  Oh, okay!  See you later, then.
+-- Bart leaves Hell, ``Bart Gets Hit by a Car''
+
+Satan:  Remember:  Lie, cheat, steal, and listen to heavy metal music!
+Bart:   Yes, sir!
+-- Some parting advice, ``Bart Gets Hit by a Car''
+
+% Bart ascends to the world of the living and wakes up in a hospital room.
+% The family is joined by ...
+
+Hutz:  Hutz is the name, Mr. Simpson.  Lionel Hutz, attorney at law.
+       Here's my card.  It turns into a sponge when you put it in water.
+Homer: Ooh, classy.
+-- ``Bart Gets Hit by a Car''
+
+Homer: The doctor says it's just a bump on the head and a broken toe,
+       nothing serious.
+Hutz:  Pfft.  Doctors.  Doctors are idiots!
+-- ``Bart Gets Hit by a Car''
+
+Lisa: Excuse me, Mr. Hutz.  Are you a shyster?
+Hutz: How does a nice little girl like you know a big word like that?
+-- Lisa suspects Lionel Hutz isn't on the level, ``Bart Gets Hit by a Car''
+
+% Marge asks Hutz to leave, and he does...
+
+Lionel Hutz, attorney-at-law.  What's that, a broken neck?  Great!
+-- Chasing a gurney down the corridor, ``Bart Gets Hit by a Car''
+
+% Dr. Hibert comes in...
+
+Marge:  Is he well enough for me to start mothering him unbearably, doctor?
+Hibert: Mm, better let him rest up a while first.
+-- ``Bart Gets Hit by a Car''
+
+% Homer talks to his coworkers about what happened...
+
+Homer:    If I wasn't so spineless, I'd march into Mr. Burns' office
+          right now and...
+Smithers: Simpson!
+Homer:    Aah!
+Smithers: Mr. Burns wants you to march into his office right now!
+-- ``Bart Gets Hit by a Car''
+
+Ah, Simpson.  At last we meet.
+-- Mr. Burns, calling Homer in regarding Bart's accident,
+   ``Bart Gets Hit by a Car''
+
+% when Burns offers him only $100, Homer notes that this hardly even covers
+% the medical bills.  Burns accuses Homer of extortion and tosses him out.
+
+Burns: Throw him out, Smithers!
+Homer: You don't have to do that, Mr. Burns.  I can throw <myself> out.
+-- Burns tells Homer he isn't going to get a cent,
+   ``Bart Gets Hit by a Car''
+
+% Homer wipes his brow with the Hutz sponge and decides to pay him a visit.
+
+The Supreme Court called again.  They need your help on some freedom thing.
+-- Della, Lionel Hutz' secretary, ``Bart Gets Hit by a Car''
+
+Yes, Harvard, Yale, MIT, Oxford, The Sorbonne, the Louvre [pron. Loove-rah].
+-- Lionel Hutz, attorney at law, listing his degrees,
+   ``Bart Gets Hit by a Car''
+
+Mr. Simpson, the state bar forbids me from promising you a big cash settlement.
+But just between you and me, I promise you a big cash settlement.
+-- Lionel Hutz, ``Bart Gets Hit by a Car''
+
+You'll be getting more than just a lawyer, Mr. Simpson.
+You'll also be getting this exquisite faux pearl necklace,
+a $99 value, as our gift to you.
+-- ``Bart Gets Hit by a Car''
+
+% When Hutz says he's looking at $1 million, Homer is pleased.  They go
+% to see Nick Riviera, so-called doctor.
+
+Just look at the X-rays!  You see that dark spot there?  Whiplash.
+And this smudge here, that looks like my fingerprint?  No, that's trauma!
+-- `Doctor' Nick Riviera, ``Bart Gets Hit by a Car''
+
+% Marge raises her objections...
+
+With all due respect, Mrs. Simpson, you're not a doctor, the boy's
+not a doctor, the only person who even comes CLOSE is this man [Nick Riviera].
+-- Lionel Hutz responding to Marge's skepticism, ``Bart Gets Hit by a Car''
+
+Hutz:    Doctor, are you sure there isn't a little soft tissue trauma
+         in the facial area?
+Riviera: Oh yeah, tons of it! [wrapping Bart's head]  Just say when!
+-- Bart is in the care of trained professionals, ``Bart Gets Hit by a Car''
+
+% Burns wants to fire Homer, but Smithers fears the headlines...  Burns
+% dreams of headlines like ``Burns fires ungrateful employee'', ``Another
+% smart move by Burns'', and ``Hooray for Burns!''  Burns agrees to sit
+% and wait until the media have forgotten about the incident.  Meanwhile,
+% Hutz rehearses Bart's testimony, as Marge's and Lisa's objections are
+% ignored.  In court...
+
+I should be able to run over as many kids as I want!
+-- In court, Mr. Burns justifies his actions, ``Bart Gets Hit by a Car''
+
+Judge: Mr. Burns, I must warn you that if you continue to disrupt the court
+       in this way, I will have to cite you for contempt.
+Burns: You wouldn't dare!
+Judge: Well, no, um, I guess I wouldn't.
+-- ``Bart Gets Hit by a Car''
+
+% Bart is wheeled to the witness stand.
+
+Judge: Hello, Bart.  Now, you do understand the difference between
+       telling the truth and telling a lie, don't you son?
+Bart:  Maybe.
+Judge: Uh huh.  Well, you wouldn't lie to the United States, would you, Bart?
+Homer and Hutz: [prompting, whispering]  No!  No!
+Bart:  No.
+-- Bart takes the witness stand, ``Bart Gets Hit by a Car''
+
+% Bart tells what happened.  He was playing in his innocent childlike way,
+% when...
+
+Defenseless child at three o'clock.
+-- Smithers spying a helpless Bart in the street, ``Bart Gets Hit by a Car''
+
+% ``Luckily, I was not killed that day.  Though sometimes [sob] I wish I
+% had been. [sniff]''
+
+Marge and Lisa:  Mmm...
+-- Reactings to Bart's ``Believable testimony'', ``Bart Gets Hit by a Car''
+
+% Then Burns takes the stand.
+
+Oh, it was a beautiful day.  The sun was shining.
+I was driving to the orphanage to pass out toys...
+-- Mr. Burns' view of events, ``Bart Gets Hit by a Car''
+
+% But Bart evilly skateboards into his VW bug...
+
+NOOOOOOOO!!  TAKE ME!!  I'M OLD!!
+-- Mr. Burns' view of events, ``Bart Gets Hit by a Car''
+
+% The jury are not convinced.  During the recess...
+
+Hang your heads in shame, you overpriced, underbrained glorified notary
+publics!  Just get that big ape to my house tonight and we'll buy him off
+with a banana or two!
+-- Mr. Burns bawling out his attorneys, ``Bart Gets Hit by a Car''
+
+% David Tamkin notes: He must truly have been agitated.  Normally he would
+% know that the plural of attorney is "overpriced, underbrained glorified
+% notaries public."
+%
+% Marge and Homer are invited to the Burns mansion...
+
+Burns: And that ugly customer was the last Indonesian rhino on earth.
+Marge: Hm, I didn't know you liked animals.
+Burn:  Oh, I don't like everything about them.  Just their heads.
+-- Invited to the Burns mansion, ``Bart Gets Hit by a Car''
+
+Homer:  Mr. Burns, are you trying to get me drunk?
+Burns:  Yes.
+-- A brief moment of honesty from Monty Burns, ``Bart Gets Hit by a Car''
+
+% Burns offers a $500,000 settlement and leaves Homer and Marge alone
+% to talk it over.  Burns and Smithers spy on them as Homer wants to
+% hold out for the $1 million, but Marge fears what Homer has turned into,
+% what with shifty lawyers and phony doctors...  Burns returns.
+
+Sorry, offer's expired, I guess we'll just have to let the jury decide,
+twelve good men and true, Smithers release the hounds.
+-- Mr. Burns realizes that Bart made up his story, ``Bart Gets Hit by a Car''
+
+% Homer and Marge run across the lawn, chased by dogs.  In court, Marge
+% is called to the stand by Burns' lawyer.
+
+Bailiff: Do you promise to tell the truth the whole truth and nothing
+         but the truth, so help you God?
+Marge:   Mmm... Yes, I do.
+Hutz:    She sounded like she was taking that awful seriously.
+-- ``Bart Gets Hit by a Car''
+
+% Marge's honest testimony destroys Hutz's case.
+
+Burns: I'm going to write a figure on this piece of paper.  It's not quite
+       as large as the last one, but I think you'll find it fair.
+       [draws a giant zero]
+Hutz:  I think we should take it.
+-- ``Bart Gets Hit by a Car''
+
+% At the Simpson dinner table...
+
+Homer: [thinks]  A million dollars.  My wife cost me a million dollars.
+Marge: Homer?  Would you like some more macaroni and cheese?
+Homer: [thinks]  Yeah, a million dollars' worth, you treacherous
+       snake-woman! [out loud] No, thank you.
+Marge: Some string beans?
+Homer: [thinks] No, I don't want any string beans either, you two-timing
+       back-stabbing... Uh oh, better answer. [out loud] No, thank you.
+Marge: Some celery with cream cheese on it?
+Homer: [thinks] Just mouth polite nothings. [out loud] No, thank you.
+-- ``Bart Gets Hit by a Car''
+
+% Bart talks about what they could've gotten with the $1 million, and Homer
+% excuses himself to go over to Moe's.  Marge's women's intuition tells her
+% something.  At Moe's...
+
+Moe:   Oh, you're better off.  Rich people aren't happy.  From the day they're
+       born to the day they die, they <think> they're happy, but trust me.
+       They ain't.
+Homer: [thinks]  Moe.  Wish he'd shut up.
+-- Homer drowns his sorrows in beer after losing a $1 million court case,
+   ``Bart Gets Hit by a Car''
+
+% Marge arrives...
+
+Homer, I'd like you to forgive me for doing the right thing.
+-- Marge, ``Bart Gets Hit by a Car''
+
+Homer: [thinks to himself]  She's been your wife for ten years, you've had
+       three children together, it's time to be honest with her.
+       [out loud]  I'm not sure I love you any more.
+Marge: Gasp!
+Homer: But, don't worry.  Uh, I'll never let on.  I'll still do all the
+       bed stuff.  Maybe it won't be so bad.
+-- ``Bart Gets Hit by a Car''
+
+% Marge asks Homer to look her in the eyes and decide whether
+% or not he loves her.  Homer starts with the feet...
+
+All right, all right.  Look at her if it'll shut her up.
+Start with the feet.  Still angry.  Good!  Good, Homer, good!
+-- Homer's love for Marge is shaken, ``Bart Gets Hit by a Car''
+
+Ah, good ol' trustworthy beer.  My love for <you> will never die.
+-- Homer's love for Marge is shaken, ``Bart Gets Hit by a Car''
+
+% Homer looks her in the eye and says, ``Oh, who am I kidding?  I love you
+% more than ever!''  The bar gang cheer...
+
+Okay everybody, for the next fifteen minutes, one third off on every pitcher.
+One per customer, domestic beer only.  Hey, no sharing.
+-- Moe, ``Bart Gets Hit by a Car''
+===============================================================================
+Episode summaries Copyright 1991 by Raymond Chen.  Not to be redistributed
+in a public forum without permission.  (The quotes themselves, of course,
+remain the property of The Simpsons, and the reproduced articles remain
+the property of the original authors.  I'm just taking credit for the
+compilation.)
+</PRE>

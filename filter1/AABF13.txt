@@ -1,0 +1,466 @@
+% At the dinner table, Homer recounts how his day has gone.  We jump 
+% in on the middle of his story, where he refuses a tetanus shot from 
+% the company nurse.  His jaw locks in the middle of this tale, but he 
+% manages to free it again.  "You still haven't told us why Lenny bit 
+% you," Marge says.
+%
+% Just as he is about to answer, Homer is interrupted again.  This 
+% time it's Lisa, who is furious about the town's new steakhouse.  
+% Indeed, it sounds like a vegetarian's nightmare:  The ceiling is 
+% decorated with hanging carcasses, there's a fountain of blood, and 
+% to top it off, patrons personally select their own cow to be 
+% slaughtered.  Homer decides it's time for immediate action.  The 
+% family must go to this restaurant -- to eat.
+%
+% The Simpsons, minus Lisa, sit down at one of The Slaughterhouse's 
+% tables.
+
+Homer:	Wow, it's even more wonderful than Lisa said.
+	[a waiter sets a basket on the table]
+Marge:	Ooh, look, a complimentary basket of hooves.
+	[opens the menu] Hmm, beef salad, beef on the cob, beef 
+	fried beef ... is there anything on the menu that isn't 
+	meat?
+Waiter:	Hah.  Not likely!
+Bart:	Cool!  Even this menu is made of meat!  It's an entire 
+	chicken pounded flat.
+Marge:	How clever.  The kids' menu is on the beak.
+-- Theme eating, "Maximum Homerdrive"
+
+% In another part of the restaurant, Burns picks a cow to dine upon.  
+% Or rather, he picks several cows.  Each time he chooses one, he 
+% changes his mind after the cowhand kills it.  Finally, Mr. Burns 
+% decides that what he really wants is a glass of milk.
+%
+% Homer, too, is ready to order something.
+
+Homer:	Wait a minute.  Is this the biggest steak you've got?  
+	Seventy-two ounces?  I thought this was supposed to be a 
+	steakhouse, not a little girly, underpantsy, pink doily, 
+	tea-party place.
+Waiter:	Well, there is one steak that's available only by special 
+	request.  We call it, uh, Sir Loin-A-Lot.  It's, uh, the 
+	size of a boogie board.
+Homer:	Ooh, I'll have that one.  And to drink ... meatballs.
+Waiter:	Very good, sir.  [rings a triangle] Ladies and gentlemen, 
+	this brave man has accepted the Sir Loin-A-Lot challenge.  
+	He will pit his stomach against sixteen pounds of 
+	indomitable tenderloin.
+	[restaurant crowd applauds]
+Homer:	[to family] They like me because I'm brave.
+-- ... and hungry, "Maximum Homerdrive"
+
+% The waiter announces that only two men have ever polished off the 
+% whole thing.  The pictures of the two men, Red Barclay and Tony 
+% Randall, are mounted on the wall in tribute to their accomplishment.  
+% A man at the next table advises Homer not to start out with such a 
+% big steak.  When Homer challenges his authority, the man gestures 
+% toward the wall, where we see that his is one of the two pictures.  
+% Homer stares at the man, and then at the pictures, before finally 
+% recognizing him ... as Tony Randall.
+
+Red:	Red Barclay's my name.  I'm a trucker, and I've eaten 
+	steaks from coast to coast with taters and toast.  Take my 
+	advice -- this one's not for greenhorns.
+Homer:	Greenhorn?  Who's a greenhorn?  What's a greenhorn?
+Bart:	It's an insult!  Sock him, Dad!  Sock everybody!
+Homer:	Aw, you're just jealous because you don't have the belly 
+	for it anymore, Mr. No-Belly.  [pokes Red in his ample 
+	belly] Mr. Hasn't-Got-A-Belly.
+Red:	Well, I have just finished a whole lamb, but, uh, I reckon 
+	I can take you to school.  You're on, boy.
+-- "Maximum Homerdrive"
+
+% For the eating contest, Red and Homer are seated on a raised 
+% platform at one end of the restaurant.  The waiter struggles to 
+% carry the 256-ounce slab of beef to their tables.  Homer drools 
+% lustily when he sees his huge steak.
+
+Marge:		Is it safe to eat that much food, Dr. Hibbert?
+Hibbert:	You know, I wouldn't have thought so before I bought 
+		twelve percent of this restaurant, but now I feel a 
+		balanced diet can include the occasional eating 
+		contest.
+Marge:		But what if he chokes?
+Hibbert:	Not to worry, we have the latest Heimlich machine.
+		[a choking lady runs up to the machine.  Two large 
+		mechanical arms on either side administer the 
+		Heimlich, freeing a stuck piece of food.  As the 
+		lady walks away, she trips on the very same piece of 
+		meat]
+-- "Maximum Homerdrive"
+
+% The waiter introduces "Reliable Red Barclay," and "Homer somebody," 
+% and the two men start eating.  Homer butters a roll until Marge 
+% reminds him not to fill up on bread.  Bart also coaches him, telling 
+% Homer not to bother savoring -- just chew and swallow.  At the four-
+% pound mark, Homer begins hallucinating, seeing the cows in the pen 
+% mocking his inability to eat.  He bravely presses on, but the steak 
+% eventually gets the better of him.  Bart tries tossing a piece of 
+% meat into Homer's mouth, but it just bounces back out.
+
+What's happening to me?  There's still food, but I don't want to eat 
+it.  I've become everything I've ever hated!
+-- Homer Simpson, "Maximum Homerdrive"
+
+% Red Barclay, in the meantime, finishes the last bite of his steak.
+
+Waiter:		The winner and still champion, Reliable Red Barclay.  
+		[raises victor's hand in triumph.  The crowd cheers]
+Homer:		My hat's off to you, Red.  You're a true American 
+		hero, and you did it with style and dignity, and -- 
+		hey, you're not breathing!  Don't people usually 
+		breathe?
+Hibbert:	[checks for a pulse] This man is dead.  Looks to me 
+		like beef poisoning.  [crowd gasps] Probably from 
+		some other restaurant.  [crowd seems relieved]
+-- "Maximum Homerdrive"
+
+% The coroners put Red's body in a body bag, and load him in a hearse.  
+% A medic hands Marge a bag for Homer, just in case.
+%
+% As the hearse drives away, Red's friends mourn his passing.
+
+Lady Trucker:	There goes the finest trucker who ever lived.
+Homer:		He called me, "greenhorn."  I called him, "Tony 
+		Randall."  It was a thing we had.
+Trucker 1:	Thirty-eight years and never missed a shipment.  But 
+		I guess this is one delivery old Red won't be 
+		making.
+Homer:		Oh, yes he will.  And on time, too.  [gets in the 
+		truck]
+Marge:		Oh, no, Homer, no.
+Homer:		[starts truck] I've got to, honey.  I owe it to old 
+		Red as both his friend and his killer.
+Bart:		[opens the door, and climbs into the truck]  Oh, let 
+		me go with you, Dad.
+Homer:		Don't you have school?
+Bart:		Don't you have work?
+Homer:		Ah, touché.
+-- "Maximum Homerdrive"
+
+% Homer says goodbye to Marge.  She sounds resentful at first, but 
+% Homer eventually cajoles a sincere-sounding farewell from her.  
+% Then, with two blasts from his horn, he roars out of the lot, and 
+% into Act Two.
+%
+% [End of Act One.  Time:  7:16]
+%
+% On the open road, Homer practices a gear-shifting philosophy known 
+% as, "if you can't find it, grind it."  Once he has things running 
+% smoothly, he starts to feel like a real trucker.  Bart consults 
+% Red's transport orders, and finds that the shipment has to be in 
+% Atlanta in three days.  To set the mood, Homer finds a radio station 
+% playing that truckers' favorite, the Spice Girls.
+%
+% A little boy in a passing station wagon makes the international air-
+% horn gesture.
+
+Homer:	That little punk!  I'll teach him some manners.
+	[prepares to ram the wagon]
+Bart:	No, Dad!  He wants you to blow your horn.
+Homer:	Oh.  [pulls a cord on the ceiling of the cab.  The trailer 
+	disengages] That little punk!
+-- "Maximum Homerdrive"
+
+% Back at the old homestead, the girls get another postcard from 
+% Homer, which Lisa reads.
+
+Lisa:	Wow, Dad and Bart have been everywhere!  They've eaten 
+	submarine sandwiches, grinders, *and* hoagies.
+Marge:	It's not fair.  Your father always gets to have such 
+	exciting adventures.  Maybe it's time we took a walk on 
+	the wild side.
+-- "Maximum Homerdrive"
+
+% For Marge, the path to the wild side leads to a doorbell shop.  She 
+% hopes to get a spiffy musical doorbell, but is immediately 
+% overwhelmed by the store's vast selection.  Gil, now a trainee 
+% doorbell salesman, is overwhelmed by Nelson, who leave a flaming bag 
+% by one of the store's demonstration doors.  Marge tells Gil that 
+% she's looking for a particular tune, and tries her best to warble 
+% it.  Within seconds, Lisa has found the exact doorbell her mother is 
+% looking for; one that plays the Carpenters' "Close to You."  Gil 
+% frets over this sudden competition in the doorbell-sales arena.
+%
+% On the road again, Homer and Bart dine at a truck stop.
+
+Gwen:	Little more hi-test, darling?
+Homer:	Sure thing ... [reads her nametag] Gwen.
+Gwen:	I'll be right back with your pie, hon.
+Homer:	Ah, there's a nice friendly gal.
+Bart:	Yeah.
+Homer:	Wouldn't it be great to live right here at the truck stop, 
+	watching all the people come and go?  You could have a 
+	different best friend every day.
+Bart:	I suppose.
+Homer:	Great!  I'll write your mother and tell her the marriage 
+	is off.  Then, when the paperwork is done, I'll make Gwen 
+	my wife.
+Gwen:	Will that be all, sweetie?
+Homer:	For now.
+-- Another well-thought-out plan, "Maximum Homerdrive"
+
+% Meanwhile, Marge finishes installing the new doorbell.  Lisa goes to 
+% test-ring it, but Marge holds her back, reasoning that the doorbell 
+% is not a toy.  The two go inside, and wait for someone to come to 
+% the door.  Time passes.
+
+Marge:		Anyone?  Anyone at all?
+Lisa:		Oh!  Milhouse is selling seeds, and he's coming this 
+		wa-- Oh, the birds got him.
+		[Milhouse staggers past the window, attacked by 
+		birds]
+Milhouse:	Ow!  Oh!  Not the face!
+Marge:		If your father were here, there'd be process 
+		servers, repo men, and bounty hunters to beat the 
+		band.
+Lisa:		Hey!  People are coming!  I think they're Jehovah's 
+		Witnesses.
+Marge:		Yes!
+		[cut to outside the house.  A young man and woman 
+		walk up, and the man goes to ring the doorbell]
+Noreen:		Wait, Marvin, I just had a thought.  Maybe we're 
+		bothering people by trying to change their religion.  
+		What if we don't have all the answers?
+Marvin:		You're right, Noreen.  Let's go get real jobs.
+		[they walk away, discarding their pamphlets as they 
+		go]
+		[cut to the inside of the house]
+Marge:		Hmmm ... I would have feigned interest.
+-- "Maximum Homerdrive"
+
+% Finally, Marge's well of patience runs dry.
+
+Marge:	Still no visitors.  It's time we opened up a can of Whoop-
+	Tushie on this situation.  What's the number for Luigi's?
+Lisa:	Dad's got it on the speed-dial under "Fire."
+	[Marge dials.  Cut to a shot of the Luigi's delivery man 
+	driving up to the house]
+Marge:	This is it, honey.  We did it.
+	[the delivery man knocks on the door]
+	Damn it!  Ring the bell!
+D. Man:	Why?  You already know I'm here, dontcha?
+Marge:	Just do it!
+D. Man:	Nothing doing, missy.  Now, do you want your half-order of 
+	garlic bread or not?
+Marge:	No, but if you just ring the ...
+	[the delivery man gets back in his truck and drives away]
+-- So close, and yet so far, "Maximum Homerdrive"
+
+% Finally, Lisa breaks and rings the bell.  Marge is enraptured by the 
+% tune, and tries to sing along.  ("Why do birds suddenly appear, over 
+% here ... over there.")  Lisa notices the song keeps playing over 
+% again, but Marge doesn't seem to mind.
+%
+% At the drive-in, Homer and Bart watch a movie from the front row.  
+% Unfortunately, that means their truck blocks the view of everyone in 
+% the second and higher rows.  The people in those cars are missing 
+% "The Monster That Ate Everybody," which includes a scene where a 
+% clueless starlet doesn't quite get what "It ate everybody" means.
+%
+% Later, Homer and Bart fish, without bait, from a quiet bridge.  Bart 
+% reminds Homer that Red's shipment has to arrive in ten hours, and 
+% they're 2,200 miles from their destination.  It's time to put the 
+% pedal to the metal, and Homer's going to need a little chemical 
+% help.
+%
+% Homer runs into an all-night country market.
+
+Homer:	Uh, yeah.  I need something that will keep me awake, 
+	alert, and reckless all night long.
+Clerk:	Well, Congress is racing back to Washington to outlaw 
+	these.  [puts a bottle of pills on the counter]
+Homer:	[takes bottle] Sold!
+	[downs most of the pills on the spot]
+Clerk:	Hey, you can't take that many pep pills at once.
+Homer:	No problem, I'll balance it out with a bottle of sleeping 
+	pills.  [takes another generous helping of pills]
+-- "Maximum Homerdrive"
+
+% Fueled by stimulants, and with Bart sleeping in the passenger seat, 
+% Homer races off into the night.  Once the sleeping pills kick in, he 
+% begins to drop off to sleep.  The pep pills stage a comeback, but in 
+% the end the sleeping pills reassert themselves.  Homer falls asleep.  
+% Up ahead in the darkness, the cliffside road curves sharply to the 
+% left.  Homer, Bart, and the truck head straight for the guardrail 
+% and certain doom ...
+%
+% [End of Act Two.  Time:  13:17]
+%
+% Under the dash of the truck, a light blinks on a metal box.  
+% Seemingly on its own, the truck's brake pedal depresses, and it 
+% slows down, steering itself as it travels the precarious road.  
+% Finally, the truck rolls safely into a fuel station.
+%
+% Homer snaps awake and realizes that while he crashed, the truck 
+% didn't.  He gets out of the cab, and approaches some other truckers.
+
+Homer:		You'll never believe what just happened.  I fell 
+		asleep at the wheel, and the truck drove here by 
+		itself.
+Trucker 3:	Yeah, that Navitron Autodrive system's made our jobs 
+		cushier than ever.
+Homer:		The what now?
+Trucker 4:	You know, this thing.  [taps box] With this baby 
+		driving your truck for you, all you gotta do is sit 
+		back and feel your ass grow.
+Homer:		The trucks drive themselves?
+Trucker 3:	Hey, hey, hey, shh.  Didn't your union rep tell you 
+		about the scam we got going?
+Homer:		Eh, I'm not really a trucker, so I don't talk to the 
+		rep that often.
+Trucker 4:	[grabs Homer by the jacket] All right, pal, here's 
+		the deal.  You stumbled on a secret that only truck 
+		drivers are supposed to know.
+Homer:		[giggles]
+Trucker 4:	Hey, pay attention and stop looking at that 
+		squirrel.
+Trucker 3:	We get forty bucks an hour to drive these rigs.  You 
+		think anybody'd hire us if they knew we weren't 
+		driving the trucks?
+Homer:		[admiringly] Wow, you guys are even lazier than me.  
+		Well, don't worry, I'll keep your secret.
+Trucker 4:	See that you do.
+-- "Maximum Homerdrive"
+
+% Later that day, Homer decides to play a trick on his son.  Seeing an 
+% old lady walking by the side of the road, he tells Bart that he's 
+% going to run her over.  Bart objects, but when Homer releases the 
+% wheel, the truck steers around the woman, scaring her but leaving 
+% her uninjured.  With the Autodrive system, he explains, the truck 
+% keeps itself out of trouble.
+%
+% As a further demonstration of the system, Homer climbs onto the hood 
+% of the truck -- while it is in motion.  He invites Bart to join him, 
+% which he does.  The truck passes a tour bus, and the passengers are 
+% quick to see that nobody is driving.  There's no need to worry, 
+% Homer assures them, because Autodrive is on the job.
+%
+% Other truckers on the road also see Homer's shenanigans.  Realizing 
+% their scam is in peril, they quickly mobilize to shut Homer up.
+%
+% Back in Springfield, Marge and Lisa try to get the doorbell to shut 
+% up.  It has been playing the opening bars of "Close to You" all 
+% through the night, and the sound is beginning to take its toll.  
+% Lacking the proper tools, Marge instead yanks out a wire from the 
+% doorbell's innards.  Bad move -- the playing gets louder and faster, 
+% until it wakens the neighborhood.
+%
+% On Highway 7, a fleet of big rigs closes in on Homer and Bart.
+
+Homer:	[seeing the trucks in his rear-view mirror] Look, son.  
+	It's one of Nature's most beautiful sights -- the convoy.
+	[one of the trucks accelerates, and hits Homer's trailer]
+Bart:	He hit us!
+Homer:	Oh, I should have known.  They're hazing us, to initiate 
+	us into the truckers' fraternity.
+	[the truck is hit again]
+	[yelling out the window] Thank you sir, may I have 
+	another?
+	[the truck is hit again]
+Bart:	Dad, they're trying to kill us.
+Homer:	Oh, why do all my trips end like this?
+-- Don't look at us, "Maximum Homerdrive"
+
+% A trucker jumps on to Homer's hood.  Homer repels him with a blast 
+% of water from the windshield washers.  Another man leaps onto 
+% Homer's trailer, and tries to cut a tire with a knife.  The blade 
+% bounces off the rubber, and the man drops the knife on the road.  
+% For a second, it looks like Homer has lost his pursuers, but it 
+% turns out that several truckers have blocked the road ahead.
+%
+% Homer is determined, as a favor for Red, to get his load through.  
+% It's time for a showdown.
+
+Homer:		We'll get through that barrier somehow.  Old Blinky 
+		here will find a way.  [drives at top speed towards 
+		the barricade]
+Autodrive:	I'm afraid I can't let you do this, Red.  The risk 
+		is unacceptable.
+Homer:		I'm not Red, I'm Homer.
+Autodrive:	Gotta go.  [it ejects from the cab and parachutes to 
+		safety]
+Homer:		Aaah!
+Bart:		Dad, do something.
+Homer:		[buckles up]
+Bart:		Something better.
+-- "Maximum Homerdrive"
+
+% Homer brakes and steers sharply.  The truck starts to jackknife, and 
+% then launches into the air, doing a graceful barrel roll over the 
+% blockade of trucks before landing on its wheels.
+%
+% The other truckers, needless to say, are impressed.
+
+Trucker 3:	Now that man is a genuine steel-belted, gear-jamming 
+		rig jockey.
+Trucker 5:	Mmm, that's a fact
+Trucker 6:	Boy, howdy.
+Trucker 4:	You can say that again.
+Trucker 7:	Yup.
+Trucker 4:	You know boys, I've been thinking.  Maybe it's time 
+		we ditched the high tech gizmos and went back to 
+		driving like our daddies did.
+Trucker 5:	Drunk?
+Trucker 4:	No, no, no.  Using our hands and our wits.  Yeah, 
+		sure, it's hard work, and it's lonely as hell, but 
+		it has meaning and dignity.  Huh?  What do you say?
+		[long pause from the other men]
+Trucker 3:	Nah.  Let's just find some other scam.
+Trucker 5:	Hey, how about bootlegging Beanie Babies?
+Trucker 7:	Sounds good to me.
+Trucker 6:	I like that.
+-- American ingenuity, "Maximum Homerdrive"
+
+% The boys roll into Atlanta, delivering Red Barclay's shipment of 
+% artichokes and migrant workers on schedule.  Mission accomplished.  
+% The dockmaster asks Homer where Red is, and Homer says he last saw 
+% Red in a big plastic bag.  "Yeah, that sounds like Red, all right," 
+% says the dockmaster, as if this sort of thing frequently happens.
+
+Homer:		Well son, I guess it's time to go home.
+Bart:		Any thoughts on how we're going to get there?
+Homer:		No, but I'm sure the good Lord will provide.
+		[in the background, an engineer argues with a man in 
+		a military uniform]
+Engineer:	Are you crazy?  I'm not driving a trainload of 
+		napalm to Springfield.  [throws his cap on the 
+		ground and walks off]
+Homer:		[heavenward] Thank you.  [picks up the cap and 
+		boards the train]
+-- The Lord works in mysterious ways, "Maximum Homerdrive"
+
+% Things in Springfield aren't going so smoothly.  The doorbell is 
+% continuing to play.  An irate, sleep-deprived, mob of townspeople 
+% has gathered at Marge's doorstep.
+
+Marge:		I'm really sorry everybody, but I've tried 
+		everything.  I'm afraid we're just going to have to 
+		learn to live with it.
+Wiggum:		No, no, no.  No dice.  [draws his gun] All right, 
+		chimey, this time, the bell tolls for thee.  [aims 
+		at the doorbell.  From offscreen, a whip cracks 
+		Wiggum's gun out of his hand] Huh?
+		[The camera pans to reveal Señor Ding-Dong, standing 
+		on top of a van]
+Bumblebee Guy:	¡Ay, ay, ay -- Señor Ding-Dong!
+Lisa:		I thought you were just a marketing gimmick.
+Ding-Dong:	There was a time when that was true, but now, I am 
+		so much more.  [cracks the whip at the doorbell, 
+		silencing it.  The crowd cheers]
+Marge:		Oh, my!  Gracias, Señor.
+Ding-Dong:	Denada.  If you ever need me, just ... ring.  [gets 
+		in his van, and tries to start the motor.  It 
+		doesn't cooperate]
+		Does anyone have any jumper cables?  [tries again] 
+		Oh, you stinking Chevy.
+-- "Maximum Homerdrive"
+
+% Fade to black, as Sr. Ding-Dong rides off into the sunset.  Or sits 
+% there at the curb.  Whatever.
+%
+% [End of Act Three.  Time:  20:30]
+
+
+<|endoftext|>

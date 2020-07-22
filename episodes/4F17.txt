@@ -1,0 +1,1633 @@
+The Old Man and the Lisa                          Written by John Swartzwelder
+                                                     Directed by Mark Kirkland
+==============================================================================
+Production code: 4F17                     Original Airdate on FOX: 20-Apr-1997
+Capsule revision C (25-Feb-2000)
+==============================================================================
+> "TV Guide" Synopsis  {tls}
+==============================================================================
+   Penniless from a series of bad investments and counsel from yes men, Burns
+   asks help from Lisa, who turns him into a profitable recycler. Then Burns
+   takes things a nasty step further to increase his dividends. Pro wrestler
+   Bret "The Hit Man" Hart has a voice cameo.
+
+==============================================================================
+> Title sequence
+==============================================================================
+Couch:          The family living room becomes the scene of a giant Whack-A-
+                Mole game, with the family members serving as "moles."  Homer
+                gets whacked by the mallet, prompting a "D'oh!"  Recycled from
+                [4F08].
+
+==============================================================================
+> Did You Notice...
+==============================================================================
+   ... when she sees Burns, Maggie pantomimes a pistol?
+   ... Smithers still has his collection of Malibu Stacy dolls?
+
+Don Del Grande:
+   ... the trash on the scale weighs 72 pounds?
+   ... Smithers was born in 1954?  (25 years after the 1929 crash)
+   ... despite Smithers having the most seniority and knowing the most about
+       the plant, Lenny was put in charge?
+   ... Burns' mental dictionary does not include the word "rich"?
+   ... Homer wants Flanders to go broke, despite what happened the last time
+       he wished that it happened?
+   ... Lisa actually wants Homer to get drunk just for the cans?
+   ... the check was dated 4/27/97?  [{bjr} noticed that this was the
+       originally scheduled airdate for this episode, before Fox moved it up a
+       week.]
+
+Jason Hancock:
+   ... Homer throws books by (Charles) Dickens, Leon Uris, and (William)
+       Faulkner away?
+   ... the Springfield Savings ATM and real estate magazine rack by the
+       grocery store's doors?
+   ... this is the second episode this season (the first being 3G01) where the
+       Generic Teenager is seen?
+   ... the hardware store sells nails for five cents?
+   ... the gumball machine at the hardware store?
+   ... the can of Coca-Cola (red with a white ribbon) lying on the grass?
+
+Sean Hughes:
+   ... Springfield is now on the coast?
+   ... Burns has an evil grin when trying to GIVE someone money?
+
+Darrel Jones:
+   ... Lisa's check is for $12 million?
+
+Joe Klemm:
+   ... the dictionary from Homer Defined appears again?
+   ... Burns leaves his office at 1:55 PM?
+   ... Smithers' Malibu Stacy collection on one of his shelves?
+   ... the grocery cart is rolling towards the open road?
+   ... the obituaries bulletin board at the rest home?
+
+Haynes Lee:
+   ... Burns did not pay the bus fare?
+   ... Smithers is 42 years old?
+   ... Burns dictionary considers Smithers a "running dog"?
+
+Ondre Lombard:
+   ... Marge didn't sleep with her cap on?  (Perhaps why her hair got all
+       weird)
+   ... Lisa even awoke Maggie?
+   ... Skinner must've paid off his mother because he's driving a station
+       wagon now?
+   ... Homer wears a tie that doesn't have stripes on it?
+   ... ointment on Smithers' shopping list?
+   ... this is the first time we've seen a public transportation bus in
+       Springfield?
+   ... Mr. Burns goes shopping even though he doesn't have any money?
+   ... Mr. Burns didn't pay for his ride on the bus?  (perhaps why he got that
+       askance look from the driver)
+   ... the town apparently hasn't forgiven Mr. Burns for his major
+       mistreatment to the town in 2F16?  (Not even Maggie?)
+   ... Krusty himself is buying his own cereal?
+   ... "Pops" is a cereal, and Krusty calls Mr. Burns "pops?"  (It's just
+       interesting the scenario associated with the word)
+   ... Lisa makes Homer drink Duff until he's sick instead of giving him Buzz
+       Cola?
+   ... how long Lisa waits before she rescues the fish from the six-pack ring?
+
+Cole Rieger:
+   ... Lisa doesn't mind that Homer is drunk?
+   ... Homer stops drinking beer on his own?
+   ... Bret Hart is missing his trademark logo and four stars on his wrestling
+       gear?  (The four stars are symbolic of his children)
+   ... Burns leaves the picture, despite the fact that Bret Hart said he could
+       have it?
+   ... There is only one leaf on the tree outside the staring window?
+
+Benjamin Robinson:
+   ... at the recycling center, Skinner crumples up a piece of paper and
+       tosses it out the window?  [So much for recycling -- Ed.]
+   ... Burns' hair flutters from the force of Bret "Hit Man" Hart's yelling?
+   ... Burns got more for the recycling facility than he did for the power
+       plant in "Burns Verkaufen der Kraftwerk (8F09)"?
+
+Liam J. Scanlan:
+   ... the documents are yellowed even though they seal in a folder?
+   ... Mr. Burns can beg for himself now?
+   ... Mr. Burns has been to or lived in New York City?
+   ... the old folks keep old medication bottles instead of throwing them
+       away?
+   ... Barney appears twice this episode and doesn't belch?
+   ... Lenny is apparently a worse boss to have than Burns?
+
+Brandon Starr:
+   ... one of Homer's two hairs atop his head has "bed hair" after sleeping on
+       the couch?
+   ... Burns' brain dictionary has the old-fashioned binding style?
+   ... Burns' brain dictionary's page goes from ragamuffin to saboteur?
+   ... and he uses the word ragamuffin in reference to Lisa immediately
+       afterwards?
+   ... true to his nature, Burns has an old-fashioned ticker tape which
+       apparently has run nonstop since at least September, 1929?
+   ... Burns' net worth chart says at the bottom, "prepared for you by
+       Chartco?"
+   ... Homer gets the kind of drunk where your eyelids become dark, like Bart
+       did on St. Patrick's Day?
+   ... the milk cartons turn from blue to white/pink just as Burns turns from
+       blue to yellow after escaping the dairy case?
+   ... Springfield Retirement Castle has an Obituaries message board?
+   ... Lisa's kite has an oddly Lisa-like design on it?
+
+Bill Thacker:
+   ... [As Monty's] bus departs and Burns sits next to Barney, a supermarket
+       sign is visible through the bus window?  (i.e., there was a grocery
+       across the street and Burns didn't recognize it.)
+
+==============================================================================
+> Voice Credits
+==============================================================================
+- Starring
+   - Dan Castellaneta (Homer, Krusty, Big-nosed lawyer  {ol}, Grocery store
+        supervisor  {ol}, Grampa, Barney, Zombie-recycler man  {ol})
+   - Julie Kavner (Marge)
+   - Nancy Cartwright (Bart, Ralph, Nelson)
+   - Yeardley Smith (Lisa)
+   - Hank Azaria ("Uh, Colonel?", "Blah!", Yes-man, Uriah  {ol}, Burns'
+        Groundsman, Grocery clerk, Chief Wiggum, Senior Dance instructor
+        {ol}, Moe)
+   - Harry Shearer (Movie Announcer  {ol}, Principal Skinner, Burns, Smithers,
+        Lenny, Kent Brockman, Dr. Hibbert)
+
+- Special Guest Voice
+   - Bret "Hitman" Hart (Himself)
+
+- Also Starring
+   - Tress MacNeille (Real Estate Agent, Zombie-recycler woman  {ol}, "Code
+        Blue" lady  {ol})
+
+==============================================================================
+> Movie (and other) references
+==============================================================================
+   + "The Old Man and the Sea" (book)
+      - episode borrows the title -- but nothing else -- from the Ernest
+        Hemingway novel
+
+   + Junior Achievement (civic organization)  {jh}
+      - the Junior Achievers modeled after this nebulous partnership between
+        local businessmen and schools.
+      - [{bjr} says:  Supposedly, the businessmen were there to teach modern
+        commerce practices, or recruit new slave labor, or indoctrinate future
+        consumers; I was never sure which]
+
+   + Uriah Heep (novel character and band)
+      - "Uriah's Heap" recycling center is named for one of the characters in
+        "David Copperfield" by Charles Dickens.  {jh}
+      - a band from the 1970's, which lives on as the inspiration for the
+        Uriah's Heap recycling drop-off  {hl}
+
+   - "Ace Ventura: When Nature Calls" (movie)  {jk}
+      - the shrieking that Bret Hart and the real estate agent hears
+
+   - Quisp (cereal)  {ddg}
+      - here, it's "Kwisp"
+
+   + Baseball Hall of Fame pitcher Satchel Paige  {nd}
+      - Grampa's "angry up the blood" is taken from a Satchel Paige aphorism,
+        "Avoid fried foods, as they angry up the blood."
+
+   + "That Girl" (TV series)
+      - the whole scene where Burns persuades Lisa to help him is a spoof of
+        this series' opening credits
+      - on the show, which starred Marlo Thomas, a conversation at the
+        beginning would always end with someone pointing to Thomas and saying,
+        "That girl!"  Burns does the same thing with Lisa at the rest home
+        {bjr}
+      - the background music is identical  {hl}
+      - Ms. Thomas would run in the park, flying a kite that carried a
+        stylized picture of herself.  Lisa flies a kite with such a picture of
+        her when Burns starts chasing her  {bjr}
+      - at one point, Burns winks at Lisa from a store window.  On the real
+        show, a mannequin winks at That Girl.  Also, the mannequin in the
+        store looks just like the one next to Burns  {bjr}
+      - both Ms. Thomas and Ms. Simpson ride around on a carousel  {bjr}
+
+   ~ "Animaniacs!" (TV series)  {av}
+      - "Ta Da Dump, Ta Da Dump": plot of this short is Pesto Goodfeather (the
+        Joe Pesci pigeon of the Goodfeathers) getting his head caught in a
+        six-pack ring.
+      - "Dot's Entertainment": similar "That Girl" takeoff with Dot doing the
+        That Girl montage when another character points to her and says "That
+        girl!"
+
+   + "How the Grinch Stole Xmas" (TV special)  {jk}
+      - Mr. Burns stole Xmas from 1981-1985.
+
+   + "Shine On You Crazy Diamond" (song)  {hl}
+      - from the Pink Floyd song, from the "Wish You Were Here" album
+
+   ~ "Soylent Green" (movie)  {ddg}
+      - Lisa tries to explain to people that recycling is now bad, just as
+        Soylent Green is well, I'd better not spoil it in case you've never
+        seen it)
+      - [Andrew Gill dissents: This scene was never in the movie.  It was only
+        in the SNL spoof (a great example of Phil Hartman's abilities, IMO).]
+
+   + "Invasion of the Body Snatchers" (movie)
+      - a scene were Lisa jumps on the truck and discovers barrels of slurry
+        is similar to a scene were Kevin McCarthy sees a truckload of alien
+        pods.  {tm} {mm}
+      - ~ the townspeople robotically recycling their trash remind me of the
+        post- takeover people from the movie  {bjr}
+
+   + Van Morrison's "Have I Told You Lately That I Love You" (song)  {sp}
+      - Bart's line to curry Lisa's favor
+
+==============================================================================
+> Previous episode references
+==============================================================================
+- Wrestling references on previous "Simpsons" episodes  {hl}
+   - [7G07] Jebediah Springfield wrestles bear
+   - [7F06] Lisa says it's choreographed
+   - [7F06] match featuring Rasputin the Friendly Russian (formerly the Mad
+            Russian) vs. Professor Werner von Brawn
+   - [7F06] Bart and friends watch pro-wrestling
+   - [7F11] Neon sign "The Happy Sumo" with two sumo wrestlers bashing their
+            bellies together
+   - [7F13] Homer watches pro wrestling from Mexico on cable (you know, down
+            there, it's a <real> sport)
+   - [8F14] Watching pro-wrestling on Homer's to-do list
+   - [8F15] Milhouse imagines Native wrestling alligator
+   - [9F05] Groundskeeper Willie wrestles wolf
+   - [9F15] match featuring Dr. Hillbilly vs. Iron Yuppie
+   - [9F15] Homer's pro-wrestling TV program interrupted by Marge announcing
+            that Lisa will need braces
+   - [2F05] Homer tells  Lisa "If the Bible has taught us nothing else -- and
+            it hasn't -- it's that girls should stick to girls' sports, such
+            as hot-oil wrestling, foxy boxing, and such-and-such."
+   - [3F07] Bonestorm commercial similar to Macho Man's Slim Jims commercial
+   - [3F12] Troy McClure mentions the funeral "Andre the Giant: We Hardly Knew
+            Ye"
+   - [4F05] Dr. Hibbert says Homer meets all of the state's requirements to
+            box, wrestle or be shot out of a cannon
+   - [4F17] Well, d'uh!
+
+- [7F01], [7F10], [7F11], [8F23], [9F05], [1F16] Burns fleet of lawyers seen
+         {hl}
+- [7F10] Burns runs over Bart  {hl}
+- [7F21] A Simpson recycles  {ol}
+- [7F22], [3F10] Moe uses the word "puke"  {ol}
+- [7F22] Burns' book, "Will There Ever Be a Rainbow?"  {jh}
+- [7F23] Homer wishes Flanders was broke  {ddg}
+- [7F24] Someone is wrongfully committed.  {ol}
+- [8F04] References to the dictionary  {jh}
+- [8F09] SNPP winds up in the hands of someone else.  {ol}
+- [8F09] Burns sells plant to Germans for $100 million, buys back at half
+         price  {hl}
+- [9F06] Homer drinks too much Duff beer  {jh}
+- [9F08], [3F18] Albany, NY, mentioned (assuming the town Skinner talks about
+         is indeed Albany, NY)  {jh}
+- [9F09] Homer suffers a heart attack  {jh}
+- [9F21] "Achy Breaky Heart" is referenced  {ol}
+- [1F01] Burns without a fortune depicted  {mss}
+- [1F12], [2F20] Smithers' apartment  {ol}
+- [1F12] Malibu Stacy dolls on Smithers' walls  {ddg}
+- [1F18] A Simpson child walking on the beach with an unlikely adult male
+         partner  {mss}
+- [2F12] Circus music for the couch scene recycled from the scene where Homer
+         sees aflame employees as dancing clowns  {ol}
+- [2F15] Burns becomes frozen  {ljs}
+- [2F16], [2F20] Burns blocks out sun, shot by Maggie  {hl}
+- [2F16] Burns is in SES  {mss}
+- [2F20] Homer finds candy ("Eww!  Why is this on the floor??")  {ol}
+- [2F22] Lisa flies a kite with someone  {ol}
+- [3F05] Same establishing shot of the grocery store, complete with the
+         runaway cart  {bjr}
+- [3F06], [3G03] Lisa flies a kite  {mss}
+- [3F14] Mr. Burns makes attempts at doing things that Smithers usually does
+- [3F14] Burns checks his stocks  {mss}
+- [3F18] Albany mentioned  {ljs}
+- [3F24] Small animal eaten shortly after it encounters Lisa  {hm}
+- [3F24] Homer whines that he doesn't feel so good  {ol}
+- [3G03] Burns flies a kite  {mss}
+- [4F01] Lisa tells other how much an "evil" character has changed, only to
+         find that he didn't change at all  {mss}
+- [4F02] Lyndon LaRouche is mentioned  {jh}
+
+==============================================================================
+> Freeze frame fun
+==============================================================================
+- JA meeting attendees  {mr}
+   - Lisa, Martin, Ralph, Milhouse, Database, Beezee, Alison Taylor
+
+- Signs at the JA meeting  {bjr}
+
+      UP ...             I'M HIGH ...
+
+      [air              [hanglider in
+     balloon]           business suit]
+
+      WITH              ON CAPTIALISM!
+    BUSINESS!
+
+- Burns' Dictionary (note phonic symbols omitted)  {hl}
+
+    1115 ragamuffin o saboteur
+
+    rag-a-muf-fin n : a ragged often disreputable person; esp. a poorly
+    cleaned often dirty child
+
+    rah-rah adj: marked by the enthusiastic expression of college
+    spirit
+
+    raid n 1 a : a hostile or predatory excursion b: a surprise attack
+    by a small force 2 a : a daring operation against a competitor b :
+    the recruitment of personnel from competing organizations 3 : the
+    act of mulcting public money 4 : an attempt to depress stock prices
+    by concerted selling.
+
+    ran-cid adj : having a rank smell or taste 2 : OFFENSIVE
+
+    ran-cor adj: bitter deep-seated ill will syn   see ENMITY
+
+    rattle snake n : any of the American pit vipers having horny
+    interlocking joints at the end of the tail that makes a sharp
+    rattling sound when shaken
+
+    reap vb : to cultivate with a sickle, scythe, or reaping machine
+    b: to gather by reaping: HARVEST 2: OBTAIN, WIN
+
+    red-skin n (1699) : AMERICAN INDIAN - usually taken to
+    be offensive
+
+    reign n: to possess or exercise sovereign power : RULE
+
+    reign of terror : a state of period marked by violence committed by
+    those in power: produces wide spread terror
+
+    rel-ic: n: a survivor or remnant left after decay or disappearance:
+    a trace of some past or an outdated object or belief.
+
+    re-pug-nant: adj : exciting disgust or averse INCOMPATIBLE :
+    HOSTILE
+
+    rogue n : a dishonest or worthless person : SCOUNDREL : SCAMP
+
+    rott-wei-ler n : a breed of black and tan dogs of German origin -
+    commonly used as guard dogs
+
+    ro-tund adj : ROUNDED notably plump : CHUBBY : roundness
+
+    running dog n : one who does someone else's bidding : lackey, ie.
+    (SMITHERS)
+
+    ru-ta-ba-ga n (1799) : a turnip that usually produces a large
+    yellowish root
+
+    ruth-less adj: having no ruth: CRUEL MERCILESS - ruth-less-ly
+    adj: ruth-less-ness n.
+
+- Smithers' grocery list  {hl}
+
+    GROCERY LIST:
+
+    CEREAL
+    EGGS
+    US MAGAZINE
+    MILK
+    CATSUP
+    MUSTARD
+    LUNCHEON MEAT
+    CABBAGE
+    GREENS
+    JUICE
+    OINTMENT
+    SOAP
+    MOP
+    NAPKINS
+
+- Applauding Burns at the center's opening  {jh}
+   - Barney, Moe, Luanne Van Houten, Dr. Hibbert, Mrs. Krabappel, Principal
+     Skinner, Ruth Powers, Carl
+
+==============================================================================
+> Animation, continuity, and other goofs
+==============================================================================
+*  Lisa shouldn't object to someone finding recycling fun, as this would just
+   encourage them to recycle.  {bjr}
+
+=  In the schoolroom, when Burns and Smithers enter the room, there is a
+   window above the door.  When Burns turns to Smithers to find out how much
+   he is actually worth now, there is a bell above the door.  Then when they
+   leave there is a window again.  {tw}
+
+=  Skinner sits to Lisa's right when Burns sits down with Milhouse on Lisa's
+   right at the Junior Achievers meeting.  When Lisa asks a question, she is
+   between Ralph and some other kid.  When Burns addresses her directly, she
+   appears to be alone.  Then it goes back to Milhouse-Lisa-Skinner.  {sh}
+
++  Mr. Burns himself has gone to church, as seen in 1F08.  {ol}
+
++  Burns knows who Lisa is; she was mentioned in the thank you letter from the
+   box of chocolates in "Who Shot Mr. Burns?".  {ddg}
+
++  Lisa already recycles; see "22 Short Films About Springfield".  {ddg}
+
+=  The room with the ticker-tape disappears.  {sh}
+
++  Didn't Monty used to be a billionaire?  (See [1F21], for instance)  {dga}
+
++  Burns shouldn't be able to pay for the cheating death procedures in 3G01.
+   {sh}
+
+*  Slavery was abolished before Mr. Burns was born, so why would he own stock
+   in "Federated Slaveholding"?  {jsh}
+
++  Skinner's car suffers no adverse affects from hitting the tree.  {sh}
+
+*  If Burns said to take out "another" mortgage payment on the plant, he must
+   have already knew about his misfortune.  {ljs}
+
+*  Burns' manor is completely isolated and thus nowhere near the Shrieking
+   Sheik's.  {sh}
+
+=  At Burns' House, there are marks on the walls from where the pictures were
+   hanging, then in the next scene the marks are gone.  {tw}
+
+*  Hitman tells burns he doesn't want the painting yet Burns leaves it.  {sh}
+
+*  Smithers has more authority than Lenny.  Why doesn't he get the plant?
+   {ol}
+
++  Smithers' apartment looks considerably different from his apartment in
+   [2F20].  {dj}
+
+=  At Smithers' House, when Smithers gets up to go to work, there is still a
+   bowl and some silverware on the table, then in the next (wide view) all
+   this is gone.  {tw}
+
+=  In the wide shot of Smithers' apartment, the broken pieces of the cup and
+   saucer Mr. Burns dropped disappears.  {ol}
+
++  Burns says he will "get these items from the food jobber," but seconds
+   later, on the bus, says, "Grocery store please."  {sh}
+
++  In [2F21], Mr. Burns was shopping at the Quick-e-mart.  Why does he go to
+   the other grocery store?  [Note that Marge shops both places occasionally,
+   though -- Ed.]  {mr}
+
++  Krusty should recognize Burns.  {sh}
+
++  Why would Krusty by his cereal after what happened to him in [2F32]?  {mr}
+
+-  In the establishing shot of the refrigerated-goods aisle, the milk cartons
+   appear to be yellow.  When Burns steps out of the freezer, he's holding a
+   pink-and-white carton.  {bjr}
+
++  The best way to pass the time in the retirement castle [used to be]
+   watching Matlock.  {sh}
+
++  Grampa was allowed to read a newspaper before.  In 7G05, he and Jasper
+   fight over the daily newspaper crossword puzzle.  {ol}
+
+*  Burns' carousel horse caught up to Lisa's, then fell back, which is
+   impossible on a normal carousel.  {ddg}
+
+*  Usually, it's birds and not fish that are reported as the victims of six-
+   pack rings.  {ddg}  [Shawn DeArmond adds, "The 6-pack rings get left on the
+   beach (and dumps) and birds get their feet tangled in them or (what I've
+   actually seen a few times) get their neck in the rings.  (Seagulls
+   especially)]
+
++  Homer wished Ned Flanders would be ruined before in 7F23.  But he saw the
+   error of his ways and even helped him get the Leftorium on its feet.
+   Besides, Ned already was ruined in 4F07 not too long ago.  {ol}
+
++  Burns pays for a nail, yet gets a stick free.  {sh}
+
+=  Grampa puts the same four bottles over and over into his recycling bin.
+   {ddg}
+
++  Mr. Burns was unable to unveil the nude painting of himself in 7F18, but he
+   seems able to unveil the Recycling Plant.  {ol}
+
+*  You can't simply cut bottle-shaped pieces of glass out of bottles, so why
+   bother making the windows like that?  [But see "Comments" section for a
+   counter-argument -- Ed.]  {ddg}
+
+=  The windows of the recycling turn into plain glass after Barney's
+   appearance.  {ljs}
+
+-  During the close ups of Lisa in the hospital, Dr. Hibbert's hand is yellow
+   and not black as it is during the rest of the scene.  {am}
+
+*  What's to stop, say, Homer from doing everything Burns did up to the point
+   of adding an ocean-cleanser to a recycling plant, and making a fortune of
+   his own?  (Certainly, Burns had to have made quite a few dollars if he
+   could build a recycling plant.)  {ddg}
+
+==============================================================================
+> Reviews
+==============================================================================
+Dale G. Abersold:  In a story about recycling, what could be more natural than
+   a recycled plot?  In all, this was a not-terribly-funny episode, unless you
+   happen to be one of those addicted to pop-culture references.  I loved
+   Burns' factory at the end, and the "That Girl" sequence, but other than
+   that, there was little to treasure.  (C+)
+
+Joseph J. Barder:  Altogether, this was a pretty bad episode.  Just like My
+   Sister, My Sitter earlier this episode, a Lisa episode starts out with her
+   trying to take more responsibility, but ends with a ridiculous catastrophe
+   and a horrible ending. Watching Mr. Burns try to shop was hilarious, but
+   the whole concept of Mr. Burns constantly revolving around OFF is getting
+   old; they all have enough reasons to avoid him like the plague.  (C-)
+
+Jennifer M. Blaske:  I didn't laugh a whole lot during this episode, and the
+   plot didn't particularly grab me either.  I thought Lisa, my favorite
+   character, was a bit too one-dimensional ("Recycle!  Recycle!  Recycle!")
+   and was not sure I enjoyed Burns being meek and mild.  Maybe (hopefully)
+   this will be like "The Day the Violence Died," which I liked much much
+   better when I saw it again in syndication. By far the funniest part was
+   Moe's line, and Maggie's trigger finger and Marge's bed-head were cute too.
+   (B-)
+
+Richard Bunnell:  Terrific!  I like almost every Burns episode, and this one
+   was great too!  The ending was cliched (Lisa gives Burns back the money)
+   but Homer saved the day by fainting and going to the hospital. "Dad, that
+   wasn't $12,000, that was ..." "CODE BLUE, WE HAVE CODE BLUE!"  LOL!  (A-)
+
+Don Del Grande:  The S-man is back in form with this episode, even if there
+   wasn't any subplot, the main plot managed to be spread out far enough so it
+   didn't really need one, and the bit with Homer at the end was a bonus  (A-)
+
+Jason Hancock:  Another run-of-the-mill episode that could have easily been
+   better.  I would have liked to see more of Lenny as boss of the plant and
+   less of Lisa and Burns, who really wasn't that funny in this episode.
+   Also, the "riches to rags to riches again" storyline has been done a few
+   too many times before.  (C)
+
+Ryan Johnson:  Pretty much your Ho-hum 8th season Simpsons episode.  A few
+   good gags thrown on top of an unrealistic plot followed by an abrupt
+   ending. Anyone notice that the writers things to be killing a lot of things
+   on the show this season?  Dogs, sea life, soldiers, James Bond ...  Some of
+   it is funny because it is well done, but a lot of it seems to be done for
+   shock value (like tonight's episode), which isn't especially funny (at
+   least that's what it seems like to me).  (C-)
+
+Joe Klemm:  Another simple episode of the Simpsons.  The That Girl bit and the
+   beer bottle window joke were among the funny moments in today's episode.
+   However, I wish there was more scenes with Bret Hart in it since I love
+   professional wrestling.  (A-)
+
+Ricardo Lafaurie Jr:  This was a good, albeit severely uncharacterized
+   episode.  Even though Burns was at his best (which is his worst), there
+   were some funny lines. ("Re-cy-cling?" is my definite new favorite Burns
+   line.)  As the former maintainer of the Mr. Burns/Smithers File, I can say
+   that this is a fine episode as long as you don't take it too seriously ...
+   (A-)
+
+Haynes Lee:  An overdue but weak Burns episode.  Bret "Hit Man" Hart is one of
+   the worst tacked-on celebrity cameos ever.  The fish plant was particularly
+   gross.  (C-)
+
+Ondre Lombard:  A somewhat strong showing for the eighth season.  Nice
+   development on the inevitable tale of Mr. Burns' downfall (which was
+   forgivably unrealistic). Hilarious in various parts.  Highlights?  The
+   dictionary, Mr. Burns on the bus, Mr. Burns shopping and in the Retirement
+   Castle, Homer getting drunk, and not liking it, the "That Girl" spoof, and
+   the ending.  It'd have been better, though, if there was a more evil finale
+   from Mr. Burns, so Lisa's decision to not take the money wouldn't seem so
+   bad.  But I'll give Swartzwelder the benefit of the doubt, seeing as though
+   this is his first Lisa show--and it beats his failure--4F10 "Mountain of
+   Madness."  Lastly, Bret Hart's cameo was really useless, IMO.  (B)
+
+Abhi Ray:  I found this episode pleasant and entertaining, but not too
+   humorous.  I wasn't crazy about the plot; I felt it was too lopsided.  The
+   funniest scene was when Burns walked into the Simpson home and Maggie made
+   the finger gun gesture at Mr. Burns.  I also liked the ending where
+   everyone turned into zombies.  Other than that, it wasn't great.  (B+)
+
+Aaron Varhola:  Solid Swartzwelder; not as reference-dense as last season's
+   "The Day the Violence Died", but with good character development, and rich
+   irony in Burns being even more evil when he ISN'T trying.  The supermarket
+   scene had me ROTFL.  (A-)
+
+Yours Truly:  Interesting premise, but less-than-stellar execution.  Lisa is
+   characterized well enough, but this episode's setup seriously warps our
+   notion of Monty Burns. Still, Burns' unlikely partnership with Lisa is
+   carried out nicely, and I liked how Burns can turn a good thing like
+   recycling to his own ends.  Trivia note: This is longtime writer
+   Swartzwelder's first Lisa-centric episode.  (B-)
+
+AVERAGE GRADE:  B- (2.69)   Std Dev.: 0.8700   (24 reviews computed)
+
+NIELSEN RATING: 8.30 (Ranked 38th out of 111)  {ol}
+
+==============================================================================
+> Comments and other observations
+==============================================================================
+>> Stock Market Follies
+
+Benjamin Robinson:  Burns stopped checking his stock ticker in September,
+   1929.  That's unfortunate for him, since the stock market crashed on
+   October 29, 1929. (Actually, there was a stock dive a few days earlier, but
+   this second one is the more frequently recalled.)  This event triggered the
+   Great Depression, an economic horror that impoverished most of America.  It
+   did not fully end until the nation's entry into World War II.  Ironically,
+   Burns' inattention could have saved him, since it prevented a panic sell-
+   off.  Suppose he had bought, in 1929, stock in a blue chip company like GM
+   or AT&T, then left it untouched for the next sixty years.  Burns' portfolio
+   would have ridden out the Depression, benefited from the post-war recovery,
+   and be worth a fortune today.
+
+
+>> ... and now he has a cool house to keep his wrestling trophies!
+
+Joe Klemm:  Bret Hart is a WWF wrestler.  He has held the Tag Team Belt and
+   the Intercontinental Belt two times and held the World Title four times.
+   Currently (the time the episode first aired), he is mad at US wrestling
+   fans.  Lucky for him, Canadians usually watch the show first and since his
+   match was switched about with the WWF Title match, he may had a chance of
+   seeing his scene in the episode.
+
+
+Bryce McNeil thought "The Hitman" was out of character:  I just think that
+   when he did his voice-over, Hart tried to sound like a typical angry
+   wrestler with the intelligence of a molecule.  Those of you who follow
+   wrestling will agree with me that that isn't the "Hitman's" persona at all.
+   His persona is generally that of a normal person who happens to be a pro
+   wrestler.
+
+
+Aaron Varhola adds:  Bret Hart's mentioning of "Pencil-Necked Geek" is a ref
+   to legendary wrestling manager "Classy" Freddie Blassie, whose novelty song
+   of the same name has been popular on Dr. Demento for years.  Blassie
+   regularly called good-guy wrestlers "pencil-necked geeks".  (I don't know
+   if Blassie managed Hart at the beginning of Hart's career, though.)
+
+
+Tom Hunter observes:  Strange that Bret Hart is moving to Springfield
+   (obviously SOMEWHERE in the United States) when he is currently bad-
+   mouthing the United States in the WWF.
+
+
+>> On your shelves now
+
+There's something about breakfast cereal that prompts nostalgia ...
+
+
+Jason Hancock:  Count Chocula is one of General Mills' "Monster" cereals,
+   along with Frankenberry and Boo Berry.  (There may have also been a couple
+   others that have since gone off the market, but I'm not quite sure.)  Even
+   though they are still being made, they are relatively hard to find these
+   days.
+
+
+Aaron Varhola adds:  Quisp (and Quake) ... two cereals from the late 60's and
+   early 70's.  They were similar sugary corn pops-type cereals, with dueling
+   ad campaigns; there once was a consumer election as to which one was
+   better; Quisp the spaceman defeated Quake the lumberjack (as opposed to
+   Quake the time-killing network shoot-em-up).  ["Entertainment Weekly"
+   claims Quake was a miner -- Ed.]
+
+
+>> Which Girl?
+
+Dale G. Abersold provides this bit of insider trivia:  "That Girl", a 1960's
+   television series starring Marlo Thomas, whose opening sequence was mocked
+   in this episode, was, coincidentally, one of James L. Brooks' first
+   employers.  From there, he went to go on to far greater things (Mary Tyler
+   Moore, Taxi, feature films, and of course, Our Favorite Series).
+
+
+>> "When you're good, you're even MORE evil!"
+
+Aaron Varhola writes:  I liked Swartzwelder's take on Burns ... Burns truly
+   doesn't grasp that the six-pack rings catching sea life is wrong, but does
+   see the profit in it. True, classic Burns; he ends up doing even worse evil
+   when he doesn't even set his mind to it; best off, he thinks he's doing
+   something good.  :)
+
+
+>> Where is Springfield, ad nauseum ...
+
+Aaron Varhola speculates:  Pop and beer cans have 5 cent deposits in these
+   states: Connecticut, Iowa, Maine, Massachusetts, New York, Oregon, and
+   Vermont.  What Burns did is common among derelicts in Oregon, at least;
+   many of them scavenge for cans in public places and through garbage cans,
+   as many people don't want to carry empty cans with them, and leave the cans
+   out for other people to collect.
+
+   (Contrast this to "Three Men and a Comic Book", where Bart says "I need the
+   dime" to Apu when he returns a large pop bottle; the only state that has a
+   10 cent deposit on bottles is Michigan.)
+
+
+>> Recycling Plant Aesthetics
+
+Benjamin Robinson comments on the bottle motif at the Li'l Lisa Plant:
+   [Responding to Don Del Grande's noted goof, "You can't simply cut bottle-
+   shaped pieces of glass out of bottles, so why bother making the windows
+   like that?"]  That was my reaction, too.  Then it occurred to me that it
+   was an aesthetic decision.  You know, the glass was melted down as it
+   normally would be, then the bottle motif was chosen to symbolically
+   represent the recycled origins of the glass.  Even if Burns himself didn't
+   have the artistic sensibility to think of this, the building's architect
+   might.
+
+
+>> Slurry -- the modern replacement for congreves!
+
+Bill Thacker makes an interesting observation about Li'l Lisa Slurry:
+   "Congreves and Flammable Powders", I believe [is the name of one of Burns'
+   stocks].  A Congreve was an early type of friction match, named after its
+   inventor,  who died in 1828.
+
+   It's ironic, if not intentional, that Li'l Lisa's Fish Slurry can be used
+   as an explosive, so Burns' recycling venture ends up filling the same
+   market niche' as his outdated stocks.  (Further parallels: Before his fall,
+   he ordered part of his portfolio invested in "American hay", and the fish
+   slurry can be used as livestock feed.  Others?)
+
+
+>> Lisa and the Money ...
+
+Another eighth-season episode, another controversy.  Lisa's decision to turn
+   down her share of the recycling plant proceeds brought a flurry of
+   criticism -- and some of it was even printable -- from people who thought
+   she put ideals above practicality.
+
+
+Dave from AOL sums of the feelings of many who felt Lisa should have taken the
+   money:  [Lisa] could have redirected it to one of the many worthy causes
+   she espouses.  A very to-the-point case could have been to fight gill-
+   netting. Personally, I don't think the issue is so much the source of the
+   money as what becomes of it.  Giving it back to Mr. Burns helped neither
+   Lisa's family or the fish ...
+
+
+Doc Quack adds:  If I strongly objected to the actions of the person, I
+   certainly wouldn't give back the money!  I'd take it to keep them from
+   having it, and if I couldn't use the money due to it's source, I'd donate
+   it to the charity of MY choice, in order to improve the world.
+
+   With 12 mill, Lisa could have hired a law firm to stop the actions of that
+   ocean dredge.
+
+
+T. J. Mills:  Nobody in their right mind would refuse a $12,000,000 check!
+   You could argue that Lisa was trying to do the right thing, but wouldn't
+   she care more about helping her family?  Not as if that kind of thought
+   even goes into the show anymore -- a show where Homer can have 4+ heart
+   attacks for a cheap laugh.  But that's off the subject ...
+
+   Yeah, sometimes I think it would've been easier if they killed off Lisa a
+   few years back, but in a way, they did.  She may look and sound similar to
+   the old Lisa, but the similarities end there.
+
+
+Aaron Varhola felt that Lisa should have looked more closely at long-term
+   moral strategy:  I do have an argument with Lisa's turning down the money,
+   though.  As much as I admire Lisa's stand against Burns' Animal Slurry, she
+   could have used the money to help finance something positive for the
+   environment or the people of Springfield, much as Abe did for the
+   Springfield Retirement Castle (which he isn't allowed to use anymore).
+   Giving it to Greenpeace would have been ironic.  I also see Lisa filing a
+   suit against Burns to stop the use of her likeness and name on production
+   of "Li'l Lisa's Patented Animal Slurry".
+
+   When I was in college, I won a $5,000 scholarship from the Coors Brewing
+   Company.  I'm a liberal and enjoy good beer, and frankly, Coors represents
+   all that is evil to both groups.  I didn't turn down the money; I used it
+   to help finance my education, which I hope will enable me to support
+   progressive causes and support breweries that make good beer.  (Mmmmm,
+   raspberry hefeweisen ...).
+
+
+Benjamin Robinson responds:  In the past, I have wondered what I would do if I
+   were in the same situation as Lisa and you, of having to accept "good"
+   money from a "bad" source.  I think I would have done the same thing you
+   did; I'm not so sure about Lisa.  She is still young and idealistic.  To
+   say, "I'll accept money now even from people who represent what I oppose,
+   so I can fight them later," sounds like a rationalization, and Lisa isn't
+   given to that sort of thing.  An older Lisa, say one who was facing
+   imminent tuition bills from Vassar, might accept the money, but not the
+   eight-year-old Lisa.
+
+
+Ondre Lombard defends Lisa's decision:  Lisa doesn't eat meat because she
+   doesn't want to kill animals.  She'd be nothing short of a hypocrite to
+   accept a $120,000 check (it wasn't $12,000,000) [Oh, yes it was -- Ed.]
+   that was earned behind a plant out to kill sea life.  And frankly, I think
+   anyone who WOULD accept money that was earned behind killing a buttload of
+   sea life has morals that are easy to buy.  The amount of dollars isn't the
+   issue, the issue is that Mr. Burns pulled in easily hundreds of animals,
+   killed them, destroyed them and turned them into slurry for the purposes of
+   aiding man and giving farm animals food (for the purpose of slaughtering
+   them, no doubt).  Frankly, even IF Swartzwelder set up a story with the
+   inevitable "Moment of [crap]," I support Lisa's decision, and anyone who
+   wants her off the series because of it needs to stop a minute and think
+   about how easily their morals could be bought off.
+
+   Furthermore, it'd be kind of crazy to use ill-gotten money to do good.
+   It's almost hypocritical.  Lisa knows Mr. Burns is evil, so either way, Mr.
+   Burns is rich and he gets to continue being evil, only now Lisa doesn't
+   have to live with the burden of having tainted money.  And on a more
+   technical note, she couldn't take the money, anyway, without it changing
+   the storyline.  And for those who have seen "Roseanne," windfalls only seem
+   to ruin TV series.
+
+
+Tara Seeley has several reasons why the ending worked for her:  There have
+   been many posts as to how Lisa could turn down a 12 million dollar check.
+   Well, to them, I must point out that it's not entirely Lisa's fault she
+   didn't take it.  She gave her parents a chance to force her to take it when
+   she said, "I can't take that.  Can I?"  She turns to her parents.  They
+   tell her to do what's best for her or something to that degree.  So, if
+   they really wanted the money, they should have forced her to take it saying
+   it's for her own good or that she'd regret it later. They could get away
+   with that considering she's an 8 year old, but no, they let her make up her
+   own mind.
+
+   Lisa is a vegetarian and the money Burns earned came from the sea. That
+   means, the money was made off of the slaughter of sharks, whales, sea
+   urchins, shrimps, etc ...  Knowing that, how could Lisa take the money when
+   the decision was up to her?  I think she really wanted it, she just didn't
+   want to be responsible for it.
+
+   Another thing is, Lisa didn't really do much to help Burns, that I saw,
+   except to explain to him he could get 5 cents a can.  She didn't really
+   help him collect up the stuff.  She did advise him a little on how to treat
+   the elderly who worked for him.  Sure, she did more for Burns than his Yes
+   men but "well-earned"?  Okay, she did spend time with him
+
+   which should have been worth something but I doubt she ever suspected she
+   would be offered 12 million.
+
+   Maybe this will clear some things up, maybe not.  But, the ending made
+   perfect sense to me ...
+
+
+Michael K. Neylon felt Lisa's actions were in-character [ellipses the
+   author's]:  If Lisa had accepted the check, that would have been completely
+   out of character for her.  Look at "Lisa the Greek" ... she gave away all
+   her Malibu Stacey toys, save her homemade one, because it was bought with
+   gambling money.  Same here ... would Lisa be able to go to college/drive a
+   car/whatever knowing that that money came from the killing of fish? Yes, we
+   know that OFF is always in financial trouble ... that helps set some of the
+   plots up ... but they always manage to get by ... they certainly aren't
+   that far enough in debt that they need every penny they can get.
+
+
+Andrew Turley adds:  She is a devout vegetarian. She would never have gone
+   along with it, even if he had bought the fish in a more acceptable manner.
+   And most of what was dragged up looked rather rare.  Another strike against
+   it.  [Donald Martin noticed, "He also snagged whales and dolphins in his
+   net."]
+
+
+Bill Thacker presents what may be the best defense of all:  Besides, if she'd
+   taken the money we'd have missed Homer's heart attacks!
+
+
+>> Burns and the net ...
+
+Even Burns' OmniNet engendered some debate, as Jacob Huebert notes:  Does it
+   bother no one else that this latest episode seemed to have a *very* anti-
+   capitalistic message?  The whole point of the episode seemed to be:
+   capitalism carried out naturally results in someone doing something really
+   evil.
+
+   I'm not even so sure that what Burns did was even *so* evil ...  it's not
+   like he devastated the entire ocean or anything ... he just thought of a
+   way to be environmentally sound *and* catch lots of fish.  :)
+
+
+Ondre Lombard:  Well, Lisa is a vegetarian because she doesn't like animals
+   being killed for food.  (Reasons which clash with my reason for being
+   vegetarian, but let's please not debate this anymore).  Therefore, Mr.
+   Burns pulling in animals (especially that can't be cooked and served) for
+   slurry seems unethical.  Furthermore, a little fishing doesn't hurt the
+   ecological balance. Killing nearly all life underneath the sea for the
+   purposes of man at the same time recycling is like nursing a sick person
+   back to health, and then stabbing them.
+
+
+Doc Quack adds:  I think that the Burns net is a parody of the Japanese and
+   their 30 mile long nets which scoop everything out of the ocean.  They ask
+   nobody for permission, and use everything from swordfish to porpoise.
+
+
+>> Critic Without Pity
+
+[Ordinarily, I don't include long interviews in the capsules, but I thought
+   this one was pretty clever.  It's from Chris Courtois -- Ed.]
+
+   Scene::The inside of the House of Evil, where an a.t.s. denizen stands in
+   front of a TV set.
+
+   Owner: "The Old Man and the Lisa" is a Mr. Burns episode.  Early in the
+   Burns delivers a hilarious capitalistic rant to a school club.
+
+   atser: That's good!
+
+   Owner: But it also contains an overabundance of tired Burns-thinks-he's-
+   still-living-at-the-turn-of-the-century gags.
+
+   atser: That's bad.
+
+   Owner: It also gives Lisa a prominent role.
+
+   atser: That's good.
+
+   Owner: But it's the shrill politically correct incarnation of Lisa.
+
+   atser: That's bad.
+
+   Owner: The PC'ness is tweaked in a clever homage to "Invasion of the Body
+   Snatchers".
+
+   atser: That's good.
+
+   Owner: But Lisa's overbearing morality costs her family $12 million in a
+   totally predictable ending.
+
+   atser: That's bad.
+
+   Owner: There's also some very funny bits with Skinner going ballistic at
+   the recycling center.
+
+   atser: That's good.
+
+   Owner: There is also the umpteenth retread of the "Save-an-animal-in-
+   trouble- by-throwing-it-to-a-predator" gag combined with a weak Nelson ha-
+   ha.
+
+   atser: That's bad.
+
+   Owner: It's a Swartzwelder episode.
+
+   atser: [stares blankly]
+
+   Owner: That's OK, even I no longer know if that's good or bad.
+
+   atser: ...         Can I go now? I'll give the episode a B.
+
+
+>> Miscellaneous, Etc.
+
+The Haynes Lee alterna-title for this show is:  "Burns Lisa Burns"
+
+
+Darrel Jones:  "Achy Breaky Heart," by Billy Ray Cyrus, is the song played at
+   the old folks' home.
+
+
+Haynes Lee:  Lyndon LaRouche - Has run for the presidency six times since
+   1976.  Is completely whacko.
+
+
+B. Moller:  "Shine on you crazy diamond" is a song by Pink Floyd released in
+   1975.  the song was written about Syd Barrett a former member of the group
+   who was hospitalized for LSD psychosis in the late 60's.
+
+
+Mike Rumerman:  When Burns set out his "Six Pack" trap, he caught a few
+   whales, whales are only found in oceans and therefore on  coasts
+   (occasionally they swim into bays).  This shows that Springfield is a
+   coastal city!
+
+
+Brandon Starr:  Hitman Bret Hart, a pro wrestler, refers to Burns as a "pencil
+   neck geek"? The novelty song "Pencil Neck Geek" was sung by a pro wrestler,
+   "Classie" Fred Blassie.  The song is available on Bart's archenemy's album,
+   "Dr. Demento 20th Anniversary Collection".
+
+
+==============================================================================
+> Quotes and Scene Summary  {ol}
+==============================================================================
+% A little after dawn at the Simpsons place, Marge awakens (and has to 
+% readjust her hair because it got flattened while being pressed up 
+% Vagainst the headboard of the bed) to hear shuffled bottle noises.  
+% The noise awakens Homer and Bart, who fell asleep (in their clothes) 
+% on the couch while watching the still turned on TV.
+
+And now the thrilling conclusion of "Colonel Dracula Joins the Navy."
+-- Quality late-night movies, "The Old Man and the Lisa"
+
+% The family finds Lisa in the kitchen rummaging through garbage.
+
+Marge:	[yawn] Lisa, what in the heck are you doing?
+Lisa:	Oh, it's for my Junior Achievers Club.  We're trying to 
+	earn money by recycling.
+Bart:	Oh, recycling is useless, Lis.  Once the sun burns out, 
+	this planet is doomed.  You're just making sure we spend 
+	our last days using inferior products.
+-- Your ideas are intriguing to me, and I wish to subscribe to your 
+   newsletter, "The Old Man and the Lisa"
+
+% Marge likes the idea and decides to help Lisa.
+
+	[Marge puts a six-pack ring in a wastebasket]
+Lisa:	Mom, Mom!  You're mixing polyapolane with polyurethane
+Homer:	Marge!
+Marge:	[in a "so sue me" way] Well, I'm sorry!
+Lisa:	And, you have to cut these up first.  Otherwise, animals 
+	get caught in them.
+Bart:	Only the stupid ones.
+-- Lisa tries to earn money recycling, "The Old Man and the Lisa"
+
+% Lisa still needs paper.  Homer immediately thinks of a source.  He 
+% runs out the kitchen and returns with an armful of books, each of 
+% which he deposits into a wastebasket while laughing fiendishly.
+
+Dad, you're not supposed to have fun recycling.  This is serious!
+-- Lisa, saying recycling isn't FUN-damental, "The Old Man and
+   the Lisa"
+
+% Homer says, "Oh, okay" and starts depositing the books with a 
+% serious look on his face, while still chortling fiendishly.
+%
+% At the headquarters of the Junior Achievers Club at Springfield 
+% Elementary, Skinner reports that the "load of garbage" they saved 
+% has given more money for the field trip to Albany.  The children 
+% cheer.  Skinner introduces their guest speaker, who is slated to 
+% teach the club about business:  Mr. Burns.  Only Skinner and one 
+% other kid are applauding the arrival of Mr. Burns and Smithers.
+
+I'll keep it short and sweet.  Family, religion, friendship.  These 
+are the three demons you must slay if you wish to succeed in business.  
+When opportunity knocks, you don't want to be driving to a maternity 
+hospital or sitting in some phony-baloney church.  Or synagogue.
+-- Mr. Burns, guest speaking for Springfield Elementary's Junior
+   Achievers, "The Old Man and the Lisa"
+
+% Mr. Burns begins Q&A.
+
+Burns:	  Questions?
+	  [somewhat long pause, finally Skinner raises his hand]
+Skinner:  Well, uh, I might take advantage of this rare opportunity 
+	  even if you children aren't interested.  Ah, which do you 
+	  think is more important?  Hard work, or stay-tunededness?
+Burns:	  Are there any _real_ questions?
+-- "The Old Man and the Lisa"
+
+% Lisa asks Mr. Burns if his plant has a recycling center.  Mr. Burns 
+% can't even comprehend what the word recycling means.  "Ree-cy-
+% cleeng?"  Zoom to Mr. Burns' head, where we dissolve to an opening 
+% dictionary.  The page begins with the word "Ragamuffin" as we scroll 
+% down to a series of other tyrannical, threatening R words.  Mr. 
+% Burns tells Lisa that he doesn't know what the word means, and calls 
+% her a "ragamuffin."  Lisa tells him about how recycling helps Mother 
+% Nature, to which Mr. Burns starts spitting upon mother nature for 
+% the disasters she's given man.
+%
+% Mr. Burns states the opinion, "Surely, you agree we can do without 
+% her!"  Lisa staunchly disagrees.  Mr. Burns is shocked.  Smithers 
+% scolds her for questioning Mr. Burns.  Burns calls off Smithers, and 
+% just tells Lisa to shut up because if he listened to people like 
+% her, he wouldn't be worth $200 million today.  Lisa, however, read 
+% Mr. Burns' "recent" biography, which portrays him as being only 
+% worth $100 million.  Mr. Burns looks to Smithers, who hesitantly 
+% informs him that he's actually worth considerably less than that.  
+% Mr. Burns announces his departure.  Skinner says, "Monty Burns, 
+% everybody!" and starts applauding.
+%
+% In Mr. Burns' office, Burns meets with his council of yes-men and 
+% Smithers.
+
+Mr. Burns:	I've called you all here because I need some honest 
+		answers.  What is my current financial situation?
+Yes-man #1:	Great!
+Lawyer:		Great!
+Smithers:	I hear great.
+-- "The Old Man and the Lisa"
+
+% Mr. Burns requests his stock portfolio.  He asks about his 
+% Confederated Slavery Holdings.  He again receives more falsely 
+% secure reports from his yes-men.  Smithers assures Mr. Burns that 
+% he's secure because Mr. Burns managed his stocks.  Mr. Burns, with 
+% arrogant confidence, asks for his stock ticker, which reports bad 
+% news after September, 1929 -- conveniently right after he stopped 
+% checking his stocks.
+
+Burns:		Smithers, why didn't you tell me about this market 
+		crash!
+Smithers:	Um, well... sir, it happened twenty five years before I 
+		was born.
+Burns:		Oh, that's your excuse for everything!
+-- "The Old Man and the Lisa"
+
+% Mr. Burns creates a formula for bankruptcy to save his money.  He 
+% asks Smithers to sink fifty percent of his money into obviously bad 
+% stocks and asks the rest to be invested in the Baltimore Opera Hat 
+% company.  "That should set things right again, eh, boys?"  Mr. Burns 
+% asks.  The yes-men do what yes-men do, say "Yes."  As soon as Mr. 
+% Burns is gone, everyone assumes worried expressions.
+%
+% Skinner and the Junior Achievers arrive at Uriah's Heap Recycling 
+% Center, where Skinner plops down stacks of newspapers.
+
+Skinner:	A half-ton of newspaper and all we get is seventy five 
+		cents?  That won't even cover the gas I used to go to the 
+		store to buy the twine to tie up the bundles.
+Man:		It sounds like _you're_ working for your car-r-r.  
+		Simplify-y, ma-an!
+-- "The Old Man and the Lisa"
+
+% Skinner loads the kids into his car and tells them that they don't 
+% have enough money for the trip to Albany, and there is to be no more 
+% recycling.  Lisa comments that they didn't do so badly, since they 
+% collected enough paper to save a tree.  A frustrated Skinner backs 
+% his car up so far it breaks a tree down.  The children start bawling 
+% as Skinner drives away.
+%
+% At Mr. Burns' office, a stock diagram tells him that he is ruined.  
+% When he asks the yes-men if he still made the right moves despite 
+% his failure, they all say he did.  Mr. Burns finally sees the light.
+
+Burns:		I see it all, now.  You're just a bunch of yes-men.  I 
+		was making the wrong moves and you were too gutless to 
+		tell me!  Isn't that right??
+Yes-men:	Oh, yes, sure, etc.
+Smithers:	Right on, sir.
+-- "The Old Man and the Lisa"
+
+% Mr. Burns asks Smithers to take out another mortgage on the plant, 
+% but the bank has already foreclosed on the plant--and Mr. Burns' 
+% house.  Smithers offers to help Mr. Burns unpack and move out the 
+% bank's house.  Smithers helps a stunned Mr. Burns walk out his 
+% former office.
+%
+% Smithers walks Mr. Burns down the hallway of his mansion and down 
+% the stairs.  Meanwhile, wrestler Bret "The Hitman" Hart is 
+% considering Mr. Burns' house.
+
+Real Estate Agent:	And, I'm sure a pro-wrestler such as yourself 
+			will appreciate all the closet space, Hitman.
+Bret:			[sniffs] Eww.  This place has got old-man stink!
+Burns:			[feeling insecure] Ooh.
+Smithers:		Don't listen to him, sir.  You've got an 
+			enchanting musk.
+-- Twenty five years of service can warp one's smelling,
+   "The Old Man and the Lisa"
+
+% The agent tells Bret that he isn't the only wrestler living around 
+% there.  "The Shrieking Sheik lives just three doors away."  We can 
+% hear the sound of a freakish shriek.  Bret is won over.  Mr. Burns 
+% takes down his self-portrait and approaches Bret.
+
+Burns:	Uh, would it be all right if I kept this portrait?  To 
+	remind me of better times?
+Bret:	Why would I want a picture of a pitiful pencil-neck GEEK?!
+Burns:	Yeah.  Why indeed.
+-- "The Old Man and the Lisa"
+
+% Mr. Burns leaves behind his portrait and leaves the estate glumly 
+% with Smithers.  "I'll make sure he forwards your Social Security 
+% checks, sir."  "Mm, excellent."
+%
+% [End of Act One.  Time: 7:01]
+%
+% Breakfast time at the Simpson house.  Marge reads the paper.
+
+Marge:	Homer, you didn't tell me Mr. Burns went broke and lost 
+	the nuclear power plant!
+Homer:	Now I can't remember every little thing that happens in my 
+	day.
+Marge:	You told me about that candy bar you found three times.
+Bart:	You found a candy bar?
+Homer:	Oh yes.  Gather around, my son, and I shall tell you a 
+	tale.
+-- A tale of a faithful Mars bar, "The Old Man and the Lisa"
+
+% "I normally don't laugh at other people's misfortunes, but on behalf 
+% of the recycling community, ha!" comments Lisa.  "It couldn't have 
+% happened to anyone more deserving."
+%
+% Marge is worried that the SNPP was closed, but it wasn't.  Homer 
+% says the bank put Lenny in charge.  In Mr. Burns' former office sits 
+% Lenny.
+
+[through the intercom]
+Attention, everybody... um... oh... uh...  Work harder, bye!
+-- Lenny inherits the job as head honcho of the Power Plant,
+   "The Old Man and the Lisa"
+
+% Mr. Burns is living with Smithers now.  (A dream come true for 
+% Smithers, I guess).
+
+Well, sir, I have to get to work.  Lenny's a real bear on tardiness.
+-- Smithers begins working for Lenny, "The Old Man and the Lisa"
+
+% Mr. Burns offers to help out, but only succeeds in dropping a cup 
+% and saucer.  Smithers hastily halts Mr. Burns' "help" and tells him 
+% to just stay put and maintain his dignity.  Upon Smithers' 
+% departure, we see Mr. Burns sitting at the breakfast table and 
+% staring, the only noise being a drip from the faucet.  He notices a 
+% grocery list and decides to go shopping for Smithers.
+%
+% Mr. Burns catches the bus.
+
+Burns:	[to Barney] I'm riding on the bus!
+Barney:	Hey, aren't you that guy everybody hates?
+Burns:	Oh, my, no!  I'm Monty Burns.
+-- "The Old Man and the Lisa"
+
+% At the grocery store...
+
+[pushing a cart]
+[to a woman]
+I'm shopping!
+-- Mr. Burns, not losing the common touch, "The Old Man and the Lisa"
+
+% In the cereal aisle, Mr. Burns pesters Krusty to help him find a 
+% cereal that's "for him."
+
+Burns:	Uh, oh, excuse me, could you tell me where I might find 
+	the "Burns-Os"?
+Krusty:	Sorry, pops.  They don't put nobodies on cereal boxes.
+-- Silly Burnsie, cereals are for somebodies, "The Old Man and the Lisa"
+
+[notices a box of "Count Chocula" cereal with a cartoon of a vampire 
+on it]
+Hmm.  I suppose this one looks a _bit_ like me.
+-- Mr. Burns goes shopping, "The Old Man and the Lisa"
+
+% A grocer walks down the dairy aisle and happens by Mr. Burns, who 
+% has managed to trap himself inside a refrigerated milk compartment.  
+% Blue from freezing, Mr. Burns taps on the door and the grocer opens 
+% the door.
+
+Burns:	Oh, thank you, shopee.  I ventured in to search for milk 
+	when the door snapped shut behind me!
+Man:	Yeah, those dairy cases are death traps.
+-- "The Old Man and the Lisa"
+
+% Mr. Burns is now trying to differentiate "Ketchup" from "Catsup."  
+% He resolves, "I'm in way over my head!"
+
+Grocer:		He's, uh, talking to the ketchup, now.  Burns is sure 
+		acting nutty.
+Supervisor:	Maybe going broke and losing his plant destroyed his 
+		brain.
+		[they go to Mr. Burns]
+		[Mr. Burns shakes and listens to the "Catsup" and 
+		"Ketchup" bottles]
+		Could you come along with us, sir?
+Burns:		Are you here to solve my ketchup problem?
+Grocer:		Yess, that's right.
+-- Those bottles won't hurt you ANYmore, "The Old Man and the Lisa"
+
+% Much like the men in white, the two grocers carry Mr. Burns on each 
+% side to Chief Wiggum.  Wiggum takes Burns to the Retirement Castle.
+
+Burns:	But, where are you taking me?  What's happening?
+	Wiggum:	Relax.  You've gone off your nut, so we're stuffing you 
+	into an old folks' home.  Those, uh, store guys signed the 
+	commitment papers.
+Burns:	[confused] But I'm shopping!
+-- Not anymore, "The Old Man and the Lisa"
+
+% Meanwhile, at home, Homer is completely drunk from drinking cans of 
+% Duff beer.
+
+Homer:	[wobbly] Here you go, honey.  [drops a can of Duff into a 
+	bag]
+	That's about all the recycling *hic* I can handle today.
+Lisa:	Dad, if you just drink one more I'll have a full bag.
+Homer:	Oh, but Daddy doesn't feel so good.
+Lisa:	Hm.  There's gotta be more trash around here somewhere.
+Homer:	Hey, why don't you try the old folks' home?  They 
+	practically live in their own filth!
+Lisa:	Thanks, Dad!
+Homer:	You're welcome, honey ... [passes out]
+-- Giving his all for the cause, "The Old Man and the Lisa"
+
+% At the retirement castle, Mr. Burns has dinner with Grampa.
+
+Abe:	That's the activity room.  We're not allowed in there.  
+	That's the library.  Not allowed in there either.  And 
+	don't even think about going into the game room.
+Burns:	Egad, man!  How are we supposed to pass the time?
+Abe:	Best bet is to stake yourself out a good spot at the 
+	staring window.
+	[three decrepit old people stare outside a window, where 
+	there's nothing but a bare tree with one leaf, standing on 
+	grass]
+Burns:	[shudder]
+-- Mr. Burns winds up at the Retirement Castle, "The Old Man and the Lisa"
+
+% Decrepit old people rock lifelessly to "Achy Breaky Heart," and a 
+% youthful guy in a cowboy hat orchestrates the "party."  He invites 
+% Mr. Burns to join in, but he only stares in a "you can't be serious" 
+% manner.  "That's the ... spirit," replies the guy.
+%
+% Mr. Burns turns to the staring window, and muses about how the saga 
+% of his life will end.  "If I hadn't surrounded myself with those 
+% spineless yes-men..."  Then, Mr. Burns overhears Lisa pressing to 
+% get some recyclables.  "That voice!  That shrill, disagreeable 
+% voice!  It's her!" says Mr. Burns.
+
+Sorry.  We're not allowed to read newspapers.  They angry up the 
+blood.
+-- Grampa explains another Retirement Castle restriction to Lisa,
+   "The Old Man and the Lisa"
+
+Burns:	You!  That troublemaking girl!
+Lisa:	My name is Lisa, Mr. Burns.  Lisa Simpson.
+Burns:	It doesn't matter what your name is, you idiot!  What I 
+	want to know is, will you help me get my money back?
+Lisa:	Hah!  I'd never help you.  You're the worst man in the 
+	world.
+-- Putting it bluntly, "The Old Man in the Lisa"
+
+% "Yes!  That's the kind of moxie I'm looking for!  You're hired!" 
+% says Mr. Burns, grabbing Lisa's arm.  Lisa pulls away, and declines 
+% Mr. Burns' rude offer.  Smithers runs into the room.
+
+Sir!  I'm so sorry my grocer committed you.  We'll never shop there 
+again!
+-- Smithers, "The Old Man and the Lisa"
+
+% "Not now, Smithers!  I've got an empire to rebuild!  And the person 
+% who is going to help me is -- That Girl!" says Mr. Burns, pointing 
+% to Lisa.
+%
+% Begin a spoof of the "That Girl" opening.  Lisa, That Girl, flies a 
+% kite; Lisa in a hat walks down the street and sees a mannequin 
+% display of Mr. Burns winking at her; Lisa rides a carousel -- all 
+% the while, Mr. Burns following her and begging her to help him.
+%
+% At home, in accordance with the end of the "That Girl" spoof-music, 
+% the Simpsons' doorbell rings.  Homer answers the door.
+
+Burns:	Sir, we've never met before, but my name is Mr. Burns and 
+	I want your daughter to help make me rich again.
+Homer:	You mean Maggie?
+	[Maggie stares at Mr. Burns and gestures her hand like a 
+	gun aimed at him]
+Burns:	Ahh -- the baby who shot me -- no, I was referring to your 
+	other daughter.
+-- The girl who would like to shoot him, "The Old Man and the Lisa"
+
+% Homer calls Lisa, and decides to make small talk with Mr. Burns.  
+% ("So, how's life in the gutter?")  Mr. Burns is on his knees, 
+% begging Lisa not to refuse him this time.  She considers it and 
+% walks down the stairs.
+
+Lisa:	If I did agree to help you, you could only earn money by 
+	doing good, socially responsible things.  Nothing evil.
+Burns:	Nothing evil.  That's exactly the kind of radical thinking 
+	I need!
+-- "The Old Man and the Lisa"
+
+% Mr. Burns agrees, and Lisa and Mr. Burns shake hands.
+
+Homer:	See that, boy?  Why aren't you making any business deals?
+Bart:	[whiney] I'll do it this afternoon!
+-- "The Old Man and the Lisa"
+
+% [End of Act Two.  Time: 13:24]
+%
+% On the beach, Lisa and Mr. Burns start picking up recyclable 
+% garbage.
+
+Burns:	You mean there are actually people who will pay good money 
+	for garbage?
+Lisa:	Not good money, really.  Each can'll get you a nickel.
+Burns:	Ooh don't poo-poo a nickel, Lisa.  A nickel will buy you a 
+	steak and kidney pie, a cup of coffee, a slice of 
+	cheesecake and a newsreel.  [Lisa looks unimpressed]  With 
+	enough change left over to ride the trolley from Battery 
+	Park to the polo grounds.
+Lisa:	There's a can.
+-- Worse than a "back in my day..." tale, "The Old Man and the Lisa"
+
+% Lisa discovers a fish struggling because it's trapped in a six-pack 
+% ring.  Lisa tells Mr. Burns that you have to cut those up so fish 
+% don't get caught in them.  Lisa frees the fish and dumps it into the 
+% water.  Then a shark eats the fish.  Nelson appears, and says "Ha-
+% ha!"
+%
+% Mr. Burns keeps picking up cans and recycling, until he receives his 
+% first dollar in change at Uriah's Heap Recycling Center.
+
+Burns:	Well, Lisa, as my adviser, you're entitled to ten percent.
+Lisa:	Oh, I'm not doing this for the money.  I'm just happy 
+	knowing that future generations will enjoy unspoiled 
+	median strips and pristine highway embankments.
+Burns:	There's a can.
+-- "The Old Man and the Lisa"
+
+% The Simpsons watch more of Kent Brockman's unbiased, award-winning 
+% commentary.
+
+Kent:	And from our "It's Funny When It Happens to Them" file, 
+	remember millionaire C. Montgomery Burns?  The man who 
+	blocked out our sun, ran over a local boy and stole 
+	Christmas from 1981 to 1985?  Well guess who's flat broke, 
+	and picking up trash for a living?
+Homer:	Please be Flanders, Please be Flanders, Please be 
+	Flanders!
+-- Bill the Boom Mic Operator?  "The Old Man and the Lisa"
+
+% The vagrant in question is revealed to be Mr. Burns, as Kent 
+% Brockman approaches filthy Mr. Burns digging through a garbage can.
+
+Kent:	Excuse me, Mr. Burns, now that you're completely ruined, 
+	how do you feel?
+Burns:	Excellent.  I'm on my way back to the top!  I've turned 
+	these cans into can-dos!
+Kent:	Weell, you smell terrible -- Good luck to you, sir.
+-- Is this going to be like the annual holiday-shelter interview?
+   "The Old Man and the Lisa"
+
+Marge:	Wow.  He went from stinking rich to just plain stinking!  
+	[laughs]
+	[Homer and Bart start laughing with her]
+Bart:	Good one, Mom!
+Homer:	Oh, you're so bad, honey!
+Lisa:	You guys shouldn't laugh at him.  Mr. Burns has changed.  
+	He's different now.
+Marge:	Yeah, he's broke!  [everyone but Lisa resumes laughing]
+Homer:	[congratulatory] Two in a row!
+	[Lisa frowns disappointedly]
+-- "The Old Man and the Lisa"
+
+% At the Retirement Castle, Mr. Burns supervises a team of elderly 
+% people collecting bags of cans and other recyclables.  He takes the 
+% time to thank Lisa for getting him back in a business, then bosses 
+% around his "employees."
+%
+% Lisa tells him that he shouldn't bully his workers if he wants them 
+% to do a good job.  Mr. Burns discovers another region foreign to 
+% him.
+
+Burns:	People, if we meet this week's quota, I'll take you to the 
+	most duck-filled pond you ever sat by!
+Grampa:	Oh, hot-diggity!  That's how they got me to vote for 
+	Lyndon LaRouche!
+-- And here Sideshow Bob is building "Matlock" expressways to get 
+   votes, "The Old Man and the Lisa"
+
+% The "Springfield Shopper" reports Mr. Burns is going to open a 
+% recycling plant.
+
+Lisa:	Wow, even _I_ didn't know he was so committed to 
+	recycling.  See?  I told you Mr. Burns was changed.  See?
+Marge:	Lisa, nobody likes a gloater, right, Homie?
+Homer:	Uh huh.
+Marge:	See?
+-- Neener neener, "The Old Man and the Lisa"
+
+% A crowd gathers to watch the opening of Mr. Burns' recycling plant.  
+% Burns decides to give Lisa most of the thanks for her "impetuous 
+% moralizing" which helped produce -- The Li'l Lisa Recycling Plant.  
+% Mr. Burns unveils a plant with Lisa's smiling face on the front of 
+% it.
+
+Aww, ain't that cute?  Makes Li'l Debbie look like a pile of puke!
+-- Moe, at the unveiling of the Li'l Lisa Recycling Plant,
+   "The Old Man and the Lisa"
+
+% Mr. Burns invites Lisa to tour the inside of the plant.
+
+Burns:	The whole plant is environmentally sound.  It's powered by 
+	old newspapers, machinery is made entirely of used cans, 
+	and the windows are from the old liquor bottles we 
+	collected.
+	[he notices a shadow of Barney outside the liquor bottle 
+	windows]
+	[opens the window]
+	Hey!  I thought I told you to stop licking my windows!
+Barney:	I know you told me.  But when I woke up this morning, I 
+	said, "Barney, you're not gonna lick that..." --
+	[Burns slams the window in Barney's face]
+-- Save it for your AA sponsor, "The Old Man and the Lisa"
+
+% Lisa congratulates Mr. Burns on regaining his fortune without 
+% hurting the environment "or cozying up to the Aspen crowd."  But 
+% Burns hasn't shown her the big finale.  Lisa's "demonstration" of a 
+% fish caught in a six-pack ring gave Burns an idea.  He shows Lisa 
+% how he linked millions of six-pack holders together in the ocean to 
+% pull in a million fish.
+%
+% "What's going on?" asks Lisa, as it appears the entire world 
+% underneath the sea is being dragged out into the factory.  Mr. Burns 
+% calls this the "Burns Omni-net.  It sweeps the sea clean."  Lisa is 
+% shocked.  Inside is a slaughterhouse, compressing the bodies of the 
+% sea creatures into a red mush that is loaded into large barrels.  "I 
+% call our product, Li'l Lisa's patented animal slurry.  It's a high-
+% protein feed for farm animals, insulation for low-income housing, a 
+% powerful explosive and a top-notch engine coolant," Mr. Burns 
+% explains.  "And best of all, it's made from one hundred percent 
+% recycled animals!"  When Lisa becomes (literally) sickened by it, 
+% Mr. Burns offers her some slurry.  Lisa realizes that he hasn't 
+% changed, and that he's evil even when he's trying to be good.  Mr. 
+% Burns doesn't understand what she's upset about.
+%
+% Once Lisa sees her face on the plant coolers, she runs out of the 
+% plant and runs around the neighborhood begging people to stop 
+% recycling.
+
+Lisa:	Stop!  Don't recycle!  It's murder!  You're helping Mr. 
+	Burns!
+Woman:	[robotically] But you told us to recycle.
+Man:	[robotically] You convinced us it was good.
+-- "The Old Man and the Lisa"
+
+% Lisa tries to dump recyclables into the trash, and receives zombie-
+% like protests from townspeople.  She tails a truck carrying "Li'l 
+% Lisa" slurry, but loses it.  Finally, in the middle of the street, 
+% she breaks down.
+%
+% Back at home...
+
+Lisa:	[wiping her dress] Oh, I can't get the smell of slurry out 
+	of my clothes.  I was a fool to help that horrible old 
+	man!
+Homer:	I hope you learned your lesson, Lisa.  Never help anyone.
+-- "The Old Man and the Lisa"
+
+% Mr. Burns and Smithers pay a visit.
+
+Smithers:	Simpson, what are you doing here?  Why aren't you at 
+		work?
+Homer:		I made a bad mistake and Lenny sent me home to think 
+		about what I did.  I don't remember what it was, so I'm 
+		watching TV.
+-- Better than a spanking, "The Old Man and the Lisa"
+
+% Smithers informs him that Mr. Burns bought back the plant, ending 
+% "Lenny's reign of terror."  Burns interrupts to tell Lisa that he 
+% sold the recycling plant for $120 million.  "Congratulations," Lisa 
+% remarks sarcastically.  Mr. Burns also came to give Lisa ten percent 
+% of the money.
+
+Lis, have I told you lately that I love you?
+-- Bart, after Lisa is offered $12 Million from Mr. Burns,
+   "The Old Man and the Lisa"
+
+% Lisa is in awe at the check offered to her -- but more 
+% conscientiously says, "Oh but I can't accept that, knowing where it 
+% came from.  Can I?  Mom?"  Marge tells Lisa to do whatever he 
+% conscience tells her to.  Lisa takes the check, and with much 
+% hesitation, tears it up.  Marge tells Lisa that she did the right 
+% thing, and Homer collapses.
+%
+% Next thing you know, Homer is in the hospital.
+
+Hibbert:	Well, that's the first case I've ever seen of a man 
+		suffering four simultaneous heart attacks.
+Lisa:		I'm sorry, Dad.
+Homer:		It's all right.  I understand.  But we really could've 
+		used that twelve thousand dollars.
+Lisa:		[nervously] Um, Dad, ten percent of a hundred and twenty 
+		million dollars isn't twelve thousand dollars.  It's ...
+		[outside the room, a blue-alert goes off]
+Woman:		[over intercom] Code blue!  Code Blue!
+-- "The Old Man and the Lisa"
+
+% [End of Act Three.  21:18]
+
+==============================================================================
+> Contributors
+==============================================================================
+{am}  Adam Monteiro
+{av}  Aaron Varhola
+{bjr} Benjamin Robinson
+{ddg} Don Del Grande
+{dga} Dale G. Abersold
+{dj}  Darrel Jones
+{hl}  Haynes Lee
+{hm}  Howard MacGregor
+{jh}  Jason Hancock
+{jk}  Joe Klemm
+{jsh} Jonathan Haas
+{ljs} Liam J. Scanlan
+{mm}  Matthew McGrath
+{mr}  Mike Rumerman
+{mss} Marge Starbrod Simpson
+{nd}  Nathan Dietz
+{ol}  Ondre Lombard
+{sh}  Sean Hughes
+{sp}  Steve Portigal
+{tm}  Theodore Miller
+{tw}  Tom Wilson
+
+==============================================================================
+> Legal Mumbo Jumbo
+==============================================================================
+This episode capsule is Copyright 2000 Benjamin Robinson.  It is not to be
+redistributed in a public forum without consent from its author or current
+maintainer (capsules@snpp.com).  All quoted material and episode summaries
+remain property of The Simpsons, Copyright of Twentieth Century Fox.  All
+other contributions remain the properties of their respective authors.  The
+transcript itself is Copyright 1998 Ondre Lombard.  This capsule has been
+brought to you by Li'l Lisa Recycling, a subsidiary of Bay State Fish Stick
+Co.
+
+This work is dedicated to Raymond Chen, James A. Cherry, Ricardo Lafaurie,
+Frederic Briere, and all of those who made episode capsules what they are
+today.
+
+Many thanks to Dave Hall and Frederic Briere, who provided me with
+alt.tv.simpsons archives when needed.  This capsule wouldn't be nearly as
+complete without their invaluable help.
+

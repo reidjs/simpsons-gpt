@@ -1,0 +1,864 @@
+<PRE>
+Like Father, Like Clown             Written by Jay Kogen and Wallace Wolodarsky
+                                        Directed by Jeffrey Lynch and Brad Bird
+===============================================================================
+[$Id: 8f05 1.3 92/03/19 07:15:44 raymond Exp Locker: raymond $]
+===============================================================================
+> Title sequence
+===============================================================================
+Cut from clouds directly to driveway.
+
+Driveway   :- Homer says `D'oh' when Lisa scoots past.
+
+Couch:     :- Bart leaps into everyone's lap.
+
+>> The Canadian version, courtesy of Alan J. Rosenthal {ajr}:
+
+Blackboard :- I will finish what I sta
+              (The rest of the board is completely blank, with a big
+              diagonal line where the `r' would be.)
+
+Lisa's solo:- transcription by Mr. Rosenthal, amended by Raymond Chen.
+              very quickly
+                       .  .  ..
+                          #  N- -   b    N
+               8___/// 5__4_8438754/321213568868___
+
+Couch:     :- Same as US version.
+
+>> Mr. Rosenthal invites us to go through the couch scene, frame by frame.
+
+At first, Maggie heads directly for the place where she's going to end up on
+    the sofa.
+Lisa and Marge cross paths, behind Maggie.
+Homer comes in from the left of the screen.
+Lisa runs around Maggie and jumps onto the sofa to Maggie's left (our right).
+Marge and Homer collide with FORCE and reel with the impact.
+Marge flies onto the sofa almost at the right side of the sofa (our left).
+Lisa settles in as Homer attempts to squeeze in beside Marge (there's hardly
+    any room).
+Homer gets jostled almost over the arm of the sofa, then regains his place.
+Marge smiles, Lisa looks content, Homer becomes more alert and smiles.
+They settle down a little.
+Marge and Maggie blink; Homer frowns.
+Homer and Lisa blink as Marge and Maggie's eyes open.
+Marge smiles again; Homer looks really cross as Bart comes in.
+Marge isn't smiling any more; Lisa and Maggie look surprised.
+Homer looks surprised.
+Marge looks annoyed; Lisa looks only a little surprised.
+Homer is really annoyed; Lisa looks like she's saying, "oh boy".
+Everybody closes their eyes and winces as Bart lands.
+Bart's eyes are closed but he's not wincing.
+Bart opens his eyes first.
+Then others open their eyes.  Homer's real sore; Lisa seems to think that Bart
+    is crazy and dangerous.
+Bart grins.
+Bart blinks.
+<cut to the tv screen with the credits>
+
+===============================================================================
+> Didja notice...
+===============================================================================
+    ... Krusty's dad was voiced by Jackie Mason?  (Pay attention to the
+        deli menu.)  And of course, Jackie Mason is a prominent Jewish
+        comedian, who has often been criticized as being ``too Jewish''.
+        Indeed, Mason is himself a former rabbi! {jdb}
+        Other voices were supplied by Doris Grau (the waitress), Pamela
+	Hayden (Milhouse), and Tress MacNeille.
+    ... Bart now has a phone in his room?
+    ... Bart's stationery is titled, `From the brain of Bart'?
+        (cf. `From the Noggin of Ned' in [7f08] and `From the mind
+        of Marge' in [7f09].)
+    ... Bart's collection of Krusty pencils was held in a coffee mug
+        shaped like a nuclear cooling tower?  (References to [8f04]
+        and [7f13].)  Bart also had a Krusty snow dome (a water-filled
+        gizmo that you shake to make it look like it's snowing inside)
+        on his desk.  Inside, Krusty is riding a unicycle. {elm}
+    ... Krusty arrived at 6:10, and got off his unicycle at 6:15?
+    ... Krusty dabs his eyes with a trick handkerchief?
+    ... the TV ad for Barney's Bowl-a-Rama when Krusty cuts to a commercial?
+    ... how the music repeated itself when Rabbi Krustofsky slammed the door
+        each time?
+    ... they were watching Krusty at Moe's Tavern?
+    ... Maggie fell but once?  (When Marge answers the phone.)
+    ... the special technical consultants in the credits?
+        Rabbi Harold M. Schulweis and Rabbi Lavi Meier, Ph.D.
+
+Did anybody see an `A-113' in the episode?  Brad Bird likes to hide that
+number in things he directs.
+
+Dave Hall {dh}:
+
+    ... the "Applause" sign in the studio?
+        The Krusty the Klown show is on at 4 o'clock weekdays.
+        [I think this is according to the charts in the hallway, but Dave
+        didn't say.  Note that the contradicts [7f23], in which Bart is
+        watching the END of an I&S cartoon at 4pm.]
+    ... at the dinner table...
+        ... they'd already started dinner before saying Grace.
+        ... the chairs all have a three-point crown at the top.
+            (Those chair must be very unconformable as they have no backs.)
+        ... Homer was scooping mash-potatoes onto his plate, but stopped once
+            to take something out!
+        ... After Krusty's story, the candles had burnt down.
+    ... the `Concert for Bangladesh' tape sounded more like a record?
+    ... Lisa's dresser has a little heart placed at the top of the mirror,
+        and she has a phone in her bedroom?  (They used the phone to
+        invite Rabbi Krustofsky and Krusty to Izzy's Deli.)
+    ... the sink in Moe's Tavern appears to be over-flowing?
+    ... the front door's peek-hole appears to be almost eye-level to Bart?
+        [I bet Bart never uses it, though. --rjc]
+
+===============================================================================
+> Movie (and other) References
+===============================================================================
+  + The Jazz Singer
+        - the basic plot of the movie:  rabbi disowns his son, who chooses
+          to become an entertainer rather than follow in his father's
+          footsteps. {eaw}
+        - Rabbi Krustofsky announces, ``I have no son!'' {df}
+        - ``If you were a musician or a jazz singer, this I could forgive.''
+    The Tonight Show with Johnny Carson
+        - ``I hold in my hand the final axe.''  cf. envelope, during
+          Johnny's Karnak sketch. {sa}
+        - the famous incident when Ed Ames was a guest.  He was throwing axes
+          at a plywood board with an outline of a man on it.  When he threw
+          the very last axe, it landed right on the crotch of the outline.
+          Johnny almost died laughing.  He shows this all the time on his
+          anniversary specials.  You'll notice that Krusty's last axe hit
+          just below Mel's crotch as well. {kg}
+  + The Carol Burnett Show
+        - Krusty tugs his ear at the end of the show at the start of the
+          episode. {jk}
+        - Carol tugged her ear as a signal to her mother.
+    James Bond movies
+        - Miss Pennycandy (Miss Moneypenny).  Beautiful, but
+          alays holding out futilely for Krusty (Bond). {mr}
+    Brighton Beach Memoirs
+        - Young Krusty caught with the seltzer bottle.  Cf. when Eugene gets
+          caught by his sister doing something to make hair grow on his palms.
+          The timing of the seltzer spray was *so* good. {kdj}
+    Annie Hall (not a reference, but could've been)
+        - At Izzy's Diner, they had a chance to spoof Diane Keaton's deli
+          order of pastrami on white with mayo.  (cf. the Krusty sandwich)
+
+===============================================================================
+> Freeze Frame Fun
+===============================================================================
+>> Krusty Kologne label, courtesy of Dan Maloney {dm}
+
+    Krusty (non-toxic) Kologne
+    The smell of the big top
+
+    Warning: use in a well-ventilated area.  May stain furniture.  Prolonged
+    use may cause chemical burns.
+
+>> Krusty's dressing room, observed by Dave Hall {dh}
+
+    One of the Beatles in the picture with Krusty looked deathly pale.
+
+    Although there are several colorful ties hanging in his dressing room,
+    he only wears the same blue bow-tie.
+
+>> The Springfield Lower East Side
+
+    Yiddle's Jokes:  Practical jokes ... and medical supplies
+
+    Observe the rabbit in the top-hat in the store. {dh}
+
+    A man in the crowd had a unusual placed patch on his
+    pants. (Think about it.) {dh}
+
+>> The picture album
+
+    Bart's first haircut.  Taped beside the picture is a triangle---a
+    piece of Bart's hair. {dh}
+
+    ``Teaching'' Bart to swim.
+
+    Homer riding on a rollercoaster, holding Bart up in the air.
+    The front of the car says, ``Duff Gardens''.  Cf. Busch Gardens
+    (of Anheuser Busch Breweries).
+
+    Fourth of July, Bart surreptitiously lights a firecracker.
+
+    Note that in these pictures, Homer has already lost his hair. {dh}
+
+>> The porno movie marquee, courtesy of Dan Maloney {dm}
+
+    For Your Thighs Only
+    Crocodile Done Me
+    Doctor Strangepants
+
+>> The magazine rack, courtesy of Dan Maloney {dm}
+
+    Ballooning Monthly
+    Cooking with Coconut Magazine
+    Faberge Egg Owner
+    Ballpoint Pen Digest
+    Modern Jewish Father
+
+>> The bus depot
+
+    SCENIC SOUTH DAKOTA poster
+
+    Audrey Rosen {ar} notes that there was a guy passed out on the
+    waiting room seats.
+
+>> The Temple, courtesy of Dan Maloney {dm}
+
+    Temple Beth Springfield.
+    Rabbi Hyman Krustofski
+    This Saturday: Coping with Christmas
+
+    Ethan Miller {elm} notes that the nameplate on the rabbi's door
+    spelled his last name with a `y'.
+
+>> The KBBL studio
+
+    A framed record of The Larry David Experience
+    An autographed Bleeding Gums Murphy poster
+
+    KBBL is pronounced K-babble [7G01] because it's a talk radio station.
+    K-Babel is appropriate for this episode, but not for the station
+    because they air Gabbin' About God only to keep the FCC from yanking
+    their licence.
+
+    The announcer is wearing a FOGHAT T-shirt.
+
+>> Old Springfield Library
+
+>>> Note the `la Barto' graffito on the steps of Old Springfield Library. {dh}
+
+>>> Books Lisa consults, courtesy of Dan Maloney {dm}
+
+    The Big Book of Chosen People
+    Views on Jews
+    Jewishness Revisited
+
+>>> Bart plays with a Biblical pop-up book.
+        - the Garden of Eden
+        - the Great Flood
+
+===============================================================================
+> Animation goofs
+===============================================================================
+Lawrence Alan Schwimmer {las} notes that at the end of the show, when they
+all said goodbye to their audience, Krusty did not show traces of the pie
+on his face.  [Maybe he wears teflon make-up?  --rjc]
+
+Mario Dorion (mario@theglove.Canada.Sun.Com) points out that when Bart and
+the Rabbi played chess, the board was not in a correct position, the
+corners on the right side of each player was black instead of white.
+
+Dave Hall {dh} reports:
+
+The shoulder straps on Marge's apron turn into neck straps (which go
+<under> the necklace) when she answers the phone.
+
+Miss Pennycandy had barged in on Krusty's `Sex Chat'.  She also left the
+door open, but during whole scene it's shown to be closed.
+
+The monkey had no tail.
+
+The large green chair (that Lisa fell asleep on) sometimes vanishes.
+
+Throughout the whole dinner scene, glasses seem to move about, or switch
+from either containing liquid to being empty, to disappearing and
+reappearing.  (Even the bottle of wine seems to get magically, and
+conveniently placed next to Krusty too.)
+
+I couldn't see Lisa's legs under the table.
+
+Krusty doesn't have a shirt pocket until he needs one to pull his
+trick handkerchief out of.  Magic!
+
+Did Chryslers have power steering and dynaflow suspension 40 years ago?
+(Krusty says, ``We haven't seen each other in 25 years!'')
+
+[David Moery {dm2} replies:  Chrysler introduced power steering on its
+1951 model year cars.  Dynaflow refers to Buick's automatic transmissions
+of the same era, and does not refer to suspension.]
+
+Krusty came in a car, yet when he left there was no car seen around the
+Simpson house, nor did Krusty take his coat and bag with him.  Next scene
+shows him wearing a raincoat.  (Or did the monkey drive Krusty's car home?)
+
+It's really pouring cats and dogs, yet the sky depicts cumulus clouds,
+something you usually don't see in downpours.
+
+Before Krusty's story, Krusty worn a blue bow-tie, but after the story (for
+a brief moment), it turned green (as well as his hair).
+
+The waitress's necklace seem to have grow slightly larger during one scene.
+Moreover, the waitress that served Bart, Lisa, Krusty, and Rabbi
+Krustofsky wasn't the same waitress that began the Deli scene.
+
+===============================================================================
+> Handy reference guide to the episode
+===============================================================================
+Profuse thanks to Andrew Tannenbaum {trb} for the following information.
+In this section, `I' refers to Mr. Tannenbaum.
+
+>> The blessing
+
+The Hebrew blessing before the meal went as follows:
+
+Baruch atah adonai,             Blessed are you Lord,
+eloheinu, melech ha'olam,       our God, king of the universe,
+hamotzi lechem min ha'aretz     who brings forth bread from the earth.
+
+(The `ch' sound is in `loch ness' not as in `watch.')
+
+This is the standard blessing before a full meal, which in Judaism,
+is one that includes bread.  There are other blessings for particular
+types of food, but if you eat bread at the meal, this blessing covers
+all the food at the meal.  There is a much longer blessing after the
+meal, which wasn't shown.
+
+Krusty goes on to talk about the `bracha', meaning the blessing.
+
+>> A lexicon
+
+nosh.  [Yiddish, rhymes with wash]  snack.
+
+zetz.  [Yiddish]  smack, like when a parent disciplines a child.
+
+yeshiva.  [Hebrew]  Jewish parochial school.
+                           _                        _
+talmud.  [Hebrew, from talmudh `instruction', from lamadh `to learn']
+         the most important Jewish commentary on the bible.
+         The Babylonian Talmud was mentioned; the Jerusalem
+         Talmud also exists.
+
+talmudic.  pertaining to the talmud, or to biblical study.
+
+Oy gevald!  [Yiddish]  for heaven's sake!
+        (literally, ``gevald'' means ``violence'' in Yiddish)
+
+Oy vei is mir.  [Yiddish]  Oh, woe is me.
+
+pisher.  [Yiddish?]  derogatory or belittling term, literally,
+         pisser (one who urinates).
+
+mishegoyim.  [Yiddish?]  crazy people
+
+boychik.  [Russian/Yiddish]  diminutive form of English boy
+
+[Also,
+
+ bris.  Ritual circumcision ceremony.]
+
+>> Other observations
+
+They went to a talmudic conference in the Catskills (that is a resort
+north of New York City, which frequented by Jews in those days).  [Theron
+Stanford {tws} adds that many Jewish entertainers got their start
+performing in the Catskills.]
+
+When the Rabbi first picks up the phone, there are 5 Hebrew letters on the
+wall behind him, but I didn't recognize the word.  [Audrey Rosen {ar}
+thinks it might have been `Shalom'.]
+
+When Bart went into the Rabbi's study the first time, I think the Hebrew
+letters were largely random, but the Rabbi read it, saying, ``mumble
+mumble, rebonno shel olom, yes, yes'' - which means ``mumble mumble,
+master of the universe, yes, yes.''  ``Rebonno shel olom'' is a fairly
+common form of address when Rabbis talk about God.
+
+In the library, when Lisa and Bart are researching, there is a Hebrew book
+lying on its side.  It says ``talmud'' on the spine, which is fine except
+that books of the talmud rarely say that on the spine.  The talmud is made
+up of many books, and the spine usually has the title of the volume.
+
+Some of the names at the end by the chess table:
+
+    Rabbi Hillel
+    Judah the Pious
+    Maimonides
+    The Dead Sea Scrolls
+
+>> Jewish entertainers
+   Yes, Shatner <is> Jewish.  So is Nimoy, but that's not the point.
+   Shatner is reported to have turned down a guest spot.
+
+===============================================================================
+> Comments and other observations
+===============================================================================
+>> Krusty's dressing room door
+
+Bill Baker {wab} reports:  ``Superimposed on the standard star on the
+dressing room door is a likeness of Krusty.  The combination forms a
+six-pointed Star of David.  Man, but do the animators cram this stuff in.''
+
+>> Krusty's illiteracy
+
+Krusty is known to have been illiterate in [7G12], and in [7F09] he held
+Marge's angry letter upside-down.  In this episode, he appears to be
+struggling to read Bart's letter, which shows that at least he's trying to
+learn to read.  He didn't seem to have much difficulty reading `Sex Chat'.
+
+On the other hand...
+
+    - Krusty was first in his yeshiva class.  (Possibly exaggerated.)
+    - Presumably, he passed his bar mitzvah which entails reading
+      from the Torah.
+    - He jotted down something when Bart called him about Izzy's Deli.
+
+Ethan Miller {elm} suggests that perhaps Krusty can read Hebrew but not
+English.  Andrew Tannenbaum {trb} agrees that this is a definite
+possibility, especially since he grew up in a chassidic community.
+
+>> Izzy's Diner
+
+Not only does the Krusty the Klown sandwich consist entirely of pork
+products, it is served with mayo on white bread.  Ethan Miller {elm}
+points out that traditional Jewish deli fare is on rye with mustard
+(corned beef, roast beef, pastrami, etc.).
+
+There is some disagreement as to what was written on the menu.
+
+Andrew Tannenbaum {trb} reads the Hebrew on the menu covers as ``XXX shel
+eed, i.e., Jewish XXX, probably Jewish food or something like that.''
+
+Ethan Miller {elm} reads it as ``XXX shel eer, which would mean
+`<something> of the city'.  I can't really make out the first Hebrew word.
+It looks like `hamazon', which means `food'.''
+
+In private communication, Mr. Tannenbaum explained that the letters `d'
+and `l' in Hebrew look very similar.
+
+Stewart M. Clamen {smc} thought it read ``XXX shel eezee, that is,
+XXX of Izzy, probably some word for deli.''
+
+>> Fifty million Frenchmen can't be wrong
+
+NAGORDON@amherst.edu notes that the sentence has been used to explain
+Jerry Lewis' demigod status in France.  (The phrase began elsewhere, but
+this is certainly the reference that was intended.)  Lawrence Alan
+Schwimmer {las} points out that Jerry Lewis has indeed received the Legion
+of Honor.
+
+>> O Mein Papa
+
+Audrey Rosen {ar} identifies the concluding song as ``Oh Mein Papa'', made
+famous in the '50s by Eddie Fisher.  She also wonders what ever happened
+to Krusty's ``Yiddishe Mama''?  There was a photo of Rabbi K. and his wife
+on the Rabbi's desk, but no mention of the spouse...  [Maybe Joan Rivers
+wasn't available? --rjc]
+
+>> Miscellaneous
+
+Kudos to the director for how Lisa said, ``Oh yeah!  It's all the kids
+talk about on Monday at school.''  The combination of her facial expression
+and hand gestures was hilarious.
+
+Krusty thanks ``Miss Donna Mills (oh, she was a sport).''  This suggests
+that Krusty abused her in some way or other (pie in the face?  seltzer
+squirt?) but she took it with a smile.
+
+===============================================================================
+> Quotes and scene summary
+===============================================================================
+% On the set of the Krusty the Klown Show, Krusty concludes his axe-throwing
+% act (with a hapless Sideshow Mel as the axe-ee).  He then thanks Mel,
+% Corporal Punishment, Gina Ballerina, and (from Knots Landing) Miss Donna
+% Mills.  He concludes with a song, and the second the cameras are off, he
+% becomes depressed.  He cancels all his appointments, including his thank-you
+% dinner with Bart for saving him from a robbery conviction.
+%
+% At home, Maggie sees SLH slurping water out of his water dish and decides
+% to join him.  (Miss) Lois Pennycandy calls to inform Marge that Krusty has
+% cancelled, for the fifth time.  ``Something really important came up at
+% the last minute.''  (We see Krusty scrubbing mildew from his shower.)
+%
+% In Bart's room...
+
+Bart:     Okay, Milhouse, how many Krusty autographs should I put you
+          down for?
+Milhouse: A hundred!
+Bart:     Consider it done.
+-- ``Like Father, Like Clown''
+
+% Singing ``This Could Be the Start of Something Big'', Bart applies generous
+% amounts of Krusty Kologne and comes downstairs dressed sharp, to learn that
+% Krusty isn't coming.  He returns to his room and writes an angry letter.
+
+Dear Krusty:  This is Bart Simpson, Krusty Buddy #16302, respectfully
+returning his badge.  I always suspected that nothing in life mattered.
+Now I know for sure.  Get bent!  -- Bart Simpson
+-- ``Like Father, Like Clown''
+
+% Meanwhile...
+
+Krusty: [dials 1-900-SEX-CHAT]
+Voice:  You've reached the Party Line!  In a moment, you'll be connected to
+        a hot party, with some of the world's most beautiful women!  Now,
+        let's join the party!
+        [five-way split screen, showing five men]
+Krusty: Hello?
+Man 1:  Hello?
+Man 2:  Hello?
+Apu:    Are there any women here?
+Krusty: Hello!?
+Apu:    Are you a beautiful woman?
+Krusty: [angrily] Do I sound like a beautiful woman?
+Apu:    This is not as hot a party as I anticipated.
+-- ``Like Father, Like Clown''
+
+% Lois comes in and shows Krusty the letter Bart sent.  (He has trouble
+% reading it, of course.)  She threatens that if he doesn't go to the dinner,
+% she'll quit.  Krusty gives in.  (``But I sure hate missing Schnapps Night
+% at the Friar's Club.'')
+
+Marge: [gently reminding] Bart, wipe your feet.
+Bart:  Why bother?  They'll just get dirty again.
+-- A different point of view, ``Like Father, Like Clown''
+
+% Marge tells Bart that Krusty is coming to dinner, this time for real.
+
+[a rap at the door in the `Shave and a Haircut' rhythm, with horn honks
+ and Krusty's laugh in place of `Two Bits'.]
+Homer: You think it's him?
+-- Waiting for Krusty, ``Like Father, Like Clown''
+
+% Krusty's loud entrance scares Maggie.  The doorbell rings again.  It's
+% a neatly dressed Milhouse.  (``I was just in the neighborhood...'')
+
+Krusty: [entertaining the family by riding a unicycle while balancing
+         a plant on his nose]
+Bart:   Krusty, you don't have to be `on' tonight.
+Homer:  What are you talking about!  Of course he does!
+Lisa:   No Dad, Krusty is our guest.  Your pratfalls and Punchinello
+        antics aren't necessary here.
+Krusty: Really?
+Bart:   Yeah, just relax and be yourself.
+Krusty: Oh, that's a relief.  [gets down from unicycle, removes plant from
+        nose (revealing that it was attached via suction cup), and releasing a
+        chimp on roller skates]  Go wait in the car.  [the chimp skates away]
+Homer:  Aw, we could have seen the monkey!
+-- To complement the baboon, ``Like Father, Like Clown''
+
+% At the dinner table...
+
+Marge:    Who wants to say Grace?
+Lisa:     Why don't we let our guest do it?
+Milhouse: Bless us O Lord...
+Bart:     [whaps Milhouse]
+Milhouse: Hey!  [rubs his ample nose]
+-- My Dinner with Krusty, ``Like Father, Like Clown''
+
+% Bart invites Krusty to do so...
+
+Krusty: [saying a pre-meal blessing]
+        Baruch atah adonai,
+        eloheinu, melech ha'olam,
+        hamotzi lechem min ha'aretz.
+Homer:  Hee hee hee hee hee!  He's talking funny-talk!
+Lisa:   No Dad, that's Hebrew!  Krusty must be Jewish.
+Homer:  A Jewish entertainer?  Get out of here!
+Lisa:   Dad, there are many prominent Jewish entertainers, including
+        Lauren Bacall, Dinah Shore, William Shatner, and Mel Brooks.
+Homer:  Mel Brooks is Jewish!?!
+-- Who would've known?  ``Like Father, Like Clown''
+
+% Krusty collapses in tears.
+
+Bart:   Krusty, are you all right?
+Krusty: Yes, it's just that saying the bracha brings back a lot of
+        painful memories, the old days, my... my father... [bawls]
+Homer:  Hey, Krusty, you going to finish that meatloaf or what?
+-- ``Like Father, Like Clown''
+
+% [End of Act One:  6:03]
+
+Poor Krusty.  He's like a black velvet painting come to life.
+-- Lisa, ``Like Father, Like Clown''
+
+% The family invite Krusty to tell his story.
+
+My name isn't Krusty the Klown.  It's Herschel Krustofsky.  My father was
+a rabbi.  <His> father was a rabbi.  His father's fath---  Well, you get
+the idea.
+-- Big shoes to fill with small feet (like all good-hearted people),
+   ``Like Father, Like Clown''
+
+% Krusty flashes back to his youth.
+
+Man 1:   Should I finish college?
+Rabbi K: Yes.  No one is poor except he who lacks knowledge.
+Woman:   [babe in arms]  Rabbi, should I have another child?
+Rabbi K: Yes.  Another child would be a blessing on your house.
+Man 2:   Rabbi, should I buy a Chrysler?
+Rabbi K: Eh, couldn't you rephrase that as a, as an ethical question?
+Man 2:   Um...  Is it right to buy a Chrysler?
+Rabbi K: Oh, yes!  [chuckles]  For great is the car with power steering
+         and dynaflow suspension!
+-- It is written... ``Like Father, Like Clown''
+
+% But Hyman Krustofsky forbids his son to be a clown.  The urge was too
+% great, and Herschel got his first big laughs at yeshiva, impersonating
+% his father.  His father was not pleased.
+
+Homer: Boy, you don't have to follow in my footsteps.
+Bart:  Don't worry, I don't even like using the bathroom after you.
+Homer: Why you little! [strangles Bart]
+-- ``Like Father, Like Clown''
+
+% Lisa invites Krusty to continue.  ``My father tried to extinguish the
+% comedy bug, but it was no use.''  The elder Krustofsky catches the younger
+% with a seltzer bottle.  (``Oy gevald!'')  Then Krusty got his big chance,
+% entertaining the Rabbis at a Talmudic conference in the Catskills.  His
+% balloon sculptures of a Star of David and a Menorah are met with applause.
+
+Rabbi K: You know that my son Herschel was first in his yeshiva class?
+         As a matter of fact, he was voted `The most likely to hear God'.
+Rabbi 2: Oh, go on, Hyman, you're exaggerating again, you're so proud of
+         your son.
+Rabbi K: A rabbi would never exaggerate!  A rabbi composes.  He creates
+         thoughts.  He tells stories that may never have happened.
+         But he does not exaggerate!
+-- ``Like Father, Like Clown''
+
+% But when a ``rowdy rabbi'' sprays Krusty with seltzer, his clown make-up
+% runs and he is exposed for who he really is.
+
+Oy vey's mir!  You have brought shame on our family!
+Oh, if you were a musician or a jazz singer, this I could forgive.
+-- Rabbi Krustofsky to his son the clown, ``Like Father, Like Clown''
+
+% And he hasn't seen his father since.
+
+Bart:   Krusty, do you think about your father a lot?
+Krusty: All the time.  Except when I'm at the track.  Then it's all business.
+-- Keeping those emotions in check, ``Like Father, Like Clown''
+
+% It's almost midnight, Lisa has fallen asleep in an armchair, and Marge
+% sleepily turns off the lights, as Homer, Bart, and Milhouse drowsily
+% watch Krusty leaf excitedly through a family photo album.
+
+Krusty:   So, uh, Milhouse, know any knock-knock jokes?
+Milhouse: [crying] I want to go home!
+-- The clown who came to dinner, ``Like Father, Like Clown''
+
+% Homer take Milhouse home, as Krusty excitedly discovers, ``Wow!  The
+% concert for Bangladesh!'' and pops in the videotape.  Krusty finally
+% bids the family good-bye, then asks, ``Hey, did I leave my keys inside?''
+% Lisa and Bart immediately yell, ``No!!''  As Krusty walks away, it starts
+% to rain.  He passes a porno movie house and watches a coin-op television
+% at the bus depot.
+
+Announcer:  Academy Award Playhouse now returns you to...
+            Hercules vs. the Martians!
+Martian:    Welcome to our spaceship, mighty Hercules.  Hahahaha.
+-- ``Like Father, Like Clown''
+
+% Krusty then decides to call his father.
+
+Rabbi K: [answering the phone]  Hello.  Hello?  Anybody there?
+    What's this, I hear the phone ring, and suddenly there's nothing.
+    I'm listening and there's no talking.  Hello, mister, who are you?
+    Why would they call if they don't want to talk to you? [hangs up]
+-- ``Like Father, Like Clown''
+
+% After an Itchy and Scratchy cartoon with a father-and-son theme...
+
+Didn't Itchy Junior look happy playing with his father?  And didn't Scratchy
+Junior look happy playing with his dad until they got run over by a thresher?
+-- Krusty asks the kids, ``Like Father, Like Clown''
+
+% Krusty breaks down on camera.
+
+A man who envies our family is a man who needs help.
+-- Lisa Simpson on Krusty the Klown, ``Like Father, Like Clown''
+
+% Bart and Lisa pay a visit to Reverend Lovejoy...
+
+Bart:  Reverend Lovejoy, we need you to help us find a rabbi.
+Rev.L: [flustered] Well, um, before you make any rash decisions, let me
+       just remind you that the church is changing to meet the needs
+       of today's young Christians!
+-- Church Chat, ``Like Father, Like Clown''
+
+Lisa:  We just want to find a Rabbi Krustofsky.
+Rev.L: Rabbi Krustofsky?  Well, I do a radio call-in show with him every
+       Sunday night!
+Bart:  Really?
+Lisa:  I didn't know that.
+Rev.L: Gee, uh, I mention it in my sermon every week.
+Bart:  [false realization]  Oh, oh, <that> radio show!
+Lisa:  [playing along]  Oh yeah!  It's all the kids talk about on Monday at
+       school.
+-- Church Chat, ``Like Father, Like Clown''
+
+% Rev. Lovejoy gives the kids a `Gabbing about God' T-shirt.
+
+Bart:  Can you give us the rabbi's address?
+Rev.L: Oh, sure thing.  Let me just check my non-Christian rolodex...
+-- ``Like Father, Like Clown''
+
+% The kids pay him a visit.
+
+Lisa:    Excuse us, Rabbi Krustofsky?
+Rabbi K: Oh, what can I do for you, my young friend?
+Bart:    We came to talk to you about your son.
+Rabbi K: I have no son!  [slams the door]
+Bart:    Oh great, we came all this way and it's the wrong guy.
+Rabbi K: [opens the door]  I didn't mean that literally!  [slams the door]
+-- ``Like Father, Like Clown''
+
+% [End of Act Two.  Time:  13:09]
+%
+% At KBBL studios...
+
+And, in order to keep our broadcasting licence, we devote Sunday night
+dead time to public service shows of limited appeal.
+-- It's funny 'cause it's true, ``Like Father, Like Clown''
+
+Gabbin' about God, sponsored by Ace Religious Supply, where they say,
+``If we don't got it, it ain't holy.''
+-- Or kosher, as appropriate, ``Like Father, Like Clown''
+
+% The announcer introduces Rev. Lovejoy, Msgr. Kenneth Daly, and Rabbi
+% Krustofsky.
+
+Announcer: And our first caller is from Shelbyville Heights.
+Caller:    Yes, hi.  With all the suffering and injustice in the world,
+           do you ever wonder if God really exists?
+Rev. L:    No.
+Msgr. D:   [Irish accent] Not for a second.
+Rabbi K:   Not at all.
+Announcer: Great, good conversation there.  Our next call...
+-- Gabbing about God, ``Like Father, Like Clown''
+
+% The next call is for Rabbi Krustofsky.
+
+Rabbi K: Hello?  Anybody there?  I hear breathing but I don't hear talking.
+         What's going on here?  Hello, mister?  Hello, hello?
+Krusty:  [sighs, hangs up]
+Rabbi K: Some people got nothing to do but call people and hang up.
+         There's all kinds of mishegoyim in the world.
+-- Gabbing about God, ``Like Father, Like Clown''
+
+% The next caller is Bart.
+
+Bart:      Hello, my name's Dmitri.  I'm a first-time caller, long-time
+           listener.  My question is, if a son defies his father and chooses
+           a career that makes millions of children happy, shouldn't the
+           father forgive the son?
+Rev. L:    I think so.
+Msgr. D:   Yes, of course.
+Rabbi K:   No way!  Absolutely not!  Never, never!  Who screens these calls?
+           Who's in charge here?  There's nobody in charge?  They leave
+           a building without people watching it, and anybody who wants can...
+-- Gabbing about God, ``Like Father, Like Clown''
+
+% Bart puts into action ``a plan that can't fail''.  He goes to Yiddle's
+% and gets a fake beard, moustache, and eyebrows.  In the park, Rabbi
+% Krustofsky is engaged in a discussion, and Bart pokes his head in,
+% suggesting he forgive his son.  Rabbi Krustofsky tells him, ``Get out of
+% here, you little pisher.''  At home...
+
+Bart: Oy!  This guy's tough.
+Lisa: Bart, we're going to have to outsmart him.
+Bart: I dunno, he's pretty sharp.  He saw right through this disguise.
+-- ``Like Father, Like Clown''
+
+Rabbi K: [answers phone]  What?  Saul Bellow?  The Nobel-prize-winning
+         Jewish novelist?  He wants to have lunch with me?
+         Ha ha!  It's a date!  Izzy's Deli, one o'clock, I'll be there!
+Krusty:  [on the phone]  The French government wants to give <me>
+         the Legion of Honor?  Where do I receive this prestigious
+         award?  [writes]  Izzy's Deli.  One o'clock.  [puts pencil
+         down]  Thank you, Monsieur President!
+Bart:    [holding his nose]  Au revoir!
+-- Heeding the call, or, Many are called... ``Like Father, Like Clown''
+
+% Bart and Lisa observe from a nearby booth.
+
+Waitress: And for you, sir?
+Rabbi K:  Ah, let's see.  I want a nice sandwich.  But the Joey Bishop,
+          eh, too fatty.  the Jackie Mason?  I dunno, sauerkraut makes me
+          gas.  Bruce Willis?  I don't even like his work!  What is this?
+          Krusty the Klown?
+Waitress: That's ham, sausage, and bacon, with a smidge of mayo.
+Rabbi K:  What!?
+Waitress: On white bread.
+-- Izzy's Deli, ``Like Father, Like Clown''
+
+% Rabbi Krustofsky storms off in disgust before Krusty arrives.
+
+Krusty:   [humming the Marseillaise]  Um, could you direct me to
+          President Francois Mitterand's table?
+Waitress: You think you're funny?
+Krusty:   Fifty million Frenchmen can't be wrong!
+-- You wanna bet?  ``Like Father, Like Clown''
+
+Lisa: Bart, we've been going about this all wrong.  What's the one thing
+      rabbis prize above everything else?
+Bart: Those stupid hats?
+-- ``Like Father, Like Clown''
+
+% But Lisa meant Knowledge.
+
+We're going to hit him where it hurts.  Right in the Judaica.
+-- Lisa Simpson on Rabbi Krustofsky, ``Like Father, Like Clown''
+
+% They pay a visit to the Old Springfield Library...
+
+Agugugug.  Glug glug glug.  `Oh, Noah, Noah!  Save us!  Save us!'  `No!'
+-- Bart plays with a biblical pop-up book, ``Like Father, Like Clown''
+
+% Lisa hands Bart a slip of paper, and
+% Bart quotes the Babylonian Talmud, but the rabbi counters with the
+% fifth commandment.  Back at the library, Lisa has come up with
+% ``some dynamite stuff from Rabbi Simon ben Eliezer.''  She and Bart
+% exchange high-fives.  Bart visits Rabbi Krustofsky in the sauna...
+
+Bart:    At all times, let a man be supple as a reed and not rigid
+         as a cedar.
+Others:  Ah, mm.  [general murmers of appreciation]
+Rabbi K: But, my short learned friend, the book of Joshua says, ``You
+         shall medidate on the torah all day and all night.''
+Others:  Ah, mm.  [general murmers of appreciation]
+Man:     All night?
+-- Dueling scriptures, ``Like Father, Like Clown''
+
+% Lisa has fallen asleep at the library, and Bart finds a slip of
+% paper tucked under her arm.  He visits the rabbi once again, this
+% time, while he's performing a bris.  One last visit to the library...
+
+Lisa: [tired]  Here you go, Bart.  It's a longshot, but that's all
+      I can do without learning ancient Hebrew.
+Bart: [stares at her]
+Lisa: Bart!  I am <not> going to learn ancient Hebrew!!
+-- But you already know pig Latin, how much different can it be?
+   ``Like Father, Like Clown''
+
+% In the park, as Bart and Rabbi Krustofsky play chess, Bart plays
+% his final card, and the rabbi is impressed.  The quote is by
+% Sammy Davis, Jr., an entertainer.  (``The Candy Man?'')  The rabbi
+% is won over.
+%
+% Krusty does his show without enthusiasm.  While an I&S cartoon runs,
+% Krusty relaxes with a cigarette, and his father comes in.  The two
+% are reunited, and Krusty makes the tender announcement on his show,
+% and he and his father sing a song together.
+
+Moe:    [moved to tears]  I got something in my eye...
+Barney: Here, take my hankie.
+Moe:    [sees Barney's filthy handkerchief]  Agh!
+-- It's the thought that counts, ``Like Father, Like Clown''
+
+% At the conclusion of the song, Bart hands Rabbi Krustofsky a cream pie,
+% and he throws it in Krusty's face.  (No longer just for noshing.)
+% They embrace, and there are laughs all around.
+%
+% [End of Act Three.  Time:  20:37]
+===============================================================================
+Episode summaries Copyright 1991 by Raymond Chen.  Not to be redistributed
+in a public forum without permission.  (The quotes themselves, of course,
+remain the property of The Simpsons, and the reproduced articles remain
+the property of the original authors.  I'm just taking credit for the
+compilation.)
+</PRE>

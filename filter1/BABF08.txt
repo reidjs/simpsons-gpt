@@ -1,0 +1,567 @@
+% The city of Springfield celebrates excellence within its ranks with
+% the Springfield Pride Awards.  The event has drawn most of the town 
+% to the Civic Arena.  Tonight's emcees are local news anchor Kent
+% Brockman, and pop singer Britney Spears.  Judging by audience
+% applause, Britney's the one who has captured the crowd's enthusiasm.
+%
+% Homer is confident that this is his year.  Marge is more doubtful,
+% recalling the pre-award buzz about Lenny.
+
+Kent:		Our first Springfield Pride Award goes to a local 
+		legend.  A man who brings laughter and joy to the 
+		children of Springfield.
+Homer:		[gasps in anticipation]
+Britney:	With his big red nose and his baggy pants ...
+		[Homer stands up]
+Kent:		... Krusty the Clown!
+Krusty:		[gets up, blocking our view of Homer] Hey, hey!
+Homer:		What?!
+		[tries to sit back down, but a young man in a tuxedo 
+		already occupies his seat]
+		Who are you?
+Man:		Seat filler.
+		[dejected, Homer sits down in the aisle.  The seat 
+		filler puts his arm around Marge]
+-- "The Mansion Family"
+
+% As the night wears on, everyone in the auditorium has collected an
+% award.  That is, everyone except Homer.
+
+Homer:	Everyone gets an award but me.
+Marge:	I can't help it if I donated the most blood.  Ohh, but I'm 
+	feeling kind of woozy.
+	[passes out.  Homer reaches for her award, but she rouses 
+	herself in time to slap away his hand]
+Homer:	Oh, why won't anyone give me an award?
+Lisa:	You won a Grammy.
+Homer:	I mean an award that's worth winning.
+	["award show"-style music plays while a disclaimer scrolls 
+	by on the screen, reading, "LEGAL DISCLAIMER:  Mr. 
+	Simpson's opinions does not reflect those of the 
+	producers, who don't consider the Grammy an award at 
+	all."]
+-- With that attitude, you'll never win one, "The Mansion Family"
+
+% The awards continue.
+
+Britney:	You know, Kent, in today's youth-obsessed culture, 
+		we sometimes forget that older people are still 
+		alive.
+		[cut to Abe, who is arguing with the seat-filler]
+Abe:		I told ya!
+Man:		[not too apologetic] Well, Sor-ry!  [leaves]
+		[back to Britney and Kent]
+Kent:		And that's why our final award honors a man who's 
+		lived in Springfield for 108 years -- our oldest 
+		resident, Cornelius Chapman.
+		[applause.  A film showing highlights of Mr. 
+		Chapman's life begins to play]
+Britney:	Cornelius Chapman built the first log cabin in 
+		Springfield, and introduced the toothbrush to our 
+		fair city.  [the film shows residents of the town 
+		pondering this new invention, and then using it.  
+		They smile widely]
+Kent:		For years, he was Springfield's only basketball 
+		player, but he still managed to entertain the crowd.  
+		[Chapman dribbles the ball, and tries a pass, but 
+		there's no one there to catch it]
+Britney:	In the market crash of 1929, he helped people jump 
+		out of windows to avoid disgrace.
+		[the film shows Chapman doing just that]
+Chapman:	[on film] You're doing the right thing.  Oh, oh, out 
+		you go!  [a heavyset man appears at the window] My, 
+		you're a big one.  No, no, no ... no turning back 
+		now.  [the heavyset man jumps]
+		[cut to the audience]
+Moe:		Off a tall building -- that's a great way to do it!
+		[back to the stage]
+Kent:		And in 1935, our honoree took a bullet for Huey 
+		Long.
+		[in the film, Chapman dives in front of a bullet 
+		meant for Mr. Long.  Unfortunately, several other 
+		bullets have already struck Long]
+-- It's the thought that counts, "The Mansion Family"
+
+% Britney calls the "totally venerable" Chapman onstage.  He takes his
+% award statue, and Britney kisses him on the cheek.  Chapman
+% immediately clutches his chest, and dies.  Oops.  Nudging Chapman's
+% body out of the way with his foot, Kent tries to figure out to whom
+% the award should go.  He has those over 60 stand up.  Then, over 70,
+% 80, 90, and finally 100.  Homer and Burns are the last two standing. 
+% Marge tells the thirtysomething Homer to sit down, leaving Burns as
+% Springfield's oldest living resident.
+%
+% Burns walks onstage.
+
+Burns:	Gosh, this is all so sudden.  [Britney goes to plant a 
+	kiss on him, but Burns jumps aside]  Don't give me the 
+	kiss of death, you black widow!
+Kent:	[pries the award from Mr. Chapman's hands] Boy, he didn't 
+	want to let go of that.  [the audience laughs.  Kent hands 
+	the award to Burns]
+Burns:	See I, I, don't have a speech prepared but, uh, abra-
+	cadaver!  [reaches into Chapman's coat pocket-and pulls 
+	out a three-page speech]
+	[reading from the speech] Thank you all so much.  I love 
+	Springfield from cuddliest infant ... [grimaces and rifles 
+	through the rest of the speech] puppies, patriotism, 
+	bluebirds -- pffft!  I'm not reading this drivel.  [tosses 
+	the speech aside] This speech is over.  [takes his award 
+	and walks off to a smattering of applause]
+-- "The Mansion Family"
+
+% The awards have all been given out, but Homer is determined to walk
+% away with *something.*  He leaves the show dragging a giant award
+% that was once part of the set.
+%
+% The next day, Burns muses on his advancing years.
+
+Burns:		Now that I'm the town's oldest man, I'm starting to 
+		realize I'm not a young man anymore.  I'll have to 
+		start taking better care of myself.  You know, I 
+		haven't had a medicino check-up in ages.
+Smithers:	Sir, you deserve the finest doctors in the world.  
+		I'm taking you to the Mayo Clinic in Minnesota.
+Burns:		Very well, but I'll need someone to watch my house.  
+		Who's that fellow who always screws up and creates 
+		havoc?
+Smithers:	Homer Simpson, sir?  [points Simpson out on the 
+		video monitors.  True to his reputation, he takes a 
+		saw to his safety console]
+Burns:		Yes!  The way I see it, he's due for a good 
+		performance!
+-- And pigs are due to start flying, "The Mansion Family"
+
+% As Burns gets ready to leave for Minnesota, he instructs Marge to
+% call the fire department if the house catches fire.  "They're new,
+% but they're good," he testifies.  Marge assures Burns and Smithers
+% that the family will take good care of Burns' mansion.
+%
+% Inside, Homer, wearing a smoking jacket and top hat, slides down the
+% banister.  Unable to stop at the end, he zooms off and smacks
+% straight into a painting on the wall, lodging himself inside the
+% frame.  Just then, Smithers pops back inside to get something he
+% forgot.  Homer laughs sheepishly and gives him the thumbs-up.
+%
+% [End of Act One.  Time:  5:17]
+%
+% Marge marvels at Burns' master bedroom, which is the size of the
+% Simpsons' entire house.  Homer demonstrates the auto-bed-making
+% mechanism, which drops the old bed under the floor to be
+% incinerated, while a new, identical bed falls from the ceiling. 
+% "Wasteful *and* practical," he declares.
+%
+% Next, Homer tries out the mechanical dressing dealy, but it's
+% evidently not adjusted for someone of his size.  After several
+% seconds of painful-sounding gear noises, Homer emerges, a little 
+% worse for the wear but ready to hit the town.
+%
+% Meanwhile, Bart sneaks down the hallway, looking behind the
+% paintings on the wall as he goes.  Finally, he finds the wall-safe
+% hidden behind one of the paintings.  Cracking the safe with the ease
+% one doesn't see in the average ten-year-old nowadays, he opens the
+% door, revealing a guard in a Beefeater-type costume.  The guard
+% tells the startled boy to close the door, and Bart quickly does so.
+%
+% Lisa (with Maggie in her arms) checks out Burns' comprehensive
+% collection of Nancy Drew books.  He even has the controversial "Clue
+% in the Clock."  She picks the book off the shelf and flips through
+% it.  "So many swears," Lisa muses to herself.
+%
+% Bart races a golf cart through the hall.
+
+Bart:	[knocking over a table] I'm Al Unser, Jr.!
+Lisa:	[following Bart on horseback, and jumping over the table]
+	I'm Princess Margaret!
+Homer:	[following Lisa on a riding mower] I'm drunk!
+	[mows the table into little bits]
+-- "The Mansion Family"
+
+% Blissfully unaware of what's going on back home, Burns and Smithers
+% sit in the waiting room of the Mayo Clinic.  A doctor and the Pope
+% walk through the door.
+
+Doctor:	It's nothing serious; just lay off the chili and you 
+	should be fine.
+Castro:	[sitting nearby, snickers]
+Pope:	Don't you laugh, Fidel.  I've been in the car with you.
+	[pan to Burns, who is filling out the admissions form]
+Burns:	Let's see, social security number ... naught, naught, 
+	naught ... naught, naught ... naught, naught, naught, two.  
+	Damn Roosevelt.  [continuing to read] Cause of parents' 
+	death ... got in my way.
+-- Something hereditary, no doubt, "The Mansion Family"
+
+% The family sits down to a simple dinner, served on a banquet table
+% that can seat at least fifty people.
+
+Lisa:	Mom!  Bart's making faces at me!  [looks through a pair of 
+	opera glasses, but Bart is still a tiny figure in the 
+	distance]  I think.
+Homer:	Look how loud I have to yell!
+Marge:	[looks at her place setting] This all seems a little 
+	elaborate for sloppy joes.  Hmm, I know what the other 
+	eleven forks are for, but what do you do with this one.  
+	[holds up a long, thin fork]
+Homer:	[mock-sophisticate accent] Why, Marge, I believe you're 
+	supposed to scratch your ass with it.
+Marge:	Homer, watch your lang-- [tries the fork in the suggested 
+	manner] Ohh, that's a life-saver.
+-- Modern manners, "The Mansion Family"
+
+% After dinner, the family retires to the drawing room.  Bart tries to
+% smoke a cigar, but Marge snatches it away, telling him cigars are
+% only for rich people and comedy legends.  Homer pours a glass of
+% brandy and swirls it, spilling much of the glass' contents.  Marge
+% accuses Homer of jimmying open Burns' liquor cabinet, which he
+% deflects by saying "jimmy" is such an ugly word -- "unless you're
+% talking about Jimmy Smits."
+%
+% Lisa tries to be the voice of reason.
+
+Lisa:	But house-sitting is a sacred -- [she's splashed by some 
+	errant brandy] Hey!
+Marge:	Stop swirling, Homer!
+Homer:	Listen, I worked long and hard for this place, and no 
+	one's going to take it away from me.  Not you, not its 
+	rightful owner, not anybody.  [gulps down the brandy] And 
+	another thing, if I have ...
+	[passes out, dropping the brandy glass.  It rolls until it 
+	bumps Homer's head, making a pleasant clinking sound]
+-- "The Mansion Family"
+
+% Next morning, Homer makes a few phone calls from the sauna.
+
+Homer:	Operator, get me Thailand.  T, I ... and so on.
+Marge:	[walking in] Homer, who are you calling?
+Homer:	Everybody!  I found Burnsie's address book.  I called the 
+	New York Yankees and told them to bunt, then I called the 
+	Queen of England and asked her how it was going!  And then 
+	I --
+Marge:	[interrupting] Well, don't run up Mr. Burns' phone bill.
+Homer:	Just a second, Marge.  [on phone] Hello, Thailand?  How's 
+	everything on your end?  Uh, huh.  That's some language 
+	you got there.  And you talk like that 24/7, huh?
+	[Marge takes the phone from him and hangs it up]
+	Hey!
+Marge:	Homer, you've got to stop pretending this is your house.  
+	You're not a billionaire.
+Homer:	Jeez, way to burst my bubble, Marge.
+Marge:	All I'm saying is don't get too comfortable.  Mr. Burns 
+	will be back tomorrow.
+Homer:	Marge, you're right.  We *do* have to have a party.
+Marge:	Party!?  No!  No parties!
+Homer:	What about par-tay?
+Marge:	No part-tays, no shindigs, no keggers, no hootenannies, no 
+	mixers, no raves, no box socials.
+Homer:	Damn!  And I looked so good on that bike!  [looks at a box 
+	social invitation, which has a picture of him on an old-
+	fashioned bicycle.  Marge takes it from him]
+-- Box social pooper, "The Mansion Family"
+
+% At the Mayo Clinic, Burns asks the doctor to test him for
+% everything, gesturing to a chart entitled, "Diseases You Can Have."  
+% The doctor starts by trying to draw a blood sample, but the
+% syringe's needle pokes clean through Burns' arm.  Burns offers his
+% other arm, since he saw some blood there the other day.
+%
+% Next, Burns is tested on a breath-endurance machines.  It's one of
+% those contraptions where the patient blows into a tube of liquid to
+% keep a ping-pong ball aloft.  After blowing for a few seconds,
+% Burns' face is sucked twelve centimeters into the machine.  The
+% nurse on duty deems this a good result.
+%
+% Burns is a bit too old for the stair-climber test, so the clinic
+% uses an escalator test instead.  Burns rides up a short (perhaps two
+% feet high) escalator, than takes a down-escalator back to where he
+% started.
+%
+% Finally, Burns is put through a CAT-scan machine.  Unfortunately,
+% his body jams in the mechanism, and a technician is called in to
+% free him.
+%
+% While Burns is extricated from the scanner, Homer drives one of the
+% old man's cars to Moe's Tavern.
+
+Homer:	Having a party, Moe.  I'll need four kegs of your finest 
+	imported-sounding beer.
+Moe:	How 'bout Tuborg -- the beer of Danish kings.
+Homer:	Mmmm ... danish.
+Moe:	Now you know I can't sell you no beer until 2 p.m. on 
+	account of it's Sunday.
+Homer:	Huh?  If you can't sell beer what are Lenny and Carl doing 
+	here?
+Carl:	Huh?  Oh, we're just watching the sun move across the sky.
+	[points to a sunbeam shining through the door window onto 
+	the tavern floor.  A line labeled "Drinking Time" is 
+	inscribed on the floor]
+Lenny:	When it gets to here, [indicates the line] we can drink 
+	again.
+Homer:	But I need that beer now!
+Moe:	Sorry, 2 p.m.  Or you can steal a boat and sail out to 
+	international waters, heh.
+Homer:	What's that, a theme park?
+Moe:	No, the ocean.  Once you get twelve miles out, there's no 
+	laws at all.  That's where they held the Tyson-Secretariat 
+	fight.  [indicates a souvenir poster from that bout]
+Homer:	[laughs] They were so drunk.  Gentlemen, get off your 
+	knees.  Your rich uncle Homer is throwing the wildest box 
+	social the high seas have ever seen!  [leaves]
+	[opens door and pokes head back in]
+	And you're invited.
+	[bar patrons cheer]
+-- Oh, *now* you say so, "The Mansion Family"
+
+% Marge somehow gets wind of the plan and tries to stop Homer and his
+% party posse from boarding the yacht.  Homer says it's now or never
+% for the party, since he may never be rich for real.  Marge starts to
+% say something doubtlessly touching about how she'll always love her
+% husband, but she's interrupted when Lenny announces he found another
+% way onto the boat.  The partygoers stream up the gangplank, leaving
+% Marge alone on the dock.
+%
+% [End of Act Two.  Time:  11:39]
+%
+% Cap'n Homer gives the command to set sail.  Lisa tries to reassure
+% her mother, but Marge can't help but notice that the boat is leaving
+% the dock sideways.  A well-placed jetty knocks the vessel into the
+% proper orientation, and the party boat is on its way.
+
+Carl:	Homer, have we hit international waters yet?  Because, eh, 
+	things are gettin' real ugly.
+	[cut to Moe, who stands in front of a keg of beer, holding 
+	off the advancing crowd with a bullwhip]
+Moe:	I can't sell you beer until we cross the line!
+Barney:	Legally, you can give us free beer.
+	[Moe whips him] Ow!
+-- Or maybe not, "The Mansion Family"
+
+% Lenny asks Moe for some rubbing alcohol, and Moe tosses him a
+% bottle.  When he tries to drink it, Moe whips the bottle out of his
+% hands.
+%
+% Finally, the yacht crosses the line.
+
+We made it son.  International waters -- the land that law forgot!
+-- Homer Simpson, "The Mansion Family"
+
+% Homer is not the only one taking advantage of the high sea's lax
+% legal standards.  On one yacht, a bevy of bikini-clad women dance to
+% the latest tunes.  Cowboys on another vessel brawl like they were in
+% a wild, wild Western movie.  On another boat, a live bullfight takes
+% place.  Bart is impressed.
+
+Bart:	Wow, you can do anything out here!
+Homer:	That's right.  See that ship over there?  [points to a 
+	ship with a large satellite dish on it] They're re-
+	broadcasting Major League Baseball with implied oral 
+	consent, not express written consent -- or so the legend 
+	goes.
+-- "The Mansion Family"
+
+% On yet another ship, Cap'n McAllister marries a man and a cow. 
+% After the cow breaks the ritual wedding glass (hey, at least the
+% man's marrying a kosher animal), the Cap'n presents the wedded
+% couple with a basket of illegal fireworks.
+%
+% Back on Burns' yacht, Homer exults, "There are no laws!  We can do
+% anything we want -- anything!"  Lenny kicks him in the shins, and
+% Homer berates his lack of maturity.  (Lenny's, that is, not Homer's
+% own.)
+%
+% At the Mayo Clinic, Burns receives the results of his tests.
+
+Burns:	Well, doc, I think I did pretty well on my tests.  You may 
+	shake my hand if you like.
+Doctor:	Well, under the circumstances, I'd rather not.
+Burns:	Eh?
+Doctor:	Mr. Burns, I'm afraid you are the sickest man in the 
+	United States.  You have everything.
+Burns:	You mean I have pneumonia?
+Doctor:	Yes.
+Burns:	Juvenile diabetes?
+Doctor:	Yes.
+Burns:	Hysterical pregnancy?
+Doctor:	Uh, a little bit, yes.  You also have several diseases 
+	that have just been discovered -- in you.
+Burns:	I see.  You sure you haven't just made thousands of 
+	mistakes?
+Doctor:	Uh, no, no, I'm afraid not.
+Burns:	This sounds like bad news.
+Doctor:	Well, you'd think so, but all of your diseases are in 
+	perfect balance.  Uh, if you have a moment, I can explain.
+Burns:	Well ... [looks at his watch]
+	[the Doctor puts a tiny model house door on his desk]
+Doctor:	Here's the door to your body, see?  [bring up some small 
+	fuzz balls with goofy faces and limbs from under the desk]  
+	And these are oversized novelty germs.  [points to a 
+	different one up as he names each disease] That's 
+	influenza, that's bronchitis, [holds up one] and this cute 
+	little cuddle-bug is pancreatic cancer.  Here's what 
+	happens when they all try to get through the door at once.  
+	[tries to cram a bunch through the model door.  The 
+	"germs" get stuck]
+	[Stooge-like] Woo-woo-woo-woo-woo-woo-woo!  Move it, 
+	chowderhead!
+	[normal voice] We call it, "Three Stooges Syndrome."
+Burns:	So what you're saying is, I'm indestructible!
+Doctor:	Oh, no, no, in fact, even slight breeze could --
+Burns:	Indestructible.
+-- Diagnosis:  Indestructible, "The Mansion Family"
+
+% Marge and Lisa busily clean the house, upholding the sacred bond to
+% keep the place exactly as Burns left it.  They even scrub down a
+% laboratory, even though the family was never in there.  Several jars
+% in the lab contain homunculi that resemble Burns and Smithers. 
+% Unfazed, Marge cleans a spot of dirt from one of the jars.
+%
+% The party rolls on full blast in international waters.  Homer
+% considers the lives of those back on land, smugly noting they are
+% unaware of "the simple joys of a monkey knife fight."  (One of which
+% is taking place on the yacht at that very moment.)
+%
+% Bart teases a Coast Guard cutter holding position just inside United
+% States national waters.
+
+Bart:	[through a bullhorn] Hey, Coast Guard!  Try to stop us 
+	now, you lousy Americans.
+Coast
+ Guard:	[through a loudspeaker] We can't hear you!  Come three 
+	hundred feet closer!
+Bart:	Nice try.  You're not going to nail us.
+Coast
+ Guard:	But we just want to party.
+Bart:	Oh, really?  Then play some rock music.
+	[Man on cutter mimics the guitar riff from "China Grove"]
+Homer:	[joins in] Come on, Bart!  The Coast Guard's covering the 
+Doobs!
+	[Bart and Homer continue mimicking the music, and start 
+	dancing] Who's the greatest millionaire in the world?  
+	[the other guests join in]
+Crowd:	You are!
+-- Party on, Homer, "The Mansion Family"
+
+% Homer's bash soon draws unwanted attention from pirates.  Peering 
+through a spyglass, he sees the party on Burns' boat.
+
+Mate:		[collapsing the spyglass] Looks like another 
+		homosexual party boat.  They always have such nice 
+		things.
+Captain:	Perhaps we should pay them a visit.
+Mate:		A deadly visit?
+Captain:	Well, let's play it by ear.
+-- "The Mansion Family"
+
+% Unaware of the danger, Homer keeps dancing on the deck of the yacht. 
+% He momentarily dances away from the crowd, and then back toward
+% them.  In this brief span of time, his party guests are replaced by
+% the menacing pirates.  Homer tries his away-and-back move once more,
+% but the pirates are still there.
+%
+% Homer asks the captain if they are friendly pirates; needless to
+% say, they are not.  Underscoring this point, Homer's guests are
+% trapped in a net suspended ten or twenty feet above the deck.  The
+% pirates probe the net with sticks, releasing coins, wallets, and
+% Moe's bus pass.
+%
+% The captain sets a course for "Hidden Pirate Island," which is also
+% called "Hong Kong."  Homer desperately calls the Coast Guard for
+% assistance.
+
+Homer:	Help!  Pirates!
+Coast
+ Guard:	Navy SEALs are on the way.
+Homer:	Oh, bless you.
+Coast
+ Guard:	How about a tactical nuclear strike?
+Homer:	Oh, that would be just ... [realizes] oh, you're just 
+	yanking my chain, aren't you?
+Coast
+ Guard:	Perhaps this foghorn will answer your question.  [foghorn 
+	makes the "mwah-mwaaaah" sound]
+-- "The Mansion Family"
+
+% The pirates order Homer into the net.  He refuses and fights the
+% captain, knocking off all four of the parrots riding the pirate's
+% shoulders.  Grabbing a knife from one of the fighting monkeys in one
+% hand, Homer climbs a ladder and reaches for a rope.  He tries to
+% swing down to the weather deck, but rope burns make him lose his
+% grip.  He crashes on the deck and suddenly gets charley horse. 
+% Clasping the knife in his mouth, he massages his calf.  The knife
+% cuts his lips, and when Homer lets go of it, it sticks in his left
+% hand.  Surrounded, Homer concedes defeat, and winds up in the net
+% with the other guests.
+%
+% The pirates have moved the net, so that it is now suspended over the
+% ocean.
+
+Lenny:		Some party, Homer.
+Homer:		Shut up, Net Face.
+Lenny:		Hey, you're in the net, too.
+Homer:		I said, shut up, Net Face!
+Moe:		Aw, we're going to die and I never tasted 
+		cantaloupe.
+Krusty:		Eh, you didn't miss much.  Honeydew is the money 
+		melon.
+Captain:	And now, we will cut you loose.  For liability 
+		purposes, it is he ocean that will kill you, not us.
+-- Ferocious *and* legally savvy, "The Mansion Family"
+
+% The net falls into the sea, and then bobs on the surface.
+
+Moe:	Hey, whaddaya know?  It floats!
+Homer:	That was my plan all along.  Now, relax and the currents 
+	will take us home.
+Bart:	What about the people on the bottom?
+Homer:	They're the greatest heroes of all.  Hey!  Something's 
+	clawing at my leg!  [pause] Okay, it stopped.
+-- "The Mansion Family"
+
+% Thanks to Marge and Lisa, Burns manor's 137 rooms are spic-and-span. 
+% Just in time, too, for Burns and Smithers walk up the front steps.
+
+Burns:		Smithers old chum, there's nothing like coming home 
+		with a clean bill of health.  Oh, and sorry about 
+		your news.
+Smithers:	Thank you, sir.
+Burns:		Do they know how many eggs it laid in your brain?
+Smithers:	I prefer not to know.  Frankly, one is too many.
+-- "The Mansion Family"
+
+% Burns takes a quick inventory.  Although the mansion has the "foul
+% stench of youth," Burns is glad to see that the Ming vase on the
+% narrow column wasn't knocked over, and that no one has fed his rare
+% coins into the nearby vending machine.  Homer rushes in, and breaks
+% the news about the yacht.  Burns takes it in stride.
+%
+% The losing monkey from the knife fight stumbles in.  Burns cradles
+% him in his arms, and tells Smithers, "This monkey's going to need
+% most of your skin."
+%
+% The Simpsons return to their original home.
+
+Lisa:	Ah, it's good to be home.
+Homer:	I don't know; after living like a billionaire, this place 
+	is kind of a dump.
+Bart:	Nah, it's not so bad.  Here, we can spit on the floor.  
+	[does so]
+Marge:	Bart, stop that!  [to Homer] Now, we may not have antique 
+	furniture, or priceless artwork, but we have everything we 
+	need, right here.
+Homer:	That's right.  Just because we're not rich doesn't mean 
+	that we don't have ... [start to cry] Oh, I can't even 
+	finish.  I want to be rich!  [drops to the floor, as the 
+	scene fades to black.  The names of the executive 
+	producers appear] Like these guys!
+	[the credits for the actors roll]
+	And look at all these rich people, here!  Not as rich as 
+	they should be, of course, but still rich.
+	[the Gracie Films logo appears, and the woman shushes 
+	someone in the audience]
+	Don't shush me, you rich bastard!
+-- "The Mansion Family"
+
+% [End of Act Three.  Time (up to "rich bastard"):  20:30]
+
+
+<|endoftext|>

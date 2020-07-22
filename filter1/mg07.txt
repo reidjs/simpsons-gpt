@@ -1,0 +1,108 @@
+% B = Bart, L = Lisa, M = Marge, H = Homer
+%
+% Enclosed in {curly braces} are sections cut for syndication.
+%
+% The Simpsons dining room.  Five table settings (one at each end, three
+% along the side).  A painting of a snow-covered mountain is on the wall.
+%
+% Marge comes in, carrying a steaming bowl of purple gelatinous glop.
+% (High-amplitude, low-frequency oscillations.)  Marge calls with a
+% smile...
+
+M: Dinner!
+
+% No response.  Marge gradually loses her smile.
+
+M: Hot meal!  Come and get it.
+
+% Another try.
+
+M: Hearty and nutritious!  Right here!
+
+% She tosses the bowl off its tray onto the table.  The purple goo compresses,
+% and when it springs back into shape, five globlets peel off, one landing in
+% each bowl on the table.
+%
+% Still nobody comes.
+
+M: Anyone who doesn't get his or her butt in here pronto will go
+   without dessert!
+
+% Homer, Lisa, Bart, and Maggie dash in, take their seats, grab a fork
+% (except for Maggie who uses her hand) and take a mouthful of purple
+% glop.
+%
+% [End of Act One.  Time: 0:23]
+%
+% The family munch noisily away.  The picture on the wall is of a volcano
+% beginning to erupt purple lava.
+
+M: Hold it everybody, we forgot to say grace.
+H: Say, that's right!
+M: This family could use a little reverence around here.
+
+% The family put down their utensils.  Maggie replaces her pacifier.
+% They bow their heads in prayer.  (Except for Maggie, who keeps her
+% eyes open and looks around.)
+
+H: Good drink... good meat... good God, let's eat!
+
+% And with that, Homer, Lisa and Bart raise high their forks and dig
+% heartily into the purple glop.  (Maggie removes her pacifier and
+% resumes eating with her hand.)
+%
+% [End of Act Two.  Time: 0:36]
+%
+% The picture on the wall is of a volcano erupting full force.
+% The pan of purple glop is nearly empty.
+%
+% Homer, Lisa, and Bart raise their spoons and slurp loudly.
+% Maggie slurps through a straw.  Marge frowns and casts a
+% glance at the camera, as if to say, ``See what I mean?''
+
+M: Hold on, all of you.  There's no need to slurp your soup so loudly.
+
+% Homer waves his spoon, thereby shaking off some purple soup that
+% was in it at the time.  There are also two purple stains on his
+% shirt.
+
+H: She's right, you little slobs.
+M: Let's try a little dignity around here.
+   I don't want to hear any slurping.
+L: [bored] Right, Mom.
+B: [bored] Okey-dokey, Mom.
+
+% Homer, Lisa and Bart take a spoonful of soup and swallow it loudly.
+% (Maggle swallows loudly from her straw.)  Marge quietly fumes
+% and casts another furtive glance at the camera.
+%
+% [End of Act Three.  Time: 0:54]
+%
+% The picture is of a smoking crater.
+%
+% Homer, Lisa, Bart, and Maggie are eating noisily, their mouths
+% overfull with purple glop.  (So full they can't even close
+% their mouths.)  Maggie is holding her pacifier in her left hand
+% and a knife in her right.
+
+M: You know, dinner shouldn't be eaten in silence.
+
+% Homer swallows.  (Gulp.)
+
+M: This should be a time... for communication.
+H: That's a good idea, dear.  Bart, turn on the TV.
+
+% Bart zips off stage right and pushes the TV set in front of the table,
+% so everyone can see.  (The picture faces away from the camera.)  The
+% dining room is bathed in the glow of a cathode ray tube.  Bart returns
+% to his seat.  Marge watches the news, stunned.
+
+TV: On tonight's news:
+    Bus plunge kills forty-three.
+    Freak roller coaster accident decapitates {a family of five.
+    And a sneak preview of today's exciting bikini beachwear.
+    But first this important message.}
+
+% [End of Act Four.  Time: 1:13]
+
+<|endoftext|>

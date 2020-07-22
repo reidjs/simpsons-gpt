@@ -1,0 +1,596 @@
+% Homer is hard at work at the power plant.  Well, he's at the plant, 
+% anyway, listening to the radio.
+
+Announcer:	... FDR is in the White House.  An ice cream cone 
+		costs a nickel, and a hot new tune by Benny Goodman 
+		is hitting the charts.  The year is 1939.
+		[Benny Goodman's hot new tune plays]
+Homer:		Nineteen ... 1939!  Oh, my God, I've gone back in 
+		time!  I've got to warn everybody about Hitler -- 
+		and get to the ice cream store!
+		[Lenny and Carl walk into Homer's work area]
+Lenny:		Hey, Homer, what's all the hubbub?
+Carl:		Let me guess.  You travel back in time again?
+Homer:		Shut up.  You haven't even been born yet.
+-- "Make Room for Lisa"
+
+% Lenny brings Homer into the present by tuning in a pop radio 
+% station.  The DJs there are doing a remote broadcast from P. J. 
+% O'Harrigan's, a local pub.  Carl remarks that it's too bad they have 
+% to miss the party.  Obviously, he underestimated Homer's party 
+% ethic, because as soon as Carl says this, Homer's voice can be heard 
+% over the radio from O'Harrigan's.
+%
+% The next morning, Marge rouses Homer from his car, which he has 
+% parked sideways in the middle of Evergreen Terrace.  Drunkenly, he 
+% asks Marge, "Hey, Marge, what's your favorite radio station?"
+%
+% Homer's more coherent the next morning.  Sort of.
+
+Homer:	Well, Marge?
+Marge:	What?
+Homer:	What's your favorite radio station?
+	[Lisa and Bart walk in.  He's wearing a jacket, and Lisa 
+	has a camera around her neck]
+Lisa:	Okay, Dad, we're ready.
+Homer:	Hey, that's super.  See you later.
+Lisa:	Dad, don't you remember?  It's our special Saturday.
+Marge:	You agreed to spend one Saturday a month doing something 
+	with the kids.
+Homer:	Ohhh.  [slaps forehead]
+Bart:	Oh, quit complaining.  It's half the work of a divorced 
+	dad.
+Homer:	Yeah, but it's twice as much as a deadbeat dad.
+Marge:	[scolding] Homer!
+Homer:	They know I'm kidding.
+	[Bart and Lisa look dejected]
+	Okay, Bart, it's your turn to pick, where are we headed?  
+	Bowling?  Demolition derby?  P. J. O'Harrigan's?  Isn't 
+	that a funny name?  Huh?  Huh?
+Bart:	Hysterical, but I traded my turn to Lisa for her dessert.
+Homer:	D'oh!  But we did a Lisa thing last month -- [notices 
+	Marge glaring at him, and changes to a happier tone of 
+	voice] -- and I'm glad we did.  But now I think we should 
+	do something that normal people would like.
+Lisa:	Why do you assume that I won't pick something fun?  Let's 
+	see ... [leafs through newspaper] Oh, this looks very 
+	educational.
+Homer:	[groans]
+Lisa:	Well, this could be quite enlightening --
+Homer:	[groans again]
+Lisa:	Fine, how about --
+Homer:	[groans]
+Marge:	She didn't say it yet.
+Homer:	Go ahead.
+Lisa:	The book fair?
+Homer:	Oh, no, I'm not falling for that again.  If it doesn't 
+	have Siamese twins in a jar, it's not a fair.
+Lisa:	[looks at paper again] Oh, this is perfect.
+Homer:	[takes paper] We're going to go see Marmaduke?
+Lisa:	No, the Smithsonian travel exhibit.  It encapsulates 
+	America and makes history come alive!
+Homer:	What, and Marmaduke doesn't.
+Lisa:	No, Dad, my mind is made up.
+Homer:	[to Bart] This is all your fault for trading away your 
+	turn.  Just for that, no dessert tonight.
+Bart:	[to Lisa] Trade you my next turn for your dessert.
+Lisa:	Deal.
+Homer:	D'oh!
+-- So much for that lesson, "Make Room for Lisa"
+
+% So, the family goes to the Smithsonian travel exhibit.  Or rather, 
+% the OmniTouch travel exhibit, for they own and sponsor the tour.  
+% Inside the exhibit hall is a treasure trove of Americana.  One of 
+% the displays is of Abraham Lincoln's hat.
+
+America's greatest citizen summed up in one piece of clothing.
+-- Lisa Simpson, admiring Lincoln's hat, "Make Room for Lisa"
+
+% Homer notices that another prominent citizen has also been summed up 
+% with one piece of clothing -- Arthur "Fonzie" Fonzarelli.  His 
+% jacket is on display in a glass case flanked by two armed guards and 
+% surrounded by a laser beam perimeter alarm.  Lisa wonders how this 
+% trinket can be kept so close to the Bill of Rights, stored in 
+% considerably less sturdy case next to the jacket.
+%
+% Lisa explains what the Bill of Rights grants the country, but stops 
+% when she sees that Homer has removed the document from its case for 
+% a closer look-see.  He plops down in Archie Bunker's chair, and 
+% alarms immediately sound.
+
+Guard 1:	Get out of Archie Bunker's chair -- now!
+Homer:		Relax, I'm just boning up on the old Constitution!  
+		[rustles the page, causing it to rip]
+Guard 2:	Ooh, you're going to regret that, pinko!
+		[Homer cowers, holding the Bill of Rights over his 
+		head]
+Guard 1:	Oh, I am so sick of people hiding behind the Bill of 
+		Rights!
+Guard 2:	Look - he got chocolate on it!
+Homer:		I didn't mean to.  [licks off the chocolate]
+Guard 1:	Mmm-hmm.  You just licked off the part that forbids 
+		cruel and unusual punishment.
+Guard 2:	[chuckles and dons a set of brass knuckles] 
+		Beautiful.
+-- "Make Room for Lisa"
+
+% Repairing the Bill of Rights will cost $10,000, which is clearly 
+% more than Homer can afford to pay.  The OmniTouch representative 
+% doesn't seem to mind.  She has a solution that she thinks will 
+% benefit both parties.
+%
+% Soon, OmniTouch workers are on the Simpsons' roof, installing a two-
+% story tall transmitting tower.
+
+Marge:		I don't want a cellular transmitter sticking out of 
+		my roof.
+OmniLady:	We prefer to think of them as, "keep in touch 
+		towers."
+Homer:		It's called caring, Marge.
+OmniLady:	Plus, you've increased Springfield's roaming 
+		capability 64 percent.
+Homer:		You've gotta admit, Marge, that's a lot more 
+		roaming.
+Marge:		[resigned] Mmmm, I guess.
+-- Room to roam, "Make Room for Lisa"
+
+% As Homer takes a nap on the couch, Lisa comes home, and walks 
+% upstairs to her room.
+
+Lisa:	Ugh.  That antenna is an eyesore.
+Homer:	Just pretend it's a tree, honey.  Or as we say at 
+	OmniTouch, a "progress tree."
+Lisa:	Yeah, well I hope it doesn't hum too loud, because I've 
+	got a ton of homework to do, and I'm almost finished with 
+	my -- 
+	[opens the door to her room, which is now crammed to 
+	capacity with electronics, wires, and other 
+	telecommunications equipment.  A huge rotating shaft 
+	occupies the center of the room]
+	Waaugh!  My room!
+Homer:	[running upstairs] What?  I heard a yell.  Did you touch a 
+	wire?
+Lisa:	What happened to my room?
+Homer:	Nothing.  They just needed a place to put all the 
+	electronic gizmos, and I know how much you like that 
+	science-y stuff.  So I --
+Lisa:	[interrupting] You gave away my room!?
+Homer:	Come on, Lisa, try and see this from the OmniTouch 
+	corporation's point of view.
+-- Yeah, be reasonable, "Make Room for Lisa"
+
+% The OmniTouch lady appears from behind the shaft, and encourages 
+% Lisa to go along with the plan.  The camera shifts to Lisa's point 
+% of view.  The OmniTouch lady bends over Lisa and, lit by the eerie 
+% light of the telco gear, looks pleading and menacing at the same 
+% time.  Homer adopts the same position.  With a sigh, Lisa gives in.
+%
+% [End of Act One.  Time:  6:20]
+%
+% Even though she's resigned to losing her room, Lisa isn't happy 
+% about it.
+
+Lisa:	I can't believe you did this, Dad.  Why didn't you put 
+	that thing in your room?
+Homer:	Hmmm.  That thought never occurred to me.  Funny how your 
+	mind works in a crisis.
+-- Funny how his mind works, period, "Make Room for Lisa"
+
+% Marge does her best to reassure her daughter.
+
+Marge:	It's just until we pay off Daddy's desecration of a 
+	priceless artifact.  I thought I'd never have to say that 
+	again.  [walks away]
+Lisa:	But where am I supposed to live?
+Homer:	Lisa, what's your favorite movie?
+Lisa:	Until you taped over it, "The Little Mermaid."
+Homer:	That's right -- "The Odd Couple!"  Now meet your comically 
+	mismatched roommate, Bart Simpson!  [opens the door to 
+	Bart's room, revealing Bart sitting on Lisa's bed, then 
+	scat-sings the theme to "The Odd Couple"]
+Bart:	I'm going to make your life a living hell.
+-- "Make Room for Lisa"
+
+% Still singing the "Odd Couple" theme, Homer pushes Lisa into Bart's 
+% room and closes the door.
+
+Bart:	Okay, if you're going to live in my room, you're going to 
+	obey my rules.  One:  I am Bart, thy god.  If I am out, 
+	the Krusty doll [holds it up] is thy god.  If the doll's 
+	with me, you will worship the night-light.  Should the 
+	night-light be unable to fulfill its duties --
+Lisa:	Shut up.
+Bart:	You shut up!
+Lisa:	Oh, this is not going to work.
+Bart:	No, you shut up!
+Lisa:	Ohh ...
+-- Just like "The Odd Couple," all right, "Make Room for Lisa"
+
+% Meanwhile, Marge picks up something other than Maggie's usual 
+% sucking noises on her baby monitor.
+
+Skinner:	[over baby monitor] Hello, mother?
+Marge:		[gasps] Maggie?
+Agnes:		Seymour?  You were supposed to call me three minutes 
+		ago.
+Marge:		[realizing] Ooh.
+Skinner:	[cut to Skinner, driving in his car] Sorry, mother, 
+		I was driving through a tunnel and my cell phone 
+		wouldn't work.
+Agnes:		[cut to Agnes, at home] I don't want you driving 
+		through tunnels.  You know what that symbolizes.
+Skinner:	[cut back to the Simpsons' kitchen] But Mother, it 
+		cuts ninety minutes off my drive.
+Agnes:		No tunnels!
+-- "Make Room for Lisa"
+
+% Marge wants to do the responsible thing and notify an OmniTouch 
+% "care rep."  Homer also wants to do something -- eat mayonnaise.  He 
+% takes a big jar of it from the refrigerator.
+%
+% In his room, Bart squeaks his chair, much to the annoyance of Lisa.  
+% Homer drops by, discarding an empty mayonnaise container on the bed.
+
+Homer:	Well, well, if it isn't Frick and Frack, Jack and Jill, 
+	Fred and Ethel, the Three --
+Lisa:	Dad, would you please tell Bart to stop squeaking his 
+chair?  I'm trying to do my homework.
+Homer:	Bart, stop squeaking your chair.  If you've got to do 
+	something, click this pen.
+	[hands Bart a ballpoint pen.  Bart clicks rapidly on the 
+	pen's retract/extend button]
+Lisa:	No-o-o.
+Homer:	Hey, that looks like fun.  [takes another pen from his 
+	pocket]
+Bart:	Race ya.
+Homer:	You're on.  Lisa, you play winner.  [Homer and Bart click 
+	away like madmen]
+-- "Make Room for Lisa"
+
+% Lisa can't take too much of that.  She covers her ears and heads 
+% downstairs to do her homework.  She isn't there long before Homer 
+% returns.
+
+Homer:		Oh, honey, you missed a great race.  Bart was 
+		winning, but then he said, "This is stupid," and he 
+		stopped, and I won.
+Lisa:		[restraining herself] Dad, I'm trying to do my 
+		homework.
+Homer:		Hey, you're mad at me.  That wasn't your mayonnaise, 
+		was it?
+Lisa:		Dad, why did you have to take away my room?
+Homer:		Maybe you'd feel better if we watched some TV 
+		together.
+Lisa:		Rrgh!  I just want to study.
+Homer:		That's no fun.
+Lisa:		It is to me.
+Homer:		No it's not.  [picks her up, causing her to mark up 
+		her homework]
+Lisa:		[protesting] Dad!
+Homer:		[turns on TV] Ooh, here's something you like.  "When 
+		Animals Attack Magicians."
+Magician:	... pick a card, any -- [noise of primate attacking] 
+		Aagh!
+Homer:		[laughs]
+Lisa:		That's awful.
+Homer:		Awful entertaining.
+Lisa:		Ugh, my stomach hurts.
+-- Father-daughter bonding, "Make Room for Lisa"
+
+% Marge, using the baby monitor, listens in on someone who has it even 
+% worse than Lisa.  It's Krusty, who's trying to bum a ride in the 
+% desert while wearing only a towel.  Seems the lady he tried to pick 
+% up last night wasn't what she appeared to be.  As Marge takes notes 
+% (literally), Lisa walks in.
+
+Lisa:	Ugh, Mom?  I don't feel so good.  Ohhh ...
+Marge:	What is it, honey?
+Lisa:	My tummy really hurts.
+	[Homer walks in, carrying Maggie by the armpits]
+Homer:	[falsetto] Somebody wants Mommy to change baby's diaper.
+Marge:	Is that somebody you, Homer?
+Homer:	[nodding Maggie's head] Yes it is.
+Maggie:	[sucks pacifier]
+Marge:	Okay, then you can take Lisa to Dr. Hibbert's.
+Homer:	Great.  Maybe on the way back, we can swing by the 
+	demolition derby and have a nice talk.
+Lisa:	[not convincing] Oh, sounds great.
+-- "Make Room for Lisa"
+
+% Dr. Hibbert finishes up his examination of Lisa.
+
+Hibbert:	Lisa, I'm afraid your tummyache may be caused by 
+		stress.
+Homer:		Well, that's a relief.
+Hibbert:	Heh, yeah.  Anyway, when it comes to stress, I 
+		believe laughter is the best medicine.  You know, 
+		before I learned to chuckle mindlessly, I was headed 
+		for an early grave myself.
+		[chuckles mindlessly]
+Homer:		Give it a try, honey.
+Lisa:		[forced chuckle]
+Hibbert:	Oh, now you call that chuckling?  Come on, child, 
+		force it.
+Lisa:		I'm really not the chuckling type.
+Homer:		It's true.  I'm always making clever noises, and she 
+		never chuckles at 'em.
+Hibbert:	Well, I could prescribe some harsh antacids, but I 
+		think Lisa would benefit more from herbal teas, or 
+		aromatherapy.
+Lisa:		Yeah, some of that all-natural stuff is really very --
+Homer:		Oh, no, you don't!  Screw that touchy-queery crap!  
+		We'll take the harsh antacids.  [tousles Lisa's 
+		hair] Nothing's too good for my little girl.
+-- "Make Room for Lisa"
+
+% Homer exults in his moral victory vs. Dr. Hibbert.
+
+Homer:	I sure settled his hash.  Imagine that quack, thinking 
+	he'd try one of those crazy New Age cures.
+Lisa:	They're not all crazy, Dad.
+Homer:	Sure they are, honey.
+Lisa:	You know, just because you say something is crazy, doesn't 
+	make it so, and just because you think museums are boring 
+	and demolition derbies are fun doesn't make that true 
+	either.
+Homer:	[chastened] I'm sorry, Lisa.
+Lisa:	Oh, it's not your fault.  I know we love each other, Dad, 
+	but we're two very different people and, much as I hate to 
+	say it, as time goes on, we'll probably just drift further 
+	and further apart.
+Homer:	Oh, Lisa, honey, I won't ever let that happen.
+	[camera pulls back to show that Homer is standing on the 
+	escalator, which is carrying him away from Lisa]
+	Oh.
+-- "Make Room for Lisa"
+
+% [End of Act Two.  Time:  11:54]
+%
+% Homer attempts to bridge the gap between Lisa and himself by taking 
+% her to a store specializing in new-age nostrums.
+
+Homer:	[forced] Oh, good, I've been meaning to catch a [picks up 
+	a dream-catcher] dream catcher?  Give me a break.
+Lisa:	I just wish you could keep an open mind about other 
+	cultures.
+Homer:	Other cultures are fine.  I'm just saying I can get along 
+	in life without a [picks up a box and reads it] tooth ... 
+	brush.
+	[the store's owner walks up]
+Owner:	Namas Dai.  [?]
+Homer:	And, uh, ooga-booga to you too.
+Owner:	May I tell you about our white-light special?
+Homer:	Absolutely not.  My little girl's tummy hurts.  Do you 
+	have anything to stop her complaining?
+Lisa:	Dad!
+Owner:	[pours a glass of green liquid] Here.  Try this wheat 
+	grass juice.  [gives it to Lisa]
+Lisa:	[drinks] Bleah!
+Owner:	Well, your tongue works.
+-- Harsh antacids are sounding better now, "Make Room for Lisa"
+
+% Homer looks through the shelves, looking for some hopefully more 
+% palatable medicine, perhaps even the same stuff that keeps Joan 
+% Rivers among the living.  That would be beetle grindings, of course, 
+% but the owner has an even better idea -- sensory deprivation tanks.  
+% The freezer-like tanks block out distracting sensory stimulation, 
+% fostering an environment for meditation.  Lisa signs up for two 
+% hours.
+%
+% Homer and Lisa put on swimwear, and get into the water-filled tanks.  
+% The owner briefs the two on what to expect.
+
+You are about to take a journey into the mind.  You may see and 
+experience things that are strange and frightening.  But remember, 
+they can't physically harm you, though they may destroy you mentally.
+-- New age shop owner, describing the deprivation-tank experience,
+   "Make Room for Lisa"
+
+% With that, the owner closes the lid on Lisa and Homer.  Homer opens 
+% his lid to reach for a magazine, but the owner slaps his hand away, 
+% and weighs Homer's lid down with a cinderblock.
+%
+% Lisa floats quietly in her tank.
+
+Ah, this is kind of relaxing, but it's so hard to turn off my brain.  
+I have to stop thinking, starting ... now!  [pause] Hey, it worked -- 
+oh, no, that's thinking.
+-- Lisa Simpson, "Make Room for Lisa"
+
+% Meanwhile, Marge keeps an ear out for Springfield's juiciest cell-
+% phone gossip.
+
+Moe:	[over monitor] Lenny, how are you doing?  This is Moe.  
+	I've got some class three gossip here.
+Lenny:	[over monitor] Well, dish!
+Moe:	Groundskeeper Willie -- you know, the guy in the skirt -- 
+	bought himself a mail-order bride.  But he's too cheap to 
+	pay the C. O. D., right?  So she's still in a crate down 
+	at the post office.  Wanna go look-see?
+Marge:	Ooh, this sounds juicy.
+-- "Make Room for Lisa"
+
+% Bart and Milhouse eavesdrop on Marge's eavesdropping.  A plan 
+% hatches in Bart's head.
+%
+% Back to Lisa.
+
+Lisa:	How am I supposed to hallucinate with all these swirling 
+	colors distracting me?
+	[camera angle changes so we can see the colors.  They 
+	morph into a ball of yarn, the camera focuses on this, so 
+	all we see is a ball of yarn on a black field]
+	Ah, it's a ball of yarn.  That's funny, I feel like 
+	batting it around.  [a paw reaches in from the right-hand 
+	side of the screen to bat the yarn ball]
+	Whoa!  I have a paw.
+	[the background of the Simpsons' kitchen fades in.  Lisa 
+	walks over to the water dish and looks down, to seen 
+	Snowball II's face]
+	Oh my gosh, I've entered the body of our cat!
+	[Maggie walks into frame, standing taller than Lisa]
+	Yah!  Maggie!  [Maggie, her hands dirty, reaches for the 
+	cat] Hey, hey, get your sticky hands off me!  Ow!  [hisses 
+	and takes a swipe at Maggie]
+Marge:	Bad cat!  Leave her alone.  [swats "Snowball" with the 
+	broom]
+Lisa:	Aaaah!
+	[cut back to the tank, looking straight down on Lisa]
+	Wow, my mind just created that out of nothing.  This tank 
+	is releasing the full potential of my brain.
+	[cut to Homer's tank]
+Homer:	[singing] Ooh!  Ee!  Ooh-ah-ah!  Ching, chang, walla-
+	walla-bing-bang!  Ooh!  Ee!  Ooh-ah-ah!  Walla-bing-bang-
+	ching-chang-doo!
+-- No comment, "Make Room for Lisa"
+
+% At home, Marge struggles to find something on the baby monitor.
+
+Marge:		Come on, come on, I need some gossip here.  Where is 
+		everybody?  Does this town shut down at five 
+		o'clock?
+Bart:		[over monitor, disguising voice] Frankie, it's me, 
+		Killer.  I just busted out of prison and the cops 
+		are after me.
+Marge:		Ooh, talk to me, baby.
+		[cut to Bart's room, where Bart uses a toy police 
+		car to make siren noises]
+Bart:		Okay, I think I lost them.
+		[Maggie plays with a cow noisemaker]
+		Uh, oh, a cow!  [shoots in the air with a toy gun]  
+		Eat lead, Bossie!  Listen, Tony, I need someplace to 
+		hide.  Oh, this place looks good.  742 Evergreen 
+		Terrace.
+Marge:		[gasps in horror]
+		[cut to outside, where Milhouse stands at the door]
+Bart:		Now, to open the door and kill whoever's inside.
+		[motions Milhouse to open the door.  Cut to a shot 
+		inside the house]
+		I'll start by turning the knob.
+		[the knob turns, and Milhouse pokes his head in the 
+		door]
+Milhouse:	Gotcha, Mrs. --
+		[Marge whacks him with the baby monitor, knocking 
+		him out]
+Bart:		[comes down the stairs and laughs] Oh, Mom, you are 
+		a prankster's dream.  [notices his friend lying 
+		unconscious in the doorway] Wow, you really 
+		clobbered him.
+Marge:		That was a horrible trick to play on your mother.
+Bart:		Yeah, well, it serves you right for eavesdropping.
+Marge:		Mmmm.  Well, I guess we both learned a lesson.  But 
+		if anybody asks, you hit him.
+		[Bart and Marge each grab one of Milhouse's arms and 
+		drag him inside]
+-- Live and learn, "Make Room for Lisa"
+
+% At the new-age store, two burly repossession men load the 
+% merchandise onto their truck.  When the owner protests, the first 
+% man tells her to, "channel somebody who gives a damn."  Heading into 
+% the back, the two men find the deprivation tanks.  Only one of them 
+% will fit on the truck, so they take one now and plan to come back 
+% for the other.  Naturally, they take Homer's.
+%
+% Driving back to the repossession center, one of the guys has a 
+% little fun with a crystal.  Little do they know that Homer's tank 
+% has fallen out of the back of their truck.  The tank slides down a 
+% steep hillside, bouncing Homer around as it goes.
+
+Whoa!  Sensory deprivation kicks ass!
+-- Homer Simpson, "Make Room for Lisa"
+
+% The tank comes to rest in the middle of a road.  Ned and the 
+% Flanders clan have to brake suddenly to avoid hitting it.
+
+Maude:	Oh, Neddy, you almost hit that coffin!
+	[the family gets out of the car]
+Ned:	[gasps] Leaping Lazarus!  Is this what passes for eternal 
+	rest these days?  Rod, go get daddy his burying shovel.
+Rod:	Yay!  [runs to the car]
+	[a little later, the family has buried the tank]
+Todd:	You sure buried him deep, Daddy.
+Ned:	Not so deep the Lord can't find him -- and judge him.
+Rod:	This is the best birthday I ever had.
+-- What was the worst one you had?  "Make Room for Lisa"
+
+% Deep underground, Homer knocks on the lid of his tank, and asks to 
+% be let out.  No answer.  Homer panics and knocks harder.  The ground 
+% underneath him gives way, and the tank falls -- it turns out that 
+% Flanders buried him right over an underground pipe.  The roof of the 
+% pipe collapses, and the tank drops through, where it goes on a ride 
+% wild enough to be the envy of most water parks.  Homer is thrown 
+% around violently inside the tank.  Then the tank is sucked into a 
+% whirlpool.
+
+This inner peace stuff is tough on the old coconut!
+-- Homer Simpson, "Make Room for Lisa"
+
+% The tank sinks down a curvy pipe.  Finally, it emerges in the ocean 
+% and washes ashore.  Ralph mistakes it for a whale egg, but Chief 
+% Wiggum assumes that it's industrial waste.  He's angry with firms 
+% dumping trash in the water without a permit ("It's not like those 
+% permits are hard to get!").  The tank is tagged with the store's 
+% name, so Chief Wiggum goes to take it back to the store.
+%
+% Lisa's journey of self-discovery continues uninterrupted.
+
+Lisa:	Wow, I've been a cat, a tree, and Cokie Roberts.  It's 
+	happening again.  I wonder where I'm going this time.  
+	What's that?
+	[another hallucination appears.  A sandwich floats in on a 
+	black background]
+	Yuck!  That sandwich is full of meat.  There's bacon, 
+	Canadian bacon, Mexican bacon [drools lustily] and a 
+	mouth-watering veal chop.
+	[two arms come from either side of the screen, grab the 
+	sandwich.  Lisa takes a bite]
+	Oh, no, now I'm dad!  [background, from Homer's point of 
+	view, fades in.  He's at a ballet]
+	Oh, and I'm at a stupid boring ballet.  [yawns, and the 
+	camera's "eye" closes.  We hear snoring noises]
+Lisa:	[in hallucination] Dad!  Wake up!  [camera "eye" opens] 
+	Your snoring is disturbing the dancers.  [camera looks at 
+	the dancers, who are staring at Homer, tapping their feet.  
+	Then it pans back to Lisa.  We can see Homer reflected in 
+	her eyes]
+	How can you embarrass me like this?  Ooh, you won't sit 
+	through anything that doesn't have car crashes.
+Lisa:	[as Homer] I'm sorry, honey.  [to "himself"] Gee, why is 
+	Lisa so mad at me?  [twists his ballet program] I only 
+	came to this dump so I could be with her.  And what 
+	happened to my big sandwich?
+-- "Make Room for Lisa"
+
+% Lisa comes to a realization.
+
+Lisa:	Oh!  Boy, I can really be a pain in the butt.
+	[opens the door to her tank, and sits up]  Gee, I should 
+	cut Dad some slack.  After all, he did take me to the 
+	ballet, and the Smithsonian exhibit.  In fact, he takes me 
+	lots of places he hates.
+	[gets out and walks over to Homer's tank, where he's 
+	singing "Witch Doctor."  Lisa opens Homer's tank.  He 
+	looks a little bruised, but otherwise okay]
+Homer:	Hi, sweetie.
+Lisa:	Hi, Dad!  How was it?
+Homer:	[gets out] I went on a wild ride without ever leaving the 
+	building.  How was yours?
+Lisa:	Pretty cool, but now what do you say we go do something 
+	we'll both enjoy.
+Homer:	[suspicious] Ooh, like what?
+	["what" turns out to be the demolition derby, where cars 
+	crash into one another with wild abandon]
+	Wow, look at that car burn!  Does it get any better than 
+	this?
+Lisa:	Not to me, Dad.  [hugs her father]
+-- It don't get no better than this, "Make Room for Lisa"
+
+% Off screen, we hear another crash.  Homer hugs Lisa back, and kisses 
+% her on the forehead.  A fender flies into the audience, knocking an 
+% unfortunate spectator out cold.  In the distance, an ambulance siren 
+% wails.  Lisa, hugging her father, is blissfully unaware of all this.
+%
+% [End of Act Three.  Time:  20:29]
+
+
+<|endoftext|>

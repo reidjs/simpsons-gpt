@@ -1,0 +1,1192 @@
+                           The Simpsons Archive's
+                       Simpsons Syndication Cuts Guide
+
+                          Season Twelve (2000-2001)
+
+               "Syndication... is there anything they can't do?"
+
+                                 06 Apr 2009
+
+                 Maintained by Matt Garvey <garvey@snpp.com>
+                      Guide created by Frederic Briere 
+               Contributions from Chad Lehman and Tim Reardon
+
+[==========================[Season Twelve Summary]==========================]
+
+Story cut episodes: All except CABF04, CABF02, BABF22, CABF14, CABF17.
+Compressed episodes: BABF21, BABF17, CABF01, CABF04, CABF02, CABF22, CABF12,
+                     CABF11, CABF14, CABF16, CABF17.
+Expanded episodes: BABF20, CABF03, CABF05, CABF08, CABF10, CABF09, CABF13.
+Changed content: CABF12, CABF09, CABF16.
+
+Total time cut: 24:50 (24 min 50 sec)
+Story time cut: 6:35 (6 min 35 sec)
+Total time gained: 24:54 (24 min 54 sec)
+
+Notes: I had a hard time finding the original end credit timings for most of
+       the season 12 episodes. I used the section Fox broadcasts to estimate
+       the length and any compression for those, and marked the "ending"
+       lines with asterisks; if you have any information on them, please let
+       me know.
+
+Update: 4/6/09: Tim Reardon mentions that BABF20 and BABF17 are too short as
+        described here, with some cuts/compression not in his synd versions.
+        That's probably accurate. My synd versions are from WUAB, 9/9/02, and
+        were probably shortened by the station (a no-no!) by 30 seconds each.
+        I will adjust the SCG when I can do a proper comparison.
+
+ ==[ BABF21 ]===================================== Treehouse of Horror XI ===
+         CUTS: 42 seconds     GAINED: 70 seconds      21:17 / 22:27
+                         Original Halloween opening
+
+ ~~~~~    OPENING  <---->   (----)   0:50 / 0:50
+ ~~~~~    ACT I    <---->   (0:07)   5:35 / 5:42
+ ~~~~~    ACT II   <---->   (0:09)   6:05 / 6:14
+ ~~~~~    ACT III  <0:42>   (0:52)   8:00 / 8:52
+
+         The dolphins march across the beach, one squeaking to the tune of "I
+         don't know but I've been told."
+<0:04> % The other dolphins repeat it. The leader squeaks again, and the
+       % dolphins start to respond, when
+                                         one runs into a volleyball net.
+
+       ! The audio when he runs into the net in syndication is from the first
+       ! iteration, the one ending on a high note (not a low note as in the
+       ! second).
+
+ ~~
+         In the studio, Kent's cue card man motions for him to stop talking.
+
+       %  Kent: Um...di-did I say killer dolphins? I meant killer...Italians!
+       %
+<0:12> % The photo behind him changes to one of Luigi.
+       %
+       %  Kent: Gray, bottle-nosed, intelligent Italians!
+       % Homer: Intelligent Italians? Something's wrong.
+          Kent: [quietly] It's dolphins. [regular] We have to stop them.
+                If we speak in low-frequency voices, I don't think they can--
+                [a beach ball hits him] Ow!
+
+         A dolphin appears on screen, and throws the ball at Kent three more
+         times, then at the camera, causing it to go to static.
+       % At home, the Simpson family gasps.
+       %
+       %  Bart: Those dolphins seem bent on mayhem! [pause] We've got to warn
+       %        Grampa!
+       %
+       % Homer dials the phone, but gets a busy signal.
+<0:19> %
+       % Homer: Hmm, phone's off the hook! Everything must be okay!
+       %
+       % At the Retirement Castle, the phone receiver hangs out of Grampa's
+       % reach. Grampa groans as a dolphin eats him from behind.
+       %
+       % Grampa: Aww, I'm gonna give your liver such a punchin'!
+
+         Establishing shot of town hall.
+
+       ! In the syndicated version, one wonders why Kent mumbles "it's
+       ! dolphins"; it seems like a sloppy cut.
+
+ ~~
+         Homer opens the door of the town hall, and the residents gasp.
+         Quick pan of the dolphins immediately outside.
+<0:01> % About two dozen dolphins are seen standing on balconies and roofs
+       % of two buildings; one dolphin squeaks.
+         Dolphins are seen gathered around a golden statue of a dolphin
+         leaping out of the water.
+<0:01> % Dolphins stand around a jungle gym.
+         Dolphins balance on power lines.
+<0:03> % A dolphin stands in front of a yellow classic car, flipping a coin.
+
+         Marge: Jeez...so many dolphins!
+
+ ~~
+         A dolphin hits Homer with a sack of oranges.
+
+         Homer: Ow, ooh!
+
+       % The camera pans to show Bart watching in alarm.
+       %
+<0:02> % Homer: Ow!
+       %
+       % Bart angrily reaches for his slingshot,
+                                                 then readies it and fires.
+
+
+ ~~~~~    ENDING   <---->   (0:02)   0:47 / 0:49*
+
+
+ ==[ BABF20 ]================================= A Tale of Two Springfields ===
+         CUTS: 130 seconds    GAINED: 84 seconds      20:47 / 22:11
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:56>   (0:56)   0:22 / 1:18
+
+       % Blackboard: I will not plant subliminal messagores
+       %             ("Al" and "Gore" in green)
+       % Solo: Downward Blues #1
+
+ ~~~~~    ACT I    <0:09>  (-0:04)   7:20 / 7:16
+
+         Homer lifts his shirt to show that he's been hurt; his heart beats.
+
+<0:04> %  Lisa: How did the badger do that without ripping your shirt?
+       % Homer: What am I, a tailor?
+
+         Homer pages through the phone book.
+
+ ~~
+         Homer: Oh, if only it were that easy, Marge.
+
+       % The badger growls in the window, and Homer waves it off.
+       %
+<0:04> % Homer: Go away, we got bigger problems now!
+       %
+       % The badger groans sadly and leaves.
+
+         Homer: I'm not gonna stand for this.
+
+ ~~
+         Homer whimpers in a fetal position while the "wrong number" tone
+         continues.
+<0:01> %            One more cycle of the tone is heard while he whimpers.
+
+         Establishing shot of the power plant.
+
+ ~~~~~    ACT II   <0:02>  (-0:10)   6:24 / 6:14
+
+         Homer: A wave of disease should...hey!
+       %                                        Stop streaming over the wall!
+<0:02> %
+       % The badger climbs over it.
+
+         Homer: At least wait till I'm through talking!
+
+ ~~~~~    ACT III  <1:03>   (0:44)   5:50 / 6:34
+
+         Guard: Whatever you say, pal. Wacko!
+
+       % Cut to shot of Bart and Homer on the floor.
+       %
+       % Homer: Wow...The Who!
+       %
+       % Homer runs over to a halogen lamp, giggles giddily, and smashes it
+       % on the rug while grunting.
+       %
+       % Homer: Woo! [hands over his head] Rock and roll!
+       %
+<0:20> % Bart runs over to the drum and kicks it three times, also grunting.
+       %
+       %  John: What the hell are you doing?
+       %  Bart: [quick laugh] Duh, trashing the hotel room!
+       %  Pete: But we promised the desk clerk we'd be good!
+       %
+       % Pete takes off his guitar.
+       %
+       % Roger: Yeah, we don't want to lose our pool privileges!
+       % Homer: What-ev-er. The point is,
+                                          I'm Homer Simpson.
+       
+       % They all turn around.
+<0:03> %
+       %  John: The mayor of New Springfield?
+       % Homer: That's right!
+         Roger: The _crazy_ mayor of New Springfield?
+
+ ~~
+          John: We'll do it!
+          Bart: Yeah!
+       %  John: Just send a cab for us.
+<0:05> % Homer: What, something wrong with your legs?
+       % Roger: You're right. The walk will do us good!
+
+         Establishing shot of Olde Springfield Arena.
+
+ ~~
+         Homer: Pac Man fever!
+       %                       Ah-do-do-do-doo! It's-a driving me a cra-a-
+<0:08> %        a-a-zy! Look, Lisa, Daddy's in the Who!
+       %
+       % Shot of a nonplussed Lisa.
+
+         Homer sees a mop, says "Ooh!" and puts it on his head.
+
+ ~~
+         Roger: Why not just buy telephones with auto-ringer, or as you Yanks
+                call it, speed dial?
+
+         The crowd murmurs, someone says "That's a good idea!"
+
+<0:04> % Roger: Radio Shack has some great ones!
+       %  Pete: Huh. Says you.
+         Homer: "Magic Bus!"
+
+ ~~
+         Near the end of the act, during the concert, the camera zooms out.
+         A drawn-out "yeah!" is sung.
+
+       % Cut to a shot of the moon, while the music and singing continue.
+       % A lone badger sits on a hill, and is joined by others. They growl.
+       %
+<0:23> % Badger: [in subtitles] Come on! Let's get 'em while they're dancing.
+       %
+       % The lead badger points toward town. They all swarm down, then one
+       % straggler runs down the hill, squeaking.
+
+         Executive Producer credits are displayed.
+
+       ! The music is smoothly cut, since the song ends properly in both
+       ! versions. I think it was a simple intertwining job.
+
+ ~~~~~    ENDING   <---->  (-0:02)   0:51 / 0:49*
+
+
+ ==[ BABF17 ]========================================= Insane Clown Poppy ===
+         CUTS: 65 seconds     GAINED: 96 seconds      20:50 / 22:26
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:22 / 1:17
+
+       % Blackboard: I will not surprise the incontinent
+       % Solo: Hot Jazz
+
+ ~~~~~    ACT I    <---->   (0:10)   6:05 / 6:15
+ ~~~~~    ACT II   <---->   (0:18)   8:45 / 9:03
+ ~~~~~    ACT III  <0:10>   (0:13)   4:50 / 5:03
+
+         Krusty: Oh, it's going to take forever to go through all these.
+       %  Homer: I have a plan. [looks at a vent near the ceiling]
+       %
+       % Later, the vent is stuck to Homer's butt, and a piece of the wall is
+       % missing.
+       %
+       %  Homer: Well, that didn't work.
+       %  Louie: [off-screen] Hey, Legs, let's go jump on Tony's bed!
+       %   Legs: Sure!
+<0:10> % Krusty: Aah!
+       % 
+       % The vent falls off Homer's butt.
+       %
+       %  Homer: Uh-oh!
+       %
+       % Homer and Krusty rush to the bed.
+       %
+       % Krusty: We gotta get out of here!
+                                           Just take 'em all!
+
+       ! This cut makes it less apparent why Homer is looking to the right
+       ! immediately before the cut, and also gives them no reason to leave
+       ! the room!
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48*
+
+
+ ==[ CABF01 ]======================================== Lisa the Treehugger ===
+         CUTS: 59 seconds     GAINED: 69 seconds      21:18 / 22:27
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+
+       % Blackboard: I am not the acting President
+       % Solo: Funk Groove
+
+ ~~~~~    ACT I    <---->   (0:04)   5:41 / 5:45
+ ~~~~~    ACT II   <0:03>   (0:07)   7:51 / 7:58
+
+         Lisa: Don't worry, I'll be right back. [kisses tree]
+<0:03> %       Eww, someone's been marking their territory.
+
+         Lisa runs toward her house.
+
+       ! In the syndicated version you can see Lisa start to make the "eww"
+       ! face; another sloppy cut that leaves rerun viewers wondering why.
+
+
+ ~~~~~    ACT III  <0:01>   (0:03)   6:35 / 6:38
+
+         Kent: No, it wasn't Mr. Burns; it was this majestic old redwood,
+               which was brutally cut down last night.
+
+         The news camera shows police near the fallen tree,
+<0:01> % then stays on this essentially motionless scene for one second.
+
+         Lisa: Ohh...
+
+ ~~
+       ! Later, there is about half a second cut from Moe's cocktail onion
+       ! grimace, but this seems like a boost of compression rather than a
+       ! real cut; nothing is really lost since it's a still shot.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48*
+
+
+ ==[ CABF04 ]========================================== Homer vs. Dignity ===
+         CUTS: 55 seconds     GAINED: 62 seconds      21:15 / 22:17
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+
+       % Blackboard: I was not the sixth Beatle
+       % Solo: Crazy Be-Bop
+
+ ~~~~~    ACT I    <---->   (0:02)   7:58 / 8:00
+ ~~~~~    ACT II   <---->   (0:02)   5:55 / 5:57
+ ~~~~~    ACT III  <---->   (0:02)   6:11 / 6:13
+ ~~~~~    ENDING   <---->   (0:01)   0:48 / 0:49*
+
+
+ ==[ CABF02 ]============================= The Computer Wore Menace Shoes ===
+         CUTS: 54 seconds     GAINED: 68 seconds      21:18 / 22:26
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:54>   (0:54)   0:23 / 1:17
+
+       % Blackboard: I will only provide a urine sample when asked
+       % Solo: Funk Groove
+
+ ~~~~~    ACT I    <---->   (0:04)   6:43 / 6:47
+ ~~~~~    ACT II   <---->   (0:05)   6:38 / 6:43
+ ~~~~~    ACT III  <---->   (0:04)   6:46 / 6:50
+ ~~~~~    ENDING   <---->   (0:01)   0:48 / 0:49*
+
+
+ ==[ CABF03 ]====================================== The Great Money Caper ===
+         CUTS: 70 seconds     GAINED: 68 seconds      21:19 / 22:27
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+
+       % Blackboard: The nurse is not dealing
+       % Solo: Mellow Yellow
+
+ ~~~~~    ACT I    <---->   (----)   6:48 / 6:48
+ ~~~~~    ACT II   <---->   (----)   6:48 / 6:48
+ ~~~~~    ACT III  <0:15>   (0:14)   6:31 / 6:45
+
+         Homer: He's a filthy crook! Now let's all hit the hay.
+       % Marge: It's ten in the morning!
+<0:07> % Homer: I guess you haven't heard of choloroform.
+       %
+       % Homer dabs some on a rag, inhales deeply, and drops to his pillow.
+         Establishing shot of courthouse.
+
+ ~~
+         Lawyer: Hazy like the moors of Scotland?
+                 [gallery gasps]
+          Homer: Yes, exactly!
+                 [murmurs in the court, ending on a shot of the Simpsons]
+       %  Homer: Ohhh...
+       %
+<0:08> % Homer takes out another green bottle, dumps the contents on a rag,
+       % and inhales. But then:
+       %
+       %  Homer: Hey, [looks at bottle] Mountain Dew? Oh-aww...
+
+         Another external shot of the courthouse.
+
+       ! Take out one chloroform joke and the other is sure to follow, eh?
+       ! Odd that they're both right before an establishing shot of the
+       ! courthouse.
+
+ ~~
+       * The missing second is one of expansion at the end, during the
+       * executive producer credits; this time they faded the music out
+       * before the break, and apparently needed an extra second to do so.
+       * As well, a small bit of the music is repeated at the credits' start.
+
+
+ ~~~~~    ENDING   <---->  (-0:01)   0:49 / 0:48*
+
+
+ ==[ CABF06 ]==================================== Skinner's Sense of Snow ===
+         CUTS: 70 seconds     GAINED: 70 seconds      21:17 / 22:27
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+
+       % Blackboard: Science class should not end in tragedy
+       % Solo: Funk Groove
+
+ ~~~~~    ACT I    <---->   (----)   7:00 / 7:00
+ ~~~~~    ACT II   <0:01>   (0:01)   6:23 / 6:24
+
+         Skinner: Help! It's caving in!
+
+         The class watches in shock as the snow rumbles,
+<0:01> % continuing to look shocked for one more second.
+         The snow comes out the delivery window, along with Skinner.
+
+
+ ~~~~~    ACT III  <0:14>   (0:14)   6:43 / 6:57
+
+           Ned: Sounds like a plan!
+         Homer: [guttural sounds]
+<0:01> %        [snoring sound]
+
+         Skinner writes his punishment on the blackboard.
+
+       ! Actually, I timed it at about .7 seconds; rounding of the other cuts
+       ! works out, but there actually are some very tiny cuts (less than .2
+       ! seconds) during this act, after this point. So though the act
+       ! summary doesn't reflect it, there is a total of about .3-.5 seconds
+       ! of very choppy compression.
+
+ ~~
+         Milhouse crumples and tears up a page in Lisa's permanent record.
+       % But it puts itself back together, goes back into the binder,
+<0:03> % and the drawer closes.
+       % Lisa and Milhouse gasp.
+
+         Nelson: Hey, look at how much Skinner makes!
+
+ ~~
+         Homer: We're free!
+       %                    _And_ we've got something to eat!
+       %
+<0:05> % Homer puts down Nibbles' plastic ball, then sticks a windshield
+       % scraper out the hole in the windshield. He gasps. Somehow, ice
+       % breaks off the car at the front left wheel well, then Ned's door.
+         Homer puts his foot down on the pedal, and they drive off.
+
+ ~~
+            Bart: No, seriously, I wasn't listening.
+       % Skinner: One of those situations wher--
+<0:05> %    Bart: Gotcha!
+       %
+       % Skinner laughs, then Bart does. Skinner musses Bart's hair.
+
+           Homer: Come on, kids. Let's leave this awful place and never come
+                  back.
+
+       ! So they cut those parts but not the Nibbles "ball sack" joke. An
+       ! odd choice by the syndicators, considering that that would have
+       ! freed up about the same time as they cut.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ BABF22 ]======================================================= HOMR ===
+         CUTS: 55 seconds     GAINED: 68 seconds      21:18 / 22:26
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+
+       % Blackboard: Network TV is not dead
+       % Solo: Funk #2
+
+ ~~~~~    ACT I    <---->   (0:04)   7:35 / 7:39
+ ~~~~~    ACT II   <---->   (0:05)   7:38 / 7:43
+ ~~~~~    ACT III  <---->   (0:03)   4:55 / 4:58
+ ~~~~~    ENDING   <---->   (0:01)   0:47 / 0:48*
+
+
+ ==[ CABF05 ]================================================== Pokey Mom ===
+         CUTS: 101 seconds    GAINED: 68 seconds      21:17 / 22:25
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+
+       % Blackboard: I will not "let the dogs out"
+       % Solo: Mellow Yellow
+
+ ~~~~~    ACT I    <---->  (-0:08)   5:06 / 4:58
+ ~~~~~    ACT II   <0:24>   (0:11)   8:14 / 8:25
+
+         Homer catches Marge's kiss.
+
+         Homer: Ow, my back!
+
+       % Establishing shot of prison.
+       % Marge walks through a hallway in the prison, and an iron-bar door
+       % clangs shut behind her. Marge lets out a surprised murmur.
+       %
+       %   Marge: Mrs. Marge Simpson, I'm here to teach an art class.
+<0:24> % Guard 1: Oooh, art class! La-di-da!
+       %
+       % The guard buzzes her in. Another door slides open and closes.
+       %
+       % Guard 2: This is Ike Pross. He's going to solitary.
+       % Guard 1: Oooh, solitary! La-di-da! [buzzes him in]
+
+           Marge: Welcome to freeing the artist within. Not literally, of
+                  course.
+
+       ! In the original, a view from the back of the classroom, of the
+       ! prisoners' backs, Marge, and a guard, accompanies this line until
+       ! "not literally." In syndication, this is replaced by the
+       ! establishing shot of the prison.
+
+
+ ~~~~~    ACT III  <0:22>   (0:11)   6:45 / 6:56
+
+           Jack: We only get basic cable.
+         Wiggum: Ouch!
+       %               Yeah, I also like that Sex and the City. Huh. None of
+       %         those girls look like my wife! Ha! Heh-heh-heh...heh.
+       %   Jack: Sportscenter's not bad.
+       % Wiggum: Yeah, I never got that show.
+<0:22> %   Jack: What's to get? They just tell the scores.
+       % Wiggum: Yeah, I suppose. Hey, you ever meet any mob guys? Are they
+       %         really like The Sopranos?
+       %   Jack: I told you, we just get basic cable.
+       % Wiggum: Oh, right, right, right.
+                                          Listen, if I'm getting too chatty--
+
+       ! Of course the cut makes Wiggum's "chatty" line make much less sense.
+
+
+ ~~~~~    ENDING   <---->  (-0:01)   0:49 / 0:48*
+
+
+ ==[ CABF08 ]========================================= Worst Episode Ever ===
+         CUTS: 79 seconds     GAINED: 71 seconds      21:14 / 22:25
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+
+       % Blackboard: I will not hide the teacher's medication
+       % Solo: Downward Blues #2
+
+ ~~~~~    ACT I    <0:24>   (0:21)   6:41 / 7:02
+
+         Gallagher throws Homer out, and Homer lands with a grunt.
+
+       % Gallagher: And you are banned for life from all of my performances
+       %            and TV specials!
+       %     Homer: But I can still see your movies, right?
+       % Gallagher: Oooh!
+<0:20> %
+       % Gallagher slams the doors, and Homer starts sobbing onto his right
+       % sleeve. The flashback ends, and Homer continues sobbing, also on
+       % his right arm. He turns to Bart:
+       %
+       %     Homer: And I never saw Gallagher again.
+              Lisa: Ooh, it says here that special effects wiz Tom Savini is
+                    gonna be appearing at the comic book store tonight!
+
+ ~~
+         CBG turns Bart and Milhouse away.
+
+         Homer: Sorry, son.
+       %   CBG: Thanks for the tipoff. [hands Homer some money]
+<0:04> % Homer: No problem.
+       %
+       % They walk inside, and the door slams shut.
+
+           CBG: Appearing exclusively, here at the Android's Dungeon...
+
+
+ ~~~~~    ACT II   <---->  (-0:03)   7:03 / 7:00
+ ~~~~~    ACT III  <---->  (-0:02)   6:19 / 6:17
+
+       * Expansion starts (somewhat intermittently) as CBG and Agnes "admire"
+       * the sunset.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48*
+
+
+ ==[ CABF07 ]========================================== Tennis the Menace ===
+         CUTS: 68 seconds     GAINED: 68 seconds      21:17 / 22:25
+                    No blackboard, no solo, original couch
+
+       ! The color in this episode seems rather off; it could have been a
+       ! local problem but could also be because of the try at digital
+       ! coloring causing a transfer error to the syndicated tapes. It causes
+       ! most light blue things to appear green, and other colors are a
+       ! little different as well. The 10-year-old animation of the clouds
+       ! and driveway looks fine, though, which supports this hypothesis.
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+
+       % Blackboard: I will not publish the Principal's credit report
+       % Solo: Downward Blues #2
+
+ ~~~~~    ACT I    <---->   (----)   5:06 / 5:06
+ ~~~~~    ACT II   <0:13>   (0:13)   7:44 / 7:57
+
+         Marge: You know, a tennis court can really make your house look
+                classy!
+       %                I hear Mel Brooks has one! I mean, _Sir_ Mel Brooks!
+       % Homer: And it's bad news for the gophers!
+<0:09> %
+       % Pan to show bumps popping up in the court, and then cut to a
+       % cross-section of the ground, where two gophers are seen trying to
+       % push up the half-inch of concrete while grunting.
+
+         Marge: And it's gonna do wonders for our social life!
+
+ ~~
+         Lenny: We never knew nobody with their own tennis rink!
+
+<0:01> % Homer and Marge smile at each other.
+
+          Carl: So what happens now, is the food free or do we pay someone?
+
+       ! In the original, Carl is seen saying "so what happens now," but in
+       ! the syndicated version the footage of Homer and Marge overlaps the
+       ! line. The cut is actually the second of silence while they look at
+       ! each other, and then the video of Carl.
+
+ ~~
+       * There doesn't seem to be compression but a few very short cuts
+       * during this episode. About .15 seconds are cut between the shot of
+       * Kent's earpiece and his writers in the van. More to follow.
+
+ ~~
+          Bart: So from now on, all hats are banned from the school.
+<0:03> % Marge: Even bonnets?
+       %  Lisa: Especially bonnets!
+         Homer: I've had it with that school!
+
+ ~~
+       * Another very short cut that could just be intermittent compression,
+       * about .27 seconds as Homer comes down the stairs near the end of the
+       * act.
+
+
+ ~~~~~    ACT III  <---->   (----)   7:16 / 7:16
+
+       * Two more very short cuts which won't make it to the totals because
+       * of rounding: about .15 seconds before Burns and Smithers are seen
+       * in the audience, then about .1 right before Agassi takes Homer's
+       * racket. I've compared different recordings of the original, so if
+       * it's a glitch it could be from the local station's copy. Also, the
+       * Executive Producer credits are a tiny bit compressed.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48*
+
+
+ ==[ CABF10 ]====================================== Day of the Jackanapes ===
+         CUTS: 86 seconds     GAINED: 72 seconds      21:15 / 22:27
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+
+       % Blackboard: The hamster did not have "a full life"
+       % Solo: Funk #2
+
+ ~~~~~    ACT I    <0:09>   (0:03)   8:32 / 8:35
+
+            Marge: Well, I think it's good for a show to go off the air
+                   before it becomes stale and repetitive.
+
+       % Smithers bursts in the front door.
+       %
+<0:09> % Smithers: Maggie shot Mr. Burns again!
+       %
+       % The family looks around, and crickets are heard. Homer coughs
+       % uneasily.
+
+             Kent: Krusty the Clown's retirement has provoked an outpouring
+                   of anguish...
+
+       ! If they had to cut that line, why didn't they cut Marge's as well?
+       ! On one hand, it seems pointless to set up a joke and not finish it,
+       ! but on the other hand they might have decided to let the viewers
+       ! get the meta-reference.
+
+
+ ~~~~~    ACT II   <0:12>   (0:10)   3:46 / 3:56
+
+         Wiggum: Oh, it's so great to see a kid using a wooden bat.
+       %         These days, it's all aluminum this and George W. that.
+       %    Lou: [pulls a mini pinball game out of his bag] Hey, Chief, look
+       %         what I got in my Laffy Meal!
+       % Wiggum: Ohh, mini pinball! [grabs it]
+<0:12> %    Lou: Hey, give that back!
+       % Wiggum: Give what back, Lou? [plays it] He-he-he, he-he-he, he-he.
+       %
+       % Pan to the window, where Bart is still smashing the Krusty statue.
+       % He smashes it once,
+                             then three more times. Bob cackles evilly.
+
+
+ ~~~~~    ACT III  <0:10>   (0:04)   7:45 / 7:49
+
+         Establishing shot of KrustyLu on the night of his last show.
+       % Ron Howard, dressed in a white robe and holding a martini, walks
+<0:10> % down a red carpet with his date. The crowd cheers. Gary Coleman
+       % walks by in a suit, doing some karate moves.
+
+         Kent: Kent Brockman here at Krusty the Clown's final show.
+
+       ! The rest of the music from the establishing shot overlaps Kent's
+       ! line a little in syndication. Also note that Gary Coleman is still
+       ! credited in the syndicated version, even though his "part" is cut.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:49 / 0:49*
+
+
+ ==[ CABF12 ]===================================== New Kids on the Blecch ===
+         CUTS: 55 seconds     GAINED: 69 seconds      21:16 / 22:25
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+
+       % Blackboard: I will not buy a Presidential pardon
+       % Solo: Funk #2
+
+ ~~~~~    ACT I    <---->   (0:02)   4:49 / 4:51
+
+       ! Thanks to "Drew Dawg" for his mention of this in the capsule: After
+       ! the original airing, the following change was made for subsequent
+       ! network runs and syndication (including the closed captions), which
+       ! I believe is a first (such a change remaining in synd). I don't see
+       ! why the original line is so offensive, or why the substitution is
+       ! any less offensive, but maybe I'm missing some subtle difference.
+
+         During the Springfield Marathon, Smithers is seen running in an odd
+         fashion. Pan out to show Burns whipping him from a rickshaw.
+
+            Burns: Faster, rickshaw driver, faster!
+         Smithers: Ow! Sir, the whip isn't helping.
+            Burns: Silence! You call yourself
+       %                                      a Chinaman?
+       +                                      Chinese?
+
+         Burns whips him again, and Smithers grunts.
+
+
+ ~~~~~    ACT II   <---->   (0:05)   7:11 / 7:16
+ ~~~~~    ACT III  <---->   (0:06)   8:06 / 8:12
+
+       + In the original, "Join the Navy" is sung over the Executive
+       + Producer credits, and continues through the voice credits. For
+<0:00> + syndication, they used the "happy" music for the Executive
+       + Producers; it sounds like they used the same bit as in the end of
+       + CABF10. See below for more.
+
+
+ ~~~~~    ENDING   <---->   (0:01)   0:47 / 0:48
+
+       ! This is complicated to explain. In the original Fox airing, the
+       ! "Join the Navy" song (with the lyrics forward) starts over the
+       ! Executive Producer credits, and continues till the voice credits
+       ! finish, at which point it switches to footage of N'Sync with a split
+       ! screen. In syndication, this format is kept, except that the song
+       ! doesn't start until Dan Castellaneta's name; its timing isn't
+       ! changed, but it is cut off at the end. In reality, about 6 seconds
+       ! are missing, about one of which is from compression. Anyway, with
+       ! some rounding of the times, here is how it works:
+
+       + [Originally heard during Executive Producer credits]
+<-0:05>+ Three music blasts.
+       + 
+       +   Singer: Join the Navy-yyy-
+                                     y.
+                   Join the Navy-yyy-y.
+       %           Join the Na-vy-y-y! [ends on a high note]
+<0:05> %
+       % A few seconds of electronic noises.
+
+         Milhouse: It's N'Sync!
+
+
+ ==[ CABF09 ]======================================== Hungry Hungry Homer ===
+         CUTS: 80 seconds     GAINED: 71 seconds      21:16 / 22:27
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+
+       % Blackboard: "Temptation Island" was not a sleazy piece of crap
+       % Solo: Wailing Horn
+
+ ~~~~~    ACT I    <---->  (-0:03)   7:05 / 7:02
+ ~~~~~    ACT II   <---->  (-0:02)   5:07 / 5:05
+ ~~~~~    ACT III  <0:25>   (0:21)   7:53 / 8:14
+
+         Mr. Duff: Fans love wackos.
+<0:06> %                             Remember that busty woman who ran out on
+       %           the field and farted at the ballplayers?
+
+         The camera angle changes to show the two men in the window from the
+         ground.
+
+         Mr. Duff: I think we've found our newest attraction!
+
+ ~~
+         Homer eats the food being thrown at him. Fireworks go off. The
+         camera angle switches to a far shot.
+       %                                      Homer runs a little farther,
+       % then the camera cuts once again to show the mayor of Albuquerque
+       % watching the game on his New Mexico-styled TV.
+       %
+       %     Mayor: Damn! That town's got too much spirit.
+       %
+       % He turns off the TV. The front of his desk is shown, with a "Mayor
+<0:19> % of Albuquerque" sign. A secretary stands by with a pad.
+       %
+       %     Mayor: Looks like we'll have to steal some other baseball team.
+       %            See what Dallas wants for the Cowboys.
+       % Secretary: Uh, that's a football team, sir.
+       %     Mayor: They'll play what I tell 'em to play. [stands up and
+       %            looks out the window] For I am [sinister music starts
+       %            and the light dims] the Mayor of Albuquerque!
+
+         Executive Producer credits run.
+
+       + In the original, the music for those credits was some stings of the
+       + sinister music. In syndication, since they took the last bit out,
+<0:00> + it cuts from Homer to the credits, and uses "happy" music most
+       + likely taken from the end of CABF10. The length of the music left
+       + out is not included in the 19 seconds above.
+
+       ! Also note that the episode has a completely different ending mood in
+       ! syndication, plus the issue of the Isotopes' moving remains
+       ! unresolved.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48*
+
+
+ ==[ CABF11 ]============================================= Bye Bye Nerdie ===
+         CUTS: 64 seconds     GAINED: 71 seconds      21:16 / 22:27
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+
+       % Blackboard: I will not scare the Vice President
+       % Solo: Crazy Be-Bop
+
+ ~~~~~    ACT I    <---->   (0:02)   6:10 / 6:12
+ ~~~~~    ACT II   <---->   (0:02)   7:24 / 7:26
+ ~~~~~    ACT III  <0:09>   (0:11)   6:31 / 6:42
+
+         Marge: That's quite an act to follow, Lisa.
+          Lisa: I know! And the crowd is so distinguished!
+       %        The inventor of the walkie-talkie is out there!
+<0:09> % Marge: [doubtfully] Where?
+       %  Lisa: [pointing] Third row, near the aisle.
+       % Marge: [gasps] Ooh, you're right! And _that's_ not his wife!
+
+         Professor Frink tries to quiet down the audience.
+
+       ! This is a particularly useless cut. Why they singled out that one
+       ! scene to cut (after it was already under way) is beyond me.
+
+
+ ~~~~~    ENDING   <---->   (0:01)   0:48 / 0:49
+
+
+ ==[ CABF13 ]============================================= Simpson Safari ===
+         CUTS: 121 seconds    GAINED: 70 seconds      21:16 / 22:26
+                    No blackboard, no solo, original couch
+
+       ! One of the most heavily cut, then expanded, episodes ever. 51
+       ! seconds of expansion? Give me a break! It was hell figuring out the
+       ! cuts here!
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:39 / 1:34
+
+       % Blackboard: I will not flush evidence
+       % Solo: Main Theme, Variation #3
+
+ ~~~~~    ACT I    <0:11>  (-0:05)   5:45 / 5:40
+
+         Homer: My old lunchbox!
+
+       % View of the lunchbox, which says "BURKE'S LAW" on top and has some
+       % people underneath: a woman in a pink gown, a man in a suit, and a
+<0:03> % man closer to the front of the scene, who looks like a detective.
+       %
+       % Homer: [dreamily] Ooh, that Amos Burke made his own rules!
+       
+         He opens the lunchbox and hums.
+
+ ~~
+         Executive: Mr. Simpson, we've decided to make good on your vacation.
+             Homer: Woohoo!
+
+       % Homer leans over to the executive.
+       %
+       %     Homer: [in a gruff whisper] Hey, Mister...
+       % Executive: Yes?
+<0:08> %     Homer: On the plane, I'm gonna need two [holds up his fingers]
+       %            seats...
+       %
+       % The camera zooms out to show his butt cleavage, to which he points.
+       %
+       %     Homer: [normal voice] ...for the twins.
+
+         Establishing shot of the Simpson house.
+
+
+ ~~~~~    ACT II   <0:46>   (0:27)   6:22 / 6:49
+
+         Kitenge: He seized power in a bloodless coup! All smotherings.
+<0:02> %   Homer: [gently] Just like Jimmy Carter.
+
+         The truck parks in a field.
+
+       ! It sounds like "smothering" in syndication, which makes less sense.
+
+ ~~
+           Marge: Homer, did you remember to tip Kitenge?
+         Kitenge: No, he did not.
+
+       % The next day, they drive the truck down a dirt road, from the left
+       % of the screen to the right. Inside:
+       %
+       %    Bart: All right, I got another one!
+       %
+       % A safari bingo card is shown. Visible on the card are
+       %
+       %       LION   RHINO  GIRAFFE  CHEETAH
+       % HIPPO ZEBU  WARTHOG ELEPHANT
+       %       HYENA BABOON  OSTRICH
+<0:19> %
+       % Bart crosses off the warthog (the only one visibly crossed off).
+       %
+       %    Lisa: Hey! You didn't see a warthog!
+       %    Bart: I'm lookin' at one right now!
+       %    Lisa: Mom! Bart implied I was a warthog!
+       %   Marge: [o.s.] Nobody's a warthog!
+       %    Bart: What about him?
+       %
+       % Zoom out to show a warthog sitting next to Lisa, chewing on her hair
+       % and grunting. Lisa pulls away and screams, and Bart does a "Bart
+       % laugh."
+                 The truck drives down a curved path and stops at a cliff.
+
+ ~~
+         Kitenge: Now we sit quietly and wait for nature to unveil herself.
+
+       % The Simpsons all look out the left side of the truck. They see an
+       % egg hatching, accompanied by "new life starting" music, but then a
+       % baby rhino pokes its head out of the egg.
+       %
+       %    Lisa: Wait; rhinos don't come from eggs!
+       %   Homer: What did you _just_ see, Lisa?
+       %    Lisa: I know, but--
+       %   Homer: What did you just _see_?
+<0:24> %
+       % Lisa murmurs, then gasps as a giraffe sticks its head out of a hole
+       % in the ground, makes some noises (which giraffes can't actually do),
+       % looks around, and pops back down into the hole.
+       %
+       %    Lisa: Oh, now come on!
+       %
+       % Marge looks through a pair of binoculars.
+       %
+       % Kitenge: Look, mother, by that tree! Cheetah!
+
+         View through the binoculars, where a cheetah seems to be approaching
+         very slowly.
+
+ ~~
+         Kitenge fires at the poachers, and they drive off.
+<0:01> % The screen is essentially still for a second.
+
+         Kitenge: They'll be back. They left their cargo pants.
+
+
+ ~~~~~    ACT III  <0:09>  (-0:07)   7:42 / 7:35
+
+         Marge: I love what you've done with these poles!
+         Homer: [sniffing sounds]
+
+<1.5>  % Chimps are seen. Two are grooming, one walks over and sits down,
+       % and another one swings out of a tree and hangs on the branch.
+         Pan from this scene to the Simpsons and Joan watching the chimps.
+
+          Joan: Every day I get up at 5:30, watch the chimps, eat a quick
+                lunch of roots and water, then more chimp watching. After
+                dark, I come home and think about chimps until it's time for
+                bed.
+         Homer: You must be the most boring woman on earth!
+          Joan: Possibly, but--
+         Homer: I mean, I knew scientists wasted their _lives_! But jeez!
+         Marge: [elbowing him] Homer!
+
+         A chimp jumps out of a tree, pointing and shrieking in alarm.
+
+          Joan: What?
+<0:01> %              What is it, Pointy?
+
+         Cut to overhead shot, then pan to show a truck rolling up. The truck
+         stops, and a booted foot comes out. Cut to show two men frowning.
+<2.5>  % Pan to the right to show two more men.
+                                                Shot of the refuge sign.
+
+ ~~
+         Men attack the walls of the refuge with swords.
+       %                                                 They continue, and
+<0:02> % the camera pans to the other side of the wall to show Homer and
+       % Bart. Homer inserts a piece of tissue into a coconut to form a bomb,
+       % then tilts it toward Bart.
+                                    Bart lights a lighter under the bomb.
+
+ ~~
+         Marge and Lisa shoot bees at the tires of the truck. They blow out,
+         then the car explodes.
+<0:01> %                        Homer picks up a chimp from the ground and
+       % places it on a bent-down tree.
+
+         Homer: Somebody light this monkey!
+
+ ~~
+         Lisa notices Joan's diamond-encrusted pen and notepad.
+
+         Joan: They were a graduation present!
+
+<0:01> % A man stands next to the mine hole, then walks over to it.
+         He clicks on a flashlight and looks down the shaft.
+
+          Man: Unbelieveable!
+
+       ! This cut and the last were actually less than a second, but close
+       ! enough to round up. Thanks, syndicators!
+
+ ~~
+       * Expansion stops in Joan's hut at the end.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ CABF14 ]=========================================== Trilogy of Error ===
+         CUTS: 55 seconds     GAINED: 71 seconds      21:15 / 22:26
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+
+       % Blackboard: Fire is not the cleanser
+       % Solo: Funk #2
+
+ ~~~~~    ACT I    <---->   (0:05)   6:37 / 6:42
+ ~~~~~    ACT II   <---->   (0:05)   7:09 / 7:14
+ ~~~~~    ACT III  <---->   (0:05)   6:19 / 6:24
+ ~~~~~    ENDING   <---->   (0:01)   0:47 / 0:48*
+
+
+ ==[ CABF15 ]==================================== I'm Goin' to Praiseland ===
+         CUTS: 70 seconds     GAINED: 70 seconds      21:16 / 22:26
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+
+       % Blackboard: Genetics is not an excuse
+       % Solo: Funk #2
+
+ ~~~~~    ACT I    <---->   (----)   5:00 / 5:00
+ ~~~~~    ACT II   <0:15>   (0:15)   8:20 / 8:35
+
+           Ned: If you could do that, I'd make this place a shining beacon
+                for the Lord!
+       % Texan: Oh, you are _so_ full of it! [points angrily at Ned, who
+       %        winces] God's grace, that is. [looks upward] [angry again,
+       %        with his hands on his hips] It's _really_ sickening!
+       %        [gesturing nicely at Ned] ...there aren't more people like
+       %        you. Now, _get out!_ [pointing backward with his thumb, then
+<0:15> %        pulling a contract out of his jacket] ...your pen. And we'll
+       %        make it official.
+       %
+       % Ned hugs him, and the Texan looks surprised.
+       %
+       %   Ned: Oh, bless you, sir!
+
+         Establishing shot of "Future home of Praiseland" sign.
+
+       ! Note that you can see the Texan start to get "angry" right before
+       ! the cut.
+
+
+ ~~~~~    ACT III  <---->   (----)   6:45 / 6:45
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48*
+
+
+ ==[ CABF16 ]================================== Children of a Lesser Clod ===
+         CUTS: 56 seconds     GAINED: 68 seconds      21:18 / 22:26
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+
+       % Blackboard: Today is not Mothra's day
+       % Solo: Three Blasts
+
+ ~~~~~    ACT I    <---->   (0:03)   5:46 / 5:49
+ ~~~~~    ACT II   <---->   (0:04)   7:26 / 7:30
+
+       ! The animation glitch before the shot of the Simpson house (after
+       ! Milhouse shows off his jacket) seems to be fixed. They either
+       ! removed those two or three frames or replaced them with good shots
+       ! of the house, since there is no discernible change in the timing
+       ! of that section.
+
+ ~~~~~    ACT III  <0:01>   (0:06)   6:55 / 7:01
+
+          Arnie: ...He's digging a hole like a dog! [Homer groans] Now he's
+                 given up on that and he's running back and forth!
+
+<0:01> % Arnie is silent for a second.
+
+          Arnie: He's climbing into the pipe and he seems to be stuck! His
+                 legs are dangling in a comic fashion; oh, it's the saddest
+                 thing I've ever seen!
+           Kent: Arnie, Arnie, how are the _children_?
+          Arnie: I can't see through metal, Kent!
+
+         Police cars pull up. Wiggum and Eddie get out of one and draw their
+         guns, joined by Lou.
+
+         Wiggum: All right, fatty, out of the pipe!
+
+         Establishing shot of the Simpson house.
+
+       ! This is a tough cut to explain. Though a second of Arnie's silence
+       ! is cut, the video is not cut until later. As a result, this second
+       ! of video is lost: Lou starts running over to join Wiggum and Eddie,
+       ! (start cut) finishes running, and stands in place. They got away
+       ! with such a silly cut because we don't see Wiggum's mouth move,
+       ! so we can't tell everything is shifted by a second.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48*
+
+       ! In the original short credits, the following is left out (as marked
+       ! with a +). It is present in syndication. I don't know what satellite
+       ! viewers saw, but in all the original Fox airings once the Gracie
+       ! Films logo changed to the Fox logo, the audio from that took over.
+       ! In syndication, the Fox fanfare is still audible behind it. But
+       ! don't fear, those of you who only have the original airing; it's
+       ! just a (slightly trimmed) line from the episode.
+
+         Gracie Films logo starts.
+
+         Cosby: Pokeyman! Pokeyman with the pokey and the man and the thing
+                wh--
+<0:00> +            ere...the guy goes, um BAH oh, ah ah ah.
+
+
+ ==[ CABF17 ]======================================== Simpsons Tall Tales ===
+         CUTS: 55 seconds     GAINED: 70 seconds      21:16 / 22:26
+                    No blackboard, no solo, original couch
+
+ ~~~~~    OPENING  <0:55>   (0:55)   0:23 / 1:18
+
+       % Blackboard: I should not be twenty-one by now
+       % Solo: Crazy Be-Bop
+
+ ~~~~~    ACT I    <---->   (0:05)   8:29 / 8:34
+ ~~~~~    ACT II   <---->   (0:04)   4:57 / 5:01
+ ~~~~~    ACT III  <---->   (0:05)   6:40 / 6:45
+
+       * Actually, there are two very short cut bits, but I'm including them
+       * as part of the compression timing since they're both about half a
+       * second and nothing is lost. One is a little longer shot of Huck
+       * in pain after he falls off the fence; the other is of Rev. Lovejoy
+       * right after Tom and Huck are seen in the rafters.
+
+ ~~~~~    ENDING   <---->   (0:01)   0:47 / 0:48
+
+       ! All the original images are there; the music is just sped up a bit.
+
+
+ ==[ ------ ]================================================================

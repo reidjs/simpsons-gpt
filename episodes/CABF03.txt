@@ -1,0 +1,1125 @@
+The Great Money Caper                                 Written by Carolyn Omine
+                                                   Directed by Michael Polcino
+==============================================================================
+Production code: CABF03                   Original Airdate on FOX: 10-Dec-2000
+Capsule revision C (28-Dec-03)
+==============================================================================
+> "TV Guide" Synopsis
+==============================================================================
+   [TVGuide.com] With Homer-logical justification, Bart and Homer go on the
+   grift, and do fairly well before joining a more experienced con man for a
+   big score.  Dan Castellaneta, Nancy Cartwright, Julie Kavner.  {sb}
+
+   [TV Guide advertisement] "Bart and Homer: Con Men? Tonight, they're
+   scamming their way through Springfield!"  Homer appears in disguise, and
+   Bart is wearing dark glasses and carrying a cane saying, "Won't you help a
+   poor blind boy -- hey you in the hat! I'm talking to you."  {bg}
+
+==============================================================================
+> Title sequence
+==============================================================================
+Blackboard:     THE NURSE IS NOT DEALING
+
+                THE NURSE IS NOT D        at cutoff
+
+Couch:          The couch is underwater.  The Simpsons, wearing scuba
+                wetsuits, swim to their usual spots.  After they're settled
+                in, the camera pulls back to reveal the couch is in a giant
+                fishbowl.
+
+==============================================================================
+> Did You Notice...
+==============================================================================
+
+A Bijanki:
+   ... Homer's shirt has buttons and a pocket?
+   ... Hyderabad (as in, "approved by the royal magic college of Hyderabad")
+       is a city in central India, and Bart pronounced its name incorrectly?
+
+Don Del Grande:
+   ... in the opening, Maggie is wearing a star instead of a bow in her hair?
+   ... the sturgeon didn't burn up -- or even get hot, for that matter -
+       falling through Earth's atmosphere?  (And to think NASA was spending
+       all that money on heat tiles all these years ...)
+
+Joe Green:
+   ... Homer's octopus keychain?
+   ... the fat, bespectacled juror?
+
+Darrel Jones:
+   ... Mrs. Hibbert is at the Squidport with no sign of her husband?
+   ... one of the Yale recruiters from [4F06] is in the jury?
+
+Joe Klemm:
+   ... the magic kit front box has a genie with a saw?
+
+Mike Reed:
+   ... the octopus thingy squeaks when Homer puts it in his pocket?
+   ... this episode was rated TV-PG despite the goriness of Skinner getting
+       shot?
+
+Benjamin Robinson:
+   ... the valet actually seems a little disappointed that he can't go
+       joyriding in Homer's car?
+   ... as he's driving home from the Squidport, Homer's right front tire
+       wobbles?
+   ... the "FBI man" can drive with the "EVIDENCE" sticker blocking his
+       vision?
+   ... Louie the crook is on the jury?
+
+==============================================================================
+> Voice Credits
+==============================================================================
+- Starring
+   - Dan Castellaneta (Homer, Questo, Cosmonaut 1, Mel, Abe, Crazy Old Man,
+        Lawyer)
+   - Julie Kavner (Marge, Patty)
+   - Nancy Cartwright (Bart, Todd, Ralph)
+   - Yeardley Smith (Lisa)
+   - Hank Azaria (Valet, Mechanic, Chief Wiggum)
+   - Harry Shearer (Diablo [?], Cosmonaut 2, Ned, Principal Skinner, Kent,
+        Hibbert, Jasper, Judge, Otto)
+
+- Special Guest Voice
+   - Ed Norton (FBI Agent)
+
+- Also Starring
+   - Tress MacNeille (Mrs. Hibbert, Lawyer 2)
+   - Karl Wiedergott (Puppets Man)
+
+==============================================================================
+> Movie (and other) references
+==============================================================================
+   - "The Great Muppet Caper" (movie)  {jk}
+      - title a spoof
+
+   ~ "The Great Santini" by Pat Conroy (book)  {jg2}
+      - the Magic Palace serves "The Great Linguini"
+
+   + "Paper Moon" (movie)
+      - general plot is similar  {al}
+      - Ryan and Tatum O'Neal try to sell Bibles to widows as a scam (cf.
+        Homer, Bart, and Flanders)  {nf}
+
+   + John Wayne (actor)  {gs}
+      - once drunkenly addressed a group of college students, saying "I'm not
+        tryin' to talk for ... for clapping"
+
+   - "Pulp Fiction" (movie)  {bjr}
+      - the ball-gag used on Marge looks similar to the ones in the film
+
+   - "Magnolia" (movie)  {bs}
+      - Officer Jim Kurring is scared poopless when a frog lands on his car
+        out of nowhere, exactly like the sturgeon landed on poor Homer's car
+
+   + Jackson 5 (musical group)  {sr}
+      - man with the puppets attached to him imitates this group, with the man
+        himself in the role of Michael Jackson
+
+   + "A Child's Garden of Verses" (book)  {al}
+      - "A Child's Garden of Cons" is based on Robert Louis Stevenson's
+        classic book of rhymes
+
+   + "The Lone Ranger" (TV series)  {jk}
+      - Homer calling Bart "Kemo Sabe"
+
+   - "Saturday Night Live (TV series)  {kmc}
+      - while on the phone Kent Brockman says "goodnight, and have a pleasant
+        tomorrow" which is how Chevy Chase signed off on the Weekend Update
+        sketch
+
+   + Publisher's Clearing House (sweepstakes)  {jk}
+      - the boys' Prize Patrol Scam
+
+   - Anna Nicole Smith (actress, sort of)  {bjr}
+      - she is probably the "crazy stripper girl" to whom Abe refers
+
+   + "Scared Straight" (TV special)  {jg2}
+      - Homer: "I want to scare my kid straight!"
+
+   + "Superfreak" by Rick James (song)  {jg2}
+      - Wiggum: "I'll show you the Rick James cell.  It's superfreaky!"
+
+   + "Joseph and the Amazing Technicolor Dreamcoat" (musical)  {jg2}
+      - Marge: "He's doing 'Dreamcoat' at the dinner theater!"
+
+==============================================================================
+> Previous episode references
+==============================================================================
+- [7G04] Marge gets drunk  {mr2}
+- [3F06], [CABF01] A Simpson fakes their death  {jg2}
+- [4F13] Springfield Squidport seen
+- [4F22] Mountain Dew is mentioned
+- [5F21] "A Child's Garden of Verses" is parodied  {dj}
+- [BABF03], [BABF20] Homer with chloroform  {mr2}
+- [BABF04] Bart uses melodramatic "mystery" voice to say, "It's an illusion."
+         (cf. "Or so it would seem.")  Perhaps not coincidentally, both of
+         these are Carolyn Omine episodes  {bjr}
+- [BABF10] Homer references to Maude's death  {mr2}
+- [BABF14] The Squidport seen  {mr2}
+- [BABF20] Homer rather quick to use chloroform  {bjr}
+
+==============================================================================
+> Freeze frame fun
+==============================================================================
+- Sign at the Magic Palace  {bjr}
+
+        MAGIC
+        PALACE
+
+         THE
+    GREAT LINGUINI
+        $5.99
+
+- Poster at the gift shop  {bjr}
+
+       HOUDINI
+
+        [picture]
+
+    KING
+    OF CARDS
+
+    [It's funny because Houdini was renowned for being a master
+     escape artist]
+
+- Magic box  {bjr}
+
+    MAGIC KIT
+                      +-------+
+    [genie sawing]    | props |
+    [lady in half]    +-------+
+
+    AGES 8 TO 80    APPROVED BY THE ROYAL MAGIC COLLEGE OF HYDERABAD
+
+- Sign at body shop  {bjr}
+
+              _______
+             / DENTZ \
+    /\/\/\/\/         \---------\
+   |BLACKEST FINGERNAILS IN TOWN |
+   +---    ---------------    ---+
+       \__/               \__/
+
+- Bart's con book  {bjr}
+
+       A
+    CHILD'S
+    GARDEN
+      of
+     CONS
+
+- Homer's new vanity plate
+
+    I GRIFT
+
+- "FBI man's" badge
+
+      COLGATE CAVITY PATROL
+      [seal]  CCP   [tooth]
+    OFFICIAL AGENT [signature]
+
+    [part of the word "official" is obscured by the man's thumb]
+
+==============================================================================
+> Animation, continuity, and other goofs
+==============================================================================
+*  If the magician didn't know Marge before the show, then why were the
+   monkeys wearing those green dresses?  {jg2}
+
+=  Marge's lipstick disappears when she asks the kids to be quiet.  {bjr}
+
+*  The "Russians" in the episode weren't cursing or even speaking Russian.
+   {ob}
+
+*  How did Homer get the gold print for Flanders' name?  {mr2}
+
+*  I don't think Abe was of employment age during the depression.  {mr2}
+
+*  Bart, who's not old enough to grow facial hair yet, wears a fake mustache,
+   and yet no one notices how awkward this is?  {al}
+
+c  When the "FBI" agent says, "Yes, fraud," the closed-captioning reads,
+   "That's right."  {bjr}
+
+c  When Homer says he still has his job "at the sweepstakes place," the CC
+   reads, "with the prize patrol."  {bjr}
+
++  Willie can't fire a handgun, thanks to the crippling arthritis in his index
+   fingers.
+
+==============================================================================
+> Reviews
+==============================================================================
+A Bijanki:  This was a good episode!  The plot was pretty good until the ...
+   er ... craptacular ending, but the surfing bit made up for it.  In
+   particular, these parts were particularly hilarious: (1) The Albany ham
+   scam, LOL!!  (2) Call me mint jelly, 'cause I'm on the lamb -- that was
+   funny in and of itself and then Grandpa riding away in the wheelchair was
+   uproariously good. (3) The chloroform/mountain dew bit.  (4) Skinner
+   standing straight and proper on the surfboard, LOL.  Because of its good
+   gags, as well as a decent plot, this rates an  (A-)
+
+Stephen Burks:  There are a few good things to say about this episode.  It did
+   make me laugh out loud more than any other episode this season (that
+   probably does not say much, I know), but there is just something missing
+   from these episodes as the show goes into the third act (the final stretch,
+   so to speak).  The beginning of the last few episodes has been sharp and
+   the jokes are well timed, but by the end of the episode it feels like the
+   writers, after not being able to think of any nice closing, said "let's
+   throw a random surf scene in the end to piss off the a.t.s. people."  Until
+   the middle of the third act I would say that this was an A episode by the
+   curve of the post-season 9 episodes.  But the ending makes this a C at
+   best.  (C)
+
+Joe Green:  The most ironic thing about this show was that the ending was
+   actually _less_ contrived than that of your typical Scully-era OFF episode.
+   There were also some genuinely funny moments, including a typically
+   thigh-slapping Ralph line ("I look like cable TV!")  I think Season 12 is
+   finally starting to gain momentum.  (B)
+
+Carl Johnson:  This was the first episode in a long time where nothing seemed
+   superfluous; all characters present were integral to this well-made parody
+   of "The Sting" (isn't it the first such parody to NOT include ragtime music
+   anywhere?).  The ending was hilarious, making up for some character
+   problems in the first two acts, and that plot-destructing final scene on
+   the beach. All-in-all a very entertaining episode.  A high  (B)
+
+Darrel Jones:  Maybe it's because I had to stay up past midnight to see this
+   ep because of a stupid Raiders game, but I didn't enjoy this episode much
+   while I watched it. Afterward, though, I felt somehwat better about it. No
+   classic, sure, but it wasn't as bad as the last few eps. Bart and Homer as
+   grifters was fun, and the ending was a hoot. 7/10  (C+)
+
+Adam Long:  This has probably been the only episode of the season so far in
+   which I know exactly where I stand on it.  I say this because it is
+   probably the only episode of the season (with the possible exception of
+   "Lisa the Treehugger") that was consistent in quality throughout.  [...]
+   "The Great Money Caper" was pretty straightforward, and if I had to
+   describe it in one word, it would be "average."  Nothing completely
+   outrageous happened, but nothing very worthwhile happened either.  The plot
+   dragged on, but the [way they resolved the plot] was good.  The episode
+   focused on "Jerk-ass Homer" and also "Jerk-ass Bart", but they learned a
+   lesson in the end.  There was humor, sure, and plenty of it worked, but
+   there were about as many failed gags as successful ones.  IMO, this was the
+   perfectly average episode.  (C)
+
+Michael Nusair:  Bah.  What happened to this season?  It started out so good,
+   then turned around 180 degrees and took a nosedive into the oh-so-shallow
+   pool of mediocrity.  This episode -- like last weeks -- wasn't bad, really.
+   But it certainly wasn't good, either.  Most of the jokes didn't work for
+   me.  I spent almost all of the first two acts completely stone-faced, never
+   even cracking a smile.  The third act had a couple of chuckles -- which
+   were invalidated by the horrible, horrible ending.  The fact that they
+   acknowledged the fact that it was a horrible ending doesn't make it any
+   better, either.  It just means that they were too lazy/stupid to change it.
+   (C)
+
+Mike Reed:  Definitely one of the oddest episodes in a while, but, oddly it
+   didn't stop me from enjoying it.  Marge getting drunk was very unnecessary,
+   and a cheap joke, IMHO, but the grifting plot picked up nicely from the
+   magic intro. From there, it was a bunch of good laughs, particularly in the
+   second act. On the negative side, there were a lot of loose ends, but I
+   guess that was the joke, so I'll give it a  (B+)
+
+Robin Steinmann:  Bewildering episode to me, as I regarded it as one big
+   meta-joke about, yeah, about what?  About lame sitcom plot revolving around
+   the out-of-the-blue (out-of-the-MIR) need for quick-money-schemes ending
+   with a bit far-fetched moral hammer?  Or about high fan expectations?  I go
+   for the latter.  Still, it all fell a bit flat, and was not very memorable
+   as a whole.  Not very funny, not awfully horrible.  A neutral  (C)
+
+Fox Wolf:  Just okay.  Nothing at all to drop the grade, but the jokes weren't
+   too spectacular.  The levitating tiger and Homer telling Hibbert that the
+   dog wasn't for sale really caught me, and Ralph's line, and just the sight
+   of Marge's hair being shot was funny.  (B-)
+
+Yours Truly:  Yet another episode that starts to go someplace interesting, but
+   doesn't end up there.  Homer and Bart (and later, Grandpa) pull off a
+   series of entertaining and clever con games, and provide an unflattering
+   look at their ethical bearings.  Marge's tipsy nightclub act at the
+   beginning and Willie's trial near the end are also good scenes.  It's too
+   bad "The Great Money Caper's" general cleverness fled it when it came time
+   for the ending, which was one of those off-the-wall, "we couldn't think of
+   a way to end this" endings.  In spite of its flaws, "Caper" is a pleasant
+   episode.  Or was I just fooled into thinking so?  Ah, well, either way I
+   enjoyed it just the same.  (B-)
+
+AVERAGE GRADE:  B- (2.65)   Std Dev.: 0.7413   (17 reviews computed)
+
+==============================================================================
+> Comments and other observations
+==============================================================================
+>> Musical References
+
+Joe Klemm:  "Pipeline" [is the] music at the end of the episode.  [{al} says
+   it's originally by the Chantays -- Ed.]
+
+
+>> Meta-reference corner
+
+Mike Reed:  Lisa's comment on the ending being "far-fetched and insulting to
+   your intelligence" is more than likely a reference to all of us who, of
+   course, are going to say the same thing about the episode.
+
+
+>> Oh, they ought to call that a "*Large* Island Iced Tea!"
+
+Andrew Levine gives us the recipe for this drink:  A Long Island iced tea is a
+   drink which doesn't actually have any tea in it at all.  Instead, it's made
+   by pouring equal parts vodka, gin, rum, triple sec, and tequila into a
+   glass with ice in it.  You add a little lemon juice and fill the rest of
+   the glass with cola.
+
+
+Tom Restivo adds:  Hmmm ... there ain't no one way to make it ...
+
+   From drinkboy.com:
+
+   Long Island Ice Tea
+   1/2 ounce Vodka
+   1/2 ounce Gin
+   1/2 ounce White Rum
+   1/2 ounce Cointreau
+   1 ounce Lemon Juice
+   Top with Cola
+
+   Build all ingredients in an ice tea glass, then top with cola and garnish
+   with a lemon wedge.
+
+   From netcooks.com:
+
+   1 oz. Rum
+   1 oz. vodka
+   1 oz. gin
+   1 oz. orange juice
+   1 oz. lime juice
+   1 oz. lemon juice
+   Coke or Pepsi
+   soda or 7-Up
+   Triple Sec
+
+   Mix the rum, vodka, and gin together.  Add the orange juice, lime juice,
+   and lemon juice.  Fill with Coke or Pepsi AND soda or 7-Up.  Top off with
+   Triple Sec. Enjoy in moderation!
+
+   And from drink101.com:
+
+   Ingredients
+   1/2 oz. vodka
+   1/2 oz. gin
+   1/2 oz. light rum
+   1/2 tequila
+   splash of triple sec
+   splash of lime juice
+   splash of Coke or Pepsi
+   Lemon slice for garnish
+
+   Glass: Highball <-- What Marge drank from
+
+   Directions: Combine everything but the Coke into a highball glass with ice,
+   stir gently, add the Coke, squeeze and drop the lemon slice into the drink
+   and serve.
+
+   One key element is that it tastes fine, but kicks a wallop afterwards,
+   especially by the time you down a few like Marge.  Definitely drink in
+   moderation, and give Homer the keys if you drink.
+
+
+>> This week's "how'd they get that past the censor" line is ...
+
+... awarded by Benjamin Robinson ...:  ... "My son's not turning tricks for
+   free!"  The phrase "turning tricks" is used to describe what a prostitute
+   does when she's, um, providing services to a client.
+
+
+>> I don't see how I'll ever get tired of this!
+
+Joe Klemm:  One of the latest trends that is hitting the US is the singing
+   rubber fish. These devices have rubber fish being attached to a plaque as
+   if it was caught. However, by pushing a button or walking pass it, the fish
+   will person and start singing.  This craze is such a hit right now that
+   there's even one singing fish based on Jaws.
+
+
+Mike Reed adds:  Homer's comment on buying a singing rubber fish was a
+   reference to a line of novelties called "Billy Bass."  [...] They sing
+   "Take Me To The River" and "Don't Worry, be Happy."  I've seen the things
+   given as gifts twice this year, and they are the most annoying things ever
+   made.  They hypnotize children and annoy everyone else.
+
+
+>> "She hasn't touched her Manwich"
+
+Matt Gasaway explains what this delicacy is:  It's a name-brand loose meat
+   sandwich thing.  Came in a can.  I think you mixed it with hamburger, like
+   Hamburger Helper.  Come to think of it, I haven't really seen any "Manwich"
+   ads since like the 80's ... which makes it EXACTLY the kind of thing that
+   Patty and Selma would serve at their place.
+
+   Plus, that Manwich was freaking HUGE!
+
+   "For a Man-Sized Appetite, Make it a Manwich Meal".  (The ad went something
+   like that.)
+
+
+>> What people did before Regis
+
+Benjamin Robinson:  Publishers' Clearing House is the most famous of several
+   organizations running multi-million dollar sweepstakes.  When the spectacle
+   of giving away large piles of cash wore thin, their marketing people came
+   upon the idea of dispatching "prize patrol" vans.  Instead of just
+   telephoning the winners, they'd send a small armada of spokespeople,
+   models, and a TV crew to bring the good news and record it for TV
+   commercials.  The commercials became well-known, and are still being
+   spoofed today, in spite of the fact that they haven't run for a while.
+
+
+>> About that ending ...
+
+Someone called "indigolem" sounds off about the latest non-sequitir "ending":
+   Not only have the writers gotten lazy and forgotten just about every rule
+   of story writing, but they now make fun of the fact that they've gotten
+   lazy.  That can be done easily enough by coming here and to other forums to
+   witness fans' gripes (which are, by the way, perfectly legitimate) and
+   throwing them into the episode.  In addition to that, they seem to make
+   their episodes lazily for the very purpose of making fun of that fact.
+
+   Just who do they make their shows for these days?
+
+
+Gene Poole answers:  The very sad part is the fact that they made tonight's
+   ending as a direct joke to those of you who tear each episode apart bit by
+   bit and find nothing redeeming about the show, and yet you miss the point
+   and see it as another flaw in the show.  Y'know what?  Obviously they can
+   make good endings, they choose simply not to.  They like the episodes and
+   the endings the way they are doing them; they're making them this way
+   because it works for them; not because they can't come up with anything
+   better.  Again I say: If you are unhappy with the episodes that are coming
+   out these days, stop watching.
+
+   In conclusion, who are they making their shows for these days?  Not you.
+
+
+Alex J. ThreeThreeOneZeroSix writes:  Huh?  They're making it for the people
+   that ignore the bad and only focus on the good of each episode?  That must
+   be a strong audience to cater to.
+
+   I thought a show like The Simpsons encouraged us to turn away from
+   formulaic sitcoms that had no worthy characters and hardly any original
+   story ideas.
+
+   That was just a stupid ending.  A lazy, stupid ending that some people
+   might find funny because it has absolutely nothing to do with the plot.
+   And yeah, it would have been funny if The Simpsons didn't get away with
+   using the idiotic, "can't make a good conclusion so let's insult the
+   intelligence of the viewing audience" scene so often.
+
+   Why should a series be commended for not even being able to connect a damn
+   conclusion with its original story line?  Why should we commend it for
+   getting away with outrageous story lines?  Didn't Roseanne get canceled for
+   this?
+
+
+>> Fun with promotions
+
+From the intrepid Mike Reed:
+
+   Announcer: The secrets of magic and mind-reading are revealed!
+   Mentalist: I'm getting a drink order.  You want a be--
+   Homer: Beer!  How did you know?
+   (his beer belly flops onto the table)
+   Announcer: Edward Norton guest-stars on an all new Simpsons!
+
+
+>> Hey, you forgot a goof!
+
+You might be wondering why "the fish would have burnt up in the atmosphere"
+   isn't listed in the goof section.  I think the whole implausibility of that
+   gag was deliberate.  Otherwise, you could count as a goof the fact that the
+   cosmonauts weren't sucked out of the hatch when it opened.
+
+   And that the fish would fall directly to earth, instead of remaining in
+   orbit like the space station itself.
+
+   And that, even if a sturgeon could make the trip intact through the
+   atmosphere, it would have struck the ground with enough force to obliterate
+   OFF and much of their immediate surroundings.
+
+   Physics geeks could probably find other errors, too.  But I think it the
+   whole far-fetched quality of this scene was part of the gag.
+
+
+>> Miscellaneous, Etc.
+
+The Joe Green alterna-title for this episode is:  The Wrath of Con
+
+
+According to Fox (by way of Bill LaRue), this episode scored a Nielsen rating
+   of 16.3 (28 share).  This works out to 24.6 million viewers.  Among adults
+   aged 18 to 49, the rating was 10.0 (28 share).
+
+
+Fox goes on to boast:  Since its 12th season premiere, THE SIMPSONS has posted
+   solid gains compared to its performance the same weeks last year,
+   increasing +13% among Adults 18-49 (7.9/18 vs. 7.0/17), +12% in Adults 18-
+   34 (9.6/24 vs. 8.6/23), and +15% in Total Viewers (15.8 vs. 13.7 Mil).
+
+
+Haynes Lee:  I was going through the smoking list and found out that Grampa
+   smoking the pipe is his first smoking appearance.  That leaves Lisa as the
+   only Simpsons family member who has never smoked.
+
+
+Stephen Rennick translates the Russian as:  You idiot!  You lost our dinner!
+
+
+Benjamin Robinson contributes the following:  For our overseas viewers:  Long
+   Island is a real place.  It's the skinny, horizontal island that makes up
+   the "tail" of New York State.
+
+   Sturgeon is the fish that gives us that famous Russian delicacy, caviar.
+   Perhaps this is why the cosmonauts are upset about losing it.
+
+   Homer's car accessories, especially the gold trim, are considered really
+   tacky -- and really appropriate for Homer.
+
+   Yes, there was a "The Sting, Part II."  The audience stayed away in droves,
+   hence Grampa Abe's confidence that no one would guess his scheme.
+
+   Rick James a singer whose big hit was "Superfreak."  He's had several
+   scrapes with the law.
+
+
+==============================================================================
+> Quotes and Scene Summary  {jp}
+==============================================================================
+% The Simpsons drive to the Magic Palace where a valet is waiting to take
+% their car.  Homer lets him, but admonishes him not to joyride.  And just
+% to be safe, Homer takes his toy octopus off the key ring.
+%
+% Inside, the Simpsons sit at a round table in a room with a stage.
+
+Questo: Hello, I'm Questo.  I'll be your waiter *and* mentalist for this
+        evening.  [presses his forehead] I'm receiving a drink order ...
+        something foamy ... is it a bee--
+Homer:  Beer!  Yes!  How did you know?  [his gut bursts from his shirt onto
+        the table]
+Questo: [sets a mug down]  And for the lady, a Long ... Island iced tea.
+        [pulls the drink out of his jacket and sets it in front of Marge]
+Marge:  Oh, they ought to call that a *Large* Island iced tea!  [only she
+        chuckles] No, "Long" is better.
+Lisa:   Are you really gonna to drink that?
+Marge:  Well, maybe a sip; I don't want to offend our mentalist.
+Questo: [aloof, thinking:] If she doesn't like it, I'll just die!
+-- "The Great Money Caper"
+
+% Marge sips at the drink, and later, she's finished it.  Meanwhile, onstage,
+% a magician makes a tiger appear and then levitate.  Marge only looks at her
+% drink.
+
+Lisa:     Mom, you're missing a great show!
+Marge:    You don't *know* what I'm missing.
+          [later, Marge has finished many drinks]
+          I'd like to visit that Long Island place ... if only it were real.
+Magician: Now, for my next illusion, I'll need a volunteer.
+Marge:    [stands up] I'll do it!  I always end up doing it.
+          [Marge stumbles onstage, the audience applauds]
+Magician: I'm Diablo.  What's your name?
+Marge:    Marge.
+Diablo:   Okay, Marge, and who's that gentleman you're with?
+Marge:    That's no gentleman, that's my husband.
+          [laughter, rim shot]
+Lisa:     Wow, Mom got a laugh!
+Bart:     I wish she drank every day.
+Diablo:   Do we love Marge or what?
+          [applause]
+Marge:    Oh, please.  I didn't say that for clapping.
+Diablo:   Now, Marge, I have a problem.
+Marge:    Oh, yeah?
+Diablo:   You see, the emperor of China is coming over, and I don't have
+          enough colorful silks.
+Marge:    Oh.
+Diablo:   So, what I need of you is--
+Marge:    You talk too much.  Abra-cablabra, am I right?
+          [the women laugh]
+          See, the ladies know what I'm talking about.
+-- Drunken Marge assists magician, "The Great Money Caper"
+
+% Sick of dealing with Marge, Diablo puts a ball gag on her and skips to the
+% killotine -- basically four consecutive guillotines.  Diablo puts Marge
+% through all of them.
+
+Diablo: Don't worry, Marge, you won't feel a thing; you'll feel *four* things.
+        [laughter]
+Homer:  He's very good.
+        [the blades fall and Marge disappears in a flash.  From the baskets
+        of the killotine emerge monkeys]
+Homer:  So she was made of chimps!
+Bart:   Man!  Magic can do anything!
+Lisa:   What happened to Mom?
+Marge:  I'm right here!  [comes out of a giant banana peel]
+-- "The Great Money Caper"
+
+% The audience applauds, but then the monkeys run over and start playing
+% rough with Marge.  An announcement is made to help her since it is not part
+% of the act.
+%
+% In the gift shop, a magic kit catches Bart's eye when he realizes he's in
+% the recommended age of 8 to 80.  Bart asks Homer to get it but Homer moves
+% him out of the room.  They find themselves in the gift shop annex.  Bart
+% ends up with the magic kit and reads the box as the family goes home in
+% the car.
+
+Bart:  Wow!  It's approved by the Royal Magic College of Hyderabad!
+Lisa:  [scoffs] That's a party magic college.
+Bart:  It is not!
+Lisa:              Yuh-huh!
+Bart:                        Nuh-uh!
+Lisa:                                 Yuh-huh!
+Marge: Would you cut it out, you two?  Mommy needs some quiet right now.
+-- "The Great Money Caper"
+
+% No chance of that, as a giant fish lands on the hood of the car.  Lisa
+% identifies it as a sturgeon.  It turns out it came from a Russian space
+% station where a careless cosmonaut left the hatch open.
+%
+% The Simpsons take the car in for repairs at Dentz, where the sarcastic man
+% is the mechanic.
+
+Mechanic: [inspects the fish] Well, *there's* your problem.
+Homer:    I know that!  How much to fix it?
+Mechanic: Well, that's a foreign fish we're looking at, so, uh, 6,500 ...
+          plus 3.50.
+Homer:    Oh, I can't afford that!
+Bart:     Maybe I can make some money, Dad.  The magic act is really coming
+          along.  [pulls Snowball II from a top hat, Snowball gasps]
+Homer:    Heh-heh-heh.  He couldn't breathe.
+-- "The Great Money Caper"
+
+% Bart and Homer go to the docks so Bart can do his magic.  Homer yells 
+% through a megaphone to the people passing by.
+
+Step right up!  See the magic boy, with his mystifying feats that will leave
+you scratching your head until it's raw and bloody!
+-- Homer, "The Great Money Caper"
+
+% Ned, Rod, and Todd watch in amazement when Bart pull flowers from Ned's
+% pocket.
+
+Homer: Come on, pony up, Flanders.  The kid's not turning tricks for nothing.
+Ned:   Oh, no.  I could never support the black arts.
+Homer: Black arts?!
+Ned:   Yeah, you know, magic, fortune telling, oriental cooking....
+-- "The Great Money Caper"
+
+% A man with four puppets attached to his arms and legs by poles come up and
+% complains that Bart is in their spot.
+
+Homer: [nervous:] Okay, we'll move.  We don't want any trouble, fellas.
+Bart:  Dad, only one of them is real.
+Homer: I know, but which one?
+-- "The Great Money Caper"
+
+% Later, Homer counts the day's earnings.
+
+Homer:       Sixty cents?  I would have made more if I'd gone into work today!
+Bart:        Hey, don't blame me, I've gotta compete with TV and the internet.
+Homer:       A good son would come through for his dad.
+Bart:        Yeah, and a good dad wouldn't miss his son's little league games!
+Homer:       I told you -- I find them boring!
+Bart:        Well *I* showed up for all your stupid interventions!
+Homer:       Oh, that's it!  You can walk home!  [gets in car and drives away]
+Bart:        Dad, come back!  I can't walk home with all this stuff.
+             [Bart sits on the curb.  Some nearby people noticed the scene]
+Mrs.Hibbert: Poor boy.  Here's some money for bus fare.  [drops money in
+             Bart's top hat]
+Mel:         My father was a monster, too.  [puts money in Bart's hat]
+Puppets Man: Come on, brothers, dig deep.  [drops a bill into the hat as the
+             puppets each drop a bill onto the curb]
+-- "The Great Money Caper"
+
+
+% As Homer drives home, still complaining about Bart's poor show, Bart passes
+% by in a taxi, flaunting his hat full of cash.  At home, Bart eats a steak.
+% Homer finally asks where the money came from.
+
+Bart:  People.  I guess they thought I was a charity case.
+Homer: Really?  Hey, maybe we could do that again!  Can you look even more
+       pathetic?
+       [Bart messes up his face and whimpers]
+       Oh-ho, that's beautiful!  We could make a fortune!
+Bart:  But wouldn't that make us con artists?
+Homer: Well, yeah, but ... God conned *me* out of 6,500 bucks in car repairs.
+Bart:  So ... in a way, we'd just be balancing out the universe.
+Homer: There you go!  We'd be stealing from people we know!  It's just like
+       the seasons!
+Bart:  Sounds good.  Want to eat my fat?
+Homer: I think you know the answer to that.  [gulps down Bart's steak fat]
+-- "The Great Money Caper"
+
+% [End of Act One.  Time:  6:45]
+%
+% In the treehouse, Bart and Homer look through "A Child's Garden of Cons"
+% to find some scams to pull.
+
+Bart:  This book has all the classic cons.  There's the pigeon drop, the ear
+       wigger, the Brillstein grab....
+Homer: They have any father-and-son grifts?
+Bart:  Well, there's the Albany ham scam.
+Homer: Interesting.
+Bart:  Oh, wait, here we go!
+-- "The Great Money Caper"
+
+% In the kitchen, Homer and Bart put frosting on a throw pillow when Marge
+% walks in.
+
+Marge: What are you doing?  Why are you frosting that old throw pillow?
+Homer: I could ask you the very same question.
+Marge: Mmm ... should I just back out of the room?
+Homer: Would you?
+       [she would]
+-- "The Great Money Caper"
+
+% Back at the docks:
+
+Bart:  Okay, Dad, are you ready for our first con?
+Homer: You bet.  Let's trim the mark.
+Bart:  Nice use of the lingo, Homer.
+Homer: 10-4, Kimosabe.
+-- "The Great Money Caper"
+
+% Bart wears black glasses and uses a feeling cane.  In his other hand he
+% holds the fake cake.  Nearby, Kent Brockman finishes a phone call.  He turns
+% around and immediately runs into Bart, who drops the cake.
+
+Kent:  Oh, excuse me.
+Bart:  What happened?  Where's my cake?  [worried:] It's alright, isn't it?
+Kent:  Um....
+Homer: What have you done, you clumsy little ox?!  [gasp] That cake was for
+       your deaf sister!
+Kent:  Sir, it was my fault--
+Homer: No, no.  Don't protect him.  [to Bart:] You'll work off that cake in
+       the acid mines!
+Kent:  Oh, no, no!  I'll pay for the cake.
+Homer: Well, you're the mark.  [Bart jabs him] ...of integrity.
+-- "The Great Money Caper"
+
+% Homer and Bart come home having grifted a lot of money.  They decide the
+% first thing they should buy is a singing rubber fish.  Next they go home.
+
+Marge: There you are.  How was the magic act?
+Homer: What in the hell are you talking about?  [Bart jabs him] Oh, right,
+       the magic!  The magic was great.  It's really the way to go.
+Lisa:  How'd you do your act?  You left your magic kit here.
+Bart:  Or so it would seem!
+       [Bart and Homer leave the room thinking they've fooled Marge and Lisa]
+Lisa:  I don't know, Mom, I think they're up to something.
+Marge: Sure looks that way, but at least Bart and Homer are spending quality
+       time together.
+Lisa:  It that a Long Island iced tea?
+Marge: [picks up the glass]  Oh, this?  Hmm, I think it is!  [drinks it]
+       [slurred:] You're a pretty girl.  [pets Lisa's face]
+-- "The Great Money Caper"
+
+% At the docks, Bart calls for his doggy.  Dr. Hibbert stops to help.  Bart
+% says that his dog was playing in the water when he disappeared.  Bart
+% describes the dog's leash as bright red with bells.  Dr. Hibbert reassures
+% Bart, but then notices a shark offshore with the leash coming out of its
+% mouth.
+
+Hibbert: Oh dear Lord.
+Bart:    He's the bestest dog ever.  He's light brown and he has a spot on
+         him shaped like a heart.
+Hibbert: Sorry, son, but--
+Bart:    I just gotta get him back!  Or, if not him, a similar dog.
+         [Homer in disguise comes by with Santa's Little Helper with a painted
+         heart spot]
+Homer:   Dog for sale!  Dog for sale!
+Hibbert: How much for the dog?
+Homer:   Oh, he's not for sale.
+Hibbert: Guh!
+Homer:   Although ... if the right offer came along....
+-- "The Great Money Caper"
+
+% Back at Dentz, the car has been fixed up -- and then some.  Homer pays
+% the mechanic and gives him a tip.  He turn around and bumps into Bart,
+% wearing a yarmulke, who drops a cake.
+
+Ah!  My bar mitzvah cake!  Oy, I'll never be a man!
+[takes money from the mechanic]
+-- Bart, "The Great Money Caper"
+
+% Homer and Bart walk up to the Flanders' home.
+
+Bart:  Why are we still grifting?  The car's paid for; doesn't that balance
+       out the universe?
+Homer: In a way, but I also remembered some other stuff, like my bike that
+       was stolen in third grade.  Plus the baldness.
+Bart:  Okay, I'm sold.
+       [Homer rings the doorbell and Ned answers]
+Homer: Hello, is the lady of the house in?
+Ned:   Oh, no!  Homer, remember, Maudie got called up to heaven.
+Homer: Oh, of course, of course....  It's just that...
+Ned:   What?
+Homer: ...well, before she died, she ordered this Bible especially for you.
+       [it's a nice personalized Bible]
+Ned:   Why, there's my name ... in gold!
+Homer: Now, you weren't home, so we had to pay the delivery man.
+Ned:   Well, I'll just reimburse you right--  Wait a minute, this seems an
+       awful lot like that movie "Paper Moon".
+Bart:  Run, Dad!
+       [they escape to the treehouse]
+Homer: We'll be safe in here.
+Bart:  That was too close.  Maybe it's time to quit the game.
+Abe:   Amateurs!
+Homer: Dad?
+Abe:   [lights a pipe] That's right!
+Bart:  You don't smoke a pipe.
+Abe:   That's right!  [coughs]
+Homer: How'd you get wise to us?
+Abe:   Are you kidding?  They used to call me Grifty McGrift.  I wrote the
+       book on flimflamming.
+Bart:  [looks at the back of their con book] Wow, he did!
+Abe:   Yeah, in the depression, you had to grift ... either that or work.
+Homer: So, what's the pitch, old man?
+Abe:   Team up with me, boys, and we'll go for the biggest honey pot of 'em
+       all!
+-- "The Great Money Caper"
+
+% The three go to the retirement home.  Bart momentarily feels bad about
+% conning them, but Grandpa reminds them that the old folks would otherwise
+% just give their money to a televangelist.  So, Abe starts to describe the
+% plan: it was in "The Sting Part 2," so nobody knows about it.
+%
+% Abe Simpson is back at the retirement home as Homer and Bart pull up in
+% the car labeled "prize patrol".  They both wear disguises and Homer carries
+% a giant check.
+
+Homer:   Which one of you youngsters is Abe Simpson?
+Abe:     I'm Abe Simpson.
+Homer:   You've just won $10 million from that publisher's cleary dealie!
+Abe:     Wha...?
+Crazy
+Old Man: Everybody, come quick!  Abe Simpson is rich!
+Abe:     I can't believe it!  I can finally afford a young, crazy stripper
+         wife!  [starts dancing] Yeah I'm gonna get me the
+         craziest, strippiest, m--  [grabs chest and falls over]
+Homer:   [checks his pulse] He's dead!
+         [residents murmur]
+Bart:    Oh, this is terrible!  Now who do we give the money to?
+Homer:   I guess we'll just have to haul the check back to headquarters.
+         Too bad we couldn't just give it to these nice folks.
+Bart:    Forget it, Ed.  Do you know what it costs to sign over a check this
+         big?  Why, the wealth transfer fee would run at least $100 a head!
+Homer:   You're right.  We'd better just take this check back for shredding.
+Jasper:  No, wait.  We've got 100 bucks each.  Hang on!
+-- A brilliant scam, "The Great Money Caper"
+
+% The residents all give Homer and Bart money, except for one man who holds
+% out until the end.  He finally comes, handcuffs Homer, and announces himself
+% as FBI, arresting him for fraud.  He readjusts his clothes and stance to
+% no longer look old.  Bart tries to act old to get away, but he too gets
+% cuffed.  The FBI agent asks where the inside man is, so Abe hops into a
+% motorized wheelchair and takes off down the road.
+
+Call me mint jelly, 'cause I'm on the lam!
+-- Abe Simpson, "The Great Money Caper"
+
+% [End of Act Two.  Time:  13:29]
+%
+% The FBI agent compliments Homer and Bart on their car as he uses it to drive
+% them to jail.
+
+Homer:     Thanks!  It took a lot of grifting!  [Bart jabs him]
+Bart:      Please, FBI man, don't throw us in jail!  We just made one mistake!
+Homer:     Yeah, we're not criminals, we're just two crazy, mixed-up kids!
+           [they arrive at the station]
+FBI Agent: Hmm ... okay, tell you what -- I'll let you turn yourselves in.
+           Maybe they'll go easier on you.
+Homer:     You'd do that for us?!
+FBI Agent: [unlocks their handcuffs] Well, I *did* ruin the boy's birthday
+           cake.  Go on in ... [sternly:] but I'll be watching!
+           [on the way up the stairs, Homer tells Bart that he's got an idea]
+Homer:     Chief, I'd like to scare my son straight.  Could I show him a jail
+           cell?
+Wiggum:    Sure, I'll put you in the Rick James suite -- it's super-freaky.
+           [in the cell, Bart and Homer look out the window to the FBI agent]
+Bart:      Okay, we're all locked up now!
+Homer:     Yeah!  [quietly:] You big idiot!
+FBI Agent: Excellent!  I guess I'll just be swiping your car now.
+Homer:     Wha...?
+FBI Agent: Oh, and this lovely bag of cash!  [the money from the previous
+           scam, labeled "evidence"] So long, suckers!  Woo-hoo!  [drives
+           off and throws his badge into the jail cell]
+Bart:      That's not an FBI badge!
+Homer:     Colgate Cavity Patrol?!  [groans]
+Bart:      That guy was a grifter.
+Homer:     Yeah, and he conned us good.  Well, at least we still have our
+           jobs at the sweepstakes place.
+-- "The Great Money Caper"
+
+% Walking home, Bart and Homer realize they need an explanation for the
+% missing car.
+
+Homer: Lies got us into this mess, Son.  From now on, it's honesty all the
+       way.
+       [at Home]
+Marge: You were carjacked ... in the church parking lot?!
+Homer: Absolutely.  We had stopped in for a quick prayer, when -- Bart, would
+       you call him a crazy man?
+Bart:  Definitely ... well, crazy about carjacking.
+Lisa:  What did he look like?
+Homer: Um ... let's see ... he was ... foreign ... and he had...
+Bart:  Wild, bushy hair -- like an animal!
+Lisa:  Anything else?
+Homer: Well, he seemed like a loner -- kept to himself, mostly.
+Bart:  And, he said if we went to the cops, he'd come back for Maggie.
+Marge: [gasps] Oh, dear!  We don't want that!
+Homer: [quickly:] Anywho, the whole nightmare has really made us sleepy.
+       [forced yawn] Let's hit the hay.
+-- Honesty, "The Great Money Caper"
+
+% The next morning, Marge comes into the bedroom to wake up Homer to watch
+% the news, because the crazed, foreign carjacker has been caught.  Live,
+% on TV, Groundskeeper Willie is arrested by Lou and Eddy.
+
+Willie: [on TV:] I didna do it, I tell ya!
+Homer:  Uh-oh.
+Willie: [on TV:] At least let me comb me hair; it's all wild and bushy!
+Wiggum: [on TV:] What do you care, loner?
+Homer:  [fakes enthusiasm:] Well, look at that!  But who called the police?
+Lisa:   We did!
+Marge:  After we got Maggie to a safe house, of course.
+        [at Patty and Selma's, Maggie won't eat her Manwich]
+Willie: [on TV:] You cannot do this to Willie!  I'm innocent I tell ya!
+Marge:  They always say they're innocent.  It's such a turn-off!
+Bart:   Dad, Willie got arrested 'cause of us!
+Homer:  Course he did, son!  He's a filthy crook.  Now let's all hit the hay.
+Marge:  It's 10 in the morning.
+Homer:  I guess you haven't heard of chloroform.  [he chloroforms himself]
+-- Homer and Bart's thief is caught, "The Great Money Caper"
+
+% At court, the pastey faced/blue haired lawyer interrogates Groundskeeper
+% Willie.
+
+Lawyer:   Will you tell the court your whereabouts at the time of the
+          carjacking?
+Willie:   I was alone in me Unabomber-style shack; I had nothing to do with
+          that carjacking.
+Lawyer:   Carjacking?!  Who said anything about a carjacking?
+          [galley and jury murmurs]
+Willie:   But, didn't you just say--?
+Lawyer:   *I'll* ask the questions here, Carjacker Willie!
+Lawyer 2: Objection!
+Judge:    I'm going to allow it -- it characterizes the defendant as a
+          carjacker.
+Bart:     [quietly to Homer:] Dad, we've got to tell everyone the truth!
+Homer:    Let's see how this plays out.
+-- "The Great Money Caper"
+
+% Now the lawyer interrogates Homer.
+
+Lawyer: Mr. Simpson, could you describe your assailant to the court?
+Homer:  I told you, my memory is fuzzy!  Fuzzy!
+Lawyer: Fuzzy like Willie's beard?!
+        [galley gasps]
+Homer:  Yes, exactly!  No, no, I mean, the whole incident is hazy.
+Lawyer: Hazy like the moors of Scotland?!
+        [galley gasps]
+Homer:  Yes, exactly!  [groans and tries to chloroform himself again, but
+        only has Mountain Dew]
+-- "The Great Money Caper"
+
+% Later, in the courtroom, Homer holds a "Justice" pennant.
+
+Judge:  Mr. foreman, has the jury reached a verdict?
+Cletus: [ahem] I believe we was promised $5 a day.  [is handed money] Alright,
+        then.  Guilty!
+        [Willie sobs]
+Judge:  Carjacker Willie, I sentence you to ten years in prison.  [bangs
+        gavel]
+Bart:   Dad, tell them!
+Homer:  When the time is right.
+Willie: Ten years?  But I didna do it!
+Wiggum: Sure you didna.  Now, lets get you to Attica--
+Willie: No!  [snatches Wiggum's gun] You'll never send me up the river!
+Bart:   Dad!
+Homer:  Let's see where he's going with this.
+-- "The Great Money Caper"
+
+% Willie aims the gun through the galley.  Everyone ducks.  A shot is fired
+% through Marge's hair.  Principal Skinner tries to calm Willie down, but is
+% promptly shot through the chest.  He falls to the floor.
+
+Homer:   Stop!  This has gone on just long enough!  Nobody carjacked me.
+         I tried to pull a con, and got conned myself ... and then I lied
+         to you all!  [sobs hysterically] So did Bart.  [continues sobbing]
+Marge:   [rings bell] Okay, players, that's a wrap!
+         [cheering]
+Bart:    Huh?
+Lisa:    Nice work everybody.
+Bart:    Wait a minute, this whole thing was a setup?
+Homer:   But Skinner got shot!
+Skinner: [gets up] Yup, blanks and a blood pack.  [squirts blood, which falls
+         on Ralph]
+Clancy:  Hey, watch it!
+Ralph:   I look like cable TV!
+Bart:    [to Marge:] What about that bullet hole in your hair?
+Marge:   Squibs.  [makes a couple more holes]
+Abe:     [pulls off judge mask] Yeah, we hornswoggled you good.
+Homer:   But what about the guy who took my car?
+         [the "FBI Agent" drives in the courtroom]
+Agent:   Devon Bradley -- character actor, dancer, singer -- I'm a triple
+         threat!
+Marge:   He's doing "Dreamcoat" at the dinner theater.
+Homer:   I can't believe everyone was in on it!
+Willie:  Willie wasn't!
+Homer:   Wait a minute, you're telling me the police force, the TV news, a
+         courthouse full of people, and a popular entertainer had nothing
+         better to do than to teach me and Bart a lesson?
+Lisa:    I know it seems farfetched, even insulting to your intelligence,
+         but there's a simple and highly satisfying explanation.  You see--
+Otto:    [bursts in with a surfboard] Hey everybody, surf's up!
+-- The hoax explained, "The Great Money Caper"
+
+% Everyone cheers and runs out.  Everyone who had been in court now surfs,
+% plus Questo and the cosmonauts.  The sturgeon jumps out of the water and
+% winks at us.
+%
+% [End of Act Three.  Time:  20:09]
+
+
+==============================================================================
+> Contributors
+==============================================================================
+{al}  Andrew Levine
+{bg}  Bruce Gomes
+{bjr} Benjamin Robinson
+{bs}  Benjamin Swell
+{dj}  Darrel Jones
+{gs}  Geoff S.
+{jg2} Joe Green
+{jk}  Joe Klemm
+{jp}  Jerry P.
+{kmc} Kyle M. McCowin
+{mr2} Mike Reed
+{nf}  Ned Flanders
+{ob}  Ostap Bender
+{sb}  Stephen Burks
+{sr}  Stephen Rennick
+
+==============================================================================
+> Legal Mumbo Jumbo
+==============================================================================
+This episode capsule is Copyright 2003 Benjamin Robinson.  It is not to be
+redistributed in a public forum without consent from its author or current
+maintainer (capsules@snpp.com).  All quoted material and episode summaries
+remain property of The Simpsons, Copyright of Twentieth Century Fox.  All
+other contributions remain the properties of their respective authors.  The
+Quote and Scene Summary itself is Copyright 2002 Jerry P.  This capsule has
+been brought to you by Magic Palace.
+
+This work is dedicated to Raymond Chen, James A. Cherry, Ricardo Lafaurie,
+Frederic Briere, and all of those who made episode capsules what they are
+today.

@@ -1,0 +1,659 @@
+<PRE>
+Dead Putting Society                                     Written by Jeff Martin
+                                                         Directed by Rich Moore
+===============================================================================
+[$Id: 7f08 1.4 92/05/25 10:35:43 raymond Exp Locker: raymond $]
+===============================================================================
+> Title sequence
+===============================================================================
+Blackboard :- `I am not a 32 year old woman'.
+              `I am not a 32 year ol' at cutoff.
+
+Lisa's solo:- Traditional.
+
+Driveway   :- Homer says nothing when Lisa scoots past.
+              Homer says `Aaugh!' when the car closes in on him.
+
+Couch      :- Everyone fits, including the pets.
+
+===============================================================================
+> Didja notice...
+===============================================================================
+    ... the beer mug at Flander's house is labelled, `Macho Mug'?
+    ... Ned's note paper is labelled, ``From the `noggin' of Ned''?
+    ... when Homer misses the putt, he hops and waves his arms just like
+        the big mechanical ape that is the obstacle he's trying to clear?
+    ... when Todd waves `Hi Bart!', the pose is identical to the picture
+        that Bart was growling at?
+    ... Lisa and Bart are yanked off a pool table by Krusty?
+        In the background, Jimbo, Kerny and Dolph can be seen shooting pool.
+    ... a Duff truck drives by the golf course?
+    ... Todd's name is engraved on his putter?
+    ... the date on the checks that Bart and Todd receive for winning the
+        golf tournament is Nov 8, 1990, even though the episode first
+        aired on 15 Nov 90? [David Goldreich]
+    ... the checks were made out to $25 each, even though they really ought
+        to have been $30 each, since the first prize was $50 and the
+        second prize was $10?
+    ... the tournament was held on Saturday, but 8 Nov 90 is a Thursday? {dwt}
+
+===============================================================================
+> Movie references
+===============================================================================
+
+  + Full Metal Jacket
+        - Homer names Bart's putter `Charlene'.
+  + The Karate Kid
+        - Bart poses in the `crane' position.
+        - ``Mercy is for the Weak'' {cjb}
+
+===============================================================================
+> Freeze Frame Fun
+===============================================================================
+>> Bart's science experiment
+
+    11:00 Start experiment
+    11:30 Still just a potato
+    12:00  "
+    12:30  "
+     1:00  "
+
+>> Ned Flanders' pre-programmed telephone
+
+    Reverend (home)
+    Reverend (work)
+    Recycling Center
+    Bookmobile
+
+>> Sir Putt-A-Lot's Merrie Olde Fun Centre
+   [I can't read the writing on the sign]
+
+    Please do not [unclear].  Thank you -- management.
+
+    SIR PUTT-A-LOT'S 1st ANNUAL MINIATURE GOLF TOURNAMENT
+
+    1st Prize: $50
+    2nd Prize: $10
+    3rd Prize: $5
+    4th Prize: 1/2 price [obscured]
+
+    FREE BALLOON FOR EVERYONE WHO ENTERS
+
+>> Bart's award shelf
+
+    ribbon: ``6th place''
+    ribbon: ``runner-up''
+    trophy: ``4th place''
+    ribbon: ``honorable mention''
+    ribbon: ``participant''
+    trophy: ``everbody gets a trophy day''
+
+>> The golf tournament
+
+Chris Baird {cjb} presents the tournament tree.
+
+[SIMPSON ]   \
+              - [SIMPSON ] \
+[ MONROE ]   /              \
+                              -- [SIMPSON ]
+[ PRINCE ]   \              /               \
+              - [ WIGGUM ] /                 \
+[ WIGGUM ]   /                                \
+                                                -- [          ]
+[FLANDERS]   \                                /
+              - [FLANDERS] \                 /
+[ MELON  ]   /              \               /
+                              -- [FLANDERS]
+[  LONG  ]   \              /
+              - [  LONG  ] /
+[obscured]   /
+
+Chris Baird adds, ``Interesting to note that Martin [Prince] was
+eliminated in the first round. It also implies that Dr. Monroe and Chief
+Wiggum have progeny... I wonder who they are?''  [Also Ms. Melon from the
+Enriched Learning Center for Gifted Children. --rjc]
+
+Note, though, that golf tournaments are rarely single-elimination.
+It takes too long. {rjc}
+
+>> The golf course
+
+Proposed by Gregg Townsend (gmt@cs.arizona.edu):
+
+Course Layout:  Sir Putt-A-Lot's Merrie Olde Fun Center
+The Simpsons, November 15, 1990
+
+Here is one possible layout that is consistent with the show.
+Some holes are missing; "X" means that hole number is unknown.
+
+1.  Alligator, standing, with boxing gloves.
+    Split-level; center hole leads to parking lot.
+
+X.  Giant skull.  Shoot through missing front teeth.
+
+X.  Windmill.
+
+X.  Lighthouse.
+
+5.  Eiffel Tower.
+
+6.  Big ape.  Arms move, mouth closes; ramp leads up to mouth.
+    ``So difficult that Jack Nicholson himself couldn't make it.''
+
+7.  Pirate, with sword and hooked arm.  Treasure chest on island.
+
+8.  ``Aim for the octopus, third tentacle.''
+
+X.  Dinosaur eating a caveman.  Rectangular zig-zag between legs.
+    ``Finally, a practical use for geometry.''
+    Sign reads, ``Do not climb on statuary''
+
+X.  Great Sphinx.  Pyramidal obstacles.
+    Sphinx has ``The Great Sphinx'' carved on in, in case you didn't
+    recognize it.
+    Sign reads, ``One of the Seven Wonders of the World''
+
+X.  Large shoe.  (The old woman who lives in a shoe?)
+
+12. Graveyard with revolving Angel of Death.
+    ``Bank it off the pink tombstone.''
+
+X.  Itchy and Scratchy in the explosives factory.
+
+X.  Twin cooling towers with atom decoration.
+
+18. Abe Lincoln swinging his legs.
+
+===============================================================================
+> Comments and other observations
+===============================================================================
+
+>> Although she didn't know it, Lisa was in fact breaking the rules of golf
+by holding an umbrella over Bart as he putted.
+
+===============================================================================
+> Quotes
+===============================================================================
+% Homer grouses about mowing the lawn.  ``Supposed to be the boy's job.''
+% Marge reminds him that Bart is doing a science experiment.
+
+One o'clock.  Still just a potato.
+-- Bart's science project, ``Dead Putting Society''
+
+% Ned suggests Homer use some time-release granules to get rid of the
+% crabgrass.  Homer denies that he has any.  Ned points out a few patches,
+% ``There.  There.  And there's a big patch over there.''
+
+There's nothing wrong with crabgrass.  It just has a bad name, that's all.
+Everyone would love it if it had a cute name like, eh, `elfgrass'.
+-- Homer defending crabgrass against Flanders, ``Dead Putting Society''
+
+Homer: Marge, Where's the Duff!?!
+Marge: Ohh, uh, we're all out, Homer.
+Homer: D'oh!
+Marge: Would you like some fruit juice?
+Homer: Don't toy with me, woman!!
+-- Homer needs refreshment while mowing the lawn, ``Dead Putting Society''
+
+% Ned invites Homer into the Rumpus Room for some of his beer.  Homer
+% accepts.  ``I deserve a little break.''  Pull back to reveal that Homer
+% has mowed about twenty square feet.
+%
+% Homer is awed by the beauty of Ned's Rumpus Room.  Maude comes in with
+% a tray of club sandwiches for the guys.  Ned draws a beer from his very
+% own tap.
+
+Ned:   Here's a tasty little lager that came all the way from Holland.
+Homer: Well, buggers can't be choosy.
+-- ``Dead Putting Society''
+
+% Homer downs the mug and burps.  Todd comes in and thanks Ned for his help
+% with his science project.  Homer drinks another beer as he watches the
+% two engage in some typically Flanders-like conversation.
+
+Homer: All right, knock it off!
+Ned:   Knock what off, Simpson?
+Homer: You've been rubbing my nose in it since I got here!
+       Your family is better than my family, your beer comes from <farther>
+       away, than my beer, you and your son like each other, and your wife's
+       <butt>...
+Ned:   [gasp!]
+Homed: ... is higher than my wife's butt!  You make me sick!
+Ned:   Simpson, I'm afraid I'm gonna have to ask you to leave.  I hope you
+       understand.
+Homer: I wouldn't stay on a bet! [finishes his beer, then leaves]
+       [returns]  One for the road. [takes a club sandwich and leaves]
+-- a friendly visit to the Flanders rumpus room, ``Dead Putting Society''
+
+% Homer tosses in bed.
+
+Homer: Lousy bragging know-it-all showoff...
+Marge: What exactly did he say?
+Homer: Get this.  He said, uh, he said...
+       Well, it wasn't so much what he said; it was how he said it.
+Marge: Well, how did he say it?
+Homer: Well, he...
+Marge: Was he angry?
+Homer: No.
+Marge: Was he rude?
+Homer: Okay, okay, it wasn't how he said it, either.
+-- It's the thought that counts, ``Dead Putting Society''
+
+% ``But the message was loud and clear:  Our family stinks.''
+% Marge notes that Ned's been nothing but a perfect neighbor, and Homer
+% latches onto the word `perfect' and decides to take a walk to calm down.
+%
+% Meanwhile, Ned also has difficulty sleeping.
+
+I drag him over here, have a few beers...  You can't blame him for erupting.
+-- Ned Flanders, ``Dead Putting Society''
+
+% Maude suggests she isn't the person Ned should be talking to.  So Ned
+% calls Rev. Lovejoy.
+
+Mrs. Lovejoy: Honey, wake up.  Honey, it sounds like Ned Flanders is
+              having some sort of crisis.
+Rev. Lovejoy: Oh.  Probably stepped on a worm...
+-- Flanders calls in the middle of the night, ``Dead Putting Society''
+
+Ned:   I feel like I violated Matthew 19:19.
+Rev.L: Huh?
+Ned:   Love thy neighbor.
+Rev.L: Oh, Matthew <nineteen> nineteen, yeah, right, right.
+-- ``Dead Putting Society''
+
+% Rev. Lovejoy suggests, ``A gentle answer turneth away wrath,'' then
+% immediately hangs up.  Ned sits down and writes a letter.
+%
+% Ned slips the letter under the Simpsons front door, and is startled by
+% Homer, returning from his walk.  Ned apologetically gives Homer the
+% letter and leaves.  Homer reads it... and laughs.
+%
+% At the breakfast table...
+
+Homer: [reading Ned's letter]  ``You are my brother.''
+Homer+Lisa+Bart: [giggle]
+Homer: ``I love you.''
+Homer+Lisa+Bart: [laugh]
+Homer: ``And yet, I feel a great sadness...'' [tries to stifle a giggle]
+       ``... in my bosom.''
+Homer+Lisa+Bart: [finally lose it and laugh uproariously]
+-- Reading Ned's letter of apology, ``Dead Putting Society''
+
+% Marge scolds them for laughing and excuses herself into the next room,
+% where she giggles, then returns.
+
+Read the `bosom' part again, Dad!
+-- Lisa, ``Dead Putting Society''
+
+% Marge tries to restore order.
+
+Bosom.
+-- Bart, ``Dead Putting Society''
+
+% Marge wishes that her family was as close as the Flanderses.  So Homer
+% offers to take the family miniature golfing, followed by frosty chocolate
+% milkshakes.
+
+Mm.  I <was> going to wash my hair...
+-- Marge, after Homer suggests the family go miniature golfing,
+   ``Dead Putting Society''
+
+Lisa:  And I'm studying for the math fair.
+       If I win, I'll bring home a brand new protractor.
+Homer: Too bad we don't live on a farm.
+-- Homer suggests the family go miniature golfing, ``Dead Putting Society''
+
+% Homer takes Bart and Maggie.
+%
+% Homer putts the ball into the center hole... which deposits the ball in
+% the parking lot.  A passing car kicks the ball down the street.
+
+Play it where it lays, Homer.
+-- Bart after Homer botches a putt, ``Dead Putting Society''
+
+% Maggie wanders off and takes a free ride on the windmill.  Meanwhile,
+% Homer struggles with a mechanical ape obstacle.
+
+Give up homeboy, there's a six stroke limit.
+-- Bart after Homer botches a putt, ``Dead Putting Society''
+
+% The ball goes up the ramp... bangs off the ape's opening-and-closing
+% mouth... and returns to the tee.  Homer hops angrily.  Ned and Todd
+% stop by.
+
+Todd: Hi Bart!
+Bart: Get bent.
+-- friendly greetings at the miniature golf course, ``Dead Putting Society''
+
+Ned:   Oh say, you look like you were having a little trouble there.
+Homer: That shot's impossible!  Jack Nicholson himself couldn't make it!
+-- at the miniature golf course, ``Dead Putting Society''
+
+% Todd suggests playing more conservatively.  Go around, rather than through
+% the obstacle, ``setting yourself up for an easy deuce.''  Todd does so,
+% and manages to get a hole-in-one.
+%
+% They reach Ye End of Course.
+
+Bart:  Final score.  Bart, forty-one.  Homer... let's see...
+       six plus six plus six plus six plus six plus...
+Homer: Never mind!
+-- leaving the miniature golf course, ``Dead Putting Society''
+
+% They spot a sign for a miniature golf tournament.
+
+Todd:  Wow!  First prize fifty dollars!
+Bart:  Wow!  Free balloons for everyone who enters!
+-- A matter of perspective, ``Dead Putting Society''
+
+Ned:   So, my little Bartly, thinking of entering the tournament?
+Homer: Yeah, he's entering.
+       And what's more, he's going to win, aren't you, boy?
+Bart:  I guess it's possible...
+Ned:   Hey hey, I like that confidence.
+-- ``Dead Putting Society''
+
+% Ned notes that Todd is a rather good player.
+
+Oh yeah?  Well I think the fruit of my loins can beat the fruit of your loins
+any day of the week!  C'mon boy!
+-- Homer tells off Flanders, ``Dead Putting Society''
+
+% At the soda fountain.
+
+Bart:   But Dad!  I've never won anything in my life!
+Homer:  Son, this is the only time I'm ever gonna say this.  It is <not>
+        okay to lose!
+-- The ghost of Vince Lombardi? ``Dead Putting Society''
+
+% [End of Act One.  Time: 8:59]
+
+Keep your head down, follow through. [Bart putts and misses]
+Okay, that didn't work.  This time, move your head and don't follow through.
+-- Homer giving putting advice, ``Dead Putting Society''
+
+% Marge and Lisa watch disapprovingly from the house.
+%
+% Practice over, Bart returns to his room and tosses his putter carelessly
+% aside.
+
+Homer: What are you doing!  That putter is to you what a baseball bat is
+       to a baseball player!  What a violin is... to the... the guy that...
+       the violin guy!  Now c'mon!  Give your putter a name.
+Bart:  What?
+Homer: C'mon, give it a name.
+Bart:  Mister Putter.
+Homer: D'oh..  You wanna try a little harder son?  C'mon give it a girl's
+       name.
+Bart:  Mom.
+Homer: Your putter's name is Charlene!
+Bart:  Why?
+Homer: It just is, that's why!  Now this, is a picture of your enemy,
+       Todd Flanders.  Every day, I want you to spend fifteen minutes
+       staring at it.  And concentrating on how much you hate him, and how
+       glorious it will be when you and Charlene annihilate him!
+Bart:  Who's Charlene?
+Homer: [raises the putter, about to wallop Bart with it]
+       I'll show you who Charlene is!  Now start hating!
+Bart:  Grrrrrrrr... rrrrrrrrrrrrr!!!!!!  [loses enthusiasm]
+-- a pep talk, ``Dead Putting Society''
+
+% Todd says hello from his room.
+%
+% Homer raids the fridge.
+
+Marge: Homer, I couldn't help overhearing you warp Bart's mind.
+Homer: And?
+-- ``Dead Putting Society''
+
+Marge: I'm worried that you're making too big a deal of this silly little
+       kiddie golf tournament.
+Homer: But Marge, but this is our big chance to show up the Flandereses. [sic]
+Marge: Well, I'm sure it is, but why do we want to do that?
+Homer: Because sometimes the only way you can feel good about yourself is by
+       making someone else look bad.  And I'm tired of making other people feel
+       good about themselves!
+-- Marge concerned over Homer's tactics, ``Dead Putting Society''
+
+% Bart surveys his less-than-impressive awards shelf.
+
+Bart: Hey Lis, whaddya call those guys in chess that don't matter.
+Lisa: Well, a blockaded bishop is of little value, but I think you're
+      referring to a pawn.
+Bart: Right.  I am a pawn.
+Lisa: Hmm... I know.  It's times like this that I'm thankful Dad has little
+      to no interest in almost everything I do.
+      Bart, I think I can help you.
+-- Lisa offers some sisterly advice, ``Dead Putting Society''
+
+% ``Our journey begins here at the library.''  She greets everyone, then
+% heads for the card catalog.
+
+Golf...  `Anecdotes'... `Eisenhower and'... `fishing'... `humor'...
+`Japanese obsession with'...  Ah, here it is... `Putting'.
+-- Lisa, looking through card catalog under `Golf', ``Dead Putting Society''
+
+Bart: Lisa, we can't afford all these books!
+Lisa: Bart, we're just gonna borrow them.
+Bart: Oh... heh, heh... gotcha!  [wink]
+-- in the library, ``Dead Putting Society''
+
+% As haunting music plays, Bart and Lisa sit in the lotus position
+% alongside a lake.
+
+Lisa: I want you to shut off the logical part of your mind.
+Bart: Okay.
+Lisa: Embrace nothingness.
+Bart: You got it.
+Lisa: Become like an uncarved stone.
+Bart: Done.
+Lisa: Bart, you're just pretending to know what I'm saying!
+Bart: True.
+Lisa: Well, it's very annoying!
+Bart: I'll bet.
+-- ``Dead Putting Society''
+
+% Lisa and Bart sit atop a mountain.
+
+Lisa: What is the sound of one hand clapping?
+Bart: Piece of cake.  [claps with one hand]
+Lisa: No, Bart, it's a 3000-year-old riddle with no anwer.
+      It's supposed to clear your mind of conscious thought.
+Bart: No answer?  Lisa, listen up!  [claps with one hand]
+-- Solving unsolved problems, ``Dead Putting Society''
+
+% Lisa tries again.
+
+Lisa: If a tree falls in the woods and no one's around, does it make a sound?
+Bart: Absolutely!  [makes the sound of a tree falling]
+Lisa: But Bart, how can sound exist if there's no one there to hear it.
+Bart: Wooooooo...
+Lisa: [hands Bart his putter] It is time.
+-- Bart finally gets it, ``Dead Putting Society''
+
+% At the miniature golf course, Lisa takes out a measuring tape.
+
+Lisa: The basis of this game seems to be simple geometry.  All you have
+      to do is hit the ball... here.
+      [Tap] [Clunk-clunk] [Clunk-clunk] [Duh-dunk]
+Bart: I can't believe it.  You actually found a practical use for geometry!
+-- at the miniature golf course, ``Dead Putting Society''
+
+% Bart sinks several more putts.  Lisa holds an umbrella over Bart as he
+% putts.  The course rained out, they practice on a pool table.  Back at
+% the course, Bart sinks a putt blindfolded and standing on one leg.
+% Bart poses on the garbage can in the backyard.  Homer tells him to stop
+% before the neighbors see, but too late.  Ned asks what's up, and Homer
+% promises that Bart will mop the floor with Todd's butt.
+
+Ned:   May the best man win.
+Homer: ``May the best man win.''  The mating call of the loser!
+-- From one who should know, ``Dead Putting Society''
+
+% Homer dares Ned to bet on the outcome, so Ned offers to wager one of Maude's
+% wind chimes against a batch of Marge's blueberry muffins.  Homer asks Ned
+% to make a ``real'' bet and makes chicken sounds for quite a long time.
+
+Simpson, you're starting to annoy me.
+-- Ned Flanders, ``Dead Putting Society''
+
+% Yelling at the top of their lungs, the two agree to make the father of the
+% loser mow the winner's lawn in his wife's Sunday dress.  Marge reluctantly
+% draws up the terms of the agreement.  Ned suggests they phrase the bet as
+% ``the father of the boy who doesn't win'' to avoid hurt feelings.  Marge
+% writes up the bet and asks, ``I hope blood won't be necessary.''  Once
+% Ned steps outside, he asks himself, ``Good gravy, what have I done?''
+%
+% Homer, Bart, and Lisa are at the miniature golf course yet again.
+
+Homer: Keep your left arm straight, Bart!  Rotate your shoulders!
+Lisa+Bart: Daaaad!
+Homer: Look son, all I'm asking is that you try.
+Bart:  Ok, I'll try.
+Homer: D'oh!  Anybody can try!  I want you to <win>!
+-- ``Dead Putting Society''
+
+% Bart swats at the ball, which bounces off an obstacle and careens back
+% towards Homer, who ducks out of the way.
+%
+% Homer fishes through the closet.  He holds up two of Marge's dresses.
+% ``Give me your honest opinion.  This... or this?''
+%
+% [End of Act Two.  Time: 15:15]
+%
+% Homer stands vigil over Bart's bed.  Bart wakes up, sees Homer, and
+% screams.  Homer gently reminds Bart that today is the day of the
+% tournament, and less gently threatens Bart that he'd better win.
+% Downstairs, Marge prepares a breakfast of steak and eggs.
+% Homer reads the paper...
+
+Heh heh heh.  That crazy Marmaduke.
+-- Homer reads the morning paper, ``Dead Putting Society''
+
+% ... while Lisa drills Bart one last time.
+
+Lisa: Eighth hole.
+Bart: Aim for the octopus, third tentacle.
+Lisa: Twelfth hole.
+Bart: Bank it off the pink tombstone.
+Lisa: Nirvanha.
+Bart: A state of bliss obtained through the extinction of the self.
+-- pre-game drills, ``Dead Putting Society''
+
+% Lisa refuses to let Bart eat steak and eggs.  Bart is on a strict diet
+% of complex carbohydrates; steak will make him logey.  Lisa suggests a
+% breakfast of oatmeal.
+
+Lisa:  Oats are what a champion thoroughbred eats before he or she
+       wins the Kentucky Derby.
+Homer: Newsflash, Lisa, Bart is not a horse!
+-- the breakfast table the day of the contest, ``Dead Putting Society''
+
+% ``Eat your steak, boy.''
+%
+% Tournament preparations are complete.
+
+Hello everybody, and welcome to the finale of what has already been
+a stirring afternoon of miniature golf.  The cream has risen.  The
+wheat has bid farewell to the chaff.  And now, we approach the
+championship match where but two warriors remain:  The heretofore
+unknown Bart Simpson and Todd Flanders, one of the most skilled
+ten-year-olds to ever take back the blade.
+-- K.B.B.L. announcer, ``Dead Putting Society''
+
+Lisa: Bart, having never received any words of encouragement myself,
+      I'm not sure how they're supposed to sound.  Here goes.
+      I believe in you.
+Bart: Thanks, man.
+-- pre-game pep talk, ``Dead Putting Society''
+
+Hey Flanders, it's no use praying.  I already did the same thing, and
+we can't <both> win.
+-- Homer, ``Dead Putting Society''
+
+% Ned explains that they were merely praying that no one gets hurt.
+% (At a golf tournament?)
+
+Homer: This time tomorrow, you'll be wearing high heels!
+Ned:   Nope, <you> will.
+Homer: 'Fraid not.
+Ned:   'Fraid so!
+Homer: 'Fraid not.
+Ned:   'Fraid so!
+Homer: 'Fraid not infinity!
+Ned:   'Fraid so infinity plus one!
+Homer: D'oh!
+-- ``Dead Putting Society''
+
+% Todd tees of first and sinks a hole-in-one.  Bart says to himself, ``Tree
+% falling in the woods...  Tree falling in the woods...  Tree falling in
+% the...''  He putts without looking.  And sinks a hole-in-one.
+%
+% The battle continues to the final hole.
+
+If one looks up courage in the Oxford English Dictionary, one might very
+well come upon a photo of these two gladiators.  They approach the final
+hole in the shadow of the Great Emancipator, deadlocked at eight strokes
+on the happy side of par.  Soon, one man will emerge triumphant; he will
+drink naught but champagne, while his opponent tastes bitter defeat in
+this oft cruel game.
+-- ``Dead Putting Society''
+
+% Todd's putt lands a few feet from the hole.  Next up is Bart.
+
+Homer: Remember what Vince Lombardi said:
+       If you lose you're out of the family!
+Marge: Homer!  [slap]
+Homer: Ow.
+-- words of encouragement during the golf match, ``Dead Putting Society''
+
+% The ball heads for the obstacle.  All gasp as it appears it won't make
+% it through.  Then all breathe a sigh of relief when it does.  Bart's
+% ball lands about the same distance from the hole as Todd's.
+
+Bart: This is pretty tense, isn't it, Todd.
+Todd: Yeah, my knees are shaking, I got butterflies in my stomach...
+      But I guess this builds character.
+Bart: Who wants to build character?  Let's quit!
+Todd: Okay.
+-- ``Dead Putting Society''
+
+% The two pick up their balls and announce that they wish to declare the
+% match a draw.  After a brief consultation of the rule book, the judge
+% agrees.
+
+This is the most stirring display of gallantry and sportsmanship since
+Mountbatten gave India back to the Punjabs.
+-- Tearful announcer, ``Dead Putting Society''
+
+% Bart and Todd are each presented with a novelty check for $25.
+% Ned is relieved that the bet is off, but Homer sticks to the letter
+% of the bet:  Since Todd didn't win, Ned has to mow the lawn.  Ned
+% reminds Homer that he must do the same, and Homer says it's a small
+% price to pay.
+%
+% As a crowd of onlookers cheer and hoot, Ned and Homer mow each other's
+% lawns wearing their respective wives' Sunday dress.  The other family
+% members look on embarrassed.  (Except for Bart, who seems to be enjoying
+% it.)
+
+Mm.  My best dress...
+-- Marge watches Homer mow the lawn in her Sunday dress,
+   ``Dead Putting Society''
+
+Why do I get the feeling that someday I'll be describing this to a psychiatrist?
+-- Lisa watching Homer mow the lawn in Marge's dress, ``Dead Putting Society''
+
+% Homer is profoundly humiliated, but Ned chuckles, the situation reminding
+% him of the stunts from his college days.  Moans Homer, ``Oh my God, he's
+% enjoying it!''
+%
+% [End of Act Three.  Time: 20:47]
+===============================================================================
+Episode summaries Copyright 1991-1992 by Raymond Chen.  Not to be redistributed
+in a public forum without permission.  (The quotes themselves, of course,
+remain the property of The Simpsons, and the reproduced articles remain
+the property of the original authors.  I'm just taking credit for the
+compilation.)
+</PRE>

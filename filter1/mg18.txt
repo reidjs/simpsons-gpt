@@ -1,0 +1,88 @@
+% B = Bart, M = Marge, H = Homer, L = Lisa, R = Barber
+%
+% The Simpsons family room.  On the floor are Lisa (playing with a rabbit
+% doll) and Maggie (playing with a rattle).  On the couch are Marge
+% (knitting a scarf) and Homer (reading the newspaper).  Bart enters
+% wearing a sombrero and looks around nervously.  He gradually becomes
+% the center of attention as Homer raises his head from the paper.
+
+H: [suspiciously] How come you're always wearing that hat?
+B: Fashion statement, Dad.
+H: [annoyed] Take off the hat, boy.
+
+% Bart reluctantly does so.  His hair is long.
+
+L: [teasing] Look, he's a beatnik!
+M: [gasp!]  You go get a haircut!
+H: Right now.
+
+% Bart pushes the hair out of his face.
+
+B: I was afraid this moment would come...
+
+% [End of Act One.  Time: 0:19]
+%
+% Bart's sitting in a barber's chair, the barber standing behind him
+% jacking up the chair with his foot.
+
+R: Well, what'll it be, sonny?
+B: [not brightly] Just a little off the top, sir.
+R: Ah, sure thing.
+
+% Close-up on Bart's face as we hear the scissors (*snip snip*) and
+% see hair falling.  Bart watches the hair fall.
+
+R: There ya go.
+
+% The barber spins Bart's chair around so he (and we) can see him in
+% the mirror.  Bart is bald.
+
+R: Well, whaddya think?
+B: [shocked] What the hell did you do to my head?
+R: [as if this happened every day] Well, that'll be five dollars, please.
+
+% The barber shoves a lollipop in Bart's face.
+
+R: Here's a sucker!
+
+% Bart can only stare.
+%
+% [End of Act Two.  Time: 0:38]
+%
+% A window.  Bart appears outside, opens the window (*ungh*) and climbs
+% in, clutching a paper bag in his left hand.  Bart walks to a table,
+% on which is conveniently placed a jar of glue and a piece of cardboard.
+% He pours glue on the cardboard, then empties the bag of hair onto it.
+% (The hair magically assumes its pre-cut shape.)  Bart then pours glue
+% on his head and places the hairy cardboard on his head.  He walks to
+% the mirror and smiles at his achievement.  But the smile vanishes from
+% his face when the hair falls off the cardboard, leaving Bart with a
+% blank piece of cardboard glued to his head.
+%
+% [End of Act Three.  Time: 0:58]
+%
+% Back to the Simpsons family room.
+
+H: Isn't that boy back from the barber yet?
+L: [snitching] I heard him sneaking around in his bedroom.
+H: [calling] Bart!  Front and center!
+
+% Bart comes into the room, hanging his head, which is covered by a
+% paper bag.
+
+B: I'll take it off, but you all gotta promise you won't laugh, okay?
+   Promise?
+H+M+L: We promise.
+
+% Bart removes the bag.
+%
+% All gasp.
+%
+% Then snicker.  (Marge and the girls cover their mouths; Homer hides
+% behind the newspaper.)
+%
+% Then burst out laughing.  (Including Maggie.)
+%
+% [End of Act Four.  Time: 1:23]
+
+<|endoftext|>

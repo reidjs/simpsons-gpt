@@ -1,0 +1,128 @@
+% B = Bart, H = Homer
+%
+% {Curly braces} enclose dialogue or scenes cut in syndication.
+%
+% Homer is in traditional fishing attire.  Floppy hat.  A styrofoam cooler
+% in his arms.  Fishing pole balanced atop the cooler.  Orange life jacket
+% on his shoulders.  (Okay, maybe the life jacket isn't traditional...)
+
+H: I can almost taste that trout already!
+
+% Pull back.  Homer has reached the riverbank.  Behind him, Bart drags
+% a red rowboat.  Bart is facing away from Homer, the upside-down
+% boat covering his head, panting heavily.
+
+B: Where are we?
+H: Cut the chatter, boy.  Get the boat in the water.
+
+% Close-up on Bart, as he falls backwards.
+
+B: Ugh!   (*splash*)  Oof!
+
+% The boat (with Bart in it) drifts away.
+
+B: [waving his arms]  Whoa, I'm adrift!  I'm adrift!
+
+% Homer dives in, swims to the boat, and lifts himself in.
+% (The boat lists in the obvious direction.)
+
+B: Boy, for a second there I thought I was up a creek without a paddle.
+
+% Homer just sits, panting and staring.
+
+B: Dad?
+
+% More panting and staring.
+
+B: Dad?
+
+% [End of Act One.  Time: 0:22]
+%
+% While Bart rows, Homer reclines, enjoying a can of what we presume to
+% be that wonderful Duff.
+
+H: Fetch me a bologna sandwich, there, boy!
+
+% Bart opens the cooler.
+
+B: Uh oh.
+H: [angrily] Don't tell me you forgot to bring the bologna sandwiches!
+
+% Bart sifts through the contents of the cooler.
+
+H: [quietly angry] I want my bologna sandwich now!
+
+% Bart has found a jar labelled ``Bait''.  He empties the worms onto a piece
+% of white bread and hands the sandwich to Homer.
+
+B: Here you go, sir.
+
+% Homer takes the sandwich.
+
+H: What are you staring at?  Go on, have a sandwich yourself.
+B: Uh, I'm not hungry.
+H: (*chomp*) Mmm!  Good!
+B: Whew!
+
+% [End of Act Two.  Time: 0:46]
+%
+% Homer inspects the empty jar of bait.
+
+H: {Hmm.  I} coulda sworn we brought more worms.
+
+% Bart smiles nervously.
+
+H: Hey!
+B: What?
+H: [in a panic] Rapids!
+B: [freaks out] Nnnnngh!
+
+% Top view of the rowboat as it wanders through a rock garden, like a
+% bad video game.  Homer waves his arms wildly.
+
+H: Don't panic!  ... Just keep calm, and we'll zip right through 'em. ...
+   Oh, no!  ... Ooooh! ... Ooh!  ...  Help!
+B: Ugugugugugugug...
+H: Rogogogogogogogogogocks!
+
+% A montage of various shots of Homer and Bart (and the rocks), sort of
+% like a cheap ride at Disneyland.
+%
+% They've reached a calm spot in the river.  Homer is flat on his back.
+% Bart is bleary-eyed.
+
+B: [eyes gone bonkers] That was mildly enjoyable, sir.
+
+% Homer tries to raise his head to respond, then collapses.
+%
+% [End of Act Three.  Time: 1:08]
+%
+% Homer reclines, fishing.  Bart rows.  Homer is missing his right shoe.
+
+H: Sing that little ditty you were singing before, boy.
+   It calms my nerves.
+
+B: [singing] Row, row, row your boat...
+H: That's the tune!
+B: ...gently down the stream.
+H: Ah, yes...
+
+% The boat nears a waterfall.  Bart doesn't see it because he's rowing.
+% Homer is facing the wrong way.
+
+B: Merrily, merrily, merrily, merrily...
+
+% And over it goes.
+
+B: (*gasp*)
+B+H: Yaaaaaaaaaaaaaaaaaaaaargh!
+
+% (*splash*)
+%
+% The boat emerges from the mist.  Two very tired fisherman aboard.
+
+B: [with lost enthusiasm, spoken] Life is but a dream.
+
+% [End of Act Four.  Time: 1:25]
+
+<|endoftext|>

@@ -1,0 +1,1542 @@
+You Only Move Twice                               Written by John Swartzwelder
+                                                     Directed by Mike Anderson
+==============================================================================
+Production code: 3F23                      Original airdate in U.S.:  3-Nov-96
+Capsule revision C, 14-Jun-97            Original airdate in Canada:  2-Nov-96
+==============================================================================
+> "TV Guide" Synopsis  {am}
+==============================================================================
+   In the eight season opener, Homer's new job moves the Simpsons to an
+   idyllic planned community.  But his new, easygoing boss (voice of
+   Albert Brooks) has some trouble with the government"
+
+==============================================================================
+> Title sequence
+==============================================================================
+Blackboard :- I did not learn everything I need to know in kindergarten.
+              I did not learn everything I need to know in kinde/ at
+              cutoff.
+
+Lisa's solo:- Transcribed by Alan J Rosenthal, amended by Raymond Chen.
+                         .                 . .     .
+                      b  b   b b             b     -
+                 1..887./3__87878_ 1..8888/5_3868_/3.    (in 4/4)
+
+                  Recycled from 8F04.
+
+               [The last occurrence of Lisa's solo was in 3F31, although
+               we _saw_ it last in 2F32, more than 18 months ago.]
+
+Couch      :- Everybody descends via parachute to the couch, except
+              Homer, who lands on the floor with an unopened chute on
+              his back
+
+==============================================================================
+> Did you notice...
+==============================================================================
+    ... the Cypress Creek Video features a bunch of hot air balloons and
+        the main one has the Globex logo on it?
+    ... the remedial class students all sound and look like Ralph
+        Wiggum?
+    ... Lisa was never shown in school?  [see comments]
+    ... a general at the end looks like Norman Schwarzkopf?
+    ... Homer kicks aside a grenade?
+    ... the Springfield Shopper now costs 35 cents?
+
+Dale G. Abersold:
+    ... it sounds like Nancy Cartwright provides Maggie's noises on the 
+        swing?
+    ... the Cypress Creek Milhouse has shorter shorts and hair than the
+        Springfield Milhouse?
+    ... it looks like OFF moved to Cypress Creek in the spring (was this
+        episode originally planned to air last season)?
+
+Frederic Briere:
+    ... Cypress Creek Elementary has a first aid kit in every class?
+    ... during musical chair, the teacher says everybody's a winner,
+        even though Bart is still standing?
+
+James R. Curry:
+    ... after Hank tells Homer that he didn't even give him his coat,
+        the coat reappears back on Hank, the wrong way around?
+
+Jennifer Dougall:
+    ... when the Simpsons left Springfield, someone was glaringly
+        missing at Springfield Elementary:  Willy!
+
+Don Del Grande:
+    ... when the parachutes open in the couch opening, Lisa and Bart
+        open their mouths, and Maggie closes her eyes?
+    ... in the couch opening, Maggie lands on an armrest?
+    ... the Globex limousine has no license plate?
+    ... Smithers is offered insurance for his "life partner"?
+    ... Homer has more seniority than Lenny and Carl?
+    ... when they leave their house, Maggie is asleep, but when the
+        people start saying goodbye, she's awake?
+    ... Homer appears to be the only one who drives to work at Globex?
+    ... one of Homer's employees has a mug shaped like a nuclear cooling
+        tower on his monitor?
+
+Dominik Halas:
+    ... Pedro the bee guy works for Channel 6 in this episode?
+    ... Homer's hair (both the top hairs and the M's at the back) ripple
+        in the wind when he sticks his head out of the car window?
+    ... the wind chimes in the kitchen are creating the "sparkling"
+        sound?
+
+Jason Hancock:
+    ... Homer has worked at SNPP for ten years?
+    ... the anchor shop is right next to the Android's Dungeon?
+    ... OFF's new house has an electronic thermostat?
+    ... the fourth-grade classroom has a slickboard (which is white and
+        written on with markers instead of chalk)?
+    ... Otto has a girlfriend named Crystal?
+
+Tony Hill:
+    ... Smithers is rejecting coverage for his "life partner"?
+    ... there are no covers on the speakers?
+    ... there are at least five coffee outlets in the remade Cypress
+        Creek?
+    ... no one is wearing seatbelts en route to Cypress Creek?
+    ... the solar panels on the new house?
+    ... Homer abandons his dollar?
+    ... Homer pulls a Homer?  (kicking the grenade aside)
+
+Pamela S. Klemm:
+    ... there is a gas station near the Springfield city border?
+    ... one of the bad student's names was Dot?
+        [an Animaniacs character voiced by Tress MacNeille]
+
+Lawrence Lam:
+    ... when Maggie's struggling for the off button you get to hear her
+        voice again?
+    ... the school is full of Springfield look-alikes just like the
+        Shelbyville lookalikes?
+    ... the Jerseys in the Sports Shop are #9 and #33?
+    ... even though this is the perfect place and everything, the
+        vending machine still won't take Homer's Bills?
+
+Haynes Lee:
+    ... TV Guide lists this show as the "Season Premiere"?
+    ... Homer is the most senior SNPP worker after Smithers?
+    ... middle geek has toy mobile on top of his computer?
+    ... OFF returns to a lawn of uncut grass and a pile of newspapers?
+
+Adam Manterys:
+    ... Bart graffitis with a crayon on the back of the front car seats
+        for no apparent reason?
+    ... the sun and cloud shot when OFF returns to Springfield is
+        similar to opening sequence?
+
+Luis R. Merino:
+    ... that there are 10 people in the fun run?
+    ... there is a fireplace in Hank Scorpio's office?
+
+David Ney:
+    ... the lady in the limo looks a lot like Linda McCartney?
+    ... Marge didn't correct Homer about his lifelong dream?
+    ... the bicyclists in the Cypress Creek video?
+    ... all of the stores pictured in the Cypress Creek video were
+        coffee shops?
+    ... Prof. Frink was drinking a Squishee?
+    ... Dr. Hibbert's patient waved?
+    ... Scorpio runs without his shoes?
+    ... the sexual reference in the sugar/cream thing?  [see comments]
+
+Damian Penny:
+    ... when Otto looks at the house, the remains of the chimney haven't
+        been cleaned up?
+    ... a girl in the new school looks like Allison from "Lisa's Rival"?
+    ... Broncos #7 (Elway) gets hit in the head with the ball?
+    ... Albert Brooks is credited as "A. Brooks"?
+
+Mark Aaron Richey:
+    ... the pink clouds in the couch gag?
+    ... Lisa rubbing her arm after Bart shoves her aside?
+    ... the chimney lying on the ground outside?
+    ... the gas station right outside of town?
+    ... the security alarm on the new house's wall?
+    ... the sport memorabilia shop is called "The Spend Zone"?
+    ... Homer scratches his butt while Scorpio talks to the council?
+    ... the man on fire that runs past during the battle?
+
+Benjamin J. Robinson:
+    ... they deliberately muffed the "split sentence" gag?
+        (When Scorpio's assistant announced Homer's candidacy for the
+        job, the dialogue went from "His name is," to Homer shouting
+        "Marge!" Normally, the transition would require Homer to shout
+        his =own= name.)
+    ... Lisa is foolish enough to touch a wild animal?  (Kids!  Don't
+        try that at home!)
+    ... a Lombardi Super Bowl trophy next to Landry's hat?
+    ... Homer idly scratches his butt while Scorpio delivers his threat
+        to the UN?
+
+Liam J. Scanlan:
+    ... Maggie lands on the arm of the couch in the couch gag?
+    ... Smithers, Otto, Flanders and Apu are the only Springfieldians
+        that have more than one line?
+    ... Flanders doesn't think about his camcorder, which is the most
+        expensive thing Homer has ever burrowed?
+    ... Nelson is the only Springfieldian that dosen't say goodbye?
+    ... not only does Springfield and Shelbyville have a Milhouse, but
+        Cypress Creek does too? (Unconfirmed name)
+    ... Hank trusts Homer? (Homer isn't the kind of guy you can trust)
+    ... we have no idea how Lisa's doing in school?
+
+Rick Senger:
+    ... Smithers is wearing too short "flood water" pants on the street?
+    ... Otto is wearing frilly culotte socks in the Simpsons' house?
+    ... besides the other items borrowed in earlier episodes, Homer has
+        Ned's downstairs bathtub?
+    ... Homer has never heard of Mike Milken?
+    ... Bart doesn't know cursive, multiplication tables or long
+        division?
+    ... Yeardley Smith doesn't sneeze very convincingly?
+    ... when the Simpsons return to their Springfield house, their grass
+        is about a foot high?
+    ... although the Broncos have one of the best records in the league
+        this year, Homer acts as though they are terrible and they
+        appear to drop every pass?
+
+==============================================================================
+> Voice credits
+==============================================================================
+   [Once again, many wild guesses. Contact me if you know better. --ed]
+
+- Starring
+    - Dan Castellaneta (Homer, Burns' lawyer, Barney, Bumblebee Man,
+         Krusty, Sideshow Mel, Mayor Quimby, Bont)
+    - Julie Kavner (Marge)
+    - Nancy Cartwright (Bart, Nelson, Gordy, Dot, Warren)
+    - Yeardley Smith (Lisa)
+    - Hank Azaria (Announcer #1, Apu, Prof. Frink, Moe, Comic Book Guy,
+         Nick Riviera, Snake, Chief Wiggum, Chalmers, Worker #1, cool
+         kid, UN man #2, Globex guard)
+    - Harry Shearer (Smithers, Man on video, Announcer #2, Otto, Ned,
+         Rev. Lovejoy, Burns, Captain McAllister, Dr. Hibbert, Seymour
+         Skinner, Worker #2, Regular teacher, UN man #1, Telegram man)
+
+- Special Guest Voice
+    - A. [Albert] Brooks  (Hank Scorpio)
+
+- Also Starring
+    - Pamela Hayden  (Globex woman, woman in video, Milhouse, Milhouse's
+         double, Hank's secretary)
+    - Tress MacNeille  (Agnes Skinner, Remedial class teacher, countdown
+         P.A.)
+
+==============================================================================
+> Movie (and other) references
+==============================================================================
+   + "Everything I Need to Know I Learned in Kindergarten", best-seller
+     by Robert Fulghum
+      - blackboard gag
+
+   + Any James Bond Movie
+      - Mr. "Bont" look similar to Bond
+      - shootout in villain's cavernous hideaway, with henchmen running
+        along catwalks along the walls  {dp}
+      - Hank Scorpio: the villains in James Bond films usually have odd
+        names (Dr. No, Goldfinger, Blofeld...)  {mar}
+     "Dr. No" (1962)
+      - a flamethrower was also used in this movie  {mk}
+   + "You Only Live Twice" (1967)
+      - title
+      - Scorpio's doomsday gun room looks just like the rocket room at
+        the end of this movie
+      - final fight scene with troops dropping in through the roof
+   + "Goldfinger"
+      - Bond/Bont chained to a table with a laser nearing his groin
+      - "Do you expect me to talk?" // "No, I expect you to die!"
+      - in the movie, Bond gets Goldfinger to stop; here, Bont uses a
+        quarter {rl}
+      - closing song is a takeoff from this movie's theme song
+   + "Goldeneye"
+      - the principal female villain kills an opponent by squeezing his
+        neck between her legs, just like Xenia Onnatop
+
+   + "Hooray For Hollywood", 1937 song from the movie "Hollywood
+     Showcase"
+      - Smithers' song at the beginning of the episode.
+
+   + "My Fair Lady" {dga}
+      - Smithers steps out of his house much like Henry Higgins does
+
+   + "The Money Pit"  {ljs}
+      - house falling apart
+      - someone falls through the top floor
+
+   + "A Tale of Two Cities" from Charles Dickens
+      - "A Tale of One City" video
+
+     "The Firm"
+      - a new job that's just _too_ good  {dga}
+      - the scene in which they first drive up to the house is a
+        reference to this movie  {tb}
+
+     "The Stepford Wives"
+      - similar plot about moving to a too-perfect town  {dp}
+      - Marge drinking the wine  {ddg}
+
+   ~ McDonald's commercial
+      - Maggie in her Swing-A-Majig reminds one of this commercial  {bs}
+      - follow-up of this commercial had the swing stop, and the baby
+        reaching a switch to resume it  {dtm}
+
+     "The Jetsons"  {dp}
+      - the moving sidewalks in the exercise room
+
+     "Rhoda"  {msr}
+      - the "fall in my arms and I'll catch you" gag, and the phone
+        rings right when the person falls
+
+     "Dr. Strangelove" {dga}
+      - a "Doomsday Device"
+
+   + "The Pink Panther Strikes Again" (Inspector Clouseau movie)  {hl}
+      - Clouseau's boss goes mad and threatens to destroy the world with
+        a ray gun he has commandeered
+
+   + "59th Street Bridge" song by Simon and Garfunkel  {rs}
+      - Scorpio blows up this bridge
+
+     "In Living Color"  {eh}
+      - A sketch called "Snack and Shack Cafe" had a waitress that got
+        condiments from her shirt.
+
+   + "Barney and Friends"
+      - "I Like Me, I Like Me" is similar to Barney the Dinosaur's
+        infamous "I Love You, You Love Me" song
+
+   ~ "Police Academy"  {hl}
+      - Leslie Easterbrook's character subdues men by squeezing their
+        heads between her thighs
+
+     "Command & Conquer" computer game  {ak}
+      - closing scenes with the marines fighting Scorpio's troopers
+      - Scorpio flame-throwing people and throwing grenades
+
+==============================================================================
+> Previous episode references
+==============================================================================
+- Homer's Boyhood/Lifelong Dreams  {dh}
+   - [8F19] manage a beautiful country singer / eat the world's biggest
+            hoagie
+   - [9F05] living in the woods and keeping a journal of his thoughts
+   - [9F10] be a monorail conductor / run out on a baseball field during
+            a game
+   - [1F08] be a blackjack dealer / appear on "The Gong Show"
+   - [2F10] work in a bowling alley
+   - [3F05] gain weight so he can work at home
+   - [3F23] own the Dallas Cowboys
+
+- Internet References  {jh}
+   - [1F02] The nerds who stay with OFF read a Star Trek newsgroup.
+   - [2F06] "The nerds on the Internet are not geeks."
+   - [2F10] Homer: "The information superhighway showed the average
+            person what some nerd thinks about Star Trek."
+   - [2F17] Comic Book Guy logs onto alt.nerd.obsessive newsgroup.
+   - [2F21] Lenny brings a "Girls of the Internet" deck of cards to play
+            poker with.
+   - [3F23] Cypress Creek Elementary has a webpage.
+
+- Previous James Bond References  {dga}
+   - [7G08] Goldfinger laser scene when removing Bart's tattoo  {hl}
+   - [8F04] Homer saves the plant with 007 seconds left  {sv}
+   - [9F03] Bart (as Blofeld) melts James Bond in the microwave
+   - [9F14] Bart pets Lisa's hamster just like Blofeld  {ljs}
+   - [9F22] The "laser between the legs" scene done by Itchy & Scratchy
+   - [2F10] The couch gag copies the beginning of James Bond movies
+   - [3F18] A picture of Sean Connery as 007, signed by Roger Moore
+   - [3F31] Outtake from [1F08] featuring James Bond in the casino
+
+- Albert Brooks previous appearances:  {eh}
+   - [7G09] Cowboy Bob, RV salesman
+   - [7G11] Jacques, professional bowler
+   - [1F05] Brad Goodman, McGonigle (?)
+
+- [MG03] The old fall/jump-in-my-arms-but-I-drop-you gag
+- [7G02], [9F18] Bart is placed in a more advanced class  {jh}
+- [7G04] Marge drinks alcohol
+- [7G11] Albert Brooks mentions bowling
+- [7F05] Homer leave state for a better job  {hl}
+- [7F05], [9F22] The Simpsons move
+- [7F07] Homer claims the Cowboys are his favorite team  {dp}
+- [7F20] The "fall backwards into someone's arms" trust exercise appears
+- [8F01] Bart calls a room (cf. a bed)
+- [8F09] Homer tries to feed tattered dollar bill into vending machine
+- [8F21] Otto lives in OFF's house
+- [9F05] OFF's house is falling apart
+- [9F08], [1F03] Ned's TV tray and power sander Homer borrowed
+- [9F11] Lisa reads a Cypress Creek (cf. Duff Gardens) pamphlet
+- [9F22] Denver Broncos referenced (cf. Homer's dream to be John Elway
+         in 9F22)  {jh}
+- [1F04] Bart (cf. Burns) nearly says the "B" word before being cut off
+         {jh}
+- [1F06] A kid named Warren appears  {ljs}
+- [1F07] Bart can't read a teacher's handwriting  {jh}
+- [1F17] Loose sugar  {hl}
+- [1F20] Homer makes an anti-French reference  {dga}
+- [2F02] Bart is demoted to a lower grade level
+- [2F08] Marge's obsession with housekeeping chores
+- [2F11] "Cursive writing does not mean what I think it is"
+- [2F11] A bridge gets blown up  {dn}
+- [2F14] There's a mortgage on the house  {mss}
+- [2F15] Lisa wandering in the woods
+- [2F22] Another Milhouse appears
+- [3F07] Tom Landry is seen
+- [3F14] Homer's proud of his motivational skills  {hl}
+- [3F17] Marge gets bored to death
+- [3F18] All Springfieldians join in for one scene
+- [4F02] Death ray machine appeared  {hl}
+
+==============================================================================
+> Freeze frame fun
+==============================================================================
+- Things in the Lil' Lugger trailer:
+   - the traditional TV with the ugly antenna
+   - books
+   - plant
+   - lamp on leg
+   - bicycle  (the old model with reflector attached to fender)
+   - Ned's downstairs bathtub
+   - rug
+   - table lamp
+   - Ned's power sander
+   - barbecue  (although it only looks like a barbecue under one angle)
+
+
+- Leaving Springfield sign:
+
+            LEAVING           (simple enough!)
+          SPRINGFIELD
+
+
+- Cypress Creek sign:  (on a nice-looking wooden sign)
+
+        [landscape]
+        Welcome  To
+       C Y P R E S S
+         C R E E K
+
+
+- In Homer's office:
+
+         "THERE'S NO ME IN TEAM"
+      [silhouette of people rowing]
+
+
+- School sign:  (again on wood)
+
+           CYPRESS CREEK
+         ELEMENTARY SCHOOL
+      http://www.studynet.edu
+
+
+- Bart's cursive sentence:
+
+      Quentin and Tammy
+      went to the zoo
+           on Sunday.
+
+
+- Hank's office door:
+
+      HANK SCORPIO
+        PRESIDENT
+       Come on in
+
+
+- Newspaper headline:  {jh}
+
+	Springfield Shopper
+      =======================
+      DAILY NEWS          35c
+      =======================
+           SUPERVILLAIN
+	 SEIZES EAST COAST
+
+
+- Overseas Animation: Akom, N.J. Kim {ddg}
+
+==============================================================================
+> Animation, continuity, and other goofs
+==============================================================================
++ Smithers switches houses, yet again.  {rl}
+
++ The Bush/Ford mansion across the street in 3F09 (that reappeared in
+  3F18 and 3F20) is not there anymore.  {mss}
+
++ The chimney is on the wrong side of the house.  {lrm}
+
++ We've never seen Ned's downstairs bathtub.  {sb}
+
+- The animation of the car (with the trailer) is jerky.  {ddg}
+
++ Captain McAllister has never had a store next to the Android's
+  Dungeon.  {dh}
+
++ There is supposed to be a parking lot in front of Springfield
+  Elementary.  {dh}
+
++ In Bart's Comet the only way out of Springfield was through the Bridge
+  but the Simpsons didn't use a Bridge to leave Springfield.  {ll}
+
+* There's no possible way Maggie could have avoided being thrown out of
+  the Swing-A-Majig the way it was working.  {ddg}
+
+= The hall with the moving sidewalk is not the hall that is seen through
+  the glass doors where Homer's staff is working.  {mar}
+
+- When Scorpio leaves Homer's station after someone stole his lunch, he
+  turns blue behind the glass door, but everything else stays in regular
+  color.  {dk}
+
+c Bart nearly says the "B" word, but the closed-captions have him trying
+  to say the "S" word.  {jh}
+
++ Bart has done division before. See 8F22.  {ljs}
+
+= The A on the blackboard is thick with no hole at first, then it has a
+  hole in it.  {eh}
+
+* There's no such thing as a northern reticulated chipmunk.  {dh}
+
+= OFF was passing a flower shop, then suddenly they were in front of
+  "The Spend Zone".  {mar}
+
+* "The Spend Zone" has what looks like a Vince Lombardi (Super Bowl)
+  Trophy, but they're silver, not gold-colored.  {ddg}
+
++ Lisa lives with two pets that never affect her; but in Cypress Creek
+  she seems to have extremely sensitive allergies.  {sb}
+
++ Lisa wasn't allergic to anything at Kamp Krusty.  {ddg}
+
++ Bart complains about being in remedial courses, but in 7G05, he says
+  that Nelson Muntz is "in all the same remedial classes I am".  {rl}
+
++ Bart objected strongly to being moved back in school, but in 2F04 he
+  seemed to be quite enjoying kindergarten.  {sb}
+
+= When Homer enters the laser room 3 doors open. When Homer passes
+  through the doors, you only hear one set of doors shut?  {ll}
+
+==============================================================================
+> Reviews
+==============================================================================
+Dale G. Abersold: In many ways, this was what I like to see in Simpsons
+   episodes: a well-developed plot with plenty of gags.  On the other
+   hand, this ep seemed to be listless; Albert Brooks has done far
+   better in the past.  Still, it started off well with a long opening
+   sequence (the first Lisa sax solo in ages!), and a great final act.
+   (B)
+
+Jennifer M. Blaske: As the show went off, and they started singing that
+   Scorpio Song, I suddenly said, "Oh! That was supposed to be a James
+   Bond thing, huh?"  Hopefully that is forgiveable since I've never
+   actually seen a James Bond movie. It also explains why I wasn't crazy
+   about this ep, while some of you loved it. Mainly, I felt they could
+   have developed the subplots with the other family members a little
+   better. I particularly didn't understand why Lisa was never in
+   school. I give it a B-, with the understanding that a Bond fan would
+   probably give it at least a B+.
+
+Don Del Grande: this is definitely not up to the typical Swartzwelder
+   standard; the story doesn't go anywhere.  It would have been a
+   B-minus had it not been for the turn from the obvious "Homer saves
+   the East Coast" ending.  (B)
+
+Dominik Halas: Quite a good episode.  This was one of the more
+   interesting examples of the "take OFF out of Springfield and place
+   them in an unusual situation" type of episode.  The characterization
+   was generally spot-on; nothing seemed out of place.  Scorpio was a
+   well-written and enjoyable character;  Homer's indifferent reaction
+   to Scorpio's evil plot was hilarious.  (A-)
+
+Jason Hancock: I really didn't care too much for this episode.  Maggie's
+   adventure in the Swing-a-Majig gave me the hardest laughs in this
+   episode, and there were a few smaller laughs here and there.  But the
+   main plot began way too soon for me, with Homer getting the job right
+   off the bat, and there was a little too much violence at the end. (C)
+
+Patrick Hayden: My God!  That was easily the funniest episode since
+   "Sideshow Bob Roberts!"  It just didn't let up.  [...]  Sure, it
+   seemed really far-fetched, and could have been a good Halloween
+   episode in some respects, but I was ROTFL so much a hardly cared.
+   And, it had a good ending, one that really fit in with the irreverant
+   attitude of the rest of the show.  The Denver Bronco's! HA! Anyway,
+   this episode deserves an A, and gives me a lot more hope for the new
+   season.  You can't beat John Swartzwelder for a great Simpsons
+   episode, at least not unless you're Jon Vitti.  Anyway, go Scorpio!
+
+Tony Hill: This episode doesn't have too much going for it.  On the plus
+   side, we got another stab at Disney and the longest opening in recent
+   memory.  But the shoving and phone gags were too predictible, and
+   Scorpio simply wasn't credible.  There was too much plastic reality
+   left at the end. Unless Homer's owning the Denver Broncos and the
+   east coast being seized by a madman are to be part of the show.  (C-)
+
+Ryan Johnson: It's nice to see the full opening again!  I was suprised
+   to see that some of the violence seemed to be in bad taste (closeup
+   of Bond getting shot), unlike the more cartoony feel of most of the
+   death and destruction that we have seen before.  All in all I thought
+   this was a bit too outlandish, but at least this action adventure
+   episode wasn't as bad as the flying hellfish.  (C+)
+
+Pamela S. Klemm: Now, this is how you should start off the new season.
+   The scene where Homer quits his dream job had me ROTFL and having
+   Tress (don't you hate it when you forget last names) as Bart's new
+   teacher was great, esspecially since I am a big fan of Kids WB.  (A+)
+
+Andrew Krupowicz: This was one of the greatest episodes in recent
+   memory. It balanced out everyone's little stories while centering on
+   Homer. Homer's blind obedience was at times silly, but overall the
+   whole episode was another spectacle. I'm also glad that the long
+   intros have returned!  (A+)
+
+Ricardo Lafaurie: A rather silly romp.  Albert Brooks did a pretty good
+   job playing the pleasantly evil Hank Scorpio, but everything seemed
+   twisted.  A lot like "The Boy Who Knew Too Much", but not as
+   farfetched.  Still, pretty damn farfetched.  (C+)
+
+David Ney: This was a very strange episode.  It almost seemed like a
+   halloween episode, what with the drastic changes to the series, and
+   nothing getting resolved at the end.  A very different format for a
+   Simpsons episode. There were a few good gags, but overall it was just
+   kind of odd.  I give it a (C+)
+
+Damian Penny: One of the more forgettable episodes I've seen; this one
+   just wasn't as well written as I've come to expect.  The only big
+   laughs come from Bart's remedial class and a climax that parodies
+   just about every 007 movie ever made.  Worst of all was Homer's new
+   boss, who was just plain annoying.  (C)
+
+Mark Aaron Richey: A very entertaining episode.  Only Homer could find
+   himself working for a James Bond supervillian and not even notice it.
+   I also feel a lot of sympathy with Lisa, since I'm allergic to just
+   about every type of plant life, too.  A terrific parody of James Bond
+   and too good to be true corporations.  Plus, Homer finally had a
+   lifelong dream that made sense!  (B+)
+
+Matt Rose: Pretty good. Just like last week, I like the plot but there
+   weren't as many jokes as I'd like. Still, it worked for me.  I was
+   disappointed we didn't get to see Lisa in class. I enjoyed seeing
+   the whole town involved in the good-bye. I also liked the end of it
+   with the Denver Broncos. Add a half a grade for bringing back the
+   full opening theme...  (B+)
+
+Rick Senger: A middling episode greatly improved by Albert Brooks' peppy
+   performance as the frenetically friendly yet psychopathic Hank
+   Scorpio.  Scorpio is the first refreshing new character in over a
+   year; unique, humorous and well-thought-out.  The pieces were there
+   for a great 'sode, and there were some good lines, including the bit
+   about all the wood being enough to supply the sawdust for a day's
+   worth of vomit at Disneyland and Homer's unique managerial skills.
+   However, Marge basically disappeared once they arrived other than her
+   two drinks (which was a good idea, but not developed).  Similarly,
+   Bart's insertion in the slow class was a good idea which just didn't
+   quite get the proper Simpsons examination. Still, I can't deny I
+   laughed in spots and Albert Brooks was great.  (B+)
+
+Marge Starbrod-Simpson: Definatly better than the Halloween special.
+   It's nice to see the chalkboard back, and the couch gag was great!
+   However, for some reason this episode went a little too fast for me,
+   and some of it was far-fetched. Nonetheless, this episode gets an A-.
+
+Yours Truly: Now, that's more like it. Although the story didn't work
+   well with the rest of the family, Homer was at his best in this
+   episode. Unlike many times before, he wasn't portrayed as a stupid
+   boob or unaware genius, but simply as a man who loves his job. For
+   once, he was good as what he was doing, but was willing to sacrifice
+   it all for the good of his family. One might say this is a lot like
+   2F10, but it worked then and it works now.
+      Not much to say on the whole "Bond" plot, as I never actually sat
+   down and watched a whole movie from this series. I must say, however,
+   that despite how annoying Scorpio was, he looked a lot like the new
+   generation of bosses (or whatever they prefer to be called) who are
+   equally annoying.
+      One point the writers should pay attention to, though, is
+   meta-humor and recurring jokes. If you overuse those, they quickly
+   move from hilarious to plain annoying. I think Marge's "*What*
+   lifelong dream?" shows that they are aware of this and are willing to
+   move on. One lifelong dream a year is well enough.
+      In other departments, the long series of "bye bye" feeled somewhat
+   forced; it would've fit better as a season finale than a premiere...
+   And the final battle *was* a bit too eerie for the show. On the other
+   hand, the ending was just perfect: sharp and witty, like 3F16.
+      In short? Some bumps along the way, but a step towards great
+   comedy where The Simpsons belong.  (B)
+
+
+AVERAGE GRADE: B (3.01)
+
+NIELSEN RATING:  8.5  (ranked 51st out of 116)  {ol}
+
+==============================================================================
+> Comments and other observations
+==============================================================================
+>> The name's Brooks. Albert Brooks.
+
+Dale G. Abersold: Guest voice Albert Brooks is a multitalented actor,
+   writer, and director, who has previously guested as Jacques, Cowboy
+   Bob, and Brad Goodman.  He's made films such as "Modern Romance,"
+   "Lost in America," and the forthcoming "Mom."  He's also acted for
+   Simpsons honcho James L. Brooks in the films "Broadcast News" and
+   "I'll Do Anything."  And his real name is Albert Einstein.  Honest.
+
+Mark Aaron Richey: Some completely unwanted and unneeded stuff on Albert
+   Brooks: His real name is Albert Einstein (gee, I wonder why he
+   changed it).  His brother, Bob Einstein, plays "Super Dave" Osborne.
+   He played Julie Kavner's love interest in James L. Brooks's "I'll Do
+   Anything" (possibly the single movie with the most OFF connections of
+   all time.  Too bad it sucked). His new movie, "Mother", with Debbie
+   Reynolds, opens in December.
+
+
+>> For Your Eyes Only
+
+Mark Aaron Richey: Mr. Bont looks and sounds exactly like Sean Connery's
+   James Bond, the best and most well known fictional secret agent.  He
+   started his long career in the Ian Fleming novel "Casino Royale".  In
+   1962, British producer Albert Broccoli had the bright idea of
+   bringing the super spy to the big screen.  He hired a little known
+   Scottish actor named Sean Connery to play the lead, in an adaption of
+   Fleming's "Dr. No".  Since then, there's been 17 "official" Bond
+   films (including last fall's smash, "GoldenEye"), as well as an
+   "unofficial" film (1983's "Never Say Never Again", in which Connery
+   returned to the role of Bond for the first time since 1971), and a
+   big-budgeted, all star spoof (1967's "Casino Royale", with David
+   Niven, Peter Sellers, and Woody Allen).
+
+Mario Lucero: Agent James Bond is played by David Niven.  (Although many
+   others are referred to as James Bond.)  Woody Allen is *a* Bond, but
+   not James.
+
+
+>> Football Follies
+
+Mark Aaron Richey: Despite Bart and Lisa's laughter, Homer's latest
+   lifelong dream is actually a logical one.  Who hasn't dreamed of
+   owning The Greatest Sports Franchise Ever (OK, that may be an
+   exaggeration, but they are The Greatest Football Team Ever).  The
+   Cowboys were founded in 1960, along with the AFL's Dallas Texans (who
+   are now the Kansas City Chiefs).  Tom Landry (see below) was the
+   coach.  The 'Boys first campaign wasn't very successful, going 0-10-1
+   their first season. However, they soon improved vastly, arriving in
+   their first championship game in 1966 (losing to Green Bay).  They
+   made their first Super Bowl in early 1971 (exactly six years before
+   my birth), and won their first championship in 1972.  So far, they've
+   won five out of the seven Super Bowls they've been too, including
+   three of the last four.  They currently play in Irving, a suburb of
+   The Greatest City In The World (and only a half hour drive from
+   Plano, The Greatest Suburb In The World), in lovely Texas Stadium. To
+   make a long story short, they are, quite simply, The Best Team In The
+   History Of The NFL (yes, I'm a Cowboys fan).
+
+Jason Hancock: The Denver Broncos are one of three NFL teams with the
+   dubious distinction of having lost four Super Bowls (the Buffalo
+   Bills and Minnesota Vikings are the other two).  For the record, they
+   lost in Super Bowls XII (to the Dallas Cowboys), XXI (to the New York
+   Giants), XXII (to the Washington Redskins), and XXIV (to the San
+   Francisco 49ers).
+
+Benjamin J. Robinson: Tom Landry is a former coach of the Dallas
+   Cowboys; the hat that Homer bought is one of his trademarks. Coaching
+   the Cowboys to the elite ranks of pro football would be another of
+   his trademarks.
+
+   Of course, it's silly for Homer to think that he could own the Dallas
+   Cowboys.  That's almost as unlikely as the owner being a power-crazed
+   egomaniac who would give a Super Bowl-winning coach the boot over a
+   personality conflict.
+
+Robert Vasquez: What's with the Denver Broncos gags? In "Lisa the
+   Greek," they get blown out by the Patriots; in "Cape Feare," they get
+   blown out by the 49ers. And now this! Why couldn't Homer have gotten
+   stuck with a team NOBODY cares about, like the Seattle Seahawks?
+
+Benjamin J. Robinson: Homer ought to have been pretty happy to receive
+   ownership of the Denver Broncos.  As of this writing, the team has a
+   7-1 record, and looks like a reasonable playoff contender.  Perhaps
+   the writers should have played it safe, and given Homer the Tampa Bay
+   Buccaneers.
+
+
+>> Cypress Creek? Why, it's just next Springfield; you can't miss it!
+
+Benjamin J. Robinson: Usually, when someone refers to a "corporate
+   town," they're talking about a city where there is one dominant
+   employer.  The Disney Corporation changed that definition when they
+   announced the founding of Celebration, a planned community near
+   Kissimmee, Florida.  Realizing a long-held dream of Walt Disney,
+   Celebration is a planned community similar to Cypress Creek, but with
+   fewer mountains.  Like the fictional Cypress Creek, Celebration
+   features a small-town feel, upscale housing, and a state-of-the-art
+   school.  Celebration's first residents have just started to move in;
+   only time will tell if the real city will run as smoothly as its
+   television counterpart.
+
+Orion Suydam: On the way to Cypress Creek, the Simpsons drove through
+   Redwood forests, typical landscape of the Pacific Northwest.  They
+   ended up in a town that could be a suburb of Seattle. Anyone who's
+   been to Seattle know how easy it is to get coffee. How many coffee
+   shops were in Cypress? 5?  Then, as you said, you have the whole laid
+   back corporate atmosphere that Microsoft is known for.  But, you
+   could take it a step further.  Hank Scorpio, I'm guessing, was a self
+   made millionaire struggling for money and power, much like Bill
+   Gates. Microsoft as well as Globex, are in big trouble with the
+   government (anti-competitive business practices) and haven't you ever
+   heard someone suggest in jest that Microsoft is trying to take over
+   the world?
+
+Jason L. Smith: Redwood trees are certainly not "everywhere" in the
+   Pacific Northwest, and there are none near Seattle. Living, native
+   Redwoods can only be found in the coastal regions of extreme
+   California and extreme southern Oregon. Also, the "lifestyle"
+   attitude stereotype depicted in the episode is more like that of
+   Northern California than the Seattle area.
+
+Ryan Johnson: I live about 2 blocks away from Bill Gates house, and
+   about 20 miles from the Microsoft campus, and Microsoft doesn't seem
+   to have that large of an influence.  I live in a suburb of Seattle
+   called Medina which is pretty much where all of the yuppies live. You
+   can walk a pretty short distance to get to the homes of the microsoft
+   execs, which are *huge* (great place to take your kids
+   trick-or-treating I might add).  They look like something out of a
+   Lexus commercial.  Anyway, except for about a stretch of half a mile
+   on the waterfront, Microsoft really doesn't create that much of an
+   impact on the job market in seattle.  Boeing is one of the larger
+   businesses here, and if they went out of business it would have a
+   huge impact on the city, while we would just see more geeks wandering
+   the streets if Microsoft went out of business.  As for everything
+   turning into a coffee house, that was a much larger craze a few years
+   ago.  Now the coffee culture is still around, or maybe I've just
+   gotten used to it.  Can you get an expresso at your gas station or is
+   that unique to seattle?(no I'm *not* kidding, the BP down the street
+   does this)
+
+
+>> Aw, just like in those Apple infomercials...
+
+Mark Aaron Richey: This is a joke on the ever-increasing reach of the
+   Internet (which, of course, you are on right now).  Just about every
+   university, as well as an ever growing number of public and private
+   schools, have web sites (my old school district's web site is at
+   http://www.pisd.edu if anybody cares).
+
+
+>> "Heh heh heh, I can see why _this_ is so popular!"
+
+Mark Aaron Richey: "I like me" is sung to the tune of "This Old Man"
+   (This Old Man/he played one/he played knick-knack on my thumb...).
+   However, the tune is probably more familiar to everyone as the tune
+   of "I Love You", the evil theme song of the evil purple dinosaur,
+   Barney (even if he was created by two women from Allen, TX, which is
+   just north of my suburb of Plano).
+
+
+>> Lisa? Skipping School?
+
+Benjamin J. Robinson: A number of eagle-eyed viewers noticed that Lisa
+   seems to be skipping school.  That is, scenes of Bart in remedial
+   class are intercut with scenes of Lisa in the woods, which gives the
+   impression that both events are happening at the same time. This was
+   probably an honest error on the part of the writers.  Even so, it's
+   possible to explain the error away quite neatly.
+
+   Some school districts have adopted "year-round schooling."  Students
+   under this plan go to school the same number of days as students
+   under a traditional schedule, but their vacation time is spread out
+   in two or three-week chunks throughout the year.  Some of the
+   year-round schools split up their classes and stagger vacations
+   between groups; while group "A" is in school, group "B" is on
+   holiday, and vice versa.
+
+   Cypress Creek, then, is a year-round school.  When the Simpsons moved
+   in, the second grade happened to be on vacation, while the fourth was
+   in class.  Lisa, therefore, had a perfectly good reason to be out in
+   the forest -- her class was "rotated out" on vacation!  Had the
+   episode taken place sometime else in the year, Lisa might have been
+   in class (not the same one as Bart, hopefully) and Bart would be out
+   terrorizing the folks in Cypress Creek.
+
+   Or you could still just say the writers messed up.  It's your call.
+
+   [If you look carefully, on the first shot of Lisa's venturing in the
+   woods, you can see the school bus in front of OFF's house. I guess
+   she's taking a walk after her day of school; note that she's still
+   carrying her backpack. --ed]
+
+
+>> The Art of Writing Illegibly
+
+Benjamin J. Robinson: In all fairness to Bart, I should note that my
+   class didn't officially learn cursive writing until the third or
+   fourth grade.  (It certainly wasn't much earlier than that -- I
+   ticked off my second grade teacher by trying to learn cursive writing
+   on my own.)  So, Bart really isn't as far behind in his studies as
+   the Cypress Creek faculty thinks he is.
+
+
+>> I've had all I can stands and I can't stands no more!
+
+Mark Aaron Richey: Popeye was the very strong sailor star of a long
+   running series of cartoons. The basic plot went something like this.
+   Popeye would be doing something with Olive Oyl, his girlfriend.
+   Bluto/Brutis would arrive, beat up Popeye, and kidnap Oyl.  Popeye
+   would eat a can of spinach, instantly get very strong, and beat up
+   Bluto/Brutis.  Oyl would swoon in ecstasy.  Popeye would laugh.
+
+
+>> You Say Goodbye, and I Say Hello...
+
+Don Del Grande lists Springfield's farewells to OFF:
+
+[as they come out of the driveway]  Ned Flanders: Bye-Diddly-Eye
+                                   Burns' Lawyer: So Long
+[in front of the church]        Reverend Lovejoy: God Bless You
+[Kwik-E-Mart]                    Professor Frink: See Ya, N'hey
+                                             Apu: Goodbye
+[Moe's]                                   Barney: Bye Bye, Homer
+                                             Moe: Take Care
+[Channel 6]                        Bumblebee Man: Adios
+                                          Krusty: So Long
+                                    Sideshow Mel: Fare Thee Well
+[Anchor Shoppe & Android Dungeon]
+                             Captain MacAllister: Arr, Bon Voyage
+                                  Comic Book Guy: Toodle-Ooh
+[city hall]                         Mayor Quimby: Uh, So Long
+[SNPP]                                  Smithers: Bye Bye
+                                           Burns: Ta Ta
+[hospital's emergency]              Nick Riviera: Bye, Everybody
+                                     Dr. Hibbert: Bye Bye
+[police station]                           Snake: Sayonara, Dude
+                                    Chief Wiggum: So Long
+[Springfield Elementary]                Children: Bye Bye
+                                Skinner's Mother: Bye Bye, Now
+                                        Milhouse: Bye
+                                            Otto: See Ya
+                               Principal Skinner: Bye
+                         Superintendent Chalmers: Bye Bye
+                                          Nelson: Ha-Ha
+
+
+>> Scorpio's Lyrics
+
+Nate Grey provides us with the lyrics of the Goldfinger song parody:
+
+Scorpio!
+He'll sting you with his dreams of power and wealth.
+Beware of Scorpio!
+His twisted twin obsessions are his plot to rule the world
+And his employees' health.
+He'll welcome you into his lair,
+Like the nobleman welcomes his guest.
+With free dental care and a stock plan that helps you invest!
+But beware of his generous pensions,
+Plus three weeks paid vacation each year,
+And on Fridays the lunchroom serves hot dogs and burgers and beer!
+He loves German beer!
+
+It was funny but a bunch of naked dancing girls would have made it
+perfect.  [after all, McBain did much better in 7F16 --ed]
+
+
+>> Those Immortal Threads
+
+   - Where is Springfield?
+
+Tony Hill: Obviously not on the east coast, according to Scorpio's
+   telegram.  Also, Homer said that Cypress Creek is "upstate,"
+   suggesting it's in a state with vertical rather than horizontal
+   orientation (Indiana or Mississippi, for example, rather than North
+   Carolina or Massachusetts) and that Springfield is in the southern
+   part of the state.
+
+   - Is Smithers Gay?
+
+Haynes Lee: Smithers refuses a lucrative job offer from an attractive
+   woman in a stretch limousine. His reply was that he is "spoken for"
+   despite of her offering extended healthcare benefits for his "life
+   partner".
+
+
+>> Loose Ends
+
+Haynes Lee: A well-endowed waitress serves coffee and asks the customers
+   if they want any sugar. "Yes" they say so she sticks her hand into
+   her blouse and takes out some sugar packets. She puts her hand into
+   her blouse again and asks if they want any milk. "No no!" as the
+   customers vigorously shake their heads.
+
+Mark Aaron Richey: Secretariat was the 1973 Triple Crown winner, and one
+   of the greatest race horses of all time.  He died in 1989, but it's
+   extremely unlikely that he is now a baseball.
+
+James R. Curry: I can quite honestly say that this is the first episode
+   for ages that seems to have escaped the evil scissors of the SKY
+   editing crew.
+
+==============================================================================
+> Quotes and Scene Summary
+==============================================================================
+% It's a beautiful day in Springfield, and Waylon Smithers comes out of
+% his house.
+
+[to the tune of "Hooray for Hollywood"]
+I work for Monty Burns,
+Muh-muh-muh-muh-muh-muh-muh Monty Burns.
+-- What keeps Waylon Smithers alive, "You Only Move Twice"
+
+% As he merrily hums on his walk to work, a limousine slows down to his
+% pace and a woman offers him a ride -- which he kindly refuses.
+% Nonetheless, she explains to him that Globex Corporation would be
+% interested in hiring him, offering an impressive salary plus health
+% benefit for him and his "life partner". Smithers gets annoyed.
+
+What's wrong with this country? Can't a man walk down the street without
+being offered a job?
+-- Smithers' view of America, "You Only Move Twice"
+
+% With Smithers out of question, Globex chooses the next most senior
+% employee, which happens to be... Homer. He explains the whole deal to
+% Marge, but the job requires them to move to Cypress Creek.
+
+Marge: You took a new job in a strange town without discussing it with
+       your family?
+Homer: Of course not. I wouldn't do that!  [pause]  Why not?
+Marge: We have roots here, Homer. We have friends and family and library
+       cards... Bart's lawyer is here.
+-- All the essential commodities, "You Only Move Twice"
+
+Homer: But, Marge, this is a chance for me to fulfil my lifelong dream.
+Marge: *What* lifelong dream?
+-- Just pick one from the list, "You Only Move Twice"
+
+Homer: Promise not to laugh? I always wanted to own the Dallas Cowboys.
+        [Bart and Lisa laugh]
+ Lisa: I'm sorry, Dad. I just find that very cute.
+-- "You Only Move Twice"
+
+% But Marge isn't happy at all with the idea of leaving her town.
+
+Marge: I've dug myself into a happy little rut here and I'm not about to
+       hoist myself out of it.
+Homer: Just bring the rut with ya, Honey.
+-- "You Only Move Twice"
+
+% Homer doesn't give up, and loads a promotional video in the VCR.
+
+   TV: "Cypress Creek: The Tale of One City".
+Homer: Uh, let's watch something else.
+Marge: Homer, you're trying to talk us into moving to this place.
+Homer: Oh, yeah, that's right. Let's watch this.
+-- The power of conviction, "You Only Move Twice"
+
+% The promotional video is as crappy as you could imagine, picturing an
+% ugly suburb, plagued with criminality, which turns into the perfect
+% community; parking meters become trees, abandoned warehouses become
+% coffee shops, and a bum becomes a mailbox.
+
+Announcer #1: Cypress Creek: where dreams come true.
+Announcer #2: [quickly] Your dreams may vary from those of Globex
+              Corporation, its subsidiaries and shareholders.
+-- A fair warning, "You Only Move Twice"
+
+Homer: Well, what do you think of me and Cypress Creek now, Marge?
+Marge: It does seem nicer than Springfield.
+ Lisa: Yeah, did you notice how the people weren't shoving or knocking
+       each other down? I've never been to a place like that before.
+ Bart: [shoves her aside]  Me neither.
+-- "You Only Move Twice"
+
+% Since Cypress Creek looks like a nice town, the job would pay more,
+% and the house is falling apart (vouched by the chimney crumbling),
+% Marge agrees to move. That is, as soon as they can sell the house...
+
+Oh, wow! Windows!
+-- Otto takes a look at the house, "You Only Move Twice"
+
+% The next visitor is Apu:
+
+  Apu: Hello. I am not interested in buying your house, but I would like
+       to use your rest room, flip through your magazines, rearrange
+       your carefully shelved items and handle your food products in an
+       unsanitary manner. Ha! Now you know how it feels!  [runs off]
+Homer: Thank you. Come again.
+-- Getting things off his chest, "You Only Move Twice"
+
+% But despite the number of visitors, no one is interested in buying
+% this crumbling house. Proving their point, Bart nearly falls through
+% the roof, and Marge has to push him up with a broom.
+
+      Marge: Even if we sell the house, we still don't come close to
+             paying off the mortgage.
+              [pause]
+Homer+Marge: [getting a flash] Hey...
+              [Homer nails an "Abandoned" sign to the door]
+-- The answer to all your mortgage problems, "You Only Move Twice"
+
+% Homer and Marge make the final preparations for their moving.
+
+  Ned: Uh, huh-huh... Homer, ah... About those things you borrowed from
+       me over the years, you know, the TV trays, the power sander, the
+       downstairs bathtub... You gonna be... needing those things in
+       Cypress Creek?
+Homer: Yes.
+  Ned: Oh. Uh...
+Homer: [reciting] Okily dokily...
+  Ned: Okily dokily!
+-- 8 years of Ned-handling, "You Only Move Twice"
+
+% And off they go, greeted by everybody in Springfield.
+
+Homer: I'm gonna miss Springfield. This town's been awfully good to us.
+ Bart: No, it hasn't, Dad. That's why we're leaving.
+Homer: Oh, yeah.  [pokes his head out the window]  So long, Stinktown!
+-- And thus it ends, "You Only Move Twice"
+
+% [End of Act One. Time: 4:46]
+%
+% OFF drives through the woods around Cypress Creek.
+
+It says here, one of these giant redwood trees can provide enough
+sawdust to cover an entire day's worth of vomit at Disneyland.
+-- Lisa reads the Cypress Creek brochure, "You Only Move Twice"
+
+% After much "ooh"s, "ah"s and "oh"s, they finally reach their
+% destination: 15201 Maple Systems Road. This house is bigger than they
+% never could've imagined -- or afforded; the living room itself, which
+% Bart calls immediately, could easily hold the whole 1st floor of their
+% previous house.
+%
+% They are quickly greeted by Hank Scorpio, Globex's president.
+
+Homer: Wow, my boss.
+ Hank: Don't call me that word. I don't like things that elevate me
+       about the other people. I'm just like you. Oh, sure, I come later
+       in the day, I get paid a lot more and I take longer vacations,
+       but I don't like the word "boss".
+-- Though I like its income, "You Only Move Twice"
+
+ Hank: Hey, look at my feet. You like those moccasins? Look in your
+       closet; there's a pair for you. Don't like them? Then neither do
+       I! [throws them out]  Get the hell outta here! Ever see a guy say
+       good-bye to a shoe?
+Homer: [chuckles]  Yeah, it's fun!
+-- "You Only Move Twice"
+
+Marge: Mr. Scorpio, this house is almost too good for us. I keep
+       expecting to get the bum's rush.
+ Hank: We don't have bums in our town, Marge, and if we did they
+       wouldn't rush; they'd be allowed to go at their own pace.
+-- The spirit of Cypress Creek, "You Only Move Twice"
+
+% After a few words, Hank rushed back to the fun run he was into,
+% looking forward to see Homer at work -- although he doesn't like to
+% call it "work".
+%
+% The next day, everybody meets with his/her new life in Cypress Creek.
+
+Marge: Okay, the oven is cleaning itself, the autovac's on dirt patrol,
+       and Maggie's enjoying her Swing-A-Majig.
+        [said Maggie tries desperately to reach the "off" switch]
+       I can't believe it. I've done all my housework, and it's only
+       9:30.  [looses her smile]
+       Well, better go upstairs and make sure the beds are still made.
+-- Some tough competition, "You Only Move Twice"
+
+% At work, Homer gets acquainted with his new environment, especially
+% his boss.
+
+ Hank: You will notice, my new best friend, that we are pretty casual
+       around here.
+Homer: Yes, sir. I will notice that. Very casual, Mr. Scorpion.
+-- Preaching by the example, "You Only Move Twice"
+
+% Mr. "Scorpion" urges Homer to call him Hank, and proceeds to initiate
+% him to the local atmosphere.
+
+ Hank: Would you mind hanging my coat up on the wall, please?
+Homer: Mm-hmm.  [taking his coat]  Hmm, uh, let's see...
+        [the floor is one big room, with windows all around]
+       Um, uh, well, uh...
+ Hank: [laughs]  Relax, Homer. At Globex, we don't believe in walls.
+       Matter of fact, I didn't even give you my coat.
+Homer: Mmm?  [his hands are indeed empty]
+        [Hank is now wearing his coat]
+       Wow.
+-- Better than Houdini and Copperfield put together,
+      "You Only Move Twice"
+
+% While they exercise a little on a treadmill, Hank tells Homer that
+% Globex was his lifelong dream. They next step on a moving sidewalk,
+% and Homer confides his own lifelong dream. Hank understands: "They
+% laughed at me the first time I wore jeans with a sport coat."
+%
+% They step in Homer's workstation, where three people busily working on
+% computers welcome them.
+
+These gentlemen here will be your eyes and your ears, and should the
+need arise, they'll fill in for any other part of your body.
+-- Which one's the beer belly?, "You Only Move Twice"
+
+ Hank: Your job will be to manage and motivate them. Give 'em the
+       benefit of your years of experience.
+Homer: Don't worry, that won't take long.
+-- About two minutes and a half, "You Only Move Twice"
+
+ Hank: The key to motivation is trust. Let me show you what I mean. I
+       want you to close your eyes and fall backwards, and I'll catch
+       you. That's gonna show you what trust is all about. Ready?
+Homer: Right.
+ Hank: Three... Two...  [phone rings]  One second...
+        [Hank answers the phone and Homer falls to the ground]
+       Oh, my God, the guy's on the floor.
+       Uh, that was a phone call; don't chalk that up to mistrust, now.
+-- "You Only Move Twice"
+
+% The phone call was carrying bad news: somebody ate part of Hank's
+% lunch. He must leave to investigate the matter.
+
+ Hank: I'm gonna leave everything to you. We're on a tight schedule. You
+       keep them motivated.  [he leaves]
+        [his staff is busily working]
+Homer: [to staff]  Are you guys working?
+Man 1: Yes, sir, Mr. Simpson.
+Homer: Could you, um... work any harder than this?
+Man 2: Sure thing, boss.
+        [they do]
+Homer: Hey, call me Homer.
+-- You too can learn my secrets to successful mananagement,
+      "You Only Move Twice"
+
+% The other half of the family, namely the kids, step in for their first
+% day at Cypress Creek Elementary. Bart manages to fit in pretty well,
+% by doing some armpit noises.
+
+Kid 1: You got a fresh sound. It'll play well at this school.
+Kid 2: [looking a lot like Milhouse]  Hey, Bart, do you have a best
+       friend yet? 'Cause I've been looking for someone to boss me
+       around.
+-- That's hard to find around here, "You Only Move Twice"
+
+% Unfortunately for Bart, things get bad once the grammar course starts,
+% as cursive writing is giving problems to him.
+
+Teacher: So, you never learned cursive?
+   Bart: Um, well, I know hell and damn and bit...
+-- Saved by the bleep, "You Only Move Twice"
+
+% It seems Bart is years behind of schedule, so he's transferred to a
+% "more remedial environment", ie. the leg-up program.
+%
+% At home, the situation isn't that bright either when Marge find out
+% that automatic sprinklers are watering the flowers. In fact,
+% everything is just perfect, which leaves her with nothing else to do
+% than to sip a glass of wine.
+%
+% Back to school, Bart meets with his new classmates.
+
+  Bart: So, what are you in for?
+ Gordy: [slowly and strangely sounding]  I moved here from Canada, and
+        they think I'm slow, eh?
+   Dot: I fell off the jungle gym and when I woke up I was in here.
+Warren: I start fires.
+-- Dead Leg-Up Society, "You Only Move Twice"
+
+Teacher: Okay. Now, everyone take out your safety pencil and a circle of
+         paper. This week, I hope we can finish our work on the letter
+         "A".
+   Bart: Let me get this straight. We're behind the rest of our class
+         and we're going to catch up to them by going slower than they
+         are?  [making "crazy" gesture]  Cuckoo.
+   Kids: [imitating him]  Cuckoo. Cuckoo. Cuckoo. Cuckoo.
+Teacher: Stop it! Stop it! Warren! Melvin! Gary! Dot! Gordy!
+-- My new menagerie, "You Only Move Twice"
+
+   Bart: Listen lady, I'm s'pose to be in the fourth grade.
+Teacher: Seems to me that someone's got a case of the "s'pose'das".
+   Bart: [moans]
+          [Warren pats him on the back thrice, but on the fourth time,
+          he just smacks him]
+Teacher: Warren!
+-- "You Only Move Twice"
+
+% Up to this point, the only Simpson who seems to be enjoying herself is
+% Lisa, as she gazes upon the beauties of the neighborhood woods.
+
+Lisa: [to a nearby chipmunk]  Hello, Mr. Chipmunk. You're a northern
+      reticulated chipmunk. Yes, you are.  [pokes its nose]  You are so
+      reticulated.
+      [to an owl]  Hi, Mrs. Owl. You're out kind of early.
+      [walks off merrily]  La-la-la, la-la...
+       [as soon as she's out, the owl grabs the chipmunk]
+-- Better than Time Life, "You Only Move Twice"
+
+% After a day of good and bad events for everyone, the whole family
+% takes a walk in Cypress Creek Promenade.
+
+Mr. Scorpio says productivity is up two percent, and it's all because of
+_my_ motivational techniques. Like, donuts. And a possibility of more
+donuts to come.
+-- Homer's second secret to successful management, "You Only Move Twice"
+
+% Bart's attention is brought by The Spend Zone, a shop full of sports
+% collectible.
+
+Wow, a baseball made out of Secretariat!
+-- Bart gazes upon the Spend Zone, "You Only Move Twice"
+
+Homer: [gasps]  Tom Landry's hat, and it's autographed. "To Berman's Dry
+       Cleaning. Best wishes, Tom Landry."
+ Bart: Why don't you buy it?
+Homer: I can't buy that. Only management-type guys with big salaries
+       like me can afford things like that.
+       [gasps]  Guys like me! I'm a guy like me!
+-- He's getting it, "You Only Move Twice"
+
+% At work, Homer's wearing his Tom Landry hat and coaching his team, but
+% they're quite exhausted from the work he's asking from them. From
+% experience, Homer knows that fatigue requires only one solution:
+% hammocks. He goes straight to his "boss".
+
+ Hank: Uh, hi, Homer. What can I do for you?
+Homer: Sir, I need to know where I can get some business hammocks.
+ Hank: Hammocks? My goodness, what an idea. Why didn't I think of that?
+       Hammocks! Homer, there's four places. There's the Hammock Hut,
+       that's on third.
+Homer: Uh-huh.
+ Hank: There's Hammocks-R-Us, that's on third too. You got
+       Put-Your-Butt-There?
+Homer: Mm-Hmm.
+ Hank: That's on third. Swing Low, Sweet Chariot... Matter of fact,
+       they're all in the same complex; it's the hammock complex on
+       third.
+Homer: Oh, the hammock district.
+ Hank: That's right.
+-- "You Only Move Twice"
+
+% Hank's secretary tells him they're ready for the linkup.
+
+ Hank: Uh, Homer, one second. I gotta take care of this. Very important.
+       Be right back.
+Homer: Fine.
+        [Hank's map of the world reveals a giant viewscreen, on which
+        appears the UN staff]
+ Hank: Good afternoon, gentlemen. This is Scorpio. I have the Doomsday
+       Device. You have 72 hours to deliver the gold or you'll face the
+       consequences. And to prove I'm not bluffing, watch this.
+       [activates a remote]
+        [an explosion occurs near the UN building]
+Man 1: Oh, my God, the 59th Street bridge!
+Man 2: Maybe it just collapsed on its own.
+Man 1: We can't take that chance.
+Man 2: You always say that. I want to take a chance.
+ Hank: Collapsed on its own? You, sh... You have 72 hours. See ya.
+       [to Homer]  Back to the hammocks, my friend. You know, there's a
+       little place called Mary Ann's Hammocks. The nice thing about
+       that place is Mary Ann gets in the hammock with you.  [laughs]
+       I'm just kidding.
+Homer: Oh.
+ Hank: You know who invented the hammock, Homer?
+Homer: No.
+ Hank: That's something for you to do. Find that out.
+-- Hammocks and world domination, "You Only Move Twice"
+
+% [End of Act Two. Time: 14:41]
+%
+% Homer's wandering around in the complex, in search of sugar. One guard
+% directs him to a security door, which leads to what seems the inside
+% of a mountain. The huge room is filled with machinery, control panels
+% and such. Hank is inside, and tells Homer he hopes to see the nuclear
+% generator up and running by tomorrow.
+
+ Hank: By the way, Homer, what's your least favorite country: Italy or
+       France?
+Homer: France.
+ Hank: [chuckles]  Nobody ever says Italy.  [sets the coordinates of a
+       giant laser gun]
+-- Casual discussion, "You Only Move Twice"
+
+Homer: Uh... you have any sugar around here?
+ Hank: Sugar? Sure.  [fumbles in his pockets, takes out a few handfuls
+       of sugar]  There you go. Sorry it's not in packages. Want some
+       cream?
+Homer: Uh... I... no.
+-- That's the right answer, "You Only Move Twice"
+
+% Homer might be at ease with his new job, but the other members of the
+% family are not as comfortable. Marge still has nothing else to do than
+% take another sip of wine. And Bart's stuck in playing musical chair,
+% leg-up version: 12 chairs for 7 people, and a silly Barney-like "I
+% like me" song playing on a vinyl record.
+
+   Kids: [singing to the tune]
+         I like me
+         I like me
+         I'm as good as I can be
+         With a smile and a wave and a happy melody
+         I'm as good as...  [slowing as they see the teacher reaching
+         for the record player]  I...  [slowly taking places]
+Teacher: Hooray! Everyone's a winner!
+   Bart: [groans]
+-- And that's how we help them catch up, "You Only Move Twice"
+
+% Even Lisa's life at Cypress Creek is going down, as she proves to be
+% allergic to almost every plant there is in the nearby forest.
+%
+% Back to work, while Homer attends to great preoccupations (ie. trying
+% to get the snack machine into taking his dollar bill), Scorpio is
+% taking care of a good friend of his, a la Goldfinger.
+
+Hank: Ingenious, isn't it, Mr. Bont?
+Bont: Scorpio, you're totally mad.
+Hank: Heh, I wouldn't point fingers, you jerk.
+Bont: So, do you expect me to talk?
+Hank: I don't expect anything from you except to die and be a very cheap
+      funeral.  [leaves]  You're gonna die, now.
+-- Not unless my contract says so, "You Only Move Twice"
+
+% But Bont has an ace up his sleave (doesn't he always?), and uses a
+% quarter to deflect the laser to his chains. A shot of sleeping gas
+% towards the guards, and he's off to the exit.
+
+ Hank: Stop him! He's supposed to die!
+        [Homer jumps on Bont who was running past him]
+       Nice work, Homer! Am I proud of you.
+Homer: [shy] Well...
+ Hank: When you go home tonight, there's gonna be another story on your
+       house.  [they both walk off]  Thank you.
+        [guards shoot Bont off-screen]
+-- Just doing my job, "You Only Move Twice"
+
+% That night at home, Homer tries to recite his day at work, but all
+% other members of the family look much depressed.
+
+ Lisa: I'b allergic to everythig here. By nose is so stuffed ub, I
+       can't eben taste Mob's delicious boiled celery.
+Marge: I've been so bored since we moved here, I found myself drinking a
+       glass of wine every day. I know doctors say you should drink a
+       glass and a half but I just can't drink that much.
+Homer: Well, the Simpson men are doing fine, right Bart? You haven't
+       even gotten in trouble at school.
+ Bart: I _can't_ get in trouble at school, they put me in the remedial
+       class. I'm surrounded by arsonists and kids with mittens pinned
+       to their jackets all year 'round.
+-- "You Only Move Twice"
+
+% This said, they all ask to move back to Springfield, but Homer is
+% reluctant.
+
+We've got it great, here. And for the first time in my life, I'm
+actually good at my job. My team is way ahead of the weather machine and
+germ warfare divisions.
+-- Homer, "You Only Move Twice"
+
+% Marge leaves the decision to Homer, saying they'll go where he goes.
+%
+% The next morning, it's with a sad face that Homer walks up to his
+% boss, who's busily repelling army troops in order to launch his
+% "Doomsday Device" in time.
+
+Homer: Say, what's going on?
+ Hank: I'm having a little trouble with the government.
+Homer: Oh, those jerks always walking over the small businessman. Don't
+       get me started about the government.
+-- "You Only Move Twice"
+
+% Homer tells him his family wants to move back.
+
+ Hank: Let them go. You'll stay here with me, we'll go bowling.
+        [a burning man runs by]
+       What's bothering them?
+        [troops are shooting at each other]
+Homer: Nothing big. It's just a lot of little things.
+ Hank: Well, you can't argue with the little things. It's the little
+       things that make up life.  [throws a grenade]
+-- "You Only Move Twice"
+
+% Hank advises him to do what's best for his family. Homer thanks him
+% for everything he's done.
+
+ P.A.: T minus 14 seconds.
+ Hank: If you need anything, you call me.
+Homer: All right. What's the number?
+ Hank: I've never had to call my own company. Someone will tell you
+       upstairs. But, Homer, on your way out, if you wanna kill
+       somebody, it would help a lot.
+       [goes off to use a flamethrower on the troops]
+-- Anything for you, "You Only Move Twice"
+
+% So, they're back to their normal town and their normal house, with a
+% pile of newspapers waiting for them. The most recent one talks about
+% Scorpio's conquest of the East coast.
+%
+% On the living room's floor is Otto and a couple of beer cans.
+
+Let me just get my girlfriend, and I'll go. Hey, Crystal, wake up!
+-- Otto leaves OFF's house, "You Only Move Twice"
+
+% The doorbell rings; it's a telegram for Homer.
+
+Homer: [reading] "Project Arcturus couldn't have succeeded without you.
+       This will get you a little closer to that dream of yours. It's
+       not the Dallas Cowboys, but it's a start. Drop me a line if
+       you're on the East Coast, Hank Scorpio."
+        [a whole football team is on his lawn]
+       [disappointed] Aw, the Denver Broncos!
+Marge: I think owning the Denver Broncos is pretty good.
+        [a player tries to catch the ball, but falls]
+Homer: Yeah, yeah.
+Marge: Well, explain to me why it isn't.
+        [another player tries to catch, but hits the ball with his head]
+Homer: [sighs]  You just don't understand football, Marge.
+-- "You Only Move Twice"
+
+% [End of Act Three. Time: 20:53]
+%
+% Credits roll on "Scorpio".
+
+==============================================================================
+> Contributors
+==============================================================================
+{ak}  Andrew Krupowicz
+{am}  Andy Mancini
+{bs}  Bill Shaw
+{ddg} Don Del Grande
+{dga} Dale G. Abersold
+{dh}  Dave Hall
+{dh2} Dominik Halas
+{dk}  Diego Kontarovsky
+{dn}  David Ney
+{dp}  Damian Penny
+{dtm} Douglas T. Massey
+{eh}  Eric Hartman
+{hl}  Haynes Lee
+{jh}  Jason Hancock
+{ljs} Liam J. Scanlan
+{ll}  Lawrence Lam
+{lrm} Luis R. Merino
+{mar} Mark Aaron Richey
+{mk}  Matthew Kurth
+{msr} Matt Rose
+{mss} Marge Starbrod-Simpson
+{rl}  Ricardo Lafaurie
+{rs}  Rick Senger
+{sb}  Stephane Bonneville
+{sv}  Srdjan Vukovic
+{tb}  Ted Brekken
+==============================================================================
+> Legal Mumbo Jumbo
+==============================================================================
+This episode capsule is Copyright 1996 Frederic Briere. It is not to be
+redistributed in a public forum without consent from its author or current
+maintainer (capsules@snpp.com). Any quoted material, episode summaries and
+over-merchandising of the show remain property of The Simpsons, Copyright of
+Twentieth Century Fox. Do not inhale.
+
+This work is dedicated to Raymond Chen, James A. Cherry, Ricardo Lafaurie, and
+all of those who made episode capsules what they are today.

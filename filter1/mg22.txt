@@ -1,0 +1,73 @@
+% B = Bart, L = Lisa, H = Homer
+%
+% The family are driving to church.  Homer and Marge in front, the three
+% kids in the back (from left to right, Bart, Maggie and Lisa).  Maggie
+% sits forward on her seat.
+
+H: You kids better behave in church today.
+B: I don't see why <I> have to go, anyway.  I'm a pagan.
+H: Bart!
+L: I don't want to go to church either.  I'm a pagan, too.
+H: Well, you're going to church, so you can like it or love it.
+
+% We hear a tire blow out.  Bart raises his hand.
+
+B: Uh, if I'm not mistaken, Dad, the tire just blew.
+
+% Bart and Lisa clasp their hands and look skyward.
+% Maggie sits back in her seat.
+
+B+L: Thank you, Nature!
+
+% [End of Act One.  Time: 0:18]
+%
+% Pan across to see Maggie and Lisa standing by the car, Bart sitting
+% on the fender, Marge inside with a concerned expression, and Homer
+% struggling with the right front tire.  Lisa waves her arms.
+
+L: What a beautiful paganistic day!  Come on, Maggie, let's dance.
+H: [annoyed] Grab that tire iron, boy.
+B: We pagans would like to help you Homer, but it's against out beliefs
+   to soil our hands with the greasy tools of sin.
+
+% During Bart's speech, we see that Lisa and Maggie are dancing in an
+% unusual manner.  Lisa chants incoherently.
+
+H: Lisa, Maggie, knock that nonsense off.
+
+% Maggie falls down from the strain of it all.  The sky darkens.
+
+B: Too late, Dad.
+
+% Bart heads into the car.  It starts to rain.
+
+H: What the hell are you talking about?
+
+% The kids are safely tucked in the car.
+
+B: Pagan rain dance.  Works every time.
+
+% [End of Act Two.  Time: 0:39]
+%
+% The sky has since cleared.  Lisa, Bart and Maggie have discarded their
+% oppressive clothing (except for Maggie's bow) and are clad instead in
+% leaves.  They wave their arms.
+
+B+L: Mom, Dad, look!  We're pagans!
+
+% Homer, struggling with the front tire, turns his head.
+
+H: Why those little...
+
+% Homer chases the kids (his suit all tattered), who head into the church.
+% The doors close behind them.  Homer bursts in, and we see that the kids
+% are seated in the front pew.
+
+L: Ironically enough, Bart, this house of worship has proven to be our
+   sanctuary.
+B: Yes, but still, my pagan soul yearns to roam free.
+L: No problem.  After the sermon we'll make a run for it.
+
+% [End of Act Three.  Time: 1:02]
+
+<|endoftext|>

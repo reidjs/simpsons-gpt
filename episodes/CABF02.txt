@@ -1,0 +1,1339 @@
+The Computer Wore Menace Shoes                    Written by John Swartzwelder
+                                                     Directed by Mark Kirkland
+==============================================================================
+Production code: CABF02                    Original Airdate on FOX: 3-Dec-2000
+Capsule revision B (28-Dec-03)
+==============================================================================
+> "TV Guide" Synopsis
+==============================================================================
+   [TV Guide] Homer buys a computer and builds a Web site where he anonymously
+   spreads local rumor and innuendo, and makes things up when his sources run
+   dry.  Dan Castellaneta, Hank Azaria, Harry Shearer.  {sb}
+
+   [TV Guide ad] Pages 96 and 97 have a generic Fox advertisement for
+   "Futurama," "The Simpsons," "King of the Hill" and "Malcolm in the Middle"
+   with quotes from general reviews for each show.  For our favorite family:
+   "The best TV show of the 20th century! -- Time Magazine."  {bg}
+
+==============================================================================
+> Title sequence
+==============================================================================
+Blackboard:     I WILL ONLY PROVIDE A URINE / SAMPLE WHEN ASKED
+
+                I WIL ONLY PROVI                                 at cutoff
+
+Couch:          Santa's Little Helper dances in front of the couch, just like
+                Snoopy does on the "Peanuts" TV cartoons, to music that's
+                similar to that played on the Christmas special.  The Simpsons
+                run in and stare at him incredulously.  The sudden attention
+                makes SLH self-conscious, and he stops.
+
+==============================================================================
+> Did You Notice...
+==============================================================================
+   ... the frog in the lava lamp on the island master's desk?
+   ... Homer's un-obscured face briefly appears as the Mr. X web page loads?
+
+Steve Alpert:
+   ... Carl and Lenny have a new car and appear quite wealthy compared to
+       Homer on presumably the same salary?
+   ... Homer has learned Mr. Burns's first (middle) name?
+   ... Apu's mustache isn't ripped off by the tape?
+   ... the police dog CLEARLY has Homer's voice?
+   ... the lava lamp contains a dead frog?
+
+Don Del Grande:
+   ... "Honest John's Computers" uses a recycled tire-company logo?
+   ... Lisa doesn't let anybody else use her E-mail account?  (Otherwise, why
+       didn't Burns send Homer a message there?)
+   ... Homer and the Comic Book Guy apparently bought Mac clones? (Besides the
+       window images, Lisa turned off Homer's computer by pressing a keyboard
+       key)
+   ... Homer types with his index fingers?
+   ... there's a Channel 10 news van at the Mayor's office in addition to a
+       Channel 6 van?
+   ... "pothole cement" was being used at the pool?
+   ... Mr. Burns uses the same bathroom as "the common employee"?
+   ... when Homer first arrived at The Island, nobody was wearing numbers?
+   ... either Patrick McGoohan didn't voice Number 6, or his voice has
+       seriously changed since 1968 (when the original was filmed)?
+   ... at The Island, they play croquet American style (rounded wickets,
+       hitting the ball like a golf ball rather than between the legs)?
+
+Ahmet Deligonul:
+   ... this is the 4th episode which had Homer using a computer ending up into
+       trouble?  (Think about the others ...)
+   ... Lisa knows how to set up a computer at her grade level?  (In 4th grade
+       I could barely type.)
+   ... Homer has access to a scanner, digital camera or some way of getting
+       his face on the computer?
+   ... Bart doesn't care about Homer spilling Springfield gossip, or show an
+       interest, even though he ran that pirate radio station with the same
+       type of info?
+   ... the German Homer knew enough about Homer to carry the charade on for 4
+       months?  [Actually 3.5 months.  Homer #2 mentioned being absent for two
+       weeks -- Ed.]
+
+Ben Fonter:
+   ... while in his car, Carl says "Anything goes today"?  (Maybe this is
+       foreshadowing of the following episode.)
+   ... Bart is able to tackle Homer?  Twice?
+   ... Bart is in serious need of therapy?  (Where's Dr. Marvin Monroe when
+       you need him?  Dead.  That's where.  Hehehe)
+   ... Marge does not come downstairs to investigate the loud crashing sound
+       of the tire through the front window?
+   ... Apu makes no reaction to Krusty's startling confession?
+   ... that the bloodhound's barks bubble out and then die?
+
+Joe Green:
+   ... the person Moe keeps in the basement sounds like Hans Moleman?
+
+Darrel Jones:
+   ... the guy in charge of "the island" mentions flu shots are always
+       delivered shortly before Christmastime, which is also when this episode
+       first aired?
+
+Joe Klemm:
+   ... Homer's computer, with the boot-up sound, is a Macintosh?
+   ... when Mr. X is named the winner of the Pulitzer Prize, Nelson doesn't
+       cheer?
+   ... the dunking bird in the Island head's office?
+
+Ryan Mead:
+   ... SLH tries to eat the Pulitzer once Homer gives it to him?
+
+Perri Mongan:
+   ... the CPU of Homer's computer strongly resembles a G3 (blue and white) or
+       G4?  Note the curved handles.  Um, but it shouldn't be lain on its
+       side.
+   ... that's a Mac startup sound, as heard on the Quadra series?
+   ... the web browser has a Mac interface (note the window bar and placement
+       of the close and expand boxes)?
+   ... the sound file on Homer's copyright-violating home page is a Mac beep
+       called "Sosumi" ("so sue me", allegedly a reaction to Apple Records'
+       lawsuit against Apple Computers)?
+
+Mike Reed:
+   ... Homer knows how stupid he is?
+   ... Lenny can afford the internet?
+
+Benjamin Robinson:
+   ... "Honest John's" crudely modified sign?
+   ... since Homer presses "Send" to reveal the news about Burns and the
+       uranium, he must be e-mailing it to someone, in addition to putting it
+       on his site?
+   ... the aquarium-couch, with live fish, in the prisoners' gathering room?
+   ... Marge apparently (without knowing it) made love to someone other than
+       her husband for three and a half months?
+
+Hari M. Wierny:
+   ... Homer looks at the keyboard as he types?
+   ... Mayor Quimby's bodyguard cowers away from the reporters?
+   ... Bart leaves his skateboard outside the Kwik-E-Mart?
+
+==============================================================================
+> Voice Credits
+==============================================================================
+- Starring
+   - Dan Castellaneta (Homer, Quimby, Reporter #2, Reporter #3, Krusty,
+        Moleman, Man 1, Man 2, Officer Scraps)
+   - Julie Kavner (Marge)
+   - Nancy Cartwright (Bart, Todd, Nelson)
+   - Yeardley Smith (Lisa)
+   - Hank Azaria (Carl, Salesman, Wiggum, CBG, Apu, Moe, Terrorist, Number 15
+        [?], Lou, Number 2)
+   - Harry Shearer (Lenny, Flanders, Principal Skinner, Kent, Burns, Smithers,
+        Lovejoy, Hibbert, Homer #2)
+
+- Special Guest Voice
+   - Patrick McGoohan (Number 6)
+   - Marcia Wallace (Edna Krabappel)
+
+- Also Starring
+   - Pamela Hayden (Rod)
+   - Tress MacNeille (Agnes, Woman, Scientist 1)
+   - Karl Wiedergott (Reporter #1 [?])
+
+==============================================================================
+> Movie (and other) references
+==============================================================================
+   + "The Computer Wore Tennis Shoes" (movie)
+      - episode title a spoof, naturally
+
+   + Charlie Brown TV specials
+      - in the couch scene, SLH dances like Snoopy
+      - Vince Guaraldi-esque music plays  {jg2}
+
+   - "Star Trek IV: The Voyage Home" (movie)
+      - Homer (cf. Scotty) tries to command a computer by using a mouse as a
+        microphone
+
+   + Dancing Baby graphic  {rm}
+      - Dancing Jesus  [See "Comments" section for more -- Ed.]
+
+   + jesusdance.com (Web site)  {sa}
+      - this may have been where Homer got Dancing Jesus
+
+   + After Dark (screen saver)  {rm}
+      - Flying Toasters seen among useless things on Homer's original site
+      - [Daniel L. Dreibelbis adds, "Berkeley also marketed an official
+        Simpsons screensaver based around After Dark" -- Ed.]
+
+   + Fox vs. Simpsons websites
+      - Lisa admonishes Homer not to steal copyrighted material for his web
+        page [{bjr} asks, "Does this mean she's on Fox's side?  Yikes!" --
+        Ed.]  [See "Comments" section for more -- Ed.]
+
+   ~ "Star Trek V: The Final Frontier" (movie)  {hmw}
+      - Comic Book Guy crosses the final frontier
+
+   + "The New York Times" (newspaper)  {al}
+      - "All The Muck That's Fit To Rake" is a parody of the New York Times'
+        motto, "All The News That's Fit To Print"
+
+   ~ "Boston Public" (TV series)  {jc}
+      - claiming a gossip Internet site is legitimate journalism
+
+   + Matt Drudge (Internet muckraker)  {tr2}
+      - Homer's site akin to Drudge's
+      - Kent Brockman alleging that Homer isn't a *real* news reporter
+        parallels criticism of Matt Drudge by the major news outlets
+
+   ~ "Pulp Fiction" (movie)  {jg2}
+      - Burns opens a briefcase containing something glowing
+
+   ~ "The Critic" (TV series)  {ddg}
+      - Homer, like Jay Sherman, wins a Pulitzer
+
+   - "Conspiracy Theory" (movie)
+      - Homer, by sheer luck, unearths an actual conspiracy; the plot of this
+        movie (starring Mel Gibson, Julia Roberts, and Patrick Stewart) is
+        similar
+
+   + "The Prisoner" (TV series)
+      - The Island modeled on this surreal show [See "Comments" section for
+        more -- Ed.]
+      - Number 6 (Patrick McGoohan) from the show guest stars  {jk}
+      - 60's "mod" décor, fashion, and music  {bjr}
+
+   + "The Blair Witch Project" (movie)
+      - sign declaring Springfield Forest free of witches
+
+==============================================================================
+> Previous episode references
+==============================================================================
+- [9F10] Road problems  {hmw}
+- [1F02] Homer runs out and is seen through the window doing something child-
+         like moments later  {hmw}
+- [1F04] Santa's Little Helper dances like Snoopy  {jg2}
+- [1F13], [3F06], [4F19] Homer mentions being an astronaut  {jg2}
+- [1F16], [3F19] People disguised as members of the Simpson family  {bjr}
+- [1F20] Homer tells gossip about Marge  {sb}
+- [2F31] A "my ears are burning" joke  {mm}
+- [3F06] the "turn on noise to foil eavesdroppers" doesn't work, á la "Get
+         Smart"  {mg}
+- [3F24] Homer needs a computer  {dj}
+- [4F22] Homer bumps his head in the car  {hmw}
+- [5F07] Fumes in the power plant  {hmw}
+- [5F11] Homer decides to take advantage of the Internet  {jg2}
+- [5F11] CBG downloads porno  {mr2}
+- [5F23] Anti-escape orb seen (chasing Marge in this episode)
+- [5F23] "The Prisoner" is referenced  {jg2}
+
+==============================================================================
+> Freeze frame fun
+==============================================================================
+- Burns's bug deterrent  {hmw}
+
+          BUG
+    [mushroom cloud]
+          BOMB
+
+    (note: the mushroom cloud has a bunch of bugs in it)
+
+- Mr. X's web page  {bjr}
+
+      Mr.        All The Muck
+       X      That's Fit To Rake
+
+    [ Pic ]     +------------+
+    [ of  ]     |  Quimby's  |
+    [Homer]     | Dirty Pool |
+                +------------+
+
+    "Quimby's Dirty Pool" underlined, indicating that it's a link
+
+- Newspaper  {hmw}
+
+    WEB SNOOP EXPOSES POOL HUSTLE
+    === [Mr. X] =================
+    =============================
+    =============================
+    ======= MR. X MAKES HEADLINES
+    ======= =====================
+    ======= =====================
+
+- Homer's next web exposé  {bjr}
+
+      Mr.        All The Muck
+       X      That's Fit To Rake
+
+                +---------+
+    [ Pic ]     | Bagels  |   [ Pic ]
+    [ of  ]     | Are Old |   [ of  ]
+    [Homer]     | Donuts! |   [ Apu ]
+                +---------+
+
+    This time, "Bagels Are Old Donuts!" is underlined
+
+- Forest sign  {bjr}
+
+    SPRINGFIELD
+      FOREST
+
+    WITCH-FREE SINCE 1998
+
+==============================================================================
+> Animation, continuity, and other goofs
+==============================================================================
++  Lenny was poor in 5F06, he shouldn't be able to have a computer.  {mr2}
+
+*  It sounds like they sent the plant closure e-mail to everyone's home,
+   rather than work address.  (And if they did send it to their work
+   addresses, how come Homer hasn't been assigned one?)  {bjr}
+
++  OFF has at least two computers at home -- the one in Lisa's room (unless it
+   got destroyed in "Lisa The Treehugger" when Homer used the firecrackers in
+   the VCR) and the laptop in "A Tale Of Two Springfields."  {dld}
+
++  ... and they also already have the Internet.  {dld}
+
+*  Why didn't Homer use Lisa's computer to get his e-mail?  [Jessie Cook
+   answers, "Because Lisa probably has her computer password protected with
+   the highest level encryption possible to prevent that.  Would you want
+   Homer touching your computer?" -- Ed.]  {jk}
+
+-  The store has a big metal door on the outside but not on the corresponding
+   wall inside.  {mm}
+
++  Homer brought home a different computer than he bought.  {ds}
+
+*  Lisa manages to carry a CPU case, monitor, and keyboard all at once and
+   without any help.  {ad}
+
+*  Homer's computer starts up and is on-line in a matter of seconds.  {mm}
+
+*  How are these pages coming to Homer's attention?  They seem to be coming
+   *to* him rather than him having to find them.  {mm}
+
+=  When Homer enters his URL to show the family his page, all the keys he
+   types are function keys, control keys, and numeric keypad keys; no letters.
+   {mm}
+
+*  The title on Homer's page [...] gets retyped in real-time rather than Homer
+   having to edit the source code and then reload it.  {mm}
+
+*  The fact that Homer visited his site after the counter was installed should
+   guarantee one hit, yet it is on 0000.  {hmw}
+
++  Near the new pool, there is a guy with the words "City Worker" on the back
+   of his blue shirt putting finishing touches on a statue.  He is using
+   cement from a bag labeled  POTHOLE CEMENT.  Later, when we see people
+   repairing the pothole, they are wearing orange jump suits, and the stuff
+   they are filling the hole with is most definitely tar.  {bf}
+
+*  Cement is not used in potholes.  {bf}
+
++  Agnes Skinner either wants her son to be ogling naked women, or is
+   surprised he isn't, either of which would be uncharacteristic of her?  {dj}
+
+*  Burns and Smithers don't use the executive washroom.  {bjr}
+
+=  Burns wipes the underside of his fingers on his trousers, but the soap
+   comes off the unwiped side.  {hmw}
+
+*  The terrorist carelessly handles the *Radioactive* uranium?  {bf}
+
+*  They never mention in what category Homer won the Pulitzer Prize.  {ddg}
+
+*  Mrs. Krabappel's voice was way, WAY off.  {mr2}
+
+*  Real web counters don't go down -- they're a count of how many people have
+   visited the site, not how many are on at one time.  {ddg}
+
+*  Hit counters don't update in real time.  {bjr}
+
++  Moe can't keep a secret, yet he has many disturbing ones.  {sa}
+
+-  One of the Squishee machines behind Apu in at least the fake Kwik-E-Mart is
+   labeled "green" and is distinctly yellow.  {jm}
+
+*  "Please send lots of rescue 'copters to ..." ... where?  Even assuming he
+   had someone who could help him on the other end of the line, how would he
+   described the location?  {mm}
+
+*  When fake Homer is shaving his head why aren't the Homer parts of the hair
+   being shaved?  Is he carefully shaving around them?  Wouldn't that mean
+   that the stubble underneath them isn't getting shaved?  {mm}
+
+=  Also why isn't the stubble that is being shaved going away?  {mm}
+
+*  Obvious goof here: the guy can't see through the computer.  ["Maybe the
+   other Homer installed a small camera somewhere," rebuts Jessie Cook]  {sa}
+
+==============================================================================
+> Reviews
+==============================================================================
+Steve Alpert:  If I hadn't learned of this ["Prisoner"] reference, I would
+   have thought the show returned to its past antics.  Now I see it as
+   possibly a cop out, but the episode remains strong in my mind.  Several
+   laughers toward the end (a bit too much time spent on plot development
+   though), and I'm getting tired of all these Homer-centric episodes.  At
+   least he's returned to the same stupid Homer he's always been (although the
+   remark "I'm stupid" was definitely pointless.)  (B+)
+
+Stephen Burks:  This episode really felt like something out of season 9.
+   Well, I thought that until about the last 5 or so minutes when the episode
+   turned into the bizarre farce that the Simpsons have become over the last
+   season. But, there were several nice laughs (I think I laughed out loud
+   more times than the entire other episodes of this season combined) and a
+   plot that, while strange, was still developed up to my liking ...  An all
+   around decent episode to watch.  Anyhow, I will give this one a  (B+)
+
+Don Del Grande:  B-plus if you're a computer geek and a fan of "The Prisoner"
+   like I am (seriously, I've been to Portmerion, in Wales, where the show was
+   filmed -- the "green dome" was turning brown, and it was in the middle of a
+   train strike, but that's a different story); B if you're one but not the
+   other; B-minus if, like most people watching, you're neither.  The show had
+   its moments, but there were far too many "inside information" jokes (the
+   emoticon one and pretty much the entire Prisoner bit), and even if you knew
+   what they were talking about, the ending joke was a bit weak (even if
+   having everybody end up on The Island was a nice twist).  (B+)
+
+Ahmet Deligonul:  This episode was good all the way up till the part where
+   Homer revealed that he was Mr. X ... Then it wasn't as funny anymore.
+   Ending up on the island made it seem confusing ... When will they start
+   writing episodes that make sense for 21 minutes again?  (D)
+
+Ryan Glanzer:  It was a pretty good episode, all in all.  I would give it a B.
+   While the whole Internet part was funny, I think they could have done
+   without that whole island part.  It was like 2 entirely different stories
+   in one episode both involving Homer--his gabbing about Springfieldians and
+   also trying to escape from an island.  And what is it with animals all of a
+   sudden--the koalas in this episode, the pandas twice before, the badgers
+   ...  (B)
+
+Joe Green:  My favorite Season 12 episode to date, due to both the timely
+   subject matter and the fact that it was more consistently funny than most
+   OFF shows these days.  As was the case with "Brother's Little Helper", I
+   can't decide if the ending was a stroke of absurdist genius or just stupid.
+   (A)
+
+Darrel Jones:  This is the second week in a row in which "Futurama" had a much
+   better episode than OFF's.  Actually, this one got off to a hilarious
+   start. (Dancing Jesus?  ROFL!), but went downhill after Homer was
+   kidnapped.  The whole "island" thing was too surreal for me; I didn't have
+   the slightest idea what was going on.  Homer's escape was nice, actually,
+   but the ending ruined it for me.  I give this a measly "seven thumbs up" or
+   7/10  (C+)
+
+Kevin Lilley:  I found the first two segments of this episode to be very
+   funny, especially with how Homer got his secrets from all the townspeople.
+   The scene where Homer drops the notepad and then Mr. Burns put it back
+   caught me by surprise, and made me chuckle.  Though it had its moments,
+   this episode never really did make me laugh out loud.  All in all, the
+   parody of "The Prisoner" was nice, but the episode lacked in certain areas
+   and did not completely deliver.  (C+)
+
+Michael Nusair:  This was an okay episode, with a very bizarre third act.
+   What the hell was *that* all about?  The German replacement Homer was
+   pretty funny, though.  While this episode had its share of laughs, it just
+   doesn't stick out in my mind as a very good episode.  The strange third act
+   probably didn't help.  It was nowhere near as bad as something like the
+   Jockey Trolls, but I still could have done without it.  And what was with
+   that ending?  Note to the writers:  At the end of the episode, everything
+   should be wrapped up in a nice, neat little package.  (C+)
+
+Mike Reed:  After three consecutive bad efforts, John Swartzwelder had seemed
+   to bring himself up, this episode was very funny and had lots of good
+   jokes.  (Homer realizing his own stupidity, his first website, and the
+   Spanish/Italian bit come to mind.)  But, after Homer was kidnapped the
+   episode took a huge enough dive to make it one of the worst episodes ever,
+   IMHO.  In the past three seasons, Swartzwelder has only produced one decent
+   episode.  (BABF05) Episodes like these make me maintain my belief that we
+   need more new writers.  (C-)
+
+Hari M. Wierny:  This episode started off well -- <really> well, and I believe
+   it could have became a <very> memorable episode.  But instead, John
+   Swartzwelder decided to ruin the great first two acts by making the third
+   act so hebetudinous I couldn't even watch it again.  It wasn't funny -- it
+   was ridiculous.  I don't see why he did that.  Making the Simpsons isn't a
+   game of annoying the Internet fans while still appealing to little kids by
+   being wacky -- but that's the game the writers seem to be playing.  I also
+   found Todd saying "mom-my?" very tasteless.  (D)
+
+Todd Willis:  I thought this episode was pretty good.  The first couple acts
+   were about average, but the third act with the parody of The Prisoner was
+   just plain awesome.  I thought the way they handled the rumors and Homer's
+   website was nicely done.  They luckily didn't take this episode to the
+   crazy degree that they could have.  I guess the main problem with this
+   episode was a weak and unoriginal story plot.  All in all, this was a
+   decent episode with some nice moments.  (B)
+
+Yours Truly:  It's two, two, two episodes in one!  The first one was better.
+   Homer's initial forays into the Internet rang true and were funny, to boot.
+   The concept of Homer the muckraker is a promising one, and there's a good
+   fable here on how Internet to grants authority to people who don't entirely
+   deserve it.  Alas, we don't get to see it because the third act diverges
+   wildly into a parody of "The Prisoner."  The conclusion wasn't as
+   satisfying as the first two acts, mainly because I felt as though I'd been
+   drugged and taken to some surreal new place myself.  It wasn't unfunny, but
+   it was *too* much of a surprise for the show's own good.  (B)
+
+AVERAGE GRADE:  B- (2.82)   Std Dev.: 0.8501   (20 reviews computed)
+
+==============================================================================
+> Comments and other observations
+==============================================================================
+>> Does this compute?
+
+Benjamin Robinson:  Among his other sins, "Honest John" is probably guilty of
+   price inflation.  Thanks to the relentless downward march in the prices of
+   electronic components, even high-end machinery is more affordable than it
+   was just three years ago.  For instance, Circuit City is advertising a 1.4
+   GHz Pentium IV-based Hewlett-Packard for US$2200. CompUSA is offering a 1
+   GHz Athlon-based HP for US$1100.  Both machines need a monitor to make them
+   useful, but a good monitor is a sub-$500 proposition nowadays.  Well,
+   unless you buy one of those 21" monsters, which Homer clearly did not.  If
+   you *had* to spend US$5000 for a computer system, you'd be better off
+   trying to buy a multi-user server.
+
+   As you probably guessed by watching the show, most of the processing power
+   of even the $1100 machine would go to waste on the mundane chore of
+   handling e-mail.  While the extra power is nice for photo editing, games,
+   and heavy computational work, even a more modest processor can handle e-
+   mail and text editing.  This review, for example, was produced on a three-
+   year-old 133MHz Pentium laptop (for which the author paid US$3,500!).
+
+
+>> It's what the internet was invented for
+
+Ahmet Deligonul:  Dancing Jesus is a parody of that "Dancing Hampster",
+   "Dancing Bricks", "Dancing Fish" and so on websites ... anyone who's ever
+   signed onto the internet has unfortunately stumbled onto that crap, and
+   putting a parody of that on tonight's episode really fit Homer's net
+   surfing.
+
+
+Benjamin Robinson adds:  The dancing baby is one of the quirkier "celebrities"
+   in the short history of the mass internet.  It started off life as a
+   dancing alien used to demonstrate some company's 3D animation software.
+   The creators couldn't get the alien done to their satisfaction, so the demo
+   idea was dropped.  As a joke, one of their employees changed it to a
+   dancing baby, had a laugh, dumped it onto a CD somewhere, and then forgot
+   about it.  Eventually, the users poked around the software distribution and
+   found the baby dancing the night away.  Word spread among the software's
+   users, and then on the internet in general. Eventually, the baby made an
+   appearance on Fox's popular "Ally McBeal," and became a minor pop
+   phenomenon.  Various dancing knock- offs were created to spoof the original
+   baby, and it wouldn't surprise me if there was an actual Dancing Jesus out
+   there, somewhere.  [And of course, several people have pointed this out:
+   <http://www.jesusdance.com> -- Ed.]
+
+   As an aside:  Before "McBeal," one of my coworkers downloaded the Dancing
+   Baby to his machine.  We discovered his movements synced up nicely to a
+   remix of The Cure's "Spiderman."
+
+
+>> Mr. X
+
+Hari M. Wierny:  Fox actually made Homer's website and uploaded it to
+   <http://www.thesimpsons.com/mrx/> shortly before the episode first aired.
+   They also did a damn good job making it resemble to the pages shown on the
+   episode (even including the animated GIF of Homer's face quickly being
+   covered by a question mark, and the counter going up drastically, and then
+   DOWN).  The only differences I noticed were that the picture of Apu on the
+   site in the episode was more distorted (to give that cartoony computer
+   look) and he was holding a donut, the tumbleweed bouncing across Homer's
+   site, and the counter was on a lower number.  (Note that the pages on the
+   site all had the ".htm" extension instead of ".html" -- I can see Homer
+   doing this.)
+
+
+>> Release the lawyers!
+
+Benjamin Robinson writes:  One of the most revolutionary things about the mass
+   internet (so far) is its ability to put the power of the press into the
+   hands of everyone with a basic microcomputer, an internet account, and
+   something (or even nothing) to say.  Fans of TV series, movie actors, and
+   musicians are no longer limited to just reading the official press releases
+   from the artists' PR firms.  Now, they can tap into any number of amateur
+   sites dedicated to their favorite personalities or groups, downloading
+   sound bites, pictures, and even movie clips or entire TV episodes.  Not
+   everyone is happy about this trend.  Major media corporations see this as a
+   thieves' free-for-all, siphoning away money from their copyrighted work.
+
+   Fox has been particularly aggressive in protecting its trademarked
+   properties, demanding that sites either remove material they deem
+   objectionable, or shut down altogether.  Fans of "The Simpsons" have not
+   escaped Fox's wrath, and numerous popular sites have disappeared thanks to
+   the efforts of Fox's legal representatives.  The network does have the
+   right to protect its material, but that probably doesn't help the feelings
+   of dedicated fans who watch hours of work disappear into the ether.  Fox's
+   ham-fisted and arbitrary approach to the shutdowns hasn't been winning them
+   friends either.  While Lisa probably *would* be sympathetic to Fox's
+   intellectual property rights, it is still a little frightening to see her
+   being used almost as a mouthpiece for their position.  Et tu, Lisa?
+
+
+>> "The Prisoner" -- The Quick Version
+
+Don Del Grande helps get us up to speed:  Patrick McGoohan played a secret
+   agent (similar to, but not necessarily intended to be, John Drake, his
+   character in "Danger Man"/"Secret Agent") who abruptly resigned, only to be
+   gassed while packing for a vacation; he wakes up in what he thinks is his
+   own house, only to discover he's really in a place called "The Village"
+   where nobody has names, just numbers (his is 6).  Initially, the show
+   concentrated on his attempts to escape, but eventually he "fought the
+   system from within".
+
+
+Daniel L. Dreibelbis:  Definitely one of television's most classic series --
+   and one of its weirdest.  It's the story of a secret agent, known only as
+   "Number 6" (played by the series' creator, Patrick McGoohan), who was
+   kidnapped and taken to a remote island by his government after he abruptly
+   resigned his position from its covert spy agency.  There, all attempts were
+   made to break him (they want to know why he resigned) through chemicals,
+   electronics and hellish hospital equipment - and all in some of the most
+   surreal sets, props and supporting cast ever concocted.  It ran for
+   approximately 13 episodes, and its final episode raises questions about
+   whether the entire series was a dream on Number 6's part.  Elements from
+   the series appeared in tonight's episode, including the anti-escape bubble
+   (AKA Happy Fun Ball) and the genteel costuming worn by the other
+   inhabitants on the island.
+
+
+James Allen adds:  It's the ultimate in paranoid science fiction; there is
+   absolutely _no one_ you can trust.
+
+   A short time after that, 16 of the 17 episodes were first aired on US TV on
+   CBS.
+
+   Since then, it has developed a very devoted cult following, airing on
+   various local stations around the country (mostly PBS stations).  Video
+   release first came in 1984, and more recently it has been put out on DVD.
+
+   It's intricate, intriguing, and downright baffling at times.  Definitely
+   not everyone's cup of tea.  It doesn't have the simple good guys/bad guys
+   mass market appeal of stuff like Star Trek, that's for sure.
+
+
+Don Del Grande notes some specific parallels between the series and this
+   episode:  "See you tomorrow" was a reference to "Be seeing you", which is
+   how everybody greets everybody else in "The Village" (a thinly-veiled
+   reminder that every move in The Village is watched).
+
+   The "bubble" gag was a reference to "Rover", which looked like a giant
+   white bubble, but it couldn't be popped; in fact, it could (and was its job
+   to) absorb escaping "villagers".  There was also a fascination with lava
+   lamps, for some unexplained reason.
+
+   By the way, Number 6 did eventually escape (as did everybody else; The
+   Village was evacuated in the last episode), and in a DC Comics book sequel
+   a few years ago, returned to the ruins?
+
+
+Andrew Levine disputes this final point:  That's not entirely certain.  The
+   final episode, "Fall Out", ends with the same footage as the first one
+   began: 6 drives his car into the distance.  So maybe it's implied that he
+   ends up right where he started and didn't really go anywhere.  At least,
+   that's some people's opinion.
+
+
+Don Del Grande responds:  He escaped from The Village, but the ending (with
+   that butler character at Number 6's front door, which opens automatically)
+   was probably meant to show that he had just traded one Village for another.
+
+
+On the subject of "Rover", Bill Polaski writes:  Rover was played by a big
+   weather balloon, but was supposedly something a bit more durable in
+   substance.  The use of a weather balloon was a last minute move by the
+   producers after a complex remote-controlled mechanical device - Rover's
+   original design - went renegade and plunged into the sea on its first
+   testing.
+
+
+>> Fun with Promotions
+
+Mike Reed transcribes this week's trailer:
+
+   Announcer: Homer hooks up to the internet! (Homer dragging the computer
+   down the road)
+   Lisa: You shouldn't drag that around, Dad!
+   Homer: That's right, honey, top of the line!
+   Announcer: But what will he do during long downloads?
+   Homer: (singing) I'm a sittin' on the toilet, all the live long day ...
+   (Note: Another trailer was seen, with only the toilet bit seen)
+
+
+>> Miscellaneous, Etc.
+
+The Andrew Levine alterna-title for this episode is:  The Low Spark of High-
+   Tech Boys
+
+
+According to Fox (by way of Bill LaRue), this episode scored a Nielsen rating
+   of 9.0 (13 share).  This works out to 15.6 million viewers.  Among adults
+   aged 18 to 49, the rating was 7.7 (18 share).
+
+
+Joe Klemm:  Homer's fake story of Spanish and Italian being the same language
+   can have a little bit of credit to it, as both languages were based on the
+   Latin language.
+
+
+Ryan Mead:  thesimpsons.com ruins the title joke by listing it as "The
+   Computer Wore Menace Sneakers."
+
+
+Dwayne Conyers:  Where was Gilligan when you needed him?
+
+
+==============================================================================
+> Quotes and Scene Summary  {bg}
+==============================================================================
+% Our show opens with Homer reporting to work at the power plant -- or
+% trying to anyway.  As he rattles the locked gate, Lenny and Carl
+% drive up, and tell Homer the plant is closed for fumigation.
+
+Homer:	No one told me the plant was closed.
+Carl:	Didn't you get the email?
+Homer:	What's an email?
+Lenny:	It's a computer thing, like an electric letter ...
+Carl:	... or a quiet phone call.
+Homer:	I don't have a computer.
+Lenny:	Heh, heh, too bad, that's why you're at work, and we're 
+living it up on our day off!
+Lenny:	Hey Carl, turn up the car radio!
+Carl:	Why not!  Anything goes today.  [they drive off]
+Homer:	That does it, I'm getting a computer.  As soon as somebody 
+	let's me out of here.  [rattles gate again, realizes he's 
+	outside]  Oh, I'm sooo stupid.
+-- A potential Microsoft user, then, "The Computer Wore Menace Shoes"
+
+% The scene switches to Honest John's Computers, Homer is talking to
+% consumer-compatible liveware.
+
+Homer:		Umm ... I guess I'll take that one.
+Salesman:	Well, do you need a paperweight?  'Cause if you buy 
+		that machine, that's all you're going to have, an 
+		expensive paperweight.
+Homer:		Well, a paperweight would be nice, but what I really 
+		need is a computer.  How about that one?  [points to 
+		a second machine]
+Salesman:	That technology is three months old.  Only suckers 
+		buy out-of-date machines.  You're not a sucker, are 
+		you sir?
+Homer:		Heavens no!
+Salesman:	Oh good, because if you were, I'd have to ask you to 
+		leave the store.
+Homer:		I just need something to receive email.
+Salesman:	[whistles] You'll need a top-of-the-line machine for 
+		that.  [shows Homer a top-of-the-budget machine]  
+		That's the same computer astronauts use to do their 
+		taxes.
+Homer:		I was an astronaut.
+Salesman:	Of course you were.
+-- "The Computer Wore Menace Shoes"
+
+% Homer looks at the price tag -- $5,000 -- and does a spit-take
+% (first drinking a cup of coffee so he'll have something to spit). 
+% Assured by the sales man that this machine "is the best computer in
+% the world and always will be," Homer agrees to the deal, running his
+% deed through a scanner to take out his fifth mortgage.
+%
+% Homer drags his new toy home behind the car.
+
+Homer:	Hey Lisa!  Check out my new computer!
+Lisa:	Dad!  You shouldn't drag that around!
+Homer:	[laughs] That's right, top-of-the-line.
+	[the car hits large pothole, Homer bangs his head on the 
+	roof of the car]
+	Stupid pothole.  Don't worry, head.  The computer will do 
+	our thinking now.
+-- Well, something needs to, "The Computer Wore Menace Shoes"
+
+% Homer sets up his new computer, adjusting a can holder and mirror he
+% has attached to the monitor.
+
+Homer:		Oh, yeah, perfect.  Now, then.  [talking into mouse] 
+		Computer, kill Flanders.
+Flanders:	Did I hear my name?  My ears are burning.
+Homer:		[Whispering to computer] Good start.  Now finish the 
+		job.
+Flanders:	Oh, you're busy.  Catch you later, computator.
+Homer:		Oh, five thousand dollars for a computer and it 
+		can't handle a simple assignment.  [pushes computer 
+		into trash can]
+		[Lisa and Bart walk in]
+Lisa:		Dad, I'll set up your computer.  Why don't you and 
+		Bart go play in the backyard.
+Homer:		[tagging Bart] You're it!
+		[Bart and Homer run off to play, while Lisa gets to 
+		work]
+-- "The Computer Wore Menace Shoes"
+
+% Lisa eventually gets the computer running, and has even written down
+% the basic commands so Homer can better understand them.  No use --
+% the computer once again winds up in the trash.  Marge insists that
+% Homer bring it back inside.
+%
+% With a little persistence, though, Homer does catch on.  Soon, he's
+% browsing the Web like a pro.  Or at least like a newbie.
+
+Homer:	Ooooh!  Dancing Jesus!  Dee-dee-dee-dee-dee-dee-dee.
+	[we hear tune "Rock of Ages, Cleft for Me"]
+	If there's a better use for the Internet, I haven't found 
+	it.
+	[Homer types and brings up the Springfield Police 
+	Department Web site]
+Wiggum:	[digitized image on a Web page] If you've committed a 
+	crime, and want to confess, click "Yes".  Otherwise, click 
+	"No".
+	[Homer clicks on "No"]
+	You have chosen "No", meaning you've committed a crime, 
+	but don't want to confess.  A paddy wagon is now speeding 
+	to your home.
+Homer:	Hey!!
+Wiggum:	While you wait, why not buy a police cap or T-shirt.  [T-
+	shirts and baseball caps with the SPD logo circle Wiggum's 
+	head] You have the right to remain fabulous!  [the screen 
+	flashes "NOW 80% OFF"]
+-- "The Computer Wore Menace Shoes"
+
+% Soon Homer isn't just browsing Web pages, he's creating them, as
+% well.  He calls in the rest of the family to show them his new pride
+% and joy.
+
+Homer:	Here it is everybody!  The world's greatest web site!
+	[a highly annoying newbie web page, complete with several 
+	clashing sounds, is seen]
+	You'd think all the noises would be annoying, but they're 
+	not.
+Bart:	I got suspended from school today.
+Homer:	No kidding [obviously ignoring and then continuing to 
+	ignore Bart]  What do you think of my page, Lisa?  Be 
+	honest, it's great, isn't it?  Go ahead, say it's great if 
+	you want to.
+Bart:	They found a switchblade in my locker.
+Lisa:	Well, a web page is supposed to be a personal thing.  
+	You've just stolen copyrighted material from everyone 
+	else.  They could sue you for that.
+Bart:	I took a swing at a cop.
+Homer:	They can't sue me if they don't know who I am.  I'll just 
+	call myself Mr. "X".
+Bart:	I'm just mad all the time.
+Homer:	Yep, you just can't go wrong with Mr. "X".
+-- "The Computer Wore Menace Shoes"
+
+% Later that night, Homer's Web page hasn't gotten a single hit.  Lisa
+% tells her father that a successful page has to offer people
+% something, like jokes or opinions.
+%
+% Just then, the screech of car tires is heard outside.  The car hits
+% the pothole and the wheel comes off.  It smashes through the front
+% window and lands in front of the fireplace.
+
+Homer:	That lousy pothole.  Why don't they fix it?
+Bart:	[walks in with a cookie and a glass of milk] I heard Mayor 
+	Quimby spent the street repair fund on a secret swimming 
+	pool for himself.
+Homer:	Get out.  Who told you that?
+Bart:	Nelson.
+Homer:	Hmmm.  That's the kind of dirt that belongs on my web 
+	page.
+Lisa:	You can't post that on the Internet.  You don't even know 
+	if it's true!
+Homer:	Nelson has never steered me wrong, honey.  Nelson is gold.
+Bart:	You know, it might have been Jimbo.
+Homer:	Beautiful, we have confirmation.  [Lisa sighs in 
+	exasperation]
+-- More Americans get their news from Nelson than from any other
+   source, "The Computer Wore Menace Shoes"
+
+% The scene shifts to CBG's living quarters typical bachelor pad,
+% where he munches on tacos and browses the Web.  There's a poster of
+% a girl in a bikini on the wall, a stained desk and computer,
+% cardboard boxes to the rear, and an unemptied garbage pail.
+%
+% CBG's search for X-rated sites snares the URL for Homer's "Mr. X"
+% site.  After a moment's contemplation, CBG decides to cross "the
+% final frontier."  He reads Homer's pothole story and is outraged.
+
+There's no emoticon for what I'm feeling!
+-- CBG, "The Computer Wore Menace Shoes"
+
+% We switch to Principal Skinner at home.  He is also reading Mr. X's
+% scoop.
+
+Skinner:	Our mayor is corrupt?  Mr. "X" has done this town a 
+		great service, despite his poor grammar and 
+		spelling.
+Agnes:		Seymour, are you looking at naked ladies?
+Skinner:	No, Mother.
+Agnes:		You sissy!
+-- "The Computer Wore Menace Shoes"
+
+% At City Hall, Mayor Quimby tries to fend off the press.  Some
+% reporters see one of the Mayor's aides trying to discreetly close a
+% door behind him and senses that something is up.  They barge into
+% the secret room.  We see a lavish pool, a roman bath with statues,
+% and girls in bikinis.  A city worker is working with a spade from a
+% bag labeled "pothole cement".
+
+Good Lord, we've discovered the ruins of an ancient city!  OK, you do 
+better.
+-- Mayor Quimby, "The Computer Wore Menace Shoes"
+
+% The news hits the headlines.  Homer basks in his accomplishment.
+
+Homer:	I did it!  I've changed the world!  Now I know exactly how 
+	God feels.
+Marge:	You want turkey, sausage or ham?
+Homer:	Bring me two of every animal!
+	[Santa's Little Helper and Snowball II exit whimpering]
+-- "The Computer Wore Menace Shoes"
+
+% [End of Act One.  Time: 6:38]
+%
+% Homer the news reporter now is news himself.
+
+Kent:	A new Internet watchdog is creating a stir in Springfield.  
+	Mr. "X", if that is real name, has come up with a 
+	sensational scoop.
+Homer:	[watching at home] Darn tooting!
+Kent:	But we must never forget that the real news is on local 
+	TV, delivered by real officially licensed newsmen, like 
+	me, Kent Brockman.  Coming up: how do they get those dogs 
+	to talk on the beer commercials?  [a reporter in a big 
+	cowboy hat appears] Cowboy Steve will tell you!
+-- "The Computer Wore Menace Shoes"
+
+% Looking through the living-room window, Bart and Lisa watch the road
+% crew fill the pothole in front of the house.  Lisa suggests that
+% Homer quit while he's ahead.  Homer agrees and the episode comes to
+% an abrupt end.
+%
+% Just kidding.  Homer vows to keep digging up the dirt as Mr. X.
+%
+% At the Kwik-E-Mart ...
+
+Krusty:	Blah!  A coconut bagel?  Like poison it tastes.
+Apu:	Alright, I'll tell you a secret.  My bagels are nothing 
+	but week-old donuts.
+Krusty:	Who am I to point the finger?  I once ran over a guy in a 
+	parking lot and dumped the body on a golf course.
+Homer:	What a bombshell!
+-- "The Computer Wore Menace Shoes"
+
+% On his homepage, Homer breaks the story of ... the faux bagels.  
+% Wiggum hold a news conference and announces that the police have
+% confiscated all the donuts in town.  Going on to address another Mr.
+% X story, he says the police don't release the prisoners from their
+% cells to race them.  (At least, not anymore.)  Wiggum hurriedly
+% calls the conference over when a reporter asks about allegations the
+% police use the electric chair to cook chicken.
+%
+% Meanwhile, the usual gang meets at Moe's Tavern.
+
+Lenny:	According to my uncle, Miss Springfield isn't as beautiful 
+	as she seems.  Word is she uses appearance-altering 
+	cosmetics.
+Moe:	Oh my God, that's shocking.
+Carl:	The public should be warned.  I wish Mr. "X" was here.
+Homer:	[slyly] Oh, I don't know, Carl, he might be closer than 
+	you think.
+Carl:	Are you him?  Are you Mr. "X"?
+Homer:	No.
+Carl:	But you talked in the real sly voice.  Hey, hey, 
+	everybody!  Homer's Mr. "X".
+Homer:	I am not! ... [slyly] or am I?
+Lenny:	Are you?
+Homer:	No.
+-- Plausible denial, "The Computer Wore Menace Shoes"
+
+% Moe says he'd give a beer to Mr. X, were he in the bar.  Homer can't
+% claim it, though, because he can't reveal his secret identity to
+% Moe.
+%
+% The next day, Homer answers nature's call in the SNPP bathroom.
+
+Homer:		[singing] I've been sitting on the toilet, all the 
+		live-long day.
+		[Burns and Smithers come in.  They don't notice 
+		Homer, and walk over to the sinks]
+Burns:		Is everything ready for the secret meeting Smithers?
+Smithers:	Yes, Sir.
+Burns:		I hope no one finds out about this.  It's pure 
+		journalistic dynamite!
+Smithers:	Uh, sir, this place could be bugged.  [Turns on hand 
+		dryer] OK, now we can talk.
+		[Burns can't handle the breeze generated by the 
+		dryer, and is literally almost blown away]
+Burns:		Turn it off!  [Smithers does so]  Journalistic 
+		dynamite.
+-- "The Computer Wore Menace Shoes"
+
+% Burns meets with some dangerous-looking men in his office.  Homer
+% hides in the air vent, taking notes on the proceedings.
+
+Burns:		Then it's agreed.  I'll supply you terrorists with 
+		deadly uranium.
+Terrorist:	You are a credit to the great Satan.
+Burns:		Oh, pshaw.
+Homer:		Uh-huh.  [scribbling on pad] I love spying.
+		[Terrorist picks up a bar of uranium.  Radioactive 
+		gas boils off the surface of the rod]
+Burns:		Don't worry about those fumes.  They'll be sucked 
+		into that air  vent.
+Homer:		[moans from fumes, drops pad out of vent and onto 
+		the floor].
+Burns:		This place is falling apart.  [walks over, picks up 
+		pad and shoves it back into the vent]
+-- It was funnier a year ago ..., "The Computer Wore Menace Shoes"
+
+% Homer recovers well enough to write up his story that night.  Almost
+% as soon as he uploads his page, the FBI swoop in on Burns.  Two
+% agents drag him past Homer's window.  Homer matter-of-factly
+% observes that his boss is in a pickle.
+%
+% Even though he's anonymous, Homer's journalistic efforts do not go
+% unrewarded.  A ceremony is held for Mr. X outside of Springfield
+% Town Hall.
+
+Woman:		We'd like to award this years Pulitzer prize to Mr. 
+		"X".  Unfortunately, we don't know who he is, so his
+		cash award will be used to feed starving children.
+Homer:		Noooo!  [runs down to podium]
+Homer:		I'm Mr. "X"!  Gimme, gimme!
+Woman:		We'll need some proof.
+Homer:		[Homer puts Mr. "X" hood on head] Ta-Da!
+Krabappel:	He _is_ Mr. "X"!  Hah!
+Homer:		Thank you folks, and now I'm off to expose more 
+		secret conspiracies and ...
+		[walks into a pole, since he has the hood on his 
+		head still]
+		Oh, I bit by thongh.
+-- "The Computer Wore Menace Shoes"
+
+% Back at home.
+
+Marge:	I'm proud that you won the Pulitzer ...
+Homer:	Finally..
+Marge:	... but I do feed bad about the starving children.
+Homer:	They're with God now.
+Marge:	Oh, well, that's good.  [realizes] Hmmmm.
+-- "The Computer Wore Menace Shoes"
+
+% Homer soon discovers that there was an advantage in keeping his Mr.
+% X alter-ego a secret.  He's no longer welcome at Moe's bar, Mr. X
+% might blow his secrets (like the fact that he's keeping Moleman
+% trapped in his floorboards).  Reverend Lovejoy stops conversing with
+% his wife when Homer gets within earshot.  Even the website is
+% affected.
+
+Homer:	Oh, nobody's visiting my web page anymore.  My counter is 
+	actually going down.
+	[we see a tumbleweed bounce across his web site, as his 
+	counter rapidly decreases]
+Lisa:	Well, you can't post news if you don't have any.
+Homer:	That's a great idea!  I'll make up some news!
+Lisa:	At least take off your Pulitzer prize when you say that.
+-- "The Computer Wore Menace Shoes"
+
+% Homer obligingly removes prize from around his neck, giving it to
+% SLH.  His first "story" concerns a new race of beings found living
+% under Denver.  Spanish and Italian are the same language, or so goes
+% another scoop.
+%
+% The scene shifts to the Flanders home.
+
+Flanders:	[reading a computer screen] They're controlling our 
+		minds with flu shots.  I knew it.  Well, kids, now 
+		aren't you glad that we don't believe in 
+		inoculations?
+Rod + Todd:	[shivering from an apparent fever] Yay.
+Todd:		Mommy?
+-- "The Computer Wore Menace Shoes"
+
+% Outside the Kwik-E-Mart, Nelson approaches Homer.
+
+Nelson:	Hey, Mr. "X", I've got a tip for you.  They're dissecting 
+	frozen hobos in Science class.  And I've got the bindles 
+	to prove it.  [holds up some empty bindles]
+Homer:	Real news is great, son, But I'm getting a thousand hits 
+	an hour with Grade-A bullplop.
+-- "The Computer Wore Menace Shoes"
+
+% Homer goes inside the Kwik-E-Mart and asks Apu for some tickets. 
+% Apu seems unresponsive, perhaps because he is a cardboard cutout. 
+% Frightened, Homer steps backwards into a refrigerator display unit
+% only to discover it's also a fake.  We switch outside to see this
+% fake Kwik-E-Mart is nothing but a semi-truck.  The fake front folds
+% up and the truck drives away, taking Homer with it.
+%
+% Bart rides on his skateboard unaware of what just transpired.  He
+% rolls into the store, browses a magazine and then notices Apu behind
+% the counter tied up with his mouth taped.  He climbs up on the
+% counter and pulls off the tape.  The first thing Apu says is, "This
+% is not a library."
+%
+% The truck with Homer drives off to parts unknown.
+
+Save me Mr. "X"!  Wait, I'm Mr. "X".  Ohhh ...
+-- Homer, "The Computer Wore Menace Shoes"
+
+% [End of Act Two.  Time: 13:19]
+%
+% Homer has apparently been deposited in the kidnappers' hideout,
+% which looks like a lush countryside estate stocked with exotic birds
+% ... and exotic people in Victorian dress.
+
+Homer:	Huh!  Whuzza?
+	[he groggily awakes to the sight of a pink flamingo 
+	wearing a hat]
+	What the hell?  How did I get here?  What is this place?
+	[a man in a bowler hat appears]
+Man 1:	This is ... The Island.
+Homer:	How do I get out of here?
+Man 2:	Oh, no one leaves the island.
+Homer:	So I'm a prisoner.  How come?
+Man 1:	Because you know something.
+Homer:	But I don't know anything.  At least I don't think I do.
+Man 1:	See you tomorrow.
+Homer:	No you won't!  [Runs to a red British phone booth]
+	Hello, operator.  I'd like to report a really weird 
+	island.  Please send lot's of rescue 'copters to ... [the 
+	phone gases him]
+	[groggily] Oh, well, alright.  Whatever.
+-- "The Computer Wore Menace Shoes"
+
+% Home wakes up at a cocktail party.  The room is decorated in what
+% was considered pop-modern thirty years ago, with lava lamps and
+% wallpaper in bright primary colors.  Everyone is wearing their best
+% Carnaby Street togs.
+
+Number 6:	Welcome, friend.  I'm Number 6.
+Number 15:	I'm Number Fifteen.  What number are you?
+Homer:		I am not a number!  I am a man!  And don't you ever 
+		... oh wait ... [notices a button on his lapel with 
+		a "5" on it] I'm Number Five.  Ha-ha!  In your face 
+Number 6.
+Number 6:	Yes.  Well done.
+Homer:		Who are all these oddballs?
+Number 6:	Well, they keep us here because we know too much.  
+		Number 27 there knows how to turn water into 
+		gasoline.  Number 12 knows the deadly secret behind 
+		Tic-Tacs.  And I invented the bottomless peanut bag.
+Homer:		Wow.  So who brought us here?
+Number 6:	I don't know.
+Homer:		Did you bring us here?
+Number 6:	No.
+-- "The Computer Wore Menace Shoes"
+
+% Back in Springfield, Marge, Police Chief Quimby, and Lou are walking
+% through Springfield Forest ("Witch-Free Since 1998") with a
+% bloodhound.
+
+Wiggum:	Don't worry, if even half of your husband is out here, 
+	Officer Scraps will find him.
+Marge:	Oh, that's a darling name for a dog.
+-- "The Computer Wore Menace Shoes"
+
+% The dog, sniffing Homer's trail, runs into ocean.  He gets perhaps
+% fifty years out before he realizes he's in over his head.  As the
+% dog frantically tries to keep his head above water, Wiggum orders
+% Lou to go after him.  Lou prepares by removing his shoes, but Wiggum
+% reminds him that the shoes are part of the uniform.  So Lou wades
+% into the ocean, shoes and all.
+
+% Back on the island, Homer awakens from another drug-induced stupor. 
+% An empty teacup rests on his belly.
+
+Homer:		Oh, they drugged the tea.  They knew my one 
+		weakness.
+		[a man descends from ceiling]
+Number 2:	Hello, Number Five.  How is every little thing?
+Homer:		Who are you and why are you holding me here?  I want 
+		answers now or I want them eventually!
+Number 2:	Fair enough.  I'll level with you.
+		[Homer throws a saucer at him]
+		Ow.  Please.  Don't do that.
+Homer:		Sorry.
+Number 2:	I'll be blunt.  Your web page has stumbled upon our 
+		secret plan.
+Homer:		That's impossible.  All my stories are bullplop.  
+		Bullplop!
+Number 2:	Don't be cute.  I'm referring to the flu shot 
+		expose.  You see we're the ones loading them with 
+		mind-controlling additives.
+Homer:		But why?  [throws another saucer]
+Number 2:	To drive people into a frenzy of shopping.  That's 
+		why flu shots are given just before Christmas.
+Homer:		Of course.  It's so simple.  [Reconsidering] Wait, 
+		no it's not.  It's needlessly complicated.
+Number 2:	Yes it is.  And we can't have you out there mucking 
+		it up, now, can we?
+Homer:		No, sir.
+Number 2:	That's a good boy.  Let's get you some ice cream.
+		[a bowl of ice cream and hypodermic syringes rises 
+		from within the table]
+		There we are.
+Homer:		Look, you can drug me all you want, but my family 
+		won't rest until they find my drug-bloated corpse.
+Number 2:	I wouldn't count on that Number Five.  As far as 
+		your family knows, Homer Simpson is walking in the 
+		front door right about now.
+Homer:		[his face covered in ice cream and drugs] I'm sorry?  
+		What?
+-- "The Computer Wore Menace Shoes"
+
+% Indeed, back at Springfield an imposter Homer walks through the
+% front door.  He looks exactly like our Homer, but has a thick German
+% accent.
+
+Marge:		Homey!
+Homer #2:	Marge honey-fräulein, I'm home.
+Marge:		You're not my husband.
+Homer #2:	Ja, please forgive my unexplained two-week absence.  
+		To make it up to you, we will go out to dinner at a 
+		sensibly  priced restaurant, then have a night of 
+		efficient German sex.
+Marge:		Well, I sure don't feel like cooking.
+-- "The Computer Wore Menace Shoes"
+
+% Back on the Island, the real Homer plays croquet.  The ball gasses
+% him again.
+%
+% In Springfield Homer #2 and Bart watch TV.  Homer #2 uses an
+% electric shaver to copy Homer's unique bi-strand hairdo.  Bart
+% senses that there's something different about his father.  Homer #2
+% explains he's wearing a new tie, which satisfies Bart's curiosity.
+%
+% Meanwhile, back on the Island ...
+
+Homer:		I'm tired of being drugged and gassed.  There's got 
+		to be a way to escape.
+Number 6:	Psssst.
+Homer:		Huh?
+Number 6:	[shows Homer a raft hidden in foliage] I worked on 
+		this for 33 years.  It's made out of toilet paper 
+		rolls, toothpicks, and plastic forks.  And the sail 
+		is made of scabs and dynamite.  It's small and it's 
+		smelly, but it should carry both of us to ...
+		[Homer punches him, jumps into boat and sails off]
+Number 6:	That's the third time that's happened!
+-- "The Computer Wore Menace Shoes"
+
+% As Homer sails away, a large orb rises from the ocean and gives
+% chase.
+
+Homer:		Oh no, an anti-escape orb!  [grabs one of the 
+		plastic forks from the boat and pops the orb]
+		Huh.  That was easy.
+		[back in the kidnappers' headquarters]
+Number 2:	Why did you think a big balloon would stop people?
+Scientist:	Shut up!  That's why!
+-- "The Computer Wore Menace Shoes"
+
+% Homer makes it back home safely.  He logs onto the computer and
+% tries to warn the world about the "crazy creeps" on the Island. 
+% Suddenly the words he's typing melt away, and the mysterious Number
+% 2 appears on his screen.  He informs Homer he's shutting down the
+% Mr. X site.  Homer defiantly vows that only he can stop himself. 
+% The impostor Homer takes this as his cue to attack.
+
+Number 2:	Yes, Fight and Struggle!
+Homer:		If I know me, he won't like being kicked in the 
+		crotch!  [Homer ... disables Homer #2]
+Homer #2:	Gott in himmel!
+Homer:		Oh Marge, it's me, the real Homer!
+Marge:		Oh Homey!
+Number 2:	[claps sarcastically] Bravo, Number Five.  But you 
+		know what happens to bad little fishies who wriggle 
+		through the net.
+Lisa:		Can I turn this off?
+Homer:		Absolutely.
+		[Lisa turns off the computer]
+Number 2:	Hey!  [the monitor goes dark]
+-- An unforeseen setback, "The Computer Wore Menace Shoes"
+
+% The family welcomes the real Homer back, but the reunion doesn't
+% last long.  The Islanders have rigged SLH with their trademark
+% sleeping gas.  The next thing the Simpsons know, they are on the
+% Island, wearing mod-Victorian clothes and living the genteel country
+% life.
+
+Marge:	Once you get use to the druggin's, this isn't a bad place.
+Homer:	Oh, it's wonderful.  Truly God's country.
+-- Even better than the Hotel California, "The Computer Wore
+   Menace Shoes"
+
+% A koala bear wearing sunglasses walks by.  He turns to the camera
+% and removes the glasses, revealing a pair of gas nozzles where his
+% eyes normally would be.  He "gasses" the audience, and the scene
+% fades to black.
+
+Homer:	[hypnotically] See you on the island.
+Lisa:	Yes ... the island.
+-- "The Computer Wore Menace Shoes"
+
+% [End of Act Three.  Time: 20:01]
+%
+% Normal end-credit music and Gracie sound effect.
+
+==============================================================================
+> Contributors
+==============================================================================
+{ad}  Ahmet Deligonul
+{al}  Andrew Levine
+{bf}  Ben Fonter
+{bg}  Bruce Gomes
+{bjr} Benjamin Robinson
+{ddg} Don Del Grande
+{dj}  Darrel Jones
+{dld} Daniel L. Dreibelbis
+{ds}  Dave Sibley
+{hmw} Hari M. Wierny
+{jc}  Jeff Cross
+{jg2} Joe Green
+{jk}  Joe Klemm
+{jm}  Johnathan Mendez
+{mg}  Matt Garvey
+{mm}  Michael Morbius
+{mr2} Mike Reed
+{rm}  Ryan Mead
+{sa}  Steve Alpert
+{sb}  Stephen Burks
+{tr2} Tom Restivo
+
+==============================================================================
+> Legal Mumbo Jumbo
+==============================================================================
+This episode capsule is Copyright 2003 Benjamin Robinson.  It is not to be
+redistributed in a public forum without consent from its author or current
+maintainer (capsules@snpp.com).  All quoted material and episode summaries
+remain property of The Simpsons, Copyright of Twentieth Century Fox.  All
+other contributions remain the properties of their respective authors.  The
+Quote and Scene Summary itself is Copyright 2002 Bruce Gomes.  This capsule
+has been brought to you by Honest John's Computers.
+
+This work is dedicated to Raymond Chen, James A. Cherry, Ricardo Lafaurie,
+Frederic Briere, and all of those who made episode capsules what they are
+today.
+
+
+
+
+
+See you on the island.

@@ -1,0 +1,740 @@
+<PRE>
+Lisa the Greek                      Written by Jay Kogen and Wallace Wolodarsky
+                                                         Directed by Rich Moore
+===============================================================================
+[$Id: 8f12 1.1 92/01/24 23:05:25 raymond Exp Locker: raymond $]
+===============================================================================
+> Title sequence
+===============================================================================
+Cut from clouds directly to driveway.
+
+Driveway   :- Homer says `D'oh!' when Lisa scoots past.
+              Homer says `Waugh!' when the car closes in on him.
+
+Couch      :- Homer accidentally sits on SLH.
+              (Recycled from [8f01].)
+
+The cut title sequence is back, to make room for Yet More Michael Jackson
+Promotional Hype.  (Oddly, the cut title sequence was aired in Canada.)
+
+===============================================================================
+> Didja notice...
+===============================================================================
+    ... guest voices were supplied by Phil Hartman (Troy McClure, Smooth
+        Jimmy Apollo) and Maggie Roswell (Mrs. Hoover)?
+    ... Maggie fell only once?
+    ... the food dripping out of Homer's lip during the first scene?
+    ... the forlorn look on Lisa's face as Homer tells her to move over?
+    ... the First Aid box next to the door of the security room?
+        I wonder if it has bandages for treating gunshot wounds...
+    ... Herman was at Moe's holding a cue stick?  How can he shoot pool!?
+    ... the outlets in the kitchen are ungrounded?
+
+===============================================================================
+> Mixed Reviews
+===============================================================================
+
+Ron Carter {rc}:  Not as good as I thought it would be.  Fave moments for me:
+Troy ``IRS problems'' McClure's new show, and those deux French guys (finally
+out of jail) switching from the Super Bowl to watch a Jerry Lewis movie...
+
+Yours truly {rjc}:  It's up!  It's GOOD!  Another classic episode.  And the
+most shocking development this entire season:  Lisa calls Homer `Homer'!
+
+===============================================================================
+> Movie (and other) References
+===============================================================================
+  + Jimmy `The Greek' Snyder
+        - the title
+        - Smooth Jimmy Apollo looks just like him
+    Barbie et al
+        - the absurdly merchandised plastic doll
+
+===============================================================================
+> Freeze Frame Fun
+===============================================================================
+Items tagged with a `-' are due to Ron Carter {rc}.
+
+>> Homer's essentials
+ - Salt Doodles
+ - Krunchy Korns
+ - `New' Bar-B-Q Chips
+ - Pork Rinds (of course!)
+ + Two bowls of dip
+ + A can of that wonderful Duff
+
+>> Moe's bet book
+ - Barney  $5   Pittsburgh
+ - Smitty  $12  New Orleans
+ - Homer   $20  Denver
+
+>> Malibu Stacy's studio apartment
+   Poster of a `female' symbol on the wall
+   round table and chair
+   blue drapes on the window
+   room partition
+   twin-sized bed (green covers)
+   a tiny poster (of Corey?) taped to the wall
+   Malibu Stacy herself
+   no kitchenburp
+
+>> Football bet gimmicks
+ - Lock of the Week (Smooth Jimmy Apollo)
+ - Shoe in of the Week
+ - Gamble-Tron 2000 (Dr. John Fink)
+
+>> Backstage with Krusty
+ - Pizza Roma menu above the phone
+ - Krusty #14 set flat
+
+>> Springfield Mall
+   Wee Monsieur (the clothing store for young men)
+   (something) Nook
+
+>> Springfield Public Library
+ - ``Give a Hoot  Read a Book'' w/ Krusty (Shouldn't it be Sideshow Mel?)
+ - ``The Library The Hip Place To Be'' Banner
+ - Children's Story Hour  Weekdays  2-3 PM
+
+>> The international Super Bowl audience
+>>> A group of Pacific islanders watch a TV set, sitting on a log
+    Two suck back beers
+    One chomps on pizza
+    On the ground are an open pizza box and two bags of chips
+>>> Caesar and Ugoland
+    Large carton of all-season antifreeze
+
+>> Miscellaneous
+ - Moe's boot has a derringer and a blackjack in it
+ - ``Meryl Streep's Versatility'' perfume (in the bottle shaped like an Oscar!)
+ - Corey poster becomes Lisa's megaphone
+ - KYI 830 - Marge's license plate
+ - Bart has a firecracker in a ready-to-launch model plane
+ 
+===============================================================================
+> Animation and continuity goofs
+===============================================================================
+When Lisa giggles when Marge returns home from shopping, she's sitting on the
+couch, although in the rest of the scene, she is standing.
+
+When Marge reads the menu, her hands are bare.  But when she giggles at Homer's
+and Bart's jokes, she's wearing gloves.
+
+When Lisa reads her essay, Mrs. Hoover has only one leg.
+
+The Simpsons' stove is a gas model in this episode, whereas it is usually
+an electric.
+
+When Lisa and Homer first reach the top of Mount Springfield, the sun is
+setting on the horizon.  But when they sit down to enjoy the view, it
+is setting behind mountains.
+
+>> Changed lines (mismatched lip synch)
+
+The lip-synch is off whenever a character says `Washington', `Redskins'
+or `Buffalo' because when the episode was animated, they didn't know who
+was going to be in the Super Bowl.  I tried to read lips, and I think
+`Washington Redskins' was originally recorded as `Minnesota Vikings'.
+I can't figure out what `Buffalo' originally was.
+
+Lisa's line, ``You cared more about winning money than you did about me''
+originally ended ``than you did about us''.
+
+Homer's ``All right, we're back in business!'' looks like it was originally
+something else, but I can't make out what it was.
+
+===============================================================================
+> Comments and other observations
+===============================================================================
+>> For non-Americans
+>>> Football team city/name correspondences (teams mentioned in the episode)
+    Atlanta Falcons
+    Buffalo Bills
+    Chicago Bears
+    Cincinnati Bengals (Riverfront Stadium)
+    Dallas Cowboys
+    Denver Broncos
+    Houston Oilers
+    Kansas City Chiefs
+    Los Angeles Rams
+    Los Angeles (formerly Oakland) Raiders
+    Miami Dolphins
+    New England Patriots
+    New Orleans Saints
+    New York/New Jersey Giants
+    New York Jets
+    Philadelphia Eagles
+    Pittsburgh Steelers
+    San Francisco 49ers
+    Seattle Seahawks
+    Washington (DC) Redskins
+
+>> References to previous episodes
+   [7f07] the play-by-play announcer who sounds like Keith Jackson
+   [MG6]  Burping Contest (an Ullman short)
+   [7f10] (something) Nook
+   [8f02] The Gilded Truffle
+   [8f08] The Springfield Tire Yard Fire
+   [7g13] Caesar and Ugoland
+
+===============================================================================
+> Quotes and scene summary
+===============================================================================
+% We begin with a computer-generated sequence, depicting two football
+% players approaching each other.  The red-uniformed player (#86) sticks
+% out his arm, decapitating the blue-uniformed player (#12), whose head
+% flies off (with a shocked expression), sailing through logo, ``Inside
+% Football Today.''  Brent Gunsilman welcomes the home audience to ``six
+% hours of exciting football action.''  Homer, surrounded by his favorite
+% salt- and cholesterol-laden treats, announces ``Bye-bye belt!'' and lets
+% it all hang out.  He then digs in ferociously.  Marge sees him and warns
+% him that those foods aren't good for his heart.  Homer scoffs, ``My
+% heart is just fine.''  We take an inside look at Homer's chest
+% cavity, where an aorta blows up like a balloon (presumably due to a
+% clogged artery), but the danger is averted when the clog clears, and
+% the blood continues on its way.  (``A little beer will put out <that>
+% fire,'' says Homer.)
+
+And now, with his picks for today's games, the man who's right 52% of
+the time, Smooth Jimmy Apollo!
+-- Brent Gunsilman hosts a football pre-game show, ``Lisa the Greek''
+
+% Jimmy says the Denver/New England game is too close to call.  ``But
+% if you're one of those compulsive types who just has to bet, well,
+% I don't know... um... Denver.''  Homer celebrates.  ``Woo hoo!
+% Denver!  Yeah!''  Homer calls Moe.
+
+Moe's Tavern, where the peanut bowl is freshened hourly.
+-- Moe answers the phone, ``Lisa the Greek''
+
+% Homer puts $20 on Denver, and Moe accepts the bet.  (He has to ask
+% Chief Wiggum to hand him his notebook.)
+
+At the end of thirteen seconds of play,
+it's New England seven, Denver nothing.
+-- The football report, ``Lisa the Greek''
+
+% Lisa steps in front of the TV, blocking Homer's view.
+
+Look Dad, I made a modern studio apartment for my Malibu Stacy doll.
+[shows a neatly furnished shoebox]
+This is the kitchen, this is where she prints her weekly feminist
+newsletter...
+-- Lisa's latest triumph, ``Lisa the Greek''
+
+% But Homer isn't paying any attention.  (``Lousy stupid Denver...'')
+%
+% Marge gives Maggie a bath and shampoo in the sink.  Marge praises
+% Lisa's work.
+
+Lisa:  Why isn't Dad ever interested in anything I do?
+Marge: Well, um, do you ever take an interest in anything <he> does?
+Lisa:  No. ... Well, we used to have burping contests, but I outgrew it.
+-- ``Lisa the Greek''
+
+Well, if you want to get closer to him, then maybe <you> should bridge the
+gap.  I do it all the time.  I pretend I'm interested in looking at power
+tools, going to those silly car-chase movies, and ... some things I'll tell
+you about when you're older.
+-- Marge's advice to Lisa, ``Lisa the Greek''
+
+% Bart slips a dish into the bathwater and receives a brief scolding.
+%
+% In the third quarter, New England is winning, 35 to 7.  Lisa suggests
+% that she watch the game with Homer, and he reluctantly agrees.  ``Just
+% don't say anything and sit down over there.''  Lisa plops on the couch,
+% and Homer tells her to keep moving over until she's at the far end of
+% the sofa.  Lisa sighs.  Homer scolds, ``Lisa, please, I can't hear the
+% announcer.''  ``He said Denver just fumbled.''  ``D'oh!''
+%
+% In the yard, Bart uses a magnifying glass to melt a plastic soldier toy.
+% (``See you in hell, soldier boy!'')  Marge suggests that, since Homer and
+% Lisa are inside watching the game, it ``might be fun'' for Bart to go
+% shopping for clothes with her.  Bart maintains that he doesn't need new
+% clothes, though his point is undermined by the holes in the shirt and pants
+% he's currently wearing.
+%
+% Back to `Inside Football Today', where New England has defeated Denver
+% by a score of 55 to 10.
+
+Smooth Jimmy Apollo:  [explaining his poor prediction]
+       Well, folks, when you're right 52% of the time, you're wrong 48%
+       of the time.
+Homer: Why didn't you say that before!!
+-- Watching a TV football post-game show, ``Lisa the Greek''
+
+% On the Miami/Cincinnati game, Jimmy picks Miami as his Lock of the Week.
+% On another channel, another broadcaster selects Cincinnati as his Shoe-in
+% of the Week.  On another channel, Professor John Fink's high-tech computer
+% picks Cincinnati, by 200 points?!  He kicks his ``worthless hunk of junk.''
+% On another channel, Homer falls for a TV ad for a phone-in guaranteed-win
+% football pick.  Homer calls...
+
+TV:    So call me now!  $5 for the first minute, $2 for each additional minute!
+Homer: [dials the number]
+Voice: You... have reached... the Coach's...  Hot-...
+Homer: Line.
+Voice: Line.
+Homer: Yeah, lay it on me, Coach.
+Voice: In the game... of... Mi... am... i...
+Homer: Mm hm.
+Voice: Versus Cin...
+Homer: Cincinnati.
+Voice: cin...
+Homer: Cincinnati.
+Voice: nat...
+Homer: Cincinnati.
+Voice: i...
+Homer: Come on, come on, don't you realize this is costing me money!
+-- Dial 1-909-WIN-BIGG for football picks, ``Lisa the Greek''
+
+% Homer eventually gives up.  In desperation he asks Lisa who she picks.
+% ``I don't know.  The Dolphins?''  Homer phones in a $50 bet on the
+% Dolphins.  Moe's call waiting kicks in, and he takes a call from Krusty,
+% phoning in his $700 bet on the Rams from backstage.  (The show is taping.)
+% Sideshow Mel honks his horn twice, which Krusty interprets as a $2000 bet.
+%
+% Marge drags Bart to `Wee Monsieur'', a clothing store for young men.
+
+Mom, I'm tired.  I want to go home.  Can't I just lie down for a minute?
+-- Bart whines about being forced to shop for clothes, ``Lisa the Greek''
+
+% There, she loads up Bart with brightly-patterned clothes.
+
+Bart:  You know why these clothes are on sale, Mom?
+       Because the people who wear them get beaten up.
+Marge: Well, anyone who beats you up for wearing a shirt isn't your friend.
+-- More words of wisdom from Marge, ``Lisa the Greek''
+
+% Bart's arms are loaded with clothes, the pile reaching above his head.
+% Marge scolds, ``And don't make that face at me.''  Bart responds, ``How'd
+% you know?''
+%
+% The Dolphins score a touchdown, and Homer celebrates (spilling his Duff
+% in the process).  Lisa copies Homer's cheering.  Homer lets slip that
+% he bet $50 on the game.  Lisa doesn't understand why.
+
+What could be more exciting that the savage ballet that is pro football?
+-- Lisa, ``Lisa the Greek''
+
+% Homer tries an analogy.
+
+Homer: You like ice cream, don't you?
+Lisa:  Uh huh.
+Homer: And don't you like ice cream better when it's covered with hot fudge?
+       And mounds of whipped cream?  [getting carried away]  And chopped nuts?
+       And, ooh, those crumbled-up cookie things they mash up?
+       Mmm...  Crumbled-up cookie things...
+-- Homer's train of thought gets derailed yet again, ``Lisa the Greek''
+
+% Lisa concludes that ``gambling makes a good thing even better.''
+% Homer realizes that there is some kind of bond between him and his daughter.
+%
+% Bart changes in the fitting room and sees the sign ``This room monitored
+% at all times.''  He spots a TV camera, so he takes some cardboard backing
+% and makes the sign, ``Get bent.''  The security men
+% who are watching the monitors spot a little girl putting on socks.  ``Those
+% aren't the socks she came in with!''  Armed with high-powered rifles, they
+% head out.
+%
+% Marge checks up on Bart, who at the moment is dressed only in his briefs.
+% Everybody in the store chuckles at Bart's embarrassing situation.
+%
+% Homer and Lisa celebrate Miami's 24-10 victory over Cincinnati.
+% Homer then tells Lisa not to breathe a word about Homer's gambling to
+% Marge.
+
+Homer: Your mother has this crazy idea that gambling is wrong.
+       Even though they say it's okay in the bible.
+Lisa:  Really?  Where?
+Homer: Uh... Somewhere in the back.
+-- ``Lisa the Greek''
+
+% Marge returns from shopping and says that Bart is modelling his new clothes
+% for his friends.  Bart is in the car, dressed in plaid.  The car is shaking.
+% We see the reason:  Jimbo, Kerny, and Dolph are pushing the car up and down.
+% ``You gotta come out <sometime>, Simpson.''
+%
+% [End of Act One]
+%
+% Homer tucks Lisa into bed.
+
+Lisa:  Can I watch football with you again next Sunday?
+Homer: Sure!  You'll find it gets rid of the unpleasant aftertaste of church.
+-- Sundays of thunder?  ``Lisa the Greek''
+
+% Homer leaves and Marge enters.  Marge is pleased that her advice worked,
+% and Lisa asks,  ``Could you loosen my blanket a little?  Dad tucked me
+% in too tight, and it's cutting off the circulation in my arms and legs.''
+%
+% Homer and Lisa watch a pre-game show.
+
+Football player:  [being interviewed]
+       This team is fired up.  We came here to play!
+Homer: Aw right!  [picks up the phone to place his bet]
+Lisa:  [scoffing]  He'll lose.
+Homer: What?  Didn't you hear what he said?
+Lisa:  Look at the fear in his eyes, listen to the quiver in his voice.
+       [poetically] He's a little boy lost in a game of men.
+-- ``Lisa the Greek''
+
+Homer: You think we should bet against them?
+Lisa:  I'd bet my entire college fund on it.
+Homer: You got it.  [to phone]  Moe, twenty-three dollars on New York!
+-- ``Lisa the Greek''
+
+% New York defeats Philadelphia 35-10.
+
+Homer: [tossing Lisa in the air in celebration]  Yaay!
+Lisa:  Yaay!
+Homer: [continues tossing]
+Lisa:  Whoa!
+Homer: [continues tossing]
+Lisa:  Dad, I hate to break the mood, but I'm getting nauseous.
+-- ``Lisa the Greek''
+
+Homer: Who do you like in the afternoon games?
+Lisa:  Well, I like the 49ers because they're pure of heart,
+       Seattle because they've got something to prove,
+       and the Raiders because they always cheat.
+       [later]
+Brent: And on an extreeeeeemely suspicious play, the Raiders win!
+-- ``Lisa the Greek''
+
+% Homer and Lisa cheer.
+%
+% Lisa pays a visit to the Springfield Public Library.
+
+[Under the banner ``The Library / The Hip Place To Be'' sits a lone reader]
+Lisa: Hey, the new sign's really working!
+Mrs. Norton:  Oh, it's been a madhouse, Lisa!
+-- Give a hoot, ``Lisa the Greek''
+
+[Lisa flips through the card catalog]
+Let's see... Football... Football... `Homoeroticism in'...
+`Oddball Canadian rules'... `Phyllis George and'...
+-- Let your fingers do the walking, ``Lisa the Greek''
+
+% Maggie, Homer and Lisa watch the conclusion of another game.  Maggie
+% has a tiny football in her hand and tries to throw it, but she falls
+% at the same time, making her throw more of a spike.  The final score
+% is announced, Atlanta 17, Houston 13.  ``Who woulda thunk it!''
+
+Homer: Lisa, you picked the winner every time.  You must have some
+       kind of special gift!
+Lisa:  Come on, Dad.  It doesn't take a genius to realize that Houston's
+       failed to cover their last ten outings on away turf the week after
+       scoring more than three touchdowns in a conference game.
+Homer: Oh, my little girls says the cutest things.
+-- ``Lisa the Greek''
+
+% Lisa adds, ``Sunday is fast becoming my favorite day of the week.''
+% Homer corrects her, ``Not Sunday.  Daddy-daughter day.''
+%
+% Homer comes into Moe's Tavern and orders the usual, ``a beer, and a wad
+% of bills!''  Moe quietly grumbles as he takes $135 out of his boot to pay
+% Homer.  ``I used to hate the smell of your sweaty feet.  [inhales]  Now
+% it's the smell of victory.''  (``Shut up,'' mutters Moe.)
+%
+% Homer takes the family to The Gilded Truffle, a very expensive restaurant.
+
+Gasp!  Look at these prices!  We could finally get rid of those termites
+for the cost of this meal!
+-- Marge reads the menu for The Gilded Truffle, ``Lisa the Greek''
+
+% Marge asks where Homer got the money to pay for it, and Lisa asks, ``Can't
+% a man do something nice for his loved ones?''
+
+Waiter: Hello, I'm Marco, I'll be your waiter.
+Homer:  Hello, I'm Homer, I'll be your customer.
+        [Homer, Bart, and Lisa chuckle]
+Waiter: Never heard that one before...
+-- At The Gilded Truffle, ``Lisa the Greek''
+
+Waiter: Would you care to select the wine?
+Bart:   I'll do the honors.  [takes the wine list, reads it]
+        No, no, no, no!  My God!  What passes for a wine list these days?
+        Marco, just bring us your freshest bottle of wine, chop-chop.
+-- At The Gilded Truffle, ``Lisa the Greek''
+
+Homer: Oh, violin guy! [strolling violinist approaches]
+       [tucks some money in the violinist's pocket]
+       [to Lisa] What's your favorite song?
+Lisa:  The Broken Neck Blues.
+Homer: [to violinist] Play on.
+-- At The Gilded Truffle, ``Lisa the Greek''
+
+% Back to watching football on TV.
+
+Brent:  It is the playoffs. It's five below, and there's one loyal fan
+        wearing nothing but a G-string, and the team colors painted on
+        his body!
+        [camera shows the fan in question, shivering, teeth chattering]
+Johnny: He doesn't look too happy!
+Brent:  Heh heh.  Well, maybe the paint has shut off his pores, and
+        he's slowly suffocating.  Still, <that> is a <real> fan.
+-- Football pre-game show, ``Lisa the Greek''
+
+% Lisa is on the floor with a calculator and some note paper.  Her
+% computations complete, Lisa places her pencil behind her ear.
+
+Homer: Well, Lisa, it's daddy-daughter day, and Daddy needs daughter's picks.
+Lisa:  Dad, I'm making the Chiefs my five-star silver bullet special.
+       And with your blessing, I'd like to tie it to the Cowboys plus
+       five at Chicago.
+
+% Homer lets Lisa phone in the bet.  (``This is L.S. calling for H.S.'')
+%
+% Moe pays Homer his winnings.
+
+Barney: Hey, Homer, you wanna go bowling next Sunday?
+Homer:  Barney, are you nuts?  That's the Super Bowl!
+        How about the Sunday after that?
+Barney: Well, my Ma's coming in from Norway, but uh, what the hell. [belch]
+-- ``Lisa the Greek''
+
+% Lisa's class are reading their essays on the theme, ``The Happiest Day
+% of My Life.''
+
+Ralph: ... and when the doctor said I didn't have worms any more, that
+       was the happiest day of my life.
+Mrs. Hoover:  Thank you, Ralph, very graphic.
+-- Reading essays in front of the class, ``Lisa the Greek''
+
+% Lisa is up next.
+
+The happiest day of my life was three Sundays ago.  I was sitting on my
+daddy's knee when the Saints, who were four-and-a-half point favorites,
+but only up by three, kicked a meaningless field goal at the last second
+to cover the spread.
+-- Lisa's essay, The Happiest Day of My Life, ``Lisa the Greek''
+
+% ``Dear God,'' says Mrs. Hoover.
+%
+% At home, Homer brings the family gifts.
+
+Lisa:  Oh, Dad!  You must have bought me every Malibu Stacy accessory there
+       is!
+Homer: Not quite.  They were out of Malibu Stacy lunar rovers.
+-- Homer's surprise gift, ``Lisa the Greek''
+
+Ooh, perfume!  Meryl Streep's Versatility!
+-- Marge's gift from Homer, ``Lisa the Greek''
+
+% Maggie gets a stuffed elephant, which she tosses aside, preferring to
+% play with the bubble wrap the animal was wrapped in.  (Pop!  Pop!)
+
+Homer: Boy, I know you're going to like your present.
+Bart:  [it's a hand-held gizmo with three buttons]
+       [Bart presses each button a few times]
+Toy:   Shut up!  Shut up!
+       Kiss my butt!
+       Shut up!
+       Go to hell!  Go to hell!
+Bart:  Dad, I promise you, I will <never> get tired of this.
+-- ``Lisa the Greek''
+
+% At bedtime...
+
+Marge: Homer, those were very thoughtful presents, but you have to tell
+       me where you got the money from.
+Homer: All right, Marge, I'll tell you, but first you have to promise you
+       will not get mad.
+Marge: I promise I <will> get mad, because I always do when you make me
+       promise I won't.
+Homer: All right, if you must know.  Lisa and I have been gambling on pro
+       football.
+Marge: Homer!!
+Homer: You promised you wouldn't get mad!
+-- ``Lisa the Greek''
+
+% Marge is furious, but Homer tries to explain that Lisa never picks wrong;
+% she has a gift.
+
+Homer: Aren't parents supposed to encourage their kids whenever they show
+       talent?
+Marge: But gambling is illegal!
+Homer: Oh, only in 48 states.  Besides, it's a victimless crime.
+       The only victim is Moe!  Heh heh heh.
+-- Homer has been using Lisa to help him make bets on football,
+  ``Lisa the Greek''
+
+% Homer says, ``What's the problem?  The kids are happy, you smell like
+% Meryl Streep, and I got that foot massager I always wanted.  Believe
+% me, Marge, nothing bad could possibly come of this.''  (Homer forgets
+% to knock on wood.)
+%
+% At the dinner table, Homer's foot is still soaking in the foot massager.
+
+You know, Dad, we've been watching a lot of TV lately.  Maybe the Sunday
+after the Super Bowl we could hike up to the top of Mount Springfield.
+The fires in the tire yards really make for some beautiful sunsets!
+-- Lisa, ``Lisa the Greek''
+
+% Homer says he's going bowling with Barney.  ``What about Daddy-daughter
+% day?'' ``Don't worry, the new football season is only seven months away.''
+% Lisa tearfully concludes that Homer was merely using her.  Marge
+% scolds, ``You're a very selfish man.''  Bart's toy says, ``Go to hell!
+% Go to hell.''  Bart adds, ``Hey, once again, great present, Dad.''
+%
+% [End of Act Two]
+%
+% Lisa tosses and turns in her sleep.  She dreams that she is a tired adult
+% with too much make-up, at a casino smoking a cigarette.
+
+Adult Lisa: My third husband bought me this.  [takes off her ring]
+            Gimme some [casino] chips for it!
+Clerk:      Are you sure, ma'am?
+Adult Lisa: Don't tell me what to do, sonny.  I've been gambling since I
+            was eight, and I've been hocking jewelry since I was twelve!
+            Now gimme some chips!
+-- Lisa's nightmare, ``Lisa the Greek''
+
+% Lisa wakes up with a start.
+
+Look around you, Malibu Stacy.  All this was bought with dirty money.
+Your penthouse, your Alfa Romeo, your collagen injection clinic...
+-- Lisa talks to her doll, ``Lisa the Greek''
+
+% Lisa returns Malibu Stacy to her shoebox.  ``It may not pretty, but dammit,
+% it's honest.''  She takes down a Corey poster, curls it into a megaphone,
+% and announces that she is giving away all her ill-gotten Malibu Stacy
+% accessories.  Girls stampede down the sidewalk (Bart escapes with his
+% life) and clean out Lisa's bedroom of said ill-gotten accessories.
+% Homer arrives with a Malibu Stacy chinchilla coat, which a girl snatches.
+% Lisa says, ``So you've come to buy my forgiveness.  Sorry, Homer.''
+% Homer says he enjoyed watching football together, and Lisa admits that she
+% did, too.  Homer invites her to watch the Super Bowl, and Lisa agrees.
+% Homer then asks Lisa for her pick, and her demeanor changes.
+
+Lisa:  Look, Dad.  I'll tell you who's going to win the Super Bowl if you
+       want me to, but it'll just validate my theory that you cared more
+       about winning money than you did about me.
+Homer: Okay.
+-- ``Lisa the Greek''
+
+% Lisa picks Washington.  ``However, I may also be so clouded with rage that
+% subconsciously, I want you to lose.  In which case, I'd bet the farm on
+% Buffalo.''  Homer asks her a second time.  ``If I still love you,
+% Washington.  If I don't, Buffalo.''
+%
+% Homer glumly soaks a chip in dip while watching the pre-game show.
+
+Brent:   We're live from the Hubert H. Humphrey Metrodome, and Super Bowl XXVI.
+         Today, we're going to be seen by people in one hundred and fifty
+         countries, all over the world!
+         [shot of some Pacific island natives watching a TV set]
+         Including our newest affiliate, W Gimel Aleph Nun in Tel Aviv!
+         [cut to Caesar and Ugoland (the evil French winemakers) watching
+         the show]
+Caesar:  Stupid!
+Ugoland: [changes the channel with the remote]
+TV:      [Jerry Lewis]  Wauugh!  [crash]  Sorry, Mrs. [mumble]
+Ugoland: [smacks his lips] Formidable!
+-- Fifty million Frenchmen might be wrong, ``Lisa the Greek''
+
+% Homer hears Lisa's saxophone wailing from upstairs.  ``Oh, every note
+% is like a dagger in my heart.''  He leaves.
+
+Moe:    [answering the phone] Moe's Tavern, home of the Super Sunday Brunch
+        Spectacular!
+Barney: [surveying the buffet table]  Whoa!  Baloney!  Bread!
+Moe:    [jotting in his notebook]  I've got you down for forty bucks.
+        Good luck, Your Eminence.
+-- Super Bowl Sunday, ``Lisa the Greek''
+
+% Moe sees Homer and tells him he's out of the bookie business.  Barney
+% notes that Moe has been taking bets all day, and Moe shuts him up with
+% a free beer.  Homer tells Moe he's not placing a bet, and Moe snatches
+% the beer back.  (And pours it down the drain.)
+
+I had the greatest gift of all.  A little girl who could pick football.
+-- Homer, ``Lisa the Greek''
+
+Well, sir, we're two hours and 45 minutes into the pre-game show...
+-- Brent Gunsilman hosts the Super Bowl pre-game show, ``Lisa the Greek''
+
+Brent: We've got ourselvs a special guest, actor Troy McClure, whose new
+       sitcom is premiering tonight, coincidentally enough, right after
+       the game!
+Troy:  Thanks, Brent.  My new show is called `Handle with Care'.
+       I play Jack Handle, a retired cop who shares an apartment with a
+       retired criminal.  We're the original Odd Couple!
+Brent: What made you want to do a situation comedy?
+Troy:  Well, I fell in love with the script, Brent.  And my recent
+       trouble with the IRS sealed the deal!
+-- Brent Gunsilman hosts the Super Bowl pre-game show, ``Lisa the Greek''
+
+% Washington kicks off, and Buffalo gets excellent field position.
+
+Homer: Buffalo is going to win.  Lisa hates me. [sobs]
+Man:   Whatcha got riding on this game?
+Homer: My daughter.
+Man:   [whistles]  What a gambler!
+-- Watching the Super Bowl, ``Lisa the Greek''
+
+% The halftime score is Buffalo 14, Washington 7.  An incredibly stupid
+% halftime show starts up.
+
+This sucks.  Come on, snipers, where are you!
+-- Bart watches a feeble football halftime show, ``Lisa the Greek''
+
+% Lisa asks for the score, and Bart reports, ``You hate Dad is up by a
+% touchdown.''
+%
+% At Moe's Tavern, the gang watch a Duff Bowl commercial.
+
+It's a touchdown for halfback Dan Beer-dorf!  Duff Dry has won the Duff Bowl!
+-- ``Lisa the Greek''
+
+% ``They wanted it more,'' notes Moe.
+
+Barney: Hey Homer, didn't you say that if Duff Dry wins [the Duff Bowl],
+        your daughter loves you?
+Homer:  Not Duff Dry.  Washington!
+Barney: Okay, okay.  They're <both> great teams.
+-- ``Lisa the Greek''
+
+% The Redskins score a touchdown.
+%
+% Meanwhile, at church (``Every Sunday is Super Sunday'')...
+
+Rev. Lovejoy:  [surveys his congregation, one man and two old ladies]
+     Well, I'm glad <some> people could resist the lures of the big game.
+Man: Oh, my God!  I forgot the game!  [rushes out]
+-- Super Bowl Sunday, ``Lisa the Greek''
+
+So, with three ticks left on the clock, it all comes down to this one play.
+If Washington scores here, happy fans will be looting and turning over cars
+in nation's capital tonight!
+-- The closing seconds of the Super Bowl, ``Lisa the Greek''
+
+% Washington scores to win the game, and all celebrate.  ``I guess you love
+% Dad,'' says Bart.  Lisa responds, ``I suspected as much.''  Back at the
+% bar, Homer celebrates.
+
+Money comes and money goes, but what I have with my daughter can go on
+for eight more years!
+-- Homer, ``Lisa the Greek''
+
+% At sunset the following Sunday, Lisa and Homer reach the top of Mount
+% Springfield.  (Lisa managed to climb the mountain in her red dress.
+% Homer is completely out of breath.)  Homer pants, ``It's... beautiful. ...
+% After I... catch my... breath...  Can we... go... home?''  The sunset
+% is enhanced by the Springfield Tire Yard Fire burning below.
+%
+% [End of Act Three]
+%
+% [Closing credits is performed by a marching band.]
+%
+% [The Gracie Films logo is also performed by the band.  When the woman
+%  puts her finger to her lips, instead of ``Shhh...'' a whistle blows.]
+%
+% [The Twentieth Century Fox fanfare is unchanged.]
+===============================================================================
+Episode summaries Copyright 1992 by Raymond Chen.  Not to be redistributed
+in a public forum without permission.  (The quotes themselves, of course,
+remain the property of The Simpsons, and the reproduced articles remain
+the property of the original authors.  I'm just taking credit for the
+compilation.)
+</PRE>

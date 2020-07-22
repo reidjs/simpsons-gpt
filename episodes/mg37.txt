@@ -1,0 +1,102 @@
+Scary Movie                                            Written by Matt Groening
+===============================================================================
+[$Id: mg37 1.1 92/04/11 11:29:47 raymond Exp Locker: raymond $]
+===============================================================================
+> Didja notice...
+===============================================================================
+    Voice credits:
+        NANCY CARTWRIGHT as Bart
+        YEARDLEY SMITH as Lisa
+
+    Animation producer was Margot Pipkin.
+    Animators were Wesley Archer and David Silverman.
+
+    ... Maggie fell four times?  Five if you count the intro.
+
+===============================================================================
+> Freeze Frame Fun
+===============================================================================
+>> The movie theater
+   The Return of the Happy Little Elves
+   Revenge of the Space Mutants
+   Coming soon:  Hell Drivers III
+
+   Show times:  11:00  2:30  5:00  7:30   10:00
+
+===============================================================================
+> Assorted comments and observations
+===============================================================================
+Brian Howard {bh} gives the timing for this short as 1:13, whereas the
+syndication package contains only 1:09 of animation.
+
+`Yendor' is Rodney spelled backwards.  Why?
+
+===============================================================================
+> Quotes and scene summary
+===============================================================================
+% B = Bart, L = Lisa
+%
+% Bart, Lisa and Maggie walk down the street.  Bart holds Maggie's hand,
+% but that doesn't help her keep her balance.  Lisa sings happily.
+
+L: We're going to a movie!  We're going to a movie!
+
+% Bart doesn't share her enthusiasm.
+
+B: Oh, grow up.
+L: I'm glad we're seeing the Happy Little Elves' Return.  Aren't you, Bart?
+B: Oh, man, you're so normal.
+L: Who's your favorite Happy Little Elf, Bart?  Yendor, Bubbles, or Doofy?
+B: I can't stand those stupid elves.
+L: Gee, Bart, you're just like Gloomy, the self-hating elf.
+B: Will you shut up about those damn elves!
+L: [aside to Maggie]  He <looks> like Gloomy, too.
+
+% They reach the theater.  Lisa and Maggie stand in front of a Happy Little
+% Elves poster.
+
+L: [enjoying the poster] Aww....
+B: [o.s.] Oh, boy!
+
+% Pan over to Bart admiring a Revenge of the Space Mutants movie.
+
+L: Oh, no, Bart.
+B: Yeah, man!  Space Mutants!
+L: Come on, Bart, that's <way> too scary.
+
+% Bart approaches the ticket window.
+
+B: Three childs [sic] for Space Mutants, sir.
+   [to Lisa]  Someday, you'll thank me for this.
+
+% Bart pays for the tickets.
+%
+% Bart sits between the girls in the nearly empty theater.  (The only other
+% person is asleep.)  Bart has a soda and a tub of popcorn in his lap.  Lisa
+% folds her hands apprehensively.  Maggie just sucks away.  Bart's mouth is
+% full of popcorn.
+
+B: Now listen up.  We're gonna be seeing some pretty heavy stuff in this movie.
+   Death rays, flying saucers, giant eyeballs...
+
+% Maggie sucks with a worried expression.  Lisa swallows hard.
+
+B: But don't be ashamed.  Just go with your fear.
+
+% Bart refills his mouth with popcorn.
+
+B: If need be, I'll hold your hand.
+
+% The theater dims and the movie begins.  It looks like one of those cheapo
+% 1950's lack-and-white serials.  A flying saucer soars through space and
+% lands.  The door opens.  In the doorway stands a three-eyed Bart-alien
+% with tentacles for legs.  Bart screams endlessly as Maggie and Lisa hold
+% his hand.
+%
+% [End of Act One.  Time: 1:09]
+===============================================================================
+Shorts summaries Copyright 1992 by Raymond Chen.  Not to be redistributed
+in a public forum without permission.  (The quotes themselves, of course,
+remain the property of The Tracey Ullman Show, and the reproduced articles
+remain the property of the original authors.  I'm just taking credit for the
+compilation.)

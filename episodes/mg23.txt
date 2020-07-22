@@ -1,0 +1,154 @@
+The Closet                                             Written by Matt Groening
+===============================================================================
+[$Id: mg23 1.1 92/03/22 10:15:17 raymond Exp Locker: raymond $]
+===============================================================================
+> Didja notice...
+===============================================================================
+    Voice credits:
+        NANCY CARTWRIGHT as Bart
+        YEARDLEY SMITH as Lisa
+
+    Animation producer was Margot Pipkin.
+    Animators were Wesley Archer and David Silverman.
+
+    The credits list the casting director as BONNIE PIETILA rather
+    than BONITA PIETILA.
+
+    ... Maggie fell thrice?  One when walking to the keyhole,
+        a second time walking away, and a third time while going
+        down the stairs.
+
+===============================================================================
+> Freeze Frame Fun
+===============================================================================
+>> The TV room
+    red comfy chair
+    mouse hole behind it
+    picture of Homer with an angry expression
+
+>> The staircase
+>>> As Bart runs up the stairs five steps at a time
+    picture of Marge, looking upstairs suspiciously
+    picture of Homer with an angry expression
+>>> As Maggie goes downstairs
+    picture of Homer holding a pitchfork
+
+>> The toy room
+    green toy chest with red polka dots
+    picture of Marge and Homer
+    mouse hole beneath the picture
+
+>> The closet room
+>>> When Bart decides to hide in the closet
+    picture of Marge with a scowl
+>>> When Bart decides to go back in
+    picture of Homer screaming happily as streamers and confetti fall
+        behind him
+
+===============================================================================
+> Assorted comments and observations
+===============================================================================
+Brian Howard {bh} gives the timing for this short as 1:13, whereas the
+syndication package contains only 1:10 of animation.
+
+===============================================================================
+> Quotes and scene summary
+===============================================================================
+% B = Bart, H = Homer, L = Lisa
+%
+% Bart sits in a comfy chair watching TV and eating chocolate chip cookies.
+
+H: [o.s.]  Bart!  Bart!
+
+% Bart spits out a mouthful of crumbs.
+
+B: Uh oh.  Chores!
+
+% Bart discards his box of cookies and runs upstairs.
+
+B: The toy chest...
+
+% Bart rushes to the toy chest and opens it.  Lisa is inside.
+
+L: Shhhhhhhhh!
+
+% Lisa angrily closes the top.
+
+B: The closet!
+
+% Bart runs in and closes the door.  It is pitch black.
+
+B: Ah, safe at last.
+
+% He shakes the doorknob.
+
+B: Oh no!  It's locked!
+
+% Bart panics.
+
+B: I'm trapped in here.  Trapped like a rat.  Help!  Help!
+H: [o.s.] Bart!
+B: [whispers]  Uh oh.  Dad'll hear me.  [still whispering]  Help.  Help.
+
+% [End of Act One.  Time: 0:24]
+
+B: I've got to get out of this closet.
+
+% Bart's eye zooms towards the camera.
+%
+% A Bart's eye view through the keyhole.  Maggie wanders into view.
+
+B: Maggie!  Maggie!  In here!
+
+% Maggie looks around, unable to find the source of the voice.
+
+B: In the closet!
+
+% Maggie finally spots the keyhole and walks up to it (one well-timed fall
+% along the way), putting her eye right up against the keyhole.
+
+B: Maggie, go... get... help...
+
+% Maggie's pupil wanders, not paying attention.
+
+B: Maggie, come <on>, man!
+
+% Maggie has lost interest and starts to walk away.
+
+B: Do what I'd do if I were in your place!
+
+% Maggie walks down the stairs, sits in Bart's chair, and watches TV.
+
+% [End of Act Two.  Time: 0:46]
+
+B: I can't take it any more!  I've gotta get out of this closet!
+
+% Bart tries to break down the door.  (*whump*)  He finally busts
+% out on the third try and emerges into daylight.  His eyes are
+% still dazed from the experience.
+
+B: I give up.  I'll do chores!
+
+% Bart's eyes clear up, and he spots a note on the table.
+
+B: Huh?
+
+% He picks it up, and we read it with him.
+
+B: [reading]  Dear Bart, The family has gone out for frosty chocolate
+    milkshakes.  Sorry we couldn't find you.  Love...
+
+% Bart looks out the window, just in time to see the car pull out of the
+% driveway (with Maggie in the back seat).
+
+B: ... Dad.
+
+% He tosses the note aside, walks into the closet, and shuts the door.
+
+% [End of Act Three.  Time: 1:10]
+===============================================================================
+Shorts summaries Copyright 1992 by Raymond Chen.  Not to be redistributed
+in a public forum without permission.  (The quotes themselves, of course,
+remain the property of The Tracey Ullman Show, and the reproduced articles
+remain the property of the original authors.  I'm just taking credit for the
+compilation.)

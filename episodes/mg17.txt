@@ -1,0 +1,146 @@
+Scary Stories                                          Written by Matt Groening
+===============================================================================
+[$Id: mg17 1.1 92/03/15 13:18:43 Unknown Exp Locker: Unknown $]
+===============================================================================
+> Didja notice...
+===============================================================================
+    Voice credits:
+        NANCY CARTWRIGHT as Bart
+        YEARDLEY SMITH as Lisa
+
+    Animators were Wesley Archer, Bill Kopp, and David Silverman.
+
+    The credits list the casting director as BONNIE PIETILA rather
+    than BONITA PIETILA.
+
+===============================================================================
+> Assorted comments and observations
+===============================================================================
+Brian Howard {bh} gives the timing for this short as 1:38, whereas the
+syndication package contains only 1:37 of animation.  Probably just some
+discrepancy between exactly when we each a started our watches.
+
+===============================================================================
+> Quotes and scene summary
+===============================================================================
+% B = Bart, L = Lisa, A = Maggie
+%
+% The Simpsons living room.  Bart stands by the archway.  Maggie on the
+% floor playing with her toys.  Lisa holds a rabbit doll.  Above the
+% couch is a large portrait of the family.
+
+B: Want to hear a scary story?
+
+% (*click*)  The room turns pitch black, save for the kids' glowing eyes.
+% Bart walks between the girls as he talks.  Many changes of eye shape.
+
+B: Once upon a time, there was an evil, insane maniac...
+
+% During ``evil insane maniac'', Bart's right eyeball turns insane.
+
+L: Bart, why can't you tell the story with the lights on?
+
+% Bart glances skyward for strength.
+
+B: Okay, you little babies.
+
+% He walks back to the archway, then he turns around frantically, his
+% eyes darting every which way.
+
+B: I can't find the light switch!
+
+% Bart's breath gets shallower.
+
+B: It's gone!
+
+% Bart wanders towards the right-hand side of the screen.
+% Lisa walks calmly to the archway and flicks on the lights.  (*click*)
+%
+% Bart stands, trembling.
+%
+% [End of Act One.  Time: 0:23]
+%
+% Same initial conditions.
+
+B: Everybody... comfy...?
+
+% (*click*)  The lights are off.  Bart walks between the girls.
+
+B: Once upon a time, there was a psychopathic strangler on the loose...
+   In a dark house...  They couldn't see him, but they could hear his
+   breathing...
+
+% Bart breathes Darth Vader-like, as we see Maggie's eyes wandering
+% towards Bart, then upward.
+
+B: *urk*  *aaaack*  *gag*
+
+% Lisa screams and runs for the light switch.  (*click*)
+%
+% A wide-eyed Maggie clutches Bart's neck.
+%
+% [End of Act Two.  Time: 0:48]
+%
+% ``Places, everyone.''
+
+B: It was dark...
+
+% (*click*)
+
+B: All was silent.  And then...  They heard it.
+   The sound of the crafty vampire sucking blood from the
+   neck of his latest victim!
+
+% (*suck*)  (*suck*)  (*suck*)  (*suck*)  (*suck*)  (*suck*)
+
+B+L: [gasp!]
+
+% The elder siblings rush together as Maggie dashes for the light
+% switch.
+%
+% (*click*)
+%
+% Bart and Lisa are huddled together, quaking.
+%
+% [End of Act Three.  Time: 1:08]
+%
+% One last time.
+
+B: And now, for the scariest story of all.
+
+% (*click*)
+
+B:  Once upon a time, three little children sat shivering in the dark.
+
+% Lisa and Maggie are very, very scared by this story.
+
+B: Suddenly, they heard footsteps... Listen... You can almost hear them...
+
+% And indeed, we hear footsteps.  Bart's eyes begin to show signs of fear.
+
+B: Coming closer...  And closer...
+
+% The footsteps come closer... and closer...
+% By now, all three kids are looking around frantically.
+
+B: And then, the footsteps stopped.
+
+% The footsteps stop.  The kids zip towards the back of the room.
+%
+% (*creeeeeak*)
+%
+% The door opens.  Two long shadows are cast into the room.
+
+B+L+A: Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!!!!!!!!!!!!!!
+
+% One of the shadowy forms turns on the light.  It's Marge.  The other
+% shadowy form is Homer.  They are mystified as to why their children
+% are hiding behind the couch, screaming.
+%
+% [End of Act Four.  Time: 1:37]
+===============================================================================
+Shorts summaries Copyright 1992 by Raymond Chen.  Not to be redistributed
+in a public forum without permission.  (The quotes themselves, of course,
+remain the property of The Tracey Ullman Show, and the reproduced articles
+remain the property of the original authors.  I'm just taking credit for the
+compilation.)

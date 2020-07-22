@@ -1,0 +1,69 @@
+% H = Homer, B = Bart, L = Lisa
+%
+% The kids watch an Itchy and Scratchy cartoon.
+%
+% Scratchy chases Itchy down a hallway with an axe.  Itchy producse a picture
+% of a female cat, and Scratchy skids to a halt, drops his jaw, and pops out
+% his eyes.  Itchy tosses a stick of dynamite into Scratchy's open mouth.
+% (*boom*)  Scratchy's head has been cleanly severed off (cartoon logic) and
+% bounces around the floor.
+%
+% The kids stare, bored.  Bart slurps his soda.
+
+H: What the hell are you kids watching?
+
+% Homer has appeared.
+
+L: It's Itchy and Scratchy.
+B: Our favorite show.
+H: Well, you're not watching it.
+
+% Homer clicks the remote control.
+
+B: Aw, Dad!
+L: Come on, Homer!
+H: No, it's too violent.  Go do something else.
+
+% Homer leaves.
+
+L: Now I'm <really> bored.
+B: [gets an idea]  I know!
+
+% Bart runs behind the television set, rips out the innards, tears the
+% drapes from the window, and hangs them behind the (now empty) frame as
+% a curtain.  Bart sings a fanfare and produces a a rabbit puppet, which
+% serves as emcee.
+
+B: It's the Bart Simpson Show!  Starring Bart Simpson!  Featuring the
+   Bart Simpson Orchestra and the Bart Simpson Dancers!
+
+% The girls applaud.
+
+B: And now, here's the star of our show, Baaaaart Simpson!
+
+% Bart opens the curtain and takes center stage.
+
+B: Thanks, Ed.  Funny thing happened on my way to the studio tonight:
+   I ran over my dad's head on my bike.
+
+% Homer pops in, angry.
+
+H: I thought I told you kids not to watch violent TV!
+L: It's stupid, but it's not violent.
+B: [indignant]  Oh, yeah!?
+H: [confused] Bart?
+
+% Homer grabs the remote control and clicks it.  The picture doesn't change.
+% Homer then spots the TV poarts on the floor.
+
+H: Why you little...
+B: Whoa, gotta run, good-night folks!
+
+% Bart quickly closes the curtain as Homer dives behind the TV set.
+% Signs of a great struggle.  Maggie hops off the couch and opens
+% the curtains, revealing Homer strangling Bart.  Maggie returns to
+% the couch.  Bart strangles Homer back.  The girls applaud.
+%
+% [End of Act One.  Time: 1:13]
+
+<|endoftext|>

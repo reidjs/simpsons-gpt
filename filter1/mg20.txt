@@ -1,0 +1,106 @@
+% H = Homer, B = Bart, M = Marge
+%
+% A dark room.
+%
+% Homer bursts in and turns on the light.  We see that it's Bart's room.
+% Bart is asleep.
+
+H: Wake up, everybody!  It's World War Three!!!
+B: Waaauuuuuuuuugh!!!!!
+
+% The entire family rush down the hallway (Marge carries Maggie)...
+
+H: Quick!  Down to the fallout shelter!  The bombs are dropping!
+
+% Down the stairs.
+%
+% And into a room in the basement sealed off with a huge metal door.
+% Homer shuts the door behind them, then pulls out a stopwatch.
+
+H:  Eighteen seconds.  Hmm.
+
+% Homer scolds the family by shaking his finger at them.
+
+H: If this were really a nukeeler war we'd all be dead meat by now.
+
+% A shot of the other members of the family, trembling.
+
+H: Say, you're all shivering.  Are you cold, or what?
+
+% [End of Act One.  Time: 0:23]
+%
+% Same as before.
+
+H: Wake up, wake up!  It's World War Three!!
+
+% Homer gets no reaction from Bart, who remains asleep.
+
+H: I mean it this time!  No kidding around!
+
+% Bart angrily gets up.
+%
+% Once again, the family head down the hallway and down the stairs to the
+% fallout shelter.  But this time, they have annoyed expressions.
+% (Maggie glares at Homer the entire trip.)  Once again, Homer slams
+% the door shut.
+
+H: Ah, here we are.
+
+% He pulls out a stopwatch.
+
+H: Hmm.  Once again your timing's off.
+
+% A shot of the other members of the family, not pleased one bit.
+% Everyone (Maggie included) has their arms folded across their chest
+% and are gritting their teeth.  (Except Maggie, who glowers while
+% sucking on her pacifier.)
+
+H: Yeesh.  What a bunch of grumps.
+
+% [End of Act Two.  Time: 0:52]
+%
+% If at first you don't succeed...
+
+H: Wake up, wake up!  It's the end of the world!
+B: Aw, come on, man!
+
+% Homer shows the stopwatch.
+
+H: I'm timing you.  If we're all fast enough, this will be our last
+   nukyooler war drill.
+B: If we're quick enough, you'll let us sleep?
+H: Let's go-go-go!
+
+% Once more unto the breach.  Down the hall.  Down the stairs.  Into
+% the fallout shelter.  (Faster this time.)  Homer checks his stopwatch.
+
+H: All right everybody, back upstairs and into bed!
+B: [annoyed] Did we beat the clock?
+H: Heh heh.  No, but you were pretty darn close.
+
+% Homer checks his watch.
+
+H: Next drill in three hours.
+
+% A shot of the other members of the family, drowsily angry.  Maggie gives
+% a feeble suck on her pacifier.
+%
+% [End of Act Three.  Time: 1:21]
+%
+% Trading places.  Bart wakes Homer by shouting through a makeshift megaphone.
+% (You can see the cellophane tape.)
+
+B: Wake up, Dad!  It's World War Three!  This is not a test!
+H: [waving his arms in panic]  Yaaaaaaaaargh!!!
+
+% Homer rushes down the hall.  Down the stairs.  Into the shelter.
+% Homer pulls the door shut.  Marge and Lisa help from the outside.
+% Maggie padlocks the door.  Bart leaps into frame, alighting on the
+% next-to-bottom step of the stairs.
+
+B: Are you sure this is okay, Mom?
+M: [angrily] We'll let him out in the morning.
+
+% [End of Act Four.  Time: 1:33]
+
+<|endoftext|>

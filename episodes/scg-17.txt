@@ -1,0 +1,770 @@
+                           The Simpsons Archive's
+                       Simpsons Syndication Cuts Guide
+
+                        Season Seventeen (2005-2006)
+
+               "Syndication... is there anything they can't do?"
+
+                                 06 Apr 2009
+
+                 Maintained by Matt Garvey <garvey@snpp.com>
+                      Guide created by Frederic Briere 
+               Contributions from Chad Lehman and Tim Reardon
+
+[========================[Season Seventeen Summary]=========================]
+
+Story cut episodes: All but GABF18, GABF19, GABF17, GABF20, GABF21, GABF22,
+                    HABF05, HABF06, HABF13.
+Compressed episodes: All but HABF07, HABF08, HABF14.
+Expanded episodes: GABF16, HABF08, HABF10, HABF14.
+Changed content: HABF08.
+Missing credits: HABF01, HABF10, HABF12.
+Original breaks: GABF18, GABF19, GABF17, GABF20, GABF21, GABF22, HABF05,
+                 HABF06, HABF13.
+Altered openings: HABF04, HABF07, HABF08.
+
+Total time cut: 5:11 (5 min 11 sec) (lengthened intro time not counted)
+Story time cut: 4:53 (4 min 53 sec)
+Total time gained: 10:04 (10 min 4 sec)
+
+Notes: Once again, the TV rating bug is not seen (perhaps it is no longer
+       included in the video signal because of the new way Fox broadcasts
+       them originally), but the V-chip can still access the ratings. (GABF20
+       is marked as TV-14-DL in syndication, even though it was originally
+       TV-PG. It's possible that it got switched accidentally, as the higher
+       rating matches HABF06.) The XDS production code display is still gone.
+
+       Cuts and compression styles are all over the place this season; about
+       half a dozen episodes start compression after the running credits,
+       with a similar amount using the season 16 method of starting it
+       immediately but ending before each act is over. Fortunately, cuts are
+       still less frequent, but some can be large (record-breaking even)!
+       Expansion makes a small return as well, along with 2 lengthened intros
+       (both of which use components from HABF04, which itself uses a shorter
+       opening in syndication, go figure).
+
+       Returning this season for the first time since season 9 (recall that
+       this was most frequent in seasons 7 and 8, with one each in 6 and 9,
+       for a total of 13) are some original commercial breaks! With a handful
+       of exceptions, episodes are originally broadcast with a commercial
+       after the opening, and a continuous flow from the third act to the
+       credits, but in syndication this is usually reversed, causing trouble
+       for special credits, and usually wildly different ways of handling
+       them. This season, 9 episodes have the original breaks (see above),
+       but it's a pretty boneheaded selection, since a few of them didn't
+       need it (no overlapping music or action, even for a fraction of a
+       second), while many were more deserving, and in fact, three episodes
+       (HABF01/10/12) were just plain butchered, using the season 15 tactic
+       of placing a commercial break before the credits (cutting off the
+       music) and sticking the standard theme in during them. I don't want to
+       know who was calling these shots.
+
+Tidying up: 4/6/09, adjusted HABF05 timing typo (thanks Tim)
+
+ ==[ GABF18 ]================================ The Bonfire of the Manatees ===
+         CUTS:  0 seconds     GAINED:  3 seconds      21:18 / 21:21
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:32 / 1:32
+ ~~~~~    ACT I    <---->   (0:01)   6:28 / 6:29
+ ~~~~~    ACT II   <---->   (0:01)   5:12 / 5:13
+ ~~~~~    ACT III  <---->   (0:01)   7:17 / 7:18
+ ~~~~~    ENDING   <---->   (----)   0:49 / 0:49
+
+
+ ==[ GABF16 ]============================== The Girl Who Slept Too Little ===
+         CUTS: 28 seconds     GAINED: 32 seconds      21:18 / 21:50
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:33 / 0:33
+ ~~~~~    ACT I    <---->   (0:01)   5:03 / 5:04
+
+       * The establishing shot of Lisa's window (before "this stinks") is
+       * shortened a bit, with a slight overlap of the music onto her line.
+       * I'm marking it as a big piece of compression, though.
+
+
+ ~~~~~    ACT II   <0:28>   (0:33)   8:31 / 9:04
+
+         Lisa turns the TV on.
+       % In a new shot, head-on, Lisa and Homer watch, and Marge sinks down
+       % and tries to sleep, groaning.
+       %
+       %  Announcer: [vo] Now, Rerun Land takes you back to 1965, with
+       %             Bonanza!
+       %  Character: See here, Cartwright, your boys have been eatin' my
+       %             apples.
+       % Cartwright: That doesn't sound like my boys. I'll thank you to keep
+<0:28> %             a civil tongue.
+       %
+       % (They all stand motionless as the theme plays.) As the music
+       % continues, we see the Simpsons again. Lisa is smiling and Homer has
+       % popcorn now.
+       %
+       %      Marge: Oh, Lisa, do you really want to watch this?
+       %       Lisa: [turns it off] Mom, I think there's a danger *this* time
+       %             they might lose the Ponderosa!
+
+         Bart's bed crashes into the room.
+
+       ! Fairly awkward cut, since Lisa wouldn't turn the TV on for no
+       ! (narrative) reason, and Homer's popcorn induces a continuity error.
+
+
+ ~~~~~    ACT III  <---->   (----)   6:21 / 6:21
+ ~~~~~    ENDING   <---->  (-0:02)   0:50 / 0:48*
+
+
+ ==[ GABF19 ]=================================== Milhouse of Sand and Fog ===
+         CUTS:  0 seconds     GAINED: 34 seconds      21:16 / 21:50
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:23 / 0:23
+ ~~~~~    ACT I    <---->   (0:10)   5:51 / 6:01
+ ~~~~~    ACT II   <---->   (0:15)   8:31 / 8:46
+ ~~~~~    ACT III  <---->   (0:09)   5:43 / 5:52
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ GABF17 ]==================================== Treehouse of Horror XVI ===
+         CUTS:  0 seconds     GAINED: 42 seconds      21:18 / 22:00
+                         Original Halloween opening
+
+ ~~~~~    OPENING  <---->   (0:05)   2:05 / 2:10
+ ~~~~~    ACT I    <---->   (0:09)   7:22 / 7:31
+
+       * Compression starts after the running credits.
+
+ ~~~~~    ACT II   <---->   (0:14)   5:24 / 5:38
+ ~~~~~    ACT III  <---->   (0:14)   5:38 / 5:52
+ ~~~~~    ENDING   <---->   (----)   0:49 / 0:49
+
+
+ ==[ GABF20 ]====================================== Marge's Son Poisoning ===
+         CUTS:  0 seconds     GAINED: 31 seconds      21:17 / 21:48
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:58 / 0:58
+ ~~~~~    ACT I    <---->   (0:07)   4:32 / 4:39
+ ~~~~~    ACT II   <---->   (0:13)   8:00 / 8:13
+ ~~~~~    ACT III  <---->   (0:11)   6:59 / 7:10
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ GABF21 ]============================================== See Homer Run ===
+         CUTS:  0 seconds     GAINED: 30 seconds      21:17 / 21:47
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:24 / 0:24
+ ~~~~~    ACT I    <---->   (0:13)   7:23 / 7:36
+ ~~~~~    ACT II   <---->   (0:11)   7:49 / 8:00
+ ~~~~~    ACT III  <---->   (0:06)   4:53 / 4:59
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ GABF22 ]============================== The Last of the Red Hat Mamas ===
+         CUTS:  0 seconds     GAINED: 42 seconds      21:18 / 22:00
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:23 / 0:23
+ ~~~~~    ACT I    <---->   (0:18)   7:51 / 8:09
+ ~~~~~    ACT II   <---->   (0:10)   5:17 / 5:27
+ ~~~~~    ACT III  <---->   (0:14)   6:59 / 7:13
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ HABF02 ]============================================ The Italian Bob ===
+         CUTS:  8 seconds     GAINED: 27 seconds      21:18 / 21:45
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:09)   6:24 / 6:33
+ ~~~~~    ACT II   <---->   (0:10)   8:23 / 8:33
+ ~~~~~    ACT III  <0:08>   (0:08)   5:21 / 5:29
+
+         Geno laughs evilly.
+       %                     Long shot of Simpsons walking down the street.
+<0:08> %
+       % Marge: We're in a foreign city, with no car, being stalked by a
+       %        killer. I feel like I'm "The Bourne Identity"!
+
+         They approach a street corner as a bus pulls up.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ HABF01 ]================================= Simpsons Christmas Stories ===
+         CUTS: 10 seconds     GAINED: 33 seconds      21:17 / 21:50
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:10)   7:03 / 7:13
+ ~~~~~    ACT II   <0:10>   (0:16)   8:04 / 8:20
+
+           Lisa: Cyrus? You never mentioned him before.
+         Grampa: And I'll never mention him again.
+       %         But I loved him all the same.
+       %
+       % While he says that, fade to Abe and Cyrus on the deck of a carrier.
+<0:10> %
+       %  Cyrus: OK, Abe, let's win this war quick, so we can go home and
+       %         slowly give black folks more rights.
+       %
+       % Air raid siren sounds; swish pan up to the loudspeakers.
+         Planes fly toward the carrier.
+
+       ! Note that the siren and plane sound comes in abruptly in the cut
+       ! version, which might tip you off that something is gone.
+
+
+ ~~~~~    ACT III  <---->   (0:07)   5:00 / 5:07
+
+       % Definitely an odd note: At the end of the act, when Moe sleds by and
+       % is upset a truck didn't hit him, the audio comes from the right
+       % channel, not the left (which is where he went) as in the original.
+       % I've confirmed this on two separate airings in two cities. If
+       % anything else is flipped (in this episode or elsewhere in the
+       % season), I didn't notice it.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+       % Oh, here we go. See the season summary for more notes about credits,
+       % but for some reason the synd credits have the standard theme, not a
+       % continuation of "Trepak" from the Nutcracker Suite as in Act III!
+       % (See also HABF10, HABF12 below.)
+
+
+ ==[ HABF03 ]===================================== Homer's Paternity Coot ===
+         CUTS: 19 seconds     GAINED: 32 seconds      21:18 / 21:50
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:19 / 1:19
+ ~~~~~    ACT I    <0:02>   (0:05)   6:44 / 6:49
+
+         Man in ad for smoke damage sale: Stop, drop, and *save*!
+
+         He chuckles three times while rolling around,
+<0:02> %                                               then two more.
+         Marge and Lisa are in the car.
+
+ ~~
+       * Compression starts after the credits.
+
+
+ ~~~~~    ACT II   <0:16>   (0:21)   7:31 / 7:52
+
+         Mason: Well, my hat size *is* a number six!
+
+         Homer screams.
+       % In a wide shot, he quickly runs out of the room, then ducks back in.
+       %
+<0:06> % Homer: That is small, right?
+       % Mason: It's ...smaller than average.
+       %
+       % Homer screams two more times, then runs out.
+                                                      Outside, at the boat...
+
+         Mason: And this is the lady in my life.
+
+ ~~
+         Jimbo: So tell us, what's next for William H. Macy?
+         Dolph: Besides bleeding!
+<0:04> %  Macy: [punched loudly] You know Neve Campbell? [another punch] Ooh!
+
+         Assorted punching sounds are heard* as Marge, Bart, and Lisa watch
+         the TV and Homer runs in.
+
+       ! Actually, this is a classic overlapping cut. Originally, we see the
+       ! bullies continue to hit Macy as he delivers the lines, and then hear
+       ! about 5 seconds of the "assorted punching sounds"; in syndication,
+       ! the Macy line and two loud punches are heard where most of the
+       ! assorted sounds were originally, with a short amount at the end.
+
+ ~~
+          Abe: ...Vinny Testaverde, Ferrari Testarossa--
+       % Lisa: Grampa, stop!
+<0:06> %  Abe: Never! President's physical fitness test, Seal Test ice cream,
+       %       Testors airplane glue--
+
+         Interior shot of Homer's mouth.
+
+
+ ~~~~~    ACT III  <0:01>   (0:06)   4:56 / 5:02
+
+         Homer: Hey, this one's cold!
+
+         Homer sends the ham back, and looks at Abe.
+<0:01> % He then breaks into a little smile (like Marge in EABF02 credits).
+         End of act/executive producers listed.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ HABF04 ]============================= We're on the Road to D'ohwhere ===
+         CUTS: 24 seconds     GAINED: 33 seconds      21:18 / 21:51
+                HABF09 blackboard, HABF09 solo, original couch
+
+ ~~~~~    OPENING  <0:18>   (0:18)   1:06 / 1:24
+
+       % Blackboard: Teacher was not dumped--it was mutual
+       % Solo: Funk Groove
+
+       + Blackboard: I will not flip the classroom upside down
+       + Solo: Slow Soul
+
+       ! Yep, the intro was replaced with HABF09's, including the timing,
+       ! except the original couch gag is retained. See also HABF07, HABF08.
+
+
+ ~~~~~    ACT I    <0:06>   (0:10)   7:12 / 7:22
+
+         Willie tries to take a second drink from the water fountain, gets
+         steam in his face again, and screams.
+
+       % Willie: Maybe I'll just have a "sooda."
+<0:06> %
+       % He walks to the soda machine, puts in a dollar bill, and an
+       % old-fashioned spout/dispenser shoots steam at him. He screams again.
+         Outside, Skinner surveys the damage.
+
+
+ ~~~~~    ACT II   <---->   (0:05)   7:06 / 7:11
+ ~~~~~    ACT III  <---->   (----)   5:06 / 5:06
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48*
+
+
+ ==[ HABF05 ]============================================== My Fair Laddy ===
+         CUTS:  0 seconds     GAINED: 22 seconds      21:18 / 21:40
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:33 / 0:33
+ ~~~~~    ACT I    <---->   (0:08)   7:05 / 7:13
+ ~~~~~    ACT II   <---->   (0:09)   7:39 / 7:48
+ ~~~~~    ACT III  <---->   (0:05)   5:13 / 5:18
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ HABF06 ]=========================== The Seemingly Never-Ending Story ===
+         CUTS:  0 seconds     GAINED: 34 seconds      21:17 / 21:51
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:23 / 0:23
+ ~~~~~    ACT I    <---->   (0:14)   7:36 / 7:50
+ ~~~~~    ACT II   <---->   (0:12)   7:05 / 7:17
+ ~~~~~    ACT III  <---->   (0:08)   5:25 / 5:33
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ HABF07 ]======================================= Bart Has Two Mommies ===
+         CUTS: 86 seconds     GAINED: 31 seconds      21:18 / 21:49
+                HABF04 blackboard, HABF04 solo, original couch
+
+ ~~~~~    OPENING <-0:55>  (-0:55)   1:19 / 0:24
+
+       + Blackboard: Teacher was not dumped--it was mutual
+       + Solo: Funk Groove
+       + [no blackboard/solo in original]
+
+       ! Who needs to bother figuring out how to get 31 seconds out of an
+       ! episode, when you can make a HUGE 86-second cut and lengthen the
+       ! intro instead? I have nothing I can add to this. (Note that I am
+       ! not taking 55 seconds off in the episode's cuts total above.)
+       ! See also HABF04, HABF08.
+
+
+ ~~~~~    ACT I    <---->   (----)   7:35 / 7:35
+ ~~~~~    ACT II   <1:26>   (1:26)   7:27 / 8:53
+
+         Marge: Sorry I asked!
+
+         She starts to get up,
+       % then does, and walks by Homer, exchanging looks.
+       %
+       %  Lisa: Dad, you can't keep this up for long.
+       % Homer: [still sarcastic] Oh, you're so right, I-guess-I-should-be-
+       %        more-concerned-with-Bart's-safety than covering my own butt!
+       %        And maybe I'm talking like this because I can't stoppp.
+       %        [inhales loudly, then waving hands and wailing sarcastically]
+       %        Help me, Lisa! I have serious mental problems!
+       %
+       % Toot-Toot's cage at night. She's holding Bart.
+       %
+       %  Bart: [taking her hand off him] Look, it's been fun and all, but I
+       %        miss indoor plumbing.
+       %
+       % He walks off, and she grabs him, pulls him back, and makes a sound,
+       % then tries to feed him an already-open banana from the ground. Bart
+       % moans.
+       %
+       %  Bart: Sorry, lady, I've never eaten fresh fruit and I reckon I
+<1:26> %        never will.
+       %
+       % Toot-Toot makes an angry sound, then sadly picks up an Oreo from the
+       % ground and hands it to Bart.
+       %
+       %  Bart: Whoa, this Oreo is rank! [eats it happily]
+       % Homer: [off-screen, hoarse whisper] Bart! [pops up from behind a
+       %        bush] Bart! When the monkey falls asleep, I'll sneak you out
+       %        in this trash bag! Then I'll come back and feed the monkey a
+       %        peach full of antifreeze!
+       %
+       % Bart looks back at Toot-Toot. She puts him on a tire swing and
+       % pushes him. Fade to daylight; she's still pushing him.
+       %
+       %  Bart: Whee. Whee. [said on each upswing]
+       %
+       % Homer is sleeping on the ground, snoring. The zookeeper walks over
+       % to him and shakes him awake.
+       %
+       % Homer: [inarticulate sounds] Huh? Oh, I fell asleep before the
+       %        monkey! [takes a bite of the peach] Uh-oh.
+
+         Establishing shot of Ruffintumble's Fun Zone.
+
+       ! Note that this is now the longest single cut to date, beating a
+       ! 1:13 cut in 7G05 (all the way back in season 1)!
+
+
+ ~~~~~    ACT III  <---->   (----)   4:09 / 4:09
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ HABF08 ]=========================== Homer Simpson, This Is Your Wife ===
+         CUTS: 30 seconds     GAINED: -15 seconds     21:18 / 21:03
+               HABF04 blackboard, HABF04 solo, original* couch
+
+ ~~~~~    OPENING <-0:11>  (-0:11)   1:18 / 1:07
+
+       % Blackboard: I will not eat things for money (live action, from 9F10)
+       %             I will not laminate dog doo (animated version)
+       % Solo: Melodic Figure #1
+
+       + Blackboard: Teacher was not dumped--it was mutual
+       + Solo: Funk Groove
+
+       ! Note, then, that neither version of the original opening is found in
+       ! syndication, except for the couch gag, which is the same as in the
+       ! animated version. This is HABF04's full-length opening (with HABF08
+       ! couch), which you'll note is longer in either case, as both versions 
+       ! of the original were in fact 1:07. See also HABF04, HABF07.
+
+
+ ~~~~~    ACT I    <0:30>   (0:17)   6:45 / 7:02
+
+       * This is one of the only season 17 episodes with expansion (see also
+       * HABF14, GABF16/HABF10's credits), but has the most, being found
+       * throughout all three acts. Oddly, the cuts and expansion just about
+       * even each other out, so what is the point?
+
+ ~~
+         "Three days later" caption seen and music is heard.
+       % The music is for a nature show Homer is watching, which we now see
+       % (inside Lenny's apartment) is about sharks.
+       %
+<0:15> % Homer: [Gasp!] Look at that picture quality! You can see the
+       %        soulless emptiness in that shark's eyes! [changes channel]
+       %        [Gasp!] Ooh! "Two and a Half Men"! You can see the soulless
+       %        emptiness in Charlie Sheen's eyes!
+
+         Bart and Lisa enter.
+
+       ! Note also that when they enter, laughter from the sitcom is heard,
+       ! which makes for an odd bit of continuity in syndication.
+
+ ~~
+         Tour people boo "The Worst Damn Comedy Show, Period."
+
+       % Guide: Ooh, why look! There's Dan Castellaneta from the Tracey
+       %        Ullman Show!
+       %
+       % Dan is seen wearing a hat and reading a script. As they pass...
+<0:15> %
+       % Homer: Hey, funny man! Say somethin' funny!
+       %   Dan: Please don't lean out of the tram, sir, you might get hurt.
+       % Homer: Oooh, don't lean out of the tram--AAAH HOWW! [as he whacks
+       %        his head on a giant statue of Mischa Barton and falls out]
+         Guide: Here's where we develop our many reality shows.
+
+
+ ~~~~~    ACT II   <---->  (-0:13)   6:22 / 6:09
+ ~~~~~    ACT III  <---->  (-0:08)   6:05 / 5:57
+
+       ! Here is an odd animation change. In the last scene, there is an
+       ! establishing shot of the house at night; then in the original
+       ! version, the light is on inside for the entire shot (up to executive
+       ! producers), and Homer "glides" across the room as he sings, whereas
+       ! in syndication, the room is dark, and Homer bobs up and down so it
+       ! looks like he's actually walking! The actual drawings of Homer do
+       ! not appear to have been redone, however, just moved around.
+       !
+       ! I don't have a copy of the second or third Fox airing, so I can't be
+       ! sure when this change was made. My guess is that it was between the
+       ! first and second airings, but any information would be welcome.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ HABF09 ]======================================== Million Dollar Abie ===
+         CUTS:  9 seconds     GAINED: 32 seconds      21:18 / 21:50
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:01 / 1:01
+ ~~~~~    ACT I    <---->   (0:06)   7:54 / 8:00
+
+       * Compression starts after the running credits.
+
+ ~~~~~    ACT II   <0:09>   (0:17)   6:44 / 7:01
+
+         Head Jaquito: Either way, we make a fortune on souvenirs and snacks.
+       %        Lenny: [in crowd] Uh, can we bring outside food?
+<0:09> % Head Jaquito: [brandishing a little knife] Not even gum!
+       %               [swings it around a little while Spanish music plays]
+
+         End of act.
+
+
+ ~~~~~    ACT III  <---->   (0:09)   4:51 / 5:00
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+       * The credits seem slightly compressed, but that might just be me.
+
+
+ ==[ HABF10 ]================================== Kiss Kiss, Bang Bangalore ===
+         CUTS: 19 seconds     GAINED: 32 seconds      21:18 / 21:50
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:03)   6:14 / 6:17
+
+       * Compression starts after the running credits.
+
+ ~~~~~    ACT II   <0:19>   (0:23)   7:08 / 7:31
+
+         Burns: You'll find his integrity and dedication make him...
+                untouchable.
+
+       % The crowd cheers. Burns motions to Homer, who is clipping on or
+       % straightening his tie, as he approaches.
+       %
+       % Homer: Sorry I'm late. I was doing Carnac with my bodyguard [shown].
+       %
+       % Homer takes his bodyguard's turban off BG's head and puts it on his
+       % own. As Carnac, in his own voice:
+<0:19> %
+       % Homer: Hin-du. [opens and blows in a pretend envelope] What do you
+       %        call the moisture on your [Carsonesque] "hin(d)"?
+       %
+       % He takes the turban off and hands it back as Burns chuckles.
+       %
+       % Burns: Classic. [inhales, then lightheartedly:] Now, tell them how
+       %        to run a nuclear plant!
+
+         Homer gets to the podium and starts stuttering.
+
+       ! This is a pretty obvious cut, since in syndication the "untouchable"
+       ! joke gets zero response from the crowd. Zero, I say!
+
+
+ ~~~~~    ACT III  <---->   (0:08)   6:44 / 6:52
+ ~~~~~    ENDING   <---->  (-0:02)   0:50 / 0:48
+
+       % Yep! Not only are the credits expanded, but the original music
+       % (a continuation of the Indian dance number from Act III) is gone and
+       % replaced with the regular theme! Why? (See also HABF01, HABF12.)
+
+
+ ==[ HABF11 ]============================== The Wettest Stories Ever Told ===
+         CUTS: 17 seconds     GAINED: 32 seconds      21:18 / 21:50
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:25 / 0:25
+ ~~~~~    ACT I    <---->   (0:03)   7:50 / 7:53
+
+       * Compression starts after the running credits.
+
+ ~~~~~    ACT II   <---->   (0:03)   5:20 / 5:23
+ ~~~~~    ACT III  <0:17>   (0:26)   6:55 / 7:21
+
+         "For He's a Jolly Good Fellow" plays as Burns walks up to the mic.
+
+       %  Lenny: 10-4, good buddy!
+<0:06> %   Carl: I'm Chevy Chase and you're not!
+       % Barney: Willy Stargell!
+          Burns: Yes, welcome to the maiden voyage of the Neptune, the
+                 world's most unflippable luxury liner!
+
+       ! Note that the last note of the song goes into the cut; in synd,
+       ! it is heard in the next scene instead.
+
+ ~~
+         Selma: Attention everyone! I've spent the entire cruise reading
+                these maintenance brochures, because as a lonely single
+                woman, I've had nothing better to do.
+         Crowd: Aww...
+       % Selma: "Aww"s are cheap. I'm looking for some action.
+<0:06> % Crowd: [whistles nervously] [the single men do anyhow]
+       % Selma: I thought so.
+                              It says here we should head upwards toward the
+                hull before the ocean starts filling the ship.
+
+ ~~
+         CBG ties off the rope, then dives,
+       %                                    going down, down, down; he takes
+<0:05> % out a turkey (or similar bird) leg from his pants, takes a bite,
+       % makes a yummy sound, swallows, puts it away,
+                                                      swims down to and
+         through the door, and emerges on the other side.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ HABF12 ]=============================== Girls Just Want to Have Sums ===
+         CUTS: 19 seconds     GAINED: 32 seconds      21:18 / 21:50
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <0:03>   (0:06)   7:10 / 7:16
+
+         Establishing shots of what shows are playing, ending on Stab-a-Lot.
+       % Shot of the audience waiting; the stage has a curtain on it with the
+<0:03> % Stab-a-Lot logo (seen outside also). The orchestra is heard tuning,
+       % and the Simpsons start to appear in the long shot.
+                                                            They sit.
+
+         Bart: Dad, taking the family to opening night is the nicest thing
+               you've ever done for us.
+
+ ~~
+       * Compression starts after the running credits.
+
+
+ ~~~~~    ACT II   <0:16>   (0:21)   8:16 / 8:37
+
+         Skinner: All I know is that no one is better than anyone else, and
+                  everyone is the best at everything.
+       %  Willie: [now Skinner's superior] Not you, you're the worst! [hands
+       %          him a large container marked "poison"] Now get poisonin'
+       %          those squirrels.
+       %
+       % We see squirrels hanging around a tree. Skinner enters the shot, and
+<0:16> % is sadly about to open the container, but they jump on him and he
+       % yells. They pin him to the ground and bring the poison over.
+       %
+       % Skinner: Please, be reasonable. I-I-I-I'm sure we can--
+       %
+       % He gags as they pour the bright green liquid into his mouth.
+         At the house, Lisa enters the kitchen to complain to Marge.
+
+
+ ~~~~~    ACT III  <---->   (0:05)   4:42 / 4:47
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+       % Once again, the credits are replaced with the standard theme, this
+       % time instead of Jethro Tull's "Thick as a Brick" (which, as in the
+       % others, is heard briefly during the executive producer credits).
+       % Well done; I'm sure that wasn't expensive or anything. (See also
+       % HABF01, HABF10.)
+
+
+ ==[ HABF13 ]=========================================== Regarding Margie ===
+         CUTS:  0 seconds     GAINED: 21 seconds      21:18 / 21:39
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   0:49 / 0:49
+ ~~~~~    ACT I    <---->   (0:05)   5:49 / 5:54
+ ~~~~~    ACT II   <---->   (0:10)   7:28 / 7:38
+ ~~~~~    ACT III  <---->   (0:06)   6:24 / 6:30
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ HABF14 ]============================================ The Monkey Suit ===
+         CUTS: 24 seconds     GAINED: 12 seconds      21:18 / 21:30
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:31 / 1:31
+ ~~~~~    ACT I    <0:24>   (0:13)   8:23 / 8:36
+
+       * Expansion! It's found throughout the act, along with twice as much
+       * time cut as needed to be. I don't get it.
+
+ ~~
+       ! Note that this cut happens before the credits are over, and in
+       ! syndication, all credits after this point after shifted by two (with
+       ! the staggered spacing kept; i.e. whenever some credit should appear,
+       ! one does, just two names behind). The writer and director credits
+       ! appear where no credits originally did, since they're at the end.
+
+         Bart jumps onto home plate and the fireworks start coming out.
+       % In the same shot, he takes off his helmet. In a new shot, he runs
+       % over to the clapping coach as the music fades. (In the cut version,
+       % the "Natural" music changes abruptly to the next scene's.)
+       %
+       % Coach: Son, do you have time for the pizza party?
+       %
+<0:12> % A teammate wheels out a giant pizza on a cart with a tablecloth.
+       %
+       %  Bart: Sure, why not?
+       %
+       % More "Natural" music and (inaudible) cheering as he goes around the
+       % pizza, taking bites intermittently. This is why it was a huge pizza.
+       % More lights explode (audibly).
+
+          Bart: [checking off his list] Mm-hmm. Appear in summer stock play.
+
+       ! Note also that you can see Bart taking off his helmet even in synd.
+
+ ~~
+         Marge: OK, be cool, I've got some candy in my purse.
+
+       % We see a display of "BULLET-PROOF VESTS" on mannequin torsos, and
+       % zoom out to see Homer shooting himself and laughing. He takes eight
+<0:12> % shots total and says "ow" in between laughs. We zoom out more, and
+       % see smashed glass on exhibit pedestals, as well as other damage
+       % (some structural, like columns), hiding patrons, and Bart and Lisa.
+         Later, Bart has Milhouse on the rack.
+
+
+ ~~~~~    ACT II   <---->   (----)   5:12 / 5:12
+ ~~~~~    ACT III  <---->   (----)   5:23 / 5:23
+ ~~~~~    ENDING   <---->  (-0:01)   0:49 / 0:48*
+
+       * The credits sound expanded as well.
+
+
+ ==[ HABF16 ]========================= Homer and Marge Turn a Couple Play ===
+         CUTS: 18 seconds     GAINED: 32 seconds      21:18 / 21:50
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:37 / 1:37
+ ~~~~~    ACT I    <0:18>   (0:28)   7:38 / 8:06
+
+            Carl: Look, it's a thing!
+
+       % The music continues, and "curtains" in the heart [on the big screen/
+       % thing] open up to show people from the stands: Moleman and a lady
+       % Moleman, who kiss, and the crowd awws; then Dr. and Bernice Hibbert.
+       % He looks at her...
+<0:18> %
+       % Hibbert: We both find public displays of affection vulgar.
+       %    Bart: [standing on his seat, looking back at them] Come on, Doc,
+       %          she's a fine-looking woman! You don't want to work *that*?
+       %
+       % He kisses her on the cheek, and the crowd "woo"s.
+         The camera pans to Homer and Marge.
+
+       ! Kind of a confusing scene when it's cut, if you ask me.
+
+
+ ~~~~~    ACT II   <---->   (0:04)   5:41 / 5:45
+
+       * Compression is sporadic and stops after "Sexy Marriage Land."
+
+ ~~~~~    ACT III  <---->   (----)   5:34 / 5:34
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+ ==[ ------ ]================================================================

@@ -1,0 +1,91 @@
+% H = Homer, M = Marge, B = Bart, L = Lisa
+%
+% {Curly braces} enclose portions removed for syndication.
+%
+% Marge sits on the couch knitting, while Homer stands by the door.
+
+H: I've had it up to here with those kids!
+M: Calm down, dear.
+H: They're driving me out of my mind!  That's why I bought this book on
+   hypmotism. [sic] [shows book]
+M: What?
+H: I'll hypmotize 'em.  Maybe then we can get some peace and quiet
+   around here!
+M: I don't know, Homer.  The kids get kind of rambunctious sometimes,
+   but I think that's norm{al.}
+H: {A little} rambunctious?  They're bouncin' off the walls!
+
+% Homer opens the door, and we peer inside.  As he described, Bart and
+% Lisa are indeed bouncing off the walls.  (Maggie just sits on the floor.)
+% Lisa sings, ``La-la-la-la-la'' while Bart goes ``Blubdublubdublub''.
+% Homer shuts the door.
+
+M: I'll hold 'em, you hypnotize 'em.
+
+% [End of Act One.  Time: 0:20]
+%
+% Marge and Homer are in the play room, the three kids standing together.
+% Homer brandishes a watch on a chain.
+
+M: Look, children!  We have a treat for you!
+H: You're going to get hypmotized!
+
+% The watch dangles in front of the kids, who watch it swing back and forth.
+
+M: Now look at the watch.
+H: You're getting sleepy.  Sleeeeeepy.
+M: Sleepy.
+
+% Close-up on Lisa's eye as it watches the watch, then closes.
+
+M: Verrry sleeeepy...
+
+% All three kids have shut their eyes.  Bart snores.
+
+H: From now on, you will be gooood little children.
+
+% The three kids nod.
+
+M: It's working!
+H: They're not brats any more!
+
+% The kids each open one eye and exchange glances.
+
+M: Gasp!
+
+% The kids wander around the room Frankenstein-like.
+
+M: Oh no!  They're zombies!
+
+% {The kids fall on the floor laughing.}
+
+H: {Laughing zombies!}
+
+% [End of Act Two.  Time: 0:46]
+%
+% The kids sit on the floor, somewhat dazed from their ``ordeal''.
+
+L: Hoo boy, that was a doozy!
+
+% Bart pats his head, trying to recover.
+
+H: Are you kids okay?
+B: Oh, man.  Where am I?
+M: We'll never try to modify your behavior again.
+L: [brightly]  Okay, I'm better!
+B: Back to normal!
+
+% The kids resume bouncing off the walls.
+
+M: Awww...
+H: Fine bunch of kids, aren't they.
+B: Think fast, Homer!
+
+% Bart pitches a ball into Homer's ample stomach.  Then he returns to
+% bouncing off the walls.
+
+M: Homer, go get that watch again.
+
+% [End of Act Three.  Time: 1:02]
+
+<|endoftext|>

@@ -1,0 +1,523 @@
+% The show opens with a commercial for Blockoland, the park where
+% everything is made of Blocko Brand(tm) Assembly Fun Blocks.  Homer is
+% hooked, despite the fact that even the park-goers in the commercial
+% seem un-enthused.
+
+Homer:	Kids, how would you like to go to ... Blockoland!
+Bart +
+  Lisa:	Meh.
+Homer:	But the TV gave me the impression that --
+Bart:	We said, "Meh!"
+Lisa:	M-e-h, meh.
+-- Intense indifference, "Hungry Hungry Homer"
+
+% Marge is more willing to go.  So is Maggie, who is so enthusiastic
+% that she straps herself into her car seat and "hops" it out the
+% front door.  The family thinks this is cute -- until they hear the
+% car's motor start.
+%
+% The tram at Blockoland bumpily rolls along on its square wheels.  It
+% drops off the Simpsons and some other people at the park entrance,
+% and then continues on its way.  At the front gate, a man dressed as
+% a block with a cowboy hat greets guests with a friendly, "Howdy,
+% partner!"  Another block, dressed as Lincoln gets too close and
+% bumps into the cowboy.  The two stick together and need to be pried
+% apart by park attendants.  Elsewhere, a little girl bounces down a
+% blocky slide.
+%
+% The family stops at a map showing the lay of the land.
+
+Lisa:	Okay, we have our choice of Rectangle Land, Cube Country, 
+	or Squaresville.
+Marge:	Squaresville sounds pretty cool.
+-- Only to you, Marge, "Hungry Hungry Homer"
+
+% Homer amuses himself with funhouse mirrors.  The first one makes him
+% look as if he's constructed of Fun Assembly Blocks.
+
+Homer:	[robotically] I am a robot.  Do what I say.  [laughs]
+	[moves to the next mirror, which is similar to the first 
+	but with the extra effect of making Homer look shorter]
+	[robotically] I am a washing machine.  Do what I say.  
+	[laughs]
+-- "Hungry Hungry Homer"
+
+% In the arcade, Bart and Nelson play with Rock-Em Sock-Em Robots. 
+% Nelson bops Bart's robot in such a way that the robot's head pops up
+% on a spring.  A horrified attendant says, "You knocked his block
+% off!" and Nelson is dragged away to parts unknown.
+%
+% The family eats at the "Build Your Own Meal" restaurant.
+
+Homer:	[holds up a blocky-looking apple] Check it out -- I built 
+	myself a healthy apple.
+Lisa:	But you made it out of ham cubes.
+Home:	Yup, a shiny new apple.  [shines the "apple" on his shirt, 
+	where it leaves a grease stain, and takes a bite]
+-- Keeps the doctor away, "Hungry Hungry Homer"
+
+% Homer has an epiphany while riding in a Blocko-boat with Lisa.  "I
+% get it," he says, "Everything's made of blocks!"  Even the "water"
+% surrounding the boat is just loose blue Assembly Fun Blocks.  He
+% playfully splashes a few in Lisa's face, and a safety attendant
+% reprimands him.  When Homer defies his order, the attendant gets
+% down from his chair, and walks across the "water" towards Homer's
+% boat.  Homer leaps overboard, and immediately sinks.  After some
+% flailing around he manages to climb back into the boat.  Lifting his
+% shirt, he discovers that the Blocko water has Blocko leeches, and
+% hurriedly plucks them off his chest.
+%
+% Aside from that incident, it was a pretty fun day for the Simpson
+% family.  They drive home from the park with their souvenirs.  Bart
+% is having second thoughts about his uncomfortable shirt made of
+% Assembly Fun Blocks.
+
+Bart:	Ow!  Why did I get this Lego(tm) shirt?
+Marge:	Don't you mean Blocko shirt?
+Bart:	Right, right.  *Blocko* shirt.
+Marge:	Lisa, how's your Eiffel Tower kit?
+Lisa:	It's okay, but it's missing a piece.  [points to missing 
+	block at the tower leg]
+Homer:	Welcome to real life, Lisa.  You can't fight City Hall, 
+	a.k.a. Blockoland, so don't even try?
+Marge:	What kind of thing is that to tell your children.
+Homer:	It's what I always tell them.  I told them that twice 
+	yesterday, and then again as they were going to sleep.
+Marge:	I'm sure the gift shop will replace the missing piece.
+Homer:	You're right, honey.  Hear that, kids?  [with gusto] The 
+	Simpsons are going to Blockoland!
+All:	Yay!  [well, all except Maggie]
+-- "Hungry Hungry Homer"
+
+% Homer U-turns the car, surprising the other drivers on the highway. 
+% The family arrives as workers disassemble Blockoland for overnight
+% storage.  Fortunately, the souvenir man is still at his stand.
+
+Homer:		You sold my little girl a shoddy Eiffel Tower.
+Salesman:	Hey, tough luck, pal.  You can't fight the souvenir 
+		industry, we're too powerful.
+-- "Hungry Hungry Homer"
+
+% Homer agrees, and walks off.  When he sees how disappointed Lisa is,
+% he works up the courage for a second try.  He vows to give the man
+% "a little souvenir of my own," which turns out to be a snow globe
+% with a little bust of Homer inside.  The souvenir guy is so touched,
+% he digs around in a box of missing Eiffel Tower pieces and hands the
+% tower leg to Lisa.
+
+Lisa:	Thank you, Dad.
+Homer:	Hey, any friend of Marge is a friend of mine.
+-- "Hungry Hungry Homer"
+
+% On the way home, Homer pledges to stand up for the little guy more
+% often.  He quickly gets the opportunity to make good on his pledge. 
+% Just up ahead on the road, three policemen beat Snake savagely with
+% their nightsticks.  Homer guns his car toward them, scaring the
+% policemen away.
+
+Homer:	Those bullies are gone now.
+Snake:	You idiot!  They were beating out my shirt fire.  [his T-
+	shirt bursts into flame]
+Homer:	My heart was in the right place, jerk!  [gets in the car 
+	and peels out, spraying Snake with gravel]
+-- "Hungry Hungry Homer"
+
+% Homer continues standing up for the little guy.
+
+Homer:	I'm going to spend the whole day helping schmoes with 
+	their problems.  Got a problem, Bart?
+Bart:	A girl at school won't go to the dance with me.
+Lisa:	[taunting] Bart's got a girlfriend.
+Bart:	No, I don't that's the problem.
+Lisa:	[giggles] Bart's got a problem.
+Homer:	Don't worry, son.  I'll handle this.
+-- "Hungry Hungry Homer"
+
+% Homer infiltrates Bart's classroom and sits next to Sherri.
+
+Homer:	Come on, why won't you go out with Bart?
+Sherri:	He's a smelly, ugly dork.
+Homer:	Please, "ugly" is such a smelly word.  Who would you 
+	rather go out with?
+Sherri:	Tommy.  [indicates a handsome boy bathed in an angelic 
+	glow]
+Homer:	Well, duh!  He's breathtaking.  But Bart has inner beauty, 
+	like you'd find in a rodent.  [cut to Bart, gnawing rat-
+	like on a cracker, then back to Homer]  And face it, 
+	you're no prize, either.  You wear braces, you dress like 
+	a kid, and you're not getting any younger.
+Edna:	He's right.  Grab something, and don't let go.
+-- More life lessons from Ms. Krabappel, "Hungry Hungry Homer"
+
+% Sherri decides Bart isn't so bad after all.
+%
+% The beauty parlor doesn't honor Marge's coupon for two free hair
+% streaks, so Homer goes to bat for her.
+
+Hairdresser:	Yes, may I help you?
+Homer:		Nice place you got here.  Oh, look, a hairnet.  It 
+		would be a shame if it was hurled to the ground.  
+		[Homer tries to throw it hard to the floor, but it 
+		just gently floats down] Oh, how clumsy of me.  
+		[unscrews a jar lid, and drops it on the counter] 
+		Oops.
+Hairdresser:	Why are you doing these things?
+Homer:		Either you honor my wife's coupon, or a lot more 
+		lids will be unscrewed.
+Hairdresser:	I cannot streak that much hair.  Think of the costs 
+		-- I'd be ruined.
+Homer:		Oh, really?
+		[cut to the back room.  Homer has his reading 
+		glasses and an eyeshade on, and sits at a table with 
+		an adding machine.  He and the hairdresser go over 
+		the store's financial books]
+		Boy, you weren't kidding.  Your profit margins are 
+		razor-thin.
+Hairdresser: 	You see?  This is what I'm --
+Homer:		Wait a minute.  Four hundred a month for loafer 
+		lightener?
+Hairdresser:	But we must have it -- it is the lifeblood of the 
+		industry.
+		[another hairdresser dips a pair of loafers in a 
+		barrel of lightener, bleaching out their dye]
+Homer:		You get the same results with a mincing gel.
+Hairdresser:	But of course!  I will save thousands.  Thank you.
+-- "Hungry Hungry Homer"
+
+% Marge, newly streaked, thanks Homer.
+
+Marge:	Oh, Homey, I live them.  I can't thank you enough.
+Homer:	The satisfaction of helping another human being is all the 
+	thanks I et cetera.
+-- "Hungry Hungry Homer"
+
+% Homer tells the regulars at the tavern how helpful he's been.
+
+And I gave that man directions, even though I didn't know the way.  
+'Cause that's the kind of guy I am this week.
+-- Homer Simpson, "Hungry Hungry Homer"
+
+% [End of Act One.  Time:  6:58]
+%
+% The second act picks up where the first left off, in the bar.  Lenny
+% complains about the Springfield Isotopes, who have been terrible
+% since they were bought by the Duff Corporation.
+
+Carl:	Wait a minute, Duff owns the Springfield Isotopes?  Since 
+	when?
+Moe:	They bought 'em a year ago from the Mafia.  It was the 
+	last of the family-owned teams.
+Lenny:	I tried to return my season tickets, but they wouldn't 
+	give me my money back.  They said *they* wanted it.
+Homer:	Say no more.  I'll help you, Lenny.
+Lenny:	You want to help me?
+Moe:	Oh, haven't you heard?  He's the new Homer.
+Carl:	[dreamily] He's wonderful.
+-- "Hungry Hungry Homer"
+
+% After a couple of false starts with the equipment shed and the
+% utility room, Homer finds the executive office at the team's home
+% field.  The team's new owner, Henry K. Duff VIII, is the biggest
+% challenge yet for Crusading Homer.
+
+Duff:		Sir, I can't give you a refund just because the 
+		team's losing.
+Homer:		[sarcastically] I'm sorry to hear that.  [spins 
+		Duff's Rolodex(tm)]
+Duff:		Spin that back the way it was.
+Homer:		Yes, sir.  [does so]
+Duff:		This meeting is over.
+Homer:		Okay.  [starts toward the door] So, uh, you wanna 
+		get something to eat?
+Duff:		No.  I don't.  Get out of here.  [Homer opens a door 
+		marked, "Private"] No, no!  Not that door!
+		[inside the room is a collection of Isotopes team 
+		memorabilia.  *Albuquerque* Isotopes memorabilia]
+Homer:		Albuquerque Isotopes?  What is all this stuff?
+Duff:		It's not anything!  It has no purpose.  [slams the 
+		door shut and blocks it with a chair]
+Homer:		What a crazy room.  There's no Albuquerque Isotopes.  
+		It's the Springfield [realizes] Oh.
+Duff:		No, no.  There's no "oh."
+Homer:		You're moving the team to Albuquerque, aren't you?
+Duff:		No, no, we would never abandon our loyal Springfield 
+		fans.  By the way, all this barging into rooms 
+		marked "Private" must have made you thirsty.  Would 
+		you like a beer?
+Homer:		Well, okay, but you can't silence Homer Simpson.  
+		I'm a friend of the downtrodden.  And I'm not going 
+		to forget what I saw here today.
+Duff:		Of course not.  [pushes a button on the intercom]  
+		Duffman, could you bring in two bottles of smooth, 
+		untainted Duff?
+Duffman:	[over intercom] Oh, yeah.
+		[Duffman quickly comes into the room, bearing two 
+		bottles of Duff, and two mugs]
+Duff:		Now, Homer, we've developed this additive that makes 
+		beer super, super malty.  Care to try it?
+Homer:		Wait a minute, will this erase my memory?
+Duff:		No, not at all.
+		[Duffman prepares a hypodermic needle, and injects 
+		Homer.  He's immediately knocked out]
+		[Duff takes a drink of beer]
+		Man, that is malty -- but he'll never know!  [he and 
+		Duffman laugh]
+-- "Hungry Hungry Homer"
+
+% The next morning, Bart finds Homer sprawled on the roof of the
+% doghouse.
+
+Bart:	Good grief.
+Homer:	Ow, my head.  How long have I been out here?
+Bart:	All night.  You were yelling at the swings.
+Homer:	I was?  But I love the swings.
+Bart:	Dad, you were nuts.
+Homer:	You know me.  Occasionally, I'll be quirky.  [to himself] 
+	"I'll be quirky."  Albuquerque!  I'll be right back!  
+	[runs off]
+-- Should've used Amnesia Duff, after all, "Hungry Hungry Homer"
+
+% Homer calls a press conference to reveal Duff's plan.
+
+Homer:		Members of the media, thank you for coming.  The 
+		proof that the Isotopes are moving to Albuquerque is 
+		right behind this door.
+Duffman:	[thinly disguised as a reporter] Excuse me, Joel 
+		Duffman, "The Newsly Times."  What's with the smear 
+		campaign against this beloved brewer?  And weren't 
+		you once in a loony bin?  Oh, yeah.
+Duff:		He's right folks.  The only story here is the rich, 
+		smooth taste of Duff.
+Homer:		Yes, that is an important story.  But so is this!
+		[opens the door to the Albuquerque room.  It is now 
+		empty, save for a man with a trumpet, who plays a 
+		plaintive two-note "you lost the game" theme]
+Duff:		Well, I think I know tomorrow's headline: "Local man 
+		is liar."
+Reporter:	That is a good headline!  [one of the reporters 
+		takes a picture]
+-- Someone call Joseph Pulitzer, "Hungry Hungry Homer"
+
+% Duff continues the media blitz against Homer by appearing on Kent
+% Brockman's news show, reiterating that there are no plans to move
+% the Isotopes to New Mexico, and calling Homer a liar.  Homer is
+% incensed.
+
+I don't mind being called a liar when I'm lying, or about to lie, or 
+just finished lying.  *But not when I'm telling the truth!*
+-- Homer Simpson, "Hungry Hungry Homer"
+
+% Lisa begins ticking off things that Homer can do to get the public
+% on his side.  When she mentions that Cesar Chavez led hunger
+% strikes, Homer vows to do the same thing.  Marge is skeptical,
+% pointing out that even as Homer declares his strike, he's eating a
+% big sausage.  Homer throws the meat to the floor, and has a tough
+% time restraining himself.  He apprehensively puts his hand in his
+% mouth, only to discover it tastes kind of good.
+%
+% [End of Act Two.  Time: 12:02]
+%
+% Homer sets up camp just outside the ballpark with a folding chair,
+% American flags, and a sign that reads, "Hungry for the truth."
+
+Homer:	Let's see those AA baseball honchos ignore this!
+Marge:	You're really not going to eat anything?
+Homer:	My hunger strike will not end until Duff admits they're 
+	moving the team.  Bart, my chain.  [Bart hands him some 
+	chain and Homer chains himself into the chair]  Now it 
+	begins.
+Lisa:	Dad, I'm so proud of you.  If you need some inspiration, 
+	here's a book of Mike Farrell's core beliefs.  [hands 
+	Homer said book]
+Homer:	[reads] Man, he really hates Wayne Rogers.
+Marge:	[kisses Homer] Good-bye, Homey.  Here's Dr. Hibbert's 
+	number if you feel weak.  [hands Homer a card]
+Homer:	Don't worry, Duff's not going to let me waste away to 
+	nothing.
+Bart:	Uh, Dad?  [points to the skeletal remains of a woman in a 
+	similar folding chair, with a sign reading "Clean the 
+	ladies' room."  Homer looks nervous]
+-- Maybe you should've written a protest song, instead,
+   "Hungry Hungry Homer"
+
+% Milhouse and Mr. Van Houten walk past Homer.
+
+Milhouse:	What a great ball game.  Thanks, Weekend Dad.
+Kirk:		Stop calling me that.
+Homer:		Hey, kid and man!  Don't support a team run by 
+		liars.
+Milhouse:	Liars?
+Homer:		They're secretly planning to move to Albuquerque.
+Kirk:		That's crazy.  It would have been on a talk radio 
+		show like "Sports Chat" or "Sportzilla and the 
+		Jabber Jocks."
+Milhouse:	Yeah!
+Homer:		Why, you little ... [lunges for the pair, scaring 
+		them away]
+-- Winning over the masses, "Hungry Hungry Homer"
+
+% Homer is getting hungrier, but will not give up.  Even when an
+% errant ice cream cone lands on his face, he won't eat it.  (Although
+% his hands don't seem to have gotten the message.)
+%
+% The rest of Homer's family is having eating problems of their own. 
+% All three children are noticeably fatter as they wearily eat supper.
+
+Marge:	There's still more meatloaf.
+Bart:	Oh, it's impossible.
+Marge:	Come on, come on, we all have to pitch in and eat your 
+	father's share.
+Lisa:	Why don't you just cook less?
+Marge:	I don't do things that way, Lisa.
+-- "Hungry Hungry Homer"
+
+% The hunger strike continues into its second day.
+
+Homer:	[singing and dancing, sort of]
+	I'm dancing away my hunger pangs,
+	Moving my feet so my stomach won't hurt.
+	I'm kind of like Jesus,
+	But not in a sacrilegious way.
+Moe:	Jeez, Homer's losing it already.
+Carl:	Yeah, but his weary shuffling makes my heart smile.
+Homer:	[groans] Oh, I'm so hungry.  [his stomach growls mightily]
+Ralph:	His tummy sounds angry, Daddy.
+Wiggum:	Yeah.  [cheerily] That's his stomach eating itself.
+-- "Hungry Hungry Homer"
+
+% From his office, H. K. Duff surveys the nearly empty bleachers.
+
+Duff:		It's such a beautiful day.  Where are the crowds?
+Duffman:	Duffman is thrusting in the direction of the 
+		problem.  [does pelvic thrusts towards the window]
+Duff:		[looks at Homer, who has a large crowd standing 
+		around him]  People seem to be drawn to that kook.  
+		Maybe we can exploit it.
+Duffman:	He's too dangerous, sir.  He knows about 
+		Albuquerque.  Duffman is a cautious cat.
+Duff:		No, listen.  Fans love wackos.  Remember that busty 
+		woman who ran out on the field and farted at the 
+		ballplayers?  I think we found our newest 
+		attraction.
+Duffman:	Duffman has a bad feeling about this.
+Duff:		Can it, Sid.
+Duffman:	[breaking character] Why don't you can it, Howard?
+-- Ooh, yeah, "Hungry Hungry Homer"
+
+% While Homer sleeps, two workers saw through the pole he chained
+% himself to.  The drag the pole and his chair to a small hill in the
+% stadium that overlooks center field, and set the pole in the ground. 
+% Homer wakes up.
+
+Homer:	Huh?  What's going on?  What am I doing here?
+Worker:	Order of Mr. Duff.  And word to the wise.  If someone hits 
+	a home run, fireworks come out here and here.  [points to 
+	two launchers]
+	[the crack of the bat announces another homer]
+	Gotta go!  [runs away shortly before the fireworks begin]
+-- "Hungry Hungry Homer"
+
+% The announcer introduces Homer as a "superfan" who is on a hunger
+% strike until the 'Topes win the pennant.  The crowd cheers Homer's
+% dedication, drowning out his protests about moving the team.  Homer
+% is discouraged.
+%
+% If you ever plan on going on a hunger strike, dear reader, try not
+% to do it in a ballpark.  Being surrounded by delicious ballpark food
+% and loudly chewing fans is not doing Homer any favors. 
+% Nevertheless, he finds the will to go on.
+%
+% Marge shows up in Duff's office to complain about her husband's
+% treatment.
+
+Marge:	It's been a whole week.  Why are you letting my husband 
+	die?  What does it have to do with baseball?
+Exec 1:	Death is a part of baseball.
+Exec 2:	Oh, yeah, the main part.
+Duff:	Guys ... [motions to the other two, to quiet them]
+Exec 2:	We won't let any harm come to your husband, Mrs. Simpson.  
+	He's fine.
+Marge:	He's not moving.  [looks through a telescope to see flies 
+	buzzing around Homer]
+Duff:	He's probably resting from all the moving he did before 
+	you got here.  He'll start moving in a second; I'm sure of 
+	it.  [aside to his men] Turn on the sprinklers.
+	[the sprinklers turn on.  Homer groans and weakly rolls 
+	over]
+	You see there?  He's fine.
+Exec 2:	Ooh, look at him go.
+Marge:	[grumbles]
+-- Boardroom compassion, "Hungry Hungry Homer"
+
+% The Isotopes play a game that night, not that it makes any
+% difference to Homer.
+
+Homer:	Oh, I'm so hungry.  Oh, why keep starving myself?  No one 
+	cares.
+	[there's a half-eaten pretzel lying on the grass in front 
+	of him.  Homer reaches for it.  A ghostly man in a white 
+	suit appears and steps on the pretzel]
+	Who are you?
+Chavez:	The spirit of Cesar Chavez.
+Homer:	Why do you look like Caesar Romero?
+Chavez:	Because you don't know what Cesar Chavez looks like.
+Homer:	Why are you here?
+Chavez:	To tell you not to give up.
+Homer:	[whiny] Oh, but I wanna.
+-- "Hungry Hungry Homer"
+
+% To the executives watching him, it looks like Homer's talking to
+% himself.  They decide to replace him with another weirdo, Paint-
+% Drinking Pete.
+%
+% Still, there's one more publicity favor that Homer can do for the
+% Isotopes.  Duff and his executives bring him to a microphone set up
+% on the field.
+
+Duff:	Well, Homer, your hunger strike lasted twelve amazing 
+	days.
+Homer:	Oh, me so hung-y.
+Duff:	Of course you are, Hungry Hungry Homer.  So why not break 
+	your fast with our new Isotope Dog Supreme.
+	[Duffman presents a hot dog loaded with toppings]
+Homer:	[sniffing] Oh, oh, so hard to resist.  Mesquite-grilled 
+	onions, jalapeño relish ... wait a minute, those are 
+	Southwestern ingredients.  [the crowd gasps] Mango-lime 
+	salsa?  That's the kind of bold flavor they enjoy in ... 
+	Albuquerque!  [the crowd gasps again]
+Lenny:	[in the stands] He's right!
+Moe:	Yeah, and the wrapper says, "Albuquerque Isotopes."
+Mel:	Homer was right!  They're planning to move the team!
+-- Vindicated at last, "Hungry Hungry Homer"
+
+% The crowd looks angry, and shouts at Duff.  Homer quickly has them
+% chanting, "Tell the truth!"  Duff orders Duffman to get Homer out of
+% sight.  Homer asks him not to, but instead to "stand up for the
+% little guy."  Duffman is torn between these two alternatives.  He
+% asks himself what Jesus would do.  In an interesting theological
+% conclusion, Duffman picks up his boss, twirls him around, and hurls
+% him into the stands.
+%
+% Homer takes a victory lap around the field.  Chanting, "Eat!  Eat! 
+% Eat!" the crowd tosses hot dogs, pretzels, and ice cream cones at
+% Homer, who snarfs them down right out of mid-air.  The Simpsons, who
+% are in the stadium that night, are proud of him.  The fireworks go
+% off.  The little guy has won.
+%
+% Meanwhile, someone in Albuquerque is watching this scene unfold on
+% television.
+
+Mayor:	Dang!  That town's got too much spirit.  [turns off the 
+	TV] Looks like we'll have to steal some other baseball 
+	team.  See what Dallas wants for the Cowboys.
+Aide:	Uh, that's a football team, sir.
+Mayor:	They'll play what I tell 'em to play.  [walks to a window]
+	[menacingly] For I am the Mayor of Albuquerque.
+-- The new evil empire, "Hungry Hungry Homer"
+
+% [End of Act Three.  Time:  20:09]
+%
+% Normal closing music and Gracie shush.
+
+
+<|endoftext|>

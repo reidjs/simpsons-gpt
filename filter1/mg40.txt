@@ -1,0 +1,146 @@
+% B = Bart, H = Homer
+%
+% Scene:  Exterior of the Simpsons house.  Snow is falling.
+
+B: [VO] 'Twas the night before Christmas, and all through the home,
+
+% Fade to inside.  Aside from the window in the center of the screen,
+% the picture is black.  A pair of eyes enters from stage right.  As
+% it passes in front of the window, we see that it is Bart.
+
+B: Not a creature was stirring,
+
+% Bart continues moving, his eyes exiting stage left.
+
+B:                              'cept for me and this poem.
+
+% Bart opens the door to Lisa and Maggie's room.  Lisa is asleep with
+% a smile on her face.  Maggie, in a small bed (not crib) next to Lisa's,
+% is also asleep, though she sucks furiously on her pacifier.
+
+B: My sisters were nestled all snug in their beds,
+   While visions of candy bars danced in their heads.
+
+% With a twinkle, a thought balloon appears above the girls, depicting
+% two candy bars and a Rollo with arms and legs, dancing to funky music.
+
+B: Then I sprang like a spring,
+
+% Bart hops out the doorway.  The girls each open one eye and watch him go.
+
+B:                              and snuck like a sneak,
+
+% Bart quietly hops down the hallway.
+
+B: Down the stairs to the gifts,
+
+% Bart slides down the banister.
+
+B:                               for just a quick peek.
+
+% Bart slides downward out of frame, and lands with a thud.
+% Bart picks himself up and looks off camera with a troubled expression.
+
+B: When, lo and behold, what did I see?
+
+% Cut to Bart's viewpoint.  Lisa (wearing a blue nightgown) and Maggie
+% (in a white baggie) standing by the tree.
+
+B: Lisa and Maggie had just beaten me!
+
+% Lisa is admiring a small present.  Maggie shakes a small wrapped box.
+% (Whap whap whap.)  Bart crawls to a rather large red box, which he
+% pokes at with his left index finger.  (Thump thump.)
+
+B: I poked at my package, and said, [aloud] This is rad, man!
+
+% On the couch and wall behind Bart grows a menacing shadow,
+% with hunched shoulders, and fingers curled.
+
+B: [VO] Then noticed Dad's shadow.  He looked like a madman!
+
+% The shadow reaches to the side and turns on the light.  Cut to Homer,
+% in his blue nightgown, blue stocking cap, and blue socks.
+
+H: Oh Maggie, oh Lisa, oh little Bartholomew!
+
+% Homer points to each child as he says the name.
+
+H: Go upstairs, go right now, before I kill all of you!
+
+% Homer punctuates his brief speech with strangling gestures.
+%
+% The kids scurry off.
+
+B: And so into bed we fled in a flash,
+
+% Trailing a cloud of dust, Bart hops into bed.  The lights are put out
+% (presumably by Homer, off-screen), and the screen goes black, save for
+% Bart's eyes.
+
+B: Awaiting 'til morning to open our stash.
+
+% Bart blinks twice before going to sleep.
+%
+% Through the window, the sun peeks over the horizon.
+
+B: At last daybreak came, and we scampered so cheerily,
+
+% Lisa, Maggie, and Bart rush past the window, arms extended in front
+% of them, with expressions of great anticipation.
+
+B: While Mom and Dad yawned, and gazed at us wearily.
+
+% Homer and Marge on the couch.  Homer still in his nightgown, his
+% two hairs uncombed.  Marge in a grey nightgown next to him with a
+% cup of coffee, her hair still up in rollers.  Both have bags under
+% their eyes.  As Homer yawns, we hear the kids tearing into their
+% presents, as ribbons, empty boxes, and torn wrapping paper fly past.
+
+B: For Maggie, a pacifier.
+
+% Maggie holds a shiny new pacifier (twinkle!) in her hand.  She removes
+% her existing pacifier (pop!) and smiles.  (No teeth.)
+
+B:                          For Lisa, some dolls.
+
+% Lisa, smiling, holds a Binky doll in her right hand, and a Bongo doll
+% in her left.  The dolls have no pupils.
+
+B: For me a big burp gun
+
+% Bart smiles broadly as he holds a large green toy gun.
+
+B:                       which shoots ping-pong balls.
+
+% He aims and pulls the barrel repeatedly.  With each pull comes a
+% popping sound, and a red ping-pong ball emerges from the barrel of
+% the gun, bouncing off Homer's head.  Homer puts his hands in front
+% of his face, but that doesn't help.
+
+B: Then on came the TV,
+
+% The family are camped out on the couch, Maggie in Homer's lap.
+% Homer hits the remote, and ``Jingle Bells'' meekly plays on the
+% TV set as we see Itchy and Scratchy in a snow scene, wearing
+% Christmas caps (no scarves) and waving politely at the camera.
+
+B:                       and we started to doze
+   Through all the exciting Christmas theme shows.
+
+% Everyone gradually nods off.  First Homer, then Marge, then Lisa,
+% then Maggie.  Bart is the only one remaining awake.
+%
+% Shot from beside the TV.  Bart in the foreground, continuing his
+% poem.  The rest of the family asleep on the couch, Lisa curled up at
+% one end, her Bongo doll on the floor in front of her.  Maggie is asleep
+% in Homer's lap.
+
+B: [aloud] So, to those of you groovin' on my holiday rap,
+   Happy Christmas to all, and to all a good nap.
+
+% Bart waves good-bye to all, still holding his toy gun in his right hand.
+%
+% [Time: 1:08]
+
+<|endoftext|>

@@ -1,0 +1,360 @@
+<PRE>
+Mr. Plow                                                   Written by Jon Vitti
+                                                        Directed by Jim Reardon
+===============================================================================
+[$Id$]
+===============================================================================
+
+> TV Guide synopsis
+
+Homer and Barney become bitter competitors in the snow-plowing
+business, until Homer tries a trick that turns into tragedy.  Linda
+Ronstady and Adam West have cameos.  Other voices:  Dan Castellaneta,
+Harry Shearer.
+
+> Title sequence
+
+>> Blackboard
+        {A burp is not an answer}.
+        {A burp is not an an} at cutoff.
+
+>> Lisa's solo
+        Fragmented.
+
+>> Couch
+
+        Finding only a single chair where the couch used to be, the entire
+        family sit on it.
+
+> Quotes and scene summary
+
+%
+% Television.
+
+Live, from beautiful Malaki Island (``We're not just for lepers any more''),
+it's ``Carnival of the Stars''!
+-- Troy McClure hosts another stupid television show, ``Mr. Plow''
+
+I'm your host, Troy McClure.  You may remember me from such films as
+``The Erotic Adventures of Hercules'' and ``Dial M for Murderousness''!
+-- Troy McClure hosts another stupid television show, ``Mr. Plow''
+
+% Homer watches from Moe's Tavern.  Krusty's tiger-taming act runs into some
+% unfortunate problems (``Not the face!''), so Bart and Lisa (watching at home)
+% switch to that Mexican television program about the guy dressed in a bee
+% suit.  Meanwhile, Marge calls and asks Homer to come home, since it is
+% starting to snow.  Homer can't see through his windshield it is snowing so
+% hard, and cannot stop in time to avoid rear-ending another car.  He gets out
+% of the car, the car's air bag inflates, and Homer takes pleasure in the fact
+% that the other car is damaged as badly as his own.  Until he realizes that he
+% is standing in his own driveway.  He hit Marge's car.
+%
+% As the tow truck takes the fused cars away, the insurance adjuster completes
+% his interview.
+
+Agent: Now, before I give you the check, one more question.  This place
+       ``Moe's'' you left just before the accident.  This is a business of
+       some kind?
+Homer: [thinks]  Don't tell him you were at a bar!  Gasp!  But what else
+       is open at night?
+       [aloud] It's a pornography store.  I was buying pornography.
+       [thinks]  Heh heh heh.  I would'a never thought of that.
+-- How not to throw an insurance agent off the scent, ``Mr. Plow''
+
+% Homer hitch-hikes to Crazy Vlaclav's Place of Automobiles and tries a
+% sub-mini-compact.
+
+She'll go 300 hectares on a single tank of kerosene.
+-- Crazy Vlaclav tries to sell Homer a car, ``Mr. Plow''
+
+% Though Homer has trouble understanding the Cyrillic characters on the
+% dashboard.  Next stop, the Springfield Auto Show.
+
+Kids!  If we buy a new car, we get our parking validated for free!
+-- Homer takes the kids to a car show, ``Mr. Plow''
+
+% Bart plays in the Bonnie and Clyde Death Car, and discovers money hidden
+% in the glove compartment.  Lisa observes crash-test video by Fourth Reich
+% Motors---and brings the demonstration to an early end when she points out
+% the crash test dummies are real people.  Seated next to the Batmobile is...
+
+Homer: Gasp!  Adam West!  [calling] Kids!  Batman!
+Lisa:  Dad, that's not the real Batman.
+Adam West: Of <course> I'm the real Batman.  [shows a glossy]
+       Here's a picture of me with Robin.
+Bart:  Who the hell is Robin?
+-- Kid today, ``Mr. Plow''
+
+Michelle Pfeiffer?  Ha!  The only true Catwoman is Julie Newmar, Lee
+Meriwether, or Eartha Kitt.
+-- Adam West muses, ``Mr. Plow''
+
+% The reminiscences continue, and Homer draws the kids away, very slowly.
+% And bumps into a Kumatsu Motors snowplough.  Homer imagines what he could use
+% it for...
+
+Homer, I've got to sneak these valuable artworks out of the White House,
+but I can't get out of the driveway because of these protesters!
+-- President George Bush moves out of the White House, ``Mr. Plow''
+
+% Homer imagines plowing through the crowd.  Back in reality, Homer realizes
+% he can't afford to buy it, but the salesman tells him he could use the
+% plow itself to make money by plowing driveways.
+
+Homer:    Well, I really should discuss this with my wife.
+Salesman: [scoffs] Your wife? [cracks an imaginary whip]
+Homer:    What, you think I'm going to buy a $20,000 truck just because you
+          make that noise?
+Salesman: [does it again]  [and again]  [and again]
+Homer:    [on his knees]  I'll take it!
+-- ``Mr. Plow''
+
+% [End of Act One.  Time: 5:17]
+%
+% Marge learns of Homer's purchase.
+
+Marge: I can't believe you bought that plow.  We can't afford it!
+Homer: If you're going to get mad at me every time I do something stupid,
+       then I guess I'll just have to stop doing stupid things!
+Marge: Good!
+Homer: Fine!  I'll never, ever, ever do another stupid thing.  Good night!
+       [angrily turns to leave and walks face-first into the side of the truck]
+Marge: [concerned] Oh, Homey.  Didn't that hurt?
+Homer: [quietly]  No.
+-- I meant to do that, ``Mr. Plow''
+
+% Homer finishes placing advertising flyers on every car in the parking lot,
+% only to have them blown away by a gust of wind.  He spots Barney dressed
+% in nothing but a baby bonnet and diapers trying to hand out flyers for
+% ``Lullabuy$'', a baby store.  He muses, ``Well, at least I can't sink any
+% lower.''  His diaper blows away.  Barney runs naked down the street in
+% pursuit.  Upon turning the corner, he says, ``Hi, Ma!''
+%
+% Homer approaches the altar to read from the epistles of Saint Paul, but
+% instead takes the opportunity to advertise his snow-plow business.  But
+% not for long.
+%
+% Lisa suggests bying cheap commercial time on channel 92, and points Homer
+% at an advertisement for CDs of Captain McAlister singing sea shanties.
+% Homer is impressed.
+%
+% Late at night, Homer settles on the couch with the family to watch the
+% commercial---at 3:17 in the morning.
+
+It may be on a lousy channel, but The Simpsons are on TV!
+-- Homer proudly introduces his television debut, ``Mr. Plow''
+
+% Then proceeds a cheap commercial starring The Simpsons, selling, not
+% candy bars or mini-vans, but Homer's snow-plow commercial.
+
+Homer: [narrating a TV commercial]
+       Are you tired of having your hands cut off by snowblowers?
+       And the inevitable heart attacks that come with shoveling snow?
+Bart+Lisa: Uh-huh!
+-- Homer's TV commercial as... ``Mr. Plow''
+
+Commercial-Homer: Call now and receive a free T-shirt!
+Homer: [watching at home, raises a ``Stockdale for VP'' T-shirt]
+       He could still surprise ya!
+-- but can he hear ya?  ``Mr. Plow''
+
+My prices are so low, you'll think I suffered brain damage!
+-- Truth in advertising, in Homer's TV commercial as... ``Mr. Plow''
+
+% Bart asks, ``You <are> fully bonded and licensed by the city, aren't
+% you, Mr. Plow?''  Homer answers out of the corner of his mouth, ``Shut
+% up, boy.''  The commercial concludes with an incredibly inane jingle.
+% Followed by channel 92's test pattern.  Homer waits for the phone to
+% ring, then decides ``Ah, the waiting game sucks.  Let's play
+% Hungry-Hungry-Hippos!''
+%
+% Homer plows the Kwik-E-Mart parking lot, just in time for Snake and his
+% pal to knock it over.  Homer plows the Springfield Retirement College
+% driveway, and the residents express their pleasure that they are no
+% longer trapped inside.  Then they return inside.  Principal Skinner
+% considers cancelling school due to snow, but Homer plows the way for
+% the school bus.  Bart suffers the slings and arrows and snowballs of
+% ungrateful classmates.  On the steps of City Hall...
+
+Mr. Plow, for making it possible for people to get where they're going
+without resorting to public transportation <or> car-pooling, I give you
+the keys to the city.
+-- Diamond Joe Quimby, ``Mr. Plow''
+
+% Homer even earns a free beer from Moe in appreciation.  In response to
+% Barney's musig, ``I wish I was a hero'', Homer tells him to ``get out
+% there and be the best damned Barney you can be.''  Still clad in his
+% bonnet and diapers, Barney rushes outside.  (And crashes into something.)
+%
+% At bedtime, Homer removes his robe, revealing that he is wearing the key
+% around his neck.  Marge apologizes for being wrong about buying the truck,
+% and asks Homer to wear the ``Mr. Plow'' jacket to bed, ``Just for me.
+% For fun.''  Homer does so, gets into bed, and turns off the light.
+%
+% At 7am, Homer wakes up to falling snow, but is shocked to find that all the
+% driveways have already been plowed!  A giant snow-plow cruises down the
+% street:  It's Barney ``Plow King'' Gumble.  To stimulate healthy competition,
+% Barney takes out a shotgun and takes out the tyres of Homer's truck.
+%
+% [End of Act Two.  Time: 14:52]
+%
+% At Moe's Tavern, the gang watch Barney's ``Plow King'' commercial, in which
+% he bashes a cardboard cut-out of Homer with a baseball bat.  He is joined
+% by Linda Ronstadt.
+
+Moe:    Linda Ronstadt!  How'd ya get <her>?
+Barney: Oh, we've been looking for a project to do together for a while.
+-- ``Mr. Plow''
+
+% Linda Ronstadt sings the ``Plow King'' theme song.  Homer is hurt.
+% ``How could you, Barney?  After all I've done for you.''  Homer flashes
+% back to his high school days.  A handsome Barney Gumble studies for his
+% SAT's, with hopes of getting into Harvard.  Homer comes in and offers
+% Barney a six-pack.  Barney is worried about tomorrow's test.
+
+I've got two words for you:  Mellow out, man.
+-- Homer Simpson, ``Mr. Plow''
+
+% Barney reluctantly takes a sip.  Then the entire can.  And gradually turns
+% into the disgusting drunk we all know and l... we all know.
+%
+% Homer spots Ned and even Adam West letting Barney plow their driveways.
+% Adam West hops into his Batmobile, snaps on his shoulder belt, and with
+% some effort, manages to get his run-down Batmobile (complete with parachute
+% brake) to putter down the street.
+%
+% Homer anxiously waits for the phone to ring.  And it does.  But it's the
+% delinquent accounts department from Kumatsu Motors.
+
+Yeah, they were gay.
+-- Homer pretends to be Tony Plow, from ``Leave It to Beaver'', ``Mr. Plow''
+
+% Lisa suggests another commercial, and Homer offers to do a rap.  The kids
+% beg Homer never to rap again.
+%
+% Homer goes to the McMahon and Tate Advertising Agency for help.
+%
+% The family watch the results.  It's one of those weird almost-black-and-white
+% ``artistic'' commercials that make no sense.
+%
+% Diamond Joe Quimby forcibly removes the key to the city from Homer's hands
+% in an attempt to give it to Barney.
+%
+% Springfield is in the midst of a blizzard.
+
+Kent:  Hardest hit by the blizzard is Springfield's forbidding Widow's Peak.
+       Our own Arnie Pie is on the scene.
+Arnie: [live remote, in a helicopter]  Everything's snowed in!  All I can see
+       is white!
+Kent:  [impatiently]  Arnie, please.  The ski conditions.
+Arnie: [now upside-down]  Mayday!  Mayday!  I think I'm flying into a mountain!
+       Tell my wife I lo... [picture fuzzes out]
+Kent:  [chuckles] That's great, Arnie.
+-- Weather report, ``Mr. Plow''
+
+% Homer gets an idea.  He calls Barney with a disguised voice asking him to
+% plow his driveway atop Widow's Peak.  Barney is in a hot-tub with Linda
+% Ronstadt.
+
+Homer:   [on the phone, disguising his voice]
+         There's a $10,000 bill in it for you.
+Barney:  Oh yeah?  Which president's on it?
+Homer:   Uh... All of them.  They're having a party.  Jimmy Carter's
+         passed out on the couch.
+Barney:  Wow!
+-- Don't ask where Jack Kennedy is, ``Mr. Plow''
+
+% Linda Ronstadt offers to make a Spanish version of the Mr. Plow theme.
+%
+% Homer steals all of Barney's customers.
+
+Woman: Could you make sure not to scrape my asphalt?
+Homer: [sotto voce]  Kiss <my> asphalt.
+-- ``Mr. Plow''
+
+% News flash:  Barney was caught in an avalanche at Widow's Peak.  The
+% shocking event was captured on film by a FOX camera crew filming ``In
+% Search of Bigfoot.''  The scene of Bigfoot is ruined when the guy in
+% the ape suit forgets to take off his watch before shooting begins.
+% Off to the side is Barney studying a map.  He belches, and the sound
+% induces the avalanche, burying him.  Homer assumes full responsibility
+% and heads out to save his buddy.
+%
+% At the foot of the mountain, Marge makes one last plea for Homer not to
+% go.  Homer assures her, ``This baby is as sure-footed as a mountain goat.''
+% In true sitcom fashion, a faraway mountain goat loses its footing and
+% descends the mountain the painful way.
+%
+% To cross a dangerous chasm, Homer braves a dilapidated rope bridge.
+% Not until he's halfway across does he notice the sturdy modern bridge
+% that runs next to it.
+%
+% Making its way along a precarious ledge, the truck loses its traction
+% and teeters ever-so-precariously over the edge.  Homer carefully turns
+% the radio dial towards the upper end of the dial, and this proves enough
+% to tip the truck back to safety.
+%
+% Barney has resigned himself to his fate, but Homer arrives and rescues
+% him.  The two are reconciled and agree to become partners.  Homer is
+% pleased.  ``When two gbest friends work together, not even God Himself
+% can stop them.''  A stern voice challenges, ``Oh no?''  The sun suddenly
+% appears, melting the snow.  All of it.
+
+Could this record-breaking heat wave be the result of the dreaded
+``Greenhouse Effect''?  Well, if 70-degree days in the middle of winter
+are the `price' of car pollution, you'll forgive me if I keep my old Pontiac.
+-- Kent Brockman's Two Cents, ``Mr. Plow''
+
+% Homer answers the phone:  It's the Repo Depot, calling to distract him
+% while they re-possess his truck.  Which they do.  Marge looks on the
+% bright side.  ``You have your health, you have your best friend back,
+% and... [coyly] you do have that certain special something...''  She
+% means, of course, the Mr. Plow jacket.  Homer fetches the jacket from
+% the closet and makes his own weather prediction:  ``The forecast calls
+% for flurries of passion, followed by extended periods of gettin' it on.''
+% He turns off the light.
+%
+% [End of Act Three.  Time: 23:40]
+
+> Voice Credits
+>> Starring
+    Dan Castellaneta      (Homer, Abe, Barney, Alan Thicke, Arnie Pie, Bill)
+    Julie Kavner          (Marge)
+    Nancy Cartwright      (Bart, Nelson, car show model)
+    Yeardley Smith        (Lisa, Angela Lansbury)
+    Hank Azaria           (Moe, car show salesman)
+    \:    and
+    Harry Shearer         (Kent Brockman, Principal Skinner, etc.)
+>> Special Guest Voice
+    Phil Hartman          (Troy McClure)
+>> Special Guest Voice
+    Linda Ronstadt        (herself)
+>> Special Guest Voice
+    Adam West             (himself)
+>> Also Starring
+    Pamela Hayden         (woman customer)
+
+> Didja notice...
+
+    ... the insurance company was the same one as from the house fire?
+    ... the Krusty Brand hot dog car at the auto show?
+
+> Comments and other observations
+
+I hope everybody got the joke about ``Widow's Peak''.
+
+If anybody says that the rope bridge scene was a reference to an Indiana Jones
+movie, I'll scream.
+
+A hectare is a unit of area, not length.
+
+Kumatsu Motors was the company that took over Herb Powell's car company.
+
+> The boring copyright statement
+
+Episode summaries Copyright 1992 by Raymond Chen.  Not to be redistributed
+in a public forum without permission.  (The quotes themselves, of course,
+remain the property of The Simpsons, and the reproduced articles remain
+the property of the original authors.  I'm just taking credit for the
+compilation.)
+</PRE>

@@ -1,0 +1,88 @@
+% B = Bart, L = Lisa
+%
+% The front of the Simpsons residence.  From left to right:  Bart smugly
+% holds a skateboard.  Maggie sucks on her pacifier.  Lisa holds a jumprope.
+%
+% Lisa sweetly asks...
+
+L: Whatcha doin', Bart?
+B: Skateboarding.
+L: Can we come?
+B: No way, man.
+
+% Bart proudly walks in front of the girls down the front walk.
+
+B: Skateboarding's men's work.
+L: [teasing] Then why are <you> doing it?
+
+% Bart sneers briefly.
+
+B: Because I <am> a man, man!
+
+% Bart has reached the top of a steep hill.  He studly tosses his skateboard
+% to the sidewalk, hops on, and scoots off, trailing a cloud of dust.
+
+B: Cowabunga!
+
+% Close-up on Bart's upper body, cruising down the hill, his arms
+% outstretched, the wind breezing through his hair.  A boy and his
+% skateboard.  (Oops, sorry.  A man and his skateboard.)  Poetry in
+% motion.  Bart closes his eyes frequently, enjoying the ride.
+
+B: Ah, the breeze.  The solitude.  The wind whistling through your hair.
+
+% Pull back to reveal the two girls sitting on the skateboard with him.
+
+L: Go, man, go!
+
+% Bart looks down.
+
+B: Huh?
+
+% [End of Act One.  Time: 0:28]
+%
+% Back to the top of the hill.  Bart and the girls.  Lisa's arms are
+% folded in front of her chest.  Bart's skateboard is poised for action.
+
+B: Watch this.  Here goes the daredevil skateboard champion of the universe!
+
+% Bart hops on his skateboard and zooms off.
+%
+% Close-up on Bart's upper body.
+
+B: [turning]  So long, suckers!
+
+% Pull back.  Bart is skateboarding on one leg.
+%
+% Lisa pulls up on her own skateboard, standing on her head.
+
+L: [calmly] Hi, Bart.
+
+% Bart reacts, stunned.  Lisa pulls ahead out of frame.
+
+L: Bye, Bart.
+
+% Bart can only watch.
+%
+% [End of Act Two.  Time: 0:43]
+%
+% Bart and Lisa are at the top of the hill, each with their skateboard
+% in front of them, ready to race.  Maggie watches.
+
+B: Okay.  Ready?  Get set? ... Hey, look over there!
+
+% Lisa does...
+
+B: Go!
+
+% ... and by the time she looks back, Bart is long gone.
+%
+% Close-up on Bart's upper body as he cackles.
+%
+% Lisa pulls up next to him on her skateboard.   But Bart grits his
+% teeth, and Lisa falls behind.  He laughs some more.  Then Maggie
+% passes on her own mini-skateboard.
+%
+% [End of Act Three.  Time: 1:00]
+
+<|endoftext|>

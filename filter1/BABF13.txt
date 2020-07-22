@@ -1,0 +1,554 @@
+% The Simpsons enjoy a trip to the campgrounds.  It is beautiful
+% weather for an outing -- the sky is blue, the leaves are green, and
+% the windshield is white and brown with the remains of unfortunate
+% mosquitoes.  A park ranger flags them down.
+
+Folks, you're going to want to turn around.  The bugs are firmly in 
+charge.
+-- Park ranger, "Bart to the Future"
+
+% Homer grudgingly turns around the car.  A swarm of bugs engulfs the
+% rangers hand and, when it disperses, the ranger's class ring is
+% missing.  After he complains, the swarm returns to deposit the ring
+% -- and then takes the flesh of his hand.
+%
+% Bart spots an Indian gaming casino, and Homer quickly pulls into its
+% parking lot.  Marge doesn't think this little detour is a good idea.
+
+Homer:	Let's go, Marge.  Come on, come on, come on!
+Marge:	Homer, you know I have a gambling problem.
+Homer:	Well, what better place to celebrate your recovery than 
+amidst the frenzied excitement of the casino floor.
+Marge:	Hrrmph.
+-- "Bart to the Future"
+
+% Homer and Bart run off to join the casino floor's frenzied
+% excitement.  A bouncer stops Bart at the door.
+
+Bouncer:	No minors.
+Bart:		Yeah, but I really want --
+Homer:		Sorry, son.  Although they seem strange to us, we must 
+		respect the ways of the Indian.
+-- "Bart to the Future"
+
+% Ever respectful, Homer walks into the main greeting hall, repeating
+% "Hi-how-are-you" in the rhythm of a stereotypical war chant.
+%
+% Meanwhile, Bart is as determined as ever to get into the casino. 
+% Looking around, he notices Arthur Crandall talking to one of the
+% casino's security people at the back door.  Crandall, unseen since
+% "The Gabbo Show" folded, has fallen on hard times.  He tries to
+% negotiate a free night's stay from the casino, but is forced to
+% settle for a free trip to the pasta bar.  Bart sneaks onto
+% Crandall's truck and climbs into Gabbo's carrying case.  Other than
+% the fact the case now weighs much more, Crandall notices nothing
+% amiss as he takes the it backstage.
+%
+% Onstage, Crandall opens the case before his audience.  To everyone's
+% surprise -- especially Crandall's -- Bart hops out of the case. 
+% Casino security men quickly capture him and take him to the
+% manager's office.
+
+Manager:	[on phone] Your linen service has broken many 
+		promises to us.  Laundry bill soar like eagle.  
+		[hangs up] Jerk.
+		[walks over to Bart] So, you like to sneak into 
+		casinos?
+Bart:		I wasn't going to gamble.  I just wanted a Bloody 
+		Mary.
+Manager:	Listen to me.  Unless you change your deceitful 
+		ways.  I foresee a life bitterness and failure for 
+		you, Bart Simpson.
+Bart:		How'd you know my name?
+Manager:	[holds up a legal document] Your father just took 
+		out a second mortgage downstairs.  You're listed as 
+		collateral.
+Bart:		Oh.  I thought that maybe you were some kind of 
+		Indian mystic who could tell the future?
+Manager:	Who says I'm not?
+-- Insert "Twilight Zone" theme here, "Bart to the Future"
+
+% A fire flares up from a hearth in the office's center, startling
+% Bart.
+
+Manager:	If you want to see the future, throw a treasured 
+		personal item onto the fire.
+		[Bart tosses a small object, which explodes with a 
+		bang]
+		Not a firecracker!
+Bart:		Hey, I bought it from a guy on your reservation.
+Manager:	That's Crazy Talk.
+Bart:		No, it's true.
+Manager:	No, I know, that's my brother, Crazy Talk.  We're 
+		all a little worried about him.
+-- Even Dances with Sock Puppets is concerned, "Bart to the Future"
+
+% The manager invites Bart to look deep into the flames, to see what 
+% lies in store thirty years from now.  Bart, and the audience, sees a
+% vision of the boy as he will be in 2030.  Future-Bart's hair has
+% grown a bit scraggly, and he has tied some of it into a pony tail. 
+% A Hawaiian shirt, shorts, and sandals complete the "dressed down"
+% look.  He has inherited his father's physique, pot belly and all,
+% something that was no doubt aided by many cans of Future Duff.  He
+% takes a sip from one such can, and burps loudly.
+%
+% Bart picks up a guitar and begins to tune it.
+
+Bart:	[strumming the guitar] Check, check.  Hello, Capital City.  
+	[one of the strings breaks] Way to make a guitar, Sears.
+Ralph:	[walks in, dripping wet and without clothes] Hey, Bart, 
+	any clean towels?
+Bart:	Nah.  Use this.  [tosses Ralph a newspaper]
+Ralph:	I'm sick of having to dry myself with a newspaper.  You 
+	could at least do some laundry.  I pay the rent.  [ties 
+	the paper around his waist, like a towel]
+Bart:	Dude, you know I'm good for it.  I'll have plenty of money 
+	when my lawsuit pays off.
+Ralph:	You mean the spider bite at Disneyland?
+Bart:	Or the incident with the over-salted fries.
+-- "Bart to the Future"
+
+% There's a knock at the door -- it's a Holo-gram for Bart, from
+% Nelson.  He grants Bart's band permission to play at his club,
+% albeit for a salary of popcorn shrimp.  He signs off with the
+% future's customary way of saying good-bye:  "Smell you later."
+%
+% Bart's band has a gig, but his amp's in hock.  He figures he can
+% borrow some money from his folks, so it's time for a trip to
+% Springfield, via non-hover-bus.
+%
+% Back at Bart's boyhood home, Homer and Marge try Virtual Fudge, but
+% find it lacking in comparison to Cyber-Fudge.  Bart and Ralph
+% arrive.
+
+Bart:	Yo, it's me!
+Homer:	[takes the Virtual Fudge wire out of his mouth, which 
+	shocks him] Oh, what a bleak and horrible future we live 
+	in!
+Bart:	Don't you mean, "present?"
+Homer:	Right, right, present.  Anyway, can I get you some Soylent 
+Green.  [holds up a box of it]
+Ralph:	Isn't that made of people?
+Homer:	Uh, oh, here we go ...
+Bart:	Hey, Dad, my band finally got a break.  I just need a 
+	little moolah to get my amp out of hock.  How about a 
+	little loan-ski?
+Homer:	Oh, I'm tired of giving you money.  Why can't you be more 
+	like Lisa?
+Bart:	I am so sick of hearing about Lisa.  Just because she's 
+	doing a little better than me --
+Marge:	She's President of the United States!
+Bart:	President-*elect*.
+-- Oh, is that all?  "Bart to the Future"
+
+% Bart says that he, too, could be President if he wasn't so "real." 
+% That doesn't impress Homer enough to pry any cash from him, so he
+% leaves.
+
+Bart:	What happened to you, man?  You used to be cool.
+Homer:	I'm still cool!
+Bart:	Nah, you've changed, man.
+Homer:	Well, I do have this robotic prostate, but you can't see 
+	it.  [glances downward] Oh, you can.
+-- He's a real machine, "Bart to the Future"
+
+% Bart tries his luck with the neighbors.
+
+Bart:	[rings bell] Flanders is a soft touch.  He'll give us the 
+	money for sure.
+	[Ned answers the door.  He's wearing dark glasses and 
+	carrying a cane]
+Ned:	Jesus?  Is that you?
+Ralph:	Mr. Flanders, you're blinded-ded!
+Ned:	Oh, yeah.  I never should have had that trendy laser 
+	surgery.  It was great at first but, you know, at the ten-
+	year mark your eyes fall out.
+Bart:	Listen, dude --
+Ned:	Oh-ho, hi, Bart.  How much this time?  [reaches for his 
+	wallet]
+Bart:	Dude, you got me all wrong.
+Ned:	Yeah.  Just answer me this:  Are you holding your mooching 
+	sack?
+Bart:	[holds up a small bag with a dollar sign on it]
+	My little one.
+Ned:	Bart, you're never going to grow up if I keep bailing you 
+	out.
+Bart:	Then, please, help me help myself.
+Ned:	Oh, all right, but only because you haven't outed Rod and 
+	Todd.  [camera pulls back to reveal the boys, grown up and 
+	wearing hot pants.  They polish an antique desk]
+-- "Bart to the Future"
+
+% Bart and Ralph get to play their gig at Nelson's Crab Shack, but it
+% doesn't well.  Jimmy Buffet charges royalties, so Bart plays one of
+% his "originals," which is just a thinly-disguised version of
+% "Margaritaville."  Only a grid of lasers keeps the boys from being
+% pelted with beer bottles, and even that is starting to buckle from
+% the strain.
+%
+% The non-hover bus drops Ralph and Bart at the house they've been
+% renting.  They find an eviction notice on the door.
+
+Bart:		Oh, no, I've got half a beer in there -- and 
+		"Bewitched" is on.
+Ralph:		Now we've got no home, no money, and our band's 
+		going nowhere, and it's all your fault.  Smell you 
+		later, Bart.  Smell you later forever!  [walks off]
+Bart:		Oh, he's right.  I'm a loser.  There's only one way 
+		out of this mess.  [slumps down on the porch, and 
+		points what looks like a laser pistol at his head.  
+		He pulls the trigger, but instead of a laser, he 
+		beams the six o'clock news directly into his head]
+Brockman:	From around the globe to your frontal lobe, this is 
+		BrainVision News!  Tonight's winning Lotto number:  
+		4-4-6.
+Bart:		Damn, I was so close -- I had 3-2-7.
+Brockman:	In other news, President-elect Lisa Simpson moves 
+		into the White House tomorrow.  The seventeen-
+		bedroom home features free long distance, laundry 
+		service, and free food kitchen.
+Bart:		So I'm the President's no-good brother.  Moochie, 
+		moochie!
+-- A plan for the future, "Bart to the Future"
+
+% [End of Act One.  Time:  8:06]
+%
+% Back in the present, Bart is perturbed by his bleak horrible future. 
+% The casino manager tells him there's more to the story.  Thirty
+% years in the future, Bart finds his way past the liquor stores and
+% adult bookstores to the White House.  Inside, President Simpson
+% gives her first press conference.
+
+Yes, I am proud to be America's first straight female President.
+-- President Lisa Simpson, "Bart to the Future"
+
+% After a final question from Helen Thomas ("Wasn't I wearing a
+% hat?"), Lisa wraps up the conference and holds a meeting in the Oval
+% Office.
+
+Lisa:		As you know, we've inherited quite a budget crunch 
+		from President Trump.  How bad is it Secretary Van 
+		Houten?
+Milhouse:	[shows to a chart] We're broke.
+Lisa:		The country is broke?  How can that be?
+Milhouse:	Well, remember when the last administration decided 
+		to invest in our nation's children?  Big mistake.
+Aide:		The balanced breakfast program just created a 
+		generation of ultra-strong super-criminals.
+Milhouse:	And midnight basketball taught them to function 
+		without sleep.
+Lisa:		What about my pledge to build the world's largest 
+		bookmobile?  Isn't there any money left for that?
+Aide:		No, and we've borrowed from every country in the 
+		world.
+		[without warning, Bart bursts into the room]
+Bart:		Hey, Lisa, call off your -- [two Secret Service 
+		agents jump him] Ow!  Watch the ponytail.
+Lisa:		Let him up, please.  [the agents do so]
+		What are you doing here?
+Bart:		I knew you'd need some help keeping it real, so I 
+		figured I could be, like, your co-President.
+Lisa:		Co-President?  Are you crazy?
+Bart:		Mom!  Lisa won't share!
+Marge:		Be nice to your brother, Lisa.
+-- "Bart to the Future"
+
+% That night, the family sits down to dinner.  Or at least Homer,
+% Marge, and Bart do.  Lisa comes by later, trailed by a marching band
+% playing "Hail to the Chief."  As she ponders ways of cutting the
+% budget, the musicians beat a hasty retreat.
+
+Lisa:	Hey, where's Maggie?
+Marge:	[pulls baby Maggie from underneath the table]
+	Here she is!  And look how big she's gotten.  [Maggie 
+	sucks on her pacifier] Aw, just like her mommy, Maggie, 
+	Sr.  So ... what did everyone do today?
+Lisa:	Appointed a Supreme Court justice.
+Marge:	Oh.
+Bart:	"Bewitched" marathon.
+Marge:	Hmm.
+Homer:	Searched for Lincoln's gold.
+Lisa:	Dad, that's just a myth.  Lincoln didn't hide any gold in 
+	the White House.
+Homer:	Then what is his ghost protecting?
+-- The dignity of the office?  "Bart to the Future"
+
+% Just then, the presidential helicopter touches down on the lawn. 
+% Bart has sent it to pick up Ralph.  Lisa objects, and Bart tries the
+% "you used to be cool" line on her.  It doesn't work, since Lisa
+% denies ever being cool.
+%
+% Bart continues to be a thorn in the President's side.  When she is
+% honoring the players of the Negro Leagues of Rollerball, Bart's
+% wayward Frisbee hits her.  Secret Service agents dispatch it with
+% extreme prejudice.
+%
+% Lisa asks Bart if he applied for a messenger job, but he didn't like
+% their policy of not paying him until he has worked for two weeks. 
+% Then, he gets an inspiration, saying, "Hey, maybe I can sue 'em!" 
+% Lisa rolls her eyes in exasperation.
+%
+% Undaunted by Lisa's skepticism at dinnertime, Homer starts his
+% search for Lincoln's gold.  He carries a pickaxe through the White
+% House hallways as he carefully counts off his paces.  Marge follows
+% him.
+
+Homer:	... fourscore four, fourscore five, fourscore six, 
+	fourscore and seven paces.  [swings the pickaxe into the 
+	floor]
+Marge:	Wait!  How do you know this is where Lincoln buried the 
+	gold.  You just started counting from an arbitrary place.
+Homer:	I just started what from a what?
+Marge:	Your plan makes no sense.
+Homer:	Gold bars discovered by Marge, zero.  Gold bars discovered 
+	by Homer, well, let's just see.  [swings axe again, and 
+	some of the floor gives way.  Through the hole, we can see 
+	Lisa in her office, startled by the ceiling caving in near 
+	her]
+	Whoops!  Sorry, honey.
+Marge:	Gold bars discovered by Homer?
+Homer:	Shut up.
+-- "Bart to the Future"
+
+% Lisa and Milhouse discuss ways to pull America out of the debt hole.
+
+Lisa:		If I'm going to bail the country out, I'll have to 
+		raise taxes, but in my speech I'd like to avoid 
+		calling it a, "painful emergency tax."
+Milhouse:	What about, "colossal salary grab."
+Lisa:		See, that has the same problem.  We need to soften 
+		the blow.
+Milhouse:	Well, if you just want to out-and-out lie ... [Lisa 
+		doesn't object] Okay, we could call it a, "temporary 
+		refund adjustment."
+Lisa:		I love it.
+Milhouse:	Really?  What else do you love, Lisa?
+Lisa:		Fiscal solvency.
+Milhouse:	[disappointed] Oh.  Yeah, me too.
+-- "Bart to the Future"
+
+% Lisa gets ready to sell her colossal salary grab, er, temporary
+% refund adjustment to the public.
+
+Director:	Thirty seconds, Madame President.
+Bart:		Hey, Lis, I need a favor.
+Lisa:		Not now, Bart, I'm about to speak to a hundred 
+		million people.  This speech could make or break my 
+		presidency.
+Bart:		I hear you.  [puts a small boom box on Lisa's desk] 
+		All I want you to do is play my demo tape in the 
+		background while you're yakking about whatever.  
+		Now, this "play" button is a little screwed up, so 
+		you gotta hold it down.
+Lisa:		Are you insane?
+Bart:		But you told me I should do something with my life.
+Director:	Five seconds.
+		[Lisa pushes aside Bart's cassette player, and it 
+		falls with a crash]
+Bart:		Mom!
+		[Lisa's on.  She clears her throat]
+Lisa:		My fellow Americans and voting illegal aliens, I 
+		will not mince words.  Your country needs you.
+		[cut to Moe's Tavern, where the patrons watch Lisa 
+		on TV]
+		[on TV] That's why today I'm proposing a temporary 
+		refund adjustment.
+Moe:		Refund adjustment?  Hey, sounds good to me.
+Lenny:		Sure beats a tax.
+Carl:		We love you, President Simpson.
+		[cut back to the Oval Office]
+Lisa:		The months ahead will be long and arduous.  But it's 
+		only through arduousity that you --
+Bart:		[walks into camera view, playing guitar and singing 
+		to the tune of "Escape (The Piña Colada Song)"]
+		If you like refund adjustments,
+		And the music I play,
+		Send a check to my friend Ralph,
+		And he'll mail you a tape.
+Lisa:		[laughs weakly] This is my brother Bart, who doesn't 
+		seem to realize this isn't the best time for his 
+		music.  [aside] He's one of the people I want to 
+		help with my programs.
+Bart:		Hey, Lis, my music's going to make it a lot easier 
+		for you get America to swallow your big tax hike.
+Lisa:		[gasps]
+		[cut to Moe's Tavern]
+Moe:		Tax hike?  Hold the phone, Mabel.
+Carl:		You know, I never trusted her.
+Lenny:		Don't blame me, I voted for Chastity Bono.
+		[cut back to the Oval Office]
+Bart:		[Singing to "Day-O (The Banana Boat)"] Daylight come 
+		and you want-a my tape.
+Ralph:		Ta-a-ape!  He say ta-a-ape-o!
+Bart:		Post Office Box Three Oh Four Five Two.
+Lisa:		Good night, America.
+Director:	And we're out.
+-- Read my lips ... "Bart to the Future"
+
+% With the cameras off, Lisa throttles her brother.  Bart calls for 
+% the Secret Service, but this backfires when the agents come and help
+% Lisa choke him.
+%
+% [End of Act Two.  Time:  14:20]
+%
+% Public opinion makes any sort of tax increase (or refund adjustment)
+% politically infeasible.  Lisa and her cabinet try to plot their next
+% move.  To settle the debt, the Americans would have to give up a lot
+% of public assets, including ones that they don't technically own. 
+% Lisa wants to avoid that, preferring to call a meeting with the
+% United States' creditor nations, and remind them of the US's past
+% generosity with them.  There's just one possible downside.
+
+Lisa:		Oh, but Bart could screw everything up.
+Kearney:	[as a Secret Service agent] You want him ... 
+		eliminated?
+Lisa:		No, just keep him out of my hair.
+Kearney:	Out of your hair with extreme severity?
+Lisa:		No!
+Kearney:	Come on, every President gets three secret murders.  
+		If you don't use them by the end of the term [makes
+		smacking noise] they're gone.
+-- "Bart to the Future"
+
+% Just then, Bart interrupts the meeting, demanding to know who ran
+% over his moped.  Lisa protests that she has no time for Bart's
+% antics, for she is, after all, the President.  "President of what,"
+% Bart asks, "United States of Dorksylvania?"  Then he tries to high-
+% five Alan Greenspan.  Lisa has wave off Kearney, who approaches Bart
+% with a syringe.
+
+Lisa:	You know something, Bart, you're right.  My lack of 
+	coolness is really holding America back.
+Bart:	Thank you.  Down low!  [extends his hand, but retracts it 
+	when Lisa tries to slap it] Too slow!
+Lisa:	[laughs weakly] You're too much, Bart.  That's why I'm 
+	appointing you, "Secretary of Keeping It Real."
+Bart:	Wow?  You're really asking for my help?
+Lisa:	Absolutely.  I want you and your pals to go away to Camp 
+	David, and write up a report on coolness.
+	[escorts Bart to the door]
+Bart:	Well, if my country needs me ... can we skinny dip?
+Lisa:	At Camp David?  Sure.  They couldn't keep pants on 
+	Kissinger.
+-- That's why Nixon spent so little time there, "Bart to the Future"
+
+% Bart's "coolness committee" convenes at Camp David.  Krusty suggests
+% starting the report off with a joke, and tells one about the nuclear
+% conflict between India and Pakistan.  It bombs, if you'll pardon the
+% pun.  Bart tells the group that if they buckle down now, they can go
+% through President Clinton's porno stash when they're done.  The gang
+% decides not to wait, and Bart goes by himself to the bar to work on
+% the report.
+
+Bart:		Oh, Lisa's counting on me for this coolness report.
+Carter:		Coolness report?  Huh.  You've been had, boy.
+Bart:		Billy Carter's ghost?
+Carter:		Damn straight.  And I'm here to tell you, you've 
+		been sent on a wild goose chase.
+Bart:		You mean Lisa wanted to get rid of me?
+Carter:		Well, that's a big ten-four.  When my brother Jimmy 
+		was making peace in the Middle East, he sent me to 
+		belly-flop academy.
+Bart:		I guess I am an embarrassment.
+Carter:		You sure are.  And hey, there's an embarrassment of 
+		riches at the Caesar's Pow Wow Indian Casino.  You 
+		can bet on it!  [winks and fans a deck of cards]
+		[cut to the present]
+Bart:		You put an ad in my vision?
+Manager:	Yeah, Crazy Talk came up with that.  He got idea 
+		from Dances With Focus Groups.
+-- "Bart to the Future"
+
+% Back to the future, where Homer has dug up a good part of the White
+% House lawn.  Finally, he hits paydirt.
+
+Homer:	[hauls a chest from one of the holes] Marge, I did it!  I 
+	found Lincoln's gold!
+	[opens the chest, but finds only a piece of paper] Huh?
+Marge:	[picks up the paper and reads it] Dear Countryman.  You've 
+	come in search of my gold, and I will not disappoint you.
+Homer:	Oh boy, oh boy, oh boy!
+Marge:	My gold is in the heart of every freedom-loving American.
+Homer:	Aw, crap!
+Marge:	It's in our mighty rivers, our majestic -- well, isn't 
+	that clever?  It's a metaphor.
+Homer:	[pounds the earth with his shovel] That lying, rail-
+	splitting, theater-going freak!
+-- "Honest Abe," my ass, "Bart to the Future"
+
+% The mood in Lisa's meeting room isn't much less hostile.  The
+% creditor nations go from wanting to be repaid to calling for Lisa's
+% head.  Just when things couldn't get worse, Bart walks in.
+
+Bart:		You guys should relax; you'll live longer.
+Lisa:		Bart, you're supposed to be at Camp David.
+Bart:		[aside to Lisa] You're meeting with debt collectors 
+		and you don't want my help?  Do you know how crazy 
+		that is?
+		[to the creditors] Guys, the thing is, we totally 
+		have the money, and we tried to wire it to you, but 
+		you know how banks screw up.
+Frenchman:	I do not understand.
+Bart:		We tried to call you all day Saturday.
+German:		We were there Saturday.
+Bart:		Dude, I know.  I left a message with some guy named 
+		Hans.
+German:		Hans?
+Bart:		He might have been a temp.  Very surly.
+German:		We have had a lot of turnover.
+Chinese Man:	You pay now!  Now!  [pounds fist on table]
+Bart:		What happened to you, China?  You used to be cool.
+Chinese Man:	Hey, China is still cool.  You pay later.  Later!  
+		[pounds fist on table]
+Bart:		Solid.  The rest of you go on home, and look in your 
+		mailboxes, cause I totally remember sending checks 
+		out.
+		[murmuring, the creditor nations' representatives 
+		leave]
+-- Bart Simpson, master negotiator, "Bart to the Future"
+
+% Lisa is grateful for Bart's help.
+
+Lisa:	Thanks, Bart.  You bought us some time.  What can I do to 
+	thank you?
+Bart:	Legalize it.
+Lisa:	Legalize what?
+Bart:	[smiles]
+Lisa:	[realizes] Ohhh, oh.  Consider it done.
+-- And that's how it was legalized, "Bart to the Future"
+
+% Figuring the occasion calls for some music, Bart tries to play a
+% cassette on his boom box.  The machine malfunctions and catches
+% fire.
+%
+% Segue to the flames in the manager's office, where the manager says
+% the vision gets hazy after that.  Bart wonders why his vision
+% includes the story of Homer searching for Lincoln's gold, and the
+% manager figures the spirits thought the main vision needed some
+% bolstering.  The main point, however, is that Bart can improve his
+% fate if he pledges to change his ways.  Bart promises to do so, and
+% the manager gives him an (expired) coupon, then disappears in a gust
+% of wind.
+%
+% Lisa walks into the office.
+
+Lisa:	There you are!  Come on, we have to go.  Dad pushed a 
+	waitress and Mom lost twenty thousand dollars.
+	[cut to a shot of Lisa and Bart walking in the parking 
+	lot]
+Bart:	You're not going to believe it, Lis.  This cool Indian guy 
+	showed me our future.
+Lisa:	Really?  Anything good?
+Bart:	I'll say!  I've got my own band, and a moped.
+Lisa:	What about me?
+Bart:	Eh, some government job.
+-- She has to live in public housing, too, "Bart to the Future"
+
+% [End of Act Three.  Time (including flute music):  20:06]
+%
+% The opening bars of the closing theme are played on a flute, after
+% that, they are the normal closing credits.  The Gracie logo sound is
+% Bart saying, "Moochie, moochie!"
+
+
+<|endoftext|>

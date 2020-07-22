@@ -1,0 +1,91 @@
+% H = Homer, M = Marge, B = Bart, L = Lisa
+%
+% The Simpsons family car (with luggage tied to the roof) skids to a halt
+% at a scenic viewpoint.
+
+H: Well, here we are!
+
+% The kids raise their heads from their comics.
+
+B: Where, Weenie Barn?
+L: Yum!  I'll have a couple of jumbo corn dogs, please.
+
+% Back to the front seats, where we see that Marge is also reading a
+% magazine.
+
+H: No, you little fools!  We're at another scenic viewpoint!
+L: [disappointed]  Oh.
+
+% The heads go back into the comics.  (Marge never raised hers.)
+
+H: [losing patience]  Everybody out of the car.
+
+% No reaction.
+
+H: Now!
+
+% A mad dash for the door.  Everybody hops out and stretches.  (Maggie
+% stretches too far and falls over.)  Everybody except Bart, who leans
+% against the car reading his comic book.  Homer walks over, snatches
+% the comic book...
+
+H: Gimme that!
+
+% ... and tosses it over the cliff.  Bart watches it sail into the
+% river below.
+
+B: [disappointed] Great.  Now I'll <never> know what happened.
+
+% Marge and the girls discover a sign that reads ``Echo Canyon''.
+
+M: Oh, look, children.  This canyon is famous for its echo!
+H: Well, whaddya know!
+M: Let's take turns shouting into the canyon.  Lisa, you start.
+L: Okay.  [cups her hands around her mouth]  Boooooorrrinnnnng!
+
+% Her voice echoes through the canyon.
+
+H: Lisa!
+
+% Maggie tugs on Homer's pant leg.  Homer looks up and sees Bart
+% carefully balanced atop a huge boulder at the top of a nearby hill.
+
+B: Cool, man!
+H: Bart!
+
+% Bart loses his balance...
+
+B: Whoa!
+
+% ... and falls off the boulder, sending it crashing (*thud*) (*thud*)
+% down the hill towards the car.  Homer screams.
+%
+% The boulder reaches the bottom of the hill and luckily bounces right
+% over the family car.
+
+H: Whew.
+
+% Homer looks up the hill at Bart, who stands and waves guiltily.
+
+H: Why you little...!
+
+% Homer runs up the hill as Bart scoots off in a cloud of dust.
+%
+% Homer chases Bart down a trail that leads into the canyon below.
+
+H: Bart!  (Bart... Bart... Bart...)
+B: What?  (What?... What?... What?...)
+H: I'm going to kill (kill... kill...) you! (you!... you!...)
+B: Don't have a cow, (cow... cow...) Homer!  (Homer!... Homer!...)
+
+% Marge and the girls watch from the scenic viewpoint.
+
+M: That is a remarkable echo.
+L: [not excited]  Whatever you say, Mom.
+
+% Lisa and Maggie produce their magazines and resume reading.
+% Marge does the same.
+%
+% [End of Act One.  Time: 1:07]
+
+<|endoftext|>

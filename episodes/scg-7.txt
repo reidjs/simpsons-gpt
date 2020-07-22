@@ -1,0 +1,1927 @@
+                          The Simpsons Archive's
+                      Simpsons Syndication Cuts Guide
+
+                          Season Seven (1995-1996)
+
+             "Syndication... is there anything they can't do?"
+
+                         Version 2.25 - 07 Apr 2001
+
+                  Maintained by Chad Lehman <chad@snpp.com>
+       With significant contributions from Tim Reardon <tim@snpp.com>
+                Created by Frederic Briere <fbriere@snpp.com>
+
+
+[==========================[Season Seven Summary]===========================]
+
+Story cut episodes: All episodes were cut.
+Compressed episodes: All episodes were compressed.
+Added content: 3F07.
+
+Story cut episodes: 21:37 (21 min 37 sec)
+Total time added: 0:05 (0 min 5 sec)
+Total time gained: 35:30 (35 min 30 sec)
+
+ ==[ 2F20 ]================================== Who Shot Mr. Burns? Part Two ===
+         CUTS: 80 seconds     GAINED:113 seconds      20:00 / 21:53
+                            Original short opening
+
+~~~~~    ACT I    <0:56>   (1:05)   6:09 / 7:14
+
+          Lisa: Bart, he broke your dog's legs.
+                Grampa, he destroyed your home.
+                And Dad, well, you kinda went berserk when he couldn't
+                remember your name.
+       % Homer: [screaming hysterically] Berserk is right!
+<0:04> %        [delicate] Eh... may I have some iced tea, please?
+
+      {Jason Hancock <jhancoc@blue.weeg.uiowa.edu>}
+
+~~
+         Moe invites Homer in tearing down the sun blocker, which he eagerly
+         accepts.
+
+       % At the top of Mt. Sprinfield, several vehicles are pulling with ropes
+       % at Burns' invention; Otto drives the school bus; Snake, a motorcycle;
+       % Chespirito, a KMEX TV van; and Willy, his tractor -- "Pull, duchess,
+       % pull!" he exhorts. They manage to break it free. It falls down the
+       % side of the hill onto a town on the other side amid much crashing and
+<0:22> % screaming.
+       %
+       %  Krusty: Um, uh... which town did we just crush?
+       % Skinner: Shelbyville.
+       %     All: Yay!
+
+      {Jason Hancock <jhancoc@blue.weeg.uiowa.edu>}
+
+~~
+         Smithers: And when he tried to steal our sunlight, he crossed that
+                   line between everyday villainy and cartoonish
+                   super-villainy.
+       % Colossos: [in prison cell] Bah! He was a rank amateur compared to Dr.
+       %           Colossos!  [laughs maniacally]
+<0:13> %           [pushes "Colosso Boots" button in his belt]
+       %           [his boots send him right into the ceiling]
+       %           Ow! Ooh... [groans]  When is my lawyer coming?
+
+      {Liam J. Scanlan <tscanlan@highlander.cbnet.ns.ca>}
+
+~~
+              Mel: Officers, you have arrested an innocent man.
+           Wiggum: Really?
+       %           Aw, jeez. [pushes a button, which opens a cell]
+       %           All right, Colossos, you're free to go. But stay away from
+<0:11> %           Death Mountain.
+       % Colossos: [sulky] But all my stuff is there...
+       %      Mel: [clears throat] I was referring to Waylon Smithers.
+
+      {Liam J. Scanlan <tscanlan@highlander.cbnet.ns.ca>}
+
+~~
+         Smithers: So, instead of wounding an evil old man, I may have killed
+                   an innocent old man. [sniffs] That's much worse!
+       %   Krusty: About 50,000 volts worse, if you know what I mean!
+<0:06> %           [mimics lowering a lever]
+       %           [makes electrocuting sound effects]  Sizzle!
+
+      {Jason Hancock <jhancoc@blue.weeg.uiowa.edu>}
+
+
+~~~~~    ACT II   <0:16>   (0:30)   7:48 / 8:18
+
+          Lisa: Liquor connoisseur Barney Gumbel: when Moe's closed, Barney
+                lost his only means of support -- sucking coins out of the
+                Love Tester machine.
+<0:02> % Eddie: That's a *real* good way to get sick.
+
+      {Jason Hancock <jhancoc@blue.weeg.uiowa.edu>}
+
+~~
+           Abe: You accuse me of everything around here!
+                "Who put slippers in the dishwasher?"
+                "Who threw a cane at the TV?"
+<0:03> %        "Who fell into the china hutch?"
+         Marge: I was just asking if you'd seen it. There's no need to be a
+                prickly pear. [walks out]
+       %         [her footsteps are heard off-screen for a brief moment]
+       %   Abe: [pulls gun from shirt and carresses it]
+       %        Oh, you're the bee's knees, baby. I missed you bad.
+<0:11> % Marge: Were you talking to me, Grampa?
+       %   Abe: Um... yes...
+       % Marge: [shudders]
+
+
+~~~~~    ACT III  <0:08>   (0:18)   6:03 / 6:21
+
+          Lisa: And we don't even know whose gun that was. Maybe somebody
+                planted it there to frame Dad.
+         Marge: No... we can't start thinking that way about our own family
+                members. Suspicion could tear us apart.
+       %   Abe: That's right. We've all gotta stick together if we're gonna
+<0:08> %        have any hope of bringing that awful Homer to justice.
+
+      {Jason Hancock <jhancoc@blue.weeg.uiowa.edu>}
+
+~~
+       ! Taken from The Simpsons 138th Episode Spectacular:
+       !
+       ! "To keep this bombshell secret, the producers animated several
+       !  solutions that were never intended to air. [...] And to keep the
+       !  show's animators, editors, staff, and hangers-on from leaking the
+       !  solution, two completely different endings were produced: one real,
+       !  one phony.  Here's the ending you were never meant to see."
+
+            Burns: The one who shot me was...
+       #            [camera pans to Smithers]
+|0:10| #           Aah! Aah! Waylon Smithers!
+       # Smithers: [pained]  Noo! Wait a minute: yes.
+
+            Burns: With the sun blocker in place and the town aghast, I was on
+                   top of the world. So I wanted to kick up my heels and
+                   indulge my sweet tooth.
+
+         Flashback to Burns walking toward parking lot:
+
+            Burns: I feel like celebrating.  [sees Maggie]
+                   Oh, it's you. What are you so happy about?
+                    [she smiles, holding up a lollipop]
+            Burns: [gasps] I see.
+
+            Burns: Smithers had thwarted my earlier attempt to take candy from
+                   a baby. But with him out of the picture, I was free to
+                   wallow in my own crapulence.
+       #           Or so I thought -- but at the last moment, Smithers, drunk
+       #           as a lemur, lurched out of the darkness and fired.
+|0:16| # Smithers: [remembering] That's right. Right before I shot Jasper.
+       #           Hmm, I was busy that night.
+            Burns: Stricken, I lurched forth in search of aid, but finding
+                   only slack-jawed gawkers, I gave up and collapsed on the
+                   sundial.
+             Lisa: Then, with your last ounce of strength, you pointed to W
+                   and S:
+|0:02| #           "Waylon Smithers".
+            Marge: Well, I'm just relieved that Homer's safe and that you've
+                   recovered and that we can all get back to normal.
+       #    Burns: Not exactly. Smithers, for attempting to kill me, I'm
+|0:11| #           giving you a 5% pay cut.
+       # Smithers: [howling] Ohh.
+
+
+ ==[ 2F17 ]=============================================== Radioactive Man ===
+         CUTS: 52 seconds     GAINED: 87 seconds      19:51 / 21:18
+                            Original short opening
+
+  ~~~~~  ACT I    <0:07>   (0:19)   7:11 / 7:30
+   
+       * Compression starts w/"Need know star rm pic"
+
+ ~~
+         The hospital's sign: "Our extra patients make patient extras".
+
+       % Homer flips through the channels quickly, and each person he flips 
+       % past says one syllable in the sentence, "Everyone is talking about
+       % Radioactive Man, y'all."
+       %
+       %     David Letterman: [waving, sitting behind desk] Ev--
+       %     Scott Christian: [front view, sitting] er-
+       %               Woman: [interviewing Krusty] y--
+       %        Troy McClure: [on Smartline set, sitting w/Stacy Lovell &
+       %                      another guy] --one
+       %        Brad Goodman: [sitting w/group of women] is
+       %       Lady reporter: [outside the comic book shop] tal--
+<0:07> %         TV reporter: [comic graphic behind him] king--
+       %   Financial analyst: ["caging" his fingers] a--
+       %               Woman: [On Lifetime network, sitting in group, holding
+       %                      a comic book] --bout
+       %                Carl: [Marty from Bill & Marty interviews Carl
+       %                      outside the plant] ray--
+       %      Angry reporter: [outside the school] di--
+       % Sally Jessy Raphael: oh--
+       %        Birch Barlow: ac--
+       %       Thin reporter: [on Springfield News] tive--
+       %         Joan Rivers: [interviewing sexy woman] --ma-
+       %       Conan O'Brien: [interviewing two Kid & Play lookalikes] --an
+       %   Southern reporter: --y'all!
+
+         The close up of the Little Rascals poster is shown, with a young Moe
+         surrounded by the gang.
+
+       ! Yes, there's an extra "man" syllable in there...
+
+
+   ~~~~~  ACT II   <0:45>   (0:58)   7:31 / 8:29
+
+
+         Assistant: Ahem, I've got an idea Mr. Simpson.  Why don't you get
+                    something to eat from our food truck?
+                    [Homer flies off; a cloud of dust retains his form]
+                    Mist -- Mr. Simpson?  [pokes at dust]
+ 
+       % Krusty walks into a trailer.
+       % 
+       %    Krusty: You've got to give me the part of Crispy the Clown!
+       %  Director: I'm sorry: you're wrong for the part.
+       %    Krusty: But look at my range!  [holds out photograph]
+<0:27> %            [pictures show Krusty laughing, frowning, saluting in a
+       %            sailor cap, and looking through a microscope]
+       % Assistant: Well, I'm sorry: Crispy the Clown has been cast.  But I 
+       %            will hire you for Angry the Crown, Silly Sailor, and Dr. 
+       %            Clownius.
+       %    Krusty: I _won't_ let you down.  [the men leave]
+       %            Well, I _might_ let you down on Silly Sailor.
+
+       ! Someone might fail to notice that Krusty's three parts coincide with
+       ! three of his "range" photos. I know this has nothing to do with the
+       ! actual synd cut, but if I don't mention it here, the fact may be
+       ! lost. Also--when Rainier Wolfcastle (as RM) says "I can't believe
+       ! Silly Sailor beat us both up, [yadda yadda] and imprisoned us in
+       ! this Aquaworld"--we're left to explain who "Silly Sailor" is. Upon
+       ! finally seeing 2F17 unsyndicated, now I know where "Silly Sailor"
+       ! comes from.
+
+ ~~       
+         X-ray machine blasts Milhouse's face; his skull becomes visible
+
+       % Close up on can of paint at a man's feet. Nelson, Ralph, and Martin
+       % watch a two men wearing "lightning bolt caps" paint black patches on
+       % a horse.
+       %
+<0:14> %  Martin: Uh, Sir, why don't you just use real cows?
+       % Painter: Cows don't look like cows on film.  You gotta use horses.
+       %   Ralph: What do you do if you want something that looks like a 
+       %          horse?
+       % Painter: Ehh, usually we just tape a bunch of cats together.
+
+ ~~
+         The damage left in the wake of the acid wave is total.
+
+         Director: [angry] Where in the hell is Milhouse? That one shot cost
+                   us a million dollars!"
+       %   Krusty: [off-screen; just as angry] Where's the producer?
+       %
+       % Krusty is wearing large, red novelty glasses & a white lab coat--
+<0:04> % presumably as "Dr. Clownius". He holds a styrofoam cup.
+       %
+       %   Krusty: I want [points] to talk [points] a-bout [points] this
+       %           coffee! [points] 
+
+
+  ~~~~~  ACT III  <--->   (0:10)   5:09 / 5:19
+
+
+ ==[ 3F01 ]======================== Home Sweet Home- Diddily- Dum- Doodily ===
+         CUTS: 52 seconds     GAINED: 76 seconds      20:06 / 21:22
+                            Original short opening
+
+~~~~~   ACT I   <0:10>   (0:18)   6:20 / 6:38
+
+       * Compression starts when Marge looks at the tickets.
+
+~~
+
+         At the spa, Marge and Homer lie in mud baths.  A woman's voice
+         intones soothingly, "All is well...all is well."  [MR] Suddenly, a
+         man's voice cuts in: "Turn tape over!"  The tape rewinds,
+       % then resumes its gentle chanting.  The Simpson parents sink
+       % blissfully into the mud.
+<0:06> %
+       % Homer/Marge: Ahhhhhh....
+
+~~
+
+         Marge: Mmm! [reading] "Squalid hell hole?"  "Toilet paper hung in
+                improper overhand fashion?"
+       %        "Dogs mating on dining room table?"
+<0:04> %        [looking guilty, SLH whines and lies down]
+
+
+~~~~~    ACT II   <0:30>   (0:35)   7:26 / 8:01
+
+            Lisa: You don't understand.  Mom and Dad take good care of us.
+                  [one of her teeth falls out]
+                  That was a baby tooth.  [whistles on the "th"]
+                  It was loose!  [whistles on the "s"]
+       % Agent 2: Don't you worry, little girl.  We'll get you some nice
+<0:04> %          <county> dentures.
+
+~~
+         Laughing, Itchy smashes a bottle, and uses it to dig two big bloody
+         chunks out of Scratchy's chest.  Scratchy collapses, and Itchy walks
+         over him into the house, then back out again with a TV.
+       % He walks away laughing, leaving a trail of bloody footprints.
+       %
+<0:09> % Scratchy: [weeps weakly] Why? Why? My only son... Oh... Oh...
+       %           [collapses dead]
+
+         Bart and Lisa laugh.  Rod and Todd, however, are pale and
+         frightened.
+
+          Rod: Daddy, what's the red stuff coming out of kitty's ears?
+          Ned: Uh, duh--that's, uh-- just... raspberry jam.
+         Todd: Dad, should I poke Rod with a sharp thing like the mouse did?
+          Ned: No, son.  No siree, Bob.
+
+       % Bart still looks excited from the cartoon. He looks up at Ned,
+<0:02> % then back at the TV.
+
+~~
+
+<0:05> % Five seconds of Ned and Maggie’s peekaboo is cut.
+
+~~
+         Marge: It's so quiet here without the kids.
+         Homer: What I wouldn't give to hear Lisa play another one of her
+                jazzy tunes.
+                [talks into her saxophone to the tune of Beethoven's fifth]
+                Sax-o-ma-phone!  Sax-o-ma-phone!  [sighs] Oh. [sits]
+       % Marge: I miss the way Bart would say something, and then say "dude."
+       % Homer: I wish I knew something about the baby I could miss now.
+<0:10> % Marge: You mean Maggie?
+       % Homer: That's it.
+         Marge: I've never been separated from the kids for so long.
+
+
+~~~~~   ACT III   <0:12>   (0:23)   6:20 / 6:43
+
+         Ned: Today we write a new page in the Flanders Family Bible!
+              [he leads the kids into the water]
+              Who wants to be the first to enter God's good graces?
+              [Bart and Lisa point to each other]
+
+       % A couple of movers haul Reverend Lovejoy's train track across the
+       % road.
+       %
+       % Lovejoy: Easy... Easy...
+       %
+       % As they reach the middle of the road, tires squeal, and Homer's car
+       % smashes through the track.
+<0:12> %
+       % Lovejoy: [looking heavenward] Oh, why do you hate my trains?
+       %
+       % Ned stands in the river wearing a white robe, holding a bible and
+       % a golden goblet. Standing below him, Bart looks up at Ned forlornly.
+       % Ned smiles, and nods.
+
+         Homer and Marge arrive.
+
+ ==[ 3F02 ]=========================================== Bart Sells His Soul ===
+         CUTS: 49 seconds     GAINED: 82 seconds      19:58 / 21:20
+                            Original short opening
+
+  ~~~~~  ACT I    <---->   (0:12)   8:36 / 8:48
+
+       * Compression starts with the children reciting Lovejoy's threats.
+
+
+  ~~~~~  ACT II   <0:08>   (0:17)   5:01 / 5:18
+
+         Homer watches Moe's ad on TV:
+
+           Moe: And remember our guarantee: if I'm not smiling when your check
+                comes, your meal's on me:
+       %                                  Uncle Moe's!
+       %        [smiles right into the camera; giggles by moments]
+  <08> %         [the jingle plays]
+       %    TV: Come to Uncle Moe's for family fun, it's good, good, good,
+       %        good, good good-good!
+         Homer: Mmm. Sounds good.
+
+       ! CC did not cut "Uncle Moe's". BTW, note *again* that Homer's line
+       ! loses all its meaning.
+
+
+  ~~~~~  ACT III  <0:41>   (0:53)   6:21 / 7:14
+
+         Wiggum: Son, you wait here while Daddy tries to talk some sense into
+                 this raving derelict.
+            Man: [yells mostly unintellegible stuff, one line being something
+                 along "you stole my $50"]
+         Wiggum: Now, slow down, slow down.
+            Man: [raves some more, something about "Albert Hitchcock stole
+                 every idea I ever had"]
+       % Wiggum: Who's been stealing your thoughts?
+       %    Man: [something about "The Olde Curiosity Shoppe" and "John
+  <07> %         Gielgud" -- I hear "and they pull everything" among this
+       %         mess]
+
+       ! If someone manages to decipher this dialect, I'd be glad to hear
+       ! about it. <g>
+
+   ~~
+         Moe closes down his Family Feedbag.
+
+            Moe: Go on, take it all. Get it all out of here.
+         Barney: You know, Moe, you might wanna keep the fire extinguishers.
+            Moe: Nah. Too many bad memories.
+       % Barney: Well, look at the bright side, Moe: you still got us.
+       %    Moe: Yeah. Yeah, you know, that -- that actually makes me feel a
+       %         little better.
+       %  Homer: Why? That was the problem in the first place: you were going
+       %         broke because we were your only customers.
+       %          [Moe stares down, depressed]
+       %         Wasn't that the problem in the first place? That you were
+       %         going broke?
+  <34> %          [Moe doesn't move a muscle]
+       %         Moe? Moe? Hey, Moe? Oh, you're thinking about all the money
+       %         you blew, aren't you?
+       %          [Moe nods]
+       %         What was it? Fifty, sixty thousand dollars? Moe? Look, maybe
+       %         it would help if you went over all the mistakes you made from
+       %         the beginning. Moe?
+       %    Moe: [finally loses it] What?!
+       %  Homer: Let me get a pad.
+
+
+ ==[ 3F03 ]=========================================== Lisa the Vegetarian ===
+         CUTS: 52 seconds     GAINED: 82 seconds      19:59 / 21:21
+                            Original short opening
+
+  ~~~~~  ACT I    <0:41>   (0:43)   4:40 / 5:23
+
+         OFF watches "The Three Little Pigs":
+
+         Homer: Aw, it was good, but not great.
+
+       % Next, they're inside the Three Bears' house for Goldilocks.
+       %
+       % Father Bear: Somebody's been sleeping in *my* bed.
+       % Mother Bear: [distorted by some technical problem]
+       %              Somebody's been sleeping in *my* bed.
+       %   Baby Bear: Somebody's been sleeping in *my* bed.
+       %      Grampa: Well, I'm sorry but it was 150 degrees in the car.
+       %
+  <41> % Bart approaches the Toddlerville Trolley. A green elf says "You must
+       % be shorter then this to ride", but Bart maliciously limbos under the
+       % elf's arm, singing "Limbo Rock". Snickering, he hops a train car; "So
+       % long, suck--" he shoots, when his face hits the tunnel opening and
+       % pushes the tunnel along, uprooting poles and trees throughout the
+       % way. Finally, train, tunnel and Bart bump into Paul Bunyan's statue,
+       % whose his axe chops Mother Goose's head off. All the children on the
+       % train cheer after this much enjoyment.
+
+
+  ~~~~~  ACT II   <0:11>   (0:29)   9:13 / 9:42
+
+               Bart: [in conga rhythm]
+                     You don't win friends with salad!
+                     You don't win friends with salad!
+         Homer+Bart: You don't win friends with salad!
+                     You don't win friends with salad!
+                     You don't win friends with salad!
+       %             You don't win friends with salad!
+       % Both+Marge: You don't win friends with salad!
+       %             You don't win friends with salad!
+  <11> %             You don't win friends with salad!
+       %       Lisa: Mom!
+       %      Marge: I didn't mean to take sides, I just got caught up in the
+       %             rhythm.
+
+      {Liam J. Scanlan <tscanlan@highlander.cbnet.ns.ca>}
+
+
+  ~~~~~  ACT III  <---->   (0:10)   6:06 / 6:16
+
+
+ ==[ 3F04 ]======================================= Treehouse of Horror VI ===
+         CUTS: 49 seconds     GAINED: 86 seconds      19:50 / 21:16
+                           Complete special opening
+
+~~~~~    ACT I    <0:16>   (0:27)   6:00 / 6:27
+
+       * Compression starts at Zip Boys.
+
+~~
+         Technical difficulties sign appears on TV.
+
+       % Otto drives the school bus. He suddenly jams on the brakes. The Red
+       % Devil Realty mascot (a devil) picks up the bus as children scream.
+       %
+       % Otto: Whoa, another acid flashback. Man, I'd hate to be driving a
+<0:16> %       bus right now!
+       %
+       % The devil peeks inside. Elsewhere, Mr. Peanut, the Planters
+       % mascot, picks up a car full of people, opens it like a peanut, and
+       % pops the people into his mouth.
+
+         While writing a ticket for an expired meter, Chief Wiggum spies a
+         large man walking out of a store.  He pulls his gun and shoots him.
+
+
+ ~~~~~    ACT II   <---->   (0:16)   7:17 / 7:33
+ ~~~~~    ACT III  <0:33>   (0:43)   6:33 / 7:16
+
+             Lisa: Well, where's my Dad?
+            Frink: Well, it should be obvious to even the most dim-witted
+                   individual (who holds an advanced degree in hyperbolic
+                   topology, n'gee) that Homer Simpson has stumbled
+                   into...[the lights go off] the third dimension.
+
+       % Alarmed at the darkness, Frink looks over his shoulder.
+       %
+       %     Lisa: [turning the lights back on] Sorry.
+       %    Frink: [drawing on a blackboard] Here is an ordinary square --
+       %   Wiggum: Whoa, whoa -- slow down, egghead!
+       %    Frink: -- but suppose we exte-end the square beyond the two
+       %           dimensions of our universe, along the hypothetical Z axis,
+<0:33> %           there.
+       % Everyone: [gasps]
+       %    Frink: This forms a three-dimensional object known as a "cube",
+       %           or a "Frinkahedron" in honor of its discoverer, n'goohey,
+       %           n'hey.
+       %    Homer: [disembodied] Help me!  Are you helping me, or are you
+       %           going on and on?
+       %    Frink: Oh, right.  And, of course, within, we find the doomed
+       %           individual.
+           Wiggum: Enough of your borax, poindexter!  A man's life is at
+                   stake... We need action!
+
+
+ ==[ 3F05 ]=============================================== King-Size Homer ===
+         CUTS: 46 seconds     GAINED: 82 seconds      20:02 / 21:24
+
+  ~~~~~  ACT I    <---->   (0:13)   7:42 / 7:55
+
+       * Compression starts when Homer asks where Charlie is.
+
+
+  ~~~~~  ACT II   <0:46>   (1:01)   8:09 / 9:10
+
+         Farmer: Oh, no! The corn. Paul Newman's gonna have my legs broke.
+
+       ! This line was dubbed at the last minute, as it was originally meant
+       ! to be "Jolly Time". Last-minute changes are never perfect, and
+       ! captioning of the original episode wasn't edited accordingly. This
+       ! was corrected in syndication, where captioning indeed reads "Paul
+       ! Newman".
+
+   ~~
+          Lisa: Mom! This whole thing is really creepy. Are you sure you won't
+                talk to Dad?
+         Marge: Mmm... I'd like to, honey, but I'm not sure how. Your father
+                can be surprisingly sensitive.
+       %        Remember when I giggled at his Sherlock Holmes hat? He sulked
+  <06> %        for a week and then closed his detective agency.
+
+   ~~
+         Marge: I'm going out. I run errands during the day.
+         Homer: Could you pick me up a lemonade and a beer?
+                 [door slams]
+       %        [moans]
+       %
+       % A little while later, Homer boringly presses the "Y" key (much
+       % thinner than the other ones), almost drifting to sleep, when he hears
+       % a sqeaking.
+       %
+       % Homer: [gaps]  The mail. The mail is here!
+       %         [rushes to the door and picks up the mail]
+       %        Ooh.
+       %        [reads one letter]  "An urgent plea from Edward James Olmos."
+  <40> %        [reads another one]  "Lisa Simpson: Can you afford to miss
+       %                             another issue of the Utne Reader?"
+       %        [chuckles]  Kids.
+       %        [gasps as something else slides through the mail slot]
+       %        Free sample of fabric softener? Woo-hoo!
+       %
+       % He goes down to the basement and dries his hat.
+       %
+       % Homer: [putting it on]  Mmm... I _can_ feel three kinds of softness.
+       %  Lisa: [from upstairs]  Dad, what are you doing down there?
+       % Homer: Washing my fat guy hat, honey.
+
+         Later that day, he watches "Search for the Sun".
+
+       ! Both the start and end of this cut were fade-ins, with much of
+       ! overlapping. In syndication, the soundtrack of "Search for the Sun"
+       ! overlaps on the previous scene. However, this also means Homer's
+       ! moaning was cut, rendering the whole scene useless.
+
+
+  ~~~~~  ACT III  <---->   (0:08)   4:11 / 4:19
+
+
+ ==[ 3F06 ]================================================ Mother Simpson ===
+         CUTS: 51 seconds     GAINED: 83 seconds      20:07 / 21:30
+                                Original couch
+
+       ! Much more cuts than usual, but they don't amount to a large figure;
+       ! this syndicated episode is actually the longest non-ToH there is,
+       ! on par with 9F15 and 1F13. In fact, it seems as the whole season is
+       ! generating rather long syndies, which could mean syndicators are
+       ! growing leninent on cuts -- let's keep praying!
+
+
+  ~~~~~  ACT I    <0:15>   (0:20)   4:56 / 5:16
+
+         Marge: Homer?
+         Homer: That's my name.
+         Marge: When I asked you if that dummy was to fake your own death, you
+                told me no. You go downtown first thing in the morning and
+                straighten this out.
+       %  Lisa: Mom! Dad! Bart ran into a doorframe and bit his tongue!
+  <06> %  Bart: [lisping] What the heh'th goin' on heah?
+
+   ~~
+               Homer: I thought you were dead!
+             Grandma: I thought _you_ were dead!
+       % Gravedigger: Oh, dang blast it. Isn't anybody in this dad-gummed
+       %              cemetery dead?
+  <09> %        Hans: [in a coffin] I didn't want to cause a fuss, but now
+       %              that you mention it...
+       %               [the coffin lowers into the hole]
+
+       ! Now, what do you think of _that_ as for the end of an act?
+
+
+  ~~~~~  ACT II   <0:15>   (0:32)   9:24 / 9:56
+
+         Grandma: You must have been so upset. But I suppose Abe has his
+                  reasons.
+  <01> %   Homer: Yeah...
+                  Well, where have you been all this time?
+
+   ~~
+       ! Ricardo Lafaurie notes that the captioning after Homer "spoils the
+       ! moment" indicates a car honking, possibly signifying there's a cut
+       ! joke about the taxi driver in that scene. (Remember, he was
+       ! interrogated in the 3rd act, coming out of nowhere.)
+
+   ~~
+           Marge: I'm so sorry I misjudged you, Mom. You _had_ to leave to
+                  protect your family.
+       %    Lisa: How did you survive?
+       % Grandma: Oh, I had help from my friends in the underground. Jerry
+       %          Reuben gave me a job marketing his line of health shakes, I
+  <14> %          proofread Bobby Seale's cookbook, and I ran credit checks at
+       %          Tom Hayden's Porsche dealership.
+       %   Homer: Wait a minute...
+                  There's one thing I don't understand: in all those years,
+                  why didn't you ever try to contact me?
+
+
+  ~~~~~  ACT III  <0:21>   (0:31)   5:47 / 6:18
+
+         Smithers: Uh, Sir, phrenology was dismissed as quackery 160 years
+                   ago.
+            Burns: Of course _you'd_ say that: you have the brainpan of a
+                   stagecoach tilter.
+           Gannon: At any rate, the FBI will track down this mystery woman and
+                   put her behind bars.
+                    [he and Friday walk away]
+       %            [outside Burns' office, they close the door]
+       %   Gannon: How does it happen, Joe?
+       %   Friday: How does what happen?
+       %   Gannon: How does a sweet young lady mortgage her future for a bunch
+       %           of scraggly ideals and greasy-haired promises?
+  <21> %   Friday: Maybe she thought the war on southeast Asia was so immoral,
+       %           her end justified the means.
+       %   Gannon: Gee, Joe, you haven't been the same since your son went
+       %           crazy in Vietnam.
+       %   Friday: It's a pain that never ends.
+       %            [they nod and walk away as the "Dragnet" theme plays]
+
+   ~~
+       ! Another last-minute replacement: the song "Waterloo" was put in
+       ! instead of "Don't You Want Me, Baby?". Captioning in the original
+       ! version wasn't edited accordingly, but I didn't have the chance to
+       ! check this out in syndication.
+
+
+ ==[ 3F08 ]================================== Sideshow Bob’s Last Gleaming ===
+         CUTS: 61 seconds     GAINED: 87 seconds      19:53 / 21:20
+                            Original short opening
+
+~~~~~   ACT I   <0:23>   (0:27)   7:41 / 8:08
+
+         Homer, Marge, Lisa and Bart are excited by news of the Air Show in
+         the Springfield Shopper.
+
+         All but Marge: Yeah!  Yes.  All right!
+                 Marge: [nonplussed] Yeah.
+       %          Lisa: I want to meet the first female Stealth Bomber pilot.
+       %                During the Gulf War she destroyed seventy mosques and
+       %                her name is Lisa too.
+<0:16> %          Bart: I want to see some birds get sucked into the engines.
+       %                _Rare_ ones.
+       %         Marge: This year I'm making ear plugs out of biscuit dough.
+       %                [the oven bells sounds]
+       %                They're ready!
+
+~~
+
+       * Compression starts with Hapablap's "Sweet Enola Gay, son."
+
+~~
+         Sideshow Bob: [sly] Except, perhaps, a mushroom cloud...
+
+         Bob pushes the bomb in a wheelbarrow, laughing louder and louder.
+<0:07> % Bob hits a bump, and carefully stops... he starts slowly, then begins
+       % laughing again.
+
+~~~~~   ACT II   <0:38>   (0:51)   7:20 /8:11
+
+         Hapablap: To slip the surly bonds of earth, and touch the face of
+                   God. To FLY! -- the dream of man and flightless bird alike.
+                   And now, hold on tight,
+       %               as we blast through the thrilling highlights of aviation
+       %           history!  Say, did somebody say "box kites?"
+       %     Bart: No!
+<0:23> %           [everyone groans as kids with box kites walk out, to
+       %           the strains of "Up, Up and Away"]
+       %   Martin: [into mic] The common box kite was originally used as a
+       %           means of drying wet string.
+
+         Cut to a scene of Bob whistling while preparing the bomb.
+
+       % "Up, up and away" is very load and screechy.  Marge covers her ears.
+       %
+<0:15> %    Marge: Do they have to play that rock music?  Every note is
+       %           pounding into my skull!
+       %           [the central part of the speaker shoots through her hair]
+       %           [turning around] Huh!?
+       %
+         % Bob lays wire, whistling.
+
+         Hapablap: Anybody out there feel the need for speed?
+
+~~~~~  ACT III  <---->   (0:09)   4:52 /5:01
+
+
+ ==[ 3F31 ]======================== The Simpsons 138th Episode Spectacular ===
+         CUTS: 51 seconds     GAINED: 87 seconds      18:04 / 19:31
+                                Original opening
+
+~~~~~   ACT I   <0:51>   (1:02)   5:17 / 6:19
+
+         Homer: We may be the best parents in the world.
+         Marge: [sweetly] Mmm...  Good night, dear.
+         Homer: Good night.
+
+         They kiss.
+
+       % The three kids suddenly appear in the doorway, waving their arms
+       % frantically and talking simultaneously.
+       %
+       %  Bart: Dad, what you were saying about mind over matter?  Could you
+       %        be more specific?
+       %  Lisa: Mom, are those bedbugs?! I see 'em! They're at the window!
+       %        They're look--!...
+       %
+       % Marge and Homer react.
+       %
+       % Marge: [sigh]  All right, climb in.
+       %
+<0:22> % The kids jump in.  Bart next to Marge, Lisa next to Homer, and
+       % Maggie between her parents.  All three shiver.
+       %
+       % Homer: There's nothing to worry about.  Now, everyone go to sleep.
+       %        Good night.
+       %
+       % The lights go off, and one by one, the family members close
+       % their eyes.  Maggie is last to shut her eyes.
+       %
+       % Maggie: Goo' nigh'.
+
+~~
+
+         Lisa: And you'll be...  Bartron, the evil robot from Mars,
+               gone berserk.
+
+         Bart flails his arms and falls, losing his balance.
+
+
+       % Downstairs in the living room.  Maggie stands in front of the couch,
+       % Bart slightly to her left (our right), and Lisa to Bart's left.
+       % Maggie salutes repeatedly.  Lisa holds a mallet in her hands.
+       % Bart tries (unsuccessfully) to remove the vase.  The muffled tones
+       % continue.  The end of the couch nearest Maggie has been pulled a few
+       % feet away from the wall.
+       %
+       % Lisa: Do I understand you correctly, Bartron?
+       %       Do you wish me to release you from the helmet of evil thoughts
+       %       with my enchanted space wand?
+       %
+       % Bart raises his arms and tries to say `Yes, yes, yes!', but it comes
+       % out more like `Mmph, mmmph, mmmmmph!'.
+<0:29> %
+       % Lisa: I will do it, Bartron.  But who knows what mysterious forces
+       %       will be unleashed!
+       %
+       % Lisuey smashes the helmet.  Bart's face is disfigured, his eyes
+       % askew.
+       %
+       % Lisa: Oh no, inside the evil Bartron is a horrible mutant boy.
+       %
+       % Bart staggers, dazed.  Lisuey and Magina have sought refuge behind
+       % the couch.
+       %
+       % Lisa: [whispering] We'll be safe here 'til Mom and Dad, the evil
+       %       overlords, get home.
+
+~~~~~   ACT II   <---->   (0:09)   4:40 / 4:49
+~~~~~   ACT III  <---->   (0:16)   8:07 / 8:23
+
+
+ ==[ 3F07 ]============================================ Marge Be Not Proud ===
+         CUTS: 48.5 seconds     GAINED: 80 seconds      19:59 / 21:19
+                            Original short opening
+
+~~~~~   ACT I   <0:00.5>   (0:08.5)   6:04 / 6:13
+
+         % After Homer tells Bart the story of his electric football game, he
+<0:00.5> % walks away. One of his three steps is cut.
+
+         * Compression starts when Bart climbs into bed.
+
+~~~~~   ACT II   <0:38>   (0:49)   6:57 / 7:46
+
+         The store Santa Claus crushes a candy cane.
+
+       % Bart and the security guard walk back through where the mannequins
+<0:07> % are stored and up to his office.
+
+         Brodka [security guard] lights a cigarette, and takes a puff.
+
+~~
+
+       ! This line was in the syndicated version, yet not the original:
+
+          Brodka: You know, that kind of mush might fly at Lamps Plus, but
+                  don't peddle it here.
+       +                                If I wanted smoke blown up my ass,
+<-0:05>+          I’d be at home with a pack of cigarettes and a short length
+       +          of hose.
+
+          Bart laughs nervously.
+
+          Brodka: That's it, Mr. Comedian.  I'm calling your parents!
+
+~~
+
+         Brodka: Well, do you understand?
+           Bart: Everything except "capice".
+
+       % Brodka tries eating some cheez 'n' crackers, but the cracker breaks
+<0:08> % as he spreads the cheez on it.
+       %
+       % Brodka: Lousy, stinkin' piece of crap!
+
+~~
+
+         Bart hides the answering machine tape.
+
+       % In the kitchen, Marge opens the refrigerator.
+       %
+       % Marge: Homer, didn't you get any milk?  All I see is egg nog.
+<0:15> % Homer: 'Tis the season, Marge!  We only get thirty sweet noggy days.
+       %        Then the government takes it away again.  [pours some on his
+       %        cereal]
+       %  Lisa: [chokes on her cereal] I think I'm having chest pains.
+
+         Bart walks in whistling.
+
+~~
+         Bart jumps off Homer's shoulders into a chair, and sighs with relief.
+         He then runs away nervously as alarms go off and arrows flash at the
+         chair: "Folding chair riot!  $9.99!"
+
+       % Marge looks dreamily at a jeweled watch in a display case.
+       %
+       % Marge: Oh, Homey, look at that watch.  I've always wanted a watch
+<0:13> %        like that.
+       % Homer: [sly] Well, maybe someone will give you one for Christmas.
+       % Marge: [pleased] Mmm.
+       % Homer's Brain: Now she'll really be surprised when she opens that
+       %                ironing board cover.
+
+
+~~~~~   ACT III   <0:10>   (0:22)   6:58 / 7:20
+
+         Marge: Since I got my present early, I think you should get yours
+                early too.
+       %  Lisa: Bart got a present early?  Then I should get a present early!
+<0:10> %        I want a present.
+       % Marge: Lisa, you have to wait.
+       %  Lisa: [mutters] Oh, great. This is the worst Christmas ever.
+
+
+ ==[ 3F10 ]==================================================== Team Homer ===
+         CUTS: 50 seconds     GAINED: 84 seconds      20:00 / 21:24
+                            Original short opening
+
+  ~~~~~  ACT I    <---->   (0:09)   5:52 / 6:01
+
+       * Compression starts with Homer's "The all ighty ollar?"
+
+
+  ~~~~~  ACT II   <0:50>   (1:01)   6:14 / 7:15
+
+         Martin and Lisa pose with the new uniforms.
+       % Skinner motions for Willy to come in, driving an elevator with "Mr.
+       % Boy" and "Mr. Boy for Girls" crates.
+       %
+  <12> % Skinner: All right, pick your size: extra-small or extra-large. We've
+       %          got both. No pushing now, I... what?
+       %          [Doris whispers in his ear] Oh. I've just been informed:
+       %          we've run out of extra large.
+
+         At Barney's, the Pin Pals are playing against the DMV Regulation
+         Kings.
+
+          Homer's Team: Go, Moe! Go, Moe! Don't make Homer shout out "D'oh"!
+                         [Moe rolls a strike]
+          Homer's Team: Yay!
+       % Patty & Selma: Urgh...
+       %
+       % The Pin Pals move to 3rd, and are now against the Springfield Police
+       % Framers. Apu rolls another strike, but Wiggum, Lou and Eddie have a
+       % secret weapon...
+       %
+       % Wiggum: All right, Snake. Make us proud.
+       %          [Lou and Eddie unchain him]
+  <24> %  Snake: [picks up his ball, walks to the line]  One, two, three...
+       %         [crosses the line] four five six seven eight nine ten!
+       %         [drops his ball, runs for the lane door]
+       %         [pops his head out]  Bye!  [slams door]
+       % Wiggum: Uh... we forfeit.
+       %          [the Pin Pals laugh and cheer]
+       %
+       % The Pin Pals move up to 2nd, just behind the Holy Rollers.
+
+
+  ~~~~~  ACT III  <---->   (0:14)   7:54 / 8:08
+
+         Homer: You gotta start acting more like me and my team, the future
+                champions of the world. Nothing's going to stop us now!
+
+         At the very moment, in Burns' office:
+
+       %    Burns: Stop everything! I don't remember writing a check for
+       %           bowling?
+       % Smithers: Uh, Sir, that's a check for your _boweling_.
+  <14> %    Burns: Oh, yes. That's very important.
+       % Smithers: Yes, Sir. Remember that month you didn't do it?
+       %    Burns: Yes... that was unpleasant for all concerned. Anyway, back
+       %           to the checks.
+                   Stop everything! I don't remember writing a check for
+                   bowling!
+         Smithers: Hmm... The memo says: "To my pal, Poppin' Fresh."
+
+
+ ==[ 3F09 ]============================================= Two Bad Neighbors ===
+         CUTS: 48 seconds     GAINED: 82 seconds      20:08 / 21:30
+                                Original couch
+
+       ! Even more cuts than 3F06, yet longer by a second. Are we moving
+       ! towards dozens of 2-second cuts within each episode?
+
+
+  ~~~~~  ACT I    <0:11>   (0:20)   6:05 / 6:25
+
+          Bart: Well, if you love it so much, why you always littering?
+         Homer: It's easier. Duh.  [walks away]  [throws his empty can]
+  <02> %         [Bart follows him]
+
+   ~~
+         Marge: Who's Disco Stu?
+         Homer: Oh, uh, I wanted to write "Disco Stud" but I ran out of space.
+  <04> %        Not that Disco Stu didn't get his share of the action...
+
+   ~~
+         Homer: OK, let's give it up for the new guy. Now, let's all turn
+                around and pay attention to me again.
+       %        Hello?
+  <05> %        Hello?
+       %        Hello!
+
+
+  ~~~~~  ACT II   <0:35>   (0:49)   7:53 / 8:42
+
+         Homer: Stupid President. Why couldn't he just stay in his own state?
+          Lisa: Actually, this _is_ one of the nine states where Mr. Bush
+                claims residency, Dad. I wouldn't have voted for him, but it's
+                nice to have a celebrity in the neighborhood.
+       % Homer: Wait a minute... If Lisa didn't vote for him...and I didn't
+       %        vote for him...
+  <13> % Marge: You didn't vote for anybody.
+       % Homer: I voted for Prell to go back to the old glass bottle. After
+       %        that, I became deeply cynical.
+
+   ~~
+         Homer: Huh... Look at those phonies, sucking up to Bush.
+                 [SLH whimpers, then barks and runs off after them]
+       %        I guess you might say he's barking up the wrong Bush.
+       %        [chuckles]
+  <10> % Brain: There it is, Homer: the cleverest thing you'll ever say and
+       %        nobody heard it.
+       % Homer: D'oh!
+
+       ! You'll forgive me if I ramble yet again, but what was the purpose of
+       ! that scene, if not for this single joke?
+
+   ~~
+            Bart: Who's that, George?
+          George: Uh, er, see, you wouldn't know him. That's Bob Mosbacher, he
+                  was secretary of --
+            Bart: That's a dumb name. Who's that, George?
+          George: Maybe _he_ thinks "Bart" is a dumb name.
+            Bart: How many times were _you_ president, George?
+       %  George: Just once.
+       %          Bar! Isn't it time for dinner yet?
+  <08> % Barbara: [off-camera] I'm making rice. It'll be a while.
+       %    Bart: Did your Secret Service goons ever whack anyone, George?
+          George: [indignant] You know, in my day, little boys didn't call
+                  their elders by their first name.
+            Bart: Yeah, well, welcome to the 20th century, _George_.
+       %          [walks away]
+  <02> %  George: [muttering] I'll kick you right out of the 20th century, you
+       %          little...
+
+
+  ~~~~~  ACT III  <0:02>   (0:13)   6:10 / 6:23
+
+          Homer: [knocking at door]  Yoo-hoo!  [knocks]
+         George: Who is it?
+                  [looks through spy hole without glasses on]
+          Homer: It's your sons: George Bush Jr. and Jeb Bush.
+       %         Come outside, Dad.
+  <02> % George: Oh, good.
+                 Bar, the boys are out in the front yard. _They'll_ help me
+                 think of a plan to get those Simpsons.
+
+
+ ==[ 3F11 ]================= Scenes from the Class Struggle in Springfield ===
+         CUTS: 49 seconds     GAINED: 83 seconds      20:07 / 21:30
+                                Original couch
+
+  ~~~~~  ACT I    <0:35>   (0:45)   5:42 / 6:27
+
+       % Marge and Lisa shop at Steppin' Out Fashion Mart. ("Browse through
+       % our bra barrel!")
+       %
+       %    Marge: Mmm... Honey, I don't think these clothes are us...
+  <17> %     Lisa: Who are they?
+       %   Cletus: Hey, Brandine! You can wear this shirt to work!
+       %           [holds up a short shirt reading "Classy Lassy"]
+       % Brandine: Oh, Cletus. You know I gotta wear the shirt what Dairy
+       %           Queen gave me.
+
+         Marge browses at a circular clothes rack, while Lisa steps inside.
+
+          Lisa: [from inside]  Hey, Mom! There's something in here!
+                [hands her a suit]
+         Marge: Ooh! Oh, it's beautiful! Can it be a real Chanel?  [gasps]  It
+                is!  [checks the price tag]  90 dollars?  [moans]
+          Lisa: But it's marked down from $2800.
+
+         Marge surrenders to the tentation, and tries the outfit.
+
+          Lisa: Oh, you look so sophisticated, just like Mary Hart.
+         Marge: It fits like a dream, too. But we can't afford 90 dollars,
+                even if it is a bargain.
+       %        It wouldn't be right to buy something just for me. If it were
+       %        a suit we could all wear, maybe, then...
+  <16> %  Lisa: Come on, Mom. You never treat yourself to anything.
+       % Marge: Oh, sure I do. I treated myself to a Sanka not three days ago.
+       %        But _this_ is a real find.
+          Lisa: Just take it. You don't have to rationalize everything.
+         Marge: Mmm... All right, I will buy it. It'll be good for the
+                economy.
+
+      {Matthew Steven Rose}
+
+   ~~
+          Lisa: Do I have to go? That country club is a hotbed of exclusionist
+                snobs and status-seeking social-climbers.
+  <02> % Marge: I've told you, I don't like you using the word "hotbed".
+                Please, Lisa, we so rarely get to do things like this. And
+                everybody, everybody _please_ be on your best behavior.
+
+
+  ~~~~~  ACT II   <0:13>   (0:25)   7:24 / 7:49
+
+         Marge: [thinking] Oh! We've got a winning hand. We can take the rest
+                of the tricks.
+                 [camera pans higher up]
+                Ooh, we'd better be careful. The purpose of this game is to
+                make friends; you don't make friends by winning.
+                 [camera pans higher up]
+                Still, there's nothing more popular than a gracious winner...
+                 [camera pans to the end of her hair]
+                Don't ask me, I'm just hair. Your head ended 18 inches ago.
+       %         [camera pans down to her head]
+  <02> %        [aloud] Mmm...
+
+   ~~
+         Marge's outfit gets eaten by the sewing machine.
+
+         Marge: [gasps]  No! No, no, no, noooo!
+                [pulls out her suit, which "dissolves" in her hands]
+       %        [growls]  At times like this, I guess all you can do is laugh.
+  <11> %        [stares at the ceiling]
+
+
+  ~~~~~  ACT III  <0:01>   (0:13)   7:01 / 7:14
+
+       ! At the start of the act (maybe a lousy feed):
+
+  <01> % Marge: [knocks]
+                 [Patty & Selma open the door]
+                I need a formal dress for tonight!
+
+
+ ==[ 3F12 ]================================================= Bart the Fink ===
+         CUTS: 54 seconds     GAINED: 87 seconds      20:03 / 21:30
+                             Original short opening
+
+  ~~~~~  ACT I    <---->   (0:08)   5:29 / 5:37
+
+       * Compression starts when the family gasps at Ann Landers' inheritance
+
+  ~~~~~  ACT II   <0:27>   (0:37)   6:08 / 6:45
+
+             Krusty: My Grandpa Zev would turn over in his grave if it wasn't
+                     filled with some veteran.
+       % Auctioneer: Lot 67, 32 cartons of pornography.
+       %     Jasper: 10 cents.
+       %        Man: [taking the bid from a phone]  12!
+       % Auctioneer: 12 cents to our phone bidder in Japan. Any advance?
+       %     Jasper: [moans]  All I brought is a dime. I didn't know there'd
+       %             be pornography...
+       % Auctioneer: Sold, for 12 cents.
+       %     Krusty: Oh, my beloved pornography! I can't watch this anymore!
+  <27> %             I'm going to bed.
+       % Auctioneer: How much for Krusty's bed?
+       %        Moe: Half a buck!
+       % Auctioneer: Sold!
+       %        Moe: [goes to the bedroom]  Good night everybody.
+       %  Everybody: Good night, Moe!
+       %
+       % Krusty groans and sits on a couch, while someone takes away his
+       % grandfather clock.
+
+         Auctioneer: And now, lot number 2380: Krusty's private plane, the
+                     "I'm-On-A-Rolla Gay".
+
+      {Liam J. Scanlan. <tscanlan@highlander.cbnet.ns.ca>}
+
+
+  ~~~~~  ACT III  <0:27>   (0:42)   8:26 / 9:08
+
+         As Krusty's funerals are over, Bart stays behind, holding back his
+         tears.
+         After a shot of the house,
+       %                            we see Bart sitting on the floor, wearing
+       % a Krusty pin, watching TV's "The Day The Local Laughter Died".
+       %
+       % Kent: And so, Herschel Krustofsky is gone, but not forgotten. Today
+       %       was the unveiling of the new Krusty stamp. Postal patrons were
+  <20> %       asked to choose between two competing designs: one of Krusty's
+       %       heartwarming smile,
+       %        [shot of a 32-cent stamp featuring Krusty smiling]
+       %       and one of his fiery death.
+       %        [another stamp, featuring wreckage of his plane]
+       %       By a nearly 2-to-1 vote, the smiling Krusty was chosen.
+
+         In his room, Bart pulls the cord of his "groaning" Krusty doll over
+         and over.
+
+      {Liam J. Scanlan. <tscanlan@highlander.cbnet.ns.ca>}
+
+   ~~
+          Lisa: [reading the check]  "Rory B. Bellows, slip 8." Let's go!
+                 [They run out, passing by Handsome Pete holding a mug
+       %         [Bart comes back, gives Pete a quarter, and runs away]
+  <07> %         [Pete starts playing "Sailor's Hornpipe" again]
+       % Cap'n: Not a quarter! Arr, he'll be dancing for hours!"
+
+      {Liam J. Scanlan. <tscanlan@highlander.cbnet.ns.ca>}
+
+
+ ==[ 3F13 ]=========================================== Lisa the Iconoclast ===
+         CUTS: 57 seconds     GAINED: 87 seconds      20:03 / 21:30
+                                Original couch
+
+  ~~~~~  ACT I    <0:28>   (0:32)   5:34 / 6:06
+
+       * Compression starts when Homer shows up at City Hall.
+
+   ~~
+            Ned: [chuckles]  Oh, they're just family heirlooms. That shouldn't
+                 stand in the way of Homer taking my job, and...
+          Homer: Less chat, more hat.
+                  [Ned hands it over; Homer puts it on and it rips]
+                 Woo-hoo!
+       %         [criering] Hear ye, hear ye! The Homer Broadcasting System is
+       %         on the air! All hollering, all the time! I'm gonna make...
+  <15> % Quimby: [grabs the bell]  You're to restrict your criering to the
+       %         parade and selected pre-approved publicity events.
+       %  Homer: [meekly] Okay.
+
+   ~~
+         Lisa: [reading] "Ha-ha, ha-ha-ha."
+               Oh, my God! Our town hero is a fraud!
+       %       "I write this confession so that my infamy will live on long
+       %       after my body has succumbed to my infectious diphtheria."
+  <13> %       Eww...  [realizes she's still holding the fife]
+       %       [screams, drops the fife, spits, then wipes her tongue]
+
+
+  ~~~~~  ACT II   <0:23>   (0:36)   7:26 / 8:02
+
+       ! Without comment:
+
+         Homer: [criering] Hear ye, hear ye! What's for breakfast?
+         Marge: Toast.
+       % Homer: I don't understand thee, Marge.
+  <05> % Marge: [sighs] Ye olde toast.
+         Homer: Woo-hoo-hoo.
+
+      {Matthew Steven Rose <00202116@bigred.unl.edu>}
+
+   ~~
+         Homer and Lisa head for the Copy Jalopy.
+
+          Lisa: You don't have to help me with this, Dad.
+         Homer: Oh, sure I do. I always believe in helping a little guy. And
+                you're the littlest guy I know.
+       %         [the Comic Book Guy turns to Homer]
+       %   CBG: Uh, question: Is your name Ridley Scott or James Cameron?
+       % Homer: No, it's Homer.
+       %   CBG: Well, I would thank you to stop peering at my screenplay,
+       %        _Homer_. And if I see a movie where computers threaten our
+  <18> %        personal liberties, I will know that you stole my idea.
+       % Homer: I'm just waiting for my kid.
+       %        [thinking] Mental note: steal his idea.
+       %
+       % The Copy Jalopy employee hands Lisa her copies.
+
+      {Haynes Lee <lee@adan.kingston.net>}
+
+
+  ~~~~~  ACT III  <0:06>   (0:19)   7:03 / 7:22
+
+            Lisa: Don't forget to look in his shoes. When I lose something,
+                  sometimes it turns up in my shoes.
+       % Hibbert: Actually, if it's anywhere, it would be lodged in the sinus.
+  <06> %          [chuckles]
+       %  Wiggum: All right, here goes.
+                  Forgive us, Jebediah, we mean no disrespect.
+
+
+ ==[ 3F14 ]============================================ Homer the Smithers ===
+         CUTS: 51 seconds     GAINED: 83 seconds      20:07 / 21:30
+                                Original couch
+
+  ~~~~~  ACT I    <0:05>   (0:11)   6:09 / 6:20
+
+       * Compression starts with Burns' breakfast.
+
+   ~~
+          Lisa: You know Dad, assisting Mr. Burns could give your career a
+                real shot in the arm.
+         Marge: [comes in, holding a bowl] You know Homer, assisting Mr. Burns
+                could give your career a real shot in the arm.
+          Lisa: Mom, I just said that.
+         Marge: [sarcastically] Soooorry!
+  <02> %        Next time get your own darn corn.
+
+   ~~
+         Smithers: Mr. Burns can't stand talking to his mother. He never
+                   forgave her for having that affair with president Taft.
+  <03> %    Homer: [chuckles] Taft, you old dog.
+
+
+  ~~~~~  ACT II   <0:25>   (0:41)   8:42 / 9:23
+
+       % View of Homer and Burns sitting at their respective desks.
+
+         Burns: [from his office] Simpson? Simpson?
+       %        Urgh...
+       %        [walks into Smithers' office]
+       %        Did you get that report on the accounting department?
+  <20> % Homer: Yes sir, I did.
+       %        [reads] "The accounting department is located on the 3rd
+       %        floor. Its hours are 9am to 5pm. The head of this department
+       %        is a Mr. Johnson or Johnstone."
+       %         [Burns throws his report in the garbage can]
+
+                 [in Burns' office]
+         Homer: Here are your messages:
+                "You have 30 minutes to move your car",
+                "You have 10 minutes",
+
+       ! In syndication, Burns calls Homer over a re-used shot of SNPP. This
+       ! is a trick they also used for 1F03.
+
+      {Haynes Lee <lee@adan.kingston.net>}
+
+   ~~
+         Burns:  [throws his glass at Homer]
+                You call this Postum?
+                 [bashes a 5-feet high pile of paper]
+         Burns: You call this a tax return?
+       %         [bangs a CRAY with his cane]
+       % Burns: You call this a supercomputer?
+  <05> %         [throws paper at him]
+       %         [throws pencils at him]
+                 [throws a book at him]
+
+      {Haynes Lee <lee@adan.kingston.net>}
+
+
+  ~~~~~  ACT III  <0:21>   (0:31)   5:16 / 5:47
+
+         Smithers inquires at Moe's about his "Help Wanted" sign.
+
+         Smithers: [to Homer] That's right! But I'm gonna need your help.
+       %            [the clock rings midnight]
+       %      Moe: [scared] Oh, my God!
+       %            [Barney's seat is empty]
+       %      Man: [from outside]  Beer delivery, just sign here. Oh, no! It's
+       %           you!  [loud crashing]  Hey!
+  <17> %   Barney: [maniac laughing] Oh boy!
+       %      Man: Gimme that!
+       %   Barney: No!
+       %
+       % Moe covers his eyes and sobs as the only sound we hear from outside
+       % is Barney's belching.
+
+      {Haynes Lee <lee@adan.kingston.net>}
+
+   ~~
+         Mrs. Burns: That improvident lackwit? Always too busy stridin' about
+                     his atom mill to call his own mother.
+  <04> %             I'll give him what-fors 'till he cries brassafrax!
+
+
+ ==[ 3F16 ]===================================== The Day the Violence Died ===
+         CUTS: 49 seconds     GAINED: 84 seconds      20:03 / 21:27
+                                Original couch
+
+~~~~~   ACT I   <---->   (0:08)   6:21 / 6:29
+
+       * Compression starts after Homer’s "Ohh... Why can't they just take
+       * the gun?"
+
+~~~~~   ACT II   <0:41>   (0:55)   7:17 / 8:12
+
+            Bart: Do you know what radon is?
+         Chester: No.
+            Bart: Good night [turns off light].
+
+       % As Homer walks by the basement door, a voice asks for spare change
+<0:05> % from below. He throws coins.
+
+~~
+          Bart: So, you <don't> work on a contingency basis?
+          Hutz: No, money down! Oops, it shouldn't have this Bar Association
+                logo here either. [he eats it]
+
+       % Homer, Marge, Lisa and Maggie wait on the outside steps. Homer
+       % stands smiling, holding Chester's bindle. Bart and Chester return,
+       % and Chester enters with the bindle.
+       %
+<0:11> % Marge: [disappointed growl]
+       %  Bart: Hey Dad, can I have a thousand dollars?
+       % Homer: All right...eh-- [gets his wallet] Wait a minute! For what?
+       %  Bart: To pay for a lawyer, for my bum.
+       % Homer: Forget it!
+
+~~
+           Judge: Order, order. We don't care about your blintzes.
+
+         Krusty narrows his eyes at the judge.
+
+       %    Hutz: Now, Mr. Lampwick, when Mr. Myers stole your character...
+       %  Lawyer: Objection.
+       %   Judge: Sustained.
+       %    Hutz: Urgh! If I hear "objection" and "sustained" one more time
+       %          today, I think I'm going to scream!
+<0:18> %  Lawyer: Objection.
+       %   Judge: Sustained.
+       %    Hutz: [holds head; screams]
+       % Chester: Roger Myers didn't create <any> of his characters! He
+       %          stole them all!
+       %
+       % Dramatic music. A shocked jury murmurs "He stole them all?"
+
+         Shot of "Flatulent Fox" shown on easel.
+
+         Chester: The only characters Myers could ever come up with were
+                  pathetic stick figures with the words "Sarcastic Horse"
+                  and "Manic Mailman" printed on them...
+
+~~
+
+         Myers: Your honor, you take away our right to steal ideas,
+                [judge bangs gavel]
+                where are they gonna come from?
+       %        Her?  [points at Marge]
+<0:07> % Marge: Uh... Hmm... How about... Ghostmutt?
+
+         Judge bangs gavel once.
+
+         Judge: The court rules in favor of Mr. Lampwick...
+
+~~~~~   ACT III   <0:08>   (0:21)   6:25 / 6:46
+
+         Myers: Royalties! Hah! I don't have the money to _produce_ the
+                cartoons. I lost everything.
+       %        I can't even keep my dad's head in
+       %        the freakin' cryogenics center anymore.
+<0:08> %        [shot of a thawing icebox, which starts shaking]
+       %        [sarcastically] You comfortable in there, Daddy?
+
+
+ ==[ 3F15 ]=========================================== A Fish Called Selma ===
+         CUTS: 52 seconds     GAINED: 86 seconds      20:06 / 21:32
+                                Original couch
+
+  ~~~~~  ACT I    <0:32>   (0:44)   7:59 / 8:43
+
+       * Compression starts with Marge's "Troy McClure's a perfect gentleman".
+
+   ~~
+         Troy McClure walks into the DMV, which brings murmurs from the crowd.
+
+         Hibbert: Troy McClure? I thought he disappeared after that scandal at
+                  the aquarium.
+       %   Louie: Hey, I thought you said Troy McClure was dead?
+       %    Tony: No, what I said was: "He sleeps with the fishes". You see...
+  <11> %   Louie: Uh, Tony, please, no. I just ate a whole plate of
+       %          dingamagoo...
+
+   ~~
+         At the Pimento Grove...
+
+       %  Troy: [yamns silently]
+       % Selma: All these celebrities on the walls; I'm just know a big star
+       %        like you is up there somewhere.
+  <21> %  Troy: Uh, yes, I'm over there...  [vaguely points somewhere]
+       % Selma: [as she browses the walls] Oh? Hmm... Uh... Huh-uh. Oh...
+       %        Hmm...  [finally finds Troy's picture on the pet door]  Oh!
+          Troy: So, working at the DMV must be very interesting.
+         Selma: Well, uh... I think I'm getting Repetitive Stress Disorder
+                from scratching my butt all day.
+
+       ! Troy's "So," overlaps on the view of the Pimento Grove in
+       ! syndication.
+
+
+  ~~~~~  ACT II   <---->   (0:12)   6:22 / 6:34
+  ~~~~~  ACT III  <0:20>   (0:30)   5:45 / 6:15
+
+         Parker: Uh, listen. You can't buy that kind of P.R., but you can get
+                 it for nothing by having a baby, which, by the way, your
+                 insurance will cover, except for the deductible which I'll
+                 reimburse you for if you get the part which you will if you
+                 have a baby.
+           Troy: C'est Troy bien!
+       % Parker: Okay. Now listen, let's talk baby names. You can't use
+       %         Montana, Dakota or Florida, they're taken...
+  <11> %   Troy: Umm... Oregon?
+       % Parker: Oh, Pacific northwest, very hot.
+
+   ~~
+         Selma: Having a baby isn't supposed to be work. It's supposed to be
+                an expression of the feelings we're supposed to have for each
+                other.
+       %  Troy: Oh. Like how we built that snowman together in that Newport
+  <09> %        ad? Remember how alive with pleasure they said we were?
+       %         [shot of Selma]
+                 [shot of Troy]
+         Selma: Hmmm... Look, I'm sorry. A loveless marriage is one thing;
+                we're not hurting anybody. But bringing a child into a
+                loveless family is something I just can't do.
+
+
+ ==[ 3F17 ]============================================== Bart on the Road ===
+        CUTS: 46 seconds     GAINED: 88 seconds      20:04 / 21:32
+                                Original couch
+
+~~~~~   ACT I    <---->   (0:13)   5:51 / 6:04
+~~~~~   ACT II   <0:42>   (1:00)   8:51 / 9:51
+
+         Homer: It'll be just like the time they kicked me out of the sporting
+                goods store.
+
+       % Meanwhile, on the road, a man is traveling in a station wagon with
+       % his family.  He has had about all he can take from his rowdy kids.
+       %
+       %        Man: [yelling] If you kids can't keep your hands to
+       %             yourselves, I'm gonna turn this car around, and there'll
+       %             be no Cape Canaveral for anybody!
+       %
+       % The kids instantly quiet down, but Bart's car travels by, and Nelson,
+       % seeing that the window is open, slaps the man on the head.
+       %
+       %        Man: That's it! Back to Winnipeg! [turns around]
+       %     Martin: Bart, can we stop for ice cream?
+<0:38> %       Bart: Yes.
+       %             [a little later, the boys all have cones]
+       %     Nelson: Bart, can we weigh the car at that weigh station?
+       %       Bart: Yeah.
+       %             [a little later]
+       %   Milhouse: Bart, can we pick up that hitchhiker?
+       %       Bart: I don't see why not.
+       %             [a little later, a disheveled hitchhiker rides between
+       %             Martin and Nelson]
+       % Hitchhiker: Bart, can we stop for ice cream?
+       %       Bart: Yes.
+       %            [a little later, they all have cones again]
+       % Hitchhiker: Well, I don't think I was rehabilitated, but, uh... I
+       %             guess they needed the extra bed.
+
+~~
+
+           Lisa: Dad, you tell everybody everything.  Even Moe knew when I
+                 threw up on the dentist.
+<0:04> %  Homer: [ominous] Moe thinks he knows a lot more than Moe knows.
+                 Well, just give me another chance, and I'll prove I can keep
+                 your secret.
+
+
+~~~~~   ACT III   <0:04>   (0:15)   5:22 / 5:37
+
+         Bart, Milhouse, Martin and Nelson throw their bags on the train.
+         It speeds off before they can catch it. Nelson continues to run.
+
+         All: Oh...
+
+<0:04> % He turns around and comes back. Martin pants, out of breath.
+
+       * Compression stops after Bart says he won't go back to the grammar
+       * rodeo next year.
+
+
+ ==[ 3F18 ]============================== 22 Short Films About Springfield ===
+        CUTS: 44 seconds     GAINED: 80 seconds      20:07 / 21:27
+                          Original short opening
+
+~~~~~   ACT I   <0:17>   (0:28)   7:08 / 7:36
+
+         Lisa opens the lid of the recycling receptacle...
+<0:02> % Bart rides his skateboard on the sidewalk, blowing a huge bubble. It
+       % pops, and he takes the gum from his mouth.
+         Bart grunts as he throws his gum, and it lands in Lisa's hair.
+
+          Lisa: [touching her sticky hair] WAAAAGH! Ugh!
+<0:02> %        There's gum in my hair! [she runs down the street]
+                Mom, someone threw gum in my hair!
+         Marge: Are you sure? Maybe it's just shampoo. That washes right out.
+<0:04> %  Lisa: No! It's somebody's gross gum!
+                [pulling it] Get it out!
+
+  ~~
+         Chairman: Dr. Nick, this malpractice committee has received a few
+                   complaints against you.  [reads from clipboard]  Of the 160
+                   gravest charges, the most troubling are performing major
+                   operations with a knife and fork from a seafood restaurant.
+          Riviera: But I cleaned them with my napkin.
+       % Chairman: Misuse of the cadavers.
+<0:06> %  Riviera: I get here earlier when I drive in the carpool lane.
+       %
+       % They stare at him for a second.
+
+       ! The malpractice committee stares at Nick during "with my napkin" in
+       ! the synd version. A great close-up of Nick shrugging is cut, as well
+       ! as another excellent line.
+
+ ~~
+
+           Moe: I'm behind three inches of bullet-proof glass.  Do your worst.
+         Snake: All right. [leaps over counter; opens register]
+           Moe: No, stay out of there! Stay out of there! Aw, good God no!
+
+<0:03> % Moe flicks the lightswitch on and off.
+
+         Snake: [grabbing cash] Ho! Good bye, student loan payments! Ha ha!
+
+       ! In the synd version, "Aw, good God no!" is seen over Snake's hand
+       ! pilfering the cash drawer.
+
+~~~~~   ACT II   <0:27>   (0:43)   8:08 / 8:51
+
+         Chalmers: Well Seymour, you are an odd fellow. But I must say... you
+                   steam a good ham...
+
+<0:02> % As he walks away, two of his steps are cut.
+
+            Agnes: Heeeelp! Heeeelp!
+
+         Chalmers turns around with a start. Skinner gives a thumbs up and
+         cheesy grin. Chalmers turns back around and leaves.
+<0:01> % Skinner hurries back into the house.
+         A fire engine speeds down the street.
+
+ ~~
+         Forlorn, Maggie looks out from inside the newspaper machine.
+       % As she sucks her pacifier, Homer turns toward her.
+<0:02> %
+       % Homer: Oh,
+                    don't worry, Maggie. I'll think of something.
+
+ ~~
+         Bumblebee Man: Ah, tiempo para relajar en paz y quieto.
+                        [opens a cabinet of oranges which wallop his head]
+                        !Ay, naranjas en la cabeza!
+                        [he trips, hits an ironing board, and finds himself
+                        stuck on a chandelier]
+                        !Ay, una candelabra precariosa!
+                        [the chandelier is pulled free of the ceiling;
+                        bringing the ceiling down with it]
+       %          Emma: [walking down and seeing the disaster] !Ay!
+       %                Mira que cosa tan terrible, yo no puedo entender algo
+       %                como esto, como puedo vivir con el guillón tan
+       %                irresponsible. !No, no, no, no no!
+<0:22> %                [walks off, handing B.M. a divorce paper]
+       % Bumblebee Man: Ay, ?donde está mi tequila?
+       %
+       % She walks out and sets her bags on the curb, and tries to hitchike
+       % as Snake drives by. The rest of the house crumbles.
+
+
+~~~~~   ACT III   <---->   (0:09)   4:51 / 5:00
+
+
+ ==[ 3F19 ]====================== [...] "The Curse of the Flying Hellfish" ===
+         CUTS: 46 seconds     GAINED: 84 seconds      20:06 / 21:30
+                                Original couch
+
+  ~~~~~  ACT I    <0:17>   (0:26)   4:31 / 4:57
+
+          Abe: Now, I'd like to digress from my prepared remarks to discuss
+               how I invented the terlet.
+         Edna: "Terlet"? Ha!
+                [children laugh]
+       %  Abe: Stop your snickerin'! I spent three years on that terlet!
+  <11> %        [Bart gets more and more embarassed as kids keep laughing]
+
+       ! All right, hands up those who didn't notice there was a cut there?
+
+   ~~
+         At Springfield's Retirement Castle, Abe reads his mail.
+
+  <01> %       [people coughing]
+         Abe: Hmm... let's see...
+              Uh...  ["Live Forever -- as a Commemorative Plate"]  Yeah...
+              Mmm...  ["Run! Don't walk -- to Larry's Cane Store"]
+       %      [sighs]
+       %      Unno...  ["Consider Burial At... Sea World!"]
+  <05> %       [the flyer features a priest on the highest platform, and a
+       %       whale jumping out of the water]
+              Eh, this junk was hardly worth getting up for.
+
+
+  ~~~~~  ACT II   <0:29>   (0:45)   8:25 / 9:10
+
+         Abe: So, we sealed up the paintings knowing only one of us would ever
+              look upon them again.
+       %      Ox was the first to go; he got a hernia carrying the crate out
+  <09> %      of the castle. Five more men died in the Veteran's Day float
+       %      disaster of '79.
+              Now, with Asa gone, it's down to me and Burns.
+
+       ! Now, hands up those who _did_ notice there was a cut there. I seldom
+       ! get to do this, but this cut was technically perfect -- unlike most
+       ! others.
+
+      {Haynes Lee <lee@adan.kingston.net>}
+
+   ~~
+          Bart: You gotta get that treasure! You gotta do it for Ox, and Asa,
+                and Griff, and Burnsie... Well, not so much Burnsie.
+       %   Abe: You really think I can do it?
+       %  Bart: [unconvincing] Uh, yes... But we gotta act fast.
+       %         [they both rush out of Bart's room, and bump into Homer who
+       %         was up for a snack]
+       % Homer: Where are you two going at this hour?
+  <20> %  Bart: On a treasure hunt.
+       % Homer: Ooh! Can I come?
+       %   Abe: Only if you're ready to stare danger in the face, put your
+       %        manhood to the ultimate test, and take...
+       % Homer: Pass.
+       %         [Abe and Bart run out]
+
+       ! It seems that the new fashion is to cut the last joke of an act,
+       ! making it end abruptly...
+
+      {Haynes Lee <lee@adan.kingston.net>}
+
+
+  ~~~~~  ACT III  <---->   (0:13)   7:10 / 7:23
+
+
+ ==[ 3F20 ]======================================== Much Apu About Nothing ===
+         CUTS: 48 seconds     GAINED: 82 seconds      20:08 / 21:30
+                                Original couch
+
+  ~~~~~  ACT I    <0:17>   (0:30)   7:54 / 8:24
+
+       * Compression starts when Homer sneaks out of the house.
+
+   ~~
+         While the bear is being carried away by the U.S. Forest Service,
+         Barney is being carried away by Moe's.
+
+       % Maude: [hysterical] Oh, Marge, it was horrible! We were trapped in
+       %        the house all afternoon, and... well... we [sobbing] had to
+  <11> %        drink _toilet_ water!
+       % Marge: Well, things were bad everywhere.
+         Homer: I'm sick of these constant bear attacks. It's like a freakin'
+                country bear jambaroo around here!
+           Ned: Well, now, realistically, Homer. I've lived here some 30-odd
+                years; this is the first and only bear I've ever seen.
+
+   ~~
+         Homer: We're here. We're queer. We don't want anymore bears.
+         Crowd: We're here. We're queer. We don't want anymore bears.
+       % Lenny: Hey, that's a pretty catchy chant. Where'd you learn it?
+  <06> % Homer: Oh, I heard it at the mustache parade they have every year.
+
+
+  ~~~~~  ACT II   <0:31>   (0:41)   5:38 / 6:19
+
+       ! At the start of this act:
+
+       % Moe's has become the "Yes on 24 Headquarters", where people are
+       % spraying signs:
+       %
+       % Barney: Yes on 24!
+       %    Moe: United States for United Statesians
+       %  Homer: Homer say "Get Out"
+  <23> %
+       %    Moe: You know what really aggravazes me? It's them immiggants.
+       %         They wants all the benefits of living in Springfield, but
+       %         they ain't even bothered to learn themselves the language.
+       %  Homer: Hey, those are exactly my sentimonies.
+       % Barney: [babbles incoherently]
+       %    Moe: Yeah, you said it Barn.
+
+         Marge and the kids go to the Kwik-E-Mart, in front of which many
+         protesters are holding signs.
+
+       ! Note that these signs will appear at one time or another throughout
+       ! the episode.
+
+   ~~
+          Father: Wherever you go, and whatever you do, we will always love
+                  you. Make us proud, son.
+          Mother: Never forget who you are.
+             Apu: I won't mother.
+       %          [to a child]  And I won't forget you, Manjula. I'm so sorry
+  <08> %          our arranged marriage will not come to pass.
+       % Manjula: Farewell, my beloved.
+
+
+  ~~~~~  ACT III  <---->   (0:11)   6:36 / 6:47
+
+
+ ==[ 3F21 ]================================================== Homerpalooza ===
+         CUTS: 60 seconds     GAINED: 90 seconds      19:55 / 21:25
+                            Original short opening
+
+~~~~~   ACT I   <0:14>   (0:24)   7:05 / 7:29
+
+          Lisa: Dad... Please just drive the car, Dad.
+       % Homer: I'm watching the road, sweetie. You jive
+<0:14> %        turkey. See? You got to sass it. Quit _jiving_ me,
+       %        turkey! You got to sass it. A "turkey" is a bad person.
+
+         Homer turns the radio to his favorite station, KFSL.
+
+       ! Oh, why did they have to hack the "turkey" line?
+
+ ~~
+       *  Compression starts after this cut.
+
+
+~~~~~   ACT II   <0:22>   (0:34)   7:22 / 7:56
+
+         Homer puts on his safety glasses, takes place in front of the cannon,
+         and receives the bullet right in the stomach. He quickly gets up,
+         though, and is acclaimed by the crowd.
+
+       % Homer: Thank you. Thank you very much.
+<0:05> %
+       % A midget escorts him off the stage.
+
+         Backstage, Homer autographs a cannon ball.
+
+ ~~
+         Homer has "No Litter" written on his stomach before he gets shot.
+
+       % Homer: But the main thing is: I've finally tapped into that spirit
+       %        of self-destruction that makes Rock 'N' Roll the king of
+       %        music.
+       %
+<0:17> % Everyone on the bus is cheering Homer, who's "water-skiing" with the
+       % bus, only with frying pans instead of skis. Cypress Hill throws cans
+       % at him.
+       %
+       % Homer: Woo hoo!
+
+
+~~~~~   ACT III   <0:24>   (0:32)   5:28 / 6:00
+
+              Jimbo: Man, that guy's guitar is talking.
+       %       Otto: Hey, my shoes are talking too!
+<0:11> %  Left Shoe: Don't worry. We won't hurt you.
+       % Right Shoe: We only want to have some fun.
+
+ ~~
+         Frampton: God. Homer Simpson wrecks my pig, Cypress Hill steals my
+                   orchestra, and Sonic Youth's in my cooler! Get out of
+                   there, you kids!
+       %    Moore: Ah, come on, Mr. Frampton. You're not gonna eat all that
+       %           watermelon.
+<0:13> % Frampton: Please, I'm trying to perform!
+       %  Shelley: Go ahead. We'll stay here and guard your cooler.
+       %           [they all dig in while Frampton moans]
+
+         Discouraged, Frampton leaves the stage to Homer.
+
+
+ ==[ 3F22 ]============================================= Summer of 4 Ft. 2 ===
+         CUTS: 47 seconds     GAINED: 85 seconds      20:05 / 21:30
+                                Original couch
+
+  ~~~~~  ACT I    <0:05>   (0:15)   5:34 / 5:49
+
+         Homer: Deal! See, Flanders, you give a little, you get a little.
+
+       % So, Homer goes back to his hammock, while Flanders walks over his
+       % muddy lawn.
+  <05> %
+       % Ned: [rolling up his sleeves]  Hello, Mr. Brown Grown. What you got
+       %      for me?
+
+   ~~
+       # Dave Hall talks about many interesting outtakes:
+       #    Actually, if "disenchanted" fans really wanna know: Lisa's
+       #    "out-of- character" behaviour was neatly explained in the original
+       #    script, but for time constraints some "minor" scenes were cut from
+       #    the final episode. Most notably were more scenes involving Lisa's
+       #    classmates deliberately avoiding her and one really cool scene
+       #    where Lisa sees Bart hamming it up, impressing the others, and she
+       #    asks what the secret of being popular; Bart replies:
+       #
+       #    "Lis, a frog named Petey once taught me that somethings can't be
+       #    taken apart without dying."
+       #
+       #    Too bad this scene was cut, I personally think leaving this one
+       #    scene in would have made the entire episode make more sense, IMHO.
+       #    It would have also explained why Bart was so bothered by Lisa
+       #    "imitating" him to make friends.
+
+
+  ~~~~~  ACT II   <0:42>   (1:02)  10:07 /11:09
+
+         OFF drives over a bridge on their way to their destination.
+
+       %  Bart: When the hell are we getting to... where the hell are we
+       %        going?
+       % Marge: [growls]  It's called Little Pwagmattasquarmsettport. It's
+  <19> %        known as America's scrod basket.
+       %  Bart: I thought _Springfield_ was America's scrod basket.
+       % Marge: No, Springfield is America's crud bucket. At least according
+       %        to Newsweek.
+
+         They drive by Little Pwagmattasquarmsettport's welcome sign.
+
+      {Haynes Lee <lee@adan.kingston.net>}
+
+   ~~
+         Marge: [reads note on freezer] "Put food in me."
+         Homer: I'll take that.  [sticks it on his belly]
+       % Marge: [opens the freezer]
+       %         [every single ice cube has a "Fill Me" note on it]
+  <07> %        Well, duh! With what, Ned?
+       %        [lifs the note; under it is another one reading "With Water"]
+       %        [growls]
+
+      {Haynes Lee <lee@adan.kingston.net>}
+
+   ~~
+        # Don Del Grande reports:
+        #   I also read in two different places (a local paper's TV section
+        #   and FOX's online schedule) that Lisa would have her hair cut, but
+        #   it never happened.  (It may have looked different because she was
+        #   wearing a hat.)
+
+   ~~
+        # The ad for this commercial also revealed two more outtakes, being:
+        #
+        # The Val-U-Mart clerk offers Homer the neutron cherry bomb: "It
+        # destroys hands, but leaves smiles intact." Tom Baker attributes
+        # this as a reference to the neutron bomb, "which kills people but
+        # leaves buildings intact".
+        #
+        # Homer throws the M-320 in the oven, and this is where it explodes.
+
+
+  ~~~~~  ACT III  <---->   (0:08)   4:24 / 4:32
+
+
+ ==[ ---- ]===================================================================
+

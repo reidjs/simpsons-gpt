@@ -1,0 +1,585 @@
+% Are you ready for some football?  Homer sure is, and starts the day
+% by watching Al, Jerry, and an unnamed third man on the pre-game
+% show.
+
+Al:		Pigskin Preview:  Denver-Green Bay -- Who do you 
+		like?
+Jerry:		That's football, right?  [the trio laughs] Well, I'm 
+		going to take the Broncos in this game, because the 
+		Packers will be blinded by Jerry's tie.  [more 
+		laughter]
+Homer:		Heh-heh-heh.  Tremendous
+Al:		I'm more worried about Al's jacket.  [it is indeed a 
+		loud jacket, with a checkerboard pattern] How many 
+		stations can you get on that thing?
+Wardrobe Mgr.:	[walks into camera view] All right, listen.  I am 
+		sick of your jokes about the wardrobe.  You people 
+		can dress yourselves!  [walks away]
+Third Man:	[ahem] Well, folks, he's got a point, um, with all 
+		our unscripted horseplay, we sometimes don't think 
+		about ...
+Homer:		[on the phone] Lenny!  Are you watching this?
+Lenny:		[on the phone] Yeah, they really hurt that guy's 
+		feelings.
+Homer:		I know!
+-- "Skinner's Sense of Snow"
+
+% The Pigskin Preview is cut short when Marge and Lisa walk in.
+
+Marge:	Ready for the circus, Homer?
+Homer:	Circus?
+	[words in <angle brackets> should be read in heavy French 
+	accent]
+Lisa:	<Le Cirque de Pureé.>  We've had tickets since 
+	<Septembre>.
+Homer:	But I want to watch Brett <Favre>.
+Marge:	Come on, Homer.  They're only in town for eight months -- 
+	then they're gone.
+	[on TV, the Pigskin Preview guys laugh it up again]
+Homer:	Oh, I missed one of Jerry's zingers!  Now I'll never catch 
+	up.
+-- It's like missing your favorite soap opera, "Skinner's Sense
+   of Snow"
+
+% Homer exchanges his "TV Sports" pennant for one reading, "French
+% Circus" -- and that's where the family goes.
+
+Marge:	Finally, a circus full of whimsy and wonder.
+Homer:	Oh, yeah, that's way better than fun and excitement.
+Lisa:	[reading from a pamphlet] As French-Canadians, they don't 
+	believe in refunds or exploiting animals for 
+	entertainment.
+Homer:	Oh, I wanted to seem them fire a gorilla out of a cannon.
+-- That's on "Pigskin Preview," actually, "Skinner's Sense of Snow"
+
+% The family takes their seats near ringside.  An usher bids the
+% family to enjoy the show, "for one day, we shall die."
+%
+% The show itself is less grave.  Acrobats perform to colored lights
+% and whimsical music.  Suddenly, a clown with a pushcart interrupts
+% the show.
+
+Clown:	Wait, wait!  <Attendéz!>  I cannot get the lid of my jar 
+	of rainbows.  Who will help me?  [points to a man in a 
+	double-breasted suit] You, sir!
+Man:	[heavy French-Canadian accent] But I cannot help you, I am 
+	just a local merchant from ... this town.
+Homer:	[yelling from the audience] Just smash it open!
+Clown:	Oh, you can do it if your heart is pure -- or purée.
+	[audience laughs]
+	[the man opens the jar, and rainbow-colored light appears 
+	to spill from it.  The man, who is suspended on wires, is 
+	lifted up and "flies" around the tent as more whimsical 
+	music plays]
+Marge:	They always pick the guy with the wires.
+-- "Skinner's Sense of Snow"
+
+% Later, Marge watches the female acrobats perform difficult
+% contortionist tricks.  The exotic positions give her ideas ... on
+% how to clean the bathroom.  Other acrobats, dressed in gray
+% leotards, form an elephant which rears up on its hind "legs."  Marge
+% declares the circus "hauntingly beautiful."  Not from Homer's
+% vantage point, it isn't.  A juggler wearing very tight pants has his
+% personal region right in Homer's face.
+%
+% Suddenly, the wind kicks up and peels back a roof panel from the
+% tent.
+
+Sideshow Mel:	A storm is coming!  I can feel it in my bone.
+Ringmaster:	Mesdames and Messieurs, it appears the cloud goddess 
+		is ripe with rain babies.  We must run for our 
+		trucks.
+		[the audience runs for the exits]
+Homer:		Oh, no, you don't!  I paid full price for this freak 
+		show.  Now, nourish the child within me.  
+		[threateningly, with raised fist] Nourish!
+-- "Skinner's Sense of Snow"
+
+% But the tent blows away, precluding further argument.  Some of the
+% acrobats form a kite to ride away on the wind, but they get blown
+% into a tree instead.
+%
+% The radio weatherman says the storm comes from a classic nor'easter
+% meeting a classic "southwester."  The rain is predicted to turn to
+% snow, so Bart is hopeful school will be cancelled.  Lisa notices the
+% Sea Captain is hunkered down, but in reality he was tied up by rowdy
+% teenagers.
+%
+% The next day, Bart and Lisa listen to radio, hoping for a school
+% closure.
+
+Announcer:	The following schools are closed today:  
+		Shelbyville, Ogdenville, Ogdenville Tech, and 
+		Springfield Elementary ... [Bart gasps] My Dear 
+		Watson Detective School
+Bart:		[groans]
+Announcer:	And lastly, Springfield Elementary School ...
+Bart + Lisa:	Yay!
+Announcer:	... is open.
+Bart + Lisa:	[groan]
+Announcer:	And it's open season on savings at Springfield 
+		Menswear ... which is closed.
+Bart:		Oh, everyone's off but us.
+Marge:		Oh, stop.  Your father and I don't get the day off.
+Homer:		[runs by the kitchen doorway] Lenny says we got the 
+		day off!  Yippee!  [runs outside]
+-- "Skinner's Sense of Snow"
+
+% Homer runs out to make a snow angel.  He's disappointed when it once
+% again becomes a snow devil, with pitchfork and horns.
+%
+% His disappointment pales next to the kids, who have to endure a
+% wildly out-of-control bus ride on Springfield's icy streets.  To
+% Bart, it looks like everyone in the world has a snow day but the
+% students.  The luckier townspeople frolic in the park.  Wiggum
+% writes his name in the snow, apparently using the time-honored
+% method employed by men and boys everywhere.  He asks Lou to "shake
+% out the last few drops," and Lou does so -- as we learn that Wiggum
+% was really "writing" with a thermos full of coffee.
+%
+% The student population is sparse enough that day for Skinner to
+% consolidate them into one room.  The principal addresses his captive
+% audience.
+
+Skinner:	Children, I'm proud of you.  Most of our students 
+		didn't bother to show up on this last day before 
+		Christmas Break, but you've kept intact my Cal 
+		Ripken-like streak of school openage.
+Milhouse:	Hey, where are the teachers?
+Skinner:	Eh, their union has called an emergency caucus.
+		[cut to a ski lodge, where the teachers form a conga 
+		line]
+Teachers:	[conga rhythm] Caucus, caucus, caucus!  Caucus, 
+		caucus, caucus!
+Skinner:	But we'll have the last laugh on those Johnny-come-
+		notlies.  We're going to watch my favorite movie 
+		about a grinchy little character who tries to steal 
+		Christmas.
+		[pulls down a projector screen]
+-- "Skinner's Sense of Snow"
+
+% Don't get your hopes up, kids.  Skinner's talking about, "The
+% Christmas That Almost Wasn't But Then Was," a black-and-white film
+% from the 30s.  It starts out with Santa Claus consulting with what's
+% obviously a stuffed reindeer.
+
+Santa:		Ho, ho, ho!  What's that, Blitzen?  Why, yes, it is 
+		Christmas Eve.
+Elf:		I'm happy.
+		[three little people wearing fake-y make-up burst 
+		through the front door]
+		[gasps] It's the Christmas hobgoblins!
+		[the hobgoblins run in and start knocking things 
+		over]
+Nelson:		Hey, what the hell is this?
+Skinner:	[laughs] It's classic mirth-making, is what it is.
+-- "Skinner's Sense of Snow"
+
+% The movie drags on.  A Christmas hobgoblin serenades Little Bo Peep.
+
+Hobgoblin:	[singing]
+		I will always love you,
+		I will always be true,
+		Spend my days pitching woo,
+		                to you.
+Milhouse:	Oh, he's been singing for two hours.
+Lisa:		This couldn't have less to do with Christmas.  And I 
+		think that's a stagehand.
+		[in the movie, a man walks on set, and then quickly 
+		backs off]
+Bo Peep:	And I love you, too.
+		And you and you and you,
+		Oh, you and me,
+		Together we can see ...
+		[the film breaks, thankfully]
+Nelson:		Ha-ha!  Next time, get a DVD.
+Skinner:	This *is* a DVD.
+		[ejects a flaming DVD from the projector, and stamps 
+		it out]
+-- Interesting bonus feature, "Skinner's Sense of Snow"
+
+% Well, it's close to the usual dismissal time, so Skinner decides to
+% run out the last few seconds on the clock.  The kids cheer when the
+% dismissal bell rings.
+
+Take off, and have a frank and productive holiday!
+-- Principal Skinner, "Skinner's Sense of Snow"
+
+% The kids run out of the classroom, but don't get far.  The school is
+% snowed in, with the snow literally piled up higher than the first
+% floor.  All the exits are blocked.
+
+Nelson:		We're trapped in the school!
+		[kids scream]
+Milhouse:	We're gonna miss Christmas!
+		[kids scream louder]
+Skinner:	I fixed the DVD!
+		[loudest scream of all]
+-- "Skinner's Sense of Snow"
+
+% [End of Act One.  Time: 6:59]
+%
+% Kent Brockman reports on the big snowstorm, which has recently been
+% upgraded to a Class III Kill Storm.
+
+Brockman:	And where are the city's snowplows?  Sold off to 
+		billionaire Montgomery Burns in a veritable orgasm 
+		of poor planning.
+		[cut a room on Burns's manor, where he and Smithers 
+		use two of the plows and a giant rubber ball to play 
+		snowplow polo]
+		[Burns scores a goal]
+Burns:		He shoots, he scores!
+Smithers:	Perfect form, sir.
+		[cut back to the Simpsons' living room]
+Marge:		This is terrible!  How will the kids get home?
+Homer:		I dunno.  Internet?
+-- Only if you have broadband, "Skinner's Sense of Snow"
+
+% The storm has brought the phone lines down, so it looks like Skinner
+% and the kids are stuck at the school.  The students lament their
+% lost plans, but Skinner is unsympathetic.
+
+Nelson:		I can cut a trail through this snow.  I'm part 
+		Eskimo.
+Skinner:	I don't care if you're Kristi Yamaguchi.  No one 
+		leaves the building.
+Bart:		This stinks!  We'll miss the "Itchy & Scratchy" 
+		where they finally kiss.
+Skinner:	I don't care if they're kissing Kristi Yamaguchi -- 
+		you're not going home.
+Sherri:		That's so unfair.
+Nelson:		This blows.
+Milhouse:	Skinner's the real Grinch!
+-- "Skinner's Sense of Snow"
+
+% Homer and Flanders plan to rescue the children from the snowbound
+% school.  The two men sit in Ned's Geo, with a section of house roof
+% attached to the front serving as a plow blade.
+
+	[Homer starts the car]
+Ned:	Well, I'm all for rescuing the kids, but I wish you hadn't 
+	sawed off my roof.
+Homer:	My car, your roof; it's only fair.
+Ned:	But it's my car.
+Homer:	Well, yeah.
+Ned:	Hey, whatever happened to the plow from your old snowplow 
+	business?
+Homer:	I never had a snowplow business.
+Ned:	Sure you did -- Mr. Plow.  You're wearing the jacket right 
+	now.
+Homer:	I think I know my own life, Ned.  [singing] Call Mr. Plow, 
+	that's my name; that name again is Mr. Plow.  [drives out 
+	of Flanders's driveway, knocking down his mailbox as he 
+	goes]
+-- "Skinner's Sense of Snow"
+
+% Back at the school, the children begin to chafe at Mr. Skinner's
+% restrictions, which include food rationing.  Nelson tries to make a
+% break for it on his bike, but he bounces off the snowdrift that has
+% piled up at the outside cafeteria door.  (The bike continues
+% bouncing around the cafeteria.)  The failed attempt doesn't
+% discourage the students, who repeatedly chant, "We want out!"
+
+Skinner:	It's getting ugly out there.  Think, Skinner, think!  
+		What would Superintendent Chalmers do?
+		[Chalmers appears in a thought bubble]
+Chalmers:	[accusingly] Skinner!
+		[the thought bubble disappears]
+Skinner:	Mmmm -- that's no help.  [notices he's sitting on a 
+		military footlocker with his name stenciled on it]
+		Ah, my old footlocker.  Back in 'Nam I could command 
+		respect.
+		[cut to a Vietnamese POW camp.  Skinner and two 
+		other men share a cell]
+Soldier 1:	Sarge, let's make a break for it while the guards 
+		are partying with Jane Fonda.
+Skinner:	Nope.  Too dangerous.  We're all going to sit tight 
+		and reminisce about candy bars.
+Soldier 2:	Uh, well, uh, one time, I'm eating a candy bar at 
+		the beach, and a girl starts taking off her bathing 
+		suit.
+Skinner:	Get back to the candy bar.
+Soldier 1:	Eh, the hell with this.  I'm getting out of here.
+		[removes a board from the cell wall, and squeezes 
+		through]
+Skinner:	No!  You fool!
+		[an elephant captures and eats the soldier]
+		[cut back to the present]
+		That elephant ate my entire platoon.
+-- "Skinner's Sense of Snow"
+
+% Skinner vows not to let such an unfortunate thing happen again.  The
+% next thing we know, he appears at the cafeteria entry wearing his
+% Vietnam-era uniform, and really lays down the law:  no talking out
+% of turn, and no leaving the room.
+
+Nelson:		This sucks.
+Skinner:	Are you questioning my authority?  Willie!
+		[Willie comes over and hangs Nelson, by the vest, on 
+		a coat hook]
+Nelson:		Ow!  Mmmph -- my vest.  Well, don't just stand there 
+		-- fight back!  There aren't enough coat hooks to 
+		fit all of us.
+Skinner:	Actually, there are.  [counts] Five ... ten ... 
+		fifteen ... twenty.  [to Sherri and Terri] Eh, can 
+		you two share a hook?
+Sherri +
+   Terri:	Yes, sir.
+Skinner:	We're fine, then.
+Nelson:		[groans]
+-- "Skinner's Sense of Snow"
+
+% Homer and Flanders slowly make their way to the school, careening
+% off snowbanks as they go.
+
+Ned:	I think we hit something.
+Homer:	I hope it's Flanders!  [laughs, then notices Ned glaring 
+	at him] I'm just kidding.  Hey, you're all right.  
+	[playfully punches Flanders on the arm]
+-- "Skinner's Sense of Snow"
+
+% Meanwhile, it's lights-out for the children.  Skinner sets a bucket
+% by Bart's head in case any of the students need to "answer nature's
+% call" during the night.
+%
+% Bart decides to find a way out of the school, but Lisa encourages
+% him to stay.  For all they know, she reasons, rescuers are digging
+% them out right now.  She's partially right; it's wolves, not rescue
+% workers, doing the digging.
+%
+% Back in the Geo, Homer sings along as "Feel Like Makin' Love" plays
+% on the radio.  Homer claims to have written the song as a tribute to
+% Princess Di and her boyfriend Dodi.  His tall tale ends when the car
+% smashes into a fire hydrant.  Water spraying from the hydrant
+% quickly encases the car in a block of thick ice.  The men are
+% trapped as surely as the children they were trying to rescue.
+%
+% At the school, Bart tries to dig his way out with a ladle. 
+% Meanwhile, Ralph approaches Skinner's cot.
+
+Ralph:		Mr. Army Man?  I can't sleep without my Reggie 
+		Rabbit.
+Skinner:	Is that some sort of plush novelty?
+Ralph:		Yes, ma'am.
+Skinner:	Well, here's a scouring pad; it's just as good.
+Ralph:		[caressing the pad to his cheek] It's cold and 
+		hurty.
+-- "Skinner's Sense of Snow"
+
+% Before Skinner falls back asleep, he notices snow coming out of a
+% delivery chute in the wall.  When he investigates, he sees that Bart
+% is digging a tunnel.  Blowing a whistle, which rouses the other
+% students, he tells Bart to stop.
+
+Skinner:	I know it looks like the path to freedom, but one 
+		collapse and -- presto! -- you've got a snow casket.
+Bart:		I was gonna put buttresses in.
+Skinner:	Gonna, wounna, shounna.  Willie, destroy it.
+		[as the students protest, Willie inspects the 
+		tunnel]
+Willie:		He did do a bonnie job, sir.
+Skinner:	Defying orders, eh?  Well, I see you Scotsmen are 
+		thrifty with courage, too.
+Willie:		Okay, Skinner, that's the last time you'll slap your 
+		Willie around.  I quit!
+Skinner:	Fine.  I'll do the job myself.  [pokes the roof with 
+		a broom, which begins to crumble] Help!  It's caving 
+		in!
+		[the roof caves in on Skinner, leaving only his head 
+		exposed.
+Bart:		What's the problem, Seymour?  Stuck?
+Skinner:	That's precisely the problem, and you know it.  Now 
+		get me out of here!
+Bart:		What's that?  You want the pee bucket on your head?  
+		[mounts the bucket there]
+Skinner:	No!  You're twisting my words.
+		[the students cheer]
+Bart:		C'mon!  We're taking over the school!
+-- "Skinner's Sense of Snow"
+
+% [End of Act Two.  Time:  13:21]
+%
+% The kids have extracted Skinner from the collapsed snow tunnel, and
+% stuffed him in a burlap dodge-ball sack, cinching the opening tight
+% around his neck, so that only his head sticks out.  With Skinner's
+% "reign of fussiness" over, the school is under kid control.  They
+% take advantage the way you'd expect them to.  Nelson uses a debating
+% team trophy to dole out pickle relish to the hungry students. 
+% Richard and Lewis race down the hall in a pair of janitor's buckets. 
+% Milhouse draws mustaches on the Presidential portraits, but is
+% stymied by a picture of the mustachioed President Taft.  As the
+% piece de resistance, someone has put a gag on Skinner.
+%
+% Homer and Flanders assess their situation.
+
+Homer:	Oh, stupid ice!  I always knew I'd die caked in something.
+Ned:	Well, better turn off that engine before those fumes put 
+	us in tombs.
+Homer:	Wait, let's just leave it on 'til we forget our troubles.
+Ned:	[getting sleepy] Sounds like a plan.
+	[Homer and Ned pass out]
+-- "Skinner's Sense of Snow"
+
+% Bart makes Skinner write "I ain't not a dorkus" repeatedly on the
+% blackboard.
+
+Skinner:	I can't write this; it's a grammatical nightmare.
+Bart:		[pokes him with a ruler] Mau!  Di-di mau!
+Skinner:	I'm getting a cramp in my wrist.
+Bart:		Oh, boo-hoo.  After all the times I've done it, my 
+		wrist sounds like a cement mixer.  [demonstrates]
+-- "Skinner's Sense of Snow"
+
+% Later, Bart makes Skinner try to climb a gym rope while still in the
+% sack.  Nelson whips him every now and then with a towel.  Skinner
+% protests that this is impossible, but gains no relief from Bart. 
+% "What part of 'di-di mau' don't you understand," the boy asks.
+%
+% After that, Skinner watches helplessly as the students make a mess
+% of his office.
+
+Milhouse:	Hey, I got Skinner's key card!  We can finally see 
+		our permanent records.
+Skinner:	No, you can't go in there.
+		[he does anyway.  The kids cheer and begin reading 
+		through their files]
+Bart:		[reading his file] "Underachiever and proud of it."  
+		How old is this thing?
+Lisa:		[reading her file] "Lisa is an outstanding student 
+		with a slight tendency towards know-it-all-ism."  
+		[gasps] That's not even a word.
+Milhouse:	Then we'll get rid of the record -- permanently.  
+		[Milhouse tears the page out of Lisa's file and rips 
+		it up.  The page re-assembles and attaches itself to 
+		the binder containing Lisa's record.  Then the 
+		binder jumps back in the record file with the other 
+		binders, and the file cabinet closes]
+-- Not much need for keeping backups, "Skinner's Sense of Snow"
+
+% Nelson pulls Skinner's personnel file.
+
+Nelson:		Hey, look how much money Skinner makes.  $25,000 a 
+		year!
+		[the students say, "wow"]
+Bart:		[putting the numbers in a calculator] Let's see, 
+		he's 40 years old times 25 grand -- whoa, he's a 
+		millionaire.
+		[the students sound impressed]
+Skinner:	I wasn't a principal when I was 1!
+Nelson:		Plus, in the summer, he paints houses.
+Milhouse:	He's a billionaire!
+		[the students say "wow" again]
+Skinner:	If I were a billionaire, why would I be living with 
+		my mother?  [the students laugh at him]
+-- "Skinner's Sense of Snow"
+
+% Skinner thinks of Nibbles, the school hamster, and sees a way out of
+% the mess he's in.  He sneaks into the classroom where Nibbles's cage
+% is kept, and writes an SOS note.  He places the note and the hamster
+% in a hamster ball, and carefully places them on top of the snow by
+% the window.  Nibbles scoots a few yards away from the school, then
+% falls through the snow.  Skinner curses his luck as Nelson finds
+% him.
+
+Skinner:	Nelson, if you get me out of this, there's a hall 
+		monitor position coming open in the spring.
+Nelson:		I spit on your monitors.
+Skinner:	I know.  That's why the position's available.
+-- "Skinner's Sense of Snow"
+
+% Meanwhile, Homer and Ned are still subdued by the fumes in
+% Flanders's car.  Homer dreams that he is a sultan surrounded by
+% dancing girls.
+
+Homer:	Enough!  I grow weary of your sexually suggestive dancing.  
+	Bring me my ranch dressing hose.  [claps twice]
+	[the dancing girls bring a fire hose, which shoots ranch 
+	dressing into Homer's open mouth.  A camel that nudges 
+	Homer]
+Camel:	[speaking with Flanders's voice] Homer, Homer.
+	[back to reality]
+Ned:	Homer, wake up!  The car's filling with ...
+Homer:	I know -- ranch dressing.
+	[Nibbles, still in his exercise ball, crashes through the 
+	windshield]
+	A hamster ball!
+Ned:	Just like the one that saved Ezekiel!  [the men breathe 
+	fresh air through the hole in the windshield]
+Homer:	We're free -- and we got something to eat!
+-- "Skinner's Sense of Snow"
+
+% The ice around the car begins to melt, freeing the two Homer and
+% Ned.  They head out for the school.  Homer notices that the Geo has
+% cruise control.  "School, please," he asks, as he takes his hands
+% off the wheel.  The car immediately begins to spin out of control,
+% towards the cracker factory.
+%
+% Back at the school, the kids have started burning books in the
+% library.
+
+Bart:		So long, Johnny Tremaine.  Your Newberry award won't 
+		save you now.  [chucks the book into the fire]
+Skinner:	Not "Huck Finn!"  I spent hours crossing out the 
+		sass-back!
+-- No respect for good censorship, "Skinner's Sense of Snow"
+
+% Flanders's car heads toward some silos at the factory.
+
+Ned:	We're going to crash!
+Homer:	Do you have airbags?
+Ned:	No.  The Church opposes them for some reason.
+-- "Skinner's Sense of Snow"
+
+% The car hits a silo containing cracker salt.  It tips over, and
+% slides down a hill, conveniently landing at the doorstep of
+% Springfield Elementary.  The salt melts the snow surrounding the
+% school, allowing access to the front door.  The students hear the
+% ruckus and realize that they are now free.  They run out the door in
+% time to meet Homer and Ned, who pull up (a little worse for the
+% wear) in the Geo.  The salt immediately rusts out the car.
+%
+% Nibbles, still in the exercise ball, rolls out of the car to
+% Skinner.
+
+You did it, Nibbles.  Now, chew through my ball sack.
+-- Principal Skinner, "Skinner's Sense of Snow"
+
+% Superintendent Chalmers arrives via snowmobile.
+
+Chalmers:	Skinner!
+Skinner:	Superintendent Chalmers.
+Chalmers:	What are you doing in that ridiculous duffel, 
+		Seymour?  And is that burning literature I smell?
+Skinner:	Uh, well, sir ... I, uh ...
+Chalmers:	There'd better be a good explanation for this.
+Bart:		There is, sir.
+Chalmers:	Ah.  Then I'm happy.  [rides off]
+-- "Skinner's Sense of Snow"
+
+% Bart and Skinner agree that this is one of those situations that 
+% don't need to be discussed ever again.
+
+Homer:	Come on, kids.  Let's leave this awful place and never 
+	come back.
+	[Homer, Ned, Bart, and Lisa get in the car, and drive 
+	away]
+Bart:	Boy, that salt really ate through the car.
+Lisa:	And the exhaust pipe is leaking.
+Homer:	Whuh?
+Lisa:	And furthermore ... [metamorphs into a camel-headed 
+	creature] Hooonk!
+Bart:	[as a dancing girl] Ignore her, effendi.  We have each 
+	other.  [Arabesque music plays]
+Homer:	Oooh, baby.  [cut to exterior shot of the car]
+Bart:	Yaaah!  [the car begins to swerve around the road]
+Homer:	It's no use struggling, my beloved chalamala.
+	[Lisa-camel steps into frame from the left, and addresses 
+	the audience]
+Lisa:	Merry Christmas from the Simpsons!  Hooonk!  Hooonk!
+-- "Skinner's Sense of Snow"
+
+% [End of Act Three.  Time (including a flourish of music):  20:16]
+
+
+<|endoftext|>

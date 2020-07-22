@@ -1,0 +1,854 @@
+<PRE>
+Stark Raving Dad                Written by Al Jean, Mike Reiss (and Sam Simon?)
+                                                         Directed by Rich Moore
+===============================================================================
+[$Id: 7f24 1.4 92/01/30 21:09:04 raymond Exp Locker: raymond $]
+===============================================================================
+> Title sequence
+===============================================================================
+Blackboard :- `I am not a dentist'.
+              `I am not a dentis|' at cutoff.
+
+Driveway   :- no oil on the driveway.
+              Homer does not shake his fist at Bart.
+              Homer says `D'oh!' when Lisa scoots past.
+
+Couch:     :- the couch tips over backwards, sending them through the wall.
+
+===============================================================================
+> Didja notice...
+===============================================================================
+
+    ... guest voices were provided by John Jay Smith (see below),
+        Pamela Hayden (Millhouse) and Kipp Lennon (?) ?
+    ... the man asleep at the safety console on Burns' monitor?
+    ... when Homer did that `bebebebebe' thing, insead of crossing
+        his eyes towards each other (which is easy; just look at your
+        nose), they cross AWAY from each other?
+    ... Homer is the only person in the asylum whose hand is stamped?
+    ... the hat perched precariously atop Marge's 'do?
+    ... Krusty is in costume even when he's at home?
+        (Compare "Krusty Gets Busted")
+    ... Dr. Hibbert was wearing another Cosby sweater[tm]?
+        [Nat Collins (nat@bu-pub.bu.edu)]
+        Actually, two.  One on the phone saying, `Michael Jackson?',
+        and another when he actually goes to see Michael Jackson.
+        (It was a `Beat It!' sweater the second time.) {jdb}
+    ... the man with the `John 3:16' sign?  Also in the crowd was a football
+        team in full uniform. {dh}
+    ... how much Homer wore his pink shirt?
+    ... we don't see how they got the piano up the stairs?  (Or back down.)
+    ... Maggie has a Binky doll?
+    ... Lisa has an Itchy doll on her bookshelf? {scm2}
+    ... Lisa's sax solo on the closing credits was an elaboration of the
+        one she used to serenade Mr. Bergstrom?
+
+Dave Hall {dh}:
+    ... the guy counting the workers as they march into the plant?
+    ... Homer was wearing pink slippers?  (Once an anarchist...)
+    ... the two cops in Moe's Tavern during the phone chain sequence?
+    ... Homer slept with his `NOT INSANE' certificate?
+
+===============================================================================
+> Movie references
+===============================================================================
+  + America's Funniest Home Videos
+      - Homer watches a startlingly similar show on TV
+    Rain Man
+      - Floyd, the idiot savant
+  + One Flew Over the Cuckoo's Nest
+      - much of the floor plan of the hospital {pmm}
+      - the poker game, one-to-one correspondence with characters in
+        the original game.  {jdb}
+      - the dude hitting the punching bag with his cane {jf}
+      - the discussion group
+      - the agoraphobe with the sweater. {jdb}
+      - R. P. McMurphy (Jack Nicholson) talking about dating a nurse. {jg}
+      - Nurse Ratched, Mr. Harding, the Chief, the old man in the blue robe
+        who danced constantly, and, of course, R. P. McMurphy himself.  {jwc}
+  ~ Bye-Bye Birdie
+      - the collage of people calling each other {wm}
+  + Silence of the Lambs
+      - Hannibal Lector perched on a two wheeler replete with face mask,
+        tied to a dolly with a straight jacket. {sf2}
+      - In the cafeteria scene, he appears again, being given something to
+        drink through a straw by an orderly. {cpc}
+
+===============================================================================
+> Animation and continuity goofs
+===============================================================================
+David Hall observes that Maggie spits her pacifier at Bart, yet when Marge
+sat her down in the high-chair, she still has it in her mouth.  [That's
+because Maggie has a near-infinite supply of pacifiers.  See `The Pacifier'
+on the Tracey Ullman Show. --rjc]
+
+===============================================================================
+> Freeze Frame Fun
+===============================================================================
+>> The title sequence
+
+J.D. Baldwin {jdb} reports:
+
+In the title sequence, observe that in true cartoon style, the hole in the
+wall is a silhouette of our favorite family.  Observe Bart's outstretched
+hand, and that Marge's hair takes a chunk out of the picture, which swings
+back and forth with the chunk missing.  What kind of hair spray <does> she
+use?  We know she has a LOT of it.
+
+Also, freeze-frame on the skinhead's bedroom (early on in the ``Michael
+Jackson!?  Michael Jackson?!'' sequence).  In the background are, among
+other nifty things:
+
+   a)  a figurine of the devil on his dresser
+   b)  a poster of the Grim Reaper holding a chainsaw labeled `DEATH'
+
+>> The Krusty Hotline is 1-909-O-U-KLOWN. {dh}
+   But Bart dialed ``0530350''. {cjb}
+
+>> The Take-Home Personality Test, courtesy of Steve VanDevender {sv}
+
+    Besides the questions read aloud ("Do you hear voices?"  "Do you
+    ever wet your pants?"), I can make out these parts of the
+    following questions on my VCR.
+
+    fly to thin air?
+    n't really there?
+    circles for hours?
+    r father and mother?
+    ything in red?
+    apparent reason?
+    of violence?
+    ng food down?
+    ?? on rewards?
+
+
+>> The New Bedlam Rest Home for the Emotionally Interesting
+
+Dave Hall observes that it has barbed-wire atop the outer walls.  [So that
+nobody can break in, I suppose? --rjc]  It also has an emergency entrance,
+(for fast checking-in of patients, perhaps) and an outdoor TV antenna.
+(Apparently they can't or don't want to have cable.)
+
+>>> The telephone
+
+Theron Stanford {tws} kindly provides the pre-programmed
+buttons on the phone at New Bedlam:
+
+    * Larry King
+    * Oprah
+    * Phil Donahue
+    * Geraldo
+    * Ski Report
+
+>>> Signs at New Bedlam
+
+    You don't have to be crazy to be committed here, but it helps!
+    Your mother isn't committed here, so clean up after yourself!
+    Do not throw food.
+
+>> The phone collage (and the episodes the scenes there taken from) {cjb}
+
+         Convict [7F20]             Patty [7F15]       Barney [7G10]
+            Dr H [7F14] Scene from a Mall [7F23] Mrs Winfield [7F14]
+     Baby-sitter [7G01]               Abe [7F17]          Moe [7F22]
+
+The `Scene from a Mall' is a man in a little phone-alcove that Bart runs
+past when he rushes back to the martial arts school.
+
+>> The crowd waiting for Michael Jackson
+
+Chris Baird {cjb} observes...
+
+    Mayor Diamond Joe Quimby
+    Apu
+    Kent Brockman
+    Chief Wiggum
+    Nick Riviera
+    Dr. Hibbert
+    Moe
+    Wendel
+    Kerny
+    Jasper
+    Princess Cashmere
+    One of the 'Palmer twins' (with blond hair)
+    Krusty('s paunch)
+    Sherry and Terry
+    Ned & Todd Flanders
+    Prof Lombardo
+    Groundskeeper Willie
+    Ms. Allbright
+    Helen Lovejoy
+    The Teacher from the Enriched Learning Center
+    The Shoe-shop and Bowl-o-Rama attendant (`Eraser Head')
+    Antoine Tex O'Hara (owner of the 'Topes)
+    Red-Haired mother from 7G04
+    Milhouse
+    Patty and Selma
+    Grampa Simpson
+    Skinner's mother
+    A girl from Bart's class
+    Dr. Marvin Monroe
+
+===============================================================================
+> Songs
+===============================================================================
+>> Michael sings Homer to sleep...
+
+    Homer, the two of us need look no more.
+    We both found what we are lookin' for.
+    With a friend to call my own, I'll never be alone,
+    And you, my friend, will see, you've got a friend in me.
+
+===============================================================================
+>> Lisa's birthday song
+
+>>> As performed during the show, with piano and percussion:
+
+[Michael]
+Lisa, it's your birthday.  God bless you this day.
+You gave me the gift of a little sister, and I'm proud of you today.
+
+[Michael and Bart]
+Lisa, it's your birthday.  Happy birthday, Lisa.
+Lisa, it's your birthday.  Happy birthday, Lisa.
+
+[Michael]
+I wish you love and good will.  I wish you peace and joy.
+[Bart]
+I wish you better than your heart desires.
+[Michael]                                   And your first kiss from a boy.
+
+[Michael and Bart]
+Lisa, it's your birthday.  Happy birthday, Lisa.
+Lisa, it's your birthday.  Happy birthday, Lisa.
+
+[Bart]  Yeah!
+
+>>> As performed over the credits, with full musical back-up:
+
+[Michael and Bart]
+Lisa, it's your birthday.  Happy birthday, Lisa.
+Lisa, it's your birthday.  Happy birthday, Lisa.
+
+[Michael]
+I wish you love and good will.  I wish you peace and joy.
+[Bart]
+I wish you better than your heart desires.
+[Michael]                                   And your first kiss from a boy.
+
+[Michael and Bart]
+Lisa, it's your birthday.  Happy birthday, Lisa.
+Lisa, it's your birthday.  Happy birthday, Lisa.
+
+[Bart]  Take it away, Lis.
+
+[Lisa]  [does a saxophone solo]
+
+[Michael and Bart]
+Lisa, it's your birthday.
+
+[Lisa]  [more sax stuff]
+
+[Michael and Bart]         Happy birthday, Lisa.
+
+[Michael] Hoo!
+
+===============================================================================
+> Who is John Jay Smith?
+===============================================================================
+Listen for the characteristic Michael Jackson grunts at the ends of long
+notes.  (I know this doesn't settle it one way or the other.)
+
+Leong Heng Cheong (leong@wam.umd.edu) reports:
+
+Like Dustin Hoffman, Michael Jackson agreed to join the show as long as his
+name is not in the credits.  Nobody connected to the show is saying it's
+Miachel Jackson -- and the credits (of John Jay Smith) does refer to Miachel
+Jackson.  Anybody knows why this particular name is chosen?
+
+===============================================================================
+> Assorted comments and observations
+===============================================================================
+>> The John 3:16 man
+
+Mark Yocom (n9043860@henson.cc.wwu.edu) explains...
+
+The John 3:16 man is Rockin' Rollen Stewart, ``a born-again Christian whose
+mission in life is to get his signs (and his mug) on national TV as often as
+possible, the better to spread the word of the Lord.  Only in America.''
+(according to `More of the Straight Dope', by Cecil Adams.)
+
+The article goes on to explain that before he was born again, in 1980, his
+main interest was being ``the most famous person in the world no one knows
+about.''  For years he was the guy seen on telecasts of golf tournaments (of
+all things -- Ed.) with the multicolored Afro wig.  This earned him the
+nickname of `Rainbow Man'.
+
+>> Lisa's poem
+
+The line `Couldn't that Chrysler hit me instead?' refers to the car
+that ran over Snowball I.
+
+Dennis Cleary (dfcleary@ucdavis.edu):
+
+For someone just turning eight, this seems awfully advanced.  Not that the
+poem is great or anything, but already feeling betrayed by your parents is
+something that I wasn't able to put into words until I was the big 1-0,
+when `your legs start to go, candy doesn't taste so good anymore,' etc.
+
+I guess it was just another example of how Lisa feels betrayed by her
+family.  I thought it went nicely with the scene of Lisa singing `Happy
+Birthday' to herself.  I just wonder how the character development is
+going to be carried through, when they insist on only making 20 shows a
+year, showing us first and second season re-runs the rest of the time.
+
+>> The Environment
+
+>>> Marge's hair spray
+
+Jym Dyer suspects that there's probably a hole in the ozone layer right
+above the Simpsons' house.  (FYI, Bart uses CFC-free spraypaint in the
+`Bart Vs. The Space Mutants' video game.)
+
+Jeff Meredith (mer@postgres.berkeley.edu) notes that Lisa would be thoroughly
+disappointed in a mother that had such blatant disregard for Springfield's
+ozone layer.
+
+>>> Lisa's wastebasket
+
+And Mark Walsh (beatlfan@leland.stanford.edu) noticed that ``when Bart dumped
+Lisa's garbage can out onto the floor to use it as a drum, an aluminum can
+fell out.  I'm disappointed.  I'm CERTAIN that Lisa would recycle.''  Members
+of the Abject Admirers of Lisa Simpson the world over are profoundly
+disappointed.
+
+>> Scott Fields (am949@cleveland.Freenet.Edu) listened to it many times and
+is convinced that the person singing `Crazy' on the New Bedlam wrongly
+committed hotline is Tracey Ullman.
+
+>> Amitava Biswas (ami@leland.stanford.edu) points out that Michael cannot
+seem to teach Homer how to moonwalk, yet in Dancin Homer, Homer clearly
+moonwalks on top of the dugout!
+
+>> The interrogation
+>>> Nice, the powerplant has its own interrogation room... {cjb}
+>>> Smithers notes, ``We must have X-rayed him a hundred times.''
+    The equivalent of working in a nuclear power plant for five minutes.
+
+===============================================================================
+> Quotes and scene summary
+===============================================================================
+% Before the 30-Jan-1992 airing, a brief Simpsons clip was shown.
+% Homer, the kids, and the Gruesome Twosome are watching TV.
+% (Animation borrowed from [7f02].)  It's President Bush's recent
+% State of the Union Address.  (A live-action inset, not a cartoon.)
+% Bush says that he wants America to be more like the Waltons than
+% the Simpsons.
+
+Hey, we're like the Waltons.  We're praying for the end of the Depression, too.
+-- Bart reacts to President Bush's 1992 State of the Union Address
+
+% [end of clip]
+%
+% Lisa wakes up Bart by holding his nose shut until he gags awake.
+
+Lisa: [wakes up Bart]
+Bart: Lisa!  It's 6am!  Something's wrong.  Dad died!
+Lisa: No no, he's fine!
+Bart: Well, whaddya know, I'm relieved.
+-- ``Stark Raving Dad''
+
+Lisa: Bart, in two days, I'm going to be eight years old.
+      It's a big number, almost double digits.
+Bart: Well, enjoy it while you can.  Everything changes when you hit the
+      big one-oh.  Your legs start to go, candy doesn't taste as good
+      any more...
+Lisa: Bart, will you please let me pour my little heart out?
+Bart: Sorry, this old-timer does ramble on sometimes, don't he.
+-- Pre-life crisis?  ``Stark Raving Dad''
+
+% Lisa complains that Bart never does anything for her on her birthday,
+% until he angrily gives in.  She hugs him and says, ``Oh, thank you.''
+% At breakfast, Marge asks Bart to watch Maggie while she does the laundry.
+% Bart sees the Krusty Hot-Line on his cereal box and calls it.
+
+Hi, kids!  You've reached the Krusty Hot-Line!
+If you haven't asked your parent's permission, naughty-naughty!
+But Krusty forgives you.
+($2 for the first minute, 50 cents for each additional minute.)
+[laughs and laughs and laughs]
+Thanks for calling, kids!  A new message every day!
+-- 1-909-O-U-KLOWN, ``Stark Raving Dad''
+
+% Meanwhile, Maggie takes a ride on the ceiling fan.  Marge comes
+% upstairs with the laundry and scolds Bart.
+
+Marge: Bart, I asked you to watch your sister [Maggie].
+Bart:  I tried to stop her, but she overpowered me!
+-- A likely story, ``Stark Raving Dad''
+
+% Maggie spits her pacifier at Bart.  Homer comes down to get a clean shirt,
+% to find that they're all... pink?
+
+Aagh!  Pink?
+Marge, I can't wear a pink shirt to work.
+Everybody wears white shirts.  I'm not popular enough to be different...
+-- Homer finds all his shirts are pinko, ``Stark Raving Dad''
+
+% The reason is that Bart put his lucky red hat in with the wash.
+% Marge assures Homer that nobody will notice.  At the office, Burns
+% and Smithers review the tapes of the employees coming to work...
+
+Burns:    Why is that man in pink!
+Smithers: Oh, that's Homer Simpson, sir.
+          He's one of your boobs from Sector 7-G.
+Burns:    Simpson, eh?
+-- ``Stark Raving Dad''
+
+Burns:    Well, judging by his outlandish attire, he's some sort of
+          free-thinking anarchist.
+Smithers: I'll call security, sir.
+Burns:    Excellent.  Yes, these color monitors have already
+          paid for themselves...
+-- Homer wears a pink shirt to work, ``Stark Raving Dad''
+
+% Homer's coworkers razz him about wearing pink, and
+% he is carted off by security to an interrogation room.  He tries to explain
+% what happened, but Burns doesn't believe him.  Smithers notes that the
+% body cavity search turned up nothing, nor did X-rays.  Burns recalls
+% Smithers' penchant for bell-bottom trousers, but that was for the company
+% performance of HMS Pinafore.  (``Oh, yes.  Your spirited hornpipes stole
+% the show, as I recall.'')  Burns asks Dr. Marvin Monroe for assistance.
+
+Burns:  Doctor, what should we do about our freewheeling fop over here?
+Monroe: Well, Monty, it used to be that establishing a patient's sanity
+        took months.  That's all changed, thanks to the Marvin Monroe
+        take-home personality test.  Twenty simple questions that will
+        determine exactly how crazy or [makes quotation sign with fingers]
+        `meshuggeneh' someone is.  [hands it to Homer]
+Homer:  [reading]  Print name?   [moans]  Oh...
+-- In triplicate, please... ``Stark Raving Dad''
+
+% At home, Marge applies hair spray, three empty cans atop her dresser.
+% She finds her can empty and opens her drawer, revealing a dozen cans ready
+% to go.  She grabs one and continues spraying...
+%
+% Homer comes home and asks her to fill out the personality test, but she
+% insists it's something only he can do.  He goes to Lisa's room...
+
+Homer: Lisa, you like homework.  Could you fill out this form for me?
+Lisa:  Well, all right.  If you'll listen to the poem I just wrote.
+Homer: D'oh!!  Oh, okay.
+Lisa:  Meditations on Turning Eight, by Lisa Simpson.
+       [reads]
+       I had a cat named Snowball --
+       She died!  She died!
+       Mom said she was sleeping --
+       She lied!  She lied!
+       Why oh why is my cat dead?
+       Couldn't that Chrysler hit me instead?
+       [next verse]
+       I had a hamster named Snuffy --
+       He died...
+Homer: [takes his form]  No deal.
+-- Death and Transfiguration, ``Stark Raving Dad''
+
+% Homer goes to Bart...
+
+Bart:  Dad, maybe you should do this.
+Homer: Son, it's no different than the time I let you vote for me.
+       Remember that absentee ballot?
+-- On filling out a psychiatric evaluation form, ``Stark Raving Dad''
+
+% Homer watches television...
+
+Announcer:  Our $50,000 home video finalists are...
+       Man Breaking Hip. [sound of bowling pins, followed by a scream]
+Homer: [chuckles]
+Announcer:  [chuckles]
+       Dog On Fire.
+       [doing a doggy voice]
+       Ruff, anybody order a hot dog?
+Homer: [laughs uproariously]  Oh, look at him!
+Announcer: And finally, Baby With a Nail Gun. [kachunk]
+Homer: Aww....
+Announcer: Cast your votes now!
+Homer: Dog On Fire!  Dog On Fire!
+-- America's Stupidest Home Videos, ``Stark Raving Dad''
+
+Bart:  Hey, Dad, do you hear voices?
+Homer: [angrily] Yes, I'm hearing one right now while I'm trying to watch TV...
+Bart:  [checks] Yes.  Are you quick to anger?
+Homer: Bart!  Shut up or I'll shut you up!
+Bart:  [checks] Yes.  Do you wet your pants?  Well, even the best of us
+       has an occasional accident.
+       [checks the remainder of the form `Yes' all the way down]
+-- Filling out a psychiatric evaluation form, ``Stark Raving Dad''
+
+% The next day, Homer asks, ``So, did I pass?''  The answer is, ``No.''
+
+Careful, men.  He wets his pants.
+-- Smithers' instructions to security, ``Stark Raving Dad''
+
+% He's carted off to the New Bedlam Rest Home for the Emotionally Interesting
+% and given a Rorschach test.
+
+Doctor: [shows Homer an inkblot]
+Homer:  Eh, the devil with his fly open.
+Doctor: Right.  [shows another]
+Homer:  Uh, that's a spill on the floor with bugs going after it.  Uh, they're
+        going to eat it.
+Doctor: Good.  [shows another, which looks like Bart]
+Homer:  THE BOY!!!!!!  [restrained by two orderlies]
+-- I'm perfectly normal, really... ``Stark Raving Dad''
+
+Homer:  This isn't fair!  How can you tell who's sane and who's insane?
+Doctor: Well, we have a very simple method.
+        [stamps his hand, `INSANE']
+        Whoever has that stamp on his hand is insane.
+-- Does that mean he can come back for free?  ``Stark Raving Dad''
+
+% They ``put him in with the big white guy who thinks he's the
+% little black guy.''
+
+Homer: Who are you?
+Man:   Hi, I'm Michael Jackson, from The Jacksons.
+Homer: I'm Homer Simpson, from The Simpsons...
+-- Homer meets his cell-mate at the asylum, ``Stark Raving Dad''
+   [A little meta-humor for your enjoyment.]
+
+% [End of Act One.  Time: 6:16]
+
+Man:   I can't believe you never heard of me.  I'm a very popular entertainer.
+Homer: Oh, of <course> I've heard of you!  I mean, you'd have to be living
+       under a rock not to know... What'd you say your name was?
+Man:   Michael Jackson.
+Homer: Doesn't ring a bell.
+-- I own a mansion and a yacht... ``Stark Raving Dad''
+
+Man:   Well, have you heard of MTV?
+Homer: No.
+Man:   Motown.
+Homer: No.
+Man:   Beat It.
+Homer: <You> beat it!
+Man:   Thriller.
+Homer: What was that last one?
+Man:   Thriller.
+Homer: Nope.
+Man:   Well, how about this...
+       [sings Billy Jean, complete with wild gyrations, crotch grab,
+       and moonwalk]
+Homer: Wow!  How do you do that thing with your feet?
+Man:   The moonwalk?
+Homer: No, that thing with your feet!
+Man:   Here, look.  Just raise your heel a bit, put a little pressure on
+       the ball of your foot.  [demonstrates]
+Homer: [tries to imitate, but ends up going forwards]  D'oh!
+-- ``Stark Raving Dad''
+
+Man:   You seem like a nice guy.  Why'd they put you in here?
+Homer: 'Cause I wore a pink shirt.
+Man:   I understand.  People thought I was crazy for the way I dressed...
+Homer: What'd you wear?
+Man:   One white glove, covered with rhinestones.
+Homer: [crosses his eyes and does that `bebebebebebe' thing with his lips]
+-- ``Stark Raving Dad''
+
+% Meanwhile, Bart and Lisa watch another absurdly violent Itchy and Scratchy
+% cartoon, this one with a birthday theme.
+
+Lisa: Bart, in the split second before he died,
+      I bet Scratchy appreciated his birthday present.
+      Do you see how this relates to us?
+Bart: Hey, you want that once-a-year empty gesture?  You got it, Sis.
+- Lisa fishes for a birthday gift, ``Stark Raving Dad''
+
+% Meanwhile, The Man shows Homer around the asylum.
+
+Man:   Homer, this is Floyd.  He's an idiot savant.  Give him any two
+       numbers, and he can multiply them in his head, just like that.
+Homer: Okay.  Five times nine.
+Floyd: Forty-five.
+Homer: Wow!
+-- ``Stark Raving Dad''
+
+% He also introduces the taciturn Chief, who says, `Hello.'  The doctors
+% and nurses rush over excitedly.  ``Well, it's about time somebody reached
+% out to me.''  Homer is too embarrassed to phone home, so The Man offers to
+% do it.
+
+Homer: I gotta call my family.  Oh, this is so embarrassing, calling them
+       from a nuthouse.  I mean, they think I'm a god!
+Man:   I could call them for you.
+Homer: Oh great.  And uh, try to put a good face on it.
+       Tell them this is one of those places where rich women lose weight.
+-- HS, Phone Home... ``Stark Raving Dad''
+
+Joe's Crematorium.  You kill 'em, we grill 'em.
+-- Bart answers the phone, ``Stark Raving Dad''
+
+Man:  Hello?  Who's this?
+Bart: I'm Bart Simpson.  Who the hell are you?
+Man:  I'm Michael Jackson.
+-- Bart answers the phone, ``Stark Raving Dad''
+
+Man:  I'm Michael Jackson.
+Bart: <The> Michael Jackson?  [makes scoffing sound]  No way!
+Man:  It's true.  I'm with your father in a mental institution.
+Bart: Uh huh.  And is Elvis with you?
+Man:  Could be.  It's a big hospital.
+-- ``Stark Raving Dad''
+
+% Bart gives him a little interrogation, which the man passes.
+
+Man:   Your father really needs your help.  You don't want him to get a
+       lobotomy, do you?
+Bart:  Hm...  lobotomy...
+       [begin dream]
+       [Bart is playing in the house and breaks a lamp]
+Homer: [stitches on forehead still visible, wearing his pink shirt]
+       [zombie-like]  That's all right, son...
+       [end dream]
+Bart:  Well, there's probably a down side I don't see.
+-- ``Stark Raving Dad''
+
+[Bart jots down a message]
+Uh huh.  New Bedlam Asylum.  Loves us.  Needs us.  Fears he may never see
+us again.  Got it.  [hangs up]
+Michael Jackson, woo hoo!  I love you, man!
+-- A difference of priorities, ``Stark Raving Dad''
+
+% Bart relays the message...
+
+Bart:  Hey, Mom!  Dad's in a mental institution!
+Marge: Oh, my God... Mother was right!
+-- ``Stark Raving Dad''
+
+% Bart hums `Beat It' and does the moonwalk.  Meanwhile...
+
+Man:     Don't you worry.  Your family's going to be here before you know it.
+Patient: Forget it, pal.
+         There's only one way out of here, and it ain't pretty.
+Homer:   What's that?
+Patient: Dating a nurse.
+Homer:   [whining] Oh!
+-- Escape from New Bedlam, ``Stark Raving Dad''
+
+% Back at home...
+
+Marge: I told you kids you were going to send your father to the crazy house!
+Bart:  No, Mom, you said poor house.
+Marge: I said crazy house.
+Bart:  Poor house.
+Marge: Crazy house.
+Bart:  Poor house.
+Marge: Crazy house!
+-- Den of iniquity?  ``Stark Raving Dad''
+
+% Marge calls the asylum...
+
+Hello, you have reached the New Bedlam ``Wrongly Committed'' Hot-line.
+All of our operators are currently busy.  Please stand by.
+[Muzak is `Crazy', Patsy Cline's biggest hit (written by Willie Nelson).]
+-- ``Stark Raving Dad''
+
+% That evening, Homer is scared, so The Man sings him a song.
+% Homer has dozed off, but is talking in his sleep...
+
+Homer: [talking in his sleep] pancakes... football... boobies...
+       pork rinds... waffles...
+Man:   [to his stuffed animal]  Bubbles, it's going to be a long night.
+-- ``Stark Raving Dad''
+
+% [End of Act Two.  Time: 11:01]
+%
+% The next morning, Homer joins a discussion group.  The nurse tells them
+% to relax.  Behind a one-way mirror, doctors monitor the discussion with
+% a mind-boggling array of advanced electronics equipment and readouts.
+
+Dave:  So I was working in an insurance company, right?  Youngest VP
+       in the history of the firm, okay?  The job was my life.
+       Then one Monday morning, I got up.  I got up, I couldn't leave
+       the house.  I just couldn't.
+Homer: Was the door locked?
+Dave:  No, I just couldn't face what was out there.
+Homer: Was it raining?
+Nurse: No, Homer, Dave suffers from agoraphobia, a fear of open areas and
+       crowds.  Please, Dave, go on.
+Dave:  Thank you.  Anyway, that day I just knew I just couldn't make that
+       long drive to work.
+Homer: Were you out of gas?
+Nurse: [glares at Homer]
+Homer: Pffft.  Baby...
+-- ``Stark Raving Dad''
+
+% Marge talks to a doctor.
+
+Doctor: Mrs. Simpson, I'm sorry, but your husband suffers from a persecution
+        complex, extreme paranoia, and bladder hostility.
+Marge:  Doctor, if you just talk to him for five minutes without mentioning
+        our son Bart, you'd see how sane he is.
+Doctor: You mean there really is a Bart?!  Good Lord!
+-- Springing Homer from the New Bedlam Home for the Emotionally Interesting,
+   ``Stark Raving Dad''
+
+% Homer's breakfast of pancakes is interrupted by Marge, and he is released.
+
+Doctor: Mr. Simpson, after talking to your wife, we believe you're no
+        threat to yourself or others.
+Homer:  That's the most flattering thing anyone has ever said to me.
+        Can I have it in writing, please?
+Doctor: Of course.  [hands Homer a certificate:
+            This certifies
+            HOMER SIMPSON
+            not insane.]
+-- ``Stark Raving Dad''
+
+% Homer is grateful to The Man ...
+
+Homer: If you ever find your marbles, come visit us.
+Man:   Well, how about today?  I'm only here voluntarily.
+Homer: You are!?  Why?
+Man:   Well, back in 1979, I got real depressed when my `Off the Wall'
+       album just got one lousy Grammy nomination.
+-- ``Stark Raving Dad''
+
+% At home, Lisa and Maggie sit at the kitchen table, and Lisa sings sadly
+% to herself... ``Happy birthday to me, Happy birthday to me, Happy birthday
+% overlooked middle child, Happy birthday to me.''  Lisa collapses in tears,
+% and Maggie toots her noisemaker.
+
+Joe's Taxidermy.  You snuff 'em, we stuff 'em.
+-- Bart answers the phone, ``Stark Raving Dad''
+
+% Homer starts to threaten Bart, then realizes that the doctors are watching.
+
+Homer: [on the phone with Bart]
+       I'm bringing Michael Jackson home to stay with us for a few days.
+       [aside]  Isn't that cute, he's heard of you.
+       [to phone]  Now make sure we have plenty of cold cuts, and put some
+       beer on ice...
+Man:   Um, Homer, I'm a vegetarian, and I don't drink.
+Homer: Are you <sure> you're here voluntarily?
+-- Checking out of the New Bedlam Home for the Emotionally Interesting,
+   ``Stark Raving Dad''
+
+Bart:  [on the phone]
+       Yes, Dad, I solemnly swear I will not tell another living soul.
+       ...
+       No, not even Millhouse. [hangs up]
+       [intense, but brief, mental struggle]
+       [dials phone]
+       Hello, Millhouse?  Can you keep a secret?
+Millhouse:  No.
+Bart:  Oh, well, who cares.
+-- I've got a secret, ``Stark Raving Dad''
+
+% Word quickly spreads throughout town.  Apu hears the report on the radio
+% and debates with himself whether he should leave his post.  He does so,
+% turning the `We never close' sign over to read `Closed for the first time
+% ever'.  The Simpsons front lawn is swarming with people (and even a
+% helicopter), as Mayor Diamond Joe Quimby orates...
+
+This is the uh most exciting thing to happen to our uh fair town
+since the Dalai Lama visited in 1952.  And so, I hereby declare that
+Route 401, currently known as the Dalai Lama Expressway, will be
+henceforth be known as the Michael Jackson Expressway.
+-- Mayor `Diamond' Joe Quimby, ``Stark Raving Dad''
+
+% When Homer and The Man arrive, everybody is disappointed that it's not
+% the real Michael Jackson and quickly wander off.
+
+Lisa: Bart, the entire town is howling for your blood, and before I join
+      them, I have one question.  Today is my birthday.  You promised
+      to get me something and... and... I'm afraid to ask...
+Bart: You know, maybe you should trust that instinct and not ask.
+-- ``Stark Raving Dad''
+
+% Homer tries (and fails) to wash the `INSANE' stamp off his hand.
+% Lisa angrily writes Bart a letter...
+
+Dear Bart, I am using the stationery Mom and Dad gave me <for my birthday>
+to inform you that we are now brother and sister in name only.  Perhaps
+if a professional so advises, I will give you a hug at some far-distant
+family reunion.  But rest assured, it will be purely for show. [sobs]
+-- Lisa writes a letter to Bart, ``Stark Raving Dad''
+
+% The Man sees Lisa and talks to Bart, and he suggests Bart write Lisa a
+% song for her birthday.
+
+Bart: I can't write a song, I'm only ten.
+Man:  Only ten?  When I was your age, I had six gold records!
+-- ``Stark Raving Dad''
+
+Bart: Looney Toons, this is what Michael Jackson looks like.
+      [shows an album]
+      You're nothing but a big fat mental patient.
+Man:  You'd be amazed how often I hear that.
+-- ``Stark Raving Dad''
+
+% He tells Bart to believe what he wants.  Bart asks Michael to sit down at
+% the piano while he boils some coffee.
+
+[to the tune of the Colonel Bogey March]
+Lisa, her teeth are big and green.
+Lisa, she smells like gasoline.
+Lisa, da da da Disa.
+She is my sister, her birthday, I missed-a.
+-- Bart's birthday song for Lisa, ``Stark Raving Dad''
+
+% The Man suggests they go look at Lisa so Bart can figure out what his
+% feelings toward her are.  They do so from the treehouse.
+
+Man:  Oh, she looks sad.
+Bart: That's 'cause she knows you're looking at her.
+Lisa: [turns]  Although I'm aware you're looking at me, I would look
+      exactly the same even if you weren't.
+-- ``Stark Raving Dad''
+
+% Back at the piano...
+
+Man:  Bart, think.  What happens to you when you turn eight?
+Bart: Well, your training wheels come off your bike...
+Man:  Good.  That's good.  [plays and sings]
+      Your training wheels come off your bike,
+      You start to notice boy you like.  Hee hee hee!
+Bart: You're just putting that in because it's commercial.
+Man:  [chuckles]
+-- Bart's birthday song for Lisa, ``Stark Raving Dad''
+
+% The next morning, the newspaper headline reads, ``Michael Jackson a hoax!
+% Everyone mad at local boy.''  Bart wakes up Lisa by holding her nose shut
+% until she gags awake.  The Man wheels in the piano, and Bart takes an
+% upended wastepaper basket for a drum, and they play and sing.  (Homer covers
+% his head with his pillow.)  Lisa thanks them for the best birthday present
+% she's ever gotten.
+
+Man:   [in his normal voice]  Well, my work is done here.
+Bart:  Hey, Michael, what happened to your voice?
+Man:   This is my real voice.  My name is Leon Kompowski, and I'm a bricklayer
+       from Paterson, New Jersey.  All my life, I was very angry.  Until one
+       day, I just [Michael Jackson voice] talked like this.
+       [in his normal voice]  All of a sudden, everyone was smiling at me,
+       and I was only doing good on this earth.  So I kept on doing it.
+       To make a tired point, which one of us is truly crazy?
+Homer: Not me, I've got this!  [shows his certificate]
+-- ``Stark Raving Dad''
+
+Marge: Bye-bye, Leon.
+Lisa:  You're a credit to dementia!
+-- ``Stark Raving Dad''
+
+% Leon saunters down the sidewalk, singing Lisa's birthday song.
+%
+% [End of Act 3.  Time: 20:49]
+%
+% [Music for closing credits is Lisa's birthday song.  Time: 1:04]
+===============================================================================
+Episode summaries Copyright 1991 by Raymond Chen.  Not to be redistributed
+in a public forum without permission.  (The quotes themselves, of course,
+remain the property of The Simpsons, and the reproduced articles remain
+the property of the original authors.  I'm just taking credit for the
+compilation.)
+</PRE>

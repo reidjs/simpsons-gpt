@@ -1,0 +1,146 @@
+% H = Homer, B = Bart, L = Lisa
+%
+% The Simpsons backyard.  From left to right, Homer, Lisa, Maggie, and Bart.
+% Homer tosses a football jauntily in his hand.
+
+H: Go for it, Bart.  Go out for the looong bomb!
+B: Okay, Dad!
+
+% Bart runs off stage right as Homer heaves the ball with all his might.
+%
+% Close-up on Homer, calling with his hand by his mouth.
+
+H: Atta boy, Bart!  Catch this one and I'll buy you all chocolate milkshakes!
+
+% Cut to Bart, running along the grass, his arms outstretched in front of
+% him, and his head turned to watch the ball.
+
+B:  Oh-boy, oh-boy, oh-boy, oh-boy, oh-boy, **oomph**
+
+% Bart runs into a tree.  But he immediately recovers and continues as
+% before.
+
+B: [pant]  [pant]  **oomph**
+
+% He runs into a post, but immediately recovers and continues, not once
+% taking his eye off the ball.
+
+B: [pant]  [pant]  **hulp**
+
+% Bart runs into a brick wall.  He collapses on his back, streams of
+% pain radiating from his body.  The ball bounces off the wall.
+
+H: [o.s.]  Next time, put a little effort into it, boy!
+
+% [End of Act One.  Time: 0:23]
+%
+% Same set-up as before.
+
+H: Catch this one, and we all get chocolate milkshakes!
+
+% Bart runs off stage right.  Homer throws the ball.  Bart runs along
+% the grass as before.  Cut back to Homer and Lisa watching.
+
+H+L: Faster, Bart!  Faster!
+
+% Bart runs faster.
+
+H+L: Fence, Bart!  Fence!
+
+% Bart hurdles the fence.
+
+H+L: Ditch, Bart!  Ditch!
+
+% Bart leaps over a huge ditch.  (Looks more like two cliffs a few feet
+% apart.)
+
+H+L: Dog, Bart!  Dog!
+
+% Bart leaps into the air, avoiding a dog, which gnashes its teeth
+% futilely.  (Bart stays in the air for about two seconds.  Impressive.)
+
+H+L: Cliff, Bart!  Cliff!
+
+% Bart jumps off the cliff and remains syspended in midair.  At least,
+% long enough for him to realize his mistake, upon which he falls like
+% a rock.  (Standard cartoon technique.)
+
+B: Aaaauuuuuuugggggghhhhhh!!!!!!!
+
+% The football also goes over the cliff.  We heard a *thud*.
+%
+% Bart is on his back at the bottom of the cliff.  The football lands a
+% few feet away.
+
+H: That boy just don't listen.
+
+% [End of Act Two.  Time: 0:51]
+%
+% Third time's a charm?  Bart's head is visibly bruised.
+
+H: Come on, Bart.  Catch the ball so we can all go out for some frosty
+   chocolate milkshakes.
+L: [angrily] Yeah, Bart.
+H: Start runnin', boy!
+
+% Bart runs off stage right, and Homer heaves the ball yet again.  (*ungh!*)
+%
+% Lisa plays cheerleader, sans pom-poms, hopping from one leg to another.
+% Maggie mimics Lisa, but silently.
+
+L: Go, Bart!  Go!  Go, Bart!  Go!
+
+% Maggie falls as a result of the difficult balancing necessary to hop from
+% one leg to another.
+
+H: Atta boy!  Chocolate milkshakes, here we come!
+
+% Lisa's cheering continues in the background as Bart runs along the grass.
+%
+% Bart's eye view of the football closing in.  The football hits the camera.
+
+B: [o.s.] Ungh!
+
+% Lisa raises her arms in triumph.
+
+L: Yaaaay!  He caught it!!
+
+% Bart is flat on his back, the football seriously wedged into his mouth.
+% The usual collection of stars and spirals around Bart's head.
+% Homer is disappointed.
+
+H: [o.s.]  When I said catch, I meant with your hands.
+
+% Bart raises his head and tries to respond, but it just comes out as
+% ``Mmmph.  Mmph.  Mmmph.''
+%
+% [End of Act Three.  Time: 1:14]
+%
+% In the ice cream parlor.  (A sign on the wall has a picture of a milkshake
+% and the caption $1.89.  The window has ``Parlor'' written backwards; the
+% words ``Ice Cream'' are above the picture frame and aren't visible.)
+% From left to right, Homer, Maggie, and Lisa.  Everyone has a strawberry
+% shake in front of them.  Homer eats his with a spoon (notice the spilt
+% milkshake near Homer's cup); the girls drink theirs through a straw.
+% Maggie holds her pacifier in her left hand.
+
+H: Well, Bart, you put in a good effort today, so we're all being rewarded.
+
+% Homer eats his spoonful of milkshake.  Maggie squeals with delight.
+
+L: Good slurpee.
+H: Bart, you're not touching your milkshake.  Aren't you hungry?
+
+% The camera pans across the table to Bart, who has a milkshake in front of
+% him and the football still wedged in his mouth.  Bart raises his arms and
+% tries to protest, but all we hear are muffled tones.
+
+H: Well, if <you> won't drink it, I will!
+
+% Bart continues to protest, but we can't make out what he's trying to say.
+% With an evil smirk, Lisa reaches over and shoves the straw into his mouth
+% around the football.  Bart starts drinking his milkshake.
+%
+% [End of Act Four.  Time: 1:32]
+
+<|endoftext|>

@@ -1,0 +1,877 @@
+<PRE>
+Radio Bart                                                Written by John Vitti
+                                                       Directed by Carlos Baeza
+===============================================================================
+[$Id: 8f11 1.3 92/04/30 09:02:36 raymond Exp Locker: raymond $]
+===============================================================================
+> Title sequence
+===============================================================================
+Blackboard :- `I will not carve gods'.
+              `I will not carve go' at cutoff.
+
+Lisa's solo:- upbeat with a funky rhythm.
+
+Driveway   :- Homer says `D'oh!' when Lisa scoots past.
+              Homer says `Waugh!' when the car closes in on him.
+
+Couch      :- The family leap onto the couch and bounce on the
+              springs.  At each bounce, the relative position of the
+              family members changes.
+
+===============================================================================
+> Didja notice...
+===============================================================================
+    ... Sting voiced himself?  Other guest voices were
+        Pamela Hayden (Martin), Russi Taylor, and Maggie Roswell.
+    ... Maggie fell only once?  (When the townspeople rush past with shovels.)
+        Though she did crawl to the door, suggesting that there was an
+        unseen fall shortly before.
+    ... the freezer was in SERIOUS need of defrosting?
+    ... Jimbo sticks his head into the camera frame and waves during
+        Kent Brockman's live report?
+    ... Chief Wiggum consistently wore his badge on the wrong side of
+        his chest?
+    ... one of the policemen looks like Wiggum's son!
+    ... Maggie was playing with the foil after the prayer?
+    ... in the interview with Krusty the Klown, they kept cutting
+        back to Kent Brockman for a shot of an attentive nod? {thf}
+    ... Sideshow Mel's headset goes INTO his hair?
+    ... McBain wore his gun to the recording session? {jrd}
+        And was `Sing sing sing' a reference to Sing-sing prison?
+    ... people were wearing little well-hats?  Merchandising strikes again.
+    ... the oil spot in the driveway is back?
+    ... Marge's hair is a bit askew once Bart's well crisis begins?
+    ... the acorn by the Lincoln squirrel's head?  (I.e., a top hat.)
+
+Dave Hall {dh}:
+    ... Homer was eating while Bart opened his gifts?  Nelson was slurping
+        on a drink.
+    ... Bart placed a ``Property of Bart Simpson'' label on the kitchen
+        ceiling and the Play/Rec. room floor?  (Bart's labels are gone from
+        the kitchen throughout the rest of the episode.)
+    ... the freezer contained nothing but ice cream?  (The freezer
+        even has a light.  Compare the fridge light, which has burnt out.)
+    ... Homer threw a loaded rifle to the floor to grab at Bart's throat?
+    ... the pacifier hook on Maggie's crib?
+    ... the dinosaur skeleton was nearest the surface, followd by the
+        treasure chest, then the flying saucer?  You'd think the dinosaur
+        would be buried the deepest...
+
+===============================================================================
+> Rave Reviews
+===============================================================================
+
+John R. Donald {jrd}: I give it an A.
+
+Ric Dube (dube@milton.u.washington.edu):  This was just about my favorite
+episode since Bart The Daredevil.  Or Flaming Moe's.
+
+Jamie Ide {ji}:  I thought it was a classic!  One of my favorites, anyway.
+
+Shane P. Faulkner {spf}:  A great episode, Bart was at his devious best in
+this one.
+
+Ted Frank {thf}:  All-in-all, a good episode.  Homer tackled his second
+rock star, and we got to see Sideshow Mel and the Capital City Goofball.
+
+Eric Jablow {ej}:  I didn't like the episode much, although I&S were great,
+and the playground scene with Lisa and the jump-ropers was superb.  Notice
+the really fast turnaround time from the I&S animators?
+
+Marc Colten {mc}:  Really a terrific episode.
+
+Lawrence A. Schwimmer {las}:  Overall, a fully-packed episode!  I'm amazed
+they managed to stuff so many things in (I&S, McBain, guest voice, Krusty,
+TV commercial snaring Homer, media events, etc...)
+
+Alan J. Rosenthal {ajr}:  A great one!  Sting was kind of bizarre; it's
+funny how unkind they are to guest stars!  The measuring of Bart's height
+was probably the best part.
+
+Scott Amspoker {sa}:  [A great episode!]  Absolutely!
+
+Yours truly {rjc}:  Lots of little laughs.  Bart's ``Uh huh'' while Homer's
+hands are still around his throat.  ``He fell down a well, and...  he
+can't get out.''  Not a classic, but still a strong showing.
+
+===============================================================================
+> Movie (and other) References
+===============================================================================
+    Soul Train and its host Don Cornelius {mc}
+    Milli Vanilli
+        - Funky-See Funky Do's lip-sync'ing
+        - Note also Funky Do's hairstyle.
+  + Chuck E. Cheez
+        - The `Wall E. Weasel' pizzeria/entertainment center.
+    Real Genius
+        - in the movie, `our heroes' trick a guy (named Tod) into believing
+          that God is talking to him by wiring his braces. {rc}
+  + Jessica McClure, the girl who fell down the well
+        - the plot
+    Jaws
+        - the man with the fishhook and chocolate bar
+          is the character Quint (Robert Shaw) {spf, wab}
+  + We Are the World (and its imitators)
+        - a big production to raise money for a needy cause
+        - everybody swaying back and forth while singing
+    Cat Scratch Fever (song)
+        - The I&S cartoon is titled `Cat Splat Fever'. {dab}
+  + the song `Axel F' from Beverly Hills Cop
+        - the music as Bart descends the well {hot, sg}
+    I Think We're Alone Now (pop song)
+        - the new #1 hit, `I Do Believe We're Naked'. {dab}
+  + Popeye
+        - I've had all I can stands and I can't stands no more! {dab}
+  + Canary in a Coal Mine (song by The Police, incl. Sting)
+        - the, well, you know {spf}
+
+===============================================================================
+> Freeze Frame Fun
+===============================================================================
+>> The lucky birthday kids
+
+Anna Goodwin
+Reagan Gray
+Paul Grenville
+Jim Greigor
+Harriet Hartman     [any relation to Phil?]
+Mike Himes
+Julie Hirsh
+Janet Hopkins
+Cara Hunter
+Gracie Jensen
+Loretta Kangas
+Marilyn Katz
+Ken Keeler
+John Lanzetta
+Lorna Lefever
+Marie Lichterman
+Iris Lowe
+Kim Madrigal
+Cammie McGovern
+Bill McLain
+David Moulton       [I know this guy!]
+Mary Myron
+Nigel Nelson
+J. P. Patches       [see below for explanation of this inside joke]
+Ted Phillips
+Randy Plot
+Brady Reed
+Kevin Reilly
+Pete St. George
+Casey Sanders
+Matthew Schneider
+Patrick Semple
+Emma Shannon
+Bart Simpson
+Larry Stone
+Beth Summerlin
+Kate Sunberg
+Dale Thomas
+John Travis
+Eric Van Buerden
+Patric Verrone
+Lee Wallace
+Jay Weinstein
+Chris White
+Jay Wiviott
+Henry Yeomans
+
+At $8 a pop, that's $360, and probably more, since we didn't get the
+entire list.
+
+>> Bart's coupons
+
+Phineas Q. Butterfat / 5600 Flavors / Ice Cream Parlor
+1 Free / Birthday / Sundae
+    (``Eat it and get out.'')
+
+Jake's Unisex Hair Palace / Free birthday shave
+
+Free Tango Lesson
+
+>> Wall E. Weasel's
+   We cram fun down your throat
+
+Maggie was in the ball pen.
+Martin was just standing there.
+Milhouse was shooting a basketball.
+Wendell was playing Skee-ball.
+Nelson held his Skee-balls in his hands, walked up the alley, and
+    tossed them all into the center target.
+Kids playing `Whack the Weasel'.  [Scott Amspoker {sa} points out that
+    this is our second masturbation reference.  Marc Colten {mc} notes,
+    though, that there is an actual arcade game called Whack-a-Mole,
+    which looks exactly like the game in the show.]
+
+>>> Video games
+
+    Larry the Looter (Bart plays this one)
+        You (Larry) break the window of an electronics store, and
+        score points for each item you steal.  But watch out for
+        the shop owner carrying a shotgun!
+    Time Waster
+    Coffee Fiend
+    Touch of Death
+    Comic Shop
+
+>>> Bart's presents
+
+    A label maker from Patty and Selma.  (Bart makes the label ``This bites'')
+    A pair of socks
+    The book, ``Dr. Marvin Monroe's Guide to Etiquette''
+    A tiny potted cactus
+    A Superstar Celebrity Microphone from Homer
+    A grey cap and blue jacket from Martin.  (``Now we can be twins!'')
+
+>> Lisa's magazine
+   Non-Threatening Boys
+   pictures, all captioned, ``Corey''.
+   ``A dreamy photo fantasy!''
+
+>> Rod and Todd's room
+   `Springfield #1' pennant over Rod's bed.
+
+>> We're Sending Our Love Down the Well
+
+[front row]
+Troy McClure
+Scott Christian
+The Channel 6 weather girl (Kent Brockman's girlfriend) {dh}
+Bleeding Gums Murphy
+Diamond Joe Quimby
+Krusty the Klown
+Princess Cashmere
+
+[second row]
+Sting
+Sideshow Mel (singing operatically)
+McBane
+Dr. Marvin Monroe
+Captain Lance Murdoch (not in a body cast)
+The Capital City Goofball
+?unknown man?
+
+>> The things around the well
+
+Man selling ``I survived Timmy O'Toole's Getting Trapped in a Well'' T-shirt.
+Man hawking ``Timmy's Baby Teeth'' ($6 a bag).
+Bernard the bouncer, ushering people with a flashlight.
+Two cops (not the regular two cops) standing guard over the well, as
+    people file past to look down.
+A sign on the well reads, ``Admission $2.00''
+A giant Ferris wheel.
+Hot dog stand.
+Stand labelled `Games'.
+Pizza stand.
+Beer stand.
+
+>> Things brought for Bart when he is trapped down the well
+>>> Homer brings
+    Krusty doll (which Homer throws down)
+    an alarm clock (with only one bell.  How does it ring?)
+    plastic bag containing a goldfish, and an empty aquarium.
+      (Homer looks like he's about ready to throw this down, but doesn't.)
+    baseball bat
+    baseball glove
+    football
+>>> Marge brings
+    oversized sweater (knit it herself)
+>>> other stuff
+    a Krusty picture.  Or is it some other picture and a Krusty doll on top?
+
+>> Digging Bart out
+>>> Things in the soil
+    A dinosaur skeleton
+    A treasure chest
+    A flying saucer with a one-eyed space alien's skeleton
+>>> People helping
+    Herman acts as foreman (since he can't dig)
+    Groundskeeper Willie (and Agnes)
+    Moe
+    Krusty
+    Principal Skinner
+    Apu holds a lantern
+    Sting
+
+===============================================================================
+> Animation and continuity goofs
+===============================================================================
+Homer was standing in the doorway between the TV room and kitchen while
+Bart was watching TV, but when Marge stuck her head into the TV room, the
+kitchen disappeared and was replaced by a hallway.  Also, the telephone
+cord would have to be really extra long to reach from the wall next to the
+fridge all the way to the TV room entrance. {dh}
+
+The lip sync during Homer's speech in bed was way off because the
+animation was stolen from `Saturdays of Thunder' [8f07].  The scene where
+the two cops tell Homer and Marge about Bart's fate might have been taken
+from `Bart vs. Thanksgiving' [7f07].
+
+When Bart opens his gift from Patty and Selma, there's an ashtray in front
+of them.  But when Homer gives Bart the microphone gift, the ashtray is
+gone.
+
+When Homer opens the freezer door, we see three rectangular boxes of ice
+cream.  But Homer only inspects two boxes before he quits.  Moreover, the
+side angle of the freezer shows cylindrical cartons of ice cream!  (Though
+I did like how Homer muttered, ``Mmm... Chocolate'' three times.)
+
+Bart raised his desk lid, which has nothing on it, to hide/throw the
+micro-phone in, yet in the next scene, the top of his desk appears to be
+full of stuff. {dh}
+
+Rod and Todd's radio antenna appears to change positions. {dh}
+
+Both door mats are missing from the front door as Homer asked `What's up?' {dh}
+
+The stump that Bart looped the rope around appears and disappears from
+scene to scene. {dh}
+
+The I&S cartoon is interrupted by a special report from Channel 6 News,
+where Kent Brockman gives the report.  Except that in `Krusty Gets Busted'
+[7g12], Kent says that the Krusty the Klown show is on a rival network.
+
+In the establishing shot of Homer bringing stuff to the well, he brings a
+baseball bat.  But when we move in closer, the bat is missing.  Not a
+goof:  In the same shot, Quimby appears to be to the left of his security
+guards, but is between them when he tells the cops to take Homer away.
+This isn't a goof because he's actually standing in front of them; he
+merely seems to be to their left because of the camera angle.
+
+And, of course, a real radio microphone doesn't have the range that Bart's
+did.  Dave Hall asks what brand of batteries Bart's radio used.  Sure lasted
+a long, long time.
+
+Dave Hall points out that Bart <did> use a fake ID.  In ``Bart vs.
+Thanksgiving'' [7f07].
+
+Groundskeeper Willy opened his flask, threw away the cap, downed a drink,
+then placed the (uncapped) flask back into his pocket. {dh}
+
+===============================================================================
+> Comments and other observations
+===============================================================================
+>> References
+
+>>> J. P. Patches
+
+Bill Baker {wab} explains this inside joke.  His story is so well-told that
+I include it in its entirety:
+
+J.P. Patches was a clown character played by Chris Wiedes who had a morning
+kids show (much like the Krusty the Klown Show) on Channel 7 in Seattle.
+He even had a daily shtick where he would look through his ICU2 TV set to
+divine the names of kids who were having birthdays that day (he didn't
+charge $8).  J.P. was <the> beloved figure to a generation of Seattle
+kiddies....
+
+The parallels get really weird if you remember Bart's disillusionment with
+Krusty this season.  One of the things Krusty does off camera is smoke.
+Well, my dad used to work at Channel 7 and share an office with Chris
+Wiedes.  One day my Dad brings me in early to hang around the set while
+they're shooting the show.  He drops me off in the cafeteria with (Yes!) the
+idol of my youth, J.P. Patches.  Up close in person, I see that J.P. is an
+old, tired guy in makeup and a mop wig slumped over a cup of coffee.  He
+gives me a desultory hello and then pulls out a coffin nail (J.P. Patches
+keeps cigarettes in his pockets?) and lights up.  There went the last of my
+childhood innocence.  Then I sat through the show and discovered, through
+the off-camera banter, that a lot of the seemingly innocent running jokes
+and shtick, the catch phrases repeated by thousands of Seattle tykes, were
+actually very adult inside jokes.  Oh well.
+
+The more that I think about it, the more parallels I see between J.P. and
+Krusty.  J.P. had a number of sidekicks like Sideshow Bob and Corporal
+Punishment, and he played a lot of cartoons.  Of course, this is a
+much-copied formula.
+
+However, I did get a great picture of me at 14, long hair down past my
+shoulders, with J.P. Patches standing with his arm around me.
+
+>>> Jessica McClure
+
+Some years ago [can anyone give a year?] a young girl named Jessica McClure
+fell down a well, the aperture of which was too narrow for a grown-up to
+fit down.  She became the focus of media attention for several days until
+her rescue, upon which she immediately faded into obscurity.
+
+Garry Shandling also spoofed this news item on his program.  Garry `fell'
+down a well, hoping that the media attention would boost his show's ratings.
+
+>>> Chuck E. Cheez
+
+Chuck E. Cheez is a combination pizzeria/kiddie entertainment center on
+the West Coast (though outlets have allegedly been spotted on the East
+Coast and abroad).  It is a popular site for kiddie birthday parties.  The
+similarities with Wall E. Weasel were unmistakeable.
+
+    - the guy costumed as the mascot
+    - the cage full of plastic balls (for the youngsters to frolic in)
+    - Skee-Ball alleys
+    - video games (relatively feeble ones)
+    - the birthday party
+    - the animated mechanical singers
+    - kids running amok
+    - the mediocre pizza  [Okay okay, maybe not the mediocre pizza. --rjc]
+
+>>> Previous episodes
+
+    [8f06] Phineas Q. Butterfat
+    [7f23] Touch of Death
+    [7f14] Non-Threatening Boys
+    [8f08] Bernard the bouncer
+    [7f01] Dave Shutton
+    [7f04, 8f02, 8f04] The one-eyed space alien
+
+>> Stupid Springfieldians
+
+Rolf Wilson {rw} complained that it never dawned on the townspeople to
+send down somebody skinny (not necessarily a policeman), or to start
+digging (until Homer did).  Nor did anybody shine a flashlight down the
+well.
+
+Of course, I think that was the whole point.  Everybody in Springfield is
+a boob.  Only in Springfield (or perhaps Dick Loudon's Vermont town of
+Norwich) could Bart fool everyone for so long.
+
+>> The TV commercial
+
+One of `The Simpsons' strong points is their relentless lampooning of the
+less admirable aspects of modern television.
+
+John R. Donald {jrd}:  I love the detail.  Through the window, kids are
+throwing a ball around.  When the TV `magically' disappears and the radio
+toy-thing reappears in its place, the kids have suddenly stopped throwing
+the ball, and are in slightly different positions.  It would have been
+easier, from the standpoint of the cartoonist, to simply continue the
+action in the background, but in order to imitate the cheesy commercial,
+the continuity is purposefully messed up.
+
+Jamie Ide {ji} identifies the song as ``Convoy'' by C. W. McCall.
+
+Ron Carter {rc}:  Part of the commercial is a direct lift from Ronco's Mr.
+Microphone ads ``Hey honey, we'll come back later...''  And Homer's
+response ``That guy is in for some lovin' later...'' is hilarious...
+
+Yours Truly {rjc}:  My favorite part was the first line.  ``Why sit in
+front of the TV, when you can be...''  Playing volleyball outside with
+your friends getting some fresh air?  No!  ``... on the radio!''
+
+>> Itchy and Scratchy
+
+(Most of this section will be deleted when J. D. Baldwin incorporates it
+into his I&S Guide.)
+
+>>> Cat Splat Fever
+
+Scratchy comes into the bedroom (which contains two beds, one with `Itchy'
+on the headrest, the other with `Scratchy') and finds a note: ``Good bye
+cruel world.  Itchy.''  Scratchy looks out the window and sees Itchy
+calmly hop into the well outside.  Scratchy rushes outside and leaps into
+the well to save his friend.
+
+As he falls, Scratchy passes by Itchy, sitting calmly on a brick that
+happens to be jutting out from the wall of the well.  Itchy waves bye-bye
+as Scratchy falls past.  Scratchy screams and flails his arms, landing in
+the open mouth of a waiting alligator.  After a few chomps, the alligator
+swallows Scratchy and submerges.  The water turns red.
+
+A Scratchy-angel rises from the water, but as it passes Itchy, the mouse
+pulls a gun and fires at the cat's head, blowing a hole clean through his
+left eye.  Scratchy's halo rises upward out of shot, but the rest of
+Scratchy falls with a scream.  Itchy waves good-bye.
+
+After the cartoon, a panel containing Itchy and Scratchy's heads
+bracketing a yellow ribbon appears on the screen, captioned, ``Dedicated
+to Timmy O'Toole.''
+
+>>> Didja notice...
+    ... the picture of Itchy and Scratchy on the wall?
+    ... the alligator chomped Scratchy four times instead of just
+        swallowing him whole, as is traditional for cartoons?
+        Itchy and Scratchy, at the forefront of cartoon violence. {thf}
+
+>> The jumprope rhyme
+
+One plus one plus three is five.
+Little Bart Simpson's buried alive!
+He's so neat, he's so sweet.
+Now the rats have Bart to eat!
+
+How many days until Bart croaks?  One, two, three, four, ...
+
+>> Miscellaneous
+
+For those who didn't know, in the early days of coal mining, canaries were
+placed in the mines as a sort of early-warning system.  Being much smaller
+than humans, they were more sensitive to the presence of poison gas.  (Note
+also the reference to a song by The Police.)
+
+===============================================================================
+> Quotes and scene summary
+===============================================================================
+% Homer finds Lisa dancing provocatively in front of the television.  She's
+% watching a TV dance show, laden with pretty young girls dancing the same
+% way.  Homer drools at the girls (reflected not only in his eyes, but
+% also in his drool).
+
+Lisa:  Dad, can I have some money to buy Bart a birthday present?
+Homer: [entranced by a TV show of pretty girls dancing provocatively]
+       Mon-ney.  [hands over a huge wad of bills]
+Lisa:  [riffles through it]  Dad, this is a hundred and ten dollars!
+Homer: Oh, sorry.  [gives her the entire wallet]
+-- Ask, and you shall receive, ``Radio Bart''
+
+`Funky-See Funky-Do' will be right back to lip-sync another of their
+hits, right after this...
+-- Announcer on TV music dance show, ``Radio Bart''
+
+% Lisa leaves to go shopping, and a commercial comes on.  It's for one of
+% those microphones that acts as a mini radio transmitter.  The commercial
+% is your usual shameless plug, and Homer gobbles it, hook, line, and
+% sinker.  Homer decides to buy it for Bart's birthday.
+
+Announcer: ... But order now.  Supply is limited.
+Homer:     Gasp!  Limited!?!?  [frantically dials the phone]
+           Do you have any of those microphones left?
+Clerk:     [standing in a warehouse filled to the roof with boxes
+           of microphones]  Yeah, a couple...
+-- A couple thousand, perhaps... ``Radio Bart''
+
+% In bed, Homer tells Marge that this time, perhaps he will succeed at
+% purchasing his son's affections.
+%
+% It's Bart's birthday.  Homer marks Bart's height on the wall.  (All the
+% marks are zig-zagged, being outlines of Bart's spikey hair.)  Bart tunes in
+% the Krusty the Klown Show in time to watch the birthday announcements.
+% Sideshow Mel brings out a giant birthday cake, and Krusty trips him.
+% Mel lands on his face, but the cake is intact.  As Mel gets up, Krusty
+% kicks him in the butt, sending him headfirst into the cake.  Mel's
+% hair catches fire on the candles.  (Later, we see Mel running frantically
+% in the background, his hair still afire.)
+%
+% Krusty says it's time to see the names of the birthday boys and girls,
+% and Bart watches his name scroll past (along with two dozen other names)
+% at lightning speed.  ``Wow, best eight bucks I ever spent.''  Marge tells
+% Bart that Grampa is on the phone to wish him a happy birthday.  ``Take a
+% message.''  Bart brandishes a handful of 46 coupons for birthday goodies
+% and heads out.
+%
+% First stop is a free birthday sundae at Phineas Q. Butterfat's.  The
+% clerk gives Bart a tiny teaspoon-sized sundae.  Next is a free shave.
+
+Bart:   [in the barber shop, getting a shave]
+        Digital audio tape, my butt!  When <I> was a kid, we had compact
+        disks, and <I> don't recall no one complaining.
+Barber: Damn right.
+-- Bart's free shave, ``Radio Bart''
+
+% Bart then gets his free tango lesson.  Although half the height of his
+% partner, Bart dances divinely.  Bart excuses himself to go to his
+% birthday party.  (``Farewell, Senor Bart,'' sighs Rosarita.)
+%
+% Bart arrives at the birthday party and greets his guests.
+
+Hey, good to see you.
+Glad you could make it.
+Toby, have you lost weight?
+-- Bart, the perfect host at his birthday party, ``Radio Bart''
+
+% The kids harrass Wall E. Weasel, who is trying to deliver a pizza.
+% Bart busies himself with a video game.  Later, he `talks' with the
+% mechanical entertainment, which performs a birthday song.  (The
+% lyrics sing to the `birthday boy or girl'.)  Until it catches fire,
+% at least.
+%
+% Bart's first birthday gift is from Selma.  It's a label-maker.  Bart is
+% hardly amused.  The other gifts are equally boring.  Homer gives Bart the
+% radio microphone, but Bart merely calls, ``Next.''  Martin gives Bart a
+% matching jacket and beret, identical to his own.
+%
+% Having nothing better to do, Bart labels everything in the house
+% ``Property of Bart Simpson'' (including SLH).  Homer opens the fridge...
+
+Oh, there's only one can of beer left, and it's Bart's.
+-- Homer finds a `Property of Bart Simpson' sticker on a can of Duff,
+   ``Radio Bart''
+
+% Homer asks Bart how the microphone is working, to see it being used
+% to prop the window open.  ``Bart, I would love to get a present like
+% that.''  Bart hands it over.  ``Here you go.  Enjoy.''  Homer demonstrates
+% the microphone, singing the song that was sung on the TV commercial,
+% blasting his melodious voice out Lisa's radio.  Lisa covers her ears.
+% (SLH howls in agreement.)
+%
+% He then makes an announcement for Marge over her radio, but she couldn't
+% understand him because of the distortion.  Homer realizes his gift was
+% a flop.
+%
+% In his room, Bart grouses, ``What a crappy birthday.''  Marge comes in
+% and tells him the radio microphone isn't so bad.  She demonstrates.
+% ``Testing, testing, one two three. ...  Oh my, do I sound like that?''
+% Bart decides it might not be a total loss after all.
+%
+% Downstairs, Homer opens the freezer and pulls out a box of Neapolitan
+% ice cream, to find that the chocolate is completely gone.  (The vanilla
+% and strawberry are untouched.)  He pulls out a second box, with the
+% same result.  ``Marge, we need some more vanilla, chocolate and
+% strawberry ice cream!''  The radio crackles to life.
+
+People of earth, this is Bartron, commander of the Martian invasion force.
+Your planet is in our hands.  Resistance is useless.
+-- The first broadcast of ``Radio Bart''
+
+% Only after he fetches a shotgun does Homer realize that it was Bart.
+% ``Why you little...''  But he stops his strangling when he realizes
+% that this means Bart actually <liked> his gift after all!  He makes
+% Bart promise not to play any more practical jokes, and Bart agrees.
+% (Bart surreptitiously slaps a ``Property of Bart Simpson'' label on
+% Homer's butt.)
+%
+% [End of Act One.  Time: 6:41]
+%
+% Marge puts Maggie to bed and removes her pacifier.  As Marge turns
+% to leave, we hear Maggie say, ``Mama!  Mama!''  Marge is amazed,
+% then discovers a small radio hidden behind Maggie's pillow.
+%
+% Bart hides his microphone under Lisa's bed and uses it to snoop in
+% on her conversation with one of her friends.
+%
+% In school, flatulent noises are heard when Ms. Krabappel sits down.
+% Ms. K discovers the radio under her chair.
+%
+% Bart spots Rod and Todd sitting in their room listening to the radio.
+
+Bart: [over the radio] Rod!  Todd!  This is God!
+Rod:  How did you get on the radio?
+Bart: Whaddya mean, how did I get on the radio?  I created the universe!
+      Stupid kid.
+Todd+Rod: [fall to their knees and clasp their hands]
+Todd: Forgive my brother.  We believe you.
+Bart: Talk is cheap.  Perhaps I'll test a guy's faith.  Walk through the
+      wall!  I will remove it for you.
+Rod:  [walks into the wall]  [thud]
+Bart: Ha ha ha.
+Todd+Rod: [return to their knees in prayer]
+Todd: What do you want from us?
+Bart: I got a job for you.  Bring forth all the cookies from your kitchen
+      and leave them on the Simpsons' porch.
+Rod:  But those cookies belong to our parents.
+Bart: Ugh!  Look, do you want a happy God or a vengeful God?
+Todd: [quickly]  Happy God.
+Bart: Then quit flapping your lip and make with the cookies!
+Todd+Rod: Yes, sir!
+-- How to win friends and influence people, ``Radio Bart''
+
+% Bart twirls his microphone and blows across it, as if it were a
+% six-shooter.
+%
+% Bart lowers his portable radio on a rope down a well, but he loses his
+% grip, and it falls to the bottom.  Groundskeeper Willie hears a plaintive
+% ``Help!  Help!'' coming from the well.  He takes a swig from his liquor
+% flask and runs through traffic, returning with his plow.  Bart
+% chuckles, ``Sucker!''
+%
+% Word travels quickly through town, and before you know it, the well
+% is surrounded by the police, curious onlookers, and Kent Brockman.
+% Bart identifies himself as Timmy O'Toole, an orphan who was turned
+% away from Springfield Elementary by Principal Skinner on account of
+% his shabby clothes.  Skinner denies this accusation.
+
+The circumference of the well is 34 inches, so, unfortunately, not
+one member of our city's police force is slender enough to rescue the
+boy.
+-- Kent Brockman's report, ``Radio Bart''
+
+% (During Kent's report, we see Eddie bring a box of donuts from the
+% food stand.  The other cops are already munching away.)  Chief
+% Wiggum scolds his men, and when asked why <he> doesn't go down,
+% he says, ``Well, I'm too... important.''
+%
+% Kent explains that Timmy's foot is caught under a rock, so they
+% can't simply pull him up, lest he become injured.
+%
+% A falconer explains that his bird will fly the boy to safety.
+% He releases the bird, which flies away, never to return.
+%
+% A man shows a fishhook and a bar of chocolate.  ``And then I'll
+% clean him for free.''
+
+Although we can't reach the boy, we <can> freeze him with liquid
+nitrogen, so that future generations can rescue him.
+-- Dr. John Fink's plan to rescue poor Timmy O'Toole, ``Radio Bart''
+
+% The Simpsons sit on the TV couch, metal trays set up in front of them.
+
+Dear Lord, before we peel the foil back from Your bounty...
+-- Marge's TV dinner prayer, ``Radio Bart''
+
+% Marge asks the Lord to keep an eye on poor Timmy, and Bart laughs.
+
+Homer: That Timmy is a real hero!
+Lisa:  How do you mean, Dad?
+Homer: Well, he fell down a well, and... he can't get out.
+Lisa:  How does that make him a hero?
+Homer: Well, that's more than you did!
+-- ``Radio Bart''
+
+% On TV...
+
+Channel 6's own Krusty the Klown has gathered members of the entertainment
+community, who normally steer clear of fashionable causes...
+-- Kent Brockman's news report, ``Radio Bart''
+
+% Kent Brockman interviews Krusty regarding his new project, a video
+% called We're Sending Our Love Down the Well.
+
+I called my good friend Sting.  He said, ``Krusty, when do you need me?''
+I said, ``Thursday.''  He said, ``I'm busy Thursday.''
+I said, ``What about Friday?''  He said, ``Friday's worse than Thursday.''
+Then <he> said, ``How about Saturday?''  I said, ``Fine.''  True story!
+-- Krusty makes his music video, ``Radio Bart''
+
+% Kent interviews Sting and Krusty, then we see the resulting video.
+
+Sting:  There's a hole in my heart as deep as a well for that poor little boy,
+        who's stuck halfway to Hell...
+Sideshow Mel: Though we can't get him out, we'll do the next best thing...
+McBane: We go on TV and sing, sing, sing!
+All:    And we're sending our love down the well...
+Krusty: All the way down!
+All:    We're sending our love down the well...
+Krusty: Down that well!
+-- Krusty's music video, ``Radio Bart''
+
+% Kent asks Krusty what he's going to do with the royalties.  Krusty explains
+% that first, they have to pay for promotion, shipping, distribution, the
+% limos they rented...  Whatever's left over, they throw down the well.
+%
+% The field around the well has turned into a Timmy O'Toole amusement park.
+%
+% Lisa watches another ridiculously violent Itchy and Scratch cartoon,
+% this one with a well theme, and dedicated to Timmy O'Toole.  Meanwhile,
+% SLH has gotten his hands, er, mouth on Bart's microphone, and growls
+% emerge from the well.  The cartoon is interrupted for a special report,
+% and Kent asks Dr. Marvin Monroe for an explanation.  Monroe explains that
+% the child is returning to a feral stage.  He shows an artists's conception,
+% which looks like a young wolfman.  Lisa sees Bart struggling to
+% recover the microphone and puts two and two together.  Bart finally gets
+% the mike and explains (in his Timmy voice) that he was trying to chew his
+% foot off, then pretends to go to sleep.  Lisa tells Bart that when the
+% townspeople realize that it was a hoax, they're going to want to kill him.
+% Bart asks how they'll find out.  Lisa says, ``I bet you were stupid enough
+% to have left a `Property of Bart Simpson' label on that radio.''  We take
+% a wild ride through Springfield, down the well, and focus on the label
+% Lisa described.  (Bart:  ``D'oh!'')
+%
+% That evening, the two cops read the Cinderella story down the well for
+% Timmy, then go for a coffee break.  While they're gone, Bart ties a rope
+% to a tree stump and rappels down the well.  (He's wearing a flashlight
+% taped to his lucky red hat so he can see where he's going.)  The cops
+% return, and Eddie says, ``Hey, I almost tripped over this thing,'' and
+% unhooks the rope from the stump.  Bart screams as he falls...
+%
+% [End of Act Two.  Time: 14:27]
+%
+% Bart lands with a thud at the bottom of the well.  Poetically enough, his
+% foot is trapped under a rock.  (``What did I do to deserve this?'')
+% Bart yells for help and admits to his practical joke.  The cops decide
+% to pull their own prank:  They leave.
+%
+% The two cops tell Homer and Marge that Bart is trapped down the well.
+%
+% Homer and Marge pay a visit to the well, which has drawn a small crowd.
+
+Don't worry, son.  Just 'cuz you're trapped in a hole doesn't mean you
+can't live a rich and full life.
+-- Homer's reassuring words, ``Radio Bart''
+
+% Homer tosses down Bart's Krusty doll, which lands on Bart's head.  Bart
+% complains, ``Ow!  Knock it off, you bald boob!''  Homer threatens, ``Hey,
+% don't make me come down there!''
+%
+% Chief Wiggum says they've located a piece of machinery in Shreveport,
+% Louisiana, but there's no room in the budget to bring it to Springfield.
+
+Your boy picked a bad time to fall down a well.  If he'd done it
+at the start of the fiscal year, no problemo.
+-- Chief Wiggum tells Marge it's all in the timing, ``Radio Bart''
+
+% Kent interviews Homer and Marge...
+
+Kent:  The time has come for finger-pointing, and most of them are
+       squarely aimed at the boy's parents.
+Homer: It's not our fault!  We didn't want the boy, he was an accident!
+Marge: Homer!
+Homer: Uh...  Could you edit that last part out?
+Kent:  Mr. Simpson, we're live, coast-to-coast.
+Homer: D'oh!
+-- `Radio Bart''
+
+% The next morning, girls have already made up a jumprope rhyme about Bart.
+% Lisa tells them to stop, and they do.  But once she's gone, they continue.
+
+And our <new> number one hit, ``I Do Believe We're Naked'', by
+Funky-See Funky-Do, replaces ``We're Sending Our Love Down the Well'',
+which plunges all the way down to number 97.
+-- Casey Kasem's countdown, ``Radio Bart''
+
+% At a press conference...
+
+Ever since I called for the rescue of that Simpson lad, I have taken a lot
+of heat.  So, I am flip-flopping!  I say, let him stay down there!
+-- Mayor Diamond Joe Quimby, bending ever so gently, ``Radio Bart''
+
+% Roving Reporter Dave Shutton composes his story, ``Town to Well Boy:
+% No more free food''.  He gets a hot lead and speeds off.  The Springfield
+% Shopper headline reads, ``Squirrel resembling Abraham Lincoln found.''
+%
+% Marge and Homer pay a late-night visit to the well.
+
+Marge: Bart honey, I made you an extra-warm sweater you can wear while you're
+       down in the well.  [tosses it]
+Bart:  Mom, it's too big.
+Homer: Don't worry, you'll grow into it.
+-- Bart is trapped in a well, ``Radio Bart''
+
+You know, I've done a lot of bad stuff through the years.
+I guess now I'm paying the price.  But there's so many things
+I'll never get a chance to do.  Smoke a cigarette, use a fake ID,
+shave a swear word in my hair... [sobs]
+-- Bart's remorse, ``Radio Bart''
+
+% Homer has had enough and grabs a shovel to start digging; Marge fetches
+% a wheelbarrow.  Groundskeeper Willie says to himself, ``Now why didn't I
+% think of that?'' and tears off his shirt, revealing an impressive physique.
+% He joins Homer with a shovel.  A man appears out of nowhere with a pick-axe.
+%
+% Kent Brockman interrupts with a special bulletin:  The Lincoln Squirrel
+% has been assassinated!
+%
+% Pretty soon, the entire town has joined the digging effort.  Apu discovers
+% a dead canary, and everybody rushes out in panic.  Dr. Hibbert concludes
+% that the canary died of natural causes, and everybody goes back.
+%
+% Sting continues shoveling...
+
+Marge: Sting, you look tired.  Maybe you should take a rest.
+Sting: Not while one of my fans needs me.
+Marge: Actually, I don't know if I've ever heard Bart play one of your albums.
+Homer: Shhhh.  Marge, he's a good digger!
+-- Digging Bart out of a well, ``Radio Bart''
+
+% Once Sting breaks through, Homer and Marge push him out of the way so they
+% can check on Bart.  Homer tells Bart, ``Don't worry, son.  They're going
+% to make sure no one ever falls down this well again.''  After the field
+% is restored to its former glory, Groundskeeper Willy hammers into the ground
+% about thirty feet from the well a small sign that reads simply, ``Caution:
+% Well.''  ``Thaht should dew it.''
+%
+% [End of Act Three.  Time: 20:03]
+===============================================================================
+Episode summaries Copyright 1992 by Raymond Chen.  Not to be redistributed
+in a public forum without permission.  (The quotes themselves, of course,
+remain the property of The Simpsons, and the reproduced articles remain
+the property of the original authors.  I'm just taking credit for the
+compilation.)
+</PRE>

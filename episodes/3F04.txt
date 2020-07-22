@@ -1,0 +1,1361 @@
+Treehouse of Horror VI                      Written by Scary John Swartzwelder,
+                                            Steve Tombkins and David S. Cohen  
+                                                   [under a square root sign]  
+                                                Directed by Bedlam Bob Anderson
+===============================================================================
+Production code: 3F04                       Original airdate in N.A.: 30-Oct-95
+                     Capsule revision F, 22-Feb-97 / Interim update A, 7-Nov-99
+===============================================================================
+> Title sequence
+===============================================================================
+Opening    :- The headless horseman gallops through an eerie woods.  He
+              holds up Krusty's laughing head in his left hand,
+              eventually hurling it at the camera, where it splatters
+              red and smears, reading "The Simpsons Halloween Special
+              VI".
+
+Couch      :- The family drop down from the ceiling in front of the
+              couch one at a time, their heads in nooses, their eyes
+              open.
+
+===============================================================================
+> Did you notice...
+===============================================================================
+    ... the equations 1 + 1 = 2, P = NP, e^(pi*i) = -1, and 1782^12 +
+        1841^12 = 1922^12 in 3D land?
+    ... the hexadecimal string in 3D land, "46 72 69 6E 6B 20 72 75 6C
+        65 73 21", decodes as "Frink rules!" in ASCII?
+
+Dale G. Abersold:
+    ... Homer keeps a chain and grappling hook in his car?
+    ... Otto has acid flashbacks?
+    ... apparently Homer never attempts to eat his giant donut?
+    ... the Zip Boys push their heads around in shopping carts?
+    ... Norman Vincent Peale's birthplace is in Springfield?
+    ... Martin begins his conjugations with the third person singular?
+    ... neither Bart nor Lisa attempt to hide behind the coats?
+
+Don Del Grande:
+    ... Maggie falls for the first time since 1F22 (she falls the
+        morning after the last nightmare)?
+    ... the school meeting is on Friday the 13th (of Smarch)?
+    ... Maggie reaching out for the bag of shells?
+    ... Maggie banging her shell against the ground?
+
+Doug Yovanovich:
+    ... Ralph Wiggum's arm is in a cast?
+
+Joe Manfre:
+    ... Chief Wiggum has his badge on the left (i.e. correct) side
+        throughout?
+
+Adam Lipkin:
+    ... the Lard Lad uses the KBBL tower to roll his donut?
+    ... it's 1:55 at the Ad Agency?
+    ... Milhouse's glasses, from behind, stick out away from his head
+        instead of hooking behind his ears?
+    ... Krusty's uniform says `Krustofsky' on the back, and he's number
+        three?
+    ... when you think about it, the whole nightmare sequence is Homer's
+        fault?  (by turning up the thermostat)
+
+Ricardo Lafaurie:
+    ... the graveyard sequence isn't used in this episode?
+    ... the "Technical Difficulties" music is different than that used
+        in 9F04 and 1F04?
+    ... the aliens aren't in their spaceship, and they don't laugh?
+    ... Sherri & Terri's mother at the meeting?
+    ... the music playing when Homer looks into the aquarium?
+    ... 3D Homer's hairs cast a shadow on his head?
+    ... the credits for the people walking in the "Real World"?
+    ... the extreme meta-humor in "Homer^3"?
+    ... the 3D animation was produced by Pacific Data Images?
+
+Dominik Halas:
+    ... it becomes cloudy very very quickly?
+    ... one of the Zip Boys is smoking a cigar?
+    ... the Zip Boys using shopping carts to hold up their heads?
+    ... the alien ship arriving in the background?
+    ... Lisa rides her bike to the ad agency?
+    ... Grampa wearing a jacket in the first segment?
+    ... Smarch has 28 days?
+    ... at the start of Bart's second dream, the vines in the lower
+        right appear to spell out "LISA"?
+    ... Homer's bowling ball in the closet?
+    ... the books on the whatchamacallit case are arranged by color?
+    ... Patty and Selma arrive at 10:15?
+    ... the teapot in the third dimension?
+    ... Frink's hair flies up each time Wiggum fires his gun?
+    ... Homer's reflection in the window of the Erotic Cakes shop?
+
+Tony Hill:
+    ... in the U.S., this ep was sponsored by THE ARMY!?  [but a more
+        alarmist name would be "The Killbot Factory" - ed]
+    ... Lard Lad was Copyrighted 1947 even though it was the grand
+        opening?
+    ... Lard Lad kicks the dog like a ball?
+    ... Bart and Lisa use a money channel to keep them awake?
+    ... Evergreen Terrace is on a bus route?
+    ... Patty asks Marge "How's it hangin'?"
+    ... the wall is faded behind the bookcase?
+    ... Homer says "piece of cake" as he jumps...and ends up in a cake
+        shop?
+
+Jose Lafaurie:
+    ... in Bart's dream there are no black defining outlines?
+    ... the advertising guy calls Lisa "sir"?
+
+Brian Westley:
+    ... the teapot in 3D land?  (A teapot was the first computer-
+        generated image, and is often included in CG-things as an inside
+        joke)
+    ... the upper cake on the left has a Bettie Page frosting on it?
+
+Elaine Perttula:
+    ... Grampa holds up all four fingers when he says he needs four
+        stout men to work the bellows?
+
+Jussi Pakkanen:
+    ... there's no disclaimer?
+    ... the advertising guy has books under the legs of his table?
+    ... SLH's accent?
+    ... Martin plays RPGs?
+    ... the coffee machine next to the couch?
+    ... the bowling ball in the closet?
+    ... Wiggum denies thrice having seen Tron?
+
+Greg Galon:
+    ... spider Willy has six legs, unlike normal arachnids which have
+        eight?
+
+===============================================================================
+> Voice credits
+===============================================================================
+- Starring
+    - Dan Castellaneta (Homer, Willy, Abe, Krusty)
+    - Julie Kavner (Marge, Patty, Selma)
+    - Nancy Cartwright (Bart, Nelson)
+    - Yeardley Smith (Lisa)
+    - Hank Azaria (donut sales kid, crazy old man, Wiggum, Lou, Mr. Van
+      Houten, Frink)
+    - Harry Shearer (radio announcer, Kent Brockman, Otto, Ned,
+      advertising agent, Kang, Kodos, Skinner, Lovejoy, Hibbert)
+- Special Guest Voice
+    - Paul Anka (himself)
+    - Marcia Wallace (Mrs. Krabappel)
+- Also Starring
+    - Russi Taylor (Martin)
+
+===============================================================================
+> Movie (and other) references
+===============================================================================
+
+[the most ever?  - ed]
+
+  + "The Legend of Sleepy Hollow"
+    - Krusty as the Headless Horseman in the opening sequence
+  + "Attack of the 50-foot Woman"
+    - first segment title
+    - similar plot: large creatures rampage
+  + "Godzilla"
+    - Lard Lad's roar is identical
+  + "Big Boy" {av}
+    - "Lard Lad" is very similar to the restaurant chain's huge statue
+  + "Pep Boys" (Manny, Joe, and Mack) {ddg}
+    - the three "Zip Boys" on the sign
+    - the Pep Boys represent a chain of auto parts stores {av}
+  + Miller Genuine Draft ads {av}
+    - Duff cowboy similar to the cowboy on the neon marquee of the
+      Frontier casino in Las Vegas, which comes to life and goes off
+      with a cowgirl sign
+  + Western Exterminator Co.  {ert}
+    - the guy in the black suit and top hat (see below)
+  + "Mr. Peanut" {av}
+    - the Planters character eats humans the same way people eat peanuts
+  + "Ghostbusters"
+    - Lard Lad rampaging through the city similar to Sta-Puf Marshmallow
+      Man's behavior
+  + "Mork and Mindy"
+    - one of the aliens says "Shazbot", a trademark Mork (Robin
+      Williams) curse
+  + "Nightmare on Elm Street"
+    - second segment title
+    - much of plot:
+        - kids being in real danger in their dreams
+        - Willy dresses like Freddy Kruger: brown hat, striped sweater
+        - he uses a rake to scratch Bart's stomach, similar to Kruger's
+          glove with knives on the hand
+        - Martin dies in class, just like the girl who dies of an asthma
+          attack {hl}
+  + Tex Avery/Hanna Barbera/Warner Brothers animation
+    - animation in Bart's dream is HB-esque
+    - the eyes popping out of his head is in the style of Avery
+    - Bart holding up "Help me" sign just like Wile E. Coyote, the
+      Warner Bros. character
+  + "The Pagemaster" {av}
+    - Martin's dream
+  + "Maximum Overdrive" {np}
+    - killer Willy tractor tries running over Bart like in the movie;
+      the playground looks the same
+  + "Terminator II" {al}
+    - Willy morphs into various things while sinking into sand (cf.
+      T1000 morphing while sinking into molten steel)
+  + "It" {av}
+    - Willy turns into a giant spider that eats kids
+  + "Alien^3" {mkn}
+    - segment title written similarly
+  + "Twilight Zone" episode "Little Girl Lost"
+    - much of plot of third segment:
+        - a little girl goes through her bedroom wall into another
+          dimension (the fourth, in her case)
+        - a physics expert comes in to explain what has happened {bw}
+        - the picture Frink draws on the wall is the same {sf}
+        - the muted guitar during Frink's explanation {rl}
+        - the girl's father (in this case, Bart) goes in to save her but
+          remains partially grounded in this dimension {bw}
+    - Homer even says it's like the twilighty show about that zone
+  + "Tron" {bdp}
+    - the green grid looks as though it's from the movie
+  + The video game "Myst"
+    - the building in the third dimension is the library from the game
+    - the music is similar
+  + "Beyond The Mind's Eye" {rl}
+    - the aquarium in 3D land is very similar; Homer's drool is like the
+      rain in the opening of "Afternoon Adventure"
+    - a prolonged echoing note is played in this part
+    - the closing credits music is in the style of Jan Hammer, who did
+      the music for "The Mind's Eye"
+  + "The Black Hole" {ddg}
+    - a graph bending into a hole
+  + "Poltergeist"
+    - reverse-gating effect on Homer's voice similar to Carol-Ann's
+      voice
+    - "Move into the light" the same
+    - Bart with rope around waist similar too {wv}
+  + "Flatland"
+    - Frink illustrating how to make a cube from a square very similar
+  + "Howard the Duck"
+    - Homer landing in a dumpster when he appears in our world
+    - similar animation of Homer walking down the street
+  + "Dr. Jekyll & Mr. Hyde" {rl}
+    - Dan Castellaneta's name in the credits
+  + Mighty Morphin Power Rangers {rl}
+    - supervising producer is "Mikey Mighty Morphin Scully"
+  + "The Shining" {rl}
+    - producer is "Redrum Richard Raynis"
+  + "The Terminator" {rl}
+    - Travis "The Terminator" Powers
+    - the lightning crackles just before Homer appears in our world {jp}
+
+===============================================================================
+> Previous episode references
+===============================================================================
+- [7F01] "Just resting my eyes!" is said {av}
+- [7F04] A vortex to another dimension {rl}
+- [8F02] "Mmm...sprinkles!" by Homer {dh}
+- [9F04], [1F04], [2F03] "The Late Bill Oakley & The Estate of Josh
+  Weinstein" {rl}
+- [9F07] Homer wears his Mr. Plow jacket at the school meeting {dy}
+- [9F09] Homer's blubber wiggles {dh}
+- [9F09], [9F10] Birthplace of famous person destroyed {rl}
+- [9F14] Otto mentions acid {dy}
+- [9F15], [1F09] Homer says "We'll be right back" to a camera {ddg}
+- [9F18], [1F19], [2F32] Lunch Lady Doris appears in her other role as
+  school nurse {dy}
+- [2F03] The Glenn Ford movie is 1947 (cf. Lard Lad) {jm}
+- [2F03] Several of the "scary credits" reused from it {rl}
+- [2F03] Moe opens his eyes when hung (cf. family in couch) {rl}
+- [2F32] Bart's belief in reincarnation {rl}
+
+===============================================================================
+> Freeze frame fun
+===============================================================================
+- The opening credits (commas indicate names that were on separate
+  lines, except as noted): {ddg}
+    - Created By MATT "FUNK LORD OF USA" GROENING
+    - Developed By JAMES HELL BROOKS, MATT "MONSTROSO" GROENING, SAM
+      "SAYONARA" SIMON
+    - Co-Executive Producer GREG DANIELS' BLOATED BODY
+    - Co-Executive Producer GEORGE "GHOSTIE" MEYER
+    - Supervising Producer MIKEY MORPHIN POWER SCULLY
+    - Supervising Producer "IT CAME FROM STEVE TOMPKINS"
+    - Co-Producers DAVID^2+S.^2=COHEN^2, FORRESTER II "THE BRENTENING"
+      (note each 2 is a superscript and may have been "2X")
+    - Producers CRACKLIN' JOE COLLIER, KEN "CLOWN AFTER MIDNIGHT" KEELER
+    - Consulting Producer DECADENT DAVID MIRKIN
+    - Consulting Producers MEAN AL JEAN & THE ABOMINABLE DR.  REISS
+    - Consulting Producer IAN HEADSTONE-GRAHAM
+    - Consultant SCARY JOHN SWARTZWELDER
+    - Produced by J. MALEFIC MENDEL
+    - Produced by HEINOUS RICHARD RAYNIS
+    - Produced by DAVID "DRY BONES" SILVERMAN
+    - Produced by REDRUM RICHARD SAKAI
+    - Written by SCARY JOHN SWARTZWELDER, STEVE TOMBKINS AND (under a
+      square root sign) DAVID S. COHEN (this appeared with the comma and
+      the "AND")
+    - Directed By BEDLAM BOB ANDERSON
+- Lard Lad Donut Boy: {rl}
+     COLOSSAL DONUT
+     Grand Opening
+   
+- The mascots: {ddg}
+    - LARD LAD DONUTS (boy)
+    - ZIP BOYS (three men with large heads)
+    - TAM O'SHANTER (giant hat)
+    - ALADDIN'S MAGIC CARPETS (manon flying carpet)
+    - ?  (Paul Bunyan and his blue ox Babe)
+    - DUFF BEER (cowboy)
+    - CHANNEL 6 NEWS (Kent Brockman)
+    - RED DEVIL REALTY (devil)
+    - (Not named) PLANTER'S PEANUTS (Mr. Peanut)
+    - ?  (Man in top hat and tuxedo with mallet - I've seen a
+      exterminator use that mascot but I can't remember the name (Rose
+      Pest Control?) and think it's local)
+- Signs in ad agency: {rl}
+ -   50 Million
+  Cigarette Smokers
+   
+  CAN'T BE WRONG!
+   
+ - (against backdrop of U.S. flag)
+   
+   If you LIKE
+ __==__
+ |    |
+ |    |
+ |    |
+ |    |
+ |___You'll LOVE
+   
+       Laramie Septic
+         Fuel
+   
+- Front line of people when the mascots die: {rl}
+    - Dr. Hibbert, Dr. Riviera, Rev. Lovejoy, Otto, Ms.  Hoover, Jasper
+- Birthplace destroyed: {rl}
+      BIRTHPLACE OF
+   Norman Vincent Peale
+   
+- Writing on the blackboard: {rl}
+    - Translations courtesy of {th}; asterisks denote incorrect forms
+   Columns 1 and 2:
+   
+   Danto                          Amandus
+   
+   Amavist                        Supersum (I am left over)
+   Amaviss                        Superesse (To be left over)
+   Amaver                         Superfui (I was left over)
+   
+   Delevisti (I destroyed)        Memini (To remember)
+   Delevisse                      Memiseram
+   Deleverunt (They destroyed)    Memineri
+   
+   Miror (I marvel at)            Morire (To die)
+   Miraris (You marvel at)        Morit (He/she/it dies*)
+   Miratur (He/she/it marvels at) Moris (You die*)
+   
+   Haurio (I draw up)             Desum (I am off)
+   Haurire (To draw up)           Deesse (To be off)
+   Hausi (I drew up)              Defui (To have been off)
+   
+   Column 3:
+   
+   Veritas (Truth [the only noun])
+   Prosum (I am useful)
+   Prodesse (To be useful)
+   Profui (I was useful)
+   
+   Denus
+   Darem
+   Dederli   Derimus
+   
+   Subsum (I am below)
+   Subesse (To be below)
+   Subfui (I was below*)
+   
+- Meeting at school: {rl}
+   SPRINGFIELD ELEMENTARY
+           SCHOOL
+   
+        PTA MEETING
+          TONIGHT
+   
+- Willy morphs into an elephant, tank, missile, and huge bagpipe {rl}
+- The closing credits: {ddg}
+    - Executive Producers THE LATE BILL OAKLEY & THE ESTATE OF JOSH
+      WEINSTEIN
+    - Executive Producers JAMES HELL BROOKS, MAAAAAAATT GROENING, SAM
+      "SAYONARA" SIMON
+    - Starring Dan CastellanetaarghaGAHEEGA (Smash) Gurgle Mr. Hyde,
+      JOOLIE KAVNER, NANCY HEART-FRIGHT, SCUDLEY SMITH, ANGST AZARIA,
+      and HARRY SHEARER
+    - Special Guest Voices: PAUL ANKA, MARCIA WALLACE
+    - Also Starring: RUSSI BIG TOMBS TAYLOR
+    - Featuring: DENNIS BAILEY, RON BROOKS, TRISH DOOLAN, MARSHA
+      WATERBURY
+    - Animation Executive Producer PHANTOM PHIL ROMAN
+    - Animation Producers BLOODCURDLING BILL SCHULTZ, MANIACAL MICHAEL
+      WOLF
+    - Executive Consultant BRAD "THE IMPALER" BIRD
+    - Live Action Directed By DECADENT DAVID MIRKIN
+    - Story Editors RICHARD "FORMER ATTORNEY" APPEL, JUGULAR CUTTENDEN
+    - Staff Writer DEAD-EYE DAN GREANEY
+    - Associate Producer COLIN "CHOPPER" MOZART
+    - Theme By LI'L LEAKIN BRAIN ELFMAN
+    - Music Decomposed By SHEER TERROR CLAUSEN
+    - Casting By BLOODTHIRSTY BONITA PIETILA
+    - Editors MARAUDERING MARK McJIMSEY, DIABLO DON BARROZO,
+      LYCANTHROPIC LEE HARTING
+    - Post Production Supervisor ALLISON CHAINS ELLIOTT
+    - Animation Production Coordinator for Gracie Films JOEL KUWA-HORROR
+    - Post Production Coordinators DOMI "BLACKULA" BRO, THUG WARNER
+    - Dialogue Sound Editors BOBBY "THE SCARY MASK" MACKSTON, MARK "THE
+      PAGAN" McJIMSEY, TERRY "GRIM REAPER" GREENE, KIM "BLEEDING GUMS"
+      HAYNES
+    - Music Murderer LUGUBRIOUS LEDESMA
+    - Sound Effects Editor TRAVIS "THE TREPHINATOR" POWERS
+    - Re-Recording Mixers RUSTY "BLADE" SMITH, GREG "BORIS" ORLOFF
+    - Executive Vice-President for Gracie Films DENISE "666" SIRKOT
+    - Creative Consultant WOTSA MATTA U. GROENING
+    - Executive Creative Consultant JAMES HELL BROOKS
+
+===============================================================================
+> Animation, continuity, and other goofs
+===============================================================================
+How could Homer have gotten the giant donut inside the house?  {ddg}
+
+The message left by the footprint should have been backwards; it would
+have been normal when written on the giant mascot itself.  {ddg}
+
+Kent Brockman is eaten by a mascot, yet he appears intact in the end.
+{rl}
+
+The first time Lisa is seen facing left in the schoolyard, all of her
+hair is there; only after she shows the cut-off part to Bart is it shown
+missing.  {ddg}
+
+Sherri and Terri's dresses had slashes on them; they must have been
+wearing them when they had their nightmares.  {ddg}
+
+Usually, the BETTER a school does on a standardized test, the more money
+it receives.  (There's a story of a school in California whose sixth
+graders threatened to do poorly on a test unless the class got a cut of
+the additional money.)  {ddg}
+
+When Martin is asleep in class, Lewis can be seen in the background, but
+after Martin's death Lewis seems to disappear in other angles.  {jm}
+
+Martin's Latin is wrong (see below).
+
+Lisa's hair grows back.  {ddg}
+
+Lisa doesn't open the can of Buzz cola before putting the baby bottle
+top on it and giving it to Maggie.  {ddg}
+
+The pets don't leave a bulge in the carpet when they hide under it.
+{ddg}
+
+When everyone gasps in "Homer^3", Marge's shoes are green.  {rl}
+
+Bart's rope appears out of nowhere.  {jp}
+
+When Homer goes into "Erotic Cakes", the door is already open but we
+hear a "door-opening" sound effect.
+
+===============================================================================
+> Reviews
+===============================================================================
+Dale G. Abersold: Much better than ToH V, although I did miss any
+    attempt to "frame" the vignettes.  "Attack" seemed like an
+    afterthought, but "Nightmare" was hilarious, and "Homer^3" was a
+    pleasant surprise (although the ending left me scratching my head.
+    Erotic Cakes?  What the...) Grade: A-
+
+Mark Richey: I wished that they had forgotten the first part and had
+    given us more "Homer^3".  Finally, heavy hype that lives up to the
+    billing.  Averaging my three grades together gives a B+ for the
+    episode.
+
+Don Del Grande: A-Minus - not quite up to the standard of last year, but
+    still a funny episode; the live-action sequence at the end made up
+    for an otherwise boring 3-D segment.
+
+Chris Berg: The 3D Homer was better than I thought and IMHO one of the
+    coolest things they've ever done.  I also think the key was to focus
+    it on Homer and not anyone else.  I think the writers have come to
+    realize who the real star of the show is.
+
+Scott Fujimoto: The first story was OK, but nothing special.  Grade: B-.
+    The second story was funnier, and Maggie finally got some action!
+    Grade: B+/A-The third story was very different type of episode.
+    Nicely done, both in computer animation and writing, right up to the
+    ending.  Grade: A.
+
+Joe Manfre: "50 ft eyesores" I enjoyed due to the "ignore the ads"
+    ending (not so predictable), "Nightmare" was hilarious and another
+    inspired use of Groundskeeper Willie, "Homer^3" was high on fx and
+    low on inspiration but still fun and weird.  I'm a sucker for
+    Halloween specials so I give it A-.
+
+Adam Lipkin: Individually-- Attack: B-, Nightmare: B+, Homer^3: A.
+    Attack's ending fell very flat very fast.  Yet another pointless
+    celebrity cameo.  Nightmare worked very well, but again, the very
+    end was weak.  Homer^3 was great all the way through.  Frink was
+    hilarious.  Overall, a B+.
+
+Ricardo Lafaurie: "Attack" -- A rather lifeless outing.  D. "Nightmare"
+    -- Ooh, creepy.  Still, I'd rather have him chasing me than the
+    Wolfman.  C+.  "Homer^3" -- HOLY MACARONI!  A. Overall -- Still
+    would rather watch it than It's the Great Pumpkin, Charlie Brown.  I
+    want the graveyard back.  B-
+
+Jose Lafaurie: I thought this Simpsons episode sucked.  I mean, did it
+    suck or what?  And Homer^3 was just trying to camouflage the fact
+    that...it sucked!  And you know, what a way to cap an episode.
+    Homer's in the real world nd goes into Erotic Cakes stores.  So?
+    What happens next.  Credits...It sucked.  D-
+
+Dominik Halas: The first segment fell flat; however, the second act was
+    more up to form, and the third act was awesome!  The animation was
+    an incredible sight to behold, and the act was also brilliantly
+    funny.  Homer^3 is one of the all-time best Halloween bits they've
+    done.  Grade: A-.
+
+John Martin: The "50 ft. eyesores" bit was an A. Loved the donut boy
+    punting the dog down the street!  "Nightmare on Evergreen Terrace"
+    was a B+.  Great parody of Freddy Krueger flicks.  Homer^3 was a
+    C+/B-, however.  This one wasn't that funny.  The writers just
+    thought "we'll wow 'em with the computer graphics!"  Overall, a high
+    B+.
+
+Tony Hill: It had its funny moments ("Aren't you tired of always being
+    wrong?") and Homer and Bart in 3D will be memorable.  It was
+    especially clever having SLH & S II appear as two-dimensional
+    figures foreshadowing Homer's odyssey.  But the acerbic wit just
+    wasn't there.  I give it a C+.
+
+Yours truly: I didn't like "Attack" much (Anka was gratuitous), but
+    loved the "Nightmare" takeoff (lots of great refs) and "Homer^3",
+    which was an interesting concept and well-done.  I'd rank the THoH
+    series from best to worst as II, V, IV, VI, I, III.  Grade: B.
+
+===============================================================================
+> Comments and other observations
+===============================================================================
+>> The mascot with the black suit and top hat
+
+Elson Trinidad says this mascot "is a ref to Western Exterminator Co., a
+    Los Angeles-based pest control company, whose logo is a man in a top
+    hat and black suit leaning over a rat with one hand shaking its
+    index finger in a `no, no, no!' position and the other hand behind
+    its back with a mallet.  If you're in L.A., the Western Exterminator
+    logo can be seen from the Hollywood Freeway, near the Vermont Ave
+    exit.  Van Halen borrowed the Western Exterminator man and the rat
+    for its `1984' world tour logo."
+
+>> The "Where's the Beef?" woman
+
+This phrase has been used more than once in "The Simpsons".  Tony Hill
+    gives some background: "Clara Peller was an octogenarian who did ads
+    for Wendy's in which she mocked other chains' smaller burgers.  Her
+    trademark lines were `Where's the beef?' and `That's a very large
+    bun'.  `Where's the beef' became a well-known expression when Walter
+    Mondale, running for President in 1984, challenged Gary Hart to put
+    some meat in his campaign proposals.  Mondale was boosted on to
+    nomination.  Peller, however, was fired by Wendy's after she did an
+    ad for a dog food company using the line `I found the beef.'  She
+    died a few years later.  The Mondale-Hart exchange was referenced in
+    `Lisa's First Words'."
+
+>> Paul Anka
+
+Tony Hill writes, "Paul Anka, a Canadian singer-songwriter, originally
+    claimed to be a rock and roll star (`Diana', `Puppy Love'), but of
+    late, he is known as a MOR nightclub singer (`You're Havin' My
+    Baby', `My Way')."  He wrote the theme for the "Tonight Show" too, I
+    believe, and I heard he gets royalties every single time it gets
+    played.  (Incidentally, he appears as a teenager in the movie
+    "Girls' Town" starring Mamie Van Doren and Mel Torme, which was
+    spoofed on "Mystery Science Theater" as the first show of their
+    sixth season.  In "The Simpsons", his nose seemed large -- almost
+    like in "Girls' Town".  Didn't he get a nose job?)
+
+>> Norman Vincent Peale
+
+Tony Hill explains, "The Rev. Norman Vincent Peale, author of `The Power
+    of Positive Thinking,' was one of the founders of the self-help
+    movement and was for many years the minister at Marble Collegiate
+    Church in New York.  For the Where-Is-Springfield set, he was born
+    in Bowersville, Ohio in 1898.  He died on Christmas Eve in 1993."
+
+>> Martin's Latin
+
+Christopher Jones corrects, "There is no verb `morire' in Latin.  The
+    word he wants is `mori' (a deponent verb), to die; `moritur',
+    he/she/it dies; `moreris', you die.  The incorrect `morire' is also
+    included on the blackboard behind."
+
+>> "That wheelchair guy"
+
+Homer is referring to Stephen Hawking, author of the bestselling "A
+    Brief History of Time" which talks a fair amount about black holes.
+    Hawking is in a wheelchair because he has ALS, a degenerative
+    disease that leaves one's mind intact while rendering the body
+    useless.
+
+>> "Tron"
+
+Ricardo Lafaurie says, "`Tron' was a Disney movie back in the early '80s
+    (that era of free spending) with some pretty cruddy computer
+    animation.  It bombed, and no one watched it (except for perhaps me
+    [and Chief Wiggum and Homer - ed]).  The landscape of the third
+    dimension has a similarity to the landscape in the movie."
+
+>> Some of the equations in 3D land
+
+>>> 734
+
+This is most probably a reference to the fact that when you write "7734"
+    on a calculator and turn it upside down, it looks as though it reads
+    "HELL".  Perhaps the three-letter version "HEL" in 3D land is like
+    the "LUV" and "HAT" tattoos on Sideshow Bob's hands?
+
+>>> e^(i*pi) = -1
+
+This is called "Euler's formula", where "e" is the natural logarithm
+    base (2.71828...), "i" is the square root of -1, and "pi" is the
+    ratio of the circumference of a circle to its diameter (3.141593...
+    ).
+
+>>> P = NP
+
+This is an unproven conjecture from computer science.  Luis Dissett
+    explains, "`P' is the set of decision problems (i.e., problems that
+    have a YES or a NO for answer) that can be solved in polynomial
+    time; `NP' is the set of decision problems for which, if the answer
+    is YES, then that can be proved in polynomial time.  These two sets
+    are not necessarily equal, but they are not necessarily different
+    either.  Whether they are equal or not is one of the major open
+    problems in theoretical Computer Science."
+
+>>> rho(m0) > 3(H_0)^2 / 8 (pi) G
+
+Robert Mellish writes that this equation is from cosmology and is part
+    of Einstein's General Relativity work.  "H sub 0 is the Hubble
+    constant, and G is the gravitational constant.  It's the formula for
+    working out the critical density of the universe.  If the density of
+    the universe is greater than the critical density, it will
+    eventually collapse back on itself -- that is what the formula is
+    saying.  Hey, and they said physics was useless..."
+
+>>> 1782^12 + 1841^12 = 1922^12
+
+Without calculating it exactly, this equation cannot hold for two
+    reasons:
+
+    - 1782^12 is even, 1841^12 is odd, and thus their sum is odd, but
+      1922^12 is even
+    - it contradicts Fermat's last theorem, which says that x^n+y^n=z^n
+      for x, y, and z positive integers is never true for n greater than
+      two.  Pierre Fermat, a French mathematician, wrote in a notebook
+      in 1787 that he had a wonderful proof for this theorem, only that
+      the margin was too small to contain it.  No one managed to prove
+      it until 1993 when Andrew Wiles, a professor at Princeton,
+      succeeded.  It is widely believed now that Fermat had no easy
+      proof for it; Wiles' proof is over 200 pages long.
+      
+      The exact values are close:
+   
+      1782^12 = 1025397835622633634807550462948226174976
+      1841^12 = 1515812422991955541481119495194202351681
+          sum = 2541210258614589176288669958142428526657
+      1922^12 = 2541210259314801410819278649643651567616
+   
+>> I feel like I'm wasting a fortune just standing here!
+
+As Ondre Lombard explains, Homer really isn't wasting any money at all:
+    "Writer David S. Cohen approached David Silverman with the idea of
+    a computer-animated sequence.  The 'Simpsons' staff went to 
+    California-based computer animation company Pacific Data Images,
+    which set aside a portion of their budget for self-promotional
+    projects.  PDI was quite eager to get world-wide exposure and sank
+    their self-promotional budget into 'Homer ^3' -- giving 'Treehouse
+    of Horror VI' a segment animated free of charge."
+
+>> Where the "Erotic Cakes" store is
+
+Elson Trinidad writes that it's at Ventura Blvd. at Ventura Canyon Av.
+    in Sherman Oaks, California.  "I was in the Valley today and decided
+    to take a stab at the location.  My positive clues -- it's in the
+    west-central part of LA's San Fernando Valley, along the 13500 block
+    of some street.  There were about 8 or so possible locations,
+    thankfully I followed my first instinct: Ventura Blvd, the main
+    shopping thoroughfare in the south portion of the Valley.
+    
+    There is no real `Erotic Cakes' storefront; that was made up for the
+    scene.  The real storefront is Rose Photography, 13567 Ventura Blvd.
+    The establishment appears to be mostly vacant, save for a few
+    ladders.  It's right between Yoshi's Japanese Restaurant (red roof)
+    and The Coffee Roaster.
+    
+    The other stores in the background were there: `..SS MACHINES'
+    (House of Business Machines), `INTERIOR DESIGN' (Sherman Oaks
+    Interior Design), `TAILORS' (Hernandez Bros.  Tailors) and `AMBER
+    JEWELRY' (actually, Earthly Treasures, with `Amber Jewelry' on the
+    side awning).  And yes, there is a `THAI' restaurant farther east,
+    in the distance."
+
+===============================================================================
+> Quotes and Scene Summary
+===============================================================================
+% First segment title: "Attack of the 50-Foot Eyesores"
+%
+% Homer drives down a road.
+
+Homer: Ah, the miracle mile, where value wears a neon sombrero and
+       there's not a single church or library to offend the eye.
+        [spots "Lard Lad Donuts" and its tubby boy statue holding a
+       donut over his head]
+       There it is!  The chain that put the "fat" in "fat Southern
+       sheriffs".
+        [walks in to the store]
+       I want a colossal donut, just like the one on the sign.
+        [gets handed a regular-sized donut]
+       D'oh!  Nuts.  That's false advertising!
+  Kid: Sorry, sir, no refunds.
+Homer: [menacing] I paid for a colossal donut, and I'm going to get a
+       colossal donut!  [walks out]
+  Kid: You don't scare us!
+-- Homer threatens pastry revenge, "Treehouse of Horror VI"
+
+% Homer drives back home to get some equipment, then returns to the Lard
+% Lad Donuts boy.  He listens to the radio on the way as the weather
+% turns thunderous.
+
+Announcer: Astronomers from Tacoma to Vladivostok have just reported an
+           ionic disturbance in the vicinity of the Van Allen Belt.
+           Scientists are recommending that necessary precautions be
+           taken.
+    Homer: [scoffs] Eggheads.  What do they know?
+-- Homer denounces the familiae scientia, "Treehouse of Horror VI"
+
+% Donning pantyhose to conceal his identity, he swings a chain with a
+% hook around several times and releases it.  It attaches itself around
+% the donut on the first shot.  He hooks the other end to his car and
+% stomps the gas, eventually dislodging the giant metal donut.  He
+% drives away giggling, "I got your donut, Lard Lad!  And what are _you_
+% going to do about it?"
+%
+% Just then, the ionic disturbance creates a bolt of specially-charged
+% lightning that strikes the Lard Lad, bringing him to life.  His head
+% swivels around to watch Homer's receding car and his brow furrows.  He
+% tears his feet loose from the bolts in the ground holding them and
+% howls just like Godzilla.  All the other giant statues along the
+% miracle mile come to life too and look in the direction of Homer's
+% car.
+%
+% Homer puts the giant metal donut in his living room and drinks a beer
+% on top of it in his underwear.
+
+Marge: [walking in] Homer!  Where did you get that?
+Homer: [pause] Get what?
+Marge: That giant donut.
+Homer: Well, I acquired it legally.  You can be sure of that.
+-- Found out, "Treehouse of Horror VI"
+
+% The giant neon cowboy on the Duff Beer billboard comes to life and
+% tips his hat to a nearby group of people cheering him on.  "Dude,
+% you're huge!" says one as the cowboy steps out of the sign.  "Yeah,
+% let's party, baby," says another.  The cowboy uses his neon beer
+% bottle to squish the crowd.
+%
+% The three Zip Boys (huge heads on tiny bodies) come to life and hop
+% off the top of the store roof, grinning and growling amongst
+% themselves.  The crazy old man comes out and hollers, "Fellas!  Where
+% are you going at this hour?"  Their heads, being so huge, fall to the
+% ground under their own weight and they drag them away.  "Hey!  Don't
+% scratch up them heads!" calls the old man.
+%
+% Kent Brockman delivers a news report about it from atop a building as
+% the mascots wreck things in the background.
+
+Kent: Good morning, everybody.  Panic is gripping Springfield as giant
+      advertising mascots rampage through the city.  Perhaps it's part
+      of some daring new ad campaign, but what new product could justify
+      such carnage?
+       [behind him, a poster of himself comes to life]
+      A cleanser?  A fat-free fudge cake that doesn't let you down in
+      the flavor department like so many others?  Would --
+       [he gets grabbed by his giant doppelganger]
+      D-ooh!  Let me go -- no!  Stop!  No!
+       ["Technical difficulties" sign appears]
+-- Newscaster Brockman has been eaten, "Treehouse of Horror VI"
+
+% The Red Devil Realty mascot (a devil) picks up the schoolbus full of
+% children.  "Man, another acid flashback," says Otto.  "I'd hate to be
+% driving a bus right now!"  Elsewhere, Mr. Peanut, the Planters mascot,
+% picks up a car full of people, opens it like a peanut, and pops the
+% people into his mouth.
+%
+% Chief Wiggum spies a large man walking out of a store.  He pulls his
+% gun and shoots him dead.  He and Lou go over to inspect the body.
+
+Wiggum: Aw, they're not so tough.
+   Lou: Um...Chief, that wasn't a monster.  That was the captain of the
+        high school basketball team.
+Wiggum: Uh, yeah, well, he was turning into a monster.  Yeah.
+-- Shoot first, make justifications later, "Treehouse of Horror VI"
+
+% The Red Devil approaches Springfield Elementary, towering over it.  On
+% his shoulder, Bart says into his right ear, "What are you waiting for?
+% Wreck the school.  You know you wanna."  The devil appears pensive;
+% into his left ear, Bart says in a different voice, "I agree: destroy
+% the school."  This seems to be the impetus the devil needs: he crushes
+% the school with his hoof.
+%
+% At the Simpson house, the doorbell rings.
+
+Homer: [answering door] Hello?  Yes?  Oh.
+        [sees that it's Lard Lad]
+       Heh heh.  If you're looking for that big donut of yours, um...
+       Flanders has it.  Just smash open his house.
+        [shut door; the sound of giant footsteps recedes]
+       He came to life.  Good for him!
+        [Smash!  Crumble!  Tinkle!]
+        [giant footsteps approach; the doorbell rings]
+        [Homer opens the door]
+  Ned: [running away] Help me, Lord!
+Homer: I told you!  Flanders has it.  Or Moe.  Go kill Moe!
+Marge: [arriving home in the car] Homer, just give him the donut!  Once
+       he has it, that will be the end of all this horror.
+Homer: Well...OK.  If it'll end horror.
+-- Cogent arguments, "Treehouse of Horror VI"
+
+% With his donut back, Lard Lad stands triumphantly in his usual pose --
+% but only for a couple of seconds.  He uses the donut to smash the
+% Simpsons roof and a nearby car, kicks a barking dog like a football,
+% and rakes his donut along the roof of every house down the block.
+% "Don't you ever get tired of being wrong all the time?"  Homer asks
+% Marge.  "Sometimes..."
+%
+% Downtown Springfield is a scene of terrible carnage as the monsters
+% wreak havoc.  "These monsters are destroying everything and everyone
+% we hold dear!" laments Marge.  "And you kids should have jackets on."
+% Lisa notices a copyright stamp in Lard Lad's footprint, with the name
+% of the company that built him, and she rides her bike there.
+
+Lisa: If your advertising agency created all those giant characters, you
+      must know how to stop them.
+ Man: Well sir, advertising is a funny thing.  If people stop paying
+      attention to it, pretty soon, it goes away.
+Lisa: Like that old woman who couldn't find the beef?
+ Man: Exactly.  If you stop paying attention to the monsters, they'll
+      lose their powers.
+Lisa: But people can't help looking at them.  They're wrecking the town.
+       [out the window, the monsters wreck the town]
+ Man: You know, maybe a jingle would help.
+       [plays a piano arpeggio, sings] Don't watch the mon --
+       [plays another arpeggio] Don't watch the...monsters-s-s.
+       [chuckles] Well, it'll sound a lot better coming out of Paul
+      Anka.
+-- The medium is the message, "Treehouse of Horror VI"
+
+% Outside, a crowd of people watch the monsters.  Lard Lad bashes
+% Jebediah Springfield with his donut.  Lisa addresses them with a
+% megaphone.
+
+    Lisa: Hey, Springfield!  Are you suffering from the heartbreak
+          of...Monster-itis?  Then take a tip from Mr. Paul Anka!
+           [Paul waves, begins playing a small synthesizer and singing]
+          To stop those monsters, one-two-three,
+          Here's a fresh new way that's trouble-free.
+          It's got Paul Anka's guarantee...[winks]
+    Lisa: [singing] Guarantee void in Tennessee.
+Together: [singing] Just don't look.  Just don't look.
+           [people turn away; the monsters turn to look]
+          Just don't look.  Just don't look.
+           [more people turn away]
+          Just don't look.  Just don't look.
+           [the monsters try to destroy things faster, but start
+          collapsing]
+-- The power of music, "Treehouse of Horror VI"
+
+% Paul Bunyon falls on the Springfield General Hospital, his ox Babe
+% destroys the birthplace of Jebediah Springfield, and a flying magic
+% carpet destroys the birthplace of Norman Vincent Peale.
+
+ Lisa: [jubilant] It worked!  They're all dead.
+ Bart: Well, except for chubsy-ubsy over there.
+        [everyone turns and gasps]
+        [Lard Lad tempts Homer with the giant donut]
+Homer: Mmm...sprinkles.
+Marge: Homer!  Stop looking.
+ Lisa: Don't make us poke your eyes out, Dad.
+        [they drag him away]
+Homer: [groaning] Oh!
+        [Lard Lad collapses]
+-- The demise of the pudgy one, "Treehouse of Horror VI"
+
+% As Lard Lad falls, his donut rolls away.  Kodos and Kang, meanwhile,
+% are trying to hitch a ride in the middle of the desert with a sign
+% saying "Earth Capital".
+
+Kodos: Here comes something!
+ Kang: Remember the story: we're newlyweds on our way to Earth Capital.
+        [the donut rolls by as Kang smiles]
+       Oh, Shazbot.
+-- Kang calling Orson?, "Treehouse of Horror VI"
+
+ Kent: Even as I speak, the scourge of advertising could be heading
+       toward _your_ town!  Lock your doors, bar your windows, because
+       the next advertisement you see could destroy your house and eat
+       your family!
+Homer: [smarmy] We'll be right back.
+-- Cut to commercial, "Treehouse of Horror VI"
+
+% [End of Act One.  Time: 6:26]
+%
+% Segment two title: "Nightmare on Evergreen Terrace"
+%
+% Bart plays frisbee with SLH as a goofy rendition of "Pop Goes the
+% Weasel" plays in the background.
+
+ Bart: OK, boy: catch the frisbee.
+        [SLH does so]
+       Good catch, boy!
+  SLH: [taking the frisbee from his mouth] Thanks, Bart.
+        [throws it at him; it hits Bart in the face]
+        [Bart does a flip; "NO SALE" appears in his eyes and birds fly
+       around his head]
+  SLH: Oh, hard luck.
+        [Bart shakes his head to clear it, then spots Willy dressed as
+       Freddy Krueger, holding a rake]
+ Bart: Aah!  [his eyes bulge out]
+        [Willy brandishes the rake; Bart holds up a "Help me!" sign]
+Willy: Glad to rake your acquaintance.  [laughs evilly]
+        [he swipes at Bart, who wakes up yelling]
+ Bart: [sighs] Ohh...it was only a dream.
+        [sees the scrapes on his stomach] Aah!
+Homer: [elsewhere, sounding worried] Bart!  Is that you?
+ Bart: Yes!
+Homer: Take out the garbage.
+-- All work and no play, "Treehouse of Horror VI"
+
+% Bart relates the creepy tale to his chums in the schoolyard.
+
+   Bart: And then he raked me across the chest!  And the weirdest thing
+         was, it was that school janitor who mysteriously disappeared:
+         Groundskeeper Willy!
+   Lisa: [gasps] Oh my God!  Bart, Groundskeeper Willy was in my
+         nightmare too!  [holds open hand] But he got me with hedge
+         clippers.
+          [her hair is missing two spikes]
+ Nelson: [gleaming] He ran his floor buffer over me.
+Skinner: [walking up, chuckling] Children, I couldn't help monitoring
+         your conversation.  There's no mystery about Willy.  Why, he --
+         simply disappeared.  Now, let's have no more curiosity about
+         this bizarre cover-up.
+-- Exit Skinner, "Treehouse of Horror VI"
+
+% Mrs. Krabappel hands out a test to Bart's class.
+
+  Edna: Remember, class: the worse you do on this standardized test, the
+        more funding the school gets.  So don't knock yourselves out.
+        You have three hours to --
+Martin: [joyous] Finished!
+  Edna: [grunts] Then put your head down on your desk and sit quietly.
+Martin: Ah, a duet of pleasures.  [does so]
+-- Martin, musical, "Treehouse of Horror VI"
+
+% In his dream, Martin is dressed as a wizard.
+
+Martin: I am the wondrous wizard of Latin!  I am a dervish of declension
+        and a conjurer of conjugation, with a million hit points and
+        maximum charisma.
+         [spots a blackboard with verbs written all over it]
+        Aha!  "Morire": to die.  "Morit": he, she, or it dies.
+         [Willy morphs out of the blackboard; Martin gasps]
+ Willy: "Moris": _you_ die.
+Martin: Aah!  [runs off]
+ Willy: [laughs] You've mastered a dead tongue, but can you handle a
+        live one?
+         [his tongue shoots out of his mouth, wraps around Martin, and
+        squeezes him]
+         [in class, Martin twists and screams, then collapses on the
+        floor]
+Nelson: Ha ha!
+-- "Treehouse of Horror VI"
+
+% Martin's body is laid on a trolley with a sheet over it.
+
+ Skinner: Wheel him out quietly.  It's best the children don't see.
+           [Lunch Lady Doris starts wheeling out the trolley]
+           [the sheet, stuck under Skinner's foot, comes off]
+Children: [seeing Martin's twisted features] Aah!
+ Skinner: Oh, just get it out of here.
+          Not into the kindergarten!  [more screams from outside]
+-- Traumatizing the wee ones, "Treehouse of Horror VI"
+
+% When Bart and Lisa arrive home, they burst in with the news.
+
+ Lisa: Mom!  Dad!  Martin died at school today!
+Marge: Mmm!  I don't see what that has to do with Groundskeeper Willy.
+ Bart: [pause] Umm...we didn't mention Groundskeeper Willy, Mom.
+Marge: Mmm...kids, it's time we told you the true story and put your
+       fears to rest.  It's a story of murder and revenge from beyond
+       the grave.
+-- Oh yeah, _real_ assuaging, "Treehouse of Horror VI"
+
+% The scene changes to parents walking into Springfield Elementary while
+% it snows.
+
+Marge: [voice over] It all started on the thirteenth hour, of the
+       thirteenth day, of the thirteenth month.  We were there to
+       discuss the misprinted calendars the school had purchased.
+Homer: [shivering, looking at the calendar] Oh, lousy Smarch weather.
+        [spies the thermostat with a note from Willy over it]
+        [reads] "Do not touch Willy."  Good advice!  [cranks it]
+-- Punctuation and you, for Homer Simpson, "Treehouse of Horror VI"
+
+% The flames in the furnace flare up.  Willy stops playing his bagpipes
+% to check it out, but the furnace explodes, engulfing him in flames.
+
+Skinner: Our next budget item: $12 for doorknob repair.
+Parents: Nay!
+          [burning Willy tries to escape, but the doorknob falls off]
+Skinner: Recharge fire extinguishers?  Now, this is a, uh, _free_
+         service of the fire department --
+Parents: Nay!
+  Homer: Nay.
+          [burning Willy tries to use the fire extinguisher, but it's
+         empty]
+          [he breaks out of the furnace room and runs into the
+         classroom]
+  Willy: Help!  Please help me!
+Skinner: [reproachful] Willy, please!  Mr. Van Houten has the floor.
+ Mr. VH: Er, I, for one, would like to see the cafeteria menus in
+         advance so parents can adjust their dinner menus accordingly.
+         I don't like the idea of Milhouse having two spaghetti meals in
+         one day.
+          [Willy explodes into flame and screams for a few seconds]
+          [the parents turn to watch]
+  Willy: [a mere skeleton] You'll pay for this...with your children's
+         blood!
+ Wiggum: Oh, right.  How are you going to get them?  Skeleton power?
+  Willy: I'll strike where you canna protect them -- in their dreams!
+-- The smouldering skeleton speaks, "Treehouse of Horror VI"
+
+% His skeleton collapses into ashes, which are magically swept up into a
+% dustpan and deposited in the garbage.
+
+Lisa: Bart!  Don't you realize what this means?  The next time we fall
+      asleep, we could [weakly] die!
+ Abe: Ehh, welcome to my world!  [falls asleep]
+-- Touche, "Treehouse of Horror VI"
+
+% Bart and Lisa try hard to stay awake that night.  Lisa gives Maggie a
+% Buzz Cola to drink while the three children watch "Asian Market
+% Wrapup."
+
+Announcer: There's a volcano waiting to erupt in the Pacific Rim.  Its
+           name: medium-term convertible debentures.
+     Lisa: It's no use, Bart: we can't stay up forever.
+     Bart: You're right.  The only thing left to do is go into my dream
+           and force Willy into a final showdown.  You stay awake, and
+           if it looks like I'm in trouble, wake me up.
+     Lisa: OK.  But promise you won't be grouchy.
+-- Conditional support, "Treehouse of Horror VI"
+
+% Bart yawns and closes his eyes.  He opens them again and looks behind
+% him to see the school, looking dark and sinister.  He walks gingerly
+% through the playground, looking around himself.  "Come on, Willy: I
+% know you're out there."  Willy, his giant head atop a fierce lawn-
+% mowing machine, plows through the hedge behind Bart.  Bart cries out
+% and runs off while Willy laughs.
+%
+% Seeing the sandbox gives Bart an idea.  While Willy looks around for
+% him, Bart takes some clippings of grass lying in garbage bags nearby
+% and sprinkles them over the sandbox, waters them with a hose, then
+% stands with the sandbox in front of him and calls out to Willy.
+
+ Bart: Hey, Lawn Boy!  You missed a spot!  [motions to sandbox]
+Willy: When I'm done with you, they'll have to do a compost-mortem!
+-- Witty retorts, "Treehouse of Horror VI"
+
+% Willy shifts himself into high gear and tromps the gas, flying toward
+% Bart and growling.  When he hits the sandbox, though, his wheels turn
+% uselessly.  "Sinky sand!" he cries, morphing into several different
+% (tartan) shapes before turning into himself and sinking into the sand.
+
+  Bart: [sighs with relief] Willy's gone for good.  Now I can get back
+        to my normal dreams: me and Krusty winning the Super Bowl!
+         [Krusty, dressed in a football uniform, runs up as a crowd
+        cheers]
+Krusty: Bart, there's two seconds left.  Now listen up.  It's your basic
+        Statue of Liberty play with one twist: you throw it to me!
+        Knute Rockne called it the forward pass.
+         [behind Bart, a giant tartan spiderlike bagpipe with Willy's
+        head on it rises from the sandbox]
+        Now, the clock's still running, so it's important we start this
+        play as quickly as possible.
+  Bart: [getting grabbed] Aah!
+Krusty: Oh, boy.  Don't dream about me no more, kid.  [runs off]
+-- Some supportive clown _he_ is, "Treehouse of Horror VI"
+
+Bart: Help, Lisa!  Help!
+Lisa: [running toward the sandbox] Bart, you're in trouble!  Wake up!
+Bart: Wait a minute...if you're here, then you've fallen asleep too!
+Lisa: I'm not asleep, I'm justing resting my ey -- uh oh.  Aah!
+       [gets grabbed by Willy, who continues sinking into the sand]
+      Goodbye, Bart.
+Bart: Goodbye, Lis.  Hope you get reincarnated as someone who can stay
+      awake for fifteen minutes!
+-- Bart, closet Buddhist, "Treehouse of Horror VI"
+
+% All seems lost until Maggie appears and blocks Willy's exit hole with
+% her pacifier.  Willy tries vainly to pull it out, but he expands
+% gradually until he explodes, raining scraps of tartan all over the
+% place.  The three children fly up to the moon, circle it, then land on
+% their couch and awaken.  "You saved us, Maggie!" says Lisa, hugging
+% her.  Maggie pulls out another pacifier, twiddles it around, and puts
+% it in her mouth.
+%
+% The three of them walk out the front door the next morning.
+
+ Lisa: I don't know, Bart.  Something tells me Willy's still out there,
+       and that he could come back at any time in any form and kill us
+       in ways we can't even imagine!
+        [a bus pulls up; Willy gets off]
+Willy: Boo!  [laughs] [makes some faces and noises]
+        [the bus leaves]
+       Stop!  I left my gun on the seat.  Hey!
+        [he starts chasing it, then turns back] Wait here, please.
+        [he runs off, losing his shoe, while a saxophone plays the theme
+       song]
+-- Rowdy Roddy Peeper, goofball, "Treehouse of Horror VI"
+
+% [End of Act Two.  Time: 14:03]
+%
+% Third segment title: "Homer^3"
+%
+% Outside, thunder crashes as Marge calls out to Homer.
+
+Marge: Homer!  Get ready!  Patty and Selma will be here any minute.
+Homer: D'oh!  Oh no...better ride this one out in the closet.
+        [opens it to see Bart and Lisa standing there]
+ Lisa: Sorry, Dad.  This is our spot.
+Homer: Oh yeah?  Well it's _my_ house, so it's _my_ spot.
+ Bart: N'uh uh, because we called it.
+Homer: Did not!
+ Lisa: Well, we're calling it now.
+Homer: [plaintive] You are?
+ Bart: 'Fraid so.
+Homer: Ohh, they got me with their legal mumbo-jumbo.
+-- Which they learned from Matlock, "Treehouse of Horror VI"
+
+% Homer checks under the carpet in front of the TV, but the pets have
+% already claimed that spot for themselves.  The doorbell rings.
+
+Marge: [hearing the doorbell] Just a second!
+Homer: D'oh!  [whimpers] Huh?  [spots a bookcase]
+       I never looked behind this whatchamacallit case before.
+        [chuckles; leans on wall, but his hand goes through it]
+       Huh?  [swirls his hand around] It's like something out of that
+       twilighty show about that zone.
+        [Marge opens the door]
+Patty: How's it hanging, Marge?
+Selma: Ugh!  I'm baking like a meatloaf under this wet wool.
+        [opens coat closet, catches Bart and Lisa hiding there]
+ Bart: Uh...[nervous smile] may I take your coat, Aunt Selma?
+ Lisa: Um...I would also like to take your coat.
+Selma: Have we got a family activity for you:
+Patty: A pillowcase full of seashells from our trip to Sulfur Bay.
+Selma: You can help us clean and organize them.
+Patty: And pry out all the dead hermit crabs.  Get a screwdriver.
+-- Fun?  Wow, "Treehouse of Horror VI"
+
+% Homer will have none of it.
+
+Homer: I'll take my chances in the mystery wall!
+        [goes into it]
+        [steps out into 3D land, looks around]
+        [thinking] Oh, glory of glories.  Oh heavenly testament to the
+       eternal majesty of God's creation.
+        [out loud] Holy macaroni!
+Patty: [sucking on a hermit crab] Hey!  You can just _suck_ 'em out!
+Homer: [disembodied] Hello?  Can anybody hear me?
+Marge: Homer!  Where are you?
+Homer: Uh, I'm somewhere where I don't know where I am.
+Marge: Do you see towels?  If you see towels, you're probably in the
+       linen closet again.
+Homer: Just a second...no, it's a place I've never been before.
+Selma: Hmm.  The shower.  [laughs]
+-- Strike one, "Treehouse of Horror VI"
+
+% "Hey!"  Homer calls out indignantly.  He looks around and scratches
+% himself.
+
+Homer: I don't want to alarm you, Marge, but I seem to be trapped in
+       here.
+Marge: Hmm.  I better call Ned.  He has a ladder!
+        [in 3D land]
+Homer: What's going on here?  I'm so bulgy.
+        [taps his belly; it ripples for a while]
+       My stomach sticks way out in front and my -- aah!
+        [checks out his bulgy behind]
+        [in the living room]
+  Ned: [on top of his ladder] Well, as the tree said to the lumberjack,
+       I'm stumped.
+Selma: Hmm.  It's like he just disappeared into fat air.  [laughs]
+Homer: Hey!  Shut up.
+-- Strike two, "Treehouse of Horror VI"
+
+% In the background, a cone bounces off the green grid Homer is standing
+% on.  He walks past a building, strangely reminiscent of a building in
+% a certain video game, and up to a swimming pool with fish in it.
+% "Mmm...unprocessed fish sticks," he slobbers.  His drool hits the pool
+% and frightens the fish away.
+%
+% He walks up to a sign with arrows pointing along the three axes, X, Y,
+% and Z.
+
+Homer: Man, this place looks expensive.  I feel like I'm wasting a
+       fortune just standing here.
+        [scratches and looks around]
+       Well, better make the most of it.
+        [burps]
+-- Homer in 3D land, "Treehouse of Horror VI"
+
+% The bouncing cone lodges itself in his butt.  "Ow!  Watch it, coney!"
+% He pulls it out and tosses it away.  It lodges itself in the ground,
+% point down, and creates a depression that begins deepening at an
+% alarming rate.  "Oops," he says meekly.
+%
+% Marge has called Rev. Lovejoy and Dr. Hibbert in to help.
+
+Lovejoy: Do you see a light, Homer?
+  Homer: [disembodied] Yes...
+Lovejoy: Move into the light, my son.
+  Homer: [a buzzing is heard] Aah!
+Hibbert: Homer, this is your physician, Dr. Julius Hibbert.  Can you
+         tell us what it's like in there?
+  Homer: Uh...it's like...did anyone see the movie "Tron"?
+Hibbert: No.
+   Lisa: No.
+  Marge: No.
+ Wiggum: No.
+   Bart: No.
+  Patty: No.
+ Wiggum: No.
+    Ned: No.
+  Selma: No.
+  Frink: No.
+Lovejoy: No.
+ Wiggum: Yes.  I mean -- um, I mean, no.  No, heh.
+-- "Treehouse of Horror VI"
+
+% Frink draws a strange diagram on the wall.
+
+    Lisa: Well, where's my Dad?
+   Frink: Well, it should be obvious to even the most dim-witted
+          individual who holds an advanced degree in hyperbolic
+          topology, n'gee, that Homer Simpson has stumbled into...[the
+          lights go off] the third dimension.
+    Lisa: [turning the lights back on] Sorry.
+   Frink: [drawing on a blackboard] Here is an ordinary square --
+  Wiggum: Whoa, whoa -- slow down, egghead!
+   Frink: -- but suppose we exte-end the square beyond the two
+          dimensions of our universe (along the hypothetical Z axis,
+          there).
+Everyone: [gasps]
+   Frink: This forms a three-dimensional object known as a "cube", or a
+          "Frinkahedron" in honor of its discoverer, n'hey, n'hey.
+   Homer: [disembodied] Help me!  Are you helping me, or are you going
+          on and on?
+   Frink: Oh, right.  And, of course, within, we find the doomed
+          individual.
+-- The frightening conclusion, "Treehouse of Horror VI"
+
+Wiggum: Enough of your borax, poindexter!  We need action --
+         [fires his gun six times through the wall]
+        Take that, you lousy dimension!
+         [the bullets fly toward Homer, but spiral around the widening
+        hole and get sucked into it]
+ Homer: Oh, there's so much I don't know about astrophysics.  I wish I'd
+        read that book by that wheelchair guy.
+-- Homer, Hawking ignoramus, "Treehouse of Horror VI"
+
+% He leans into the hole, but his head gets sucked in and elongated
+% grotesquely.  He manages to pull it out, but the hole begins widening
+% with an alarming rapidity.  He has to run to keep ahead of it.
+
+  Abe: [wearing a diving suit] I'll save Homer!  All I needs is four
+       stout men to work the bellows.
+Frink: No, pops, it's too risky!  For all we know, there could be cubes
+       in there the size of gorillas and other large --
+Homer: [disembodied] Help!  I don't have much time.
+ Bart: [tying a rope around his waist] That does it.  I'm going in.
+Marge: Bart, no!
+        [Bart goes in through the wall and looks around]
+ Bart: Cool, man!
+-- Bart enters 3D land, "Treehouse of Horror VI"
+
+% Homer is nearing the edge of the green grid.
+
+  Homer: [panicky] Oh my God, I'm going to be sucked into a black hole,
+         I'm going to be sucked into oblivion, I'm going to be nothing,
+         and what's going to be coming out the other side, I don't know!
+   Bart: I'll save you, Dad!
+          [climbs onto XYZ street sign]
+         I can't get any closer...you'll have to jump!
+  Homer: Piece of cake, son.
+          [runs into hole, breaks into pieces]
+         Crap crap crap crap crap crap crap crap crap crap --
+          [the world explodes in a flash as Bart gets pulled back]
+  Marge: Bart!  What happened?
+   Bart: Well...we hit a little snag when the universe sort of collapsed
+         on itself.  But Dad seemed cautiously optimistic!
+  Homer: [disembodied] Craaaap!
+  Marge: Oh, Homey.
+Lovejoy: Be strong, Marge: I'm sure he's gone to a better place.
+          [lightening fizzles; Homer appears in our world, screaming,
+         and falls into a dumpster]
+  Homer: D'oh!  [gets out] Ew...this is the worst place yet.
+-- He's got that right., "Treehouse of Horror VI"
+
+% He walks down a street somewhere in California.  People stop to look
+% at the stranger from another universe.  Homer whimpers incoherently as
+% he keep walking, but then he spots a store he likes.  "Ooh!  Erotic
+% cakes," he coos, walking in.
+%
+% [End of Act Three.  Time: 21:27]
+%
+% The credits are displayed in green as the camera slowly rises over the
+% erotic cakes shop.  The theme song sounds as though it's from the
+% video game "Myst".  Similar-style music plays over the Gracie logo.
+===============================================================================
+> Contributors
+===============================================================================
+   {ddg} Don Del Grande
+   {sf}  Scott Fujimoto
+   {dh}  Dominik Halas
+   {rl}  Ricardo Lafaurie
+   {th}  Tony Hill
+   {hl}  Haynes Lee
+   {al}  Adam Lipkin
+   {jm}  Joe Manfre
+   {mkn} Michael Neylon
+   {jp}  Jussi Pakkanen
+   {np}  Nate Patrin
+   {bdp} Brian Phillips
+   {ert} Elson Trinidad
+   {av}  Aaron Varhola
+   {wv}  Will Vaughan
+   {bw}  Bill Walko
+   {dy}  Doug Yovanovich
+===============================================================================
+This episode summary is Copyright 1997 by James A. Cherry.  Not to be
+redistributed in a public forum without permission.  (The quotes
+themselves, of course, remain the property of The Simpsons, and the
+reproduced articles remain the property of the original authors.  I'm
+just taking credit for the compilation.)

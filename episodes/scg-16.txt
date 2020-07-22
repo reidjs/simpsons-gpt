@@ -1,0 +1,673 @@
+                           The Simpsons Archive's
+                       Simpsons Syndication Cuts Guide
+
+                         Season Sixteen (2004-2005)
+
+               "Syndication... is there anything they can't do?"
+
+                                 23 Jun 2008
+
+                 Maintained by Matt Garvey <garvey@snpp.com>
+                      Guide created by Frederic Briere 
+               Contributions from Chad Lehman and Tim Reardon
+
+[=========================[Season Sixteen Summary]==========================]
+
+Story cut episodes: FABF22, FABF21, FABF16, GABF01, GABF06, GABF10, GABF15.
+Compressed episodes: All but FABF16.
+Expanded .1 seconds of an episode: GABF10.
+Missing lines: FABF23, GABF01, GABF10.
+Added content: FABF21 (opening), GABF10.
+Changed content: FABF20, GABF14.
+
+Total time cut: 2:52 (2 min 52 sec) (lengthened intro time not counted)
+Story time cut: 2:52 (2 min 52 sec)
+Total time gained: 10:31 (10 min 31 sec)
+
+Notes: As with the past few seasons, the TV rating bug is nowhere to be seen;
+       however, I did notice that the original ratings (e.g. TV-PG-DLV) of
+       each episode are still accessible by V-chip, and have been for some
+       time. (For this season, however, the production code in the XDS info
+       appears to be gone.)
+
+       This season's compression trend is a little different; now it usually
+       begins right at the start of the first act, without waiting for the
+       running credits to finish, and generally stops about a minute before
+       any given act does (perhaps for cleaner compression ratios to achieve
+       a desired length?). I have not included the ending points for every
+       single act, but if you really want them, ask!
+
+ ==[ FABF23 ]===================================== Treehouse of Horror XV ===
+         CUTS:  0 seconds     GAINED: 35 seconds      21:17 / 21:52
+                         Original Halloween opening
+
+ ~~~~~    OPENING  <---->   (----)   1:09 / 1:09
+ ~~~~~    ACT I    <---->   (0:11)   5:53 / 6:04
+ ~~~~~    ACT II   <---->   (0:13)   7:04 / 7:17
+ ~~~~~    ACT III  <---->   (0:11)   6:22 / 6:33
+ ~~~~~    ENDING   <---->   (----)   0:49 / 0:49
+
+       % During the Gracie Films logo, Homer screams twice (in all versions).
+       % In the original (and network repeats), he screams once more over the
+<0:00> % Fox logo, but this is missing from the syndicated version,
+       % presumably because (as often happens) a slightly different Fox logo
+       % is used.
+
+
+ ==[ FABF20 ]===================================== All's Fair in Oven War ===
+         CUTS:  0 seconds     GAINED: 33 seconds      21:18 / 21:51
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:23 / 0:23
+ ~~~~~    ACT I    <---->   (0:13)   8:57 / 9:10
+ ~~~~~    ACT II   <---->   (0:11)   5:24 / 5:35
+ ~~~~~    ACT III  <---->   (0:09)   5:45 / 5:54
+
+       $ There was a minor bit of Fox censorship on some original airings of
+       $ this episode. Near the end, when Homer tells Marge that she'll
+       $ always be the best chef in their house, she responds "Eh, BFD."
+       $ If you know what it means, then good for you! Anyhow, the first Fox
+       $ airing was silenced at this point, so it sounded like "bee... -ee."
+       $ According to my notes, the second airing was intact, though the
+       $ third was more like "bee eh- dee-" (why it was apparently cut off
+       $ again near the end I'm not sure). Fortunately, the full line is
+       $ present in the syndicated version.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:49 / 0:49
+
+       ! The original airing and first repeat do not list Russi Taylor (Uter) 
+       ! in the credits, but she is there in the syndicated version's list. I
+       ! do not know if the correction was made in time for the last Fox run.
+
+
+ ==[ FABF19 ]==================================== Sleeping with the Enemy ===
+         CUTS:  0 seconds     GAINED: 32 seconds      21:16 / 21:48
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:07)   6:42 / 6:49
+ ~~~~~    ACT II   <---->   (0:13)   7:13 / 7:26
+ ~~~~~    ACT III  <---->   (0:12)   6:18 / 6:30
+ ~~~~~    ENDING   <---->   (----)   0:41 / 0:41
+
+       ! For season 16, an unusual approach was used to handle some credits.
+       ! Since Homer and Lisa continue to talk through the main cast credits,
+       ! but then the theme kicks in, the syndicated version does not cut to
+       ! commercial until between Harry Shearer's and Marcia Wallace's names.
+       ! (Times for the last act and the credits are based on this break.) Do
+       ! note, though, that the music starts while Harry's name is still on-
+       ! screen, so in syndication it's silent there and picks up abruptly
+       ! after the break.
+
+
+ ==[ FABF22 ]===================================== She Used to Be My Girl ===
+         CUTS: 24 seconds     GAINED: 32 seconds      21:19 / 21:51
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   0:50 / 0:50
+ ~~~~~    ACT I    <0:24>   (0:24)   6:42 / 7:06
+
+       * There is *minimal* compression starting soon after the credits end.
+
+ ~~
+          Lisa: Harper's Magazine? I have a picture of Lewis Lapham on my
+                binder! [does an unsettling tiger growl]
+       % Chloe: Oh, but I've been yapping about myself all night! Marge,
+       %        what's exciting in your life lately?
+       % Marge: Well...uh... Oh! We finally found out why the dog was
+       %        scooting around on his butt all day. Turns out he had an
+<0:24> %        impacted anal gland!
+       %
+       % Santa's Little Helper scoots across the front of the scene, and
+       % they all watch in silence, even after he goes out of frame.
+       %
+       % Marge: [not sarcastic] The excitement never stops.
+                Chloe, would you like to see slides of our trip to Athens?
+
+
+ ~~~~~    ACT II   <---->   (0:04)   5:45 / 5:49
+ ~~~~~    ACT III  <---->   (0:04)   7:14 / 7:18
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ FABF21 ]===================================== Fat Man and Little Boy ===
+         CUTS: 81 seconds     GAINED: 33 seconds      21:17 / 21:50
+                DABF02 blackboard, DABF02 solo, original couch
+
+ ~~~~~    OPENING <-0:55>  (-0:55)   1:19 / 0:24
+
+       + Blackboard: I do not have a cereal named after me
+       + Solo: Three Blasts
+       + [no blackboard/solo in original]
+
+       ! Of course, we wouldn't need 55 extra seconds without nearly 90 cut!
+
+
+ ~~~~~    ACT I    <0:25>   (0:26)   4:48 / 5:14
+
+       * Compression starts after the credits, unusual for this season.
+
+ ~~
+         Captain: Nothing gold can stay. Yarr...
+
+       % Bart waves to him from the shore.
+       %
+       %    Bart: Hey, sea captain.
+       % Captain: Giving your toys a Viking funeral, eh?
+       %    Bart: I really don't want to talk about it.
+<0:25> % Captain: If you change your mind, I won't be farrr.
+       %    Bart: Thanks, but--
+       % Captain: I've been told I'm a good listener, but when you're a
+       %          captain, you never know when people are just flattering
+       %          you. [sighs:] Yarr. [looks up] H--? He's gone. _Darn_ it!
+       %          I just want a friend who isn't a work friend.
+
+         End of act.
+
+
+ ~~~~~    ACT II   <0:44>   (0:47)   7:35 / 8:22
+
+          Bart: You really think my shirts will sell?
+         Goose: Ab-so-tively!
+       %                      Here, take my card!
+       %
+       % Goose's calling card pops out of his jacket on a spring. Bart takes
+       % it, and it opens like a pop-up book. The pop-up is Goose holding up
+       % a rainbow-colored sign that reads
+       %    GOOSE'S
+       % GAGS AND GIFTS
+<0:15> %   TELEPHONE:
+       %    KL5-0743
+       % and makes a little electronic fanfare as it opens. He grabs it back:
+       %
+       % Goose: Sorry, that's my old number. Let me give you the new one!
+       %        Ha-ha... [tries to write] darn, it's out of ink. But my phone
+       %        number's on the pen! [Bart reaches for it] Oh, but it's my
+       %        old phone number. ...I'll call _you_.
+
+         The production line for Bart's shirts is seen.
+
+ ~~
+             Burns: I say when it's Christmas!
+
+       % Homer is watching TV, drinking a beer, and wearing shorts and a
+       % "rich bitch" t-shirt. A commercial comes on:
+       %
+       % Announcer: Too much change around the house got you down?
+       %
+       % A man opens a door and a wall of change falls out. He pops his head
+       % out of the pile, and says in an exaggerated voice:
+       %
+       %  Coin man: Help me, Ronco Change Magician!
+       %
+       % We cut to the man pouring jar after jar of change in the device...
+       %
+<0:29> % Announcer: The Change Magician will _change_ your life! For the
+       %            better! [quiet, with subtitles] Results may vary. Machine
+       %            does not actually sort change. [normal] Order today!
+       %
+       % Homer gasps, and turns to Bart, who's looking at a racing form with
+       % reading glasses.
+       %
+       %     Homer: Bart, can I ask you an important question?
+       %      Bart: [rolling eyes] How much?
+       %     Homer: 29.99?
+       %      Bart: [sigh] Here's 50.
+       %     Homer: Woo-hoo!
+       %      Bart: That's your donut money too, mister.
+       %     Homer: Ohhhhhhhhh...
+
+         Establishing shot of the Gilded Truffle.
+
+       ! Too bad this was cut; it helped establish that Homer was dependent
+       ! on Bart.
+
+
+ ~~~~~    ACT III  <0:12>   (0:15)   6:47 / 7:02
+
+         Homer: Sweetie, that's orphan talk.
+
+         After 1.5 seconds of the basement window, with two hammer clanks and
+         some grunts,
+       %              we go inside, where there is more hammering, as Homer
+       % is trying to improve Lisa's project.
+       %
+       % Homer: Stupid atomic pile! How hard could it be to build a reactor?
+<0:12> %        Korea did it, and look at the quality of their animation!
+       %
+       % Homer's muzzle area suddenly jumps about 2 head's-lengths left.
+       %
+       % Homer: What to do, what to do. [his muzzle returns]
+                Hey! Maybe the Internet has the information I need!
+
+       ! Again, this cut makes it less clear what Homer is trying to do. Ugh.
+
+ ~~
+       * Compression ends after Homer shows Lisa the improved reactor.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ FABF16 ]================================================ Midnight Rx ===
+         CUTS: 23 seconds     GAINED: 23 seconds      21:18 / 21:41
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:27 / 0:27
+ ~~~~~    ACT I    <---->   (----)   4:38 / 4:38
+ ~~~~~    ACT II   <0:23>   (0:23)   9:41 /10:04
+
+         At the start of the act...
+       % Inside the kitchen, with Lisa, Marge, Homer, and Bart gathered
+       % around the table.
+       %
+       % Marge: Now that Mr. Burns has eliminated the drug plan, we're gonna
+       %        have to cut back on our diseases!
+<0:23> % Homer: I'll get a second job, one that pays well! You think those
+       %        guys on "Friends" need another Friend?
+       %  Lisa: That show's gone off the air!
+       % Homer: Damn it [hits table]. I would have been perfect as Rachel's
+       %        Irish cousin! [gets up, and in Irish accent:] So you're all
+       %        doin' each other, are ya? Well, who's going to put out for
+       %        old Seamus? [gives Marge and Bart an evil eye]
+
+         Establishing shot of employment agency.
+
+
+ ~~~~~    ACT III  <---->   (----)   5:44 / 5:44
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ GABF01 ]============================================= Mommie Beerest ===
+         CUTS: 19 seconds     GAINED: 34 seconds      21:19 / 21:53
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:04)   7:26 / 7:30
+ ~~~~~    ACT II   <0:19>   (0:24)   4:32 / 4:56
+
+       ! At the end of the act:
+
+         Marge: Of course not, I'm in bed with Homer.
+           Moe: [on phone] And also, I... [trails off]
+
+       % Shot of Homer in bed, with his lips still puckered as he talks.
+       %
+<0:19> % Homer: Well, I might as well use this pucker for something.
+       %
+       % He reaches down and grabs a trombone. He plays a line of
+       % "Greensleeves," inhales loudly, and starts to play more.
+                                                                  End of act.
+
+
+ ~~~~~    ACT III  <---->   (0:06)   8:09 / 8:15
+ ~~~~~    ENDING   <---->   (----)   0:50 / 0:50
+
+       % Presumably because the syndicated version has a break just before
+       % the credits and no one wanted to take a chance on not hearing the
+       % first word, the audio track for the first part of the credits is
+       % shifted by exactly half a second. Not only does this make the
+<0:00> % characters appear off-sync (especially at the start), but the last
+       % half second of the song disappears into the void! That is, Homer's
+       % last line ("or maybe a Manwich") becomes "or maybe a Manw--"; the
+       % instrumental portion then kicks in where it did originally.
+       % I am marking this as a zero-length cut, but remember, .5s is lost.
+
+ ~~
+       $ Oh, that wasn't enough? In the second and third network airings,
+<0:02> $ the tribute to Johnny Carson (a brief card before the Gracie logo,
+       $ featuring a still from episode 9F19) was left out. Surprisingly,
+       $ it remains in syndication.
+
+
+ ==[ GABF02 ]============================= Homer and Ned's Hail Mary Pass ===
+         CUTS:  0 seconds     GAINED: 33 seconds      21:16 / 21:49
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:07)   4:52 / 4:59
+
+       * Compression ends when Overstreet offers to buy Homer's dance. But...
+
+       * I'll mark this, somewhat reluctantly, as compression, but the end of
+       * the act seems to be cut off by about .5 seconds. In the original,
+       * after Homer starts spinning on his head, he describes half of a
+       * circular path toward Overstreet, all while continuing to make his
+       * gurgling/vroom sounds. (The act is then cut off suddenly.) In
+       * syndication, the end comes about two frames after he starts to move!
+
+
+ ~~~~~    ACT II   <---->   (0:17)   9:56 /10:13
+ ~~~~~    ACT III  <---->   (0:09)   5:18 / 5:27
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ GABF03 ]=============================================== Pranksta Rap ===
+         CUTS:  0 seconds     GAINED: 44 seconds      21:17 / 22:01
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:14)   6:38 / 6:52
+ ~~~~~    ACT II   <---->   (0:15)   7:08 / 7:23
+ ~~~~~    ACT III  <---->   (0:15)   6:21 / 6:36
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ GABF04 ]=========================== There's Something about Marrying ===
+         CUTS:  0 seconds     GAINED: 12 seconds      21:17 / 21:29
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:04)   4:51 / 4:55
+ ~~~~~    ACT II   <---->   (0:04)   6:28 / 6:32
+ ~~~~~    ACT III  <---->   (0:04)   8:48 / 8:52
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ GABF05 ]======================= On a Clear Day I Can't See My Sister ===
+         CUTS:  0 seconds     GAINED: 35 seconds      21:16 / 21:51
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:10 / 1:10
+ ~~~~~    ACT I    <---->   (0:15)   7:38 / 7:53
+ ~~~~~    ACT II   <---->   (0:11)   6:07 / 6:18
+ ~~~~~    ACT III  <---->   (0:09)   5:33 / 5:42
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ GABF06 ]============================================ Goo Goo Gai Pan ===
+         CUTS: 11 seconds     GAINED: 20 seconds      21:19 / 21:39
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:03)   5:54 / 5:57
+ ~~~~~    ACT II   <0:11>   (0:17)   9:17 / 9:34
+
+       ! Note: The copy of the syndicated version I have seems to be missing
+       ! the start of the establishing shot at the start of the act (the
+       ! plane coming out from behind the clouds); it may be a local glitch.
+
+ ~~
+       ! Complicated cut warning!
+
+           Pilot: We have started our descent and will soon be landing in
+                  Beijing.
+       % Copilot: [Chinese accent with pilot inflection] If you look out the
+       %          left side of the aircraft, you will see our monument to (*)
+       %          warrior and (**) spicy chicken pioneer General Gao.
+       %
+       % At (**) above, the image changes to a shot of a giant Chinese
+<0:11> % takeout box, with tourists standing around. The plane flies over it,
+       % and in voiceover:
+       %
+       %    Homer: Wow, it makes the Lincoln Memorial look like crap.
+       %
+       % Music starts as we see the plane, which has landed, on the runway,
+       % rolling in.
+                     In syndication, the scene starts as the "na" in "Air
+         China" is visible.
+
+       ! Oh, if only it were as simple as it might look. In syndication, the
+       ! visual shot of the plane in the clouds stays for a few seconds, till
+       ! the point (*) would be reached if the audio stayed the same. The
+       ! audio switches at that point to the music, which would have been
+       ! dropped otherwise. It's about a 3-second overlap, with a net visual
+       ! (or audio) cut of 11 seconds.
+       !
+       ! Note too how silly this is. I guess it was important to establish
+       ! where they were, but a properly timed straight cut should do. Also,
+       ! in the original, there are plane sound effects behind the music in
+       ! the landing scene, so in syndication, suddenly you can hear the
+       ! plane even though the shot never changes! Finally, it's a weird cut,
+       ! because the pilot's line makes the viewer expect something that
+       ! never happens. Argh!
+
+
+ ~~~~~    ACT III  <---->   (----)   4:58 / 4:58
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ GABF07 ]=============================================== Mobile Homer ===
+         CUTS:  0 seconds     GAINED: 33 seconds      21:18 / 21:51
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:24 / 0:24
+ ~~~~~    ACT I    <---->   (0:14)   9:24 / 9:38
+ ~~~~~    ACT II   <---->   (0:10)   5:10 / 5:20
+ ~~~~~    ACT III  <---->   (0:09)   5:32 / 5:41
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ GABF08 ]====================================== The Seven-Beer Snitch ===
+         CUTS:  0 seconds     GAINED: 33 seconds      21:17 / 21:50
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:23 / 0:23
+ ~~~~~    ACT I    <---->   (0:11)   6:43 / 6:54
+ ~~~~~    ACT II   <---->   (0:09)   5:18 / 5:27
+ ~~~~~    ACT III  <---->   (0:13)   8:05 / 8:18
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ GABF12 ]=============================================== Future-Drama ===
+         CUTS:  0 seconds     GAINED: 33 seconds      21:16 / 21:49
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:11)   7:26 / 7:37
+ ~~~~~    ACT II   <---->   (0:11)   6:56 / 7:07
+ ~~~~~    ACT III  <---->   (0:11)   5:44 / 5:55
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ GABF10 ]====================================== Don't Fear the Roofer ===
+         CUTS: 12 seconds     GAINED: 22 seconds      21:18 / 21:40
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:25 / 0:25
+
+       ! Note that while all three network airings used the erroneous caption
+       ! "350th EPISODE, MAN!" at the start of the opening, in syndication it
+       ! is gone. Compare EABF05, EABF07.
+
+
+ ~~~~~    ACT I    <---->   (0:03)   6:20 / 6:23
+
+       * Compression starts after the credits finish, not this season's norm.
+
+ ~~~~~    ACT II   <---->   (0:05)   7:44 / 7:49
+ ~~~~~    ACT III  <0:12>   (0:14)   6:01 / 6:15
+
+       * Compression ends about when Homer gets shocked.
+       * There seems to be a small bit of expansion, too: about .1 seconds
+       * on the last word in "something much more else." But read on!
+
+ ~~
+       ! The 12-second cut below is purely for syndication. However,
+       ! everything after that (the location of the music, the credits) is
+       ! the same between the network repeats and the syndicated version.
+
+         Homer: Not if those gutters aren't clean you don't!
+
+         Hibbert moves out of camera, muttering...
+
+         Dr. H: [something something] clean the
+       %                                        gutters [more muttering]
+       %   Ray: So as I was saying, Homer [switches to far shot], Mondays,
+       %        9 o'clock, CBS. They say everybody loves that guy but I don't
+<0:12> %        get it.
+       % Homer: What are you talking about?
+       %   Ray: Hey, I'm just saying, catch it while you still can.
+       %
+       % A short music cue plays; they start to laugh. This is for 4 seconds,
+         but the last three are seen and heard in syndication, while the
+         music cue is not.
+
+       + As this shot fades to bring up executive producer credits, the
+       + repeats and syndicated version fill the time with the music cue,
+<0:00> + which is now heard by itself (a bit more loudly). In the original,
+       + Ray and Homer start talking again, starting with the execs; while
+       + some of it technically is during the last act (up to ** below), I'm
+       + putting it all in the credits section for ease of reading.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+      $% Here we go! Only the original broadcast, as far as I know, contained
+      $% this run; every other version uses the above music cue over the
+      $% executive producers and standard theme for the rest. Keep in mind
+      $% that this is done in voice-over only.
+       %
+       % Homer: What time's this show on?
+       %   Ray: It's Monday, 9 o'clock, CBS.
+       % Homer: And what's the network?
+       %   Ray: CBS.
+       % Homer: At what time? **
+       %   Ray: 9 o'clock.
+       % Homer: And if I want to watch it, what day?
+       %   Ray: Monday. Monday, 9 o'clock.
+       % Homer: And this is on the radio.
+       %   Ray: No, it's television, Mondays at 9, on CBS.
+       % Homer: And if I want to see it, what time should I watch it?
+       %   Ray: 9 o'clock.
+       % Homer: On what channel?
+       %   Ray: CBS.
+       % Homer: What day?
+<0:00> %   Ray: Monday.
+       % Homer: On the _radio_?
+       %   Ray: Television.
+       % Homer: Turn the television to what channel?
+       %   Ray: CBS.
+       % Homer: At what time?
+       %   Ray: 9 o'clock on Monday.
+       % Homer: Now if I wanted to see it on a certain day, what would be the
+       %        best day to see it?
+       %   Ray: It's only on on Monday.
+       % Homer: And what time would be a good time to *tune in--
+       %   Ray: [starts at *] 9 o'clock, it's from 9 to 9:30.
+       % Homer: So if I turn my radio on at 9 o'clock--
+       %   Ray: Not the radio, television.
+       % Homer: So it's Mondays at 9, on NBC...
+       %   Ray: CBS.
+       % Homer: CBS.
+       %   Ray: 9 o'clock.
+       % Homer: On the radio...
+       %   Ray: Television...
+       % Homer: Television at 3 o'clock.
+
+       ! Oh, you thought that was all? At the Gracie Films logo:
+       !
+       ! Original: "Shh!" Music starts, "and we're done," says Hawking.
+      +!  Repeats: "Shh!" Music starts, "badabing, badaboom, and we're done."
+      +!     Synd: No "shh!" or music; "badabing, badaboom, and we're done."
+       !
+       ! I do not know why the start of Mr. Hawking's quote is missing in the
+       ! original version. Interestingly, the quote starts at the same point
+       ! in all three (on the third Gracie note), even where the usual Gracie
+       ! sounds are not underlaid, so timing does not seem to be the
+       ! explanation. I also can't explain the music drop.
+
+       ! In conclusion, WHY WHY WHY WHY WHY? Was the exclusion of the special
+       ! credits intentional, a mistake, a legal thing? And what of the
+       ! botched Gracie sound? That could maybe be explained if the credits
+       ! were put together in a rush. But will we see a fourth version on DVD
+       ! or one of the incomplete ones above, or perhaps several alternates?
+
+
+ ==[ GABF11 ]========================================= The Heartbroke Kid ===
+         CUTS:  0 seconds     GAINED: 33 seconds      21:18 / 21:51
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:24 / 0:24
+ ~~~~~    ACT I    <---->   (0:10)   6:37 / 6:47
+ ~~~~~    ACT II   <---->   (0:11)   5:41 / 5:52
+ ~~~~~    ACT III  <---->   (0:12)   8:04 / 8:16
+
+       ! Note: In order to avoid splitting up the final scene with Tab and
+       ! Homer, the syndicated version puts the commercial break after it.
+       ! I'm adjusting the Act III and ending timings to reflect that break.
+       ! Compare FABF19 in this season, as well as others in general.
+
+
+ ~~~~~    ENDING   <---->   (----)   0:32 / 0:32
+
+       ! The credits "act" in syndication picks up at Danny Elfman's name.
+       ! It might have been just the local broadcast, but oddly, that second
+       ! (and its music) was sped up to take only half a second. Additional
+       ! information is welcome.
+
+
+ ==[ GABF13 ]============================================= A Star Is Torn ===
+         CUTS:  0 seconds     GAINED: 34 seconds      21:15 / 21:49
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:35 / 0:35
+ ~~~~~    ACT I    <---->   (0:12)   7:07 / 7:19
+ ~~~~~    ACT II   <---->   (0:11)   6:49 / 7:00
+ ~~~~~    ACT III  <---->   (0:11)   5:56 / 6:07
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ GABF14 ]==================================== Thank God It's Doomsday ===
+         CUTS:  0 seconds     GAINED: 32 seconds      21:17 / 21:49
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:22 / 0:22
+ ~~~~~    ACT I    <---->   (0:08)   5:55 / 6:03
+ ~~~~~    ACT II   <---->   (0:11)   6:54 / 7:05
+
+       % I couldn't help but notice that the original version had the caption
+       % "MAY 18th...JUDGEMENT DAY"
+       % whereas in syndication the spelling was changed to the preferred
+<0:00> % "MAY 18th...JUDGMENT DAY";
+       % I didn't record or take note of the spelling in the network repeats,
+       % however, so I don't know when the change was made. More info would
+       % be helpful. See also below.
+
+
+ ~~~~~    ACT III  <---->   (0:13)   7:18 / 7:31
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+       % I also couldn't help but notice that in the original version, the
+       % "Also Starring" screen listed Tress MacNeille, Pamela Hayden, and
+<0:00> % Karl Wiedergott in that order; in syndication, the first two names
+       % are switched. When did this happen? Why? Is this more frequent than
+       % I thought?
+
+       ! Update: "Senor Spielbergo" points out that the original version does
+       ! not use alphabetical order, which is the norm for Also Starrings. I
+       ! still don't know when it was fixed, but at least now I see why.
+
+
+ ==[ GABF15 ]======================================= Home Away from Homer ===
+         CUTS:  2 seconds     GAINED: 12 seconds      21:18 / 21:30
+                               Original opening
+
+ ~~~~~    OPENING  <---->   (----)   1:19 / 1:19
+ ~~~~~    ACT I    <---->   (0:02)   7:02 / 7:04
+ ~~~~~    ACT II   <0:02>   (0:07)   6:56 / 7:03
+
+         Flanders gargles with the "sexy" sign pointed at him.
+       % Zoom out to see it's on the computer, with Milhouse pointing at it.
+<0:02> %
+       % Milhouse: He doesn't even know it's going on!
+            Homer: [laughs] Wait'll I tell everyone about this!
+
+       ! Bra...vo.
+
+ ~~~~~    ACT III  <---->   (0:03)   5:13 / 5:16
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+
+ ==[ GABF09 ]=============== The Father, the Son, and the Holy Guest Star ===
+         CUTS:  0 seconds     GAINED: 33 seconds      21:16 / 21:49
+                                Original couch
+
+ ~~~~~    OPENING  <---->   (----)   0:27 / 0:27
+ ~~~~~    ACT I    <---->   (0:10)   6:15 / 6:25
+ ~~~~~    ACT II   <---->   (0:15)   9:26 / 9:41
+ ~~~~~    ACT III  <---->   (0:08)   4:20 / 4:28
+ ~~~~~    ENDING   <---->   (----)   0:48 / 0:48
+
+ ==[ ------ ]================================================================

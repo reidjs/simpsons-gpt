@@ -1,0 +1,104 @@
+% B = Bart, L = Lisa, G = Grampa, H = Homer
+%
+% {curly braces} enclose text that might've been cut from the original
+% airing.
+%
+% The three kids stand in a doorway (from left to right, Bart, Lisa and
+% Maggie).  Behind them stands Homer.
+
+H: Meet your Grandpa.  Now get in there and talk to him.
+
+% Homer shoves the kids into the room.
+%
+% In the room sits Grampa in a rocker.
+
+G: Gather 'round, kids.  And I'll tell you about the good ol' days.
+
+% The kids hop into his lap.
+
+B: {Aw,} man!
+
+% Through Grampa's story, Bart has one of those, ``I've heard this before''
+% expressions.  Lisa and Maggie are entertained.
+
+G: You know, when I was your age, I had to walk twenty miles just to get
+   to school.  And back then, we didn't have pacifiers.  We had to suck on
+   pieces of wood.  And in my day, we didn't have TV sets.  We used to sit
+   on our grandpa's lap all evening and listen politely to his entertaining
+   stories.
+B: Was your grandpa a liar too?
+G: No, but his lap was awful slippery!
+
+% Grampa playfully pushes Bart off his lap.  Bart lands with a thud.
+%
+% [End of Act One.  Time: 0:32]
+%
+% The girls are in Grampa's lap.  Bart bounces a red ball.
+
+G: Once upon a time, there was a happy little elf.
+B: [annoyed] Can't something bad happen to the elf?
+G: The happy little elf hummed a happy little tune.
+B: Aw, come on, man!
+G: But suddenly, the happy little elf STOPPED!
+
+% Bart is startled, and the ball crashes through the window.
+
+L: Why did the happy little elf stop?
+G: Because he realized... he was actually a clumsy little elf.
+
+% Bart hangs his head.
+%
+% [End of Act Two.  Time: 0:55]
+%
+% Things are pretty much as we left them.  The girls are in Grampa's
+% lap.  The window is still broken.
+
+B: Come on, Gramps.  Tell us a <scary> story.
+G: You want it scary, eh?
+B: That's right, old timer.
+G: This is a story... of a very...   Wauugh!
+
+% Grampa's eyes go haywire, and he throws his arms wide, tossing the
+% girls to the floor.  He then slumps in his chair.
+%
+% The girls stand next to Bart.
+
+L: You killed Grandpa.
+B: [panicking]  No way, man!  Society killed Grandpa!
+L: Face it Bart... You're doomed.
+B: Uh oh.
+
+% Zoom in on Grampa's face.  He opens one eye and smiles.  Then closes it
+% and pretends to be dead.
+%
+% [End of Act Three.  Time: 1:19]
+%
+% Bart faces away from Grampa.
+
+L: Which do you prefer, Bart?  The gas chamber? ... Or the electric chair?
+
+% Bart's eyes go weird.  Grampa chuckles.
+
+G: I was just pullin' yer leg.
+
+% Lisa throws open her arms.
+
+L: Hallelujah!  He's alive!
+
+% Lisa starts dancing with Maggie in celebration.  Bart starts to lose
+% his balance.
+%
+% Homer appears in the doorway.
+
+H: That's what I like to see.  Everybody having a good time.
+
+% Homer sees Lisa and Maggie dancing joyfully, Grampa rocking in his chair,
+% and Bart losing his balance.
+
+H: Bart?
+
+% Bart falls flat onto his back.
+%
+% [End of Act Four.  Time: 1:39]
+
+<|endoftext|>

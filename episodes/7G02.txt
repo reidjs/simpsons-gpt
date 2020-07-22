@@ -1,0 +1,583 @@
+<PRE>
+Bart the Genius                                           Written by John Vitti
+                                                    Directed by David Silverman
+===============================================================================
+7G02 Revision: B Date: 99/10/3 By: Andrew A. Gill Original: Raymond Chen
+===============================================================================
+> TV Guide Synopsis
+===============================================================================
+Bart is moved to a school for gifted children after he switches
+aptitude tests with another boy, who is assigned to vocational studies
+in dishwashing.
+
+===============================================================================
+> Title sequence
+===============================================================================
+Blackboard :- `I will not waste chalk'.
+              `I will not w' at cutoff.
+
+Driveway   :- Homer opens his mouth but no sound comes out
+              when the car closes in on him.
+
+Couch:     :- Bart pops upwards out of frame, and doesn't come down.
+              During the shot of the TV set, Bart falls past.  (*thud*)
+
+===============================================================================
+> Didja notice ...
+===============================================================================
+    ... Maggie's blocks were E-M-C-2?  @{cs}  Apparently, it is Maggie who
+        is the genius in the family.
+    ... in Bart's numerical nightmare, the handle on the pull-cord for the
+        window shade was... the number eight?
+    ... Bart sat on a ergonomic chair at the ELCfGC? {cjb}
+    ... Martin and his parents at the opera?
+
+===============================================================================
+> Reviews
+===============================================================================
+
+Yours Truly {rjc}:  Another classic.
+
+===============================================================================
+> Movie References
+===============================================================================
+
+===============================================================================
+> Freeze Frame Fun
+===============================================================================
+>> The Scrabble (tm) board
+>>> Marge's turn
+
+     B OF
+    +E N
+     THE        Marge places an `H' on the `+'.
+      A
+    FAT
+
+>>> Homer's and Lisa's turns
+
+        !
+        +O
+         N      Homer places a `D' on the `+', spelling `DO'.
+        BE
+        E MY    Lisa places an `I' on the '!', spelling `ID'.
+        THE
+         A
+       FAT
+
+>> The game room
+   Picture of Homer screaming
+
+>> Skinner's disciplinary filing cabinet
+   Cr - Dl
+   Em - Kl
+   Ty - Cz
+   Simpson, Bart
+   Zs - Ds
+
+>> The Enriched Learning Center for Gifted Children
+>>> library
+    Plato
+    Puskin
+    Life of Leonardo
+    Crime and Punishment
+    Wana by Emile Zola
+    Shakespeare I - XV
+    Dante's Inferno
+    Babylonian Myths
+    Design of Computers
+    Moby Dick
+    Paradise Lost
+    Iliad by Homer
+    Odyssey by Homer
+    Radioactive Man (used as a prop in a film about illiteracy)
+    Candide
+    Astrophysics
+    Balzac
+
+>>> Lunchroom
+    A likeness of a young Marge eats her sushi with chopsticks.
+        I can't make out her lunchbox.
+    ``Anatoly Karpov'' lunchbox (Sidney's)
+    ``Krusty'' lunchbox (Bart's)
+
+>> CARMEN
+   Today only
+   IN RUSSIAN
+   Conductor - Boris Csupowski [NB]
+
+>> Dr. Pryor's office
+   Pictures of Einstein and Bart.
+
+===============================================================================
+> Comments and other observations
+===============================================================================
+>> Maggie fall count
+   1  As Lisa looks up `id'
+
+>> Chris Baird {cjb}:  Some of the animators expressions were pretty wild,
+   for instance:
+
+  - Maggie turns into a multi-armed creature when she knocks down her blocks.
+  - Lisa's face when she grabs the dictionary.
+  - Mrs. Krabappel grows an extra two pairs of eyeballs when she tells
+    Bart to face the window.
+  - Marge crosses her eyes when trying to think of the word `nurturing'.
+
+>>Score for Kwyjibo:
+
+  k-5
+  w-4
+  y-4
+  j-8
+  i-1
+  b-3
++ o-1
+-----
+   26
++   8 (It's impossible to get a triple word score without getting a double
+----- letter score on the j.)
+   34
+*   3 (triple word score)
+-----
+  102
++  50 (using up all of his letters)
+-----
+  152 (that's a lot of points!)
+
+(Thanks to Evan Berofsky for a description of Scrabble (tm) mechanics, and
+pointing this error out to me.)
+
+>> Osmium Hydroxide plus Rubidic acid...
+
+Bart may not know what happens when you mix acids and bases, but do you?
+Recently, Haynes Lee claimed that you get salt water, and not an explosion.
+Other people responded with varied points of how this high school chem
+experiment works.  Yes, you will get -a- salt, dissolved in water.  If you
+aren't careful, you'll get an exothermal reaction, meaning that it will
+blow up in your face.  To get an entire classroom to fill, however, you'd
+need either much denser reagents than what Bart had, or a lot more of them.
+
+>> Calculus for Dummies
+
+The calculation of the derivative was correct, if nonstandard.  Placing dr
+with the variables is not standard practice, and serves no real purpose unless
+you're going to turn around and integrate it--in which case, why did they
+differentiate it?  Expressing r^2 as rr is also something that is completely
+pointless.  Oh, and if these kids are gifted enough to find the joke so fast,
+why are they dumb enough to still find it funny?
+
+>> Ol' Mem-sahib Bart
+
+According to my trusty OED, a mem-sahib is:
+
+	A European married Lady; also, one who behaves like a European woman.
+
+I'd be a bit more impressed had the sentence actually made sense.
+
+===============================================================================
+> Animation goofs
+===============================================================================
+The Scrabble (tm) board keeps changing.
+
+Chris Colby (colby@bu-bio.bu.edu):  After the kids have tricked Bart of
+his lunch they chat privately.  During that brief conversation, the voices
+are switched.
+
+Stephen D. Livingston notes that Staphylococcus is not a virus. It is a genus
+of bacteria.  He adds: ``Granted, the long-shot explaination may be that
+they're discussing a bacteriophage virus that preys specifically on Staph
+bacteria,'' but that's not likely.
+
+Alexandre Charest: The intermediate results of the derivative is missing the
+r.  It's ``3^2 dr / 3'' instead of the correct ``3 r^2 dr /3''.
+
+Homer couldn't spell oxidize, anyway.  You have to build off of what's already
+there.
+
+===============================================================================
+> Quotes and scene summary
+===============================================================================
+% Maggie places an `E' block atop a teetering pile.  She admires her work,
+% then in a flurry of arms, knocks them all down.  A Scrabble (tm) tile
+% falls to the floor, and Lisa picks it up.  Pull back to reveal that the
+% rest of the family are playing the classic word game.  Bart waits
+% impatiently for Marge to maker her move, and she does:  She places an `H'
+% on the board to spell `HE'.  Now it's Homer's turn.  He grumbles, ``How
+% can anyone make a word out of these lousy letters!''  Homer's rack contains
+% the letters O-X-I-D-I-Z-E.  He decides to play the `D' to spell `DO'.
+% Lisa places an `I' above the `D'...
+
+Lisa:  `Id', triple-word score!
+Homer: No abbreviations.
+Lisa;  Not I.D., Dad, `id'.  It's a word!
+Bart:  As in ``This game is stoop-id''.
+-- Playing Scrabble (tm), ``Bart the Genius''
+
+% Lisa reminds Bart that he's supposed to be building his vocabulary for
+% tomorrow's aptitude test.  Marge suggests they check the dictionary, and
+% Homer is surprised that they have one.  It's currently being used to
+% prop up the couch.  Lisa looks up the word and confirms her score.
+% Now it's Bart's turn.
+
+Bart:  Here we go.  Kwyjibo.   [places his tiles] K-W-Y-J-I-B-O.
+       Twenty-two points, plus triple-word-score, plus fifty points
+       for using all my letters.  Game's over.  I'm outta here. [gets up]
+Homer: [grabs Bart with his left hand, holding a banana in his right]
+       Wait a minute, you little cheater!
+       You're not going anywhere until you tell me what a kwyjibo is.
+Bart:  Kwyjibo.  Uh... a big, dumb, balding North American ape.  With no chin.
+Marge: And a short temper.
+Homer: I'll show you a big, dumb, balding ape! [leaps for Bart]
+Bart:  [making his escape]  Uh oh.  Kwyjibo on the loose!
+-- Playing Scrabble (tm), ``Bart the Genius''
+
+% Springfield Elementary School, before the morning bell.  Kids on the
+% playground, doing standard things.  Playing marbles.  Skipping rope.
+% Playing some combination of kickball and dodgeball.  Spraying graffiti.
+% Spraying graffiti?  Oh, it's Bart, completing a ``I am a weiner [sic]''
+% of Principal Skinner.
+%
+% Martin squeals on Bart.  Milhouse warns Bart, who quickly discards his
+% can of spraypaint.
+
+Pr.Sk:  Whoever did this is in very deep trouble.
+Martin: And a sloppy speller, too.
+        The preferred spelling of `wiener' is W-I-E-N-E-R,
+        although E-I is an acceptable ethnic variant.
+Pr.Sk:  Good point.
+-- Either way, he's still a weiner.  ``Bart the Genius''
+
+% Skinner orders the kids to show their hands, and Bart is literally caught
+% red-handed.  Skinner schedules a chat with Bart.  The usual time and place.
+% (Skinner's office, after school.)
+%
+% The bell rings, and the kids file in.  Martin asks Bart not to hold a
+% grudge; he was merely protecting school property.  Bart responds, ``Eat
+% my shorts.''  Ms. Krabappel hands out the IQ tests.
+
+Now I don't want you to worry, class.  These test will have no effect on your
+grade.  They merely determine your future social status and financial success.
+[looks at Bart]  If any.
+-- Ms. Krabappel administers an IQ test, ``Bart the Genius''
+
+% Martin reminds Ms. Krabappel that Bart is supposed to turn his desk towards
+% the window so he can't cheat.
+
+Remember to visualize the complex problem.
+And relaaaaax.  The test will start... [looks around calmly]  [yells] Now!
+-- Ms. Krabappel administers an IQ test, ``Bart the Genius''
+
+% Pencils hit paper.
+
+Bart: [reading a test question]
+      The 7:30am express train travelling at 60 miles an hour leaves Santa Fe
+      bound for Phoenix, [chews on his pencil] 520 miles away.
+Ms.K: Shhh!  [points to her head]  Visualize it, Bart!
+Bart: [visualizing in black-and-white]  At the same time, the local train
+      travelling 30 miles an hour and carrying 40 passengers leaves Phoenix
+      bound for Santa Fe.  It is eight cars long and always carries the
+      same number of passengers in each car.  [Bart counts five passengers on
+      the train car (the number hovering over each passenger's head)
+      and visualizes 40 / 8 = 5.  The train travels through a numerical
+      landscape.]
+      An hour later, a number of passengers equal to half the number of
+      minutes past the hour get off, and three times as many plus six
+      get on.  [Bart and his equation are trampled by the passengers.]
+      At the second stop, half the passengers plus two get off, but twice
+      as many get on as got on at the first stop.  [Trampled again.
+      Bart spits out a number.]
+Train conductor:  Ticket, please.
+Bart: I don't have a ticket!
+Train conductor:  Come with me, boy.
+      [drags Bart off.  Numbers circle Bart's head]
+      We've got a stowaway, sir.
+Bart: I'll pay!  How much?
+      [the train engineer is... Martin!  Shoveling numbers into the engine.]
+Martin: Twice the fare from Tuscon to Flagstaff minus two thirds of the fare
+      Albuquerque to El Paso!  Ha-ha-ha-ha!!!!!
+-- Math is Hell, ``Bart the Genius''
+
+% The two trains crash into each other, throwing Bart into the air...
+%
+% ... and onto his back on the classroom floor.  Ms. Krabappel tells Bart
+% to stop distracting the others, but Martin isn't distracted.  In fact,
+% he's finished.  Ms. Krabappel lets Martin go outside and read under a
+% tree.
+%
+% Bart returns to his seat and exchanges faces with Martin through the
+% window.
+
+What are you looking at, Bart!  Are those naughty dogs back again?
+-- Ms. Krabappel catches Bart staring out the window, ``Bart the Genius''
+
+% While Ms. Krabappel looks outside, Bart grabs Martin's test, changes
+% the name to `Bart Simpson' and replaces it.  He then writes `Martin
+% Prince' on his own sheet and fills in the dots randomly.
+%
+% Marge and Homer walk through the schoolyard.  Marge maintains that Bart
+% is merely a sheep that has strayed from the fold and needs to be hugged
+% extra hard.  Homer answers, ``That's exactly the kind of crapola that's
+% lousing him up!''  Homer is impressed by Bart's graffito.
+%
+% Marge and Homer reach the principal's office.
+
+Pr.Sk: I caught your son defacing school property this morning.
+       We estimate the damage is $75, and frankly, we think it's terribly
+       unfair that other taxpayers should foot the bill.
+Homer: Yeah, it's a crummy system, but what are you going to do?
+Marge: [whispers to Homer]
+Homer: Oh no.  He can't mean that.  [to Principal Skinner]
+       My wife thinks you want <me> to pay for it.
+Pr.Sk: That <was> the idea.
+Homer: Oh.
+-- ``Bart the Genius''
+
+% While Homer writes out a check, Principal Skinner shows them a
+% sloppily-scrawled absence note which reads ``Please excuse Bart.
+% He was sick.  Homer Simpson.''  But he changes his assessment of
+% the note as a forgery when he sees Homer's handwriting on the check...
+%
+% In comes Dr. J. Loren Pryor, district psychiatrist...
+
+What do <we> need a psychiatrist for?  We know our kid is nuts.
+-- Homer, ``Bart the Genius''
+
+% Dr. Pryor informs all that Bart is, believe it or not, a genius.
+
+Dr.J:  The child is not supposed to know his own IQ, of course, but
+       as you can see, it's beyond the range of any doubt.
+       [hands Homer a slip of paper]
+Homer: Nine hundred and twelve!!?!?
+Dr.J:  Uh, no.  You have it upside-down.  It's two hundred and sixteen.
+Homer: [disappointed] Oh.
+-- ``Bart the Genius''
+
+Dr.J: [measuring Bart's head with calipers]
+      Tell me, Bart, are you ever bored in school?
+Bart: Oh, you bet.
+Dr.J: Mm hm.  Do you ever feel a little frustrated?
+Bart: All the time, sir.
+Dr.J: Uh huh.  And do you ever dream of leaving class to pursue your own
+      intellectual development on an independent basis?
+Bart: Oh, like you're reading my mind, man.
+-- Great minds think alike, ``Bart the Genius''
+
+% Dr. Pryor explains that when a genius is forced to slow down to that of
+% a `normal' person, he tends to lash out (indicates Bart's disciplinary
+% folder).
+
+Pr.Sk: I think we should re-test him.
+Dr.J:  No, I think we should move him to another school.
+Pr.Sk: Even better!
+-- ``Bart the Genius''
+
+% Dr. Pryor suggests that Bart enroll in a school for the gifted, where there
+% are no rules, no homework, nothing to stifle intellectual creativity.
+% Bart's eyes open wide and he eagerly accepts.
+
+Homer: My son, a genius!?  How does it happen?
+Dr.J:  Well, genius, like intelligence, is usually the result of heredity
+       and environment.
+Homer: [stares blankly]
+Dr.J:  Although in some cases, it's a total mystery.
+-- ``Bart the Genius''
+
+% [End of Act One.  Time: 8:04]
+%
+% At the breakfast table, Bart squirms as Marge combs down his hair.  Once
+% she's gone, he musses it back up.  Homer suggests Bart wear a tie (since
+% all boy geniuses wear ties), but Bart refuses to let it stifle his
+% creativity.
+
+Marge: It's a big day for you.  Why don't you eat something a little more
+       nutritious.
+Homer: Nonsense, Marge.  Frosty Krusty Flakes is what got him where he
+       is today!  [looks at the box]  It must be one of these chemicals
+       here that makes him so smart...  Lisa?
+Lisa:  [looks up from her granola]
+Homer: Maybe you should try some of this.
+Marge: Homer!
+Homer: I'm just saying, why not have <two> geniuses in the family?
+       Sort of a spare, in case Bart's brain blows up.
+-- First day of genius school, ``Bart the Genius''
+
+% Lisa tells Bart, despite the testing, she still insists he's a dimwit.
+% Bart replies, ``<This> dimwit is on easy street.''
+%
+% On the drive to the Enriched Learning Center for Gifted Children, Bart
+% tells Homer to take the scenic route.  They finally arrive, and Bart
+% discovers that all the boys are wearing neckties.
+
+Bart:  Oh no, ties!
+Homer: Don't worry, son, you can have mine.
+       Here, let me show you how to put on a tie.
+       [takes off his clip-on]
+       The hook goes over the top, and these things go in there.
+-- ``Bart the Genius''
+
+% Homer kisses Bart.
+
+Now go on, boy, and pay attention.  Because if you do, someday, you may
+achieve something that we Simpsons have dreamed about for generations:
+You may outsmart someone!
+-- Homer drops Bart off at the Enriched Learning Center for Gifted Children,
+   ``Bart the Genius''
+
+% Homer shoves Bart into the classroom, where Ms. Mellon [pron. /mel-LON/]
+% introduces him around.  They have only one rule:  Make your own rules.
+% ``If you feel sleepy, take a nap.  If you get bored, feel free to take
+% out a book and start reading.''  Bart sifts through the shelf and discovers
+% a Radioactive Man comic.  Ms. Mellon tosses it into the trash, but Bart
+% fishes it back out.
+%
+% Bart is introduced to his classmates.  Ethan speaks in palindromes.
+% (``O Memsahib, Bart.  Rabbi has memo.'')  Sidney speaks in backwards
+% phonetics.  (``Trabing norm doog!'')  Bart reacts appropriately.
+% And Cecile, who is performing a virus experiment on hamsters.
+% (``I wouldn't get too attached, Bart.  We're dissecting him next week.'')
+%
+% Class begins.  Ms. Mellon invites everyone to greet Bart (and they do,
+% in assorted foreign languages).  They continue yesterday's discussion on
+% the existence of free will, and Ian's contribution sparks Ms. Mellon to
+% ask the class for examples of paradoxes.  Hands go up, save one.
+
+Ms.M: Bart, what other paradoxes affect our lives?
+Bart: [looks around nervously; all stare at him]
+      Well, you're damned if you do, and you're damned if you don't.
+-- ``Bart the Genius''
+
+% Lunchtime.  Bart is swindled out of his lunch by the other students.
+%
+% [End of Act Two.  Time: 12:36]
+%
+% Bart sits on his bed sipping a soda and reading a Radioactive Man comic.
+% Homer comes in and offers to celebrate Bart's first day at genius school
+% with a round of frosty chocolate milkshakes.  Marge and Lisa pop by.
+
+Marge: Bart, I feel so bad for going so many years without... mmm...
+       mmm... What's that word where you encourage something to grow?
+Bart+Homer: [stare blankly and hum ``I dunno'']
+Lisa:  [brightly] Nurturing.
+Marge: ... nurturing your brilliant brain.
+-- ``Bart the Genius''
+
+Marge: I got tickets to the opera tonight.  Hurry up, get dressed,
+       it starts at eight.
+Bart:  [whining] Oh, Mom, not tonight...
+Homer: Come on, Bart.  Your mother's only trying to help, so go ahead
+       and enjoy the show.
+Marge: Homer, you're going, too.
+Homer: But I'm not a genius!  Why should <I> suffer!?
+-- ``Bart the Genius''
+
+% Marge bought an expensive box.  Bart tells Lisa to keep an eye out for
+% the guy selling peanuts.  The overture begins...
+
+Toreador, oh, don't spit on the floor.
+Please use the cuspador.
+That's what it's for.
+-- Bart at the opera, ``Bart the Genius''
+
+Marge: Bart, stop fooling around!
+       Homer, stop encouraging him.
+Homer: Don't stifle the boy, Marge.  We're <supposed> to encourage him.
+-- At the opera, ``Bart the Genius''
+
+% The opera continues.  Homer and Bart get bored and make snoring noises.
+
+Homer: Who's the lard-butt?
+Lisa:  He's the bullfighter.
+Bart:  No way the bull's going to miss a target that big!
+-- At the opera, ``Bart the Genius''
+
+% Homer and Bart make flatulent noises.  Marge just covers her face.
+%
+% Homer grows impatient, but Bart reminds him, ``It ain't over 'til the
+% fat lady sings.''  Homer asks, ``Is that one fat enough for you, son?''
+% Homer stands up.  ``Let's go get a burger.''
+%
+% Back at school...
+
+Ms.M: So y = r^3/3.  And if you determine the rate of change in this
+      curve correctly, I think you'll be pleasantly surprised.
+Class: [chuckles]
+Ms.M: Don't you get it, Bart?  Derivative dy = 3 r^2 / 3, or r^2 dr,
+      or r dr r.  Har-de-har-har, get it?
+Bart: [not amused]  Oh, yeah.  [forced laugh]
+-- Making math fun, ``Bart the Genius''
+
+% Bart trudges home and walks past his graffito, now roped off and
+% tagged, ``The Principal.  By Bart Simpson.  IQ 216.''  Bart tries
+% to join his friends, but they don't want anything to do with him.
+%
+% Bart glumly eats dinner.  Marge calls to Bart and Homer, ``Come on, you
+% two.  Don't forget the film festival!''  She and Lisa leave.  Homer
+% apologizes, ``Sorry, Bart.  Your mother bought us tickets for a student
+% movie by some Swedish meatball.''  Bart tries to confess, but Homer
+% suggests they play catch, which they do into the night.  ``So what was
+% it you wanted to tell me, son?''  ``Uh, nuthin' Pop.''
+%
+% Chemistry class.  Ms. Mellon is unable to find a lab partner for Bart,
+% who is busy mixing and matching.  She asks what he's doing, and Bart
+% explains that ``it's really top secret, man.''  Ms. Mellon asks, ``But
+% you <do> know what happens when you mix acids and cases, right?''
+% Bart responds, ``Of course I do.''  He mixes.
+%
+% Cut to exterior of the ELCfGC.  The entire top floor becomes filled with
+% green goo.  Back inside, everyone is coated in goo.  Bart: ``Sorry.''
+% Cecile's hamster escapes.
+%
+% Bart is called into Dr. Pryor's office (still covered in green).  The
+% good doctor wants to know what the matter is.
+
+It doesn't take a Bart Simpson to figure out that something's wrong.
+-- Dr. J. Loren Pryor, ``Bart the Genius''
+
+% He asks what he can do, and Bart wants to return to his old class.
+% Undercover.  ``I could pretend to be a regular, dumb kid.''  He
+% can then study them to ``see what makes them tick''.  Dr. Pryor
+% leaves to discuss the matter with Principal Skinner, and asks Bart
+% to write up his proposal.  Bart tries to write a proposal, but fails,
+% so he instead writes his confession.
+%
+% Dr. Pryor returns and reads the proposal.  ``You know, you misspelled
+% `confession'.''
+%
+% Bart returns home (still coated in green) and explains that he had a
+% little accident in chemistry class.  Homer takes Bart outside to wash
+% it off with turpentine.
+
+I bet Einstein turned himself all sorts of colors
+before he invented the light bulb.
+-- Homer, ``Bart the Genius''
+
+% Bart confesses, but adds that ``the past few weeks have been great.''
+% He tenderly lists the things the two have done together and concludes,
+% ``I love you, Dad.  And I think if something can bring us that close,
+% it can't possibly be bad.''
+%
+% Pause.
+%
+% ``Why you little!!!!!!!''
+%
+% Bart makes his escape (naked) through the house (``I think Bart's stupid
+% again, Mom,'' remarks Lisa) and locks himself in his room.  Homer pounds
+% the door as Bart hops onto his bed, grabs a soda, and reads a comic book.
+% Homer tries to sweet-talk Bart out, but Bart catches on.  ``You think
+% I'm dumb enough to fall for that?  I'm insulted.''  After a ``D'oh!'',
+% Homer resumes his pounding, with even more force than before.
+%
+% [End of Act Three.  Time: 20:38]
+==============================================================================
+Episode summaries Copyright 1992 by Raymond Chen.  Updated 1999 Andrew A.
+Gill.  Unattributed discrepancies between this and the previous revisions 
+are mine.  Not to be redistributed in a public forum without permission.
+Do as you ought'er, and add acid to water. (The quotes themselves, of
+course, remain the property of The Simpsons, and the reproduced articles
+remain the property of the original authors.  I'm just taking credit for
+the compilation.)
+
+Scrabble (tm) is a registered trademark of Selchow and Righter.
+</PRE>
+

@@ -1,0 +1,1338 @@
+Maximum Homerdrive                                Written by John Swartzwelder
+                                                     Directed by Swinton Scott
+==============================================================================
+Production code: AABF13                 Original Airdate on FOX: 28-March-1999
+Capsule revision A (17-Mar-2000)
+==============================================================================
+> "TV Guide" Synopsis
+==============================================================================
+   (Fox press release) Homer engages Red, a well-known reliable trucker, in a
+   beef-eating contest that has high steaks.  Making up for his gross winning,
+   Homer and Bart set out across country to deliver Red's shipment on time.
+   Meanwhile, Marge craves some adventure of her own and takes Lisa shopping
+   at "Señor Ding-Dong's Doorbell Fiesta" on THE SIMPSONS episode "Maximum
+   Homerdrive" Sunday, March 28 (8:00-8:30 PM ET/PT) on FOX.  (SI-1013)  (TV-
+   PG; L)
+
+   Voice Cast: Dan Castellaneta as Homer Simpson, Julie Kavner as Marge
+   Simpson, Nancy Cartwright as Bart Simpson, Yeardley Smith as Lisa Simpson,
+   Hank Azaria as Wiggum and Harry Shearer as Mr. Burns.
+
+   Guest Cast: Pamela Hayden as Milhouse and Tress MacNeille as Waitress.
+   {js}
+
+   (Canadian TV Guide)  Homer has more than a cow when he enters a beef-eating
+   competition that pits him against  a trucker; a bell tolls for Marge when
+   she takes Lisa shopping at "Señor Ding-Dong's Doorbell Festival".  {hl}
+
+==============================================================================
+> Title sequence
+==============================================================================
+Blackboard:     IT DOES NOT SUCK TO BE YOU
+
+Couch:          It's role-reversal time.  Bart and Lisa, as bigger, adult
+                versions of themselves run to the couch.  They are followed by
+                Homer (carrying a Maggie doll) and Marge, who are now the
+                kids.  Homer tries to pick up the TV remote, but Lisa slaps
+                his wrist.
+
+==============================================================================
+> Did You Notice...
+==============================================================================
+   ... Homer wears a $9.99 baseball cap?
+
+Ellen Cohen:
+   ... a lot of those truckers wore red hats?
+
+Ben Collins:
+   ... Lisa isn't with the family at the Slaughterhouse?
+   ... Red is smiling when he dies?
+   ... Marge says "Dammit"?  ["... in front of Lisa no less," says {er}]
+
+Don Del Grande:
+   ... Maggie is eating with her hands?
+   ... either Springfield is more than 2200 miles from Atlanta, or Homer drove
+       the wrong way for a while?
+   ... somehow, Homer managed to drive 220 miles an hour, if he drove 2200
+       miles in 10 hours?
+
+Yuri Dieujuste:
+   ... Homer managed to get to Atlanta without a truckers' license?
+
+Jordan Eisenberg:
+   ... both subplots dealt with malfunctioning machines?
+   ... Chesperito speaks for the first time in two years?
+
+Todd P. Emerson:
+   ... Bart's happy, then frowny face while listening to the Spice Girls!
+   ... Homer's dilated pupils while driving on Stimu-Crank!
+
+Joe Green:
+   ... Lisa is being pushy about her vegetarianism again?
+
+Patrick McGovern:
+   ... Homer apparently DOESN'T have a horn on his truck?
+   ... the kid in the car isn't scared away when Homer threatens him the first
+       time?
+   ... the metron doesn't recognize that Red's not driving until the end?
+   ... the metron is voice-responsive?
+
+Travis D. McLemore, Jr.:
+   ... the "hairpin" is actually two 90-degree lefts?
+   ... truckers use CB channel 40?  [{ddg} claims 19 is more traditional --
+       Ed.]
+   ... Homer playing cats-cradle?
+   ... Señor Ding-Dong wears a bell for a hat?
+
+Benjamin Robinson:
+   ... Sir Loin-A-Lot is a whopping 256 ounces?
+   ... Homer can eat 64 ounces of beef before getting full?  (Note that this
+       is less than the 72-oz. steak he rejected as too small.)
+
+Matt Rose:
+   ... that the giant steaks were perfectly round in shape?
+
+Evan Ross:
+   ... Lisa refers to "sub sandwiches" which means she uses a Northern
+       dialect?
+   ... the Jehovah's Witnesses are dressed like the Movementarians from "The
+       Joy of Sect"?
+
+Mike Smith:
+   ... it's the first time an OFF-related title is referred to in an episode
+       title?  [See "Comments" section for more -- Ed.]
+
+Simon Treanor:
+   ... when the waiter announced Red Barclay was still champion, he was quite
+       literally a "Still Champion"
+   ... Marge and Lisa expected Milhouse to ring the bell, but some birds
+       "suddenly appeared"
+
+Javier Vera:
+   ... Homer didn't pay for the pills?
+
+==============================================================================
+> Voice Credits
+==============================================================================
+- Starring
+   - Dan Castellaneta (Homer, Trucker 6 [?], Trucker 7, Engineer)
+   - Julie Kavner (Marge)
+   - Nancy Cartwright (Bart, Nelson)
+   - Yeardley Smith (Lisa)
+   - Hank Azaria (Delivery man, Chief Wiggum, Trucker 4, Bumblebee Man, Ding-
+        Dong)
+   - Harry Shearer (Burns, Waiter, Red, Trucker 1, Gil, "Hey, get that truck
+        out of here!", Movie Guy, Clerk, Trucker 3, Trucker 5, Autodrive,
+        Trucker 8, Dockmaster)
+
+- Also Starring
+   - Pamela Hayden (Milhouse, Nureen)
+   - Tress MacNeille (Lady Trucker, Gwen, Movie Lady, Old Lady, Lady on tour
+        bus [?])
+   - Karl Wiedergott (Marvin)
+
+==============================================================================
+> Movie (and other) references
+==============================================================================
+   + Stephen King's "Maximum Overdrive" (movie)
+      - title of episode based on this movie title
+      - [{hl} was the first to note that Yeardley Smith, the voice of Lisa,
+        was in this flick.  See "Comments" section for more -- Ed.]
+
+   - "Sucks to be You," by Prozzäk (song)  {bjr}
+      - apparently it doesn't, according to Bart's blackboard punishment
+
+   + the Green Grocer (TV correspondent)  {bjr}
+      - Marge mentions "The Red Grocer," who sounds like a takeoff
+
+   + Sir Lancelot (legendary figure)  {sc}
+      - the restaurant's flagship dish is called "Sir Loin-A-Lot"
+
+   + "The Great Outdoors" (movie)
+      - in this film, John Candy accepts a challenge to eat a huge steak, like
+        Homer and Red
+
+   - "Beethoven's 2nd" (movie)  {jv}
+      - Homer in the steak contest very similar to the hamburger contest in
+        this movie
+
+   - "Married ... with Children" (TV series)  {ol}
+      - Les sinks his hand down his pants just like Al Bundy on this series
+
+   - "Dukes of Hazzard" (TV series)  {bjr}
+      - Homer mounts his truck the way Bo and Luke get into the General Lee
+
+   + Tex Avery cartoons
+      - Red's "Red Rascal" door graphic drawn in his style
+      - [{ms} identifies the character as the wolf from "Red Hot Riding Hood"
+        (1943, MGM) -- Ed.]
+
+   - Minnie Pearl (comedian)  {ddg}
+      - Homer's wears a hat with a price tag on it, like Pearl
+
+   - Bettie Page  {tdm}
+      - on postcard Homer sends Marge  [Never heard of her?  See "Comments"
+        section for more -- Ed.]
+
+   + "Close to You" by the Carpenters (song)  {tdm}
+      - song on the new doorbell
+
+   - "The Birds" (movie)  {tdm}
+      - attacking Milhouse
+
+   + "can of whoop-ass" (slang)  {ddg}
+      - Marge's "can of whoop-tushie" similar to phrase heard often in WWF
+        [{ec} reports it's most associated with wrestler "Stone Cold" Steve
+        Austin -- Ed.]
+
+   ~ "Red Dwarf" (TV series)  {tpe}
+      - "Monster Who Ate Everybody" bit was similar to the "Everybody's dead,
+        Dave" routine
+
+   + the Grassy Knoll at Daley Plaza in Dallas
+      - second truck stop called "The Gassy Knoll," a spoof of the grassy
+        knoll (from where some people think the fatal shot was fired)
+
+   + IRS (U. S. tax ministry) income tax form  {bjr}
+      - trucker's code for tax deadline, 10-40, inspired by number of infamous
+        form:  1040
+
+   + Jimmy Hoffa (union leader)  {ejr}
+      - the truckers claim they buried him
+
+   - "Animal House" (movie)  {jg2}
+      - Homer says "Thank you, sir, may I have another?"
+
+   + "2001:  A Space Odyssey" (movie)
+      - truck navigating computer sounds a little like HAL 9000
+
+   - "Knight Rider" (TV series)  {jc}
+      - vehicle objects to its driver placing himself in harm's way
+
+   ~ "The Chase" (movie)  {ejr}
+      - when Homer's truck skids sideways and flips over a line of cars
+        parodies a scene in this movie
+
+   - Zorro (literary character)  {jg2}
+      - Señor Ding-Dong sounds/acts like him
+
+   - "Meditation XVII" by John Donne (poem)  {bjr}
+      - Wiggum says "the bell tolls" for the errant doorbell
+
+==============================================================================
+> Previous episode references
+==============================================================================
+- Previous jobs of Gil  {jv}
+   - [5F06] House salesman
+   - [5F10] Shoe salesman
+   - [5F18] Car salesman
+   - [AABF13] Doorbell salesman
+
+- [7F01] Homer calls his navigator "Blinky"  {je}
+- [7F12] A version of the Carpenters' "Close to You" is heard  {mr}
+- [7F20] Homer fishes for a catfish  {je}
+- [8F06] Homer falls asleep while driving  {jg2}
+- [8F15], [2F08] Young Marge  {ms}
+- [8F23] "My wife is going to kill me"  {mr}
+- [9F05] Jehovah's' Witnesses at the Simpson house  {je}
+- [9F13], [1F10], [3F06] Someone describing what happens to their body, as
+         it's happening  ("bowels ... clenching ...")  {je}
+- [9F15] Jimmy Hoffa disappearance referenced  {hl}
+- [9F18] Someone's own hallucinations mock them  {je}
+- [9F21], [1F09] Homer trades away a family necessity  {je}
+- [1F02] Homer gets giddy over a squirrel  {hl}
+- [1F09], [4F01], [4F14] "Touché."  {je}
+- [1F18] Nelson's bag prank the same as Bart's in this episode  {dj}
+- [2F01] Bird attack  {hl}
+- [2F08] Homer eats a submarine sandwich, a hoagie, and a grinder  {ddg}
+- [2F09] "Please, sir, may I have another?"  {je}
+- [2F15] Adult Lisa  {ms}
+- [3F02] Dr. Hibbert goes to a restaurant with his family  {jv}
+- [3F03] Lisa the Vegetarian  {dj}
+- [3F06], [AABF02] Young Homer  {ms}
+- [3F15] People at the drive-in speaking in synch with the on-screen character
+         {je}
+- [3F18] Last speaking role for Bumblebee Man  {dj}
+- [3G03] "Didn't I?" cf. "Didn't he, Lisa?  Didn't he?"  {je}
+- [4F13] Someone (Lisa then, Milhouse now) tries to sell seeds  {bjr}
+- [4F16] Someone takes too many pep pills  {dj}
+- [4F16] Someone takes pep pills  {je}
+- [4F19] Someone kills himself trying to outshine Homer  {je}
+- [4F20] A skull used for unusual decorating purposes in "Chief Wiggum, PI"
+         {ec}
+- [4F21] Homer looking multiple times at Red Barclay and his picture, is very
+         similar the way Bart looks at the megaphones in this episode  {jv}
+- [5F04] "Close To You" heard again  {ms}
+- [AABF01] Homer's "tulebox" appears  {je}
+- [AABF08] Dr. Hibbert lets his outside interests (football fan; owner of the
+         Slaughterhouse) supercede his opinion as a doctor  {je}
+
+==============================================================================
+> Freeze frame fun
+==============================================================================
+- Sign Lisa holds  {jv}
+
+    PROTEST
+
+    [picture of
+    an ox covered
+    by a red line]
+
+    TODAY
+
+- Restaurant OFF goes (But Lisa)  {jv}
+
+    THE SLAUGHTER HOUSE
+
+    [guy chopping a cow's head
+           with a chainsaw]
+
+- Pictures at the restaurant  {jv}
+
+            WALL OF FAME
+
+    [picture of     [picture of
+    Red Barclay]    Tony Randall]
+
+    RED BARCLAY     TONY RANDALL
+
+- Red's sack  {jv}
+
+        I DIED AT THE
+       SLAUGHTER HOUSE
+
+- Truck's logo  {jv}
+
+                RED
+
+         [picture of a wolf
+     with his arm around a lady)
+
+               RASCAL
+
+- Truck stop sign  {bjr}
+
+     JOE'S DINER
+    +------------+-->
+    |NOW AWARE OF|
+    |CAMP VALUE! |
+    +------------+
+
+- Drive-in Fu  {bjr}
+
+    Stardust Drive-In
+
+       THE MONSTER
+        THAT ATE
+        EVERYBODY
+
+- Pep pill bottle  {bjr}
+
+    STIMU-
+    CRANK
+
+    [Ask for it by name!]
+
+- The gas station  {jv}
+
+        THE 
+    GASSY KNOLL
+
+- Truckers' Code list  {gw}
+
+    |10-33| Actual Bear in air.
+    |10-34| Can't unchain wallet
+    |10-35| Hot enough for ya?
+    |10-36| Ghost truck on highway
+    |10-37| Ask me about my
+            grandchildren
+    |10-38| Outsider blabbing about
+            auto-drive system
+    |10-39| I love you, gay buddy  {mjf}
+    |10-40| Taxes due              {cjs}
+
+    [{ddg} notes, "For those of you from outside of the USA, 'Form
+     1040' is used to file federal income tax."]
+
+- Atlanta road sign  {bjr}
+
+         WELCOME TO
+           ATLANTA
+
+    "HOME OF TED TURNER'S
+         MOOD SWINGS" 
+
+- People in Front of the Simpson Home  {ejr}
+   - Dr. Hibbert, Mrs. Krabappel, Lenny, Barney, Bumble Bee Man, and later
+     Flanders
+
+==============================================================================
+> Animation, continuity, and other goofs
+==============================================================================
++  The mantelpiece at one side of the dining-room has never been there before.
+   {jv}
+
+*  It's almost impossible to throw the food the way Homer did.  {jv}
+
+*  If the Slaughterhouse just opened, why is it such a big deal that only two
+   people have finished a Sir Loinalot?  [{nmd} responds, "Perhaps the
+   Slaughterhouse has other locations, and it's just the Springfield one that
+   just opened." -- Ed.]  {jg2}
+
++  Homer is left-handed while eating the giant steak.  (He picks up the knife
+   with the left hand and the fork with the right hand, right-handed people do
+   the other way round).  {jv}
+
++  Homer ate all that seafood in a single sitting, but couldn't finish a lousy
+   steak.  {rdb}
+
+=  Red blinks while he's dead.  [See "Comments" section for more -- Ed.]  {bc}
+
+*  How did Homer turn the truck on the first time he got in?  The most logical
+   thing is that Red had the keys with him.  If someone took them when he
+   died, I don't think that someone would put them on the truck.  {jv}
+
++  I doubt Marge would let Bart leave with Homer if he had school that week.
+   (Note that in "Lard of the Dance (5F20)" that she didn't know Bart was with
+   Homer.  Here, she saw him leave.)  {bjr}
+
+c  When Homer turns on the truck's radio, we here "Wannabe."  In the caption,
+   it says a part of "Dancing Queen" is playing.  {lmg}
+
+=  The price tag in Homer's hat appears and disappears.  {jv}
+
+*  Marge and Lisa received Homer's postcard before he had been on the road for
+   three days.  (That must have been one fast post office.)  {nmd}
+
++  One of Homer's postcards says he's eaten a hoagie, as if he's never eaten
+   one before, but in 2F08, Homer says he's tired of eating hoagies.  {ddg}
+
++  Marge doesn't know who Gil is, even after she worked with him in "Realty
+   Bites", and sought refuge in his balloon in "Natural Born Kissers".  She
+   referred to him by name in both episodes.  {ejr}
+
+=  From the first point of view, Bart's burger has many bites, but from the
+   close look, it has only one.  {jv}
+
+=  Lisa rings a yellow-framed doorbell, but when Marge picks it out, the frame
+   turns brown.  {dj}
+
+*  One of the birds attacking appear to be tropical.  Tropical birds generally
+   don't migrate to the United States.  {ejr}
+
+*  Homer and Bart shouldn't have been able to hear the movie.  {jv}
+
+*  Homer does 2200 miles in 10 hours.  That's 220 MPH.  We're talking Boeing,
+   not Mack.  {jj}
+
++  Why didn't Homer use Lisa's Pep Pills "Trucker's Choice" from "The Canine
+   Mutiny"?  {ejr}
+
+c  When Homer said "showdown," the CC displayed, "<i>reverse</i> convoy."
+   {ag}
+
+*  The truckers drive on both sides of the road when chasing Homer.  {ejr}
+
+=  Homer's truck stops rotating in mid-air when he jumps over the truck
+   blockade.  {ddg}
+
+==============================================================================
+> Reviews
+==============================================================================
+Dale G. Abersold:  Homer acts like a boor, goes on another "wacky" adventure,
+   and somehow things work out.  I did like the subplot: it was similar in
+   spirit to the "egg" subplot from "Sunday Cruddy Sunday," but on the whole
+   more successful.  (The scenes with Milhouse and, later, the Jehovah's
+   Witnesses were definitely the funniest of the episode).  But in the end,
+   this episode was harmless and forgettable.  (C)
+
+Miranda Buckle:  I loved this episode!!  I was squealing with disgust in the
+   scene at the slaughterhouse, and my favorite quick joke was the 2001
+   reference with the auto-driver thingey.  I was also chuckling at how the
+   folks at the slaughterhouse handled Red's death, you know, "He's not
+   breathing!!  Aren't people supposed to breathe?!"  I also really liked the
+   whole sequence when Marge waited for someone to ring the doorbell!  And
+   that guy who never sells anything has been appearing a lot recently, hasn't
+   he?  The plot was wacky and unpredictable, and the humor was over the top.
+   (A+)
+
+Ellen Cohen:  Slightly ho-hum, even by MY standards.  There were some funny
+   moments, especially the "whoop-tushy" line and the whole automatic truck
+   driving thing ... but other than that, I've seen better.  On the other
+   hand, I've seen worse as well.  I got more laughs from "Futurama".  (B)
+
+Ben Collins:  Boy, this episode sucks.  It's the worst force-fed display of
+   Jerkass Homer ever, even worse than "Kidney Trouble."  Not even the Homer
+   in episodes like "Make Room for Lisa" and "I'm With Cupid" would take
+   pleasure in pursuing a little boy with a truck or abandoning his wife.  The
+   episode also suffers from a bad case of Recycled Gag Syndrome, almost all
+   of them from episodes this season.  The subplot couldn't be more stupid,
+   pointless and meaningless. "Maximum Homerdrive" fails to deliver.  (D-)
+
+Nathan M. DeHoff:  Yes, it was yet another "Homer has a wacky adventure"
+   episode, with an unrelated Marge and Lisa subplot to eat up some time.  On
+   the face of it, it doesn't sound like a very good episode.  I actually
+   enjoyed this one, though.  The plot was silly, but it flowed smoothly, and
+   the coincidences that occurred were so ridiculous as to be funny.  Homer's
+   motivation was also somewhat nobler than much of what we've seen in the
+   past (and it wasn't really his fault that Red died).  The subplot had the
+   potential to be boring, but it was saved from this fate by the appearance
+   of Señor Ding-Dong and the Jehovah's Witness bit (quite possibly the
+   funniest scene in the episode).  There were some dull parts, and Bart
+   didn't do as much as he could have, but, as far as "Homer has a wacky
+   adventure" plots go, this one was pretty good.  (B+)
+
+Yuri Dieujuste:  Tonight's episode was decent plot-wise, but it was seriously
+   lacking in humour.  IMHO, there were no funny areas of the story line.
+   Marge's subplot, unlike Make Room for Lisa, was poorly crafted.
+   Thankfully, Futurama was better.  (D+)
+
+Jordan Eisenberg:  Kinda' boring.  Since I'm getting used to the idea of The
+   Simpsons using formulaic plots and wacky premises, naturally an episode
+   would have to come along that's even more disturbing.  The way Red's death
+   was handled was so dark it made me cringe, and the way Homer treated Marge
+   crossed the line from Everyday Asshole Homer to Cartoonish-Super-Asshole
+   Homer.  Some nice jokes and incidental dialogue saved it from complete
+   pointlessness, as always.  Other good points are that there were no real
+   slow parts, and not too many recycled jokes.  But I didn't truly hate Gil
+   until now.  (C-)
+
+Curtis Gibby:  {Double sigh}  I really try to ignore the nay-sayers here who
+   tell us that season ten is all the same crap.  [...] The plot was
+   horrible-- just another zany Homer-fest.  (Yeah, I know ... all that crap
+   about giving me hundreds of hours of quality entertainment ... who am I to
+   complain?)  Anyway, I don't think this episode was quite as bad as "Kidney
+   Trouble"-- more on the level of "Screaming Yellow Honkers."  Subpar for
+   this season, horrible for the series.  (D+)
+
+Andrew Gill:  Can't we have a simple bonding episode where bonding actually
+   occurs? The entire episode was almost entirely zaniness, and just left me
+   feeling flat.  Can't we have one episode where the laws of physics are
+   observed from beginning to end?  I hate to do this, but I'm giving this
+   episode my standard grade for non-effort:  (F)
+
+Joe Green:  Despite occasional funny bits (the Jehovah's Witnesses scene was
+   the only one I laughed really hard at), the episode suffered from excessive
+   "Homer-centricity" (again), a pointless Marge and Lisa subplot (again) and
+   unnecessary plot twists (again).  Aside from that, it sadly reflects the
+   fact that OFF is losing touch with its wryly satirical roots and the
+   characters are becoming unlikable parodies of themselves.  (C-)
+
+Darrel Jones:  I thought the first two acts were about average for the series,
+   but Act Three picked it up.  I really loved Homer vs. the other truckers,
+   the codes were good for a laugh, and Homer's "trip home" had me LOL.  Plus
+   the ending (with Señor Ding-Dong) was fantastically silly.  (B+)
+
+Ondre Lombard:  I have sort of a love-hate opinion of this episode.  There
+   were gags here that made me laugh out loud for a change (who knows how well
+   they'll stand in time, though) and then there were jokes that fell really
+   flat.  For the most part, I preferred the doorbell subplot to the nonsense
+   with trucker Homer, and Homer's story is set up with a grossly carried away
+   sequence of gags related to cruelty to livestock (the whole tastelessly
+   inhumane slaughter joke got old quick).  By now, I get the impression that
+   the staff believes the show can go on as long as they can keep coming up
+   with more inane jobs for Homer to undertake.  While the doorbell subplot
+   provided this episode with some strength, it's still a weak and uneven  (C)
+
+Patrick McGovern:  I think this was a satire, actually.  Why?  Notice the
+   "little things". Marge saying "You're always going on these adventures!",
+   and Homer's out-of-control jerkass things were all plays on how Homer's
+   character was "deteriorating".  Why does this work and Homer to the Max
+   doesn't?  Because it's subtle.  So subtle that many people mistook it for
+   true jerkassness.  I don't know what that says about Homer's character this
+   season or the quality of the satire.  [...] While it's certainly not the
+   best thing I've seen, or not even this season, I thought it was subtly
+   clever and most importantly-funny.  (B+)
+
+Abhi Ray:  This episode was nearly abominable.  Homer being a trucker has to
+   be the dumbest most inane job hat he's had yet.  Is there anything funny
+   about this premise? Hardly.  The setup with the slaughterhouse was too dark
+   to be funny.  The climax with the truckers chasing Homer for squealing
+   about their scam was kinda good, as well as the conclusion to the doorbell
+   subplot and saves this episode from an even lower grade.  Still, Maximum
+   Homerdrive was full of unSimpsonesque jokes and an unSimpsonesque story,
+   making this the 10th worst episode of all time.  (D+)
+
+Matt Rose:  Typical of later-season Swartzwelder material in that the humor
+   was lacking but we got to see some nice Homer-Bart bonding, which was about
+   the only thing really redeeming about it.  Not much to laugh at; they can't
+   seem to progress beyond the most obvious gag anymore, and it's very very
+   sad.  This "Homer gets into some crazy crazy job" was getting tiresome last
+   season and yet it's still being rehashed over and over.  The subplot with
+   the whole doorbell thing was a snooze.  Even Futurama was disappointing -
+   has Groening lost his touch completely?  Half-grade deduction for using a
+   Spice Girls song - SHAME ON YOU STAFF!  (C-)
+
+Evan Ross:  Eh.  This episode is following the trend of late, good ideas but a
+   weak follow-through.  Some jokes were pretty good, but others were just not
+   the kind we get used to on the Simpsons.  The entire deal with Homer just
+   getting up and going, along with Marge not trying to stop him, made this
+   episode feel forced and rigid.  "Futurama" needed a strong lead-in, and
+   this ep. couldn't do it.  (C+)
+
+Eric Sansoni:  There was a good balance of screentime among the characters,
+   very few jaw-dropping bad jokes, and lots of decent ones in "Maximum
+   Homerdrive."  The characterization had more thought behind it than usual
+   for this season.  The cross-country trip provided some interesting visuals,
+   and the obligatory appearance of everyone in the town happened for a fairly
+   good reason this time. Up against Futurama, the original Matt Groening show
+   held up surprisingly well for me tonight.  While not nearly as smoothly
+   plotted as Futurama, it was just about as funny.  (B)
+
+Simon Treanor:  This episode was quite similar to "Sunday Cruddy Sunday",
+   particularly in subplot.  Unfortunately though, it wasn't as good.  There
+   were some great jokes, and the "Slaughterhouse" restaurant was pretty
+   funny, but it was just another Homer-adventure episode, and Homer's
+   behavior was as bad as people say.  (C+)
+
+Javier Vera:  This episode was simply the typical above-average episode from
+   the last seasons, the plot was original, yet it needed a little work.
+   There were some hilarious moments, i.e. no one ringing at Marge's bell.
+   The sub-plot was one of the very best I've seen lastly.  In general, the
+   episode was good, but it could have been more better if the writers would
+   have work more on the main plot, the sub-plot being better than the main
+   plot.  (B)
+
+Yours Truly:  A ho-hum episode, neither as gratingly unfunny nor memorably
+   hilarious.  (Or for that matter, all that memorable.)  The restaurant
+   opening was the best part, with the remainder of the show being too zany
+   for my taste.  As with "Sunday, Cruddy Sunday (AABF08)," Marge and Lisa
+   have a quiet adventure of their own while the boys are out of town, and
+   like that show it doesn't really go anywhere.  (C)
+
+AVERAGE GRADE:  C (2.10)   Std Dev.: 0.9489   (28 reviews computed)
+
+==============================================================================
+> Comments and other observations
+==============================================================================
+>> Musical References
+
+Darrel Jones:  "Wannabe" by the Spice Girls played on Homer's radio.
+
+
+Mary Ceol:  "12 Bar Blues" by NRBQ was playing in the diner where Homer and
+   Bart ate.
+
+
+>> Writer Hunt
+
+Jordan Eisenberg rails:  Why is John Swartzwelder writing so many episodes
+   this year?  He's probably one of the least favorite writers around here,
+   yet this is his fourth episode this year.  But then again, Mike Scully is
+   an unpopular Executive Producer and he's going to become the longest-
+   running one the show's ever had next year.  It's criminal, I tell ya!
+
+
+Eric Sansoni:  Actually, Swartzwelder has consistently written 4 or 5 episodes
+   per year throughout the series' run.  He's actually credited as writer for
+   almost 20% of the series, probably twice as much as the next most prolific
+   writer.  I think it just feels like he's written more this time, because
+   the whole season has been so lacking in content, it feels like it's barely
+   started yet.
+
+   BTW, I don't think Swartzwelder is particularly unpopular.  A lot of fans
+   passing through seem to mention him as a favorite writer.  I think this is
+   just because he's written so many episodes.  Somewhere in there he's bound
+   to have written some of anyone's favorite episodes, so he is more likely to
+   be named a favorite writer than someone who's only written 3 or 4 episodes.
+
+
+Ondre Lombard:  Sometimes lately I don't like Swartzwelder because he can
+   create a bad episode with some good elements.  I'd rather good jokes and
+   good ideas go towards a decent episode instead of a lame one.
+
+
+>> Those Immortal Threads
+
+ - Where is Springfield?
+
+Andrew Gill:  Springfield is more than 2100 miles from Atlanta.
+
+
+John Jensen:  They started off with 3 days to get to Atlanta (later confirmed
+   as 2,200 miles).  That would put Springfield in the far Northwest of the
+   US, Like Washington or Oregon.
+
+
+Ted J. Mills notes:  Maybe Springfield is much less than 2100 miles from
+   Atlanta, but Homer spent two days driving in the wrong direction.
+
+
+>> Lisa:  Been there, done that
+
+Mike Smith:  "Maximum Homerdrive" is the first time an episode title parodied
+   a title that is OFF-related, since it's a parody of "Maximum Overdrive', an
+   1986 film written and directed by Stephen King (From his short story,
+   "Trucks").  What is OFF-related, of course, that Yeardley Smith (who voiced
+   Lisa) co-starred in that movie (And, what bad memories of THAT!)  The
+   movie, BTW, is remade as a 1997 made-for-cable movie called, simply,
+   "Trucks"!
+
+   [Wait ... someone *remade* "Maximum Overdrive"?  I'm speechless -- Ed.]
+
+
+Matt Rose adds:  "Maximum Homerdrive" is obviously referring to "Maximum
+   Overdrive", a dreadful 1986 film directed by Stephen King and starring
+   Emilio Estevez, Laura Harrington, Pat Hingle, and a relatively unknown 22
+   year-old actress named Yeardley Smith (yes, the same one).  In this movie,
+   a comet causes machines to come to life and terrorize the human race.  The
+   main focus is on a group of travelers who all seek refuge at a truck stop
+   in North Carolina.  Yeardley plays a *very* annoying young newlywed
+   character with a foul mouth (quite amusing :).  If you like Yeardley (or
+   maybe if you like AC/DC), you might want to see it.  Otherwise, avoid this
+   film like the plague.  Come to think of it, I'm actually quite disappointed
+   that this episode failed to make reference to this movie in any other way,
+   seeing how there is a blatantly obvious opportunity to do so.  Perhaps
+   Yeardley begged them not to?
+
+
+>> Now that's good eatin'!
+
+Are you hungry?  I mean *really* hungry?  John Jensen has the place for you:
+   There really is a restaurant in Texas called the Big Texan that has a
+   contest for eating a big steak dinner.  But it's the 72 oz. one that Homer
+   scoffed at (not a 16 pounder!)  Eat the whole thing in an hour and it's
+   free.  FAIL and it's about $50.  Amarillo, Texas, for those interested.
+   Billboards all the way across the state.  Or ask any trucker ANYWHERE.  I
+   mean from any state.  It's known across the country.
+
+
+Paul Tomko:  The billboards are in Oklahoma as well.  The say things like
+   "Only 400 more miles to the Big Texan."  They might even be as far away as
+   Missouri.  I don't recall at the moment.
+
+
+>> A blink before dying
+
+Todd P. Emerson proposes two theories of how Red could blink after dying:  1.
+   Post-mortem reflex.  Sometimes certain  muscles can contract and/or expand
+   after death, which would explain the blink.  And after hearing stories my
+   grandfather would tell me about one of his earlier jobs, there is NO WAY in
+   hell that I would ever work at a job that required handling recently-dead
+   bodies.  The embalming process alone can produce some interesting bodily
+   contortions, and I'll have none of that!
+
+   2.  Red's blink might have been a joke about how some actors trying to play
+   "dead" can't seem to help blinking, twitching, or breathing. Nothing ruins
+   a good death scene like seeing an actor trying not to look like he's
+   breathing!
+
+
+>> Wish you were her
+
+John Jensen tells us about Bettie Page:  Believe it or not, she is to date the
+   most popular pinup girl of all time.  You think a lot of gas stations have
+   calendars of Pam Anderson?  She has nothing on Bettie Page.  And since
+   Playboy made her career, they are constantly going back to the well for
+   more.
+
+
+>> "Wait!  Maybe we don't have all the answers"
+
+Yuri Dieujuste:  Jehovah's Witnesses are an individual religion that is found
+   usually in large cities.  Some basic things about their religion are that
+   they do not celebrate birthdays, they use a special version of the Bible
+   that has words such as priest erased, and they do not believe in religious
+   hierarchy (priest, bishop, pope).
+
+   I must agree with them that they do not have all of the answers.  No
+   religion ever does!
+
+
+David Brunt adds:  They also don't believe in blood transfusions, organ
+   replacements, etc.
+
+
+>> Well, at least they're not as annoying as Cabbage Patch Dolls
+
+Benjamin Robinson explains the truckers' new scam:  After the drivers figured
+   their scam was exposed, they brainstorm for ideas on how to make a living.
+   One of them suggests smuggling Beanie Babies, which isn't a bad choice.
+   For those of you who just got out of their cryogenic chambers yesterday,
+   Beanie Babies are small, floppy, stuffed dolls with cutsie names like
+   Peanuts the elephant, Harvey the wonder hamster, and Weasel the major
+   network television executive.  By themselves, the dolls aren't that
+   remarkable, but each doll in the lineup is made only for a limited time.
+   Once that model's run is over, no more are produced.  The idea was to keep
+   children interested enough to check back with the toy store periodically,
+   and it worked [*].  If anything, it worked too well.  Adults began picking
+   up and hoarding the toys, rare examples of which were valued by collectors
+   in the thousands of dollars.  The scent of money even attracted thieves who
+   stole the toys right out of the stores.  In my area, a flea market guard
+   was jumped by two men with hammers who beat him and stole a quantity of
+   Beanie Babies.  Kind of makes you wish your kids would go back to Barbies
+   and GI Joes.
+
+   [*] The "limited run" idea has worked before, with Matchbox and Hot Wheels
+   toy cars.  The number of models sold at a given time is fixed. When a new
+   car is made, and old one is retired from the line.  Adults also collect
+   both makes of toy cars, but not with the ferocity of Beanie Baby Boosters.
+
+
+Joe Klemm adds:  Bootlegging them would be impossible since many different
+   companies are making their own bean bag stuffed animals and counterfeit
+   versions of the Ty Beanies are sometimes easy to spot if you read a Beanie
+   guide.
+
+
+Todd Sempel:  They may be easy to spot, but Beanie Babies still get
+   bootlegged.
+
+   [Since this was written, the Ty corporation has shut down production of
+   Beanie Babies altogether -- Ed.]
+
+
+>> Maximum Car Watch
+
+Courtesy Benjamin Robinson:  The coroner's hearse is a 1959 Cadillac.
+   (Cadillac doesn't make station wagons, so all Caddy hearses are actually
+   modified by an outside company.)  Appropriately, the cops sometimes refer
+   to the coroner's hearse as a "meat wagon."
+
+   Among other cars at the drive-in, Homer blocks the view of a Volkswagen Old
+   Beetle.
+
+   Señor Ding-Dong's van is a Chevy, at least according to him.
+
+   I'm not really up on my big rigs, so I can't say of the "Red Rascal" is a
+   Mack truck or not, but Red Barclay's Mack cap suggests that it is.
+
+
+>> Miscellaneous, Etc.
+
+The Haynes Lee alterna-title for this show is:  Honk If You're Homer
+
+
+Dale Abersold's  alterna-alterna-title:  "Homer, You're Bleedin' Like a Stuck
+   Pig!"  [Yes, it's a Yeardley Smith reference ...]
+
+
+Jordan Eisenberg's Alterna-alterna-alterna-title:  "The Little Simpson That
+   Could"
+
+
+John Jensen (who is a trucker in real life):  There aren't that many teamster
+   jobs around anymore.  Nearly all are LTL, not truckload.  (Yellow, ABF,
+   Roadway are the big 3).  And they are making $20 an hour, not 40.  But
+   still nothing to sneeze at.
+
+
+Charles McNulty:  Karen Carpenter's doorbell chimed the first six notes of
+   "We've Only Just Begun."  I wonder if hers was also installed by Señor Ding
+   Dong.
+
+
+[In the US, the series premiere of "Futurama" aired on the same night as this
+   episode, hence the many references to it by contributors -- Ed.]
+
+
+==============================================================================
+> Quotes and Scene Summary  {bjr}
+==============================================================================
+% At the dinner table, Homer recounts how his day has gone.  We jump 
+% in on the middle of his story, where he refuses a tetanus shot from 
+% the company nurse.  His jaw locks in the middle of this tale, but he 
+% manages to free it again.  "You still haven't told us why Lenny bit 
+% you," Marge says.
+%
+% Just as he is about to answer, Homer is interrupted again.  This 
+% time it's Lisa, who is furious about the town's new steakhouse.  
+% Indeed, it sounds like a vegetarian's nightmare:  The ceiling is 
+% decorated with hanging carcasses, there's a fountain of blood, and 
+% to top it off, patrons personally select their own cow to be 
+% slaughtered.  Homer decides it's time for immediate action.  The 
+% family must go to this restaurant -- to eat.
+%
+% The Simpsons, minus Lisa, sit down at one of The Slaughterhouse's 
+% tables.
+
+Homer:	Wow, it's even more wonderful than Lisa said.
+	[a waiter sets a basket on the table]
+Marge:	Ooh, look, a complimentary basket of hooves.
+	[opens the menu] Hmm, beef salad, beef on the cob, beef 
+	fried beef ... is there anything on the menu that isn't 
+	meat?
+Waiter:	Hah.  Not likely!
+Bart:	Cool!  Even this menu is made of meat!  It's an entire 
+	chicken pounded flat.
+Marge:	How clever.  The kids' menu is on the beak.
+-- Theme eating, "Maximum Homerdrive"
+
+% In another part of the restaurant, Burns picks a cow to dine upon.  
+% Or rather, he picks several cows.  Each time he chooses one, he 
+% changes his mind after the cowhand kills it.  Finally, Mr. Burns 
+% decides that what he really wants is a glass of milk.
+%
+% Homer, too, is ready to order something.
+
+Homer:	Wait a minute.  Is this the biggest steak you've got?  
+	Seventy-two ounces?  I thought this was supposed to be a 
+	steakhouse, not a little girly, underpantsy, pink doily, 
+	tea-party place.
+Waiter:	Well, there is one steak that's available only by special 
+	request.  We call it, uh, Sir Loin-A-Lot.  It's, uh, the 
+	size of a boogie board.
+Homer:	Ooh, I'll have that one.  And to drink ... meatballs.
+Waiter:	Very good, sir.  [rings a triangle] Ladies and gentlemen, 
+	this brave man has accepted the Sir Loin-A-Lot challenge.  
+	He will pit his stomach against sixteen pounds of 
+	indomitable tenderloin.
+	[restaurant crowd applauds]
+Homer:	[to family] They like me because I'm brave.
+-- ... and hungry, "Maximum Homerdrive"
+
+% The waiter announces that only two men have ever polished off the 
+% whole thing.  The pictures of the two men, Red Barclay and Tony 
+% Randall, are mounted on the wall in tribute to their accomplishment.  
+% A man at the next table advises Homer not to start out with such a 
+% big steak.  When Homer challenges his authority, the man gestures 
+% toward the wall, where we see that his is one of the two pictures.  
+% Homer stares at the man, and then at the pictures, before finally 
+% recognizing him ... as Tony Randall.
+
+Red:	Red Barclay's my name.  I'm a trucker, and I've eaten 
+	steaks from coast to coast with taters and toast.  Take my 
+	advice -- this one's not for greenhorns.
+Homer:	Greenhorn?  Who's a greenhorn?  What's a greenhorn?
+Bart:	It's an insult!  Sock him, Dad!  Sock everybody!
+Homer:	Aw, you're just jealous because you don't have the belly 
+	for it anymore, Mr. No-Belly.  [pokes Red in his ample 
+	belly] Mr. Hasn't-Got-A-Belly.
+Red:	Well, I have just finished a whole lamb, but, uh, I reckon 
+	I can take you to school.  You're on, boy.
+-- "Maximum Homerdrive"
+
+% For the eating contest, Red and Homer are seated on a raised 
+% platform at one end of the restaurant.  The waiter struggles to 
+% carry the 256-ounce slab of beef to their tables.  Homer drools 
+% lustily when he sees his huge steak.
+
+Marge:		Is it safe to eat that much food, Dr. Hibbert?
+Hibbert:	You know, I wouldn't have thought so before I bought 
+		twelve percent of this restaurant, but now I feel a 
+		balanced diet can include the occasional eating 
+		contest.
+Marge:		But what if he chokes?
+Hibbert:	Not to worry, we have the latest Heimlich machine.
+		[a choking lady runs up to the machine.  Two large 
+		mechanical arms on either side administer the 
+		Heimlich, freeing a stuck piece of food.  As the 
+		lady walks away, she trips on the very same piece of 
+		meat]
+-- "Maximum Homerdrive"
+
+% The waiter introduces "Reliable Red Barclay," and "Homer somebody," 
+% and the two men start eating.  Homer butters a roll until Marge 
+% reminds him not to fill up on bread.  Bart also coaches him, telling 
+% Homer not to bother savoring -- just chew and swallow.  At the four-
+% pound mark, Homer begins hallucinating, seeing the cows in the pen 
+% mocking his inability to eat.  He bravely presses on, but the steak 
+% eventually gets the better of him.  Bart tries tossing a piece of 
+% meat into Homer's mouth, but it just bounces back out.
+
+What's happening to me?  There's still food, but I don't want to eat 
+it.  I've become everything I've ever hated!
+-- Homer Simpson, "Maximum Homerdrive"
+
+% Red Barclay, in the meantime, finishes the last bite of his steak.
+
+Waiter:		The winner and still champion, Reliable Red Barclay.  
+		[raises victor's hand in triumph.  The crowd cheers]
+Homer:		My hat's off to you, Red.  You're a true American 
+		hero, and you did it with style and dignity, and -- 
+		hey, you're not breathing!  Don't people usually 
+		breathe?
+Hibbert:	[checks for a pulse] This man is dead.  Looks to me 
+		like beef poisoning.  [crowd gasps] Probably from 
+		some other restaurant.  [crowd seems relieved]
+-- "Maximum Homerdrive"
+
+% The coroners put Red's body in a body bag, and load him in a hearse.  
+% A medic hands Marge a bag for Homer, just in case.
+%
+% As the hearse drives away, Red's friends mourn his passing.
+
+Lady Trucker:	There goes the finest trucker who ever lived.
+Homer:		He called me, "greenhorn."  I called him, "Tony 
+		Randall."  It was a thing we had.
+Trucker 1:	Thirty-eight years and never missed a shipment.  But 
+		I guess this is one delivery old Red won't be 
+		making.
+Homer:		Oh, yes he will.  And on time, too.  [gets in the 
+		truck]
+Marge:		Oh, no, Homer, no.
+Homer:		[starts truck] I've got to, honey.  I owe it to old 
+		Red as both his friend and his killer.
+Bart:		[opens the door, and climbs into the truck]  Oh, let 
+		me go with you, Dad.
+Homer:		Don't you have school?
+Bart:		Don't you have work?
+Homer:		Ah, touché.
+-- "Maximum Homerdrive"
+
+% Homer says goodbye to Marge.  She sounds resentful at first, but 
+% Homer eventually cajoles a sincere-sounding farewell from her.  
+% Then, with two blasts from his horn, he roars out of the lot, and 
+% into Act Two.
+%
+% [End of Act One.  Time:  7:16]
+%
+% On the open road, Homer practices a gear-shifting philosophy known 
+% as, "if you can't find it, grind it."  Once he has things running 
+% smoothly, he starts to feel like a real trucker.  Bart consults 
+% Red's transport orders, and finds that the shipment has to be in 
+% Atlanta in three days.  To set the mood, Homer finds a radio station 
+% playing that truckers' favorite, the Spice Girls.
+%
+% A little boy in a passing station wagon makes the international air-
+% horn gesture.
+
+Homer:	That little punk!  I'll teach him some manners.
+	[prepares to ram the wagon]
+Bart:	No, Dad!  He wants you to blow your horn.
+Homer:	Oh.  [pulls a cord on the ceiling of the cab.  The trailer 
+	disengages] That little punk!
+-- "Maximum Homerdrive"
+
+% Back at the old homestead, the girls get another postcard from 
+% Homer, which Lisa reads.
+
+Lisa:	Wow, Dad and Bart have been everywhere!  They've eaten 
+	submarine sandwiches, grinders, *and* hoagies.
+Marge:	It's not fair.  Your father always gets to have such 
+	exciting adventures.  Maybe it's time we took a walk on 
+	the wild side.
+-- "Maximum Homerdrive"
+
+% For Marge, the path to the wild side leads to a doorbell shop.  She 
+% hopes to get a spiffy musical doorbell, but is immediately 
+% overwhelmed by the store's vast selection.  Gil, now a trainee 
+% doorbell salesman, is overwhelmed by Nelson, who leave a flaming bag 
+% by one of the store's demonstration doors.  Marge tells Gil that 
+% she's looking for a particular tune, and tries her best to warble 
+% it.  Within seconds, Lisa has found the exact doorbell her mother is 
+% looking for; one that plays the Carpenters' "Close to You."  Gil 
+% frets over this sudden competition in the doorbell-sales arena.
+%
+% On the road again, Homer and Bart dine at a truck stop.
+
+Gwen:	Little more hi-test, darling?
+Homer:	Sure thing ... [reads her nametag] Gwen.
+Gwen:	I'll be right back with your pie, hon.
+Homer:	Ah, there's a nice friendly gal.
+Bart:	Yeah.
+Homer:	Wouldn't it be great to live right here at the truck stop, 
+	watching all the people come and go?  You could have a 
+	different best friend every day.
+Bart:	I suppose.
+Homer:	Great!  I'll write your mother and tell her the marriage 
+	is off.  Then, when the paperwork is done, I'll make Gwen 
+	my wife.
+Gwen:	Will that be all, sweetie?
+Homer:	For now.
+-- Another well-thought-out plan, "Maximum Homerdrive"
+
+% Meanwhile, Marge finishes installing the new doorbell.  Lisa goes to 
+% test-ring it, but Marge holds her back, reasoning that the doorbell 
+% is not a toy.  The two go inside, and wait for someone to come to 
+% the door.  Time passes.
+
+Marge:		Anyone?  Anyone at all?
+Lisa:		Oh!  Milhouse is selling seeds, and he's coming this 
+		wa-- Oh, the birds got him.
+		[Milhouse staggers past the window, attacked by 
+		birds]
+Milhouse:	Ow!  Oh!  Not the face!
+Marge:		If your father were here, there'd be process 
+		servers, repo men, and bounty hunters to beat the 
+		band.
+Lisa:		Hey!  People are coming!  I think they're Jehovah's 
+		Witnesses.
+Marge:		Yes!
+		[cut to outside the house.  A young man and woman 
+		walk up, and the man goes to ring the doorbell]
+Noreen:		Wait, Marvin, I just had a thought.  Maybe we're 
+		bothering people by trying to change their religion.  
+		What if we don't have all the answers?
+Marvin:		You're right, Noreen.  Let's go get real jobs.
+		[they walk away, discarding their pamphlets as they 
+		go]
+		[cut to the inside of the house]
+Marge:		Hmmm ... I would have feigned interest.
+-- "Maximum Homerdrive"
+
+% Finally, Marge's well of patience runs dry.
+
+Marge:	Still no visitors.  It's time we opened up a can of Whoop-
+	Tushie on this situation.  What's the number for Luigi's?
+Lisa:	Dad's got it on the speed-dial under "Fire."
+	[Marge dials.  Cut to a shot of the Luigi's delivery man 
+	driving up to the house]
+Marge:	This is it, honey.  We did it.
+	[the delivery man knocks on the door]
+	Damn it!  Ring the bell!
+D. Man:	Why?  You already know I'm here, dontcha?
+Marge:	Just do it!
+D. Man:	Nothing doing, missy.  Now, do you want your half-order of 
+	garlic bread or not?
+Marge:	No, but if you just ring the ...
+	[the delivery man gets back in his truck and drives away]
+-- So close, and yet so far, "Maximum Homerdrive"
+
+% Finally, Lisa breaks and rings the bell.  Marge is enraptured by the 
+% tune, and tries to sing along.  ("Why do birds suddenly appear, over 
+% here ... over there.")  Lisa notices the song keeps playing over 
+% again, but Marge doesn't seem to mind.
+%
+% At the drive-in, Homer and Bart watch a movie from the front row.  
+% Unfortunately, that means their truck blocks the view of everyone in 
+% the second and higher rows.  The people in those cars are missing 
+% "The Monster That Ate Everybody," which includes a scene where a 
+% clueless starlet doesn't quite get what "It ate everybody" means.
+%
+% Later, Homer and Bart fish, without bait, from a quiet bridge.  Bart 
+% reminds Homer that Red's shipment has to arrive in ten hours, and 
+% they're 2,200 miles from their destination.  It's time to put the 
+% pedal to the metal, and Homer's going to need a little chemical 
+% help.
+%
+% Homer runs into an all-night country market.
+
+Homer:	Uh, yeah.  I need something that will keep me awake, 
+	alert, and reckless all night long.
+Clerk:	Well, Congress is racing back to Washington to outlaw 
+	these.  [puts a bottle of pills on the counter]
+Homer:	[takes bottle] Sold!
+	[downs most of the pills on the spot]
+Clerk:	Hey, you can't take that many pep pills at once.
+Homer:	No problem, I'll balance it out with a bottle of sleeping 
+	pills.  [takes another generous helping of pills]
+-- "Maximum Homerdrive"
+
+% Fueled by stimulants, and with Bart sleeping in the passenger seat, 
+% Homer races off into the night.  Once the sleeping pills kick in, he 
+% begins to drop off to sleep.  The pep pills stage a comeback, but in 
+% the end the sleeping pills reassert themselves.  Homer falls asleep.  
+% Up ahead in the darkness, the cliffside road curves sharply to the 
+% left.  Homer, Bart, and the truck head straight for the guardrail 
+% and certain doom ...
+%
+% [End of Act Two.  Time:  13:17]
+%
+% Under the dash of the truck, a light blinks on a metal box.  
+% Seemingly on its own, the truck's brake pedal depresses, and it 
+% slows down, steering itself as it travels the precarious road.  
+% Finally, the truck rolls safely into a fuel station.
+%
+% Homer snaps awake and realizes that while he crashed, the truck 
+% didn't.  He gets out of the cab, and approaches some other truckers.
+
+Homer:		You'll never believe what just happened.  I fell 
+		asleep at the wheel, and the truck drove here by 
+		itself.
+Trucker 3:	Yeah, that Navitron Autodrive system's made our jobs 
+		cushier than ever.
+Homer:		The what now?
+Trucker 4:	You know, this thing.  [taps box] With this baby 
+		driving your truck for you, all you gotta do is sit 
+		back and feel your ass grow.
+Homer:		The trucks drive themselves?
+Trucker 3:	Hey, hey, hey, shh.  Didn't your union rep tell you 
+		about the scam we got going?
+Homer:		Eh, I'm not really a trucker, so I don't talk to the 
+		rep that often.
+Trucker 4:	[grabs Homer by the jacket] All right, pal, here's 
+		the deal.  You stumbled on a secret that only truck 
+		drivers are supposed to know.
+Homer:		[giggles]
+Trucker 4:	Hey, pay attention and stop looking at that 
+		squirrel.
+Trucker 3:	We get forty bucks an hour to drive these rigs.  You 
+		think anybody'd hire us if they knew we weren't 
+		driving the trucks?
+Homer:		[admiringly] Wow, you guys are even lazier than me.  
+		Well, don't worry, I'll keep your secret.
+Trucker 4:	See that you do.
+-- "Maximum Homerdrive"
+
+% Later that day, Homer decides to play a trick on his son.  Seeing an 
+% old lady walking by the side of the road, he tells Bart that he's 
+% going to run her over.  Bart objects, but when Homer releases the 
+% wheel, the truck steers around the woman, scaring her but leaving 
+% her uninjured.  With the Autodrive system, he explains, the truck 
+% keeps itself out of trouble.
+%
+% As a further demonstration of the system, Homer climbs onto the hood 
+% of the truck -- while it is in motion.  He invites Bart to join him, 
+% which he does.  The truck passes a tour bus, and the passengers are 
+% quick to see that nobody is driving.  There's no need to worry, 
+% Homer assures them, because Autodrive is on the job.
+%
+% Other truckers on the road also see Homer's shenanigans.  Realizing 
+% their scam is in peril, they quickly mobilize to shut Homer up.
+%
+% Back in Springfield, Marge and Lisa try to get the doorbell to shut 
+% up.  It has been playing the opening bars of "Close to You" all 
+% through the night, and the sound is beginning to take its toll.  
+% Lacking the proper tools, Marge instead yanks out a wire from the 
+% doorbell's innards.  Bad move -- the playing gets louder and faster, 
+% until it wakens the neighborhood.
+%
+% On Highway 7, a fleet of big rigs closes in on Homer and Bart.
+
+Homer:	[seeing the trucks in his rear-view mirror] Look, son.  
+	It's one of Nature's most beautiful sights -- the convoy.
+	[one of the trucks accelerates, and hits Homer's trailer]
+Bart:	He hit us!
+Homer:	Oh, I should have known.  They're hazing us, to initiate 
+	us into the truckers' fraternity.
+	[the truck is hit again]
+	[yelling out the window] Thank you sir, may I have 
+	another?
+	[the truck is hit again]
+Bart:	Dad, they're trying to kill us.
+Homer:	Oh, why do all my trips end like this?
+-- Don't look at us, "Maximum Homerdrive"
+
+% A trucker jumps on to Homer's hood.  Homer repels him with a blast 
+% of water from the windshield washers.  Another man leaps onto 
+% Homer's trailer, and tries to cut a tire with a knife.  The blade 
+% bounces off the rubber, and the man drops the knife on the road.  
+% For a second, it looks like Homer has lost his pursuers, but it 
+% turns out that several truckers have blocked the road ahead.
+%
+% Homer is determined, as a favor for Red, to get his load through.  
+% It's time for a showdown.
+
+Homer:		We'll get through that barrier somehow.  Old Blinky 
+		here will find a way.  [drives at top speed towards 
+		the barricade]
+Autodrive:	I'm afraid I can't let you do this, Red.  The risk 
+		is unacceptable.
+Homer:		I'm not Red, I'm Homer.
+Autodrive:	Gotta go.  [it ejects from the cab and parachutes to 
+		safety]
+Homer:		Aaah!
+Bart:		Dad, do something.
+Homer:		[buckles up]
+Bart:		Something better.
+-- "Maximum Homerdrive"
+
+% Homer brakes and steers sharply.  The truck starts to jackknife, and 
+% then launches into the air, doing a graceful barrel roll over the 
+% blockade of trucks before landing on its wheels.
+%
+% The other truckers, needless to say, are impressed.
+
+Trucker 3:	Now that man is a genuine steel-belted, gear-jamming 
+		rig jockey.
+Trucker 5:	Mmm, that's a fact
+Trucker 6:	Boy, howdy.
+Trucker 4:	You can say that again.
+Trucker 7:	Yup.
+Trucker 4:	You know boys, I've been thinking.  Maybe it's time 
+		we ditched the high tech gizmos and went back to 
+		driving like our daddies did.
+Trucker 5:	Drunk?
+Trucker 4:	No, no, no.  Using our hands and our wits.  Yeah, 
+		sure, it's hard work, and it's lonely as hell, but 
+		it has meaning and dignity.  Huh?  What do you say?
+		[long pause from the other men]
+Trucker 3:	Nah.  Let's just find some other scam.
+Trucker 5:	Hey, how about bootlegging Beanie Babies?
+Trucker 7:	Sounds good to me.
+Trucker 6:	I like that.
+-- American ingenuity, "Maximum Homerdrive"
+
+% The boys roll into Atlanta, delivering Red Barclay's shipment of 
+% artichokes and migrant workers on schedule.  Mission accomplished.  
+% The dockmaster asks Homer where Red is, and Homer says he last saw 
+% Red in a big plastic bag.  "Yeah, that sounds like Red, all right," 
+% says the dockmaster, as if this sort of thing frequently happens.
+
+Homer:		Well son, I guess it's time to go home.
+Bart:		Any thoughts on how we're going to get there?
+Homer:		No, but I'm sure the good Lord will provide.
+		[in the background, an engineer argues with a man in 
+		a military uniform]
+Engineer:	Are you crazy?  I'm not driving a trainload of 
+		napalm to Springfield.  [throws his cap on the 
+		ground and walks off]
+Homer:		[heavenward] Thank you.  [picks up the cap and 
+		boards the train]
+-- The Lord works in mysterious ways, "Maximum Homerdrive"
+
+% Things in Springfield aren't going so smoothly.  The doorbell is 
+% continuing to play.  An irate, sleep-deprived, mob of townspeople 
+% has gathered at Marge's doorstep.
+
+Marge:		I'm really sorry everybody, but I've tried 
+		everything.  I'm afraid we're just going to have to 
+		learn to live with it.
+Wiggum:		No, no, no.  No dice.  [draws his gun] All right, 
+		chimey, this time, the bell tolls for thee.  [aims 
+		at the doorbell.  From offscreen, a whip cracks 
+		Wiggum's gun out of his hand] Huh?
+		[The camera pans to reveal Señor Ding-Dong, standing 
+		on top of a van]
+Bumblebee Guy:	¡Ay, ay, ay -- Señor Ding-Dong!
+Lisa:		I thought you were just a marketing gimmick.
+Ding-Dong:	There was a time when that was true, but now, I am 
+		so much more.  [cracks the whip at the doorbell, 
+		silencing it.  The crowd cheers]
+Marge:		Oh, my!  Gracias, Señor.
+Ding-Dong:	Denada.  If you ever need me, just ... ring.  [gets 
+		in his van, and tries to start the motor.  It 
+		doesn't cooperate]
+		Does anyone have any jumper cables?  [tries again] 
+		Oh, you stinking Chevy.
+-- "Maximum Homerdrive"
+
+% Fade to black, as Sr. Ding-Dong rides off into the sunset.  Or sits 
+% there at the curb.  Whatever.
+%
+% [End of Act Three.  Time:  20:30]
+
+==============================================================================
+> Contributors
+==============================================================================
+{ag}  Andrew Gill
+{bc}  Ben Collins
+{bjr} Benjamin Robinson
+{ddg} Don Del Grande
+{dj}  Darrel Jones
+{ec}  Ellen Cohen
+{ejr} Evan J. Ross
+{er}  Evan J. Ross
+{gw}  Gary Wilson
+{hl}  Haynes Lee
+{jc}  Jeff Cross
+{je}  Jordan Eisenberg
+{jg2} Joe Green
+{jj}  John Jensen
+{js}  Jay Sherman
+{jv}  Javier Vera
+{lmg} Lawrence M. Gruss
+{mr}  Matt Rose
+{ms}  Mike Smith
+{nmd} Nathan M. DeHoff
+{ol}  Ondre Lombard
+{rdb} Reznick de Bergerac
+{sc}  Sarah Culp
+{tdm} Travis D. McLemore, Jr.
+{tpe} Todd P. Emerson
+
+==============================================================================
+> Legal Mumbo Jumbo
+==============================================================================
+This episode capsule is Copyright 2000 Benjamin Robinson.  It is not to be
+redistributed in a public forum without consent from its author or current
+maintainer (capsules@snpp.com).  All quoted material and episode summaries
+remain property of The Simpsons, Copyright of Twentieth Century Fox.  All
+other contributions remain the properties of their respective authors.  The
+quote and scene summary itself is Copyright 2000 Benjamin Robinson.  This
+capsule has been brought to you by Señor Ding-Dong's Doorbell Fiesta.
+
+This work is dedicated to Raymond Chen, James A. Cherry, Ricardo Lafaurie,
+Frederic Briere, and all of those who made episode capsules what they are
+today.

@@ -1,0 +1,896 @@
+<PRE>
+Flaming Moe                                             Written by Robert Cohen
+                                          Directed by Rich Moore and Alan Smart
+===============================================================================
+[$Id: 8f08 1.3 92/03/05 07:50:12 raymond Exp Locker: raymond $]
+===============================================================================
+> Title sequence
+===============================================================================
+Cut from solo directly to driveway.
+
+Blackboard :- `Underwear should be worn on the inside'.
+              `Underwear should be worn o' at cutoff.
+
+Lisa's solo:- descending eighth notes (same as in [8f01])
+                        .... .
+              .          #Nb  b # #Nb  b   N# . . .  .
+              1_______5 5443 1754 4434 31 /346161/3__1
+
+Driveway   :- Homer says `D'oh!' when Lisa scoots past.
+
+Couch      :- Two thieves (complete with striped shirts and masks)
+              are carting the couch away.  The family leap onto the
+              couch, but the thieves dump OFF onto the floor and
+              continue on their way.
+
+The extra half-beat returns.  (Sigh.)
+
+===============================================================================
+> Didja notice...
+===============================================================================
+    ... special guest voices included Aerosmith as themselves,
+        Catherine O'Hara as the waitress,
+        Phil Hartman as Lionel Hutz, and Marcia Wallace as Ms. K?
+    ... between the floorboards are a pipe clearly labelled `lead'
+        and insulation clearly labelled `asbestos'?
+        There was also a dead rat in front of the insulation. {em}
+    ... the girls were eating rice krispies/marshmallow treats at the
+        slumber party?
+        (Wouldn't this cause problems for the girl who wears braces?)
+    ... Moe was cheating at solitaire?  [JYANOWITZ@hamp.hampshire.edu]
+        He had placed two red cards atop each other.
+        [Actually, I noticed that one pile didn't even have an up-card.
+        And of course, Moe didn't bother to turn all the cards to face the
+        same way before he shuffled them. --rjc]
+    ... Bart ``paper bag head'' Simpson was hiding behind a paper bag?
+    ... Marge's wig (identical to her regular hair) on the dresser?
+    ... the mugger in front of Homer's new watering hole, The Aristocrat? {rc}
+
+Did you remember to thank Mr. A. J. P. Martin when Dr. Fink used the gas
+chromatograph?
+
+Dave Hall {dh}:
+    ... some of the people floating on the dead sea look more dead than alive?
+    ... the table (with the gas chromatograph) disappeared after Martin's
+        presentation?
+    ... Ms. Krabappel's desk?  An apple core, and books which face away
+        from her (so she can't read the title).
+    ... the picture that Bart took out of the bag appears to be the one
+        from the TV room?
+    ... Krusty slipped money into Bernard's hand?
+    ... the `live' lizard around Kent Brockman's date's neck?
+        (Is she the weather girl?)
+    ... the large mouse (rat?) hole in Moe's bedroom?  There are also
+        lady's shoes on his side of the bed.
+    ... how Marge handles her plate of bacon and eggs as she sat down?
+        Note the look on her face.  (You need slo-mo or FF for this one.)
+
+===============================================================================
+> Mixed reviews
+===============================================================================
+
+Catherine Stanton {cs}:  What a classic.  It's a shame they're still
+having the sappy endings.  I was hoping Moe would go broke or something.
+
+inde6bc@JANE.UH.EDU:  What's with the sappy episodes, anyway? It seems like
+every show this season has been capped with a sappy ending.  Still a
+pretty good episode, though.  Bart's first kiss was a success.
+
+Roby Sherman (rsherman@mthvax.cs.miami.edu):  Excellent episode.
+
+Eric C. Williams (eric@npri6.npri.com):  Best of the season.  Just the
+right balance of humor and darkness.  Loved the way the `normal' townsfolk
+acquired alter egos in the bar.
+
+Dora Kilburn {dk3}:  I thought it was just another episode.  There was
+really nothing that was very memorable for me.  My biggest laugh was 
+the couch scene.
+
+Bryan Kelln {bk}:  An excellent episode. One of the best.
+
+David Moery {dm}:  By far the best episode this season, and definitely one
+of the all-time greats.
+
+Scott Amspoker {sa}:  Excellent episode.  I laughed out loud many times
+last night.
+
+J. D. Baldwin {jdb}:  This episode was immediately catapulted into the
+pantheon of the greats.  Right up there with `Itchy & Scratchy & Marge' and
+`Bart the General'.  It even had an appearance by Scratchy!
+
+Ron Carter {rc}:  Another superb episode; Lisa's PJ party was funny 'cause
+it's true.
+
+Yours Truly {rjc}:  Soopoib.  `Eye on Springfield' was great, but I fell
+on the floor when Lisa's slumber party went after Bart.  Bart overturned
+furniture to impede the girls' progress, just like they do on TV!  [J. D.
+Baldwin {jdb} responds, ``TV, hell!  I have three younger sisters, and I
+survived pre-adolescence only thanks to tricks very much like this one!'']
+But the best part was easily The Song.  (They even had the car driving past
+before the song starts.)  I've been singing that song for days now...
+
+===============================================================================
+> Movie (and other) References
+===============================================================================
+    Truth or Dare
+        - the girls play the game
+    North by Northwest
+        - the music as the girls chase Bart {hrl}
+  ~ Close Encounters of the Third Kind
+        - removing the screws to get at Bart
+    Gilbert Godfreid
+        - Moe's ``I'm Moe and I invented it''
+          [JYANOWITZ@hamp.hampshire.edu] {lt}
+    Cocktail
+        - Tipsy McStagger's and buying a drink for a chain of bars {rc}
+  + Cheers
+        - The Song and The Pictures.
+        - a lascivious head bartender (Moe/Sam).
+        - the waitress
+            - pseudo-intellectual (``shan't'', ``Morris'') {ez}
+            - moralistic {slp}  Note her body language when she
+              scolds Moe for stealing Homer's recipe. {ez}
+            - ``She left to pursue a movie career.  Frankly, I think she
+              was better off here.''  {slp} Shelley Long left Cheers to
+              pursue a movie career, but never recaptured the fame she had
+              while on Cheers.
+        - insult-based sexual banter between the bartender and waitress.
+        - they also end up sleeping together. {slp}
+        - a Woody-like bartender constantly polishing shot glasses. {ez}
+        - a fat slob dressed in a suit jacket (Barney/Norm).
+            - ``Barney!'' followed by a leading question from the bartender.
+  + Sean Penn
+        - Krusty punches out a photographer.
+  + The Nutty Professor
+        - ``And the secret ingredient is... LOVE!'' {rc}
+  + Phantom of the Opera
+        - Homer's haughty speech from the rafters.
+        - Notice the robe deftly draped over his face like the Phantom's mask.
+    Hunchback of Notre Dame {rc}
+
+===============================================================================
+> Freeze Frame Fun
+===============================================================================
+As usual, all items tagged with a `-' are courtesy of Ron Carter {rc}.
+Items tagged with a `+' are due to Dave Hall {dh}.
+
+>> Eye On Springfield
+
+  - Springfield sign a la HOLLYWOOD sign
+    Statue of town founder Jebediah O. Z. J. Springfield
+       (accompanied by a buxom brunette striking the same pose)
+    Sir Putt-a-Lot's Merrie Olde Fun Center
+        3 bikini-clad babes standing on the fairway of the 1st hole.
+        (Alligator standing, wearing boxing gloves; center hole leads
+        to the parking lot...) {jpc}
+  - Larry's Chinese Theatre
+      - ``Here's looking at you, Larry'' (signed) McBain
+        Kent makes handprints on his own cement panel.
+      + A Laramee billboard on the side of the theater.
+  - Springfield Downs (Greyhound dog races)
+      + The hounds didn't come out of their proper gates (i.e. The numbers on
+        their backs didn't match the numbers on the gates.)
+      + Some people at the downs:
+          + Jasper
+          + Lenny
+          + Karl
+          + Barney
+          + Herman
+  - The Jazzhole (Bleeding Gums Murphy appearing)
+  - Springfield War Memorial Stadium
+  - The Happy Sailor Tattoo Parlor (cf [7G08])
+      - Manager's Special  Up to 12 Letters Only $15.95  The Perfect Gift!
+        Kent gets a giant tattoo on his back.
+
+  + The great tire fire is even funnier because the old beat-up truck is shown
+    to be brand-new in the old news footage.  (Note the same tires in back of
+    the truck, and the tree behind the fence, or the new building in the
+    background?)
+  + Springfield's oldest man appears to be Raliph Melish(sp?), the guy who got
+    his driving license revoked by Patty in `Principal Charming'.
+
+>> Moe's Tavern
+
+    The lost and found box
+          Bowie knife
+          troll doll
+          glass eye (which rolls away and crashes to the floor)
+          cough syrup
+            Andrew Tannenbaum {trb} explains that troll dolls were very
+            popular with little girls around 1965.  The implication is
+            clearly that Moe never got rid of anything in his lost and
+            found box.
+  - Isotopes sports banner on wall
+  - Love Tester
+        - Hot Tamale
+        - Casanova
+        - Hubba Hubba
+        - Luke Warmish (also Luke Warm Luke)
+        - Cold Fish
+    + Steven Tyler scores `Hot Tamale' on the Love Tester.
+  - Tipsy McStagger's Good Time Drinking and Eating Emporium
+  - Headlines with Moe's success
+        - Springfield Shopper    `Wizard of Walnut Street'
+        - Timely                 `One Moe for the Road'
+        - Bar and Stool Magazine `Through the Roof!'
+  - People at Flaming Moe's
+        - Jasper
+            + Steven Tyler throws his scarf into a crowd of women, and
+              Jasper catches it.  Jasper proceeds to wipe his mouth with it.
+        - Otto dancing with Princess Cashmere
+            + Otto is wearing his headphones.  What is he listening to?
+        - Ned and Maude Flanders
+        + Krusty
+        + Dr. Marvin Monroe
+        + Karl
+        + Lenny
+        + Barney
+        + Ms. Krabappel
+          Kent Brockman
+          The two cops
+  - Next door is `King Toot's Music Store'
+
+>> The Song
+
+>>> The Words, transcribed with the help of Ron Carter {rc}
+
+When the weight of the world has got you down
+    and you want to end your life.
+Bills to pay, a dead-end job,
+    and problems with the wife.
+But don't throw in the tow'l,
+    'cuz there's a place right down the block...
+Where you can drink your misery away...
+At Flaming Moe's....            (Let's all go to Flaming Moe's...)
+When liquor in a mug            (Let's all go to Flaming Moe's...)
+    can warm you like a hug.                    (Flaming Moe's...)
+And happiness is just a Flaming Moe away...
+Happiness is just a Flaming Moe away...
+
+>>> The Images
+
+    The two cops enjoy a drink (still in uniform)
+    Ms. Krabappel with two sailors
+
+>> The Aristocrat, the dive bar Homer pays a visit to
+
+    + As Homer stepped out of his car
+        + a cop car was chasing another car
+        + a guy being robbed
+        + a striped car
+        + a wino (without shoes) passed out on the sidewalk
+    + The bartender (with the patch over one eye) has a tattoo of a skull;
+        the skull has a patch over the same eye.
+    + Several bullet holes above the pay phone
+
+>> Lionel Hutz's bookshelf
+
+    Our Legal System
+
+>> Homer's hallucination
+
+During Homer's wandering, he passes the TV shop.  On the screens appear:
+
+  - the Chief of Police of Springfield
+  - Krusty
+  - Dr. Marvin Monroe
+  - Kent Brockman
+  - Scratchy getting a stick of dynamite in the mouth (the
+    pictures cuts -right- before it blows up, damn)
+  - an unidentified couple ready to kiss (ala a soap opera)
+
+all the sets then `tune' to Moe's face...
+
+  + Even the bear under Jebediah Springfield looked like Moe.
+
+>> Flaming Moe's knockoffs
+
+  - Flaming Meaux
+  - Famous Moe's, Established Last Night, Best Moe's in Town
+  - Flaming Moe's pushcart
+
+>> Miscellaneous
+
+The Czechoslovakian outlet looked like this:
+
+              | |
+            |    --
+
+===============================================================================
+> Animation and continuity goofs
+===============================================================================
+>> Door hinges
+
+Sandra Ann Salinger (salins@aix.rpi.edu) points out that, since Bart's door
+opens into the room, the hinges would be on the <inside> of the door, and
+the girls couldn't have removed them.
+
+>> Bart's escape
+
+In `Bart vs. Thanksgiving' [7f07] we see that there is a tree within
+easy climbing distance of Bart's window.  But in this episode, Bart
+was forced to make a jump for it.
+
+>> The slide show
+
+First, we see Semla holding the slide projector's remote control, which is
+panel-like, but later while Patty's holding it, it's depicted as being
+trigger-like. {dh}
+
+>> Moe's Tavern
+
+All due to Dave Hall {dh}:
+
+Moe is standing in front of Homer with the blender between them, yet when
+Moe rolled the drink down the bar to the customer, the blender is to one
+side of them.
+
+The lid of the blender disappeared from Homer's hand when he poured the
+two drinks, yet it appears later to be on the top of the blender.
+
+Homer only made enough drink for him and Moe, but after the customer
+complaints about the Love Tester, it appears that the blender is half full
+again. (Taking into account the blender appeared to be empty for one
+scene.)
+
+For a couple of frames, Homer's hand passes under the drink. (i.e. drink
+overlays Homer's hand.)
+
+For some scenes, the bottles on the counter seem to move/disappear/change
+shape.
+
+After Moe places the towel over his shoulder, it disappeared after Mr.
+Bannister asked about the inventor of the `Flaming Moe'.
+
+A FF on Homer falling from the window shows several chain links
+breaking--something that couldn't possibly happen.
+
+>> Miscellaneous
+
+Also due to Dave Hall {dh}
+
+When the Camera pans from the TV room, it appears that Lisa's room is above
+the TV room, yet later, from the back view of the house, Lisa's room is
+over the kitchen.
+
+The note-pad next to the phone only appeared when Bart wanted Homer to say
+his name.
+
+Bart threw the note-pad to the floor, yet when Lisa's friend pointed her
+finger at Bart, the note-pad is nowhere to be seen.
+
+The TV remote disappeared from the couch for one scene.
+
+Only four girls went past Homer as they chased Bart.  (Where did the
+fifth girl go?)
+
+While Homer sat at the dining room table, his Duff beer is placed in
+front of him, but you only see it during one scene only.
+
+===============================================================================
+> Comments and other observations
+===============================================================================
+>> A sappy ending?
+
+Stephen L. Peters {slp}:  Where would Homer and Barney go?  Like any
+sitcom, the rich get richer, and the poor get rich and then blow it all.
+
+Jamie Ide {ji}:  How can you call that a sappy ending?  Moe was about to
+close a million dollar deal and give half to Homer when Homer blew it.
+Moe's was back to being a dive bar (I'm sure Moe squandered his profits)
+and Homer still got no credit for inventing the Flaming Homer.  IMHO, that
+was the least sappy ending so far this season.
+
+>> Potent potables
+
+>>> The Flaming Homer/Moe
+
+Ron Carter {rc} politely provides the recipe:
+    Tequila, Schnapps, Creme De Menthe, and the `secret' ingredient:
+    Krusty's Non Narkotik Kough Syrup For Kids (``Doc'' Krusty on the label)
+
+J. D. Baldwin {jdb} asks, ``If Moe had split the money and the credit for
+the drink with Homer, would it have been called the Flaming Ho-Moe?''
+
+>>> Virgin Moe
+
+Sean Graves (sean@cs.tamu.edu) asks:  So if Lisa had a Virgin Moe, what
+would that be?  Flaming cough syrup?  Hmmm.
+
+>>> Harvey Wallbanger
+
+In case you didn't know, the `Frank Wallbanger' joke was a reference to
+this drink, consisting of orange juice, vodka, and Galiano.
+
+>> Eye on Springfield
+
+You'd have hoped that an Emmy-award-winning reporter wouldn't stoop to the
+level of info-tainment.
+
+J. D. Baldwin {jdb} observes that the episode originally aired during the
+1991 November Sweeps.  ``This is <exactly> the kind of thing that those
+`info-tainment' shows stoop to during sweeps.  I laughed until I stopped.
+Not that I'm bad-mouthing bikini documentaries, you understand.''
+
+>> The wax game
+
+Theron Stanford {tws} thinks that that two different girls played the wax
+game.  ``That's what was so funny--Lisa came up with a really clever idea
+to make the one girl feel good, but then left the other girl hanging.''
+
+>> The jinx
+
+David Hyatt {dh2} explains:  ``If we say something at the same time,
+whoever says JINX last has to be silent until someone says their name.
+Played this all the time with my cousins.  Hours of amusement!''
+
+>> Flaming Moe's bouncer
+
+Some people have suggested that the bouncer was Dreaderick ``I really
+[bleep]ed up bad'' Tatum, but I disagree.
+
+(1) The bouncer's name was Bernard.
+(2) Bernard has a deep voice.  Tatum has a high-pitched voice.
+
+>> Ms. Krabappel
+
+Catherine Stanton {cs}:  Just a word on Mrs. Krabappel (slut).  I've
+always suspected that my teachers were like that after work.  Not only is
+she a slut, but an ugly one at that.
+
+Stephen L. Peters {slp}:  So far, we've seen Ms. K in the back seat of a
+car with a sushi chef and trying to seduce Lisa's substitute teacher.  I'm
+not surprised she'd start hanging around bars if the opportunity arose... 8^)
+
+>> Bart's First Kiss?
+
+Hardly, notes Chris Baird {cjb}.  He presents the Bart Simpson Kiss List:
+
+    kisses    racing slip            [Simpsons Roasting on an Open Fire]
+    kissed by Homer                  [Bart the Genius]
+    kissed by Sherry and Terry       [Homer's Odyssey]
+    kisses    Homer                  [There's No Disgrace Like Home]
+    kissed by Marge                  [Jacques to be Wild]
+    kissed by pretty French brunette [The Crepes of Wrath]
+    kisses    Ms. Krabappel          [Bart Gets an F]
+    kissed by Marge (in dream)       [Bart vs. Thanksgiving]
+    kissed by Lisa                   [Bart vs. Thanksgiving]
+    kissed by Marge                  [Bart the Daredevil]
+    kissed by Homer (twice)          [One Fish, Two Fish, Blowfish, Blue Fish]
+    kissed by pretty lady            [Saturdays of Thunder]
+    kissed by `Susan'                [Flaming Moe]
+
+>> Maggie's First Word?
+
+General consensus is that Maggie's ``Moe'' existed only in Homer's
+hallucination and therefore doesn't count.  (Similar to her, ``It's your
+fault I can't talk!'' in `Bart vs. Thanksgiving'.)  Some believe that
+Maggie actually did say something, but Homer heard it as `Moe'.  Contrary
+evidence:  (1) The rest of the family didn't seem to react much to Maggie's
+alleged first word.  (2) Homer later hallucinated talking daisies, which
+means that he can hallucinate things that simply don't exist.
+
+>> Marge's sarcasm
+
+I was actually mildly shocked by Marge's outburst of sarcasm.  (Which made
+it all the funnier, of course.)  Seemed out of character for her.
+
+>> Aerosmith
+
+Mike Berman {msb} identifies the closing music as `Young Lust' from their
+album `Pump'.
+
+===============================================================================
+> Quotes and scene summary
+===============================================================================
+% [Note:  Aside from Wanda, I made up names for the girls at Lisa's party.
+% Janey is arguably Lisa's best friend, so she'd almost certainly be invited.
+% Susan Hegarty is another of Lisa's classmates.]
+%
+% ``Hello, I'm Kent Brockman, and this is `Eye on Springfield'!''
+% Followed by disco music and an absurd montage of various Springfield
+% sites, with generous helpings of women in bikinis.
+
+Wow!  Info-tainment!
+-- Homer watches `Eye on Springfield', ``Flaming Moe's''
+
+Tonight, we salute the silver anniversary of the Great Springfield Tire Yard
+Fire.  Twenty-five years, and still burning strong!
+-- Kent Brockman hosts `Eye on Springfield', ``Flaming Moe's''
+
+Kent:  We'll watch Springfield's oldest man meet Springfield's fattest man.
+       [caption reads, ``Opposites attract?'']
+Homer: He's not so fat.
+-- Kent Brockman hosts `Eye on Springfield', ``Flaming Moe's''
+
+Kent:  And we visit with heavyweight champion Dreaderick Tatum, who
+       reminisces about growing up in Springfield.
+Tatum: That town is a dump.  If you ever see me back there,
+       you'll know I really [bleep]ed up bad.
+-- A candid interview, ``Flaming Moe's''
+
+But first!  Part seven of our eye-opening look at the bikini!
+-- Kent Brockman hosts `Eye on Springfield', ``Flaming Moe's''
+
+% Whence follows another shameless montage of scantily-clad women.
+
+Whoa!  T and A!
+-- Bart catches a glimpse of `Eye on Springfield's story on bikinis,
+   ``Flaming Moe's''
+
+% Homer asks Bart why he's still up, and (after we hear giggling from
+% Lisa's slumber party upstairs) Bart explains, ``Who can sleep with
+% those five evil hens cackling and plotting against me!''  Scoffs Homer,
+% ``What an ego.''
+%
+% The girls giggle about Bart, then play the candle-wax game.
+
+Janey: Now remember, Wanda, whatever shape the wax takes, that's what
+       your husband's job will be.
+Wanda: [disappointed] It's a mop.  My husband will be a janitor.
+Lisa:  That looks like an Olympic torch to me.  Your husband could be
+       an Olympic athlete who will go on to have a great acting career!
+Wanda: [lets another drop of wax fall]  It's a dustpan.
+Lisa:  The wax never lies...
+-- Lisa's slumber party, ``Flaming Moe's''
+
+% The girls then play Truth or Dare.  Susan (wearing braces) is dared to
+% kiss Bart.  In the kitchen, an unsuspecting Bart gets smooched by Susan.
+% Bart threatens, ``I'm telling Mom and Dad,'' and the girls place the
+% say-it-at-the-same-time jinx on him.  (``You can't talk 'til somebody
+% says your name!'')
+
+Coming up next:  An elephant who never forgets... to brush!
+-- Kent Brockman hosts `Eye on Springfield', ``Flaming Moe's''
+
+Homer: What is it, boy?
+Bart:  Mmph.  Mmph.  Mmph.
+Homer: Is anything the matter, my son?  Talk to me, young man.
+Bart:  [takes a pad and writes, `Say my name'.]
+Homer: Say your name?  Why should I do that, my lad?
+Bart:  Because I'm jinxed, dammit!
+Homer: [punches Bart in the arm]
+Bart:  Ow!  What was that for!?
+Homer: You spoke while you were jinxed, so I get to punch you in the arm!
+       Sorry, it's the law!  Heh heh.
+-- A kid at heart, ``Flaming Moe's''
+
+% The girls spot Bart (``Let's give him a make-over!'') and chase him
+% through the house.  (``Run for it, boy!'')  Bart seeks refuge in his
+% room, but the girls remove the screws from the hinges.  Bart perches
+% precariously on the window ledge and, choosing between two evils, swallows
+% hard and decides to jump.  (Thud.)  The girls turn their attention
+% to the youngest Simpson.  (``Come here, Maggie...'')
+%
+% Homer peers over his newspaper to see a victimized Maggie with make-up,
+% jewelry, and high heels.  ``That's it, I'm outta here.''
+%
+% Homer goes to Moe's Tavern, which is empty save one other customer.
+
+Homer: What's the matter, Moe?
+Moe:   Oh, business is slow.  People today are healthier and drinking less.
+       You know, if it wasn't for the junior high school next door, no one
+       would even use the cigarette machine.
+-- ``Flaming Moe's''
+
+Increased job satisfaction and family togetherness are poison for a
+purveyor of mind-numbing intoxicants like myself.
+-- Moe, ``Flaming Moe's''
+
+% Homer asks for a beer, but the taps are dry.  Moe fell behind on his
+% beer payments, spending his last $10,000 on the Love Tester (a coin-operated
+% gizmo).  Homer tries to suck the last few drops of beer from the taps,
+% but Moe tells him Barney did that already.  (``Cut his gums up pretty
+% bad.'')  Moe reassures Homer that he learned how to make other drinks
+% at bartender's school, blowing an inch of dust off a Cocktail Chart.
+
+Gin and... tonic?  [in disbelief] Do they mix?
+-- Moe dusts off his chart of drink recipes, ``Flaming Moe's''
+
+% Homer tells Moe of a drink he invented.  Flashback time.  One night,
+% he was suffering through yet another of Patty and Selma's slide shows.
+
+Selma: [showing slides]  And this is Patty trying to plug her leg razor
+       into one of those ungodly Czechoslovakian outlets.
+       [next slide, of a hairy-legged Patty]  As you can see, we never
+       did get the hang of it.
+Bart:  Aye, carumba!
+-- ``Flaming Moe's''
+
+% ``As I stared up at that hairy yellow drumstick, I knew I needed a drink.''
+% Homer heads into the kitchen for a Duff, but since Selma took the last one,
+% he has to improvise.
+
+I decided to mix the little bits that were left in every liquor bottle.
+In my haste, I had grabbed a bottle of the kid's cough syrup.
+[mixes them in the blender, pours a glass, gulps it down]
+[waves his hand in front of his face]
+It passed the first test:  I didn't go blind.
+-- Homer creates a new drink, ``Flaming Moe's''
+
+% The slide show continues.  An ash from Selma's cigarette ignites Homer's
+% drink.
+
+I don't know the scientific explanation, but FIRE MADE IT GOOD.
+-- Homer creates a new drink, ``Flaming Moe's''
+
+% Moe invites Homer to make a `Flaming Homer'.  Homer needs cough syrup,
+% and Moe goes through the lost-and-found.  He turns up some cough syrup.
+% It's rather bland, but after you light it...
+
+Wow, Homer, it's like there's a party in my mouth and everybody's invited!
+-- Moe tastes a Flaming Homer, ``Flaming Moe's''
+
+% A customer complains about the Love Tester (``I want my nickel back'') and
+% Moe gives him a Flaming Homer.
+
+Hey, this drink is delicious.  And my phlegm feels looser!
+-- Snake oil not included, ``Flaming Moe's''
+
+% The customer asks what it's called.  Homer explains, ``It's called
+% a Flaming...''  Moe quickly interrupts, ``Moe.  It's called a Flaming
+% Moe.  That's right, a Flaming Moe.  My name is Moe, and I invented it.
+% That's why it's called a Flaming Moe.  What, what are you looking at
+% Homer?  It's a Flaming Moe, I'm Moe.''
+%
+% [End of Act One.  Time: 7:00]
+%
+% Moe's Tavern is packed with customers, all drinking Flaming Moe's.
+
+Barney: [discovers the salad bar]  Hey, what's this?
+Moe:    A sneeze guard.
+Barney: [sneezes, spewing snot all over the sneeze guard] Wow, it really works!
+-- An ounce of prevention, ``Flaming Moe's''
+
+Moe, I haven't seen the place this crowded since the government cracked down
+on you for accepting food stamps.
+-- Homer, ``Flaming Moe's''
+
+% It's clear the it's the Flaming Moe that is drawing the customers.
+% A pretty woman applies for the waitress position and gets it (after
+% some lascivious comments from Moe and an insulting rejoinder).
+% ``You shan't regret this.''  Harv Bannister from Tipsy McStagger's
+% Good-Time Drinking and Eating Emporium offers to buy the recipe.
+% (Moe doesn't quite understand that `Tipsy McStagger' is merely the
+% name of the company; he thinks there really is a Mr. McStagger.)
+
+The Flaming Moe is not for sale.  Do you know how much of my blood
+and sweat are in this drink?
+[everybody in the bar spits out their drink]
+Uh, figure of speech.
+-- Moe refuses to sell out, ``Flaming Moe's''
+
+% Mr. Bannister surreptitiously pours a Flaming Moe into a container for
+% future analysis.  Barney is pleased.  ``Good for you, Moe.  Only an
+% idiot would give away a million-dollar idea like that!''  Homer is not
+% pleased.  At school...
+
+Martin: So the next time you use a gas chromatograph, remember to thank
+        Mr. A. J. P. Martin.
+Ms. K:  [applauding]  Oh, brilliant, Martin, brilliant!  Once again, you've
+        wrecked the grading curve.  Oh, I pity the poor student who has
+        to follow you.  [consults her sheet]  Bart Simpson, you're next.
+-- ``Inventors We Admire'' day, ``Flaming Moe's''
+
+The Inventor I Admire, by Bart Simpson.
+The inventor I admire is not a rich man or a famous man or even a smart
+man.  He's my father, Homer Simpson.
+-- ``Flaming Moe's''
+
+% Bart proclaims that Homer invented the Flaming Homer, but everybody
+% knows that Moe invented it.
+
+Bart: My father invented that drink, and if you'll allow me to demonstrate...
+      [pulls out of brown paper bag a blender and bottles of liquor]
+Ms.K: Bart, are those liquor bottles?
+Bart: [as if this excused it] I brought enough for everybody.
+Ms.K: Take those to the teachers' lounge!  You can have what's left at the
+      end of the day.
+-- ``Inventors We Admire'' day, ``Flaming Moe's''
+
+% Moe erects a neon `Flaming Moe's' sign atop his tavern, and Flaming Moe's
+% becomes The Place To Be.  Krusty arrives with a date and punches out a
+% photographer.
+
+Quimby:  Henceforth, this date shall forever be known as Flaming Moe's Day!
+Advisor: Uh, sir, this is already Veterans' Day.
+Quimby:  It can be two things!
+-- Serving one's country, ``Flaming Moe's''
+
+% Moe makes the cover of magazines with his new drink.
+% At the Simpsons dinner table, Lisa asks if, instead of milk, she can have
+% a Virgin Moe, and Homer growls.  Bart arrives with a `I got toasted at
+% Flaming Moe's' T-shirt.  Homer orders Bart to take it off, so he does.
+% Bart eats dinner shirtless.  Marge suggests Homer talk to Moe.  Homer
+% refuses.  Too upset to eat, he decides to go to Moe's.  (``D'oh!'')
+% But he can't get past the bouncer.  Inside Moe introduces his new friends.
+
+Moe:       How about a warm Flaming Moe's welcome for... Aerosmith!
+Aerosmith: Nah, I don't think so Moe, we're just hanging out, etc.
+Moe:       C'mon guys, free pickled eggs!
+Aerosmith: Awright!  Yeah!  [head onstage]
+-- The price of fame?  ``Flaming Moe's''
+
+% They play `Walk This Way'.  Karl and Len enjoy their Flaming Moe's, but
+% Len forgets to extinguish the flames before he drinks it.  His hair
+% catches on fire as a result.  Jasper is in the crowd.  Otto dances with
+% Princess Cashmere atop the table the Flanderses are at.  Homer sneaks
+% in the bathroom window and is surprised to see a well-dressed Barney.
+% Barney introduces his friends Armondo and Ralphy.  Moe joins Aerosmith
+% on stage.
+
+Ms.K:  [heavy make-up, in a tube top]  Hiya, scrumptious.
+       Do you want to ignite my drink?
+Homer: You're my kid's teacher!
+Ms.K:  Single parent, are we?
+Homer: No!
+Ms.K:  [lasciviously]  Well, let's pretend you are...
+-- Ms. Krabappel lets it all hang out at... ``Flaming Moe's''
+
+% Homer tracks down Moe and asks him, ``How could you do this?''
+
+If there was any justice, <my> face would be on a bunch of crappy merchandise.
+-- Homer gripes about Moe's phenomenal success, ``Flaming Moe's''
+
+% The waitress asks Moe if what Homer says is true.  The phone rings.
+
+Moe:  [answering the phone] Flaming Moe's.
+Bart: Uh, yes, I'm looking for a friend of mine.  Last name Jass.  First name
+      Hugh.
+Moe:  Uh, hold on, I'll check.  [calling]  Hugh Jass!  Somebody check the
+      men's room for a Hugh Jass!
+Hugh: Uh, I'm Hugh Jass.
+Moe:  Telephone.  [hands over the receiver]
+Hugh: Hello, this is Hugh Jass.
+Bart: [surprised]  Uh, hi.
+Hugh: Who's this?
+Bart: Bart Simpson.
+Hugh: Well, what can I do for you, Bart?
+Bart: Uh, look, I'll level with you, Mister.  This is a crank call that
+      sort of backfired, and I'd like to bail out right now.
+Hugh: All right.  Better luck next time. [hangs up]  What a nice young man.
+-- Nobody's perfect, ``Flaming Moe's''
+
+% Moe explains to Homer that it's nothing personal. ``This is business.''
+% Homer angrily tells Moe he's lost a customer, but he can't make himself
+% heard over the crowd and Moe's cash register.  (``Yeah, you can use it!'')
+%
+% [End of Act Two.  Time: 14:16]
+
+When the weight of the world has got you down
+    and you want to end your life.
+Bills to pay, a dead-end job,
+    and problems with the wife.
+But don't throw in the tow'l,
+    'cuz there's a place right down the block...
+Where you can drink your misery away...
+At Flaming Moe's....            (Let's all go to Flaming Moe's...)
+When liquor in a mug            (Let's all go to Flaming Moe's...)
+    can warm you like a hug.                    (Flaming Moe's...)
+And happiness is just a Flaming Moe away...
+Happiness is just a Flaming Moe away...
+-- Cheers to ... ``Flaming Moe's''
+
+Barney:    [comes into Flaming Moe's]
+All:       Barney!
+Bartender: How's the world treating you, Mr. Gumbel?
+Barney:    [belch]
+-- Cheers to ... ``Flaming Moe's''
+
+% Harv returns and offers Moe $1 million for the drink, warning that
+% their lab has nearly completed their analysis of the drink.
+
+Brace yourselves, gentlemen.  According to the gas chromatograph, the
+secret ingredient is...  Love!?  Who's been screwing with this thing!
+-- Prof. John Fink's attempt to discover the recipe for a Flaming Moe,
+   ``Flaming Moe's''
+
+% Moe refuses.  ``The secret ingredient dies with me.''  Thirty cases
+% of cough syrup are delivered, and Moe tries to laugh it off.
+%
+% Homer pays a visit to his new watering hole, a seedy run-down bar.
+% Moe gets to be on TV.
+
+Kent: Next on `Eye on Springfield',
+      a toast to Moe! the Wizard of Walnut Street.
+Moe:  The Flaming Moe dates back to my forefathers who were bartenders to the
+      czar.
+-- Continuing the tradition of rewriting history, ``Flaming Moe's''
+
+% Marge and Homer pay a visit to Lionel Hutz.
+
+Marge: So, Mr. Hutz, does my husband have a case?
+Hutz:  I'm sorry, Mrs. Simpson, but you can't copyright a drink.
+Homer: [whines]  Oh!
+Hutz:  This all goes back to the Frank Wallbanger case of '78.
+       How about that!  I looked something up!
+       These books behind me don't just make the office look good,
+       they're filled with useful legal tidbits just like that!
+-- The Great Hutzby, ``Flaming Moe's''
+
+% At home...
+
+Homer: [grumbles]  Stupid Moe, non-inventing, recipe-stealing, pug-nosed...
+Marge: Well, Homer, maybe you can get some consolation in the fact that
+       something you created is making so many people happy.
+Homer: [sickly sweet]  Oh, look at me!  I'm making people happy!
+       I'm the Magical Man from Happy-Land, in a gumdrop house on
+       Lollipop Lane!  [leaves the room, slamming the door]
+       [pokes his head back in]  Oh, by the way, I was being sarcastic.
+       [closes the door]
+Marge: Well, DUH!
+-- ``Flaming Moe's''
+
+% Moe and the waitress are in bed.
+
+Now <that's> what I call a Happy Hour.
+-- Moe in bed with the waitress, ``Flaming Moe's''
+
+Woman: Morris, something troubles me.
+Moe:   Don't worry, baby, my mother won't be home for another 20 minutes.
+-- Moe and the waitress in bed, ``Flaming Moe's''
+
+% The woman thinks Moe should sell the drink and give half the money to
+% Homer.  Moe gives in, ``Jeepers, Mary and Joseph, I sleep with a chick
+% once, it costs me half a million bananas!''
+%
+% At the breakfast table...
+
+Homer: [mumbling]  Moe... Moe... Moe...
+Marge: Bart, are you going to mow the lawn today?
+Bart:  Okay, but you promised me mo' money.
+Marge: I mo, I mo.
+Homer: [mumbling]  Moe... Moe... Moe...
+Lisa:  When Bart's done, can we mo to the moe-vies?  There's a moe-tinee.
+Marge: Of course!  All work and mo play makes Moe a moe moe.
+Bart:  Moe moe moe moe moe?
+Marge: Moe moe moe.
+Lisa:  Moe moe-moe-moe-moe moe.
+Bart:  Moe-moe-moe moe.
+Maggie: [removes her pacifier]  Moe.
+-- Moe Better Blues (or... Persistence of Moe-mory), ``Flaming Moe's''
+
+% Still mumbling, ``Moe... Moe..'', Homer wanders trance-like out into
+% downtown Springfield, where everybody (even the women and the kids)
+% are likenesses of Moe.  He falls down in the grass, and even the nearby
+% daisies have Moe's face.  Homer screams in panic.
+%
+% At Moe's, Aerosmith are entertaining the customers, then realize that
+% Joey is missing.
+
+Joey: Mrs. Krabappel, I really need my drumsticks.
+Ms.K: [lasciviously playing with the drumsticks]  Come and get 'em...
+-- ``Flaming Moe's''
+
+% Moe agrees to sell, and Harv confides that their usual method is merely
+% to steal the recipe.  Before Moe can sign, a voice cackles from the rafters.
+% It's Homer.  ``Fools!  You poor, pathetic misguided creatures...''  Despite
+% Moe's attempt to stop him, Homer reveals the secret ingredient as cough
+% syrup.  Harv quickly takes the contract and tears it up.  (``Thank you,
+% Mister Nutball.'')  Laughing diabolically, Homer loses his balance and
+% falls to the floor.  Says Barney, ``Holy cow!  You just fell on Aerosmith!''
+%
+% One week later, the town is filled with Flaming Moe's knockoffs.
+% Moe invites Homer in.
+
+Homer: Where's that waitress of yours?
+Moe:   Oh, she left to pursue a movie career.  Frankly, I think she
+       was better off here.
+-- ``Flaming Moe's''
+
+% Homer apologizes for losing Moe a million dollars, and Moe says, ``Maybe
+% some things are too good to be kept a secret.''  Moe gives Homer a
+% Flaming Homer, compliments of the house.  ``Aw, thanks Moe.  You're the
+% greatest friend a guy could ever have.
+% Hey, you think Aerosmith will be in tonight?''  ``I doubt it.''
+%
+% [End of Act Three.  Time: 20:29]
+%
+% Aerosmith performs in lieu of the closing music.  [Time: 1:02]
+===============================================================================
+Episode summaries Copyright 1991-1992 by Raymond Chen.  Not to be redistributed
+in a public forum without permission.  (The quotes themselves, of course,
+remain the property of The Simpsons, and the reproduced articles remain
+the property of the original authors.  I'm just taking credit for the
+compilation.)
+</PRE>

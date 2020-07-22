@@ -1,0 +1,1855 @@
+Homer Phobia                                              Written by Ron Hauge
+                                                  Directed by Mike B. Anderson
+==============================================================================
+Production code: 4F11                       Original Airdate on FOX: 16-Feb-97
+Capsule revision A, 18-Oct-97
+==============================================================================
+> "TV Guide" Synopsis  {jmb}
+==============================================================================
+   The Simpsons make friends with a kitsch collector.  But the fact that
+   he's gay makes Homer fearful of his potential influence on Bart.
+
+==============================================================================
+> Title sequence
+==============================================================================
+Couch      :- On a MacIntosh computer screen, an empty couch lies within
+              an "America Onlink" window.  The pointer is dragged and
+              clicked on "Load Family", which starts downloading
+              artwork.  "Please wait..." instructs the program, as the
+              first item out of five is fetched.  The Simpsons theme
+              stays on hold as the process bar fills up at snail pace.
+              The pointer is then dragged on "Exit", with several
+              frustrated clicks, to no avail.
+
+==============================================================================
+> Did you notice...
+==============================================================================
+   ... this is the first couch gag where no family members show up?
+   ... Homer's jar of pennies is stamped with a 32 cent stamp?
+
+Dale G. Abersold:
+   ... the "Fudd" ad at Cockamamie's?
+
+Matthew Anscher:
+   ... the Sha-Boom-Ka-Boom Cafe was shaped like a mushroom cloud?
+   ... the sparks coming out of Annual Gift Man's mouth?
+
+Frederic Briere:
+   ... Cockamanie's takes MasterCard?
+
+James R. Curry:
+   ... the gas bill conveniently works out to exactly $900.00?
+   ... there is no state shown on the Gas Company address, or the
+       Simpsons home address on the top of the repair bill?
+   ... one of the crackers in Marge's platter has a different smile to
+       the others, more of a V shape?
+   ... Homer is mistaken, Smithers isn't straight, and he's certainly
+       been in OFF's house?
+   ... Marge takes a photograph of a landmark in her own town?
+   ... Homer refuses food?
+   ... the two Duff lorries which pass on the bridge as Homer sits bart
+       down?
+   ... the smashed window in the steel mill?
+   ... Moe says "It's suicide again for me" indicating he's tried to 
+       kill himself before?
+
+Joshua Fruhlinger:
+   ... Homer, Barney, and Moe run in fear from the reindeer, even though
+       they have easy access to firearms?
+
+Jason Hancock:
+   ... the "Astro Blast" video game in the store?
+   ... the 8-ball and snow globe on the female cashier's desk?
+   ... John considers Maggie three-tenths of a child?
+   ... Homer drinks black coffee and eats a chocolate doughnut?
+   ... Bart has to choose between Hostess Cup Cakes(tm) and Sno
+       Balls(tm)?
+   ... Moe's now has a Laramie High Tar cigarette ad?
+   ... Moe and Barney don't ride home with John?
+
+Joe Klemm:
+   ... the national park in Springfield has Astroterf?
+
+Haynes Lee:
+   ... Simpsons have a natural gas dryer?
+   ... Cockamamie's is a sexual innuendo?
+   ... John's coffee mug is shaped like the Olmec head?
+   ... clock in Cockamamie's same as in Simpsons garage in [9F18]?
+   ... the TV Guide has Jackie O's New York address on it?
+
+Ondre Lombard:
+   ... Marge would rather sell what she thought was a Civil War figurine
+       instead of first opting to sell the expensive Ixtapolapoquetl?
+   ... Maggie shakes the can of cheese before eating it?
+   ... no one wears seatbelts in John's car?
+   ... there is a butt-line drawn on Roscoe's rear?
+   ... the double entendre of "Is it okay to come out now, Mr. Gay Man?"
+   ... how irresponsible it is of Marge to drive in a car with Maggie
+       without having Maggie properly seat-belted?
+
+Dallas Pesola:
+   ... Springfield 'Hollywood' letters in the hills?
+   ... Homer calls John a "buttinski".  Get it?  Butt-In-Ski?
+   ... Homer's gun was smoking in one of the hunting fireside frames?
+   ... John's horn played "Somewhere Over The Rainbow"?
+   ... Helen Lovejoy's "cuffs and the collar don't match" (allegedly)?
+       Meaning her hair is dyed blonde?
+
+John Plasket:
+   ... the TV guide owned by Jackie Onassis costs $8500?
+   ... said TV Guide resembles the madness at the Jackie Onassis
+       auction?
+
+Sean O'Neal:
+   ... Bart owns other clothes?
+   ... not only is Todd playing with Bart, he's GAMBLING?
+   ... the "I Fell for Dole" button?
+   ... when John shows off his bowling shirt, Homer looks right at the
+       "Homer" nametag, yet says nothing?
+
+Mark Aaron Richey:
+   ... the Krusty signholder?
+   ... the pink flamingo beside John?
+   ... the trolls that look like Homer with green hair?
+   ... Homer and Bart are watching bowling when John comes in?
+   ... Homer has bear slippers?
+   ... the women in the billboard manage to have a pillow fight while
+       holding lighted cigarettes (isn't that kind of dangerous)?
+   ... Homer apparently shoots a smily face into a tree?
+   ... the fuel of the fire is a tire?
+
+Cole Rieger:
+   ... John doesn't notice Homer as the man from the back of shirt?
+
+Benjamin J. Robinson:
+   ... it's the sneaker (#12) that causes the dryer to jam?
+        [ironic, since it was the only item you'd expect to find in a
+        dryer --ed]
+   ... the guys leave their campfire while it's still burning?
+
+Donni Saphire-Bernstein:
+   ... Skinner, a possible "Homer Sexual" as we recall, is featured in
+       the beginning of the scene in the antique shop?
+
+Liam J. Scanlam:
+   ... this is the first episode written by Ron Hauge?
+   ... the zapper gun John had was Rexma's Atomic Disembobulator?
+   ... Ron Hauge was both writer and story editor in this episode?
+
+==============================================================================
+> Voice credits  {dga}
+==============================================================================
+- Starring
+   - Dan Castellaneta (Homer, Steel Mill Worker #1, Barney)
+   - Julie Kavner (Marge)
+   - Nancy Cartwright (Bart, "Cockamamie's" salesgirl)
+   - Yeardley Smith (Lisa)
+   - Hank Azaria (Steel Mill Worker #2, Steel Mill Worker #3, Steel Mill 
+      Worker #4, Moe, Annual Gift Man)
+   - Harry Shearer (Skinner, Smithers, Roscoe)
+- Special Guest Voice
+   - John Waters (John)
+- Also Starring
+   - Pamela Hayden (Milhouse)
+
+==============================================================================
+> Movie (and other) references
+==============================================================================
++ America On-line (AOL)
+   - "America On-Link" name and logo similar
+
++ Bob Dole's Presidential campaign  {bjr}
+   - "I fell for Dole" button refers to the fall Dole took from a
+     platform while campaigning
+
++ Eisenhower's presidential campaign  {hl}
+   - "I Like Ike" was the slogan of his campaign
+
++ The infamous "potatoe" Quayle incident  {hl}
+   - "Quayle Can't Fayle"  [see 7F01 for details]
+
++ "Forbidden Planet", 1956 sci-fi classic starring Leslie Nielsen  {ma}
+   - The poster of "Clank, Clank, You're Dead!" looks like that of this
+     film.
+
++ "Laverne and Shirley" and "Mork and Mindy", two spinoff series from
+      "Happy Days"  {hl}
+   - "Laverne and Shirley" is mentionned on the TV Guide
+   - John says that Jackie "thought Mindy lived with `Mark'"
+
++ "Pink Flamingos" (1972 cult classic film)  <b>{ma}</b>
+   - The pink flamingo in Cockamamie's
+
+  "Bull Run", the first major American Civil War battle
+   - "That'll make your bull run"
+
++ "Over the Rainbow" from "The Wizard of Oz"
+   - John's car horn plays this song
+
+- Tokusatsu/anime  {ol}
+   - In Japan, most creatures and characters have names that are often
+     descriptions of them like "Annual Gift Man."
+
+  Boston Marathon  {hl} {sp}
+   - Rosie Ruiz won the marathon, but was later disqualified for
+      allegedly cheating.
+
++ "Sha-boom, Sha-boom" - ?  {hl}
+   - Sha-Boom, Ka-Boom Cafe
+
++ "The Shoop Shoop Song (It's In His Kiss)" - Betty Everett (1964)  {dp}
+   - Played while Bart dances with a wig
+
++ "Hairspray", movie directed by John Waters  {dga}
+   - Bart's wig resembles Ricki Lake's bouffant
+
++ "Gonna Make You Sweat (Everybody Dance Now)" - C&C Music Factory  {dp}
+   - Played at the steel mill / over the credits
+
++ "It's Raining Men" - The Weather Girls (1983)
+   - "when it starts raining naked ladies"  [See 2F08 for details]
+
+  "Billy Jack", 1971 movie  {hl}
+   - A father tells his son to shoot fenced-in wild horses
+
+==============================================================================
+> Previous episode references
+==============================================================================
+- Bart more-or-less gay references  {hl}
+   - [9F02] Gave Lisa advice on how to win beauty pageant
+   - [9F13] Would have dressed up like Lisa to go to Krusty show as
+            Ralph Wiggum's date
+   - [9F20] Imagined himself dressed up like woman to knock out prison
+            warden
+   - [2F18] Wore skirt to match socks
+
+- Non-Smithers Gay References  {hl}
+   - [7F02] Homer has a gay male secretary
+   - [7F15] Bart's "Homer Sexual" phone prank
+   - [8F16] Homer's three simple words: "I am gay"
+   - [8F18] Bart says Boswell of the "Worst Dressed" lists is "such a
+            bitch"
+   - [9F04] Patty loses the last of her heterosexuality after seeing
+            Homer naked
+   - [9F07] Homer says someone from "Leave it To Beaver" were gay
+   - [9F13] Homer's six simple words: "I'm not gay, but I'll learn"
+   - [9F22] McBain tells some off-color homosexual jokes
+   - [9F22] Selma hates Patty for always leaving the toilet seat up
+   - [1F12] Lisa made family march in gay rights parade
+   - [1F14] Carl thinks that Homer said that he and Flanders are gay
+   - [1F18] Bart instructs Skinner to make pass at his commanding
+            officer
+   - [2F07] Homer accidently leafs through a Robert Mapplethorpe book
+   - [2F08] Homer finds himself in a lesbian bar
+   - [2F09] Grampa is president of Gay and Lesbian Alliance
+   - [2F11] Kent Brockman lists who is gay
+   - [2F14] Homer pronounces Uruguay "U-R-Gay"
+   - [2F31] Homer tricks Sherman into telling Patty & Selma that
+            MacGyver's gay
+   - [3F15] Troy McClure tells Selma he's not gay but wished he was
+   - [3F16] Amendment-to-be threatens to tell that Ted Kennedy is gay
+   - [3F20] Homer says the "we're here, we're queer" chant
+   - [3F22] Lisa says Gore Vidal has kissed more boys than she ever will
+   - [3F24] Homer phones up a GBM (gay black male) he finds in the
+            personal ads
+   - [4F02] Kodos and Kang disguised as Clinton/Dole clones constantly
+            hold hands to exchange long protein strings
+   - [4F06] Patty photographed walking out of burlesque house
+   - [4F11] Well, d'uh!
+
+- Crossdressing References  {hl}
+   - [7F08] Homer wears Marge's Sunday dress mowing lawn after bet with
+            Flanders
+   - [7F08] Flanders wears Maude's Sunday dress mowing lawn. Reminisces
+            about wearing dresses during his fraternity days
+   - [8F18] Flanders reminisces about playing Blanche Dubois in
+            "Streetcar Named Desire" during his fraternity days
+   - [9F09] Barney gives Homer a bikini thinking he's getting a
+            sex-change operation
+   - [9F12] Woman who looks like Homer driving station wagon
+   - [9F16] Grampa reminisces about being saloon barmaid
+   - [9F18] Grampa reminisces about being German cabaret singer
+   - [9F20] Homer wears Marge's wedding dress
+   - [9F22] Grampa turns into woman after missing medication
+   - [1F07] Homer imagines Barney in a bikini during "unsexy thoughts"
+   - [1F14] Homer imagines himself with Marge's hair
+   - [1F16] Milhouse dresses up like girl for audition
+   - [2F05] Bart does ballet and "dances like a girl"
+   - [2F12] Plastic surgeon gives Krusty a boob job
+   - [2F18] Bart wears skirt to match socks
+   - [2F20] Skinner caught putting on mother's makeup
+   - [2F21] Homer wears Marge's underwear but only as a "comfort thing"
+   - [2F31] Chief Wiggums looks forward to chance to wear makeup when
+            making movie
+   - [2F31] Dr. Hibbert dresses up like Frankfurter from "The Rocky
+            Horror Picture Show"
+   - [3F17] Bart, Milhouse, Martin and Nelson wear wigs
+   - [3F19] Burns obstructs J. Edgar Hoover probe
+   - [3F19] Burns dresses up like Marge
+   - [3G01] Photograph of J. Edgar Hoover in dress
+   - [4F11] Bart wears wig while singing to the Shoo-Shoo song
+
+
+- [SC#14] Overpriced novelty items are sold  {jh}
+- [MG48] Homer watching a bowling tournament  {ol}
+- [7G08] A mechanical Santa goes "Ho, ho, ho"  {jh}
+- [7G09] Homer and Bart go hunting  {ljs}
+- [7G13] Homer says "Geez Louise" (cf. Marge says "Geez Louise")  {ol}
+- [7F02] Homer is friends with a man he doesn't know is gay
+- [7F06] Homer is badly injured while trying to teach Bart a lesson
+         {ljs}
+- [7F15] The "Homer Sexual" line is similar to the title  {jp}
+- [7F22] Homer eating his pillow  {ol}
+- [8F04] "Dead Eye" BB guns are seen  {jh}
+- [8F23] The Simpsons' dryer wobbling out of control
+- [9F08], [3F31] The only other couch gags more than 4 seconds long
+         {ljs}
+- [1F20] Homer embarrassing himself by choking Bart in the eyes of
+         company  {ol}
+- [2F08] Raining Men  {hl}
+- [2F08], [3F14] A gay or lesbian nightclub is seen  {jh}
+- [2F22] Bart wears a wig  {jh}
+- [3F02] Crazy crap on the walls  {jh}
+- [3F03] Lisa's vegetarianism is mentioned
+- [3F09] Skinner acting finicky buying something at flea market  {hl}
+- [3F10] The "Pin Pals" shirts
+- [3F14] A man walks around in a gay facility wearing just a bikini
+         {ljs}
+- [3F14] Smithers is seen with another man besides Burns  {ljs}
+- [3F17] Bart in a wig  {ol}
+- [3F18] Maggie is associated with cheese spray is some way  {ljs}
+- [3F31] Johnny Reb  {jp}
+- [4F01] Homophobia on The Simpsons ("You kissed a girl!  That is SO
+         gay!")  {ol}
+- [4F03] The Simpsons at a mall store with a lot of useless junk  {ol}
+
+==============================================================================
+> Freeze frame fun
+==============================================================================
+- Couch opening  {hl}
+
+   ----------------------------------------------------------------
+  | O                       The Simpsons                         - |
+  |----------------------------------------------------------------|
+  |             _______________________________________________    |
+  |  America    |                                              |   |
+  |  Onlink     |                                              |   |
+  |             |   _____________________________________      |   |
+  |  --------   |  |    Adding artwork. Please wait...   |     |   |
+  | |  LOAD  |  |  |                                     |     |   |
+  | | FAMILY |  |  |  *******..........................  |     |   |
+  |  --------   |  |       Receiving item 1 of 5         |     |   |
+  |  --------   |   -------------------------------------      |   |
+  | |  EXIT  |  |                                              |   |
+  |  --------    ----------------------------------------------    |
+   ----------------------------------------------------------------
+
+
+- Balls in the lottery  {jh}
+    1 and 2 - baseballs
+    3, 4, 5, and 6 - tennis balls
+    7, 8, and 9 - oranges
+    10 - apple
+    11 - cantaloupe
+    12 - pink shoe
+
+
+- Kids attending the Jackpot  {mar}
+   - Bart, Milhouse, Lewis, Ralph, Richard, Todd and someone else
+
+
+- Gas bill
+
+   [flame]  SPRINGFIELD GAS COMPANY
+
+   Homer Simpson
+   742 Evergreen Terrace
+   Springfield, USA
+
+   +------------------------------------+
+   |+----------------------------------+|
+   ||    R e p a i r   B i l l         ||
+   ||                                  ||
+   || [???] .................... [???] ||
+   || [???] .................... [???] ||
+   || [???] .................... [???] ||
+   || [???] .................... [???] ||
+   ||                                  ||
+   || Total .................. $900.00 ||
+   |+----------------------------------+|
+   | .................................. |
+   | ......[fine print legalese]....... |
+   | .................................. |
+   +------------------------------------+
+   ..........[other legalese]............
+
+
+- Homer's retirement fund / jar of pennies  {hl}
+
+                            [32c stamp]
+
+     Springfield Gas Co.
+     P.O. Box 2323
+     Springfield USA
+
+
+- Springfield Mall Stores  {hl}
+  - One Size Fits All Lingerie
+  - Simply Shoes
+  - Cockamamie's (Antique store)
+  - Springfield Hunting Supplies
+
+
+- Buttons in display case  {hl} {mar}
+  - "Harrison"  (on top of a medal, can't read the writing)
+  - "I Fell for Dole"
+  - "[can't read] for Ford"
+  - "Quayle Can't Fayle"
+  - "I Like Ike"  (Eisenhower)
+  - "I Still Like Ike"  (w/ his picture)
+  - "Click with Dick"  (w/ Richard Nixon's picture)
+  - "Carter"  (on a peanut)
+
+
+- The almost-complete "Cockamanie's" collection  {bjr}
+
+   - When the family walks into the store:
+
+      - First bookshelf:  football, piqata kind of thing, Tonka-type
+         steam-shovel, Godzilla toy, piggy bank, box (like the kind that
+         might hold a board game) with a seagull on it, Uncle Sam wall
+         decoration, pink flamingo
+
+      - Second bookshelf:  statue of a man on a horse, Easter Island
+         head, deep-sea diver helmet, toy robot, lampshade (black and
+         white spots), old-fangled radio, black-and-yellow figurine (who
+         looks a bit like the Bumblebee Man), another toy robot,
+         stoplight, cola bottle, fish wall decoration, flower wall
+         decorations
+
+      - Elsewhere:  ceiling lamp (the kind with the cylindrical shade
+         that was bowed out in the middle), Astro Blast arcade game
+
+   - As Skinner looks at the campaign buttons:
+
+      - On the wall:  Banana poster, "Drink Moxie" poster, "Fudd"
+         poster, "Happy Cat" clock
+
+      - In case:  50's era table radio, toy spaceships, magic 8-ball
+         (well, this was really <on> the case, rather than in it)
+
+   - As Skinner walks away:
+
+      cuckoo clock, rolling toy phone, slot machine, troll dolls, Tonka
+      steam-shovel, robot, rockets, Rex Mars Atomic Discombobulator
+      board game, Godzilla
+
+   - As Lisa looks around:
+
+      - On our left:  diving helmet, lamp shade (both from the opening
+         shot), funky sunglass collection, traffic light
+
+      - On our right:  box with something that reminds me of an owl's
+         head on it, desk lamp, another clock, gooseneck lamp (with
+         goose head- shaped shade), bowling pin, gumball machine, pay
+         phone, record player, pyramid lamp (didn't Patty and Selma own
+         one of these?)
+
+      - On the wall, near the ceiling:  Route 66 sign, Buzz Cola
+         advertisement with leggy model, ad with a baseball player,
+         another ad with a brontosaurus
+
+   - As the kids discover the robot:
+
+      "At the hop" sign (shaped like a record), wall dial thermometer,
+      license plates, toddler bike, trash can with flowers on it,
+      bowling pin lamp, "Clank, Clank, You're Dead" movie poster
+
+   - As Marge sees the TV guide:
+
+      - Along the wall:  pogo lamp (the kind where a pole was held in
+         place by friction along the ceiling and floor, with lights
+         suspended from the pole), seat made from the trunk of a '57
+         Chevy, mobile, Marilyn Monroe poster (the pose where she holds
+         her skirt down)
+
+      - On the shelf behind Marge:  model diner, tractor, big pink mouse,
+         model motorcycle, old radio, Buzz Cola blimp, tabletop jukebox
+         controller, jar shaped like an ice cream float, model carousel,
+         model of a old-fashioned gas pump, kiddie car, figurines
+
+   - When John makes his entrance:
+
+      - Behind John:  flying eyeball sign, futuristic television
+
+      - In the case:  pumpkin-shaped jar, Faberge egg
+
+   - When Marge presents the figurine:
+
+      many of the things seen earlier, plus Buzz Cola napkin and straw
+      dispensers
+
+   - As a disappointed Marge picks up her figurine:
+
+      - Along wall:  many of the things seen earlier, plus "Ojo de Dios"
+         wall hanging, different kind of pogo lamp with cylindrical
+         shades
+
+   - When Homer says no kid is worth a $50 board game:
+
+      many of the things seen when Skinner tries to find a button, plus
+      Rat Fink-esque hot rod toy, robot toy in box, cowboy clock, piggy
+      bank
+
+   - When Homer says a grown man shouldn't like campy stuff:
+
+      - Bottom shelf:  red wagon, lunch boxes
+
+   - As John explains what camp is:
+
+      toy guitar, toy dog, "Dead Eye" BB gun, clapping monkey with
+      cymbals
+
+
+   Whew!  We're done!
+
+
+- The movie poster  {bjr}
+
+                       A
+                    MECHANICAL
+                        MAN...
+
+              [robot     ... WITH
+              carrying        THE
+               woman]        HEART
+       CLANK                 OF A
+         CLANK              MONSTER!
+
+           YOU'RE          DEAD
+
+
+- TV Guide  {hl}
+
+   "Laverne and Shirley. Too daring for TV?"
+
+
+- Selections from Homer's record collection  {bjr}
+   - The New Christy Minstrels (I think this is an actual album cover,
+      by the way)
+   - Ballads of the Green Berets, by SSgt. Barry Sadler
+   - Loony Luau
+   - The Wedding of Lynda Byrd Johnson
+
+
+- Outside the Sha-Boom, Ka-Boom Cafe
+
+      LITTLE BOY   3.95
+        FAT MAN   12.95
+
+
+- Final scene  {hl}
+
+        DEDICATED TO
+      THE STEELWORKERS
+         OF AMERICA
+
+     KEEP REACHING FOR
+        THAT RAINBOW!
+
+==============================================================================
+> Animation, continuity, and other goofs
+==============================================================================
+*  "Laverne and Shirley" was well established when "Mork and Mindy" hit
+   the airwaves. A TV Guide with the latter show as a crossword clue
+   wouldn't be questioning Laverne and Shirley's ability to stay on the
+   air.  {bjr}
+
+=  Homer's name only appears above the left pocket on the Pin Pals shirt
+   after it's revealed to be a Pin Pals shirt.  {ljs}
+
+*  Homer's shirt would definitely not fit John.  {bw}
+
+*  How come John never recognized Homer by the bowling shirt he was
+   wearing?  {ol}
+
+=  When Homer walks into the kitchen, the doughnuts on the platter are
+   all brown, and there are four. When Homer goes to get a doughnut,
+   only one is brown and there are only three.  {ol}
+
+=  When Homer takes a chocolate doughnut, there are still as many
+   doughnuts on the platter as there were before he took the doughnut.
+   {ol}
+
+=  When homer learns that his friend is gay he is wearing some sort of
+   pajamas, but when the show returns from commercial he is wearing his
+   usuall blue pants and white shirt.  {bm}
+
++  Despite Homer's comment, a gay person (i.e., Waylon Smithers) was in
+   the Simpson house in 7F18.  {jh}  [Of course, Homer might not have
+   figured that out yet, but Marge should've --ed]
+
++  Marge seemed a bit homophobic in 3F22 when Lisa said Gore Vidal's
+   kissed more boys than she ever will.
+
+-  Marge Bart, and Lisa manage to "Ooooh" at the plumbing store after
+   they've closed their mouths.  {mar}
+
+=  During Homer's speech to John in the kitchen, the clock suddenly jump
+   about 10 minutes backwards.  {jrc}
+
+=  The Santa robot is a lot smaller in the reindeer lot.  {hl}
+
+=  Near the end, Homer has bruises from the reindeer. But, in the final
+   sequence, they are gone.  {jp}
+
+==============================================================================
+> Reviews
+==============================================================================
+   [Due to the highly controversial nature of this episode, I decided to
+   forgo any space contraint, and include every publishable review that
+   was submitted. --ed]
+
+Dale G. Abersold:  I may not know good social satire, but I do know what
+   makes me laugh my butt off, and that's what "Homer's Phobia" did for
+   me. I thought Homer's reaction to homosexuality was well within
+   character: he was bumbling and ignorant, but not malicious. The only
+   jarring note for me was presenting the Simpson family as a "camp"
+   artifact: aren't they just the "average nuclear-age family"?  (A-)
+
+Greg Bigoni:  Well, I have to admit that it unnerved me a bit to see
+   Homer being such a jerk, but his raves were much funnier when I
+   watched the show for a second time on videotape. His attitude was
+   also nicely balanced out by the rest of the family. One of my
+   favorite things about this show was that Lisa was gentle in her
+   disagreements with Homer, rather than becoming the annoying, preachy
+   Lisa that we've seen before. John Waters was also the best-cast guest
+   star the show has featured since Kirk Douglas. Several viewers
+   doubtlessly found the show very politically incorrect, but I think
+   that's always been the charm of "The Simpsons"... even though the
+   ending was a little dumb. "Is it safe to come out, Mr. Gay Man?"
+   (A-)
+
+Jennifer M. Blaske:  I was pretty bored during most of this episode,
+   especially the second half. It was basically a one-joke show - making
+   fun of stereotypes about gays and people's reactions to gays - and
+   personally I just don't find that funny, at least not for twenty
+   minutes straight. The ending was *very* predictable. This will
+   possibly be one, like "Two Bad Neighbors," that I will skip in
+   syndication.  (D+)
+
+Jesse Burgheimer:  A funny episode, lots of great gags.  The end seemed
+   a little too pat, but I think you need to think about it in terms of
+   what Matt Groening said about the end of "Mr. Lisa Goes To
+   Washington" -- sometimes pat Simpsons endings are really spoofs of
+   typical pat TV endings. The line that completely broke me up was
+   "Dad, why did you take me to a gay steel mill?" A hysterical capper
+   to a funny scene.  (A-)
+
+Alex Byrnes:  I thought this was one of the funniest episodes this
+   season! I also thought that it would be a little offensive to the gay
+   community. I thought that the show jumped to quickly from what was
+   happenning in acts 1 and 2 to Homer, Moe, and Barney taking Bart
+   hunting. I also thought that how John save the group was a little
+   hokey, but Bart's line, "It's Santa all right, and he is kicking
+   ass!" was funny. The best part of the whole episode was when Bart was
+   dancing with that huge, black wig on his head! It was a little
+   disjointed but some of the gags saved it (i.e.: the whole steel mill
+   scene).  (B+)
+
+Vince Chan:  This is not good. The second episode that has met my
+   disapproval this season. (The other is 4F12) This episode was only a
+   bit funny, not the material that could make you squirt milk out of
+   your nose. What got me the most was that the whole epsiode was all
+   just pointless gay bashing! This episode did however, answer the age
+   old question, "What is on the Simpsons kitchen curtains?". The
+   writers aren't putting as much effort into their work as they use to.
+   (C)
+
+Chris Courtois:  "Homer's Phobia" was quite a pleasant surprise. My
+   phobia was we'd be subjected to either a 3F03-style PC rant or a
+   numbingly obvious "Star Trek" style "message" episode. Instead we got
+   something that's been missing for awhile called satire, where the
+   points were shown to us instead of spelled out with platitude laden
+   speeches. Homer's attempts to straighten out Bart were hilarious in
+   their absurdity. And John Waters did a great job, surprising
+   considering he's known for being a writer/director and not a actor
+   (although he is a great public speaker). There were a few rough
+   spots, like the abrupt transitions to talking about John's being gay
+   (seemed like they weren't sure how to bring up the message aspect of
+   the episode), and the Smithers gag felt tacked on and obligatory. But
+   overall, this was one of the more solid and more enjoyable episodes
+   of the season.  (A-)
+
+Steve Frayne:  I don't know that this one will go down as one of the
+   greatest but it sure was funny. The way Homer reacted to the idea
+   that Jon might be gay was terrific as it can be seen in so many
+   people today. All the stereotyping was just hilarious and the gay
+   steel mill left me dying of laughter.  (B)
+
+Timothy Goddard:  Another encouraging episode.  It was pretty funny, yet
+   at the same time rather sad to witness Homer's homophobia, and
+   subsequent paranoia concerning Bart's sexual orientation. However,
+   Homer did "learn his lesson" in an ending which was, thankfully, not
+   terribly preachy.  (B+)
+
+Jason Hancock:  I just did not care for this one.  The couch gag was
+   hilarious (and easy to relate to, as a former AOL user), but it was
+   all downhill after that. Besides, Homer as a homophobe irritated me.
+   This definitely could have used a subplot.  (C)
+
+Ryan Johnson:  Mabey I was giddy again but this was actually a pretty
+   solid episode aside from the steel mill tour and party.  The ending
+   was a bit weak, but it seemed to work. I notice that the writers are
+   taking shots at everyone these days =)  Vegetarians from incest?  It
+   was funny, but they'll screw up one of these days and offend a large
+   group of people eventually at the rate the rate they're going
+   (although I can't speak for gays or steelworkers at this point).  (B)
+
+Margaret Jones:  I found this episode to be humourless, predictable, and
+   very disappointing. And how did Marge "know" the gay man's sexual
+   orientation just from his interests? At least IMHO, this only served
+   to perpetuate the stereotypes our society has about homosexuals. It
+   would have been far more plausible for Homer to have found out by the
+   man's telling him directly.  (D+)
+
+Mark Kinash:  Very funny.  Although the thing with the reindeer left
+   something to be desired. Also, a few too many gay stereotypes.
+   Funniest parts included Bart dancing to "In his kiss" and the
+   steelworkers "We work hard, we play hard". Ha!  (A)
+
+Joe Klemm:  The episode lacked some scenes that would have spiced the
+   episode up. Yet, it had some funny moments like the AOL couch gag and
+   the gay steel workers dancing to "Gonna Make You Sweat".  (B)
+
+Haynes Lee:  The best of a mediocre line of 4F episodes. Should also
+   prove to be the most controversial episode ever.  (A+)
+
+Ondre Lombard:  "Homer's Phobia" is that controversy Simpsons needs.  It
+   was hilarious, care-free fare. Act three was real flat, however, and
+   needed a lot of work. I was ROTFL at the Steel Mill scene and Bart in
+   that wig. I have to say I haven't laughed so hard at a Simpsons
+   episode since 3F22. John was a fun character, and that could never be
+   ruined by Homer's homophobia. Still not as good as anything written
+   by Jon Vitti in season 4, but good for what the writers are capable
+   of in this day and age.  (B)
+
+Blaine Moller:  Good episode. A lot of good gags and a good story line
+   made this one a well rounded show. I'm sure some so called simpson
+   fans are sitting at home with there VCR's on slo-mo pointing out all
+   the flaws as we speak, but despite the critisism this season has
+   really been good.  (B+)
+
+Sean O'Neal:  This was indescribably horrible. Just when I was beginning
+   to get optimistic from last week's inside joke-themed "Itchy and
+   Scratchy and Poochie," along comes an episode full of lame, "In
+   Living Color"-style routines about homosexuals. Did Ron Hauge win a
+   "Write a Simpsons Episode" contest or something? This was the first
+   episode where I've ever hated any character, and here I had three to
+   choose from : Homer, in super-doltish Al Bundy mode; Moe, who had
+   nothing but lame bile and not one good line; and John Waters, who is
+   the last person I would choose to do a voiceover. His "hoo!"s had me
+   muting the TV halfway through. Simpsons episodes are about memorable
+   lines, and this one had absolutely none. Please, get Ron Hauge a
+   writing partner.  (F)
+
+Nate Patrin:  Wow, this one was weird. I mean, weird. It wasn't all the
+   gay refs that felt odd ("The Anvil" was still funny, even if it was
+   coming from a mile away), but the kitsch-o-rama that pervaded the
+   whole thing. But then, I s'pose an ep with John Waters has to be
+   kitschy. The pacing was alright, the jokes were not laugh-out-loud
+   funny but still amusing- especially the "Clank Clank You're Dead"
+   robot and the mushroom cloud cafe, not to mention the couch gag- and
+   the flow of the story was pretty good. Not a classic, but I ain't
+   taping over it, that's for sure.  (B)
+
+Werner Peeters:  It's always a bit dangerous when they try to include a
+   message in an episode, because sometimes they make it too preachy.
+   This episode however worked over the whole line: Homer's bigoted
+   despise of homosexuals, and the stupid reactions (going out hunting
+   with Moe and Barney!) are really in the line of character of Homey!
+   Of course the obligatory Smithers is gay-reference was there, and the
+   homosexual steel workers had me chacking up!  (A)
+
+Mark Aaron Richey:  I was extremly worried that this episode would turn
+   out to be a shrill "message" episode, where most of the humor would
+   be knocked aside for the "gays are people, too" message. Granted,
+   it's an important lesson far too few people seem to realize
+   (political discussion over), but one that I couldn't see successfully
+   being intergrated into the show without preaching (the last time they
+   tried that was the self-rightous [3F03] "Lisa the Vegetarian"). I
+   shouldn't have worried. Homophobia was lampooned mercilessly, and
+   there were plenty of laughs to be found. Homer's homophobia, while a
+   bit on the extreme side (which was needed for plot purposes), I
+   didn't find out of character, and his fears that Bart would turn into
+   one of "them" simply by hanging around John seemed exactly like the
+   thought process of someone ignorant. Homer managed to redeem himself
+   as he hilariously (and painfully) learned his lesson. An excellent
+   job by John Waters as John, and one of the best jobs in a while from
+   Nancy Cartwright.  (A)
+
+Benjamin J. Robinson:  A curious mix of what I like and what I hate
+   about today's "Simpsons" episodes. Some of the characterizations
+   (Bart especially) are right on, John Waters has a good guest spot as
+   a kitschy store owner, and the premise is the daring sort of material
+   "The Simpsons" is known for tackling. Homer's over-the-top reaction
+   blunts much of the promise the episode has, though, and the last two
+   acts aren't all that funny.  (C+)
+
+Matt Rose:  Another great couch opening (there have been a lot of good
+   ones this year) but it was downhill from there. That had to be the
+   most annoying Homer has ever been. It was totally out of character
+   for him to be that way. "Three simple words: I am gay". Remember
+   this? And on top of this there was little to laugh at, except for the
+   couch gag and some of Bart's actions and words. And the involvement
+   of Smithers was good too.(GET THE MESSAGE YET?) They can't all be
+   great.  (C-)
+
+Donni Saphire-Bernstein:  I liked this episode a lot. Although it had
+   some irritating minor flaws, the overall flow and nonstop jokes made
+   it quite worthwhile. Homer's vocal homophobia did bother me, as he
+   has previously (perhaps unwittingly) demonstrated some effeminate
+   characteristics himself, but it stitched itself together well in the
+   end. Homer's brain appeared to be as homophobic as he was, which is
+   somewhat disappointing, seeing as how it has shown better judgement
+   than him many times in the past ;). The steelworker bit was
+   hilarious. the hawaiin shirt bit was funny. BTW, how come Marge is so
+   tolerant now? In past episodes, she's been prudish and ignorant,
+   especially in Bart After Dark.  (B)
+
+Liam J. Scanlam:  This was a great episode. "Homer's Phobia" was full of
+   heady goodness and John Waters was great. (Although I thought he was
+   an old man) The scene at the gay steel mill was a ROTFL, even though
+   I sat on the couch during the entire episode and the couch gag was
+   funny. It proves Ron Hauge worthy of the Simpsons writing crew and as
+   the best. It slightly surpasses "Burns, Baby Burns" as the season
+   favorite.  (A+)
+
+Andy Signore:  It's without a doubt an instant classic! Homer is so the
+   man, it's not even funny, two words, "Hello? China?". What made this
+   episode so great was how smart it was. The little subliminal messages
+   (ie: Homer- "Where'd you get that shirt?" Bart - "Out of the
+   closet"). It played with the topic of homosexaulity so close to the
+   edge, and yet at no point did it make the viewer feel uncomfortable
+   like some of the other gay themed shows on TV. This time and so many
+   times before, it dealt with a hot topic in our society. They showed
+   how we tend to deal with the topic and then rip our way of dealing
+   with it to shreads. Whats so amazing is that they did it without
+   being preachy. They just showed how idiotic our way of dealing with
+   gays is. Hilarious, smart, and somewhat touching, Homer's Phobia is
+   easily one of my all time favorites.  (A+)
+
+Aaron Varhola:  The best this season, and one of the better ones of the
+   past four. I was a bit leery of Homer's transformation from ignorant
+   about gays to homophobic, but a second viewing showed it to be better
+   done than I thought. Ron Hauge slipped a lot of nice details into the
+   story as well; Bart showed good playfulness in taunting Homer, and
+   Marge and Lisa showed the time-tested maxim that the best way to
+   attract a woman is to be a flaming homosexual. :) Excellent social
+   commentary; Homer dislikes gays, but doesn't know a thing about them,
+   and no "moment of sh*t".  (A)
+
+Yours Truly:  When I first watched this episode, it left me disappointed
+   to see Homer behave in such a stereotypical way. It was only much
+   later, through a second viewing, that I realized how mistaken I was.
+   Ultimately, atop of the brilliant gags and one-liners inserted in
+   this episode, what would win me was, in fact, Homer's character.
+   (Start of Act II notwithstanding.) He was a father trying to protect
+   his son, with what little knowledge he had, from what he considered
+   could end up hurting both of them; he may have been wrong, but his
+   intentions were right. Paradoxically, he was not acting out of hate,
+   but out of love, which makes him one of the few two-dimensional
+   homophobic characters I have ever seen.  (A-)
+
+
+AVERAGE GRADE:  B (3.07)
+
+NIELSEN RATING: 15.26  (Ranked 26th out of 107)  {ol}
+
+==============================================================================
+> Comments and other observations
+==============================================================================
+>> Give us a censorship story...
+
+Haynes Lee forwards us a BBC interview with executive producers Josh
+   Weinstein & Bill Oakley:
+
+   Usually we can negotiate with the network. We have to say "ok we
+   won't have Bart say pissed if you let us say this". And so forth. We
+   have one show coming up next year where Homer is forced to confront
+   his own homophobia by a character played by the movie director John
+   Waters. Homer reacts in a predictably Homer/homophobic way. That show
+   had probably the most censor notes of any show we've ever had - two
+   solid pages of single spaced notes. We were able to negotiate them
+   down to just a few which are probably reasonable, and then we changed
+   a few lines. But most of the edge of the show was still there.
+
+
+>> WebTV without a TV
+
+Jason Hancock:  America Online, or AOL, is the nation's largest Internet
+   Service Provider. Before it went to a flat rate last December, it
+   charged $2.95 an hour after the first five hours. Unfortunately,
+   large chunks of that time can be spent simply downloading "artwork,"
+   as the couch gag illustrated -- and large bills can be the result,
+   especially if you had a slow modem or were stuck with a slow access
+   number. (This was the main reason why I decided to leave AOL at this
+   time last year, as my bills reached over $100 a month.) Of course,
+   now that AOL has a $19.95 per month flat rate, its main problem has
+   been busy signals due to the growing number of members.
+
+Mark Aaron Richey:  America's most popular Internet provider (mainly
+   because it's one of the few national Internet providers), AOL offers
+   real-time chat and other stuff you can't get on the real Internet
+   (the chat rooms are the only special features I remember from my
+   brief time on AOL a year and a half ago). The drawback was they
+   charged $2.95 per hour. However, in December, they switched to a flat
+   monthly fee (like just about every other service provider), only to
+   find that nobody could get on anymore, and earning the new nicknames
+   "America Onhold" and "America Offline".
+
+
+>> Writer Watch
+
+Dale G. Abersold:  This is the first episode written by Ron Hauge, who
+   has previously written for such Nickelodeon shows as "Ren & Stimpy"
+   and "Kablam!" His next episode is "The Canine Mutiny" [4F16].
+
+
+>> Cult favorites
+
+Dale G. Abersold:  John Waters is a cult film director whose films have
+   featured filth, depravity, and Divine, the morbidly obese
+   transvestite actor. Among his titles are "Mondo Trasho," "Pink
+   Flamingos," and "Polyester" (the only movie ever filmed in
+   Smell-O-Rama). His more recent efforts have been the mainstream
+   "Hairspray" (a movie in which Marge's hairstyle would be
+   inconspicuous) and "Serial Mom."
+
+Mark Aaron Richey:  For most of his career, his films were decidedly
+   strange and violent. He got his start making 8 and 16 millimeter
+   films with friends, and eventualy got to the point where his films
+   were hitting the midnight circuit, and then on to regular runs in
+   specialty theaters. His first major film was "Pink Flamingos", a 1972
+   film about a contest to determine "the filthiest person alive". The
+   film (which is due for a 25th anniversery re-release later this
+   year), concluded with Divine, a transvisite who was one of Waters's
+   best friends and a regular in his films until his 1988 death, eating
+   real live dog gifts. His 1981 film "Polyester" was the first to
+   recieve a regular release, and moviegoers were given a "scratch-off"
+   card with certain smells that would come into play as the movie
+   progressed (I'll leave it up to your imagination as to what those
+   smells were). In 1988, Waters went mainstream (at least for him) with
+   "Hairspray", a comedy starring the then-unknown Ricki Lake as an
+   overweight early 60's teenager who lands a spot on the local teen
+   dance show. His next two films, "Cry-Baby", a musical about teen
+   delinquents in the 50's, and "Serial Mom", a comedy about a sweet
+   wife and mother who has a nasty homicide habit, were not commericial
+   successes, despite actual real stars in the films (the former had
+   Johnny Depp, the latter had Kathleen Turner and Sam Waterson, and
+   both had the now-known Ricki Lake). In case you are curious, yes,
+   John Waters in real life is gay.
+
+Aaron Varhola:  Other posters have commented on John Waters's film
+   career; he also collects kitsch like that in real life. I remember
+   several years ago, he was a guest on Letterman, and showed Dave some
+   disgusting items he picked up in stores, including (I am not making
+   this up) a roll of chocolate candies called "Dingleberries". (Waters
+   is one of the few true classic Letterman guests because of his
+   ability to utterly embarass Dave every time he is on the show).
+
+
+>> The Story of Lupe Velez
+
+Benjamin J. Robinson:  "The Simpsons" just expects you to know who Lupe
+   Velez is. "Frasier," which referenced the same person (in the
+   premiere episode, I believe) was kind enough to provide an
+   explanation. Lupe Velez was an actress in Hollywood's early years.
+   Despondent over the lack of recognition she was getting, Velez
+   decided to end it all. She had a final meal, arranged her bedroom
+   just so, overdosed on pills, and waited for the inevitable.
+   Unfortunately, something she ate didn't agree with her, and she ran
+   into the bathroom to throw up. There, with her head in the commode,
+   is how Lupe Velez passed away. It was hardly what she planned, but
+   she certainly got recognized for it.
+
+Leisha Sibley:  Lupe Velez was a starlet in the 1940's, who was best
+   known for the title role in the "Mexican Spitfire" series of films. I
+   believe she was married to Johnny Weismuller ("Tarzan"), and was
+   infamous for getting drunk in public, having multiple affairs and
+   constantly forgetting to wear panties. Anyway, she got pregnant by
+   someone other than her husband and attempted suicide by taking
+   sleeping pills. What actually killed her was a violent reaction to
+   the pills, leading to her drowning in her own toilet when she tried
+   to get up and vomit. It's a very lurid story, which l originally read
+   in Hollywood Babylon, and l wouldn't be surprised if that's where
+   "John" got his information, too.
+
+
+>> Some come out of the closet, and some others get back in...
+
+Whereas Homer seems very keen at pointing out "clues" about Bart, it's
+   funny how he chooses to ignore or forget those he exhibited himself
+   throughout all those years...
+
+   - [7F02]  Never minded about his male secretary, Karl, being gay. Of
+             course, he didn't even realize this fact, but being kissed
+             by a man might have lit up a few lights.
+
+   - [7F08]  Failing to be the father of a boy who wins the putting
+             tournament, mows his neighbor's laws in his wife Sunday
+             dress.
+
+   - [8F14]  Kisses Chief Wiggum when returned Maggie safe and sound.
+
+   - [8F16]  Homer contributes to Edna's letter: "P.S. I am gay."
+
+   - [9F08]  Sings "Girls Just Want to Have Fun".
+
+   - [9F13]  His simple advice to Lisa: "Six simple words:  I'm not gay,
+             but I'll learn."
+
+   - [9F16]  During negociations with Burns, thinks his boss is coming
+             onto him, and declares himself "flattered, maybe even a
+             little curious".
+
+   - [9F20]  When fresh out of clean clothes, resorts to Marge's wedding
+             dress.
+
+   - [1F12]  Marched with his family in a gay parade.  {jr}
+
+   - [1F14]  Imagines himself wearing a Marge wig, and taking his wife's
+             role. ("Heh heh, I don't need her at all any more.") Later
+             kisses Ned.
+
+   - [2F08]  Favorite song is "It's Raining Men"  {dm}
+
+   - [2F08]  Stands in a lesbian bar without any remorse.  {jr}
+
+   - [2F09]  His father is the president of the Gay and Lesbian Alliance
+             "for some reason".
+
+   - [2F21]  "Marge, you being a cop makes you the man...which makes me
+             the woman. I have no interest in that, besides occasionally
+             wearing the underwear -- which, as we discussed, is
+             strictly a comfort thing."
+
+
+>> Let's keep it clean, boys!
+
+There's no single episode of which all alt.tv.simpsons denizen will have
+   the same opinion. The episode you like is the episode someone else
+   hates, and vice versa. Follow the "Worst ever", "all-time classic",
+   "stop whining about characters and enjoy the jokes", "you have no
+   idea what The Simpsons is about" and other usual threads.
+
+   Nonetheless, there's nothing like as controversial a subject as
+   homophobia to stir up the eternal flames. Here are two reviews, at
+   the extreme opposite of each other. Both were written by otherwise
+   "sane" people -- as long as you think of us Simpsons fans as sane :)
+   -- and showcase the variety of opinion you can expect from a.t.s., as
+   well as the casual loss of temper and name-calling.  [My dearest
+   apologies to the authors for dragging them in the mud like this. :)]
+
+Graham KGW:  Man, I'm sure there'll be a million Purists up here in a
+   couple of minutes bitching like mad about the incontinuity of
+   characters or something on this episode, but let me just say that I
+   thought it was the funniest episode I've seen in a really long time.
+   It was so great, non-stop comedy, little to no crappy sentiment, and
+   great jokes. Congrats, writers, on a job well done. I'm still
+   laughing... prove me wrong, guys. Prove to me that this kind of stuff
+   isn't over your head. I'm talking to you, Boswell, Varhola,
+   Lepenguin, etc... (A+)
+
+Damien Ryall:  If I called Matt Groening a fag for producing this trash,
+   maybe he would realize how awful it really is! If I could, I would
+   have bashed Homer's thick skull in with a sledge hammer halfway
+   through the second act! Since when is Homer afraid of homosexuals,
+   after 'Homer the Smithers' you would think he didn't care. When the
+   hunting business came up I wanted to turn off the television. By the
+   end, I wished that I had. (Z) (You can't get any lower than that)
+
+
+>> The Eternal Threads
+ 
+   - Is Smithers Gay?
+
+Haynes Lee:  It seems like John broke a date with Smithers using the
+   excuse that he was seeing his sick mother.
+
+
+>> Loose Ends
+
+Daniel Sheiner:  It would be nice if some time in the future, they
+   display a similar couch scene which is loading #2... and of course
+   some more furious clicking. Perhaps a reboot of the computer...
+
+Haynes Lee:  According to the Urban Legends FAQ, there are no legal
+   limits on how much of your debts you can pay in coins in the US,
+   though some Treasury PR flack did imply otherwise for pennies and
+   nickels, and there have been legal limits on how much coin a creditor
+   must accept. For some strange reason, Canadian law is much clearer on
+   this topic, stating that a quanity over 25 pennies is not legal
+   tender.
+
+Joe Klemm:  A price of around $8,000 for a TV Guide Jackie Kennedy once
+   owned may be a reference to an auction that happened last summer. All
+   the stuff that were bid on were stuff that the Kennedys once owned.
+
+Mark Aaron Richey:  Laverne & Shirley-Promently featured on Jackie O's
+   TV Guide, this late 70's spin-off of "Happy Days" had Penny Marshall
+   (yes, the Babysitter Bandit) and Cindy Williams undergoing wacky,
+   slapstick adventures in 1950's Baltimore.
+
+Steve Shiue:  The humor of the old Batman live action show (Adam West,
+   Eartha Kitt as Cat Woman, Julie Newmar as Batgirl etc.) was pure
+   camp. (Easier to give examples than to explain the concept.) Also,
+   the John Waters film "Hairspray" if you've seen it, which achieved
+   quite a bit of mainstream popularity. Debbie Harry and Sonny Bono as
+   suburban parents? The Corny Collins dance show?
+
+Benjamin J. Robinson:  If you picked "corn" as the vegetable on Marge
+   Simpson's kitchen curtain, you won! Plus, you're better educated than
+   the folks who put together Fox's "Simpsons" web site -- supposedly,
+   they claimed the mystery vegetables were carrots. D'oh!
+
+Joshua Fruhlinger:  It is quite appropriate that, immediately after
+   Homer says "I like my gays flaming," John honks is horn which plays
+   "Somewhere over the rainbow" from _Wizard of Oz._ In some circles,
+   obsession with Judy Garland is consider as much a pointer of gay
+   sexual identity, as, well, Abba. (See Smithers and "Waterloo" in
+   "Mother Simpson.")
+
+Bob Beecher:  A change from the script was the tune that John's car horn
+   played right after that line! In the show that aired, it played,
+   "Somewhere Over the Rainbow"; but in the script, it called for "Don't
+   Cry For Me, Argentina".
+
+Carol Anne:  Homer remarks that he likes his "homosexuals flaming." In
+   case you didn't know it, in the New York city area, "homo" has been
+   reduced to "'mo." (ie, he's a real 'mo). So homer is really talking
+   about "flmaing 'mos", and that's where the next scene took place.
+
+Mark Aaron Richey:  Fat Man & Little Boy, the names of the specials at
+   the restaurant, just happen to be the names of the atomic bombs we
+   dropped on Japan to end World War II (it's also the name of a rather
+   dull movie starring Paul Newman about the building of the bombs).
+
+Mark Aaron Richey:  Wow, Moe knows Cabinet Members.  Or at least former
+   cabinet members. Warren Christopher is the former secretary of state
+   under President Clinton.
+
+Benjamin J. Robinson:  Moe sarcastically thanks Warren Christopher for
+   the current lack of armed conflict. Actually, he should be thanking
+   Madeline Albright, who replaced Christopher a short while ago.
+
+To those who claimed the ending was predictable, Dave Traubert replies,
+   tongue-in-cheek: The minute I saw the TV guide, I knew that they were
+   going to get attacked by reindeer and have to be saved my a Japenese,
+   rocket-launching Santa. :)
+
+
+>> Partial lyrics to "Shoop Shoop Song (It's In His Kiss)"  {ol}
+
+      Does he love me I wanna know
+      How can I tell if he loves me so?
+      (Is it in his eyes?)
+      Oh no, you'll be deceived
+      (Is it in his eyes?)
+      Oh no, you make-believe
+
+      If you wanna know if he loves you so
+      It's in his kiss
+      That's where it is
+      (Oh yeah)
+
+      (Or is it in his face?)
+      Oh no, it's just his charm
+      (In his one embrace?)
+      Oh no, that's just his arm
+
+      If you wanna know if he loves you so
+      It's in his kiss
+      (That's where it is)
+
+==============================================================================
+> Quotes and Scene Summary  {ol}
+==============================================================================
+% It seems Bart has found the right formula for making money, as many a
+% Springfield kid is in the Simpsons basement, shelling out big bucks
+% for the spectacular Super-Barto Jackpot Drawing.  Tennis balls,
+% baseballs, and the occasional apple are all stuffed into the dryer
+% machine, today's boy's cheap alternative to a drawing machine.
+
+Come on, cantaloup!
+-- Milhouse, the unknown gambler, "Homer's Phobia"
+
+% But all dryer has its limits, and this one starts rattling wildly out
+% of control.  Bart leans over the dryer to reach the "Off" button, but
+% doesn't succeed.  The dryer is pulling the gas conduct as far as it
+% can go, and it quickly snaps, turning into more of a flame-thrower.
+% The kids scale the stairs in terror.
+
+No refunds, force majeure, read the back of your tickets.
+-- Bart, "Homer's Phobia"
+
+% After a visit from the Springfield Gas Company, Homer examines his
+% bill $for 900, which he decides they'll have to pay for with the
+% retirement fund.  Said fund is a huge bottle of pennies that Homer has
+% immense trouble carrying. He drops it outside and the bottle plunges
+% through the front lawn.
+
+[to the hole] Hello? [echo] China?  A little help?
+-- Homer, "Homer's Phobia"
+
+Marge: Well I never thought it would come to this, but I guess we'll
+       have to sell Grandma's Civil War doll.
+ Lisa: Oh Mom, are you sure you want to sell a family heirloom to pay
+       _the gas_ bill? I mean, what would your Grandma say?
+Marge: I'm sure she'd be proud that her descendants had piping hot tap
+       water and plenty of warm, dry underwear.
+Homer: That is so true.
+-- Dry underwears: this century's greatest achievement, "Homer's Phobia"
+
+% At the mall, the family has arrived to sell the doll to the
+% "Cockamamie's" antique store.
+%
+% Skinner is looking at political campaign buttons.
+
+Skinner: Hmm.  These campaign buttons are all partisan.  Don't you have
+         any neutral ones? "May the better man win?" "Let's have a good,
+         clean election?" That sort of thing?
+   Lady: Uh, no, but we do have some old shirt buttons.  They're kinda
+         kooky and fun!
+Skinner: Missy, you just talked yourself right out of a sale.
+-- Skinner, the more vocal consumer, "Homer's Phobia"
+
+% In another part of the store, Lisa is looking at some items, when Bart
+% shows off what he's found.
+
+ Bart: [walking on pogo stilts]  Hey, Lis, check it out: pogo stilts.
+       These were banned in all 50 states.
+        [Bart's foot slips; one pogo springs into the air and hits
+        something]
+Homer: [off screen]  Ow!!  Ohh!  What happened?
+-- Helpless victims of freak accidents, "Homer's Phobia"
+
+% Lisa and Bart spot a huge, elementary 50s robot.
+  
+Lisa: Wow!  An actual robot from the movie "Clank Clank! You're Dead!"
+      Ooh, think of how awful it would be for the poor midget inside.
+Bart: Aw, boo hoo.  That's what they get paid for.
+       [they walk away; the door opens, revealing a skeleton]
+-- Correction: what they *got* paid for, "Homer's Phobia"
+
+% Marge and Homer look at things when Marge spots something interesting.
+
+Marge: [gasps]  Oh, Homer, look!  Look, a TV Guide owned by Jackie O.
+ John: Oh, you should see the crossword puzzle.  She thought that Mindy
+       lived with "Mark."
+Homer: Give her a break!  Her husband was killed!
+-- "Homer's Phobia"
+
+% The clerk introduces himself as John.
+
+Marge: I have something that I'd like to sell.
+ John: Please tell me it's your hair.
+Marge: [flattered, giggles] No.  It's an heirloom my grandmother passed
+       down to me. A very rare, old figurine from the Civil War.
+ Lisa: Please don't construe our ownership of this as an endorsement of
+       slavery.
+ John: [eyes the doll] Hmm.  Well see, here's the thing on this.  It's a
+       Johnny Reb bottle, early 1970s, one of the J & R Whiskey
+       "Liquor Lads."  Two books of green stamps, if I'm not mistaken.
+Marge: Oh, no.  Oh, no, no, no, no.  It's a very, very old figurine.
+ John: No, it's a liquor bottle.  [untwists a cap from the bottle]  See?
+       [pours himself some whiskey and drinks it]
+       That'll make your bull run.
+Marge: Well... I guess it'll always be a monument to Grandma's secret
+       drinking problem.
+-- "Homer's Phobia"
+
+% Homer comments that although this bottle may not be worth much, it's
+% still better than the junk this store is selling.
+
+Fifty bucks for a toy?  No kid is worth that!
+-- Homer's value of children, "Homer's Phobia"
+
+ John: But this is the Rex Mars Atomic Discombobulator.  Don't you just
+       love the graphics on this box?
+Homer: No.  How can you love a box, or a toy or graphics?  You're a grown
+       man.
+ John: It's camp!
+        [Homer stares nonplussed]
+       The tragically ludicrous?  The ludicrously tragic?
+Homer: Oh, yeah.  Like when a clown dies.
+ John: Well, sort of.  But I mean more like inflatable furniture or
+       "Last Supper" TV trays, or even this bowling shirt.
+        [John is wearing Homer's "Pin Pals" t-shirt]
+       Can you believe somebody gave this to goodwill?
+        [Marge sneaks away]
+-- Just because it's got your name and picture on it doesn't mean...,
+      "Homer's Phobia"
+
+Homer: And that kinda stuff is worth money?
+ John: Boy howdy!
+Homer: Man, you should come over to our place.  It's full of valuable
+       worthless crap.
+ John: Well, if you're inviting me over...
+Homer: I practically insist!  Shall we say five o'clock?  The snacking
+       hour?
+ John: My heart is palpatating!  Hoo hoo!
+-- He is wearing your shirt, anyway, "Homer's Phobia"
+
+% At home, to prepare for John's visit, Marge draws smiling faces on
+% crackers. "Pimento nose, and voila! Mommy's patented Happy-Cracker
+% Snack Platter." The doorbell rings, and while Marge is away, Maggie
+% grabs the can of cheese and fills her mouth with it.
+%
+% Marge answers the door, and John is there with a camera.  He sings
+% "Ding-dong!" along with the doorbell in a chipper way.  Enter the TV
+% room.
+
+ John: Oh man, you weren't kidding about this place!  Well, I just love it!
+       [takes pictures]
+Homer: Do I know you?
+-- Short term memory, "Homer's Phobia"
+
+% John surveys the house, taking pictures.
+
+John: Oh, the color scheme and the rabbit ears!  And the two point three
+      children, I mean, where's the Hi-C?
+Lisa: [walking in, holding a tray]  Hi-C and fluffernutters!
+John: Oh!  And pearls on a little girl!  It's a fairy tale!
+-- If you say so, "Homer's Phobia"
+
+% In the kitchen, John admires the curtains.
+
+ John: Oh, I've got the exact same curtains, only in my bathroom.
+       Didn't you just die when you found these?
+Marge: Not really.  They just had corn on them.  Kitchen...  Corn...
+ John: Oh!
+        [slaps Marge on the arm in an "Oh You!" manner]
+        [Marge snickers and taps John back]
+        [Bart tries and imitate them, more-or-less punching Homer]
+Homer: Oww!  Why you little...!
+        [strangles Bart]
+ Bart: Aaah!  Dad!  Dad!  Company!  Company!
+Homer: [stops] Oh.  I'll just be another minute, John.  Have a seat.
+       [resumes strangling]
+-- Company rules, "Homer's Phobia"
+
+% John looks at the Simpsons' vinyl collection.  Homer asks him if his
+% records have "camp" value, and John thinks they do and comments, "You
+% yourself are worth a bundle, Homer! Why I could wrap a bow around you
+% and slap on a price tag." Homer laughs and starts dancing with John to
+% a record.
+%
+% The rest of the family watch from inside the kitchen.  The kids
+% comment on his love of Itchy & Scratchy -- and in Bart's case, of toy
+% robots. Marge comments that Homer's "certainly taken a shine to him."
+% To prove her right, both are laughing together in the living room.
+%
+% The next morning, Homer, enjoying John's company, decides one day to
+% invite him and his wife over for drinks. But Marge doesn't think he's
+% married.
+
+Homer: That John is the greatest guy in the world.  We've gotta have him
+       and his wife over for drinks sometime.
+Marge: Hmm, I don't think he's married, Homer.
+Homer: Oh, a swinging bachelor, eh?  Well, there's lots of foxy ladies
+       out there.
+Marge: Homer, didn't John seem a little... festive to you?
+Homer: Couldn't agree more.  Happy as a clam.
+Marge: [insisting]  He prefers the company of men!
+Homer: Who doesn't?
+Marge: Homer, listen carefully.  John is a ho - mo...
+Homer: Right.
+Marge: ... sexual.
+Homer: [pause] Aaahhhhhhhhhhhhhhhhh!
+-- "Homer's Phobia"
+
+% [End of Act One.  Time: 6:29]
+
+Homer: Ohmygod Ohmygod Ohmygod!  Oh my god!  I danced with a gay!  Marge,
+       Lisa, promise me you won't tell anyone.  [shaking Lisa]  Promise
+       me!!
+Marge: You're being ridiculous.
+Homer: Am I, Marge?  Am I?  Think of the property values.  Now we can never
+       say only straight people have been in this house.
+-- "Homer's Phobia"
+
+Marge: I'm very sorry you feel that way, because John invited us all out
+       for a drive today, and we're going.
+Homer: Woah-ho-ho, not me!  And not because John's gay, but because he's a
+       sneak.  He should at least have the good taste to mince around and
+       let everyone know that he's... that way.
+Marge: What on Earth are you talking about?
+Homer: You know me, Marge.  I like my beer cold, my TV loud and my
+       homosexuals fa-laming.
+-- "Homer's Phobia"
+
+% From outside can be heard a car horn, playing "Over the Rainbow."  Of
+% course, it's nobody else than John himself, who's brought with him the
+% Rex Mars Atomic Discombobulator.  Homer peeks out the window curtains,
+% and John greets him with a friendly Discombobulator "zzzzzap!"
+
+Homer: I'm not setting foot outside this house until _that_ man is gone!
+ Bart: Oh, Dad!  You are the living end!
+        [Homer narrows his eyes at Bart]
+-- The first signs are always subtle, "Homer's Phobia"
+
+% The whole family -- Dad excepted -- hops into John's car, complete
+% with pine freshener and zebra-like interior.  Bart is seated next to a
+% very weird robot, which kinda looks like a cross between Santa Claus,
+% a cash register, and that alien creature from tonight's 3am horror
+% movie.
+
+Bart: Hey, where'd that cool creepy Santa come from?
+John: Japan.  Except over there they call him "Annual Gift Man" and he
+      lives on the moon.
+-- "Homer's Phobia"
+
+% John drives the family through the more tinsel part of Springfield...
+
+John: And that's where Kent Brockman was caught cheating in the
+      Springfield marathon.
+ All: Ooh...
+       [passing in front of a plumbing supplies store]
+John: And there's where Lupe Velez bought the toilet she drowned in.
+ All: Ohhhh!
+-- So many commonly ignored sights, "Homer's Phobia"
+
+% At the Sha-Boom Ka-Boom cafe, the group has lunch.
+
+Bart: That was a killer tour, man!
+Lisa: I never realized how many celebrities humuliated themselves right
+      in our backyard.
+-- "Homer's Phobia"
+
+% John contemplates how this makes him "sick in a wonderful, wonderful
+% way."  At this moment, a familiar figure walks by.
+
+Smithers: John!
+    John: Uhh, oh, Waylon!  I'd like you to meet the Simpsons!
+Smithers: I know the Simpsons.  [sotto voce]  So this is your sick
+          mother?
+    John: Don't do this to me, Waylon.
+-- "Homer's Phobia"
+
+% The family's home, and Homer is literally waiting up, ready to spew
+% more venomous homophobia.  Marge tries to calm him down, but to no
+% effect. His worries grow worse when Bart shows him John's
+% Discombobulator he got.
+
+Bart: Hey Dad, look what I got!  [points the gun to him]  Zzap!  Zzap!
+        [Homer looks worriedly at Bart]
+       Zzap!  Zzap!
+-- The clues are adding up, "Homer's Phobia"
+
+% Homer watches TV and then Bart strolls by him in a Hawaiian shirt.
+
+Homer: Baart!  Where'd you get that shirt?
+ Bart: I dunno.  Came out of the closet.
+Homer: Uhhh... huh.
+-- When one's mind plays tricks..., "Homer's Phobia"
+
+% At the dinner table...
+
+I hope you all saved room, because I made your favorite dessert.
+Store-bought snack cakes -- both kinds.
+-- Marge's secret family recipe finally unveiled, "Homer's Phobia"
+
+% Homer examines Bart's selection between pink Snoballs and Cupcakes
+% expectingly. He grits his teeth worriedly when Bart moves his hand for
+% the Snoballs, then smiles when he reaches for the cupcakes. Back and
+% forth goes Bart's hand -- and Homer's gestures. Finally, Bart picks
+% the Snoball. Homer goes mad.
+%
+% In bed, Homer chews on his pillow, and Marge gets him to tell her
+% what's wrong.
+
+Homer: Marge, the boy was wearing a hawaiian shirt.
+Marge: So?
+Homer: There's only two kind of guys who wear those shirts: gay guys and
+       big, fat party animals.  [sad] And Bart doesn't look like a big,
+       fat party animal to me...
+Marge: So, if you wore a Hawaiian shirt, it wouldn't be gay?
+Homer: Right.  Thank you.
+-- "Homer's Phobia"
+
+% Homer blames it all on his wife.
+
+Do you have to be so effeminate around the boy?
+-- Homer to Marge, "Homer's Phobia"
+
+% Marge decides that if there is actually a problem with Bart worth
+% worrying over, it must be that he's not spending time with his dad.
+%
+% The next day, Homer walks down the stairs, humming along to "Shoop
+% Shoop Song (It's In His Kiss)", which is indeed playing in the house.
+% All smiling, he's all ready to spend some time with his son when,
+% horror of all horrors, he finds him *dancing* on that song, wearing
+% some huge black wig with a pink bow in it.  Could it get any worse?
+%
+% A short trip to the kitchen shows the source of all evil, chatting
+% with Marge.
+
+ John: ...and Helen Lovejoy, sure, she looks blonde, but I've heard
+       cuffs and collar don't match, if you get my drift.
+Marge: I don't, but I loved hearing it!
+-- Old gossip ain't what it used to be, "Homer's Phobia"
+
+% Homer takes action on the intruder.
+
+Homer: [to John] Yyyou!  I should've known!
+ John: Well, good morning, sunshine.
+Marge: Homer!  John brought us cactus candy!
+Homer: Look, John, you seem like a perfectly nice guy and all, just stay
+       the hell away from my family.
+ John: Well, now you don't get any candy. [pauses]  Naw, that's cruel.
+       Take a teensy piece.
+-- "Homer's Phobia"
+
+ John: Homer, what have you got against gays?
+Homer: You know!  It's not... usual.  If there was a law, it'd be
+       against it!
+Marge: Oh Homer, please!  You're embarrassing yourself.
+Homer: No I'm not, Marge!  They're embarrasing me.  They're embarrassing
+       America.  They turned the Navy into a floating joke.  They ruined
+       all our best names like Bruce, and Lance, and Julian.  Those were
+       the toughest names we had!  Now they're just, uh...
+ John: Queer?
+Homer: Yeah, and that's another thing!  I resent _you_ people using that
+       word.  That's _our_ word for making fun of you!  We need it!!  Well
+       I'm taking back our word, and I'm taking back my son!
+-- "Homer's Phobia"
+
+% The case requires immediate treatment, so Homer drives away with the
+% boy.
+
+Homer: Don't worry, boy.  We're gonna set you straight.  By tomorrow
+       morning, you'll be a regular Burt Reynolds.
+ Bart: What are you talking about, Homer?  Where are we going?
+Homer: Just a couple of good old-fashioned manly places.
+       [puts his arm around Bart] Father and son!
+Brain: [thinking]  You're leaving the arm there too long!  You wanna
+       make it worse?
+        [Homer quickly yanks his arm off Bart's shoulder]
+Brain: No, no!  He'll know you're on to him!  Quick, shake his hand!
+        [Homer does as his brain told him]
+Homer: Just remember, son, no matter what happens, I'll always love you.
+Brain: As??  As??
+Homer: [yanking hand away] As a father!  A father!  Regular father.
+-- "Homer's Phobia"
+
+% Homer sets up a lawn chair somewhere between freeways and puts Bart in
+% it.
+
+ Bart: What am I supposed to do here?
+Homer: Nothing.  Just sit.  I'll be back.
+        [walks away, revealing a giant "Laramie Slims" billboard,
+        featuring a girl in lingerie having a pillow fight with another
+        girl in a skimpy shirt and panties]
+        [time passess...]
+Homer: Well, it's been two hours.  How do you feel?
+ Bart: I dunno.  I kinda want a cigarette.
+Homer: That's a good start.  Let's get you a pack.  What's your brand?
+ Bart: Anything slim!
+Homer: [grunts]  [to himself] Okay, that didn't work.
+-- All good plans have cracks, "Homer's Phobia"
+  
+% Homer goes back to the drawing board: to make a boy into a man, you
+% need the apex of manhood and virility as your environment.  Something
+% like, I dunno... a steel mill?
+%
+% Homer introduces Bart to a big man in overalls and a hard hat.
+
+ Homer: Bart, I want you to shake hands with -- what's your name, fella?
+Roscoe: Roscoe.
+ Homer: Roscoe here runs this mill.  He's gonna show us around to let you
+        get a first-hand look at real all-American Joes doing what they do
+        best.
+  Bart: Why the hell would I wanna see that?
+ Homer: [sotto voce] You'll thank me on your wedding night.
+-- Not if he divorces twice, he won't, "Homer's Phobia"
+
+% A bunch of men are working in the mill when Roscoe, Homer and Bart
+% walk in.
+
+Roscoe: [to all]  Hey!  Listen up!  I want all of youse to say hello to
+        the Simpsons.
+   All: [waving in a cliche, sissy-like attitude]  Hello-o.
+ Homer: [gasps]  Has the whole world gone insane?!
+Worker: [sissy-like] Stand still, there's a spark in your hair!
+Worker: Get it!  Get it!
+ Homer: [whimpers]
+         [another guy walks past Homer holding a vat of hot steel in hot
+         pants]
+Worker: Hot stuff, comin' through!
+ Homer: [screams]
+  Bart: Dad, why'd you bring me to a gay steel mill?
+ Homer: [frightened] I don't know!  This is a NIGHTMARE! YOU'RE ALL
+        SICK!
+Worker: [waving his hand] Oh be nice!
+ Homer: Oh!  My son doesn't stand a chance!  The whole world's gone gay!
+         [a whistle goes off]
+        Oh my god!  What's happening now?
+Roscoe: We work hard.  We play hard.  [pulls a chain]
+         ["Everybody Dance Now" starts playing]
+-- Oh, that ain't good news, "Homer's Phobia"
+
+% Suddenly, a hi-tech disco ball slides down and the entire mill turns
+% into a night club called "The Anvil", with smoke and dance stands and
+% everything, with every worker dancing along "Everybody Dance Now."
+% Homer slowly backs away, frightened, hiding Bart's eyes.
+%
+% [End of Act Three.  Time: 13:45]
+%
+% At Moe's...
+
+ Homer: ... and the entire steel mill was gay.
+   Moe: Where you been, Homer?  The entire steel *industry* is gay.  Eh,
+        aerospace, too, and the railroads. And you know what else?
+        Broadway.
+-- The world today, "Homer's Phobia"
+
+Barney: I always hoped Bart would grow up just like us.  What happened?
+   Moe: Aw, it ain't no mystery.  The whole modern world's got a
+        swishifying effect on kids today.  And their MTVs and their diet
+        sodas ain't gonna set 'em straight, neither.  You gotta do it
+        yourself, Homer, and you gotta do it fast.
+ Homer: But what would turn Bart into a man fast?  You have to think for
+        me!
+   Moe: Well, let's see now, uh, time was you sent a boy off to war.
+        Shooting a man'd fix 'em right up.  But there's not even any wars
+        no more, thank you very much, Warren Christopher!
+Barney: Hey, better yet, Bart could shoot a deer!  That's like shooting a
+        beautiful man.
+   Moe: Hey, he's right, Homer.  After the boy bags a deer, all the diet
+        sodas in the world won't turn him back.  And you just sit right
+        back and watch the grandchildren roll in.
+-- Easy solutions to life-threatening problems, "Homer's Phobia"
+
+% At the Springfield Mall, Homer, Barney and Moe, dressed in hunting
+% garb, emerge from the Hunting Supplies Store with an assortment of
+% hunting supplies.  Homer sees his family hanging out with John, with
+% Bart playing a video game.  Homer growls angrily, and goes fetch his
+% son.
+
+Homer: Stand aside, Marge, I'm taking the boy deer hunting.  He's going to
+       grow up _straight_ for once!
+Marge: What?!  You never went hunting before, and you're perfectly
+       straight.
+Homer: Oh yeah?  How long since you've had a baby?
+ Lisa: But Dad, it's barbaric.  How does killing a deer make you more of a
+       man?
+Homer: It just does.  Name me one gay Indian.
+-- "Homer's Phobia"
+
+ John: Uh oh.  Something's gonna die.
+Homer: Butt out, Buttinsky.  What would _you_ know about hunting?
+ John: I know this much.  I wouldn't wear that hideous hat.  Here, take
+       this one.  It was worn by Yale Summers in Daktari.
+Homer: Hang on to it, Toy-Boy!  You might need it when it starts raining
+       naked ladies!
+-- "Homer's Phobia"
+
+% Homer grabs his kid, and sets off for hunting grounds.
+%
+% In Moe's truck, the boys sum up the plan to its victim.
+
+Barney: Today, you're gonna be a man, Bart.
+  Bart: You guys going to teach me to drive?
+   Moe: [to Barney] Oh, yeah, let a twinkle-toes drive Betsy.  Right.
+ Homer: [chuckling nervously]  No, boy.  You can't drive.  You're only
+        ten.  You're going hunting.
+   Moe: You ever been hunting before, there, Barty?
+  Bart: Nope.  Something about a bunch of guys alone together in the
+        woods... seems kinda gay.
+         [awkward silence]
+ Homer: That is a *very* immature attitude, young man.
+-- You tell him, Homer, "Homer's Phobia"
+
+% The virile campers reach their destination.
+
+Remember, guys, the truck only holds six carcasses, so don't shoot
+nothing but trophy bucks, huh?
+-- Moe, "Homer's Phobia"
+
+% But as the day goes by, everyone sits on rocks waiting for deer, while
+% Barney drinks beer, the empty cans multiplying as the hours go by.
+% Late at night, one has to admit that the whole exercice was pointless.
+
+Barney: Aw, we should've just stayed at the bar and shot some rats.
+   Moe: Hey, those ain't your rats, Barn.
+-- "Homer's Phobia"
+
+% Homer isn't ready to call it quits yet, as the whole idea was for Bart
+% to shoot a deer -- not merely wait for one to appear.  But since the
+% lad's deep asleep already, there's no much point in pursuing this.
+%
+% Homer scoops Bart into his arms and the quartet drives home
+
+  Moe: Come on, don't take this so hard, Homer.  You still got that
+       other kid, uh... Lisa.  Let's, uh, take her out hunting tomorrow;
+       make *her* into a man.
+Homer: Aw, she'd never go.  She's a vegetarian.
+  Moe: Oh, geez!  Homer, geez!  You and Marge ain't cousins, are you?
+-- As least the tots have four fingers, "Homer's Phobia"
+
+% Homer scolds himself for being a lousy dad.  However, Moe spots a sign
+% advertising live reindeers for a Santa's village. "Cheer up, Homer!
+% Christmas is coming early this year."
+%
+% Despite the sign "Closed for Season," Moe drives on, breaking the gate
+% and entering Santa's Village.
+%
+% Meanwhile, at home...
+
+John: Did he say where they were going?
+Lisa: No.  They were just going to find a deer and make Bart shoot it.
+John: Deer?  Ha!  Not around here.  They all migrated north when the
+      state park converted to Astroturf.
+-- "Homer's Phobia"
+
+% John continues: "The only thing around here that's even close to deer
+% is..."
+%
+% Yup, reindeer.  The hunting group breaks into the reindeer's pen.
+
+Homer: Hey, boy, wake up.  Your old man found some deer.
+ Bart: Huh?  You did?
+ Bart: Hey, wait, man.  Those are reindeer!
+Homer: Yep.  And it's your shot, son.
+        [hands Bart the gun]
+ Bart: What?  I'm not gonna shoot a reindeer in a pen.
+        [Moe nudges Homer]
+Homer: Come on, boy.  Be a sport and kill Blitzen, okay?
+ Bart: [pleading] Dad! [starts whimpering]
+  Moe: Oh criminy.  Here come the waterworks.
+Homer: Bart, I'm gonna turn my back, and when I turn around, I wanna see
+       a whole PILE of dead reindeer!
+-- "Homer's Phobia"
+
+% They all turn their backs and block their ears.  Moments later, a bang
+% goes off. Homer congratulates his son, but Bart replies he's not even
+% fired a shot.  Seems the sound is one of antlers colliding together,
+% as the whole reindeer flock is acting angrily.
+
+Hey, they're going nuts, like in those nature films!
+-- Barney, National Geographic subscriber for life, "Homer's Phobia"
+
+% "Must be mating season," Moe adds.  The reindeer line up against
+% Homer, Bart, Moe and Barney, who all scream. Immediately, Barney and
+% Moe find hiding places, but Homer's stuck in the middle.  As a father,
+% he protects his son by raising him in the air.
+
+ Bart: No, don't!  You have to protect yourself!
+Homer: Son, there comes a time in every father's life when he must...
+        [a reindeer rushes him]
+       Argh!
+        [a reindeer from the other side of Homer rushes him too]
+       Urgh!
+ Bart: Dad, are you hurt?
+Homer: Just... my bones... and organs.
+-- And whatever's left inbetween, "Homer's Phobia"
+
+% The reindeer keep knocking Homer around when the attack is interrupted
+% by the toy-keyboard sound of "Jingle Bells."  The reindeer back away
+% as this thing nears closer to a beaten up Homer, deadpanning "Ho ho
+% ho..." Yup, it's the mechanical Santa, Mr. "Annual Gift Man" in person.
+
+Homer: Look, Bart!  It's Santa Claus!
+        [robot fires two missiles, which makes reindeer back-up]
+ Bart: Woah, it's Santa all right.  And he is kicking ass!
+-- "Homer's Phobia"
+
+% All the reindeer run away.
+
+Homer: It's a miracle!
+ John: [holding the Santa remote] No, ultrasuede is a miracle. This is
+       just good timing.
+Marge: Oh, Homie, I'm so glad you're safe.  [hugs him]
+       Hmm, you feel softer than before.
+Homer: [in pain] I've been tenderized.
+-- "Homer's Phobia"
+
+  Bart: How'd you know that thing would work?
+  John: Well the sound is just _brutal_, and I figured reindeer would
+        naturally be afraid of their cruel master Santa Claus.  I mean,
+        wouldn't you be?  Ha!
+Barney: Is it okay to come out now, Mr. Gay Man?  Sir?
+   Moe: I'll do anything you say!  *Anything*!
+-- "Homer's Phobia"
+
+% All is well that ends well, as everyone heads home.  However, some
+% wounds will take some time to heal...
+
+Barney: Aw, Moe, we were saved by a sissy.
+   Moe: Yeah, yeah, we'll never live it down.  Oh, boy, it looks like
+        it's suicide again for me.
+ Homer: Hey!  We owe this guy, and I don't want you calling him a sissy.
+        This guy's a fruit, and a... no, wait, wait, wait: queer, queer
+        queer!  That's what you like to be called, right?
+  John: Well, that or John.
+  Lisa: This is about as tolerant as Dad gets so you should be
+        flattered.
+-- "Homer's Phobia"
+
+Well, Homer, I won your respect, and all I had to do was save your life.
+Now, if every gay man could just do the same, you'd be set.
+-- John sums up the situation, "Homer's Phobia"
+
+% On the ride home, Homer delivers a long-awaited message to his son.
+
+Homer: You know, Bart, maybe it's the concussion talking, but any way
+       you choose to live your life is okay with me.
+ Bart; Huh?
+ Lisa: [whispering] He thinks you're gay.
+ Bart: He thinks I'm gay?!
+        ["Everybody Dance Now" plays on-screen]
+-- So do some people on a.t.s., it seems, "Homer's Phobia"
+
+% We cut closer and closer to Bart's mystified face in accordance with
+% the song, which plays on as John's car drives off. The words
+% "Dedicated to The Steelworkers of America Keep Reaching For That
+% Rainbow" appear on screen as the song plays during the credits.
+%
+% [End of Act Three.  Time: 20:30]
+
+==============================================================================
+> Contributors
+==============================================================================
+{dga} Dale G. Abersold
+{ma}  Matthew Anscher
+{jmb} Jennifer M. Blaske
+{jrc} James R. Curry
+{jh}  Jason Hancock
+{hl}  Haynes Lee
+{ol}  Ondre Lombard
+{bm}  Blaine Moller
+{dp}  Dallas Pesola
+{jp}  John Plasket
+{sp}  Steve Portigal
+{jr}  Jeremy Reaban
+{mar} Mark Aaron Richey
+{bjr} Benjamin J. Robinson
+{ljs} Liam J. Scanlan
+{bw}  Brian Westley
+==============================================================================
+> Legal Mumbo Jumbo
+==============================================================================
+This episode capsule is Copyright 1997 Frederic Briere. It is not to be
+redistributed in a public forum without consent from its author or current
+maintainer (capsules@snpp.com). All quoted material, episode summaries and
+specials about people getting decapitated by vicious bears remain property of
+The Simpsons, Copyright of Twentieth Century Fox. The transcript itself is
+Copyright 1997 Ondre Lombard. Read the manual before plugging in.
+
+This work is dedicated to Raymond Chen, James A. Cherry, Ricardo Lafaurie, and
+all of those who made episode capsules what they are today.
+
+Many well-deserved cheers and thanks to Dave "transcendent" Hall, who provided
+me with alt.tv.simpsons archives when needed. This capsule wouldn't be nearly
+as complete without his invaluable help.

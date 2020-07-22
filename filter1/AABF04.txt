@@ -1,0 +1,564 @@
+% The Simpsonmobile is driving down a street, supposedly carrying OFF 
+% on a day out of some sort.  Bart is busying himself with a pamphlet.
+
+Bart:	This ghost town is gonna be great.  [reads pamphlet]  Now 
+	with 30% more gunfights!
+Marge:	[looking in a copy of the same booklet] And 40% more 
+	root'n toot'n!
+Lisa:	And the tumble weeds tumble at two, four and six; plus a 
+	midnight  tumbling on weekends!
+Marge:	That's so sweet of you to take us out like this, Homie!  
+	[Marge turns around to the kids]  Come on kids!  Three 
+	cheers for your father; hip, hip!
+Lisa:	Mom, don't.
+Marge:	Hip, hip!
+Bart:	We heard you the first time.
+Marge:	[insistently] Hip, hip!
+Homer:	Hey, I'm trying to drive here!
+-- "Homer Simpson in:  Kidney Trouble"
+
+% A quiet beeping noise begins to sound.  Lisa observes where it's 
+% coming from and sees a small warning light on the dashboard of the 
+% car.  She warns Homer about it, and his solution is to stick some 
+% duct tape on the light.
+%
+% The solution doesn't work for long, and the car slows to a halt in 
+% front of the Springfield Retirement Castle.  Abe is sitting in a 
+% chair with Jasper next to him.  "Aaaw, they remembered my birthday," 
+% Abe says.  He stands up happily and starts walking towards the car.  
+% Homer desperately tries to get it started, but no dice.  Abe, 
+% walking along with his arms out in front of him like a zombie, 
+% sings, "Happy birthday to me, happy birthday to me!"
+%
+% In a zombie-movie style climax, Grampa slowly approaches the car and 
+% comes to the window.  Meanwhile, on the other side of the car, 
+% Jasper goes to Lisa's window and shocks her.  By the looks of 
+% things, Grampa has invited himself to the day out.
+%
+% The day does not pass as quickly as Homer would like.
+
+Homer:	[looking at watch] Two hours?  Why'd they build this ghost 
+	town so far away?
+Lisa:	Because they discovered gold right over there!
+Homer:	It's because they're stupid, that's why.  That's why 
+	everybody does everything.
+-- That explains a few things, "Homer Simpson in:  Kidney Trouble"
+
+% The Simpsons finally arrive at the ghost town called "Bloodbath 
+% Gulch."  It appears to be set up like a small town in a western 
+% movie.  There is a small group of people with a tour guide.
+
+
+Marge:	This should be very educational.  I want you kids to pay 
+	attention.
+Guide:	Founded by prostitutes in 1849, and serviced by prostitute 
+	express riders who could bring in a fresh prostitute from 
+	Saint Joe in three days; Bloodbath Gulch quickly became 
+	known as a place where a trail hand could spend a month's 
+	pay in three minutes.
+Homer:	Three minutes!  [whistles]
+Marge:	I never realized history was so filthy!
+Guide:	First on our tour is the whore house; then we'll visit the 
+	cathouse, the brothel, the bordello, and finally the old 
+	mission.
+Marge:	Oh, thank heaven!
+Guide:	Lots of prostitutes in there!
+Marge:	Hmmmmm ...
+-- History class was never like this, "Homer Simpson in:  Kidney
+   Trouble"
+
+% The tour continues.
+
+Guide:	... but there was more to the old west than just sex, 
+	folks, a lot more!  If you look off to your left, you'll 
+	see a real old west hitchin' post, possibly used by 
+	bandits, possibly during some exciting adventure!  And 
+	these planks below us were possibly used as a sidewalk by 
+	people who may or may not have been bandits!
+Marge:	[takes a photo of the planks] That's a keeper!  [Homer 
+	raises his hand]
+Guide:	Uh, yes sir?
+Homer:	Do we have to listen to you?
+Guide:	Well, no, you don't, but if you have any interest in 
+	history ...
+Homer:	I'm done!  [walks away]  [Marge nervously laughs, picks up 
+	Maggie and walks away with the kids]
+-- History is bunk, anyway, "Homer Simpson in:  Kidney Trouble"
+
+% The family walk into a bar titled "Ye Old Animatronic Saloon."  A 
+% piano song accompanies.
+
+Bart:		Wow, have you ever seen so many robot cowboys?  
+		[Homer goes to the bartender]
+Homer:		Hey, robot, get your fat metal ass down here!
+Bartender:	Well, first of all; I'm not a robot, and second, I 
+		got this metal ass in 'Nam, defending this country 
+		for lazy jerks like you!
+		[cheers up]  Now, what'll you have, partner?!
+Homer:		Let's see, [counts Marge, Bart and Lisa] One, two, 
+		three ... six whiskeys!
+Bart:		All right!
+Bartender:	We only serve sasparilla, mac, no alcohol.
+Homer:		Ohhh ...
+Marge:		You can get drunk when we get home!
+Homer:		Duh!
+-- "Homer Simpson in:  Kidney Trouble"
+
+% Some robot cowboys are playing cards, sat at a table.
+
+Robot 1:	Hey, these cards are mine.  [table falls]
+Robot 2:	Now look what you've done.
+Robot 1:	I'm sorry I don't know what came over me.
+Robot 3:	Let's forget this whole thing happened.
+Homer:		What the heck is this, a tea party?  Somebody kill 
+		somebody!  [Homer raises his bottle and smashes it on a 
+		robot's head.  The robots begin to shoot Homer, who dives 
+		under a table]
+Marge:		What is it with you and robots?
+-- "Homer Simpson in:  Kidney Trouble"
+
+% Bart puts a quarter in a robot's head.  The stage comes to life, 
+% music plays, and some robot women begin to do an unsavory dance, 
+% baring their underwear.  One kick her legs, and it flies off, 
+% narrowly missing Bart and crashing through the window.  One leans 
+% over and her buttcheeks come flying off, and land next to Abe who is 
+% standing at the bar; drinking.  "Oooooh!  Hello, sweet cheeks!"  Abe 
+% says, and squeezes the derriere.  A hand comes flying and slaps him 
+% in the face.
+%
+% Meanwhile, Marge is standing by an electronic horse ride for babies, 
+% which Maggie is sitting on.
+
+Marge:	Who's a little cowgirl?  [Maggie pulls the ear off]
+Bart:	[runs up] Hey, mom, look what I got!
+	[shows Marge a poster which shows a picture of Homer's 
+	face, and the words, "WANTED FOR LEWD BEHAVIOUR."]
+Marge:	Oh, that's cute!  [laughs]  Did you get it in the souvenir 
+	shop?
+Bart:	No, that security guard is handing them out! [indicates]
+Marge:	Hmmmmm ... [nervously takes the poster, screws it up and 
+	puts it in her purse]
+-- "Homer Simpson in:  Kidney Trouble:
+
+% Suddenly, some cowboys begin to have a gunfight.
+
+Guide:	[obvious] Uh oh!  Better run for cover, partners!  Some 
+	varmints are having a shoot-out!
+Cowboy:	Yeeeeee haaaaaa!  [the cowboys start shooting, and say 
+	things like, "You yellowbelly!"]
+	[a fat, slobby cowboy walks along, moaning.  The crowd is 
+	amused by this supposed humorous gesture]
+Guide:	Ho, ho, there's old Curly.  He played the town preacher 
+	until we laid him off, but he still hangs around!  [crowd 
+	claps]
+Curly:	[walks to Homer] Help me, please!  I'm sick!
+Homer:	[laughs hysterically]
+Marge:	Homer!
+Homer:	But it's funny, Marge; the guy's sick!  [Curly collapses 
+	into a horse trough, unable to breathe because of the 
+	water or get out.  He becomes unconscious]
+Lisa:	Uh, shouldn't we help him?
+Bart:	He knows what he's doing.  [someone takes a photo]
+-- Job dedication, "Homer Simpson in:  Kidney Trouble"
+
+% Abe is drinking in the bar.
+
+Abe:		Ah, can't get a good sasparilla like this back in 
+		Springfield.  It angries up the blood.
+Bartender:	Heh, you like it, huh?
+Abe:		Up yours!!
+-- ... and that's why they banned it in Springfield, "Homer Simpson 
+   in:  Kidney Trouble"
+
+% The day is over, and the Simpsons head home.
+
+Abe:	Uh, can I go to the bathroom before we leave?
+	Homer:	Oh, we've got to go home!  I don't want to miss "Inside 
+	the Actor's Studio"!  Tonight it's F. Murray Abraham!
+Abe:	But I really need to ...
+Homer:	F ... MURRAY ... ABRAHAM!
+	[the family has been driving for a while.  Homer is 
+	whistling.  Grampa is struggling]
+Abe:	There's a rest area!  Pull over!
+Homer:	Can't stop now, we're making great time!
+Abe:	Erg, can I go behind a tree?
+Homer:	What are you, an animal?
+	[later ...]
+Homer:	Whoever keeps saying "please stop" back there better quit 
+	it!
+Abe:	Ohh ... [They pass a very, very, very large toilet]
+Homer:	Wow, get a load of that toilet!
+Abe:	Pleeaaase, go back!  You can make it my birthday present!
+Homer:	Oh, we're almost home, dad.  Only a couple more times over 
+	the horizon.
+Abe:	I might explode!
+Homer:	[reassuring] You just sit back and relax.  I'm not gonna 
+	let anything happen to my old dad!
+	[later still, at Springfield Hospital, Dr. Hibbert shows 
+	OFF an X-ray of Grampa's kidneys]
+Hibbert:Oh, dear God!  This man's kidney's have exploded!  There's 
+	nothing left!
+-- Sit back and relax, indeed, "Homer Simpson in:  Kidney Trouble"
+
+% Despite Homer's suggestion that Grampa's kidney explosion is a 
+% natural part of aging, Dr. Hibbert diagnoses the problem as a 
+% "textbook kidney blowout."  Abe wants to eat something, but Hibbert 
+% says Abe's eating days are behind him.  Abe laughs, realizes its a 
+% bad thing, and moans.
+%
+% [End of Act Two.  Time:  7:14]
+%
+% At Springfield Hospital, the evaluation of Grampa's condition 
+% continues.
+
+Abe:	 How long do I have to live, Doc?
+Hibbert: [laughs] I'm amazed you're alive now!
+Homer:	 Ooooh ...!  I blame myself for this.
+Marge:	 We all blame you.
+Homer:	 Come on, Doc, there's gotta be something I can do to help 
+	 my dad!
+Hibbert: Well, you could give him a kidney.
+Homer:	 A kidney?! ... O.K; fine.
+Hibbert: You see, the waiting list for a kidney is very long, and 
+	 ...
+Homer:	 I said fine!  What is it about the word "sure" you don't 
+	 understand?
+Abe:	 Oh, thank you, son!  [runs up to Homer and hugs him, and 
+	 feels his kidneys]  Mmmm, I'll take the left one!  It's 
+	 good and springy; though the right one's not without its 
+	 charm!
+-- Decisions, decisions, "Homer Simpson in:  Kidney Trouble"
+
+% Back at the Simpsons home, Homer eats from a tray heaping with his 
+% favorite foods.  Bart rents his dad's favorite gorilla movies 
+% ("Gorilla Squadron," "Gorilla Island 6," and the airline version of 
+% "Apes-A-Poppin!")  As Lisa fluffs his pillow, Homer decides he's the 
+% world's luckiest man, especially now that Lou Gehrig passed away.
+%
+% Later, Homer is sitting at the counter at Moe's Bar.
+
+Moe:	Well; I've got to hand it to you, Homer:  you're really 
+	brave to go through with this operation.
+Homer:	It's not an operation, Moe.  The doctor said it's just a 
+	procedure.
+Moe:	No, no, no, no, making polenta, now that's a procedure.  
+	We're talking about deadly life threatening surgery here.
+Homer:	Really?  You think It's dangerous?
+Carl:	Oh, yeah; and even if you survive the operation ...
+Homer:	Procedure!  Deadly procedure.
+Carl:	Whatever, the point is, with only one kidney, you won't be 
+	able to drink yourself stupid no more.
+Homer:	[defensively] Now you're just trying to scare me.
+Lenny:	Plus, they'll put you on one of those organ donor sucker 
+	lists.  Everyone who wants an eyeball or a spine or a 
+	vestigial tail will be after ya!
+Homer:	But I don't want that!
+Moe:	Listen, I'm just gonna get right to the point here ... can 
+	I have your buttocks?  I mean, if you die.  They look 
+	pretty comfortable.
+Homer:	Yeah, I guess.
+Carl:	And, uh, are those your original lips?
+Homer:	Well, actually I ... Hey!  Quit harvesting me with your 
+	eyes!  [Homer storms out of the bar.  Moe looks at Homer's 
+	butt]
+Moe:	Oh, yeah ... that would look so good on me!
+-- Parts is parts, "Homer Simpson in:  Kidney Trouble"
+
+% Homer and Marge are going to bed.
+
+Homer:	Marge, I've been thinking.  What if instead of donating 
+	one of my old worn out kidneys; I give Grampa that 
+	artificial kidney I invented?
+Marge:	Oh, Homer, that was just a beer can with a whistle glued 
+	to it.
+Homer:	Oh, but I don't want them cutting up my soft, supple body!  
+	Why didn't someone tell me what I was volunteering for?  
+	This is everybody's fault but mine.
+Marge:	Oh, I know you're scared, Homie; but remember why you're 
+	doing this!  It's for your father!  The man who raised 
+	you; and nurtured you.
+	[flashback ...]
+Abe:	[reading to Homer] Jack and Jill went up the hill aaaand 
+	... [skips pages] Jill came tumbling after; the end!  Good 
+	night.
+Homer:	[younger] Is that the same Jack from Jack and the 
+	Beanstalk?
+Abe:	You know, son, I believe it is.
+Homer:	And Jack Sprat.  Is that him, too?
+Abe:	Sure, why not?  Goodnight.
+Homer:	Is he the same as Jack Be Nimble, and Jack Frost, and 
+	Little Jack Horner?
+Abe:	[picks up bottle] Saaaay, how about a little NyQuil?
+Homer:	[drinks a cup] All gone.  [falls asleep]
+Abe:	Aw, I love you, son.
+	[back to present]
+Homer:	I owe dad so much.  Those bedtime stories began my 
+	lifelong love affair with the printed word.  [pats TV 
+	guide]
+Marge:	Well, giving him a kidney is a wonderful way of showing 
+	him how you feel!
+Homer:	You're right, Marge.  I'll do it!  But if I die during the 
+	operation, will you do one thing for me?
+Marge:	Oh, anything, sweetheart!
+Homer:	Blow up the hospital.
+Marge:	Hmmm ... well, I said I'd do it, so I guess I'll have to.
+Homer:	That's my girl.  [Homer lays down to go to sleep]
+Marge:	Hmmmm ...
+-- "Homer Simpson in:  Kidney Trouble"
+
+% The next day at the hospital, as Doc Martens is called to podiatry, 
+% a nurse asks Homer to sign a liability wavier.  He does so, 
+% reluctantly.
+%
+% With the formalities out of the way, the operation can begin.  Homer 
+% and Abe are on hospital surgery beds next to each other, preparing 
+% for the operation.
+
+Abe:	 I love you, son.
+Homer:	 I love you, dad.  [they hold hands]
+Hibbert: [puts on surgical gloves] Now don't you fella's worry; 
+	 this will all be over soon and ... what the?
+	 [Homer isn't there, and the curtains flap because of the 
+	 wind coming from the open window.  Homer has obviously 
+	 chickened out]
+Hibbert: We've gotta get rid of that window!
+-- That might be a good idea, "Homer Simpson in:  Kidney Trouble"
+
+% Abe asks where his son is.  The answer:  On a railroad handcar, 
+% trying to get as far away from the hospital as he can.
+%
+% [End of Act Two.  Time:  11:48.1]
+%
+% Back at Springfield Hospital, the rest of the family tries to take 
+% in the consequences of Homer's flight.
+
+Lisa:	 I can't imagine dad running away like this, leaving his 
+	 father to die ...
+Bart:	 Even I wouldn't do that, and I'm America's bad boy.
+Hibbert: It's a heartbreaking situation.  [laughs.  Each laugh gets 
+	 duller each time]
+Abe:	 Am I dead yet?
+Marge:	 No.
+Abe:	 How about now?
+Marge:	 No.  [losing temper]
+Abe:	 Now?
+Marge:	 I'll tell you when you're dead, Grampa.
+Abe:	 Thank you.
+-- "Homer Simpson in:  Kidney Trouble"
+
+% Meanwhile, Homer is still painfully trying to pilot the handcar down 
+% the middle of a public road.  Ultimately, he parks it between two 
+% cars, and walks along a dock.
+
+Homer:	I'm not worthy to live among civilized people.  [looks at 
+	some uncivilized kind of people]  Even those guys look too 
+	civilized for me.  [sees seagulls and gasps]  I can live 
+	at sea!  The sea forgives all!  [angers]  Unlike those
+	mean old mountains!  I hate them so much!
+	[the wind blows Homer's "gown" up at the back.  Some 
+	people groan]
+	The sea won't stand for this!
+-- "Homer Simpson in:  Kidney Trouble"
+
+% Homer walks into a shop titled "Davey Jones' Hamper," and walks out 
+% wearing a sailor hat and some better clothes.  He walks up to guy 
+% painting the side of a ship
+
+Homer:	Um, can I be a mate on your ship?  Preferably first mate.
+Guy:	Well, if you'll look closely, you'll notice this is a 
+	taffy shop, shaped like a ship.  [camera pulls out to show 
+	that he's telling the truth]
+Homer:	Oooh, I like taffy but I don't deserve taffy!
+-- "Homer Simpson in:  Kidney Trouble"
+
+% Back at the hospital, Abe is sleeping in his bed.  Krusty comes into 
+% the room, frantically strumming a ukulele.
+
+Krusty:	Hey, hey!  [Abe wakes up startled]  Krusty, here to cheer 
+	you up as part of the hospital's last laugh program!
+Abe:	Last laugh?
+Krusty:	So, how about that hospital food, huh?
+Abe:	I wouldn't know, I'm not allowed to eat.
+Krusty:	Oooo Kaaay ... let's have a look at the old chart.  
+	[looks]  Oh, boy ... looks like we're both short on time!  
+	Well, so I'll go to the big finish.
+	[singing]  You are so beautiful toooooo meeeeeeeeeee!!!  
+	[Krusty runs out of the room, and puts his head through 
+	the door]  Feel better!
+Abe:	Come back, doctor!
+-- "Homer Simpson in:  Kidney Trouble"
+
+% Homer is walking along pier, and sees ship sailing away.
+
+Homer:	A tramp steamer!  That's perfect!  [runs and jumps, and 
+	hangs onto the back of the ship.  Capt. McAllister walks 
+	up] I'd like to apply for a job.  [still hanging]  Any 
+	job!  If you don't have a captain I could be that.
+Capt.:	Arrr, what other ships have you been on?
+Homer:	I've been in that one, [points] the Taffy Shop.
+Capt.:	Good enough.  [helps Homer up]  Welcome aboard the ship of 
+	... [grimly] lost souls ...
+Homer:	The name on the back says "Honeybunch."
+Capt.:	Yarr, I've been meaning to paint over that.  Now come and 
+	meet the rest of the damned.  Did I mention they're ... 
+	[grimly] lost souls ...?
+Homer:	Well, actually you did.
+Capt.:	Yarr, yarr ...
+-- Homer joins the crew of ... lost souls, "Homer Simpson in:  Kidney
+   Trouble"
+
+% Homer walks into a room on the ship.  It is full of stereotypes, er, 
+% lost souls.
+
+Frenchman:	Another lost soul has joined our world-weary 
+		"ensemble."
+Homer:		Hey, who are you guys?
+Tux Guy:	[laughs] Who are we?  No one.  Where are we sailing?  
+		Nowhere.  Do we even exist?  Who knows?!
+Homer:		Hey, let me off this thing!
+Englishman:	Oh, don't listen to him.  We exist, all right.
+Homer:		Phew ...
+Woman:		We wander the seven seas trying to forget.
+Homer:		Forget what?
+Englishman:	Oh, boy, here we go.
+Woman:		My story of jilted love is long and bittersweet.  If 
+		anyone has to go to the bathroom, go now.  I don't 
+		you walking around during my story.
+Englishman:	My story's better, it has tigers!
+Woman:		I was born into wretched poverty.  So one day I 
+		stole a loaf of bread ... put it into the freezer 
+		until it was very hard, then robbed a bank with it!
+Homer:		[gasps]
+-- Terrifying tales of the damned, "Homer Simpson in:  Kidney Trouble"
+
+% Later, the tuxedo-wearing man concludes his tale.
+
+Tux Guy:	... and when Mr. Dinkley saw what I had done, I was 
+		banned from the car wash forever!
+Woman:		Forever?  How awful.
+Frenchman:	I would have killed Dinkley for that.
+Englishman:	As you can see, we're contemptible lot of killers, 
+		bounders, and tiger stabbers.
+Frenchman:	Come, stranger, join our circle of infamy.  Tell us 
+		your story of ennui.
+Homer:		Well, back on land my name was ... Homer Simpson ... 
+		and I guess it is here, too.  I promised my dad one 
+		of my kidneys, but I chickened out on the last 
+		minute and left him on his death bed.  [everyone 
+		immediately stops what they were doing, shocked]
+Card Guy:	Good lord!
+Woman:		Oh, how could you?
+Englishman:	I think I'm going to be sick.
+Frenchman:	I stole this accordion from a blind monkey, but you 
+		... ugh!  You disgust even me!
+-- Homer Simpson, =really= lost soul
+
+% Even a crew of lost souls has its standards.  They throw Homer 
+% overboard, into the water below, and the ship sails away.
+
+That's the last time I trust the strangest people on earth.
+-- Homer Simpson, "Homer Simpson in:  Kidney Trouble"
+
+% The sea washes Homer onto the shore.  "Even the sea won't forgive 
+% me," he laments.  On the beach, a happy father and son finish 
+% building a sandcastle together.  The sight inspires Homer to go 
+% through with the operation and save his dad's life.  As he marches 
+% off to the hospital, Homer accidentally kicks over the sand castle.  
+% The kid cries, as the father yells at Homer.
+%
+% Turning a new leaf turns out to be more difficult than Homer 
+% imagined.  The first time he walks up to the doors, fear overcomes 
+% him, and he runs away.  Homer screws up his courage and tries again, 
+% only to run away a second time.  The third time is the charm, as 
+% Homer runs screaming into the hospital.
+%
+% Inside the hospital, Abe lies in the bed.  The Simpsons [minus 
+% Homer] are around his bed, along with Dr Hibbert and Rev. Lovejoy.
+
+Marge:	 Aren't you going to give him the last rites?
+Rev.:	 That's Catholic, Marge.  You might as well ask me to do a 
+	 voodoo dance!
+Lisa:	 Dr. Hibbert, I thought you'd located another kidney for 
+	 Grampa!
+Hibbert: Larry Hagman took it.  He's got five of them now!  And 
+	 three hearts!  We didn't want to give them to him but he 
+	 overpowered us.
+Abe:	 Don't worry about old Grampa.  I'm going to a better 
+	 place.  Shelbyville Hospital!  [tries to get up, but 
+	 can't]  Ooooh ..., who am I kiddin'?  I'm a goner.
+Homer:	 [at door] No you're not, dad!
+Marge:	 [gasps] Homer!
+Lisa:	 Dad!
+Abe:	 Son!
+-- "Homer Simpson in:  Kidney Trouble"
+
+% Homer and Abe are on the hospital beds again ...
+
+Homer:	 I'm sorry, dad.  The way I behaved was shameful.  I guess 
+	 fear made me run away.  But love made me come back.
+Abe:	 Bless you, son!  I knew you'd come through for me ...
+Hibbert: Now, Homer, this may sting just a tiny bit.  But ... 
+	 [Homer is gone, again.  Curtains flap]
+Abe:	 Oh, son of a ...
+-- You got that right, "Homer Simpson in:  Kidney Trouble"
+
+% Homer is running, scared.  He runs onto a road where Hans Moleman is 
+% driving a car transporter.
+
+Hans:	Oh dear ... [brakes, only just manages to stop before 
+	hitting Homer]
+Homer:	[Homer flinches in the usual getting-run-over way]
+	Phew!  Boy, that ...
+	[rather than being ran over, a car falls from the top of 
+	the car transporter, onto Homer]
+	Ow!!!
+-- If it's not one thing, it's another, "Homer Simpson in:  Kidney
+   Trouble"
+
+% The next thing we know, Homer regains consciousness.  The view is 
+% Homer's vision.  Eyes blinking, everything is blurry.  Vision clears 
+% up.  Marge, Lisa and Bart are looking at him, smiling.
+
+Lisa:	 He's waking up!
+Marge:	 Oh, Homie, I'm so glad you're all right!
+Bart:	 [family moves away] Try not to move, dad.  You swallowed a 
+	 lot of motor oil.
+Homer:	 I'm sorry I ran off again.  Oh, I guess dad must be dead 
+	 by now.  But when I get better; and after I build those 
+	 shelves for the kitchen, we'll visit his grave.
+Abe:	 [at door, wearing maroon suit] Grave, nothin'!  I never 
+	 felt more alive!
+	 [laughs and tries to jump, but something snaps]  Oooh boy, 
+	 I shouldn't have done that!
+Homer:	 It's a miracle!  You recovered!
+	 [Marge, Lisa, Bart and Dr Hibbert smile and quietly laugh 
+	 nervously]
+Homer:	 What?  [silence] [whiney] What?  [looks at his side and 
+	 sees stitches, indicating the removal of his kidney]  Hey!
+Hibbert: While we were setting your broken bones and putting your 
+	 blood back in; we helped ourselves to a kidney, and gave 
+	 it to your father.
+Homer:	 [annoyed, trying to get Grampa] You butcher!  Give it 
+	 back!  Give me that ...!
+Abe:	 [Abe makes fun of Homer, dancing etc., and then leaves]
+Homer:	 [threatening] You dance out that door and ... I'll get my 
+	 kidney back, old man!  You have to sleep sometime!
+Lisa:	 I know you're a little peeved at Grampa, dad, but you've 
+	 done a wonderful thing!
+Marge:	 Yes!  You've shortened your life significantly so someone 
+	 else can have a slight extension of theirs!
+Homer:	 Yeeaaah, I guess you're right.  Give me a hug!  [everyone 
+	 hugs Homer]
+	 I don't need two kidneys.  I have everything I need right 
+	 here.
+	 [Homer feels Bart's kidney]
+Bart:	 [laughing] Dad!  You're tickling me!
+Homer:	 [falsely agreeing] Yeeaaah ... tickling ...
+Bart:	 [realizes what Homer is up to.  Looks at camera, worried] 
+	 Mmmm ...?
+-- What is family for?  "Homer Simpson in:  Kidney Trouble"
+
+% [End of Act Three.  Time:  20:30]
+
+
+<|endoftext|>

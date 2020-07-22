@@ -1,0 +1,562 @@
+% [Syndication cuts are marked in curly braces "{}" and are courtesy of
+% Ricardo Lafaurie and Frederic Briere.]
+%
+% The scene opens on a TV show.  A speedboat drives into view.
+
+ Announcer: We now return to "Knightboat: the Crime-Solving Boat".
+   Michael: Faster, Knightboat!  We gotta catch those starfish poachers.
+Knightboat: You don't have to yell, Michael, I'm all around you.
+   Michael: Oh, no!  They're headed for land.
+             [the poachers ride onto the beach, jump on motorcycles, and
+            speed away]
+   Michael: We'll never catch them now.
+Knightboat: Incorrect: look!  A canal.
+     Homer: Go, Knightboat, go!
+      Bart: Oh, every week there's a canal.
+      Lisa: Or an inlet.
+      Bart: Or a fjord.
+     Homer: Quiet!  I will not hear another word against the boat.
+-- Ripoff 90s shows, "And Maggie Makes Three"
+
+% Marge walks in.
+
+Marge: OK, TV off.  It's family time.
+Homer: Oh, but Marge!  Knightboat, the _crime-solving_ boat.
+Marge: Homer, you promised.  One night of family time a week -- besides,
+       that backtalking boat sets a bad example.
+ Bart: Says you, woman.
+-- Marge, right yet again, "And Maggie Makes Three"
+
+% Marge turns the TV off amidst groans.
+
+Marge: All right, family time begins now.
+        [turns a kitchen timer to 0:60]
+        [Bart yawns; Homer yawns]
+        [Homer grabs the timer and starts turning it the other way]
+Marge: Homer!
+Homer: It was Bart.
+-- Homer and his scapegoats, "And Maggie Makes Three"
+
+     Lisa: Why don't we all look at the photo album?
+    Homer: [as Marge opens it] So many memories.  Aw, look --
+           Knightboat.
+Bart+Lisa: Aww...
+    Homer: And _here's_ our TV next to the mirror!  It looks like we
+           have two.
+Bart+Lisa: Wow, two!
+    Marge: Yeah, yeah, yeah, two.  Let's get to the baby pictures.
+Bart+Lisa: Aw, Mom!
+    Homer: [sarcastic] Oh, yeah, _that's_ exciting.
+-- Quality family time, "And Maggie Makes Three"
+
+% Marge shows one of a young Bart, naked, with a cowboy at, riding
+% Snowball I. The next is of young Lisa next to a giant castle of blocks
+% she's built.  In the next, a Lisa cries as Bart stands among the ruins
+% of her castle.
+
+           [looking at the photo album]
+    Marge: Here's Bart sleeping.  Here he is dozing...here he is after a
+           visit from the sandman.  Ooh, here's nappy time, Bart!
+           Here's a cute one: he's all tuckered out.
+     Lisa: Why aren't there any pictures of Maggie?
+            [Maggie looks worried]
+    Homer: Well I'm _glad_ you asked.  It's actually a very interesting
+           story.
+Bart+Lisa: [groaning] Oh...
+    Homer: It all began about two years ago before Maggie was even born.
+           {Bart, you were Lisa's age and Lisa, you were...the age Bart
+           was several years ago.}
+     Bart: {Get the camera ready, Bart very sleepy...[yawns]}
+-- Photo ops, "And Maggie Makes Three"
+
+    Homer: {Listen carefully and my words will shape images as clear as
+           any TV show.}  It was a tumultuous time for our nation: the
+           clear beverage craze gave us all a reason to live.  The
+           information superhighway showed the average person what some
+           nerd thinks about Star Trek.  And the domestication of the
+           dog continued unabated.
+            [flash to Homer at work]
+           I was at my work station when suddenly --
+            [a voice comes over the PA]
+Terrorist: Attention American workers: your plant has been taken over by
+           an all-star team of freelance terrorists.
+            [the lights go off; the emergency lighting comes on]
+    Homer: Not on _my_ shift!  [jumps into an overhead vent]
+            [in Burns' office, terrorists prepare to kill bound and
+           gagged Lenny, Burns, and Carl]
+            [Homer arrives through a vent and karate chops them all]
+    Homer: Simpson ten, terrorists eight.
+            [the gagged captives laugh despite themselves]
+    Marge: Homer, tell the story right!
+    Homer: Oh, OK.
+-- Hyperbolic Homer, "And Maggie Makes Three"
+
+% In the actual story...
+
+          [Homer raises his arms one at a time in front of a fan]
+           [Carl and Lenny hold hankies to their noses and cough]
+    Carl: [gagging] Homer, you should see a doctor -- I don't think a
+          healthy man can make that kind of smell.
+Smithers: [walking in] Your paychecks, gentlemen.
+   Homer: [opening his] Woo hoo!  This is it: with this single, glorious
+          check, I'm finally completely out of debt!  [he checks a
+          calendar with the 18th circled: "Out of debt here"]
+          Yes!  With my bills paid off, I can finally quit this lousy
+          job.
+   Lenny: But Homer, how are you going to make a living?
+   Homer: Don't worry about Homer J., I've got a plan.  [menacing] A
+          plan that'll fix you good...
+    Carl: Hey, what did we do?
+   Homer: Sorry, that just slipped out.  [hugs them] I'll miss you.
+-- Homer's sincere departure, "And Maggie Makes Three"
+
+% Homer walks into Burns' office.
+
+Homer: Did you hear me?  I said I quit, Monty!  And since I quit, I can
+       do anything I want.
+Burns: Is that so?
+Homer: Ooh, lovely desk.  It would be too bad if someone, oh, I don't
+       know...didn't use a coaster!
+        [picks glass off coaster, puts it on the desk]
+Burns: [gasps]
+Homer: [laughs] Such a nice tidy office...maybe it's time you started
+       living like a pig!
+        [empties single wad of paper from garbage pail onto floor]
+Burns: [stammers incoherently]
+Homer: Oh, I hope I haven't upset you...bongo-head!
+        [starts playing the bongos on Burns' head, grunting along]
+Burns: [calm] Oh, I should be resisting this, but I'm paralyzed with
+       rage...and island rhythms.
+        [Homer drives through the plant on an electric car]
+        [everyone cheers as Homer continues playing]
+ Carl: Yeah, way to play the boss' head like a bongo, Homer!
+Lenny: [moving to the beat] He's getting a pretty good sound out of that
+       guy.
+-- New uses for Burns' pate, "And Maggie Makes Three"
+
+% Outside the plant, Homer tosses Burns off the cart with a "That's for
+% employing me for eight years!"  On his way across a wooden bridge, he
+% tosses a match on it, setting it alight.
+
+ Homer: And that is that!  Goodbye mind-numbing, back-breaking labor
+        forever.  Hello, dream job in paradise.
+         [scene switch to Homer against a backdrop of blue skies,
+        beaches, palm trees, and steel drum music]
+        And now, the final phase of my plan.
+         [camera pulls back to reveal Homer is at the bowling alley]
+         [walking up to him] Hey Barney, any chance you can get me a job
+        here?
+Barney: Hey, sure, Homer.  I told you, my uncle owns the place.  Hey,
+        Uncle Al: can Homer here have a job?
+    Al: Sure.
+ Homer: Woo hoo!  [dances a little jig]
+    Al: Barney, you're fired.
+Barney: OK.  [walks away]
+    Al: Show up tomorrow.  Bring three rags.  Oh!  And, uh, change your
+        pants.
+ Homer: Why?
+    Al: When it happens, you'll know.
+-- Homer's new plan for life, "And Maggie Makes Three"
+
+% At home...
+
+     Bart: You're a pin-monkey?  Wow!  Finally I don't have to be
+           ashamed of my father's job.
+     Lisa: I think it's romantic, throwing off the shackles of the
+           workaday world and following a dream...of sorts.
+    Marge: I don't know if it's such a good idea.  Can we get by on a
+           pin-monkey's salary?
+    Homer: Don't worry, Marge, I've come up with a perfectly balanced
+           budget.  There will be exactly enough money for you, me,
+           Bart, and Lisa, if we make a few small sacrifices.
+    Marge: [skeptical] Uh huh...
+    Homer: From now on, we use regular toilet paper, not that fancy
+           quilted kind.
+            [Bart punches the wall]
+    Homer: And only one of you kids can go to college.
+Bart+Lisa: Fine.
+-- Probably _not_ Bart, I'm guessing, "And Maggie Makes Three"
+
+% Homer continues his narration.
+
+       [scene shows Marge dressing up and Homer in a suit]
+Homer: [voice-over] That night, your mother and I went out for a
+       romantic evening to celebrate the start of our new life...
+        ["At the Copacabana" plays]
+        [camera shows Marge and Homer dancing while seated in the car at
+       at Krusty Burger drive thru]
+Homer: [voice-over] ...followed by a stroll on the beach.
+        [they lie down on the sand near the water and kiss]
+Homer: Marge...
+Marge: Homer...
+Homer: [sly] I've got sand in my underpants.
+Marge: Me too.  Let's go home.
+        [they leave; Homer runs back quickly to scoop more sand into his
+       pants]
+-- So much for _that_ lumbering double entendre, "And Maggie Makes
+    Three"
+
+% At home, Homer enters the bedroom with Marge in his arms and manages
+% to remove his shoes, jacket, and tie without putting her down.
+
+Homer: [sighs] I love you, Marge.
+Marge: I love you too, Homey.
+Homer: Everything in our lives is finally perfectly balanced.  I hope
+       things stay exactly like this forever.
+Marge: Mm hmm.
+        ["Seconds later" scene shows lots of little Homer sperm bumping
+       their heads and going "D'oh!  D'oh!"]
+        [one breaks through the egg and goes "Woo hoo!"]
+        [scene switch to present day, Homer swimming like a sperm]
+Marge: Did you have to be so graphic?
+Homer: It's OK, Marge: they pave the way for this kind of filth in
+       school.
+-- Homer gives sex-ed lessons, "And Maggie Makes Three"
+
+     Lisa: So, Dad, were you excited that Mom was pregnant?
+    Homer: Actually, your mother hadn't told me.  At that time I had no
+           idea Maggie even existed.
+            [he goes to sit down, right where Maggie is]
+Bart+Lisa: Dad!  [Marge grabs her away]
+    Homer: [not realizing] Hi Maggie!
+-- At _that_ time?, "And Maggie Makes Three"
+
+% [End of Act One.  Time: 7:51]
+%
+% Homer continues the story.
+
+Homer: So anywho, back then there was _no_ way for me to know your
+       mother was pregnant.
+        [flash to Marge pushing Homer out of the way, running into the
+       bathroom, and throwing up]
+Homer: Marge, you tie up the bathroom every morning!  I've got to wash
+       my hair.  [pounds on door]
+-- "And Maggie Makes Three"
+
+Homer: [voice-over] The next few weeks at my dream job were like a
+       wonderful waking coma.
+        [Homer turns the balls so all finger holes point the same way]
+        [everyone walking by says, "Hi Homer!" cheerfully]
+Homer: [spraying shoes then sniffing them] Mmm, bowling fresh.
+        [putting urinal cakes in the urinals] Mmm, urinal fresh.
+        [Homer shines a ball in the "Shine-O Ball-O; glances around
+       furtively, then shines his head in it]
+   Al: [reflected in Homer's head] Homer, did you polish your head in
+       the Shine-O Ball-O?
+Homer: Mmm...no.
+   Al: OK, then.  [checks his hair, then walks off]
+-- I guess Homer's got an oily T-zone, "And Maggie Makes Three"
+
+% Homer explains, "I slowly learned the intricate mysteries of the
+% alley, like where the pins go after they're knocked down."  Jacques
+% bowls a strike, and pins fall down a chute onto a huge pile.  A truck,
+% meanwhile feeds logs onto a conveyer belt which are each whittled down
+% to a single pin, painted white, varnished, hardened, painted with two
+% red stripes by hand, then checked by a man in a lab coat.
+
+          [Homer serves drinks to bowlers]
+   Homer: [voice-over] I was in heaven.  If horseracing is the sport of
+          kings, then surely bowling is a...very good sport as well.
+Bowler 1: Hey, great job, Homer.
+Bowler 2: Thanks a lot, Homer.
+Bowler 3: Hey, you're the best.
+   Homer: [singing] I'm going to make it after all!
+           [tosses his bowling ball, which breaks through the alley]
+-- Homer Tyler Moore, "And Maggie Makes Three"
+
+% Meanwhile, Dr. Hibbert, sporting an Arsenioesque shaved brush cut, has
+% some news for Marge.
+
+Hibbert: Congratulations, Mrs. Simpson: you're pregnant.
+  Marge: Mmm...
+Hibbert: Am I to take it that this is [chuckles] an unwanted pregnancy?
+  Marge: Oh, no, no, not exactly.  It's just that I haven't told Homer
+         yet, and with his new job, I don't know how we're going to be
+         able to afford this.
+Hibbert: Well, you know a healthy baby can bring upwards of $60,000.
+  Marge: What?!
+Hibbert: Well, of course, that was just a test.  Er, had you reacted
+         differently, you'd be in jail right now.  Simply a test.
+         [laughs uncomfortably]
+-- Dr. Hibbert, evil Republican, "And Maggie Makes Three"
+
+% Marge breaks the news to her children.
+
+Marge: So in a few months, both of you will have a brand new brother or
+       sister.
+ Bart: Been there, done that.
+ Lisa: I hope it's a girl.
+ Bart: You know nothing about genetics, Lis: it goes boy, girl, boy,
+       girl.
+ Lisa: You're worried about telling Dad, aren't you, Mom?
+Marge: Why do you say that?
+ Lisa: Well you've been in my room for about four hours now.
+Marge: Hey, I'm just hangin'.
+        [Marge goes to the door and peeks around the corner furtively]
+-- A bun in the oven, "And Maggie Makes Three"
+
+% That night, before bed, Marge decides to tell Homer.
+
+Marge: Homey, I --
+Homer: Can't talk, praying.  Dear Lord, the gods have been good to me
+       and I am thankful.  For the first time in my life, everything is
+       absolutely perfect just the way it is.
+Marge: Mmm.
+Homer: So here's the deal: you freeze everything as it is, and I won't
+       ask for anything more.  If that is OK, please give me absolutely
+       no sign.  [brief pause] OK, deal.
+       In gratitude, I present you this offering of cookies and milk.
+       If you want me to eat them for you, please give me no sign.
+       [brief pause] Thy will be done!  [mows down]
+-- Homer's solution to the Lord's unresponsiveness, "And Maggie Makes
+    Three"
+
+% Marge's sisters make googling noises at Marge's large stomach, their
+% cigarettes making Marge (and her baby) cough.
+
+      Marge: I've got to tell Homer about this baby in just the right
+             way and at just the right time.  Until then, please, keep
+             this to yourselves.
+      Patty: Oh, if he found out now, it would probably destroy him,
+             huh?
+      Marge: Oh, yes.
+Patty+Selma: Gotta go!
+      Marge: Wait a minute!  Wait, I know that look.  Now promise you
+             won't tell Homer.
+      Selma: Oh, we promise we won't tell..._Homer_.
+              [they go to the phone book and open it to page one]
+      Patty: [dials 356756] Hello, is this A. Aaronson?  It might
+             interest to you to know that Marge Simpson is pregnant
+             again.
+              [later]
+      Patty: [on the phone] Just thought you'd like to know, Mr.
+             Zykowski.  [hangs up, sighs] There.  Aaronson and Zykowski
+             are the two biggest gossips in town.  In an hour, everyone
+             will know.
+-- Odd last-name coincidences, "And Maggie Makes Three"
+
+% Homer walks out of the bowling alley, refreshed.
+
+ Homer: Ah, another perfect day in my perfect life with my perfect job.
+Wiggum: [driving by] Hey, just heard the news over the squawk box.
+        That's nice work, Homer.
+ Homer: Thank you, thank you very much.  It is nice work.
+   Apu: Oh, Mr. Simpson, I have just heard about the little bundle of
+        joy.  Congratulations, sir!
+ Homer: It's true, the bundle is little, but I'm not in it for the
+        money.
+   Moe: [sly] Hey, Homer!  Way to get Marge pregnant.  [laughs]
+ Homer: This is getting very abstract, but thank you: I _do_ enjoy
+        working at the bowling alley.
+-- Nietzschean Moe, "And Maggie Makes Three"
+
+% Marge enters the front door of her house.
+
+   Everyone: Surprise!  Baby shower.
+      Marge: Baby shower?  You _know_ I haven't told Homer yet, and
+             he'll be home any minute.
+Patty+Selma: [mocking] Oh _really_?
+              [the door opens]
+      Marge: [gasps, sees no one there] Phew!  [starts to close the
+             door]
+      Homer: [barging in] Hey, it's me.  It's hell out there!
+              [notices everyone standing around]
+             Hey, wait a minute.  What are all these presents?  It looks
+             like you're..._showering_ Marge with gifts.  Hmm...with
+             little, tiny baby-sized gifts.  Well, I'll be in the tub.
+             [walks up stairs]
+      Maude: By the way, congratulations on your new job, Homer.
+      Homer: New job?  ...Marge is pregnant?!  [pulls hair out] Noooooo!
+             [runs up stairs screaming, slams bedroom door]
+-- Homer infers an exceedingly indirect inference, "And Maggie Makes
+    Three"
+
+ Bart: [in the present] Wow, Dad, you really threw a tantrum like a
+       little sissy girl?
+Homer: Oh, just that one time.
+Marge: Actually, when I was about to have Bart --
+Homer: [in flashback] You're pregnant?!  [pulls hair, screams]
+Marge: [in the present] And then when I told him about Lisa --
+Homer: [in flashback] You're pregnant again?!  [pulls hair, screams,
+       runs off]
+Homer: [in the present] Well, who _wouldn't_ be upset?  That new baby in
+       your mother's womb was a ticking time bomb threatening to blow
+       this family eight ways from Sunday.
+        [Bart and Lisa are walking off]
+       Hey!  Where are you going?
+ Bart: Dad, you can't expect a person to sit for thirty minutes
+       straight.
+ Lisa: I'm going to get a snack, or maybe go to the bathroom.
+Marge: I'll stay here, but I'm going to think about products I might
+       like to purchase.  [closes eyes] Ooh...mmm...ooh, I don't have
+       that.
+-- Leading to commercial, "And Maggie Makes Three"
+
+% [End of Act Two.  Time: 14:23]
+%
+% Homer whines to Marge that night.
+
+Homer: Oh, you're pregnant!  We're going to have to have a baby.  All
+       our financial plans are ruined.  We're doomed...doomed, I tells
+       ya!
+        [Homer's head expands, then explodes]
+Marge: [in the present] Bart, let your father tell the story.
+Homer: Yeah!
+ Bart: OK, but I know funny.
+Homer: Anywho...
+Homer: [in the past, still headless] [weeps] We're doomed!
+Marge: [voice-over] Homer, you had a head.
+Homer: [voice-over] Check.
+        [a new one grows]
+Marge: And your bottom was a little bigger.
+Homer: Aw.
+        [it inflates like a balloon]
+-- Poetic license, "And Maggie Makes Three"
+
+Marge: You've worked hard at the bowling alley.  Why don't you ask for a
+       raise?
+Homer: Yeah, a raise.  I've never been good enough at any job to deserve
+       one before, but I'm damn good at this one.  That's it: I'm going
+       to march right up to Al and say --
+        [at the alley]
+Homer: Steve!  I mean, Al!  I think I deserve a raise.
+   Al: Aw, you're a hard worker, and I'd like to give you a raise, but
+       the alley just ain't doing enough business to pay that kind of
+       money.
+Homer: How about...if I _triple_ the business?  Then could I get a
+       raise?
+   Al: Well, yeah, but --
+Homer: [motions him to stop]
+        [shot of Homer reading "Advanced Marketing" at home]
+        [shot of garbage can containing "Advanced Marketing" and Homer
+       reading "Basic Marketing"]
+        [shot of both books in garbage and Homer reading the dictionary]
+-- Slow starts, "And Maggie Makes Three"
+
+% Homer stares at a bowling ball for a while after looking up
+% "marketing", then leaps forward: "Of course!"  He stands in front of
+% the bowling alley firing a shotgun repeatedly into the air and
+% entreating the screaming people around him to come and bowl.
+
+ Lisa: Mom, make Dad tell the story right!
+Marge: That's what really happened.
+ Lisa: Oh...
+-- Homer describes his marketing plan involving a shotgun, "And Maggie
+    Makes Three"
+
+          [Homer walks dejected through the empty alley]
+   Homer: [voice-over] My marketing plan attracted a record number of
+          police and fire officials.  But few stayed to bowl.  I'd
+          failed.  Quitting my dream job was the hardest thing I'd ever
+          done.
+      Al: You did a great job, Homer, and I'm really going to miss you.
+          The place has never been cleaner, and the way you kept the
+          young people away -- whew!  That was beautiful.
+           [assembled bowlers murmur assent]
+          Anyway, we all pitched in and we got you this little going-
+          away thing.
+           [a jacket saying "Sorry you had to 'split'"]
+   Homer: [sniffs] This was the happiest time of my life.  I'll never
+          forget you guys.  Especially you, Joey.
+    Joey: [a young boy dressed like a shoe-shine boy] See you 'round,
+          Mr. Homer.
+   Homer: Don't worry, Joey, we'll make it to California some day.
+    Joey: Sure we will, Mr. Homer, sure we will.  [coughs]
+Bowler 1: It's going to be sad around here without you, Homer.
+           [bowlers murmur assent as Homer walks out]
+Bowler 2: Boy, this is depressing.
+Bowler 3: Hey, I know what would cheer us up: bowling!
+-- Homer's grandiose plans laid to rest, "And Maggie Makes Three"
+
+% Homer listens to the sounds of the bowling alley one last time, then
+% walks away.  "I needed more money to support my growing family," Homer
+% continues, "and there was only one place in town that a man like me
+% could make it.  The camera pans to the power plant; Homer begins
+% walking slowly towards it.  As he arrives, it begins raining, and the
+% guard at the gate says, "Uh oh, acid rain again," [HS] as he puts on a
+% gas mask.  The rain dissolves Homer's going-away present.
+%
+% Homer approaches a woman sitting at a desk in front of a giant
+% portrait of Mr. Snrub -- I mean, Mr. Burns.
+
+Woman: Yes?  Are you a new applicant?
+Homer: Actually, I quit and I came to get my job back.
+Woman: Through there.  [points to a doggy door]
+        [Homer crawls through, into Mr. Burns' office]
+        [he coughs up dust]
+Burns: So...come crawling back, eh?
+Homer: Seems like the classy thing to do would be not to call attention
+       to it.
+-- Trying to convince Monty of reason, "And Maggie Makes Three"
+
+% Smithers and Burns lead Homer to his work station.
+
+   Homer: Thanks for giving me my old job back.
+   Burns: I'm afraid it's not that simple.  As punishment for your
+          desertion, it's company policy to give you the plague.
+Smithers: Uh, sir, that's the plaque.
+   Burns: Ah yes, the special demotivational plaque to break what's left
+          of your spirit.  Because, you see, you're here forever.
+           [Smithers screws a "Don't forget: you're here forever" plaque
+          into the wall]
+   Burns: Don't forget: you're here forever!
+-- Unpleasant reminders, "And Maggie Makes Three"
+
+% Homer arrives home dejected.
+
+Homer: Aw, I've never been so miserable in all my life.  But I can't
+       take it out on Marge and the kids -- I've gotta carry the burden
+       all by myself.
+        [walks in] Hi, honey, how are you?
+Marge: Well, actually --
+Homer: Aw, I can't go on with this charade any longer!  I hate my job, I
+       hate my life, and ever since I found out about this baby there's
+       been nothing but bad luck.
+Marge: My contractions started an hour ago.
+Homer: It's just in one ear and out the other with you, isn't it, Marge?
+-- Homer, sensitive new-age man, "And Maggie Makes Three"
+
+% At the hospital, {Mayor Quimby holds a newborn child in his arms while
+% the mother (a young woman) rests.}
+
+    Quimby: {This is incredible.  It's God's most wondrous miracle.}
+     Nurse: {Sir, I think your wife wants to hold the baby.}
+    Quimby: {My wife?  Where?  Where?!  [runs off in a panic]}
+    Doctor: {Congratulations, it's a boy!  [takes a polaroid]}
+McAllister: {Argh.  [holding his baby by the feet] You're truly the
+            catch of the day.}
+     Homer: [nonplussed] It's wonderful, it's magical, oh boy, here it
+            comes, another mouth.
+   Hibbert: One more push should do it.
+     Homer: Marvelous.
+             [a baby cries once, then again]
+   Hibbert: Congratulations, Mr. Simpson: you have a beautiful, healthy
+            baby.
+     Homer: OK.  [makes thumbs up sign]
+             [Maggie grabs the thumb with her tiny hand] Huh?
+     Marge: Homey, I think someone is saying "Hello".
+     Homer: Hello.  Aw, it's a boy -- and what a boy!
+   Hibbert: Er, that's the umbilical cord.  It's a girl.
+-- Details, "And Maggie Makes Three"
+
+Homer: A girl!  Oh, Marge, we have a wonderful baby girl.  Not just a
+       girl -- the most beautiful baby girl in the whole world.
+Marge: [sighs]
+Homer: Come on, Marge, show a little enthusiasm.
+        [they kiss; Maggie shapes her lips like a kiss, then grabs a
+       pacifier and sucks it]
+-- The genesis of the pacifier explained, "And Maggie Makes Three"
+
+       [in the present]
+ Lisa: So you loved her right from the start!
+Homer: [tickling Maggie and giggling] Absolutely.
+ Bart: Then why no pictures?
+Homer: Oh, there are pictures.  I keep them where I need the most
+       cheering up.
+        [shot of pictures covering demotivational plaque at work]
+        [all that can be seen of the plaque is "Do it for her"]
+-- End of story, "And Maggie Makes Three"
+
+% [End of Act Three.  Time: 21:03]
+
+<|endoftext|>

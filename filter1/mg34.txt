@@ -1,0 +1,82 @@
+% H = Homer, B = Bart, L = Lisa,
+% G = Mr. Chupo, R = robber, C = cop, P = Phil the newscaster
+%
+% Homer pushes Bart out of the house as Lisa and Maggie watch.
+
+H: Get out there and get into shape, boy!
+L: [taunting] Yeah, Bart!
+B: [to Lisa] Thbptbptbptbpt.
+H: Bart!
+B: What!
+H: Move it!
+
+% Bart jogs across the lawn and hurdles the (3-foot high) picket fence.
+
+B: Hulp!
+
+% Bart jogs down the street.
+
+B: [puff puff] Sey, this ain't bad...
+   [pant pant] fresh air...
+   [puff puff] beads of sweat...
+   [pant pant] I can dig it.
+
+% Bart skids to a halt in front of Chupo's Candy Store.
+
+B: Pit stop!
+
+% Bart heads in.
+%
+% Inside, Mr. Chupo is bound and gagged behind the counter.  A robber
+% (complete with mask) stands by the register.
+
+B: Afternoon, Mr. Chupo.  I'm here for my daily candy bar fix.
+G: Mmmph.  Mmmph.
+B: Today, I think I should have the chocolate-covered...
+R: [nervously] The store's closed, kid.  Now scram!
+B: [slow realization]  Hey, you're not Mr. Chupo.
+R: I said scram!
+
+% Bart is thrown out.
+
+B: Wait a minute...  I demand the right to be served!
+
+% Bart turns to go back in at the same moment the robber emerges from the
+% store.  The two collide and knock each other down just as the police
+% arrive.
+
+C: Congratulations, boy.  You just earned yourself a big reward.
+B: [lifts his head, dazed]  All I wanted was a measly candy bar...
+   [puts his head back down]
+
+% Bart is being interviewed on television.  During Phil's introduction
+% Bart surreptitiously waves at the camera.
+
+P: Here we have Bart Simpson, the young lad who captured the notorious
+   candy store bandit.  How does it feel to be a hero, Bart?
+B: Pretty damn good, Phil.
+P: Your family must be proud of you right now.
+B: I bet they're jumpin' up and down.
+
+% Back at home, Homer and Lisa jump up and down in front of the television
+% set.
+
+H: Whoa!
+L: Yay, Bart!
+H: Whoa!
+L: Yay!
+P: [on the TV] And the ten thousand dollar reward.
+
+% At this, Homer and Lisa go down on all fours inches away from the set.
+
+H: Ten thousand big ones!  I love you, son!
+P: [on the TV] What are you going to do with the money?
+B: I don't want the money.  That's why I've asked for the reward to be paid
+   in candy bars.
+P: What will your family think?
+
+% Homer screams and collapses.
+%
+% [End of Act One.  Time: 1:06]
+
+<|endoftext|>

@@ -1,0 +1,531 @@
+% Homer, Bart, and Lisa go grocery shopping for the family.  It turns
+% out that the Simpson family doesn't live on bread alone.
+
+Homer:	[reading list] "Olive oil, asparagus" ... if your mother 
+	wasn't so fancy, we could shop at the gas station like 
+	normal people.
+Bart:	[holding up a bag of candy] I need this candy for school.  
+	[Homer looks doubtful] Candy class.
+Homer:	Well, okay, but get five bags in case I eat four on the 
+	way home.
+	[Bart dumps some additional bags in the cart]
+Lisa:	My teacher said I need cupcakes.  Cupcakes to learn.
+Homer:	In the cart.
+Bart:	[toting a big ol' bottle of wine] I'm out of wine.
+Homer:	Cart.
+	[soon, Homer is pushing two full grocery carts.  The kids 
+	bring up more snack food]
+Lisa:	We need these because, we have to ... [trails off]
+	[they just toss them in the carts]
+Homer:	[holds up a six-pack of that wonderful Duff] My doctor 
+	says and my garage mechanic agrees that--
+Bart:	In the cart.
+Homer:	Woo-hoo!
+-- "Simpson Safari"
+
+% Homer discovers that food shopping can be kind of fun.  "Yeah," Bart
+% agrees, "I wish Maggie had to go to the emergency room more often." 
+% At that moment, the scene shifts to one of Springfield General's
+% examining rooms.  Maggie stands behind an X-ray machine, which
+% reveals that she has somehow swallowed an entire magazine.  Marge
+% tells Hibbert that it was an issue of "Time," if that matters. 
+% Hibbert becomes concerned, not about the baby's condition (she seems
+% fine), but because the front page of the Maggiezine has an article
+% about hard-liners gaining influence in Syria.
+%
+% Back at the store, Homer and the other two kids are in the check-out
+% line.
+
+Homer:		Wait -- I changed my mind.  Stack it in the order 
+		I'll eat it driving home.
+Bag Boy 1:	Sir, please!  I already bagged it by color, and in 
+		order of each item's discovery by man.
+Homer:		Customer's always right; that's what everybody likes 
+		about us.  Now, mush!  [claps hands twice]
+Agnes:		You tell him, Jumbo!  [to her lane's bag boy] And 
+		you, start over!  I want everything in one bag.
+Bag Boy 2:	Yes, ma'am.
+Agnes:		But I don't want the bag to be heavy.
+Bag Boy 2:	I don't think that's possible.
+Agnes:		What are you, the Possible Police?  Just do it.
+Moe:		[to his lane's bag boy] Hey, hey, watch what you're 
+		doing there, sack monkey.  You're bruising my 
+		DuraLog.
+Homer:		[poking Bag Boy 1 with a stick] Hurry up!  I can't 
+		stand here jabbing you all day.
+Bag Boy 1:	Ow!  Stop.  Bag boys have feelings, too, you know.
+Homer:		No, you don't.
+Manager:	Eh, excuse me.  Is there a problem here?
+Homer:		No, I can handle it.  [sotto voce to Bag Boy 1] I'll 
+		get you, squealer.
+Bag Boy 1:	That's it.  On behalf of Sack Stuffers Local 199, 
+		I'm calling a strike!
+-- You have nothing to lose but your chains!  "Simpson Safari"
+
+% The bag boy jumps up on the counter and quickly gains the support of
+% the other baggers.  Homer is unconcerned.  The strike gains
+% momentum, though, picking up support from unions of fruit packers
+% and unpackers, shelf dusters, and even unattractive waitresses.  To
+% back up their demands, the strikers use long poles to knock the
+% groceries out of the customers' hands as they try to leave the
+% store.
+%
+% The intimidation tactics work, at least in the Simpsons household,
+% where the cupboards are almost bare.
+
+Homer:	So hungry.  There's gotta be some food left.  [pulls a 
+	couple of cans out of one of the cabinets, and reads their 
+	labels] Gopher jerky?  Cream of toast?  Where did we get 
+	all this crap?
+Marge:	Most of it was sent by relatives who couldn't see very 
+	well.
+Bart:	[looking in through the kitchen, holding up a birds' nest]
+	Hey, I found some eggs!  The mother abandoned her nest.
+	[a large black bird flies up to Bart and pecks at him 
+	aggressively, knocking him to the ground]
+-- That must be the father bird, then, "Simpson Safari"
+
+% Santa's Little Helper catches the scent of some food, and starts to
+% sneak away.  The rest of the family notices this, and tries to
+% follow him.  SLH tries to misdirect the family, and then makes a
+% dash to the attic.  He opens a trunk and pulls out a lunchbox. 
+% Before he can eat his prize, Homer snatches the box away with a
+% triumphant "yoink!"  The box is Homer's old "Burke's Law" lunchbox,
+% and it contains an equally ancient box of animal crackers.  Homer
+% ignores Marge's warning for caution and wolfs them down.  When he
+% bites into one of them, he winces in pain.  It turns out the box
+% contains more than just stale cookies.
+
+Bart:	Whoa, a solid gold animal cracker.
+Lisa:	[reading box] "Find the golden giraffe and we'll send you 
+	and your family to Africa!"
+Homer:	Africa!  They're bound to have food there!
+-- "Simpson Safari"
+
+% Homer heads down to Animal Cracker HQ to claim his prize.  The
+% executives are a little reluctant to make good on their promise.
+
+Homer:	... and on my free African safari I want to everything on 
+	this box.  I want to shoot a lion in the face, fight 
+	Muhammad Ali, and ride in a convertible with two happy 
+	zebras.
+Exec 1:	Sir, that contest ended thirty years ago.  We don't even 
+	make animal crackers any more.
+Exec 2:	We make household poisons and Christmas lights.
+Homer:	[holding the box up] Your box made promises of a 
+	vacational nature, and I expect you to live up to them.
+Exec 3:	We won't, though.
+Exec 1:	Sir, with all due respect, an old box of cookies is not a 
+	legal contract.
+	[suddenly, the string on the cracker box breaks, and the 
+	box swings into Homer's face]
+Homer:	Ow!  My eye!
+	[the executives huddle]
+Exec 1:	We are in big trouble.
+Exec 2:	He could sue us.
+Exec 3:	This defective string ...
+Exec 1:	... Yeah, it's got very sharp corners ...
+	[they break huddle and turn to Homer]
+	Mr. Simpson, we've decided to make good on your vacation.
+Homer:	Woo hoo!  [sotto voce] Hey, mister.
+Exec 1:	Yes?
+Homer:	On the plane, I'm going to need two seats, [points to his 
+	rump] for the twins.
+-- They never go anywhere alone, "Simpson Safari"
+
+% Homer gives the happy news to his family.
+
+Homer:		The Simpsons are going to Africa.
+Family:		Yay!
+		[meanwhile in Africa, two tribesman dance around a 
+		fire.  Suddenly, one of them stops]
+Tribesman:	What is it, N'gungo?
+N'gungo:	Evil is coming.
+Tribesman:	What shall we do, N'gungo?
+N'gungo:	[puts his mask on the other tribesman's head] You 
+		are N'gungo now!  [runs away]
+-- Something wicked this way comes, "Simpson Safari"
+
+% [End of Act One.  Time:  5:39]
+%
+% As they fly to their destination, Lisa likens Africa to a beautiful
+% jewel.  Marge is more impressed with some musical garment bags she
+% sees in the in-flight catalog.
+
+Attention passengers -- please prepare for our landing in Tanzania.  
+[someone in the cockpit hands her a note] I'm sorry, it is now called 
+New Zanzibar.  [she is given another note] Excuse me, it is now called 
+Pepsi presents New Zanzibar.
+-- Flight Attendant, "Simpson Safari"
+
+% The Simpsons meet their guide at the airport.
+
+Kitenge:	Hello, hello, Simpsons.  Welcome to Africa.  I am 
+		your guide, Kitenge.
+Family:		Hey, how you doin' there?  Hi, etc.
+Lisa:		Isn't that cute?  A bushbaby.  [indicates the animal 
+		on Kitenge's shoulder]
+Kitenge:	Where?  [notices the bushbaby for the first time] 
+		Ahh!  Shoo!  Shoo!  [it leaves] Oh, man, I just 
+		bought this shirt.
+-- "Simpson Safari"
+
+% The family piles into Kitenge's truck and drives past a series of 
+% billboards extolling a man named Muntu.
+
+Marge:		Who's Muntu?
+Kitenge:	He is our leader.  He seized power in a bloodless 
+		coup -- All smothering.
+Marge:		Just like Jimmy Carter.
+-- Indeed, like all good politicians, "Simpson Safari"
+
+% Kitenge and the Simpsons pull up in front of a large boarding house
+% atop a tree, where they will be staying.  A porter says he'll be
+% down for the luggage but Homer tries tossing it up to him.  The
+% luggage falls short of its mark and lands in a spider web.  An
+% enormous spider sprays venom on the suitcase, shrinking it to a
+% quarter of its original size.  Homer takes the incident in stride.
+%
+% At night, Bart tries to shoo away the mosquitoes buzzing around his
+% bed.
+
+Bart:		Help!  Ooh, this mosquito net's not working.
+Kitenge:	No, no, you have it inside-out.  [rearranges it so 
+		all the mosquitoes are now on the outside] There.
+Lisa:		When do we get to see the animals?
+Kitenge:	In the morning, little one.  Now goodnight, and 
+		don't let the bedbugs paralyze.  [turns out the 
+		light]
+Marge:		Homey, did you remember to tip Kitenge?
+Kitenge:	No he did not.
+-- Note to self:  Always tip Kitenge, "Simpson Safari"
+
+% Next morning the family starts their safari.  Bart has a book with
+% pictures of animals in it.  When he sees one, he marks its picture
+% with an "X."
+
+Bart:	All right!  I got another one.  [marks a picture of a 
+	warthog]
+Lisa:	Hey, you didn't see a warthog.
+Bart:	I'm looking at one right now.
+Lisa:	Mom, Bart implied I was a warthog!
+Marge:	Nobody's a warthog.
+Bart:	What about him?  [camera pulls back to reveal a warthog 
+	sitting just to Lisa's left]
+Lisa:	Aghh!
+Bart:	[laughs]
+-- "Simpson Safari"
+
+% Marge marvels at the spectacular African scenery.  Homer is more
+% impressed that the truck's odometer has rolled over to 10,000.  (He
+% even takes a picture.)
+%
+% Kitenge rolls to a halt in a nature preserve.
+
+Kitenge:	And now we sit quietly and wait for nature to unveil 
+		herself.
+		[a rhinoceros hatches from a large egg]
+Lisa:		Wait, rhinos don't come from eggs.
+Homer:		What did you just see, Lisa?
+Lisa:		I know, but--
+Homer:		[insistent] What did you just see?
+		[a giraffe sticks its head up through what looks 
+		like a prairie dog hole]
+Lisa:		Oh, now, come on.
+-- "Simpson Safari"
+
+% Kitenge points out a cheetah sitting by a tree.  Marge looks at it
+% through binoculars, and says that it doesn't look that fast.  Think
+% again.  In the time it takes her to say this and put down her
+% binoculars, the cheetah has run right up to her.
+%
+% As the group drives to their next destination, Kitenge invites Homer
+% to sing along to some African music.  Homer does his best, singing
+% the nonsense-part of "Good Morning, Starshine."  Kitenge abruptly
+% halts the truck.
+
+Marge:		What?  What is it?
+Kitenge:	Hmmm, poachers.
+		[cut to three men putting a cheetah in a cage]
+Lisa:		[gasps] That's terrible.
+Homer:		Now, honey, poachers are nature's way of keeping the 
+		balance.  Whenever there are so many species that 
+		people get confused and angry, a poacher is born.
+-- "Simpson Safari"
+
+% Kitenge fires a shot with his rifle, which scares the poachers away. 
+% The cheetah uses the distraction to escape.
+%
+% With that unpleasantness out of the way, the safari party arrives at
+% Olduvai Gorge.
+
+Kitenge:	This is the earliest known fossil of a human being.  
+		[indicates a skeleton half-buried in the sediment]
+		It's over two million years old.
+Homer:		Pffft.  I've got more bones than that guy.  If 
+		you're trying to impress me, you've failed.
+Kitenge:	It's not the number of bones, sir, it's the--
+Homer:		[insistent] You have failed.
+-- Indiana Homer, "Simpson Safari"
+
+% The Simpsons visit a Maasai village.  They sit by the campfire with
+% the village chieftain drinking a traditional Maasai beverage from
+% cups.  Marge asks what kind of blood they are drinking and the
+% family does a spit-take when Kitenge tells them it's cows' blood. 
+% The villagers find this uproarious.
+%
+% Lisa and Bart show off some of the body adornments the Maasai gave
+% them -- neck rings for the former, and a lip disc for the latter. 
+% Later that night, the family goes more or less completely native and
+% dances around the fire with the Maasai.
+%
+% A fine day of frenzied dancing comes to an end when Homer tries
+% playing the drums along with the village musicians.  Some of the
+% "drums" turn out to be a hippopotamus, who doesn't take kindly to
+% having his rear end slapped around.  The hippo gives chase.  Kitenge
+% jumps on the hippo's back and covers its eyes.  He tells the family
+% to run for it, and they do, but a river blocks their path.  The
+% hippo bucks Kitenge and stomps him a few times.  When the hippo
+% finishes with him, it turns its attention to Homer.  Grabbing a
+% Maasai shield and spear, Homer directs his family to the river, on
+% the theory that hippos hate water.  Using the shield as a boat, the
+% family floats away from the riverbank.  The hippo tries to follow,
+% but shrinks away from the water, just as Homer said he would.
+%
+% The family isn't out of the woods yet.  They are floating toward a
+% fork in the river.  The left branch looks placid, with a rainbow and
+% calm water.  The right branch is an ominous rapids flowing between
+% banks lined with forbidding rocks.  Homer has a tough time deciding
+% which way to go.  Lisa recommends the left fork and for the first
+% time in the trip, Homer listens to her.  He paddles with his hands,
+% but leeches -- one of them the size of a man's forearm -- quickly
+% attach themselves to his arms.  Homer shakes them off, but as soon
+% as he does so, a wind pushes the "boat" down the *right* branch of
+% the river.
+%
+% [End of Act Two.  12:23]
+%
+% Homer soberly considers the family's circumstances.
+
+Homer:	Okay, here's the situation:  We're hopelessly lost and 
+	about to die.
+	[a crocodile roars up from the river.  The family screams]
+	Don't worry -- being eaten by a crocodile is just like 
+	going to sleep ... in a giant blender.
+-- Well, that's comforting, "Simpson Safari"
+
+% Marge wonders where the river goes, so Homer consults a map.  It
+% isn't that helpful, though, since it's just an outline of the
+% African continent with a cartoon monkey head superimposed in it. 
+% Despite this, Homer is confident enough to conclude that, according
+% to the map, there is no river.  Marge keeps Homer from walking out
+% of the boat.
+%
+% The family spots some natives peering at them from the jungle brush. 
+% The natives decide to greet them by sharing some artwork, but the
+% Simpsons misinterpret their intentions.  Homer chucks the spear at
+% them, narrowly missing one of the men.  "That's not funny," he says. 
+% "I could have been hurt."  His friend sympathizes.
+%
+% The family continues to float peacefully down the river.
+
+Homer:	So, do you think they settled that bag boy strike yet?
+	[the go past a sign reading, "Victoria Falls"]
+Lisa:	Oh, no, we're heading toward Victoria Falls!
+Homer:	Here's why they shouldn't get anything.  One--
+	[the boat goes over the edge of the falls.  The camera 
+	cuts to the base of the falls, but the Simpsons don't 
+	crash on the rocks at the bottom.  Instead, they land 
+	safely in a giant flower by the riverbank]
+Homer:	Whew.  This flower saved our lives!
+	[the petals close in on the family]
+Marge:	Oh, no, it's eating us!
+Homer:	Not a chance.  [pushes through one of the petals, and the 
+	family walks safely outside]
+Bart:	Wow, Dad, how did you do that?
+Homer:	[slight disdain] It's a flower.
+-- "Simpson Safari"
+
+% The family trudges onward.
+
+Bart +
+  Lisa:	Are we insane yet?
+                          Are we insane yet?
+                                            Are we insane yet?
+Homer:	I told you, yes.  Now, Bart, go to the top of that hill, 
+	and see if you can spot our hotel.  [points to a large 
+	mountain]
+Bart:	Mt. Kilimanjaro?
+Homer:	Go.
+Bart:	[resigned] Okay.  [he takes only a few steps before a 
+	chimpanzee jumps out of a tree, frightening him]
+Marge:	A chimp!
+Lisa:	Hello, little fella.
+	[the chimp walks somewhere offscreen]
+Bart:	Hey, maybe he'll lead us to bananas.
+Homer:	Or more mouth-watering monkeys.
+	[the family follows the chimp]
+-- Mm mm good, "Simpson Safari"
+
+% The family trails the chimp, even going so far as to swing from
+% vines, Tarzan-style.  Along the way, Homer continues his rant about
+% the bag boys' strike.  (He's against overtime pay, for the record.)
+%
+% The chimp leads the Simpsons to Dr. Bushwell's animal preserve.
+
+Lisa:	This is the place I've read about, where Dr. Bushwell 
+	lives among the chimps.
+Marge:	Oh, isn't that sweet?  He named it after his wife.
+Lisa:	No, Dr. Bushwell is a woman.
+Marge:	Well, now I've heard everything.
+-- Marge the progressive, "Simpson Safari"
+
+% Dr. Bushwell and the Simpsons enjoy afternoon tea and snacks.
+
+Marge:		It's kind of you to take us in, Dr. Bushwell.
+Bart:		Yeah.  Thanks for the grub.
+Bushwell:	Grubs.
+Bart:		Whatever.  [happily eats another grub] Ah, there's a 
+		burst of flavor.
+Lisa:		Your work has really inspired me, Doctor, and I love 
+		your sensible ponytail.
+Bushwell:	Why, thank you.  [to a chimp] See, Jo-jo, she likes 
+		it.
+		[the chimp looks a bit put out]
+Homer:		So I noticed your home smells of feces.
+Bushwell:	Yes?
+Homer:		And not just monkey feces, either.
+Bushwell:	Could we talk about something else?
+Marge:		I, I love what you've done with these poles.
+		[Homer sniffs the air]
+-- "Simpson Safari"
+
+% Joan Bushwell describes her daily routine.
+
+Bushwell:	Every day I get up at 5:30, watch the chimps, eat a 
+		quick lunch of roots and water, then more chimp-
+		watching.  After dark, I come home and think about 
+		chimps until it's time for bed.
+Homer:		You must be the most boring woman on earth.
+-- "Simpson Safari"
+
+% One of the chimps warns Dr. Bushwell of impending danger.  The
+% poachers have arrived at the gate.
+
+Poacher:	[using a bullhorn] Give us the chimps, and no one 
+		gets hurt!
+Bushwell:	Absolutely not!  [to the Simpsons] Will you help me 
+		defend the refuge?
+Homer:		Anything for these noble animals.  [watches a chimp 
+		scratch his butt on a tree] So like us.
+-- Some of us, anyway, "Simpson Safari"
+
+% The fight is on.  Homer and Bart do fashion grenades from coconuts
+% and use them to drive the poachers from the refuge walls.  They try
+% to high-five one another, but their aim is off and the two slap each
+% other in the face instead.  Marge and Lisa use blowpipes to shoot
+% bees at the poachers' tires.  The stingers hit the tires with enough
+% force to puncture their sidewalls and deflate them.  Then the
+% poachers' Jeep inexplicably explodes.  Homer bends a tree into a
+% catapult and places a monkey on it, ready for launch.  "Somebody
+% light this monkey!" he yells, but the chimp doesn't think much of
+% the idea and attacks Homer instead.
+%
+% One of the poachers breaches the camp's walls and starts putting
+% chimps in a sack.  Lisa wrestles with him, and in the fight the
+% man's outer shirt comes open, revealing a Greenpeace T-shirt
+% underneath.  Lisa is understandably confused.
+
+Lisa:		Greenpeace?
+Poacher:	That's right.  And we're not leaving until we rescue 
+		every animal here.
+Lisa:		Well, if you really cared about chimps, you'd know 
+		that Dr. Bushwell is their best friend.
+Poacher:	Oh, is that right?  Why don't you tell her about the 
+		diamond mine, Doctor?
+Bushwell:	Diamond mine?  What are you talking about?
+Poacher:	I'm talking about this.
+		[there's a whistle hanging around Dr. Bushwell's 
+		neck on a lanyard.  The man grabs and blows it.  At 
+		this signal, a column of tired chimps walks slowly 
+		out of a hidden diamond mine]
+Lisa:		[gasps] The chimps are running a diamond mine!
+Bushwell:	Why, what fascinating behavior.  I must document 
+		this new activity.  [takes out a diamond-studded pen 
+		and notebook]
+Lisa:		[scolding] Dr. Bushwell!
+Bushwell:	What, these?  Why they were a graduation present.
+-- "Simpson Safari"
+
+% One of the Greenpeace "poachers" estimates the mineshaft to be five
+% miles deep.  In the mine itself, a chimp excitedly holds up a
+% diamond he discovered.  His co-worker slaps it away, saying (in
+% chimp language) that it's just a zirconium.
+%
+% A search of Bushwell's house turns up diamonds in nearly every
+% possible hiding place -- and even on the soles of her shoes.  The
+% Greenpeace man figures Bushwell is one of the world's ten richest
+% chimp researchers.
+
+Lisa:	How could you exploit your beloved chimps like this?
+Bart:	I think we should look at her research before we condemn 
+	her entirely.
+	[everyone stares at Bart, dumbstruck]
+	I haven't said anything for a while.
+-- Better to be silent and thought a fool ... "Simpson Safari"
+
+% Lisa takes a look at Dr. Bushwell's "research," but it doesn't
+% exonerate the scientist.
+
+Lisa:		These are just pictures of monkeys from famous 
+		movies!
+		This is disgraceful, Doctor!
+Bushwell:	All right!  So I snapped!  You don't understand the 
+		crushing loneliness and greed.
+Marge:		Don't worry, Doctor.  We'll get you all the help you 
+		need.
+Bushwell:	[gradually becoming unhinged] No!  Don't put me 
+		away!  [holds up two handfuls of diamonds] I'll give 
+		you diamonds.  Everybody wants diamonds!  Diamonds 
+		will make everything all better!  Diamonds!  
+		Diamonds!
+		[cut to the interior of a plane.  The Simpsons, 
+		except for Lisa, are carrying an impressive quantity 
+		of diamonds]
+Homer:		What a nice lady.
+Marge:		Very nice.
+Bart:		Hey, Lis, check it out.  [holds two diamonds up to 
+		his eyes.  The camera cuts to his point of view, 
+		which looks like an image from an insects' compound 
+		eye]
+		Diamond-Vision!
+Lisa:		Buzz off.
+		[cut to normal view]
+-- "Simpson Safari"
+
+% The plane taxis past a billboard reading, "Hail President Kitenge." 
+% Sure enough, it's their former tour guide, looking presidential and
+% carrying a scepter.
+
+Homer:	Hey, look!  Our tour guide got a new job.
+Marge:	Hmm.  Quite a promotion.
+Homer:	I was wondering what became of him.
+Marge:	What happened to President Muntu?
+	[Muntu emerges from the back of the plane, wearing a 
+	flight attendants' uniform, and pushing a food cart]
+Muntu:	I don't want to talk about it.  [tosses some peanuts to 
+	Bart]
+	[The Simpsons laugh]
+Homer:	[through his laughter] He got overthrown!  Now he's just a 
+	stinkin' flight attendant.  Hey, where's my pillow?
+-- "Simpson Safari"
+
+% The closing title card dedicates this episode to the bag boys of
+% America, citing their greed and ineptitude as an inspiration.
+%
+% [End of Act Three:  19:51]
+%
+% Normal end credit music and Gracie Sound.
+
+
+<|endoftext|>

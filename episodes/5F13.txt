@@ -1,0 +1,1360 @@
+This Little Wiggy                                       Written by Dan Greaney
+                                                      Directed by Neil Affleck
+==============================================================================
+Production Code: 5F13                     Original Airdate on FOX: 22-Mar-1998
+Capsule Revision A (3-Nov-2000)
+==============================================================================
+> "TV Guide" Synopsis
+==============================================================================
+ [United Kingdom] Marge arranges a play date for Bart and the class geek,
+   Ralph Wiggum. [Yes, I buy cheap-ass TV guides --hmw]
+
+==============================================================================
+> Title Sequence
+==============================================================================
+Blackboard: I WAS NOT TOLD TO DO THIS
+            I WAS NOT TOLD/ cutoff
+
+Couch:      Bart runs in and sprays a picture of OFF on the couch, and signs
+            it "El Barto".
+
+==============================================================================
+> Voice Credits
+==============================================================================
+- Starring
+   - Dan Castellaneta (Homer, Krusty, Mayor Quimby, Penitentiary Security
+        Guard)
+   - Julie Kavner (Marge)
+   - Nancy Cartwright (Bart, Database, Ralph Wiggum, Nelson Muntz, Kearney)
+   - Yeardley Smith (Lisa)
+   - Hank Azaria (Robbie the Automatom, Professor Frink, Chief Wiggum,
+        Leprechaun)
+   - Harry Shearer (Principal Skinner, TV voiceover, Mr. Burns, Smithers)
+
+- Guest Voices
+   - Phil Hartman (Troy McClure)
+   - Marcia Wallace (Mrs. Krabappel)
+   - Pamela Hayden (Milhouse, Jimbo Jones)
+   - Tress MacNeille (Dolph)
+
+==============================================================================
+> Didja notice...
+==============================================================================
+   ... this episode is set in April, according to the calendar in Bart's
+       classroom?
+   ... the automaton has an atom structure as a brain?
+   ... (in his fantasy) Milhouse is smiling as his arm is burnt?
+   ... (in his fantasy) Nelson has a small picture of an atomic bomb explosion
+       on his lab wall?
+   ... Martin is the only pupil who doesn't cheer as Principle Skinner is
+       being attacked by the automaton?
+   ... the Flandereses in front of OFF in the Knowledgeum?
+   ... Bart, Lisa and Homer know some of the things in the Knowledgeum [such
+       as the virtual salad, the giant book and the sex simulator] despite
+       having never been before?
+   ... Ralph's creation, "Wiggle Puppy", makes engine noises?
+   ... Marge uses a vacuum and a Dust Buster at the same time?
+   ... in Ralph's room, there are pictures [drawn by Ralph] of Wiggle Puppy,
+       taped to his window etc.?
+   ... Ralph has drawn Wiggle Puppy on the chalkboard in his room?
+   ... the crime scene boundary tape Chief Wiggum uses to keep people out of
+       his forbidden closet of mystery?
+   ... Chief Wiggum keeps his police car in his driveway?
+   ... Ralph's night light is the man in the moon?
+   ... the bullies are playing hacky sack with a frog?
+   ... the gates of Morningwood Penitentiary are held together with a small
+       padlock?
+
+Matthew Anscher:
+   ... the "Let's Make a Baby" moving chair and gun is intended to simulate
+       an erect penis?
+   ... all of Marge's towels are blue?
+   ... Bart and Ralph were apparently not seriously hurt after their accident
+       on the trampoline?
+
+Nathan Mulac DeHoff:
+   ... Chief Wiggum keeps police records in his home?
+   ... the chair seemed to do less damage to the Mayor than one might expect?
+   ... Springfield has a LOT of prisons?
+   ... Bart actually has a fairly clean room?
+   ... Marge has been to jail on an occasion other than the one in "Marge
+       in Chains"?
+   ... Burns knew that the note was referring to the electric chair in
+       which Quimby was sitting, and not the one that was used in
+       "Hurricane Neddy"? 
+
+Daniel L. Dreibelbis:
+   ... Todd Flanders mooning into the giant telescope at the Knowledgeum?
+   ... one of Ralph's soft toys in Binky, from Life in Hell?
+
+Jordan Eisenberg:
+   ... according to Dr. Nick's file, he really is a doctor?
+   ... the family photos above Ralph's staircase?
+   ... Bart knew what Ralph's cards were?
+   ... Mayor Quimby's eyes when he was electrocuted?
+   ... Ralph nodded yes to the leprechaun?
+   ... this episode is dedicated to Sunni Walton O'Neil?
+
+Alex Foley:
+   ... this is the first 5F episode to have the full opening?
+   ... Homer's file does not have the 'Confidential' label on it?
+   ... Homer's first name is spelled out on his police file, unlike the
+       others, with just an initial?
+
+Andrew Gill:
+   ... the hard drive can crash at a rate?
+   ... yes, Bart is El Barto?
+   ... Nelson knows SI units?
+
+Don Del Grande:
+   ... the robot has three "fingers" on each hand?
+   ... Martin didn't answer the math question right away?
+   ... the "MARS" logo at the Knowledgeum was the second half of the "STAR
+       WARS" logo with the W turned upside down?
+   ... at first, Ralph appears to understand the concept of a finger trap
+       better than Bart does?
+   ... Homer's file does not say "Do not remove from police station" like
+       the others?
+   ... they never call Chief Wiggum's master key a "skeleton key", yet its
+       head is skull shaped?
+   ... for some reason, the electric chair has a key switch as well as the
+       "traditional" switch?  Why bother with the second switch?
+   ... the abandoned prison is on the top of a hill?
+
+Dave Hall:
+   ... in the couch scene Bart spray painted Homer's two hair strands?
+   ... the apple on Mrs. Krabappel's desk?
+   ... the robot has three digits per hand?
+   ... Larry has the heaviest brain at 3.2 kilograms?
+   ... Bart actually had a apple on his desk?
+   ... Wendell, who usually is sick a lot, is walking on the ceiling?
+   ... Dr. Frink's visible computer has no monitor?
+   ... part of Database's shirt isn't tucked in?
+   ... Chief Wiggum wears his badge on the correct side of his chest?
+   ... Maggie is not around when Marge talks to Chief Wiggum?
+   ... Ralph's "special area" is his right shoulder?
+   ... Bart's map is titled "Springfield Residential Hills"?
+   ... Bart's map to teachers homes has 13 red crosses on it?
+   ... Bart sorts his toys?
+   ... the Scratchy doll in the bookshelf in Bart's bedroom?
+   ... the discarded underwear on the floor of Bart's bedroom?
+   ... Ralph has stuffed Mr. Teeny and Bongo dolls?
+   ... Krusty the Clown has a criminal record?
+   ... Bart shudders when he comes to Sideshow Bob's police record?
+   ... the coffee stains on Homer's police record folder?
+   ... Chief Wiggum addresses himself as Chief Wiggum around his son?
+   ... The Wiggums portraits hanging on the wall along the stairs?
+   ... Chief Wiggum drops his police gun and forgets about it?
+   ... the police car is too big to fit in the Wiggums' garage?
+   ... Ralph can roller blade?
+   ... Springfield Zoo has dingoes?
+   ... all the trees surrounding Morningwood Penitentiary are dead?
+   ... the front doors to Morningwood Penitentiary are already open?
+   ... Springfield's state supports Capital Punishment?
+   ... one pull chain controls all the lights in the Penitentiary?
+   ... when Mayor Quimby sits in the chair he turns his feet inward?
+   ... Lisa is left handed?
+
+Tony Hill:
+   ... the prison has a Princess wall phone?
+
+Joe Klemm:
+   ... each stooge's brain had their respective hairdo?
+   ... the stooge equation in the background?
+   ... Chief Wiggum confiscated beer from a grown up [Kearney]?
+
+Ondre Lombard:
+   ... Maggie sleeping in Marge's arms as the family walks back to their car?
+   ... Ralph really doesn't seem to do much with that fudgsicle besides let
+       it melt?
+   ... how somewhat sloppy Lisa's writing is?
+
+Tom Rinschler:
+   ... the Superfriends (the school group, not the superheros) are gathered
+       around the "Visible Computer"?
+   ... Lisa has a sextant? (what was she using it for on land? Attempting
+       to find her latitude?)
+
+Benjamin Robinson:
+   ... Ralph holds his riot club by the wrong end?
+   ... Bart looks a lot like Homer when he's drooling?
+   ... someone's been paying a guy to guard an empty prison for thirty years?
+   ... for some reason known only to the Fox network, we got to see the
+       full-screen closing credits?
+
+Mike Smith
+   ... it's the first episode, since 4F21, that the full end credits were
+       shown (not counting variations)?
+   ... it's the first episode, since 9F13, that focused on Ralph?
+   ... the episode was shown only FIVE DAYS AFTER St. Patrick's Day (as
+       opposed to 4F15, which was shown the day before St. Patrick's Day)?
+       [referring to the leprechaun thing --hmw]
+
+==============================================================================
+> Movie (and other) References
+==============================================================================
+   + "This Little Piggy"  [nursery rhyme]
+        - episode title
+
+   + "Forbidden Planet" [movie]
+        - robot visiting class {jk}
+
+   + "Lost in Space"  [movie]
+        - Robbie the Automaton is a parody of Robbie the Robot ["interesting
+        how there was a commercial for the new remake in the first break,"
+        says Tom Rinschler]
+
+   + "The Little Prince" by St. Exupery
+      - Milhouse touches a star, and animation very similar to the cover
+        illustration {ac}
+
+   + "The Three Stooges"  [slapstick comedy]
+        - Nelson observes which of the Three Stooges had the heaviest brain,
+          in his fantasy of what the Knowledgeum will be like
+
+   + Various museums
+      - Knowledgeum
+
+   ~ "The Visible Man/Woman"
+      - the toys have been joined by "The Visible Computer" {tr}
+
+   + "Star Wars"  [movie]
+        - the gun used in the sperm game {ji}
+        - the same font is used on the "Mars" logo
+
+   + The Pathfinder mission
+        - Bart's makeshift skateboard is a model of the Sojourner probe, which
+        had probably just touched down when this episode was written {bjr}
+
+   + "Apollo 13" [movie]
+        - Bart's "Housten, we have a booger" comment {jk}
+
+   + teenagers taping crime sprees
+      - there have been several instances of this in the last few years. They
+        are repaid for their stupidity by getting caught with indisputable
+        evidence {tr}
+
+   ~ "Leprechaun"  [horror movie]
+        - the wrong-doing wee little leprechaun
+
+   + "Jerry Maguire"  [movie]
+        - answer machine message spoof of the infamous "show me the message!"
+          scene
+
+   + "The Flip Wilson" [TV show]
+      - 'Geraldine' and the devil quotes {ji}
+
+   + J.R.R. Tolkien [author]
+        - name of toy store, 'J.R.R. Toykin' {jk}
+
+   + "Dumb and Dumber" [movie]
+        - the bullies' taunt, "Hey, it's Dork and Dorker," plays on the title
+        of this movie {bjr}
+
+   + "Big" [movie]
+        - giant keyboard on toy store floor
+
+   + Rockwood State Penitentiary
+        - prison referred to as Penn State [Both are in State College, where I
+        happen to reside] {ag}
+
+   + "Prisoner, Cell Block H"
+      - when Bart tries to call the prison, the guard is next to a sign that
+        says "CELL BLOCK H" {ddg}
+
+   + "There's a Wocket in My Pocket" [children's book]
+      - Burns quotes "Smithers, there's a rocket in my pocket!" when Bart's
+        rocket lands in his pocket {ma}
+
+   + "West Side Story" [movie]
+        - 'rocket in my pocket' {ag}
+
+==============================================================================
+> Previous Episode References
+==============================================================================
+- The five times Homer has been in jail {af}
+   - [7F11] in jail for speeding
+   - [9F14] in jail for drunk driving
+   - [2F21] arrested for parking in a handicap space and imitating Officer
+            Marge
+   - [4F15] arrested for being the beer baron
+   - [5F12] in jail for stealing Moe's car
+
+- The two times Marge has been in jail {af}
+   - [8F14] in jail for blocking traffic on the Springfield bridge
+   - [9F20] in jail for shoplifting the Kwik-E-Mart
+
+- Leprechaun appearances {hl}
+   - [7F22] Homer tells Marge that she is living in a world of make-believe
+            with "flowers and bells and leprechauns and magic frogs with funny
+            little hats"
+   - [1F05] Grumpy leprechaun stands at one end of Brad Goodman's "Feeling Bad
+            Rainbow"
+   - [4F13] Bart makes crank 911 phone call about "leprechaun bite"
+   - [5F02] Boy dressed up as leprechaun for Halloween. {kab}
+   - [5F05] Lisa says angels are a fantasy like unicorns, sea monsters and
+            leprechauns. Brockman rebutts by saying leprechauns are extinct
+
+- [7G07] Bart is friends with the bullies 
+- [7F11, 9F14, 5F12] Homer in jail {nmd}
+- [7F12] [9F16] [4F08] "Do the Hustle" is referenced {ol}
+- [7F19] Simpson family members visit a museum {nmd}
+- [7F22, 9F15] Burns engages in Seuss-esque speech {nmd}
+- [7F23, 1F06] bullies play keepaway
+- [8F03] kids cheer when something happens to Skinner {nmd}
+- [8F12, 9F03] Bart melts plastic figures {af}
+- [8F23] Homer has sperm trouble {th}
+- [9F12] outsized cotton swab {ol}
+- [9F13] Ralph episode {af}
+- [9F15] Burns shuts off power at the push of a button {nmd}
+- [9F15, 2F01] robots attacking people {nmd}
+- [9F20] one of Marge's times in jail 
+- [9F21] [3F06] [3F10] episodes dedicated to the memory of someone {ol}
+- [1F05] trouble with a trampoline
+- [1F12] giant keyboard in toy store 
+- [1F13] Homer saves the day in the rocket, but a carbon rod gets the credit
+         and praise.  (cf. Lisa saves Mayor Quimby, and Ralph gets the praise)
+         {ol}
+- [2F11] A rocket is launched, and it misses its target {ol}
+- [3F15] A 'candy' bride and groom are abused {je}
+- [3F24] Marge runs a vacuum cleaner to drown someone out {ol}
+- [4F01] Nelson has a poster involving atomic bomb explosions
+- [4F02] Someone else gets the credit and praise for something Lisa did {ol}
+- [4F07] someone is rescued from the electric chair {nmd}
+- [4F18] A Malibu Stacy with no head. (Bart and Ralph pulled the head off) 
+- [4F21] Bart plays with police equipment {nmd}
+- [5F03] Ralph being associated with "special" education {ol}
+- [5F06] a Van Houten's arm meets trouble {th}
+- [5F10] Bart makes an 'unmasculine' comment while washing something {je}
+- [3G02] full opening {af}
+- [3F24] Marge uses a vacuum to cover noise {ji}
+
+==============================================================================
+> FFF (Freeze Frame Fun)
+==============================================================================
+- Nelson's Three Stooges equation {bjr}
+
+        /L   M   C\
+    3 = |- + - + -| X 0 + 3
+        \B   B   B/
+
+        LMC
+        --- X 0 + 3
+         B
+
+        0 + 3
+    3 = 3
+
+
+- The Springfield Knowledgeum sign
+
+       +-------------------+
+       |    SPRINGFIELD    |
+       |    KNOWLEDGEUM    |
+       |  "WHERE SCIENCE   |
+       | IS EXPLAINED WITH |
+       | BRIGHTLY-COLORED  |
+       |       BALLS."     |
+       +-------------------+
+
+
+- a sign in the Knowledgeum
+
+       +--------------+
+       | SEX          |
+       |  EDUCATION   |
+       |    PAVILION  |
+       +--------------+
+
+
+- Residential Folders in Chief Wiggum's forbidden closet of mystery
+   - Riviera, N
+   - Krustofski, H
+   - Terwilliger, R
+   - Simpson, H
+
+
+- What's in Chief Wiggum's closet {dh}
+   - Riot Gear (Helmets and batons)
+   - three gun belts with bullets
+   - Four handcuffs
+   - uniform with badge on wrong side of chest.
+   - three Holsters with guns
+   - Box of Tear Gas
+   - Three rifles
+   - criminal records
+
+
+- the vehicle the bullies are using is a "Parking Enforcement" vehicle.
+
+
+- Some activities at the Springfield Knowledgeum {dh}
+   - Earthquake Simulator
+   - Macro-Scope
+   - Hall of Wonders
+   - Double Helix
+   - "Ceiling walking"
+   - Virtual Salad
+   - Reading a Giant Book
+   - Sex Education Computer
+   - enormous pendulum
+   - The Visible Computer (run by Dr. Frink)
+   - Sex Education Pavilion
+   - Let's Make a Baby
+   - Mar Landscape
+   - The Ear
+   - "The Virtual Ass"
+
+
+- Labels on the police files [minus Homer's] {af}:
+
+                 Confidential
+                 Do Not Remove
+              From Police Station
+
+
+- 99 Hilarious Phone Messages {dh}
+
+
+- J.R.R. Toykin's {dh}
+
+
+- Morningwood Penitentiary - Condemned {dh}
+
+==============================================================================
+> Animation, continuity and other goofs
+==============================================================================
+= In the opening scene [Bart's classroom] the kid's continuously change places
+  on different camera shots.
+
+= The calculators and paper vanish from the student desks. {dh}
+
+= Mrs. Krabappel vanishes from the classroom just before the robot enters.
+  {dh}
+
+= The first term in the second line of Nelson's chalkboard should be
+  "(L+M+C)/B" not "LMC/B". {hl}
+
+= Marge pulls the Knowledgeum brochure out of thin air. {dh}
+
+c Heard - Bart:  "I'm gonna go toss the virtual salad."
+  Seen  - Bart:  "I'm going to crawl inside the visible frenchman." {je}
+
+- Krusty says, "Hey, baby, remember me?" when he sits down at the "Let's Make
+  a baby" ride, yet the Springfield Knowledgeum's grand opening is that very
+  same day. [I think this was more of a reference to some kind of obsession
+  with sex he has. --hmw] {dh}
+
+c Heard - Voice: "You are out of sperm."
+  Seen  - Voice: "Your score is zero." {hl}
+
+c Heard - Homer:  "Beer!  Beer!  Beer!  Bed!  Bed!  Bed!"
+  Seen  - [barking] {je}
+
+= The Floating Point Unit (FPU) on Frink's "Visible Computer" appears to be
+  located in the monitor housing.  Most PCs put it in the main computer "box";
+  in fact, since 1992 most PCs have integrated the FPU on the CPU chip itself.
+  (For the PC-impaired:  This just means the FPU is in the wrong place.) {bjr}
+
+* Bart has played with Ralph in the past.  A ball game in "Homer at the Bat"
+  and the cowboys and Indians game in "Bart's Girlfriend" come to mind. [So
+  therefore shouldn't mind hanging around with him --hmw] {nmd}
+
+= Ralph's finger trap was attached to Bart, but after the commercial break it
+  is attached to Ralph's tongue. {dh}
+
+= Marge's vacuum cleaner only appears when she needed it.  Also note Bart's
+  knapsack vanishes at about the same time. {dh}
+
+= While the bullies are filming their crime spree, the camera clearly shows
+  them quickly approaching Bart and Ralph. They should have reached the two
+  in about two seconds, but then the cart appears to be much further away
+  when shown again, and takes considerably longer than it should have.
+
+= The closest light and pull chain vanishes after Bart uses it. {dh}
+
+* Ralph doesn't have, nor need a bunkbed.  Bart should've needed a sleeping
+  bag. {ol}
+
+* Police records should probably be at the police station, and not in Wiggum's
+  household. {ol}
+
+* Marge should have a separate police file. {af}
+
+c Heard - Bart:  "Aw, mom's only been in [prison] twice."
+  Seen  - Bart:  "Ah, he killed the swan at the zoo." {je}
+
+= Before Chief Wiggum rolls over, his badge is on the left. After rolling
+  over, it's on the right.
+
+= Chief Wiggum saw that the 'crookie' was in the closet, yet he rolled in and
+  aimed his gun away from it. {je}
+
+* Judging by the numerous times I've seen cops use battering rams to  break
+  down a door, I'd say a police "master key" for the town is a fictional
+  device. {bjr}
+
+* You can't really make a giant Lego block from smaller ones, since none
+  of the smaller ones have the rounded shape necessary to make the bumps
+  at the top of the large one? {ddg}
+
+= The chocolate and icing stains disappear from Bart and Ralph's mouths
+  after leaving the bakery. {ma}
+
+= Ralph doesn't have the key to Springfield around his neck until he turns the
+  corner and runs into Jimbo, Dolph, Kearney and Nelson. {ol}
+
+* Why does Bart still want to hang around with Jimbo and the other bullies?
+  He's known that they were unpleasant to hang around with since "The
+  Telltale Head." {nmd}
+
+= The trees around Morningwood Penitentiary don't have leafs on them, even
+  though [according to the calendar in Bart's classroom] it's only April.
+
+= Ralph runs into the Penitentiary, and Bart follows. At this point they
+  both are covered in mud after being in a mud puddle, but when they enter
+  the penitentiary the mud has strangely vanished.
+
+= The wedding figurines don't appear in Ralph's back pocket until Bart decides
+  to execute them. {bjr}
+
+* Why would an abandoned prison need a guard? {af}
+
+= The newlyweds vanish from Ralph's back pocket in some scenes. {dh}
+
+= Bart and Ralph leave behind the mess of the melted figurines.  However,
+  it's not there at the press conference. {ol}
+
+= That old rotary phone the guard was using has one too many numbers. {dh}
+
+= Pay attention to the switch on the wall as Mayor Quimby sits down in the
+  electric chair.  It jiggles from frame to frame. {dh}
+
+= The rocket vanishes from Burns' desk. {dh}
+
+= The 'Safety/Armed' electric chair switch disappears in Quimby's scene. {je}
+
+= The activation lever for the chair used to be on the opposite wall of the
+  chair, but changed position in Quimby's scene. {je}
+
+* Mayor Quimby would not have survived the electrocution. Observe the
+  following extract of an article about the electric chair:
+
+  "The electricity enters the inmate's head and immediately depolarizes, or
+  scrambles, the normal electric signals within the brain. At that point,
+  all consciousness and feeling are eliminated."
+
+==============================================================================
+> Reviews
+==============================================================================
+Dale G. Abersold: The (evil) rule of thumb of post-9F17 episodes seems to be
+   "in order to be funny, characters must be portrayed wildly out of
+   character."  Dan Greaney proves that the opposite is true: humor and
+   somewhat realistic character portraits can go hand in hand.  This is not a
+   perfect episode by any stretch of the imagination, but it is most pleasant
+   and most welcome. (Grade: B+)
+
+David Carruthers: I thought this episode was great. I thought it was
+   especially goof how they showed Ralph's life more! This was definitely the
+   best of season nine. This Simpsons episode proves the Simpsons is still
+   alive. Homer had some good lines,  especially the answering machine.
+   (Grade: A)
+
+Ben Collins: I haven't had this much fun watching The Simpsons in a while.
+   Instead of simply filling this episode with idiotic one-liners (although
+   there were a couple), Dan Greaney actually develops Ralph's character (a
+   strange idea in the Scully era). Unfortunately, the third act declines into
+   pointlessness and ends idiotically. (Grade: B+)
+
+Chris Courtois: "This Little Wiggy" had a disjointed, slapdash feel, almost
+   like a first draft of an episode. The opening Knowledgeum scenes were full
+   of great bits, but the transition to the main Ralph-Bart story line was
+   abrupt and awkward. (Ralph gets pulled out of a giant ear and starts
+   barking like Wigglepuppy, which inspires Marge to have Bart play with
+   him??) For a Ralph centered episode, there were surprisingly few great
+   Ralph lines, certainly nothing on par with the lines in "I Love Lisa",
+   although the moonrock in the nose, and "My dad took away your beer" were
+   both good. The episode was amusing, if somewhat slight. A bit more
+   tightening up might have raised this from the C+/B- grade I give it.
+
+Nathan Mulac DeHoff: The plot wasn't especially well developed this time, but
+   the characterization was done well, except for Bart's desire to hang around
+   with Jimbo and company. It seems to me like he would have learned his
+   lesson about hanging around with them. This episode's main asset was it's
+   humor. It kept me laughing more than most of this season's episodes did,
+   from the beginning scene in school on. The museum scene, for instance, was
+   quite well done. (Grade: B)
+
+Daniel L. Dreibelbis: Another largely funny episode which puts the rest
+   the idea that season 9 is lame, with Ralph Wiggum back on form with his
+   bizarre behaviour, and some great lines and a nicely set up plot. Homer
+   gets in some great shots too (that scene in the parking lot had me ROTFL,
+   as well as when Bart tells Marge she has no idea what it's like "hanging
+   around with a doofus"). Give those writers a raise! (Grade: A)
+
+Jordan Eisenberg: Can somebody please remind me why I've ever been
+   disappointed with this season? This was amazing. Nothing OOC, plenty of
+   original, inspired gags and every member of OFF had a respectable amount
+   of time. The plot seemed to change dramatically in the last few seconds
+   of the first act, but it took me until second viewing to even notice.
+   Looking back at my past few reviews, I've begun to realize I love this
+   season! As of this episode, I'm raising my standards for an A. (Grade: B+)
+
+Alex Foley: Dan Greaney does it again with "This Little Wiggy," a big
+   improvement over "Realty Bites". Great jokes, good story make for the best
+   episode since "Lisa's Sax". The one problem with this episode was the end
+   with Quimby on the chair, but otherwise, a superior episode. (Grade: A)
+
+Tony Hill: This was a simply hilarious episode, easily the funniest of
+   the 9th season so far.  Making Ralph more than a one-dimensional character
+   worked.  The reason this ep did, however, is because the focus was on Bart
+   and not Ralph. (Grade: A)
+
+Kevin Hinrichs: I liked this episode. The Robbie the Robot joke at the
+   beginning was funny. Ralph's wigglepup character and his leprechaun. Mayor
+   Quimby getting fried was hilarious. (Grade: A+)
+
+John Isles: This episode can be simplified in one word-- GREAT!  The story
+   had a great first act, and the laughed never died down to muteness. The
+   museum scenes were the best part, having several ingenious and interesting
+   exhibits. Sight gags aside, I thought the story worked well, in spite of
+   the fact Bart doesn't like hanging out with dorks like Ralph.  I thought
+   the writing for Ralph REALLY sparkled, seeing how he conquered the fear of
+   going into the not-quite-abandoned prison.  The events that took place in
+   the worked in sync, providing a not-so-obvious story line (i.e.:  Bart
+   ditching Ralph and forgetting him altogether). All in all, the BEST
+   episode of this season [thus far]. (Grade: A-)
+
+Joe Klemm: Even though there wasn't any interesting quote that is up there
+   with the classic quotes, it was still a funny episode. I loved the
+   knowledge museum, which I wish was real. The ending was very clever with
+   the leprechaun of Ralph's imagination wanting the boy to set the house
+   on fire. (Grade: A)
+
+Haynes Lee: Had a real painful start but picked up somewhat near the end.
+   Could have used a subplot though. This is no where near as good the first
+   Ralph vehicle "I Love Lisa". (Grade: C+)
+
+Jake Lennington: A nice romp that adds another dimension to everyone's fav.
+   one liner machine, Ralph. [thats a memorable line itself, Jake! --hmw]
+   Overall, I thought the episode was not the funniest of Season 9, but it
+   was not all that bad.  It was cool to see Bart and Ralph paired together
+   and the idea of having a "master key" to Springfield bring them together
+   was a nice touch also. (Grade: B+)
+
+Michael K. Neylon: While most of the rest of the episode was strong, the use
+   of Ralph in this show was disappoint, and offset the strength of the rest
+   of the episode.  If they didn't dumb down Ralph as they have with Homer,
+   this would have been a much stronger episode.
+
+John Ogan: This one amused me.  They had some great material written, dense
+   with jokes and evident of some screwed-up minds behind the scenes.  Take
+   the concept of the "Make A Baby" game, getting trapped in a giant ear and
+   being cleaned out by a giant Q-tip, and Wiggle-Puppy... I love it.  It
+   really wasn't the best plot I've ever seen, and the ending was pretty
+   unbelievable, but I appreciated the show for what it was.  I laughed,
+   strangely enough, when Lisa was introduced with the strum of a harp
+   when using the sextant, almost indicating some magical quality about
+   her.  To me, "This Little Wiggy" was what we call a "lighthearted romp".
+   And how many times was religion brought up in this episode?  Bart thanking
+   the lord for his bounty, Lisa praying that the rocket hits its target,
+   and Wiggum crying out for God when he goes down in his bedroom.  At least
+   Lisa got a good moment for herself in that she displays her ability to
+   let someone else take the credit for her work when they need it more.
+   (Grade: B)
+
+Tom Rinschler: Whew! I haven't laughed that much during an episode in a
+   long time! There were non-stop jokes from beginning to end, many of them
+   LOL's and ROFL's, and at worst plenty of good little snickers. The jokes
+   were held together by a decent (if skimpy) plot, with nice characterization
+   for Bart, Ralph, Marge, and Lisa. Homer wasn't a complete ignoramus, just
+   highly excitable. Best of all, Ralph wasn't merely played for jokes, but
+   with sympathy for his plight. All in all one of the best (if not THE best)
+   of the season, and probably up there with the best of the series!
+   (Grade: A+)
+
+Benjamin Robinson: The highlight of this show wasn't the expected hijinx that
+   Bart was supposed to get into with the town's master key.  Instead, it was
+   the surprising way writer Dan Greaney transformed Ralph from Springfield's
+   dumbest boy into someone who could win your sympathy.  Marge also shines as
+   a well-intentioned, and slightly meddlesome, mother.  The plot starts off
+   great, with a hilarious trip to the science museum, but the third act
+   shifts direction too abruptly and is slightly flat.  Not my favorite
+   Greaney-written episode, but it's a good one overall. (Grade: B)
+
+Matt Rose: Dan Greaney is one of those who still is capable of a good Simpsons
+   episode. Make him producer! For those to come along in the last three
+   seasons, he's my favorite and this episode shows why - A good mix of story,
+   emotion, and humor, and characters that for the most part were who they
+   were supposed to be. I enjoyed all the museum sequences... reminded me of
+   "Duff Gardens". Although some of Ralph's lines weren't all that funny, he
+   still had some great ones, and Bart was played beautifully. A shame that
+   great episodes are a rarity these days, but it's comforting to know it's
+   still possible from the current staff. (Grade: A-/B+)
+
+Mike Smith: Not since I Love Lisa (9F13), have we got an really funny
+   episode focusing on Ralph. Tonight is no exception!!! The funniest episode
+   in some time. My vote for the second best episode of the season (After
+   Lisa's Sax, of course!). (Grade: A)
+
+Yours Truly {hmw}: There's something about the episode that I can't quite put
+   my finger on. It was a fairly decent episode, but the style of humour
+   didn't gel for me. But it was good to see Bart back in his prank-pulling
+   and danger-seeking ways. (Grade: C)
+
+==============================================================================
+> Comments and Other Observations
+==============================================================================
+>> Behold.. the Pathfinder!
+
+Joe Klemm: In the Mars background, Bart is using the Pathfinder as a
+   skateboard. The Pathfinder is a Mars rover that landed on the red planet
+   in 1997 to investigate rocks, which were named after cartoon characters,
+   for any signs that life once existed on Mars. Currently, the mission is
+   about over since transmission from Mars is cut.
+
+
+>> Troy McClure's acting career: Welcome Kiosks
+   - Welcome to Springfield Airport
+   - Where's Nordstrum?
+   - The Springfield Knowledgeum
+
+
+>> Movie for a late, late night
+
+Benjamin Robinson sheds some light on the movie Chief Wiggum was watching:
+   There actually was a series "Pink Panther" movies -- an original "The Pink
+   Panther," and a run of sequels each bearing a title that was an
+   increasingly ridiculous variation of "The Pink Panther Returns."  Not
+   related to the cartoon character (*), the movies were about the
+   misadventures of Inspector Clouseau (sp?), a French detective who was
+   perpetually on loan to the Brits. The French knew what they were doing --
+   Clouseau was incompetent and clumsy to the extreme, and as a result, the
+   "Panther" movies combined slapstick comedy with international intrigue.
+   The Inspector was played by Peter Sellers.  When he died, it seemed as
+   though the series had come to an end. It's hard to discourage Hollywood,
+   and they decided to make a go of it with another actor (not Ken Wahl,
+   though).  The critics savaged it, and the audience stayed away in droves.
+   <That> brought the series to an end.
+
+   A comedy about a bumbling cop?  Gee, I wonder why Wiggum would want to
+   watch that...
+
+   (*) Although the 'toon Panther did make an appearance in the opening
+   credits.
+
+
+>> By all medical logic, his eyes ought to be popping out of his sockets 
+
+A few comments about the electric chair from "Faces of Death", submitted by
+   Andrew Gill.
+
+   1. The electric chair typically has two switches, so that no one knows who
+      killed him/her.
+   2. The shock, IIRC, lasts 30 seconds at a high voltage, with a 5-minute low
+      voltage shock.
+   3. But you know that you caused him/her at least some damage, as typically
+      you give several shocks.
+   4. The reason that you give several shocks is that the person is typically
+      alive for the first few.
+   5. Thus, Quimby would likely be alive for the first shock.
+   6. You typically have tape the eyes--they do pop out.
+
+
+>> Thoughts
+
+Andrew Gill: Did anyone else notice the number of double entendres in this
+   ep? ("I'm gonna toss the virtual salad", morning wood -- the Ovulator
+   2000 doesn't count, though.)  Not since Black Widower have we seen this...
+
+Dave Hall: I was expecting something to happen with the bullies' video taping
+   their crime sprees, but nothing became of it.
+
+Jeremy Reaban: Does Ralph actually know Bart? I know he recognizes him
+   vaguely, but I didn't think he knew his name (see Bart Sells his Soul).
+
+
+>> Musical references
+
+   + "Do the Hustle"
+        - Homer sings this as an answering machine message, and replaces
+          "hustle" with "message"
+
+   + "There's a Rocket in my Pocket"
+        - KISS song {hl}
+
+   - Apparently the close captioning made reference to the Who album "Tommy,"
+     by including the song "I'm Free" in the Toy Store {jr} [They included
+     the lyrics, even though on the show they aren't heard --hmw]
+
+
+>> Miscellaneous
+
+- MPAA rating: TV-PG {ddg} [Kinda weird, considering the sexual references
+  and some other unsuitable bits, ie. Quimby's electrocution --hmw]
+
+- Inside Reference: the movie "Jerry Maguire" was produced by Gracie Films'
+  James L. Brooks and Richard Sakai. {dh}
+
+==============================================================================
+> Quotes and Scene Summary
+==============================================================================
+[Syndication cuts are contained in {curly brackets}, and were observed by
+Haynes Lee]
+
+% It's another lazy day in Springfield, the town without a state. Edna
+% Krabappel's class are learning mathematics.
+
+Krabappel: Now, whose calculator can tell me what seven times eight is?
+           [the kids rush to the sum. Milhouse Van Houten has an answer]
+ Milhouse: Oh! Oh, oh, oh!  Low battery?
+Krabappel: [sighs] Whatever.
+-- "This Little Wiggy"
+
+% Principle Skinner appears at the doorway with a treat in store for the kids.
+% With a bit of trouble, he finally manages to grip the kids' attention.
+
+Skinner: We have a very special visitor today, but he's no ordinary visitor.
+         In fact, [almost chuckling] you might say--
+   Bart: He's a robot.  We saw him on the way in.
+Skinner: [loses enthusiasm] Thank you, Bart.  All right, come in, they know.
+-- Lost in Springfield? "This Little Wiggy"
+
+% A Dr. Who-esque robot [on wheels] rolls into the classroom.
+
+Skinner: Kids, this is Robbie the Automaton.
+  Robot: [in robotic voice] Greetings, Earth children.
+  Lewis: Where are you from?
+  Robot: [pauses] Earth.
+-- Me too! "This Little Wiggy"
+
+% The robot asks the kids if they've ever wondered which of the Three Stooges
+% had the heaviest brain. Nelson drifts into a daydream, in which he is a
+% scientist observing three brains.
+
+Hmmm... Larry... three point two kilograms. Fascinating!
+-- Nelson Muntz learning which of the Three Stooges had the heaviest brain,
+"This Little Wiggy"
+
+% The answers to these - and similar questions - can be found at the
+% Springfield Knowledgeum, a hands-on learning environment opening on
+% Saturday. Once the advertisement is over, Bart glances out the window
+% beside him and notices the sucker controlling the robot sat in a tree.
+% Bart equips his slingshot and shoots the man down, turning the robot's
+% back to rubber, and resetting it's configurations to default.
+
+Command link severed.  Default setting. Crush, Kill, Destroy.
+-- I, robot, "This Little Wiggy"
+
+% The robot grabs Principal Skinner, and executes a bear hug. The children
+% ignore Skinner's begging for help, and cheer.
+
+% Soon enough, OFF are at the parking lot of the Knowledgeum.
+
+ Lisa: What a whimsical building. Who says science can't be fun?
+ Bart: Me. I smell a museum.
+Homer: Yeah, good things don't end with eum. They end with mania. Or teria!
+-- "This Little Wiggy"
+
+% OFF enter the Knowledgeum, and move along on a conveyor belt. A
+% well-sized screen is playing the Knowledgeum welcome kiosk, starring
+% Troy McClure.
+
+Troy:  Welcome to the Springfield Knowledgeum.  I'm Troy McClure!
+       You may remember me from such automated information kiosks
+       as 'Welcome to Springfield Airport', and 'Where's Nordstrom?'.
+       While you're enjoying our hall of wonders, your car will be
+       unfortunately be subject to repeated [fades out].
+Homer: What'd he say?  What about my car?
+-- at the Knowledgeum, "This Little Wiggy"
+
+% The Simpsons enter. To their delight, a wealth of educational and fun
+% activities inhabit the entire building. Kids slide down a scientific
+% helter-skelter, Rod Flanders moons into a giant telescope, and some kids
+% try to stand on the earthquake simulator.  Fueled by this eye candy, the
+% Simpsons are anxious to look around.
+
+  Bart: Hey, I'm going to go toss the virtual salad!
+  Lisa: I'm gonna read the giant book!
+ Homer: I'm going to try the sex education computer! (he jumps, and the
+        bounces away on the trampoline like floor) Yoink!
+ Marge: Come on, Maggie.  Let's try and find the enormous pendulum!
+-- Er... I'll be at the world's smallest chess board, "This Little Wiggy"
+
+% Elsewhere, Professor John Frink is hosting an exhibit called "The
+% Visible Computer," in which a transparent shell lets people see the
+% inside of the average PC. The audience are the nerds and geeks --
+% the Super Friends, Martin, etc.
+
+   Frink: The section now illuminated is the floating point unit. One of my
+          personal favorite units.
+Children: [ooh's and ah's]
+   Frink: [flattered] oh, well...
+    Bart: [typing on the keyboard] Hey, how do you get this thing to play
+          blackjack?
+   Frink: Stop that, you're hurting it.
+    Bart: So how is it supposed to work?
+   Frink: Well..
+    Bart: Boring.  Am I on the Internet?
+   Frink: No! You can only access the..
+    Bart: Boring.  What's that fire for?
+Database: The hard drive is crashing at an alarming speed!
+          [Martin takes a photograph.]
+   Frink: [to Martin] No more pictures!
+-- "This Little Wiggy" 
+
+% Meanwhile, Homer is spending his time playing "Let's Make a Baby."
+
+Homer: Aah!  Eh!  Ovulate, damn you!  Ovulate! 
+Voice: You are out of sperm. 
+-- Homer playing 'Let's Make a Baby,' "This Little Wiggy" 
+
+% Homer moans in defeat and walks away.  Krusty leaps into the chair.
+
+Hey, baby, remember me?
+-- Krusty the Clown, getting ready to play 'Lets Make a Baby,' "This Little
+   Wiggy"
+
+% Meanwhile, Bart is walking around a clone of Mars. Observing a crater
+% which resembles a half pipe [and a perfect edge for grinding], Bart
+% notices this is also a perfectly good skate park!
+% Bart leaps onto a nearby Mars Rover and begins skating. He skates in
+% and around the crater and ends up skating towards Ralph, who happily
+% sits, smiling.
+
+I found a moon rock in my nose!
+-- Ralph Wiggum, "This Little Wiggy"
+
+Houston, we have a booger.
+-- Bart on Ralph, "This Little Wiggy"
+
+% Jimbo, Dolph, Kearney and Nelson approach Bart and Ralph.
+
+  Jimbo: Hey loser, this planet's for space studs.
+Kearney: Yeah, blast off!
+-- it's a free planet, "This Little Wiggy"
+
+% Kearney grabs Ralph and tosses him into a large model ear.
+
+Kearney: Tell it to the ear, baby.
+   Bart: [laughs] Good one, guys.
+Kearney: Simpson, go kiss the virtual ass!
+   Bart: Yes, sir.
+-- "This Little Wiggy"
+
+% Later, Marge and Chief Wiggum watch on as a Knowledgeum worker tries to
+% pry Ralph out of the ear with a giant Q-tip. They finally get him out.
+% Ralph begins to run around in circles barking and making engine noises.
+% Marge looks on, half-disgusted, but Chief seems to be proud of him.
+
+ Marge: Is that normal?
+Wiggum: No, he's just playing 'wiggle Puppy'!  That's a dog he made
+        up who flies by wagging his tail.  Heh, I tell you, that dog has had
+        some amazing adventures.
+-- Like father, like son, "This Little Wiggy"
+
+ Marge: Well, Ralph certainly has a lot of imagination.
+Wiggum: Aw, yeah, the kid's incredible.  I mean the special schools are
+        all over him.
+-- "This Little Wiggy"
+
+ Marge: Maybe he needs some real friends.
+Wiggum: Sure, we'd all love some <real> friends, Marge, but what are the
+        odds of that happening?
+-- "This Little Wiggy"
+
+% Marge is impressed by Ralph's manners.
+
+Help!  She's touching my special area!
+-- Ralph panicking when Marge touches his shoulder, "This Little Wiggy"
+
+% The Simpsons are walking back to their car in the parking lot.
+
+Homer: [excited] Then me and my friend were about to press it, but the
+       man said not to press it, but we pressed it anyway!  And we ran
+       and we hid in this giant tire, we had.. and my other friend was
+       already there..
+Marge: All right, all right, now, you're over stimulated.  Let's get
+       some beer in you, and then it's right to bed.
+Homer: Woo hoo! [running] Beer, beer, beer, bed, bed, bed!
+-- Just a big kid, "This Little Wiggy"
+
+% The next day, Bart is packing his bag for a typical prank filled school
+% day.
+
+Firecrackers.. stink-bombs.. maps to teacher's homes.
+-- Bart, preparing for a typical school day, "This Little Wiggy"
+
+% As Bart starts to go out the door, Marge stops him, with an excited look
+% on her face. Marge has arranged a playdate for Bart instead of school.
+% The door bell rings. "A wha-- with who?!" asks Bart, desperately.
+% Marge opens the door, revealing Ralph Wiggum, holding a melting popsicle 
+% in one hand and a finger trap in the other. 
+% Later, Ralph has the finger trap stuck to his tongue.
+
+ Bart: You want me to hang out with Ralph Wiggum? 
+Marge: Not hang out! Play date! 
+ Bart: Stop saying that! 
+Marge: Now why don't you show off your new friend around the
+       neighborhood? You two make an adorable pair! 
+ Bart: [to Ralph] Someone will be right with you. [slams door] Mom,
+       school has changed a lot since you were a kid.  Popularity is
+       very important now.
+Marge: But--
+ Bart: Don't talk. Just listen. The social order of elementary school is
+       densely layered.  The coolest kids are at the top...
+Marge: Oh, you mean like the 'A' students?
+ Bart: [pauses] I don't wanna play with Ralph.
+Marge: He's just a misunderstood little boy who needs a friend!  And, if
+       he hangs around with you, well, everyone will think he's cool!
+ Bart: [flattered] Well, I don't know about that... it might help him a
+       little...
+Marge: Okay!  Great!  You kids have fun!
+Bart:  {Hey, wait, I didn't agree to...}
+-- "This Little Wiggy"
+
+% {Marge starts vacuuming and humming loudly, blocking out Bart's attempts
+% to make her reconsider.}
+
+% {Later, the play date is in action. Bart and Ralph are in Bart's bedroom.
+% Ralph is looking at the contents of Bart's toychest, while Bart monitors
+% Ralph, uncomfortably.}
+
+{Your toys are fun to touch; mine are all sticky.}
+-- Ralph Wiggum talking about Bart's toys, "This Little Wiggy"
+
+ Bart: {Ralph, I just got through sorting those!}
+Ralph: {I dropped my pop-stickle in your toy chest.}
+ Bart: {Ralph, would you...}
+Ralph: {Look, a rocket ship!}
+-- Hell on Earth, "This Little Wiggy"
+
+% {Ralph runs over to a model rocket ship on the windowsill. Bart stops
+% him from causing any damage. Bart suggests they play hide-and-seek.
+% Apparently the pair are playing hide-and-seek. Marge opens a cupboard,
+% revealing Ralph hiding behind a pile of towels.}
+
+{I've been here two hours, and Bart still hasn't finded me!}
+-- Ralph, proud of his hide-and-seek skills, "This Little Wiggy"
+
+% {Marge goes up to Bart's room with Ralph, where Bart is scrubbing the
+% syrup stains from his toys. Marge persuades him to go out with Ralph.}
+% Bart and Ralph walk down the street. Bart is deliberately walks faster
+& than Ralph.
+
+Slow down, Bart!  My legs don't know how to be as long as yours.
+-- Ralph Wiggum trying to keep up with Bart, "This Little Wiggy"
+
+% Bart continues walking faster than Ralph, until, to his horror, he
+% sees the local bullies cruising in a parking enforcement buggy,
+% catching their own crime spree on camera.
+
+Videotaping this crime spree is the best idea we ever had!
+-- Jimbo Jones, "This Little Wiggy"
+
+% Bart pushes Ralph into some nearby bushes as the bullies drive past.
+% Once they've passed, Bart pulls Ralph back out. They walk to Ralph's
+% house.
+
+Bushes are nice 'cause they don't have prickers -- unless they do.
+This one did. Ouch!
+-- Ralph coming out a thorn bush, "This Little Wiggy"
+
+% Meanwhile, Ralph is giving Bart a tour of his back garden.
+
+Ralph: This is my swing set.  This is my sandbox. I'm not allowed to
+       go in the deep end.  [points to large rock] That's where I saw
+       the leprechaun!
+ Bart: [sarcastically] Right, a leprechaun.
+Ralph: He told me to burn things.
+ Bart: [unsure] Uh huh...
+-- I'm the leprochaaaaauuun! "This Little Wiggy"
+
+% Later, in Ralph's bedroom, Bart is pondering on things to do.
+
+Ralph: Wanna play stuffed animal parade?
+ Bart: Maybe later.  Come on, Ralph, your dad's a cop!  There must be
+       some cool stuff around here, bullets, dead body photos, what have you.
+Ralph: He keeps that stuff in his closet.  But he says I'm not allowed in
+       there.
+ Bart: Did he say I'm not allowed in there?
+Ralph: Yes.
+ Bart: [pause] Well, I'm goin' in anyway!
+-- "This Little Wiggy" 
+
+% They go inside Ralph's parents' room. Bart rips through some police
+% crime scene tape covering a closet and opens it to a vandal's paradise.
+
+Oh Lord, I thank you for this bounty I'm about to receive... 
+-- Bart, checking out Chief Wiggum's forbidden closet, "This Little Wiggy"
+
+% Bart finds some files of the residents of Springfield. He flips through
+% and finds Homer's file.
+
+Wow! Dad's been in jail six times! Aw, Mom's only been in twice...
+-- Bart, "This Little Wiggy" 
+
+% Clancy Wiggum enters the house and greets his family. Panicking, Bart
+% shoves Ralph and himself into the closet as the Chief climbs the stairs.
+
+Eh, oh, man, we have got to get an escalator!
+-- Chief Wiggum takes the stairs, "This Little Wiggy"
+
+% He sees the door of his closet slide shut.
+
+[gasp] A 341 in my own bedroom!  All right, crookie, lets dance!
+-- Chief Wiggum, "This Little Wiggy"
+
+% Chief Wiggum does a break fall towards the cupboard, and injures his
+% back. Bart and Ralph emerge from the closet.
+
+What is your fascination with my forbidden closet of mystery?
+-- It's just a kid-thing, Chief Wiggum, "This Little Wiggy"
+
+Ralphie, you got a friend?  Hey... that's fantastic! Here, here, have
+some riot gear; it's on the house! [Ralph and Bart attack each other
+with the riot gear, with helmets as protection]  Aaah, that takes me
+back to the Sixties.
+-- Chief Wiggum, "This Little Wiggy"
+
+% Wiggum leaves the room and hangs a weird key on his bed post.
+
+ Bart: What's that weird key for?
+Ralph: That's Daddy's Magic Key. It opens every door in town!
+ Bart: A police master key? Ralph, do you realize what we can do with..
+       [drools] Get me a towel..
+-- "This Little Wiggy"
+
+% Back at the Simpson house, Homer and Marge are trying to pick an
+% appropriate answering machine message from a book called '99 Hilarious
+% Phone Messages'.
+
+Homer: Hi, this is Jerry McGuire.  Show me the message! Show-me-the-message!!
+Marge: No, that stinks. Let me try one.  This is Geraldine, and the devil
+       made me miss your call, so hear come the beep!  Here come the beep!
+       [chuckles]
+Homer: Do the message! [sings the tune of 'Do the Hustle']
+-- Married life will never be the same, "This Little Wiggy"
+
+ Bart: [Bart enters, equipping a sleeping bag] So long! I'm going to sleep
+       over at Ralph's!
+Marge: Oh, see, I knew you'd find something you liked about him.
+ Bart: Oh, I found something all right... [drools]
+-- 99 Hilarious Ways to Worry Your Mother, "This Little Wiggy"
+
+% Later, back at Wiggum's place, Bart and Ralph are tucking into their
+% beds. Chief Wiggum flicks on Ralph's night-light, which is so bright
+% you can actually hear it.
+% Bart and Ralph tip-toe into Clancy's bedroom. Inside, the television is
+% switched on, and Clancy and Sarah are asleep, in bed.
+
+We now return to 'The Return of the Pink Panther Returns' starring Ken Wahl
+as Inspector Clouseau.
+-- I think I saw that one.. or the sequel, "This Little Wiggy"
+
+% Bart tries to get the key with the handle of a broom. It hits Chief a few
+% times, but then Bart gets it. Bart throws in a few extra shots at Chief.
+
+% Bart and Ralph, now possessing the Springfield Master Key, stand outside
+% a J.R.R. Toykins, and unlock the doors.
+
+ Bart: The world is our toy store.
+Ralph: Toy store, toy store, toy store!  Whee!
+ Bart: I want to be eight again.
+-- At least you'll never get any older than ten, "This Little Wiggy"
+
+% Bart and Ralph build a giant lego brick with small lego bricks, practice
+% archery with Malibu Stacy dolls, and have a go on the trampoline, with
+% pogo sticks as a means of bouncing higher.  After their fun at the toy
+% store, they take a trip to the bakery, and have a helping of an entire
+% wedding cake and a batch of funeral fudge.
+
+Ralph: I can't believe we ate a whole wedding cake! 
+ Bart: And an entire pan of funeral fudge! 
+-- "This Little Wiggy"
+
+% Suddenly, Bart stops. Jimbo, Dolph, Kearney and Nelson are playing Hacky
+% Sack with a frog. They notice Bart and Ralph. They warm up with the
+% usual insults, and learn from Ralph that they're on a playdate.
+
+  Bart: I'll take it from here, Ralph. [to the bullies] Um, we're hangin'.
+        Chillin'.  A little bit of hillin'. 
+Nelson: I don't get you, Simpson.  Sometimes you seem kinda righteous, but
+        then we see you fraternizing with lameoids. 
+ Jimbo: Which makes you a lamewad! 
+  Bart: Oh yeah? Would a lamewad have the police master key? 
+-- No but a dorkzilla would, "This Little Wiggy"
+
+% The four are impressed. They choose things to do with it, but Bart has
+% the best idea.
+
+% Bart, Ralph and the bullies are outside Morningwood Penitentiary. Bart
+% really does have some strange ideas.
+
+  Bart: There she is!  The big house, the stony lonesome, the thug jug, the
+        mobster trap, Penn State, the oral crook--
+Nelson: Shut up, let's just open the gate. 
+-- "This Little Wiggy"
+
+% Ralph is scared about going in.
+
+It's just an abandoned prison. All the murderers are long dead, and I'm
+sure their ghosts are probably in hell.
+-- "This Little Wiggy"
+
+% Jimbo orders Bart to ditch Ralph. Bart does so, bringing Ralph to tears.
+
+Ha ha! Wait, I missed that!  Get him to say it again!
+-- Jimbo Jones with a camcorder, after Ralph pours some emotions out,
+   "This Little Wiggy"
+
+% Bart decides he can't bail out on a friend, even if it is Ralph. The
+% bullies take the master key and play "keep away".
+
+  Bart: Hey, come on!  I thought we were friends.
+Nelson: Yeah, well, I hope the irony's not lost on you, Simpson.
+        [punches Bart in the stomach, sending him into a mud puddle, and
+        throws the Springfield master key through a now-shattered window]
+-- "This Little Wiggy"
+
+ Dolph: This sucks.  Let's do something else. 
+Nelson: [excited] I know, let's go pick some huckleberries!
+        [the gang agrees, enthusiastically]
+-- What the hell is this? "This Little Wiggy" 
+
+% The gang leaves. Ralph runs through the gate of the Penitentiary, after
+% the key Bart follows.
+
+Wow, look at all these toilets!  They're just inches your bed! Talk about
+luxury..
+-- Bart in Morningwood Penitentiary, "This Little Wiggy"
+
+There's the key! [a rat takes it] Aagh!  The pointy kitty took it!
+-- Ralph, "This Little Wiggy"
+
+% They follow the rat. It goes into a room labeled "Danger". They go
+% inside. It turns out to be the electric chair room.
+
+ Bart: Woah, mama, the electric chair! [sniffs] Smell that, Ralph? That's
+       the smell of justice.
+Ralph: Smells like hot dogs.
+-- "This Little Wiggy"
+
+% They use the master key to activate the chair, deactivated years ago.
+% Ralph and Bart put some newlyweds from a cake to the chair, and melt
+% them into a pool of slime.
+
+[evil cackle] 'Til death do you part!
+-- Bart electrocutes some cake's newlyweds, "This Little Wiggy" 
+
+% Bart turns it off, and they hear someone coming, so they split.
+
+Why do I always shout first? Just gives them a chance to run away. Well,
+I'm an idiot.
+-- the Morningwood Penitentiary security guard, "This Little Wiggy"
+
+% The next day, Ralph and Bart are playing cards.
+
+ Bart: Got any threes?
+Ralph: [the camera reveals Ralph has three of them] Go fish!
+ Bart: Oh, see, here's the problem, Ralph.  You have several threes.
+Ralph: Go fish!
+-- Hmmm.. wanna go fishing? "This Little Wiggy"
+
+% Bart flicks on the TV. Well whaddya know -- it's the news at Morningwood
+% Penitentiary. Talk about coincidence! And Mayor Quimby's about to
+% demonstrate the electric chair -- since it's <deactivated> -- how about
+% that?
+
+ Ralph: Hey, there's our play chair!
+Quimby: To demonstrate what you're in for, I will now strap myself into
+        this electric chair, which was deactivated over thirty years ago,
+        and, I  can only assume, still is.
+  Bart: Uh oh, we didn't reset the safety switch.
+ Ralph: He's going to smell like hot dogs!
+-- Dear God NO! "This Little Wiggy"
+
+% Bart runs over to the telephone and dials O. He gets Morningwood
+% Penitentiary, but the line is busy.
+
+Now, Martha, we've been over this and over this!  We're too old to start
+having children. If you're looking for something to do, why don't you start
+a new twine ball?
+-- The Morningwood Penitentiary security guard, on the phone with his wife,
+"This Little Wiggy"
+
+% Bart and Ralph need a way of warning Mayor Quimby -- and fast!
+
+ Bart: Come on, a man's life is at stake. We need to get a message to the
+       prison. [shaking Ralph] Think! THINK!
+Ralph: Lisa's a good thinker.
+ Bart: That's it!  Ralph, you're a genius!
+-- "This Little Wiggy" 
+
+% Back at the press conference, Mayor Quimby reminds his staff not to come
+% to his assistance, no matter how realistic his performance may be. In
+% Bart's room, Lisa scribbles a warning note and attaches it to Bart's
+% rocket. They launch it, but it misses the Penitentiary completely.
+% Instead, it pings from a cooling tower at the SNPP, and soars through
+% Mr. Burns' office window, dropping into his jacket pocket.
+
+   Burns: Smithers! There's a rocket in my pocket!
+Smithers: You don't have to tell me, sir.
+-- "This Little Wiggy"
+
+% The electric chair is switched on, as we see. However, since Quimby
+% stressed not to come to his aid -- no matter how realistic his
+% performance is -- his crew just watch.  Meanwhile, Burnsie reads the
+% note.
+
+'Electric chair is on', eh?  Then the old prison has been getting free
+electricity for thirty years!  I'll put a stop to that!
+-- Mr. Burns, "This Little Wiggy"
+
+% He turns off the electricity by the touch of a button. The electrocuting
+% stops and Quimby is half dead.  OFF cheer for Ralph.
+
+ Bart: Way to go, Ralph!
+ Lisa: Ralph? But the rocket was my idea!
+ Bart: But asking you was Ralph's idea!
+Homer: You're the man, Ralph!
+-- Justice -- does it smell like hotdogs now? "This Little Wiggy"
+
+% OFF cheer on Ralph, Lisa being the last to join. A small leprechaun appears
+% on Ralph's shoulder.
+
+[Irish] You've done grand, laddie! Now ya know what ya have ta do! Burn the
+house down! Burn 'em all! [Ralph smiles, and nods in agreement.]
+-- Ralph's Leprechaun, "This Little Wiggy"
+
+==============================================================================
+> Key to Contributors
+==============================================================================
+{ac}  Andy Clinton
+{af}  Alex Foley
+{ag}  Andrew Gill
+{bg}  Ben Geffen
+{bjr} Benjamin Robinson
+{ddg} Don Del Grande
+{dh}  Dave Hall
+{dld} Daniel L. Dreibelbis
+{hl}  Haynes Lee
+{ji}  John Isles
+{jk}  Joe Klemm
+{jr}  Jeremy Reaban
+{ma}  Matthew Anscher
+{th}  Tony Hill
+{tr}  Tom Rinschler
+{nmd} Nathan Mulac DeHoff
+
+==============================================================================
+> Legal Mumbo Jumbo
+==============================================================================
+[5F13] capsule copyright 2000, Hari Michael Wierny. (The quotes remain the
+property of Fox, and the reproduced articles remain the property of their
+respective authors. I'm just taking credit for the compilation.) Not to be
+redistributed in public forum without permission.
+
+Thanks to Benjamin Robinson and Frederic Briere for supplying me with the
+a.t.s. archives, and thanks to Dave Hall who helped me find a lot of other
+submissions -- I appreciate everyone's help.

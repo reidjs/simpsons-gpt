@@ -1,0 +1,82 @@
+% H = Homer, M = Marge, B = Bart, L = Lisa, S = Dr. Sherwood
+%
+% The family stand outside the door of Dr. B. F. Sherwood.  Marge holds
+% some knitting.  Lisa holds a chain of paper dolls in one hand, a pair
+% of scissors in the other.  Bart holds a toy machine gun.
+
+B: Family therapy?  What the hell is this?
+L: You said we were going out for frosty chocolate milkshakes.
+H: Well, I lied.
+
+% The door opens.
+
+S: Uh... Simpsons?  Welcome.
+
+% The family enter the office and are seated.
+
+S: So what brings you to family therapy?
+H: Well, Doc, it's like this.
+   They're all driving me crazy.
+B: [interrupting]         He's always blaming things on me.  It's not my fault.
+L: [interrupting]         There's always something wrong with me.  I wish I
+                          was an orphan.
+H: Lisa!
+
+% Bart spots the bowl of mints on the doctor's desk.
+
+B: Oh, boy!  Mints!
+S: Go ahead.  Take one.
+
+% Bart starts shoveling them in.
+
+H: We never laugh anymore, Doc.
+L: You can say that again.
+
+% Bart pauses his mint-fest briefly.
+
+B: [mouth full] When Homer's right, he's right.
+
+% Bart then resumes his shoveling.
+
+L: For once the old man's correct-a-rooni.
+H: Shut up!
+S: I'm sensing some deep-seated hostility here.  Why don't we all take a
+   deep, cleansing breath.
+
+% Everyone takes a deep breath and exhales.  Bart then resumes eating mints.
+
+S: Don't you think you've had enough mints, son?
+B: I ain't leavin' 'til that bowl's empty.
+H: Put those mints back, boy.
+
+% Bart spits out liquefied mint-goop back into the bowl.
+
+L: Ewwwww!
+S: Good Lord, you little slob!  You ruined the whole bowl!
+L: Don't talk to my brother like that, you big oaf!
+
+% Lisa kicks the doctor in the shin.
+
+S: 'Oh!  [rubbing his leg] Why you little borderline psychotic...!
+
+% Homer rises from his seat.
+
+H: No one talks to my daughter like that!
+S: Oh, yeah?  Now are you gonna bully me like you bully your kids?
+B: We don't like you, sir.
+
+% Bart raises his toy machine gun and rapid-fires rubber suction darts
+% at the doctor.  Lisa cuts the doctor's tie.  Marge gasps.
+
+S: [trying to remain calm]  Leave this office, please.
+
+% The doctor pries a suction dart off his face.  (It leaves a red mark
+% behind.)
+%
+% The family walk out of the office into the hallway, the door slamming
+% shut behind them.  They exchange embarrassed glances, then their mouths
+% start to quiver, and they all burst out laughing (including Maggie).
+%
+% [End Act One.  Time: 1:19]
+
+<|endoftext|>

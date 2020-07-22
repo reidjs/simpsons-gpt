@@ -1,0 +1,87 @@
+% H = Homer, M = Marge, B = Bart, L = Lisa
+%
+% Marge leads the family through an art gallery.  Homer, hands in his pockets,
+% is bored and annoyed.  So is Bart.  Lisa seems interested, though.  Maggie
+% just falls.
+
+M: I've always wanted to introduce you kids to the world of art.
+   It's so enriching!
+B: [raises his hand]  I have an announcement to make:  I'm bored.
+H: Well, maybe we're all bored Bart, but we're going to cooperate anyway.
+L: Yeah, Bart.
+B: Oh, brother.
+M: Now, over here...
+
+% Bart turns his head and his eyes pop wide up.
+
+B: Ay, Carumba!
+H: Bart!
+B: Whoooooooooooooooa, momma!
+H: Bart!
+
+% We see what has got Bart's attention:  A painting of a nude.
+
+B: [growls]  Now <that's> what I call the enriching world of ar...
+
+% Homer covers Bart's mouth and eyes, then sees the painting.
+
+H: Not bad, not bad at a...
+
+% Marge angrily covers Homer's mouth and eyes.  Meanwhile, Lisa and
+% Maggie admire a male nude statue's butt.
+%
+% [End of Act One.  Time: 0:27]
+%
+% Marge leads the family through an exhibit of ancient artifacts.
+
+M: Let's try for a little dignified behavior.  This <is> an art museum.
+H: She's right, you little slobs.
+
+% Marge indicates an exhibit.  In the background, a large urn totters on its
+% pedestal as Lisa's arms reach out towards it.  Homer's eyes bug out.
+
+M: Now here, we have some...
+H: Lisa!
+L: Aaaagh!
+M+H: Gasp!
+
+% Lisa covers her mouth in fright as the urn tips off its pedestal.
+% (*whoosh*)  Maggie zips in and catches it.
+
+M+H: Whew!
+
+% Bart's head pops out of the urn.
+
+B: Well, that was close.  When do we go home and watch TV?
+
+% Homer pounds his fist into his hand.
+
+H: Bart...
+B: Careful, Dad...
+
+% Bart ducks back into the urn.
+
+B: This thing's priceless!
+
+% [End of Act Two.  Time: 0:44]
+%
+% Driving home.
+
+H: [angrily]  This is the <last> time I take you kids to the art museum.
+B: Don't have a cow, Dad.
+L: Yeah, Dad.
+H: Why you little...
+M: Now calm down, Homer.
+   The kids just aren't mature enough yet to appreciate fine art.
+B: Au contraire, Mom.
+L: We find the world of art quite enriching.
+
+% Bart holds up a nude.
+
+B: As a matter of fact, I'm thinking of becoming a collector.
+
+% Homer turns around, sees the painting, and shrieks.
+%
+% [End of Act Three.  Time: 1:02]
+
+<|endoftext|>
