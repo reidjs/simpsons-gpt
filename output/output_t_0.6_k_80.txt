@@ -773,3 +773,96 @@ Nelson: "Yes, I know."
 % Nelson asks if he can see his son.
 
 % Nelson
+======================================== SAMPLE 15 ========================================
+Moe: "And here's the deal: The best way to get back to normal is to have the best of both worlds."
+Homer: "And here's the deal: You have another chance to go back to normal."
+-- "The Simpsons vs. The Enemy Within"
+
+% Homer goes back to normal.
+
+Homer: "And here's the deal: You have another chance to go back to normal."
+Moe: "And here's the deal: You have another chance to go back to normal."
+Homer: "And here's the deal: You have another chance to go back to normal."
+Moe: "And here's the deal: You have another chance to go back to normal."
+Homer: "And here's the deal: You have another chance to go back to normal."
+Homer: "And here's the deal: You have another chance to go back to normal."
+Moe: "And here's the deal: You have another chance to go back to normal."
+Homer: "And here's the deal: You have another chance to go back to normal."
+-- "The Simpsons vs. The Enemy Within"
+
+% Homer returns to normal, but then he's trapped in the Simpsons' basement.
+
+Homer: "And here's the deal: You have another chance to go back to normal."
+Moe: "And here's the deal: You have another chance to go back to normal."
+Homer: "And here's the deal: You have another chance to go back to normal."
+Moe: "And here's the deal: You have another chance to go back to normal."
+Homer: "And here's the deal: You have another chance to go back to normal."
+Moe: "And here's the deal: You have another chance to go back to normal."
+Homer: "And here's the deal: You have another chance to go back to normal."
+Moe: "And here's the deal: You have another chance to go back to normal."
+Homer: "'And here's the deal: You have another chance to go back to normal.'"
+Moe: "And here's the deal: You have another chance to go back to normal."
+Homer: "And here's the deal: You have another chance to go back to normal."
+Moe: "And here's the deal: You have another chance to go back to normal."
+Homer: "And here's the deal: You have another chance to go back to normal."
+Moe: "And here's the deal: You have another chance to go back to normal."
+Homer: "'And here's the deal: You have another chance to go back to normal.'"
+Moe: "And here's the deal: You have another chance to go back to normal."
+Homer: "'And here's the deal: You have another chance to go back to normal.'"
+Moe: "And here's the deal: You have another chance to go back to normal."
+Homer: "And here's the deal: You have another chance to go back to normal."
+Moe: "And here's the deal: You have another chance to go back to normal."
+Homer: "And here's the deal: You have another chance to go back to normal."
+Moe: "And here's the deal: You have another chance to go back to normal."
+Homer: "'And here's the deal: You have another chance to go back to normal.'"
+Moe: "And here's the deal: You have another chance to go back to normal."
+Homer: "'And here's the deal: You have another chance to go back to normal.'"
+Moe: "And here's the deal: You have another chance to go back to normal."
+Homer: "'And here's the deal: You have another chance to go back to normal.'"
+Moe: "And here's the deal: You have another chance to go back to normal."
+Homer: "And here's the deal: You have another chance to go back to normal."
+Moe: "And here's the deal: You have another chance to go back to normal."
+Homer: "And here's the deal: You have another chance to go back to normal."
+Moe: "And here's the deal: You have another chance to go back to normal."
+Homer: "And here's the deal: You have another chance to go back to normal."
+Moe: "And here's the deal: You have another chance to go back to normal."
+Homer: "And here's the deal: You have another chance to go back to normal."
+Moe: "And here's the deal: You have another chance to go back to normal."
+======================================== SAMPLE 16 ========================================
+
+[pause]
+Homer: [staring] The Simpsons!
+ Homer: [shaking his head] Oh, uh, I'm sorry, but I'm not going to be around to help you.
+                        [bangs]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+======================================== SAMPLE 17 ========================================
+The first two episodes of "Stonewall" are on the air tonight at 9:00pm.
+           
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+======================================== SAMPLE 18 ========================================
+I'm a big fan of this comic book series. I'm a big fan of this comic book series.
+-- "The Comic-Con Horror"
+
+% The comic book world is buzzing with anticipation. But the comic book world is
+% too busy to check out the comic book world.
+%
+% The comic book world is buzzing with anticipation. But the comic book world is
+% too busy to check out the comic book world.
+
+% Bart and Lisa talk about the comic book world.
+
+Bart: I think this book is really, really, really good.  I'm
+              looking forward to reading more --
+                                     Homer: [reading]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+======================================== SAMPLE 19 ========================================
+-- "Dear Mr. President", "Dear Mr. President"
+
+% Mr. President, you know you aren't going to get a free pizza.  You
+% are going to get a free beer.  You are going to get a free
+% beer.  You are going to get a free beer.  You are going to get a
+% beer.  You are going to get a free beer.  You are going to get a free
+% beer.  You are going to get a free beer.  You are going to get a free
+% beer.  You are going to get a free beer.  You are going to get a free
+% beer.  You are going to get a free beer.  You are going to get a free beer. 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
