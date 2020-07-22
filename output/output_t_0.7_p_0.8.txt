@@ -708,3 +708,327 @@ I don't know how to explain it to you.
 % crowd.
 
 Mad Scientist:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+======================================== SAMPLE 16 ========================================
+My first name is D.B.
+I'm the father of a daughter.
+I'm the father of a daughter.
+-- Bart, "The Simpsons"
+
+% Bart and Lisa visit the Springfield Elementary School.
+
+Lisa: [to Bart] How do you know I'm the father of a daughter?
+Bart: You know, I'm the father of a daughter.
+-- "The Simpsons"
+
+% Bart and Lisa visit the Springfield Elementary School.
+
+Bart: I'm the father of a daughter.
+Bart: I'm the father of a daughter.
+-- "The Simpsons"
+
+% Bart and Lisa visit the Springfield Elementary School.
+
+Bart: I'm the father of a daughter.
+Bart: I'm the father of a daughter.
+-- "The Simpsons"
+
+% Bart and Lisa visit the Springfield Elementary School.
+
+Bart: I'm the father of a daughter.
+Bart: I'm the father of a daughter.
+-- "The Simpsons"
+
+% Bart and Lisa visit the Springfield Elementary School.
+
+Bart: I'm the father of a daughter.
+Bart: I'm the father of a daughter.
+-- "The Simpsons"
+
+% Bart and Lisa visit the Springfield Elementary School.
+
+Bart: I'm the father of a daughter.
+Bart: I'm the father of a daughter.
+-- "The Simpsons"
+
+% Bart and Lisa visit the Springfield Elementary School.
+
+Bart: I'm the father of a daughter.
+Bart: I'm the father of a daughter.
+-- "The Simpsons"
+
+% Bart and Lisa visit the Springfield Elementary School.
+
+Bart: I'm the father of a daughter.
+Bart: I'm the father of a daughter.
+-- "The Simpsons"
+
+% Bart and Lisa visit the Springfield Elementary School.
+
+Bart: I'm the father of a daughter.
+Bart: I'm the father of a daughter.
+-- "The Simpsons"
+
+% Bart and Lisa visit the Springfield Elementary School.
+
+Bart: I'm the father of a daughter.
+Bart: I'm the father of a daughter.
+-- "The Simpsons"
+
+% Bart and Lisa visit the Springfield Elementary School.
+
+Bart: I'm the father of a daughter.
+Bart: I'm the father of a daughter.
+-- "The Simpsons"
+
+% Bart and Lisa visit the Springfield Elementary School.
+
+Bart: I'm the father of a daughter.
+Bart: I'm the father of a daughter.
+-- "The Simpsons"
+
+% Bart and Lisa visit the Springfield Elementary School.
+
+Bart: I'm the father of a daughter.
+Bart: I'm the father of a daughter.
+-- "The Simpsons"
+
+% Bart and Lisa visit the Springfield Elementary School.
+
+Bart: I'm the father of a daughter.
+Bart: I'm the father of a daughter.
+-- "The Simpsons"
+
+% Bart and Lisa visit the Springfield Elementary School.
+
+Bart: I'm the father of a daughter.
+Bart: I'm the father of a daughter.
+-- "The Simpsons"
+
+% Bart and Lisa visit the Springfield Elementary School.
+
+Bart: I'm the father of a daughter.
+Bart: I'm the father of a daughter.
+-- "The Simpsons"
+
+% Bart and Lisa visit the Springfield Elementary School.
+
+Bart: I'm the father of a daughter.
+Bart: I'm the father of a daughter.
+-- "The Simpsons"
+
+% Bart and Lisa visit the Springfield Elementary School.
+
+Bart: I'm the father of a daughter.
+Bart: I'm the father of a daughter.
+-- "The Simpsons"
+
+% Bart and Lisa visit the Springfield Elementary School.
+
+Bart: I'm the father of a daughter.
+Bart: I'm the father of a daughter.
+-- "The Simpsons"
+
+% Bart and Lisa visit the Springfield Elementary School.
+
+Bart: I'm the father of a daughter.
+Bart: I'm the father of a daughter.
+-- "The Simpsons"
+
+% Bart and Lisa visit the Springfield Elementary School.
+
+Bart: I'm the father of a daughter.
+Bart: I'm the father of a daughter.
+-- "The Simpsons"
+
+% Bart and Lisa visit the Springfield Elementary School.
+
+Bart: I'm the father of a daughter.
+Bart: I'm the father of a daughter.
+-- "The Simpsons"
+
+% Bart and Lisa visit the Springfield Elementary School.
+
+Bart: I'm the father of a daughter.
+Bart: I'm the father of
+======================================== SAMPLE 17 ========================================
+It's not that I'm not a good friend of the American dream, but I don't think I'm one of the best people to work for.
+-- Homer Simpson, "Homer's Last Gleaming"
+             
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+======================================== SAMPLE 18 ========================================
+Dieter: [walking down the stairs] I know you're not going to be happy about that.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+======================================== SAMPLE 19 ========================================
+I've had a lot of fun with this.
+-- The Simpsons, "The Simpsons"
+
+% The Simpsons are at the top of a pyramid.
+
+Homer:	[singing]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+======================================== SAMPLE 20 ========================================
+In the book, he explains that he's been kidnapped by the devil.
+-- "The Devil in the White"
+
+% He tells us that he has to go to the devil's hideout to get his father's money.
+
+"We have to find a way to stop him. I have to be more careful.
+-- Homer, "The Devil in the White"
+
+% Homer tells us he's got to go to the devil's hideout to get his father's money.
+
+Homer:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+======================================== SAMPLE 21 ========================================
+And that's the end of the story.
+-- Homer Simpson, "Homer's Girlfriend"
+
+% The next day, Homer has a little fun with the kids.
+
+Homer:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+======================================== SAMPLE 22 ========================================
+The Federalist
+
+Bart: [laughs]
+
+Narrator: [to Bart] You know, it's kind of funny that you're the only one who's ever been able to get away with it.
+
+Narrator: [to Bart] I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I'm the one who's been able to get away with it.
+
+Narrator: I
+======================================== SAMPLE 23 ========================================
+
+Marge:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+======================================== SAMPLE 24 ========================================
+
+-- "Gotta Love You, Daddy"
+
+% A new breed of gazelle is born.
+
+Milhouse: Hey, what's that?
+Milhouse: Gazelle!
+Milhouse: It's a gazelle.
+Milhouse: It's a gazelle.
+-- "Gotta Love You, Daddy"
+
+% Milhouse and his gazelle are gathered around a giant gazelle,
+% which has been shaped like a giant bird.
+
+Milhouse: We're going to use this gazelle to make a gift for you.
+Milhouse: [giggles] I'm not going to give you a gift!
+         [the gazelle throws the gazelle out]
+         [Milhouse and the gazelle hug]
+         [the gazelle continues to throw the gazelle out]
+         [the gazelle and the gazelle hug]
+         [the gazelle and the gazelle hug]
+          [the gazelle and the gazelle hug]
+          [the gazelle and the gazelle hug]
+           [the gazelle and the gazelle hug]
+           [the gazelle and the gazelle hug]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+======================================== SAMPLE 25 ========================================
+I'm sorry, I just got an unsolicited offer from a company that I know is trying to sell me a car.
+-- Eddie the Tipper, "The Simpsons' No-Nonsense Sideshow"
+
+% Homer, dressed in a tuxedo, walks into the car.
+
+Homer: Hello, I'm Moe, the Simpsons' No-Nonsense Sideshow.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

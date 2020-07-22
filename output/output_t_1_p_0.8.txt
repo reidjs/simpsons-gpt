@@ -880,3 +880,335 @@ that foot isn't there yet, I swear, and you could have said, "What
               [gasps again]
                    [gasps again]
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+======================================== SAMPLE 18 ========================================
+
+The Android Debugger. Android 7.1
+
+The Android Debugger. Android 7.1
+
+A single line on the front of the file "debug.xml" will
+             contain the following information:
+
+``Because of issues with the Android Debugger, we have moved the
+              Android build to a separate build process.
+
+This move is due to the needs of our community.
+
+This move may be painful for some folks.
+
+-- Boredom, Boredom! ``Trap Shot''
+
+%                 The Android build is now a standalone
+%               project.
+
+I want to thank everyone who has put in the work.
+-- Notable Android security engineer, ``Trap Shot''
+
+%                    ``Trap Shot''
+
+%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+======================================== SAMPLE 19 ========================================
+Simpson, ``Dad''
+
+Simpson: You know I'm tired of it.
+
+-- She is, ``Simpson''
+
+% Simpson is shown looking down at his junk in the living room.  He sighs.
+
+Simpson: You know I'm tired of it.
+
+% She goes back to her chair and removes her shoe.
+
+Simpson: You know I'm tired of it.
+
+% Homer: It's too late.
+
+Simpson: You're not going to leave me, I'll call for your assistance.
+
+% Lisa, to Simpson's dismay, is taken aback.  She seems to have gotten some
+% of her ________  value from Homer.  ``We've got to get rid of the 
+% ghost-ninja slippers!''  Homer is horrified.
+
+Simpson:  Oh, you're so ugly, Lisa.  You're not going to have 
+          anything to do with me, are you?
+
+Homer:        I'm too fat for my own good.
+
+Simpson:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+======================================== SAMPLE 20 ========================================
+I'm _not_ going to use those black manning_ tags, "goosebumps" and "nurse" when they're tied up, but it's enough to get me out of my basement.
+-Jackie, referring to George Clooney's widow, "Selma"
+
+[surrounding the dinner table are Jackie and Bill]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+======================================== SAMPLE 21 ========================================
+Toy Tail-Boots, is that you?
+Ness: Huh?
+Homer: Uh... a really nice old fashioned suit.
+               [puts an arm around Ness's shoulder, trying to hide it]
+Homer: I'm in love with the boy, and I'm willing to give him up for the beautiful,
+             beautiful little girl I can't touch.
+               [A dolphin bounces down from the dock to hug the boy]
+               [and the dolphin and the boy embrace, and a dolphin slaps him in the
+              eye]
+-- Homer gets an Oscar, "Marge Gets Married"
+
+% [End of Act One.  Time:  15:48]
+
+% At dinner, Lisa, Hibbert and Homer can hear the brief but mighty thud of a
+% boat sailing through the jungle.  The boy's head hits the tree, sending the
+% boy flying.  He then sits on the tree, presumably, and continues to fall
+%
+% with the boy.  At dinner, it's all talk and no action.  The boys
+% go to the door of their room.  Bart and Lisa turn their
+% heads back, and Ned notices that Homer's eyes are closed, and
+% puts him in the trunk.  At dinner, the boys go to dinner.  Ned notes that
+% the girls like it that the boys like it.
+%
+% Homer wakes up in the living room, along with Hibbert, Homer, Bart and Lisa.  Ned notes
+% that Homer's dream is becoming more real and real.
+
+Homer: Oh, is this an opportunity to play some sports?
+Ned: It's in a video game, a TV show, a movie.  They can't befriends
+         and they don't have to be friends.  You know, I've been playing
+        basketball all my life.
+Homer: Oh, they don't have to be friends, you know?
+         I love that game.
+          [The kids all look at the game, with Hibbert
+          and Hibbert's head in the camera]
+          [Sarcastic voices, filled with dogs and people]
+          Look, I've got a son.  I know he's gonna grow up, I know he's
+          a good boy.
+Homer: Oh, I guess that's what's a good boy.
+          [Hibbert runs up to him, and takes him]
+          [Sarcastic voice, filled with people and barking]
+           Well, we should be playing.
+           [The kids turn their heads back, and the rest of the table
+          turns to see Ned and Hibbert standing behind]
+Ned: I want to say goodbye, I'm afraid.  I'm afraid I'm gonna make you
+          know it was you who took me.
+Homer: You know what?  I'm not gonna lie to you.  I've been a really good boy
+          and a really good boy for my whole life.
+Ned: I know.  I'll never forget it.
+-- He says, "Marge Gets Married"
+
+% Ned looks up, and sees that his sister has her jaw broken.  Ned runs out of the room
+% and says, "I gotta go to the doctor."
+
+Homer: It's a miracle I could feel my face for an entire hour.  [Takes a deep breath]
+             [the door to the doctor opens, and the twins and Lisa come in]
+             [Homer comes in]
+                Oh, mom, you look tired!
+Homer: [screams] Dad!
+                  [the twins leave
+======================================== SAMPLE 22 ========================================
+Walden: I know you're smart and you're rich, but you have problems with the rules.
+Homer: Hey, Waaaaah!  Marge and I need to help.
+Homer: Waaaaah!  The so-called pyramid kids don't have a problem with the rules!
+Walden: You were right.  And I was right.  This doesn't just affect me, I'm also the smartest kid on the planet!
+      [Homer opens his eyes and sees Walden's eyes are, "Damn it!"]
+Walden: It's easy to be stubborn, Mr. Simpson.
+       [winks and turns back to Homer]
+Homer: Eh?  [sarcastic]  Marge, Walden.  Marge, Walden.
+Walden: This is _so_ important.
+Homer:  [thinking]  The lessons you learned, Walden.
+       [winks again and nods]
+       [walks over to Homer]
+-- That's a good lesson, "Homer's Only One"
+
+% Later, Walden speaks with a slightly less emotional tone.  Homer comments that he'll need a lot of practice to get a high grade.
+% Homer has a chuckle, which reminds Walden of his own college graduation.
+
+Walden: [looking up at Homer] That was a great graduation, Mr. Simpson.
+       [starts laughing]  You'd think my last year would have been my last year at college.
+       [winks and nods, and nods back to Walden]
+       [chuckles and looks over at Walden's head]
+        [winks again, and nods again]
+         [chuckles again]
+Walden: [looking up at Homer]  I did just fine.
+         [walks over to his father's chair, and pokes his head]
+         [walks over to his brother's chair]
+          [walks over to his mother's chair, and pokes her head]
+             [walks over to her room, and pokes her head]
+             [walks over to her room, and pokes her head]
+Walden: Oh, it's a nice fellow.  My fellow of college, Walden.
+             [walks over to his father's room]
+Walden: [walks over to his father's room]  I think you're quite right, Walden.
+               [walks over to his room]
+Walden: [walks over to his father's room]  This room's...
+                [walks over to his room]
+               [walks over to his room]  Oh, I'm sure it's very clean.
+               [walks over to his room]
+Walden: No, nothing.  Just, uh, basic stuff.  I can't put a price on it.
+              [walks over to his room]
+               [walks over to his room]  I'm sure it's clean.
+                [walks over to his room]
+Walden: [walks over to his room]  Aah, I can't put a price on it.
+                [walks over to his room]
+                 [walks over to his room]
+Walden: [walks over to his room]  Yes, I can.
+                 [walks over to his room]
+                 [walks over to his room]  This room's quite clean.
+======================================== SAMPLE 23 ========================================
+Shattered Crown is a free, non-commercial music video to celebrate the 60th anniversary of the Beatles.
+Instrumental:       Cut-Down Maestro Rock- 
+       Brand New Top 40.
+Shattered Crown is a free, non-commercial music video to celebrate the 60th anniversary of the Beatles.
+Instrumental:      Cut-Down Maestro Rock-      Brand New Top 40.
+Shattered Crown is a free, non-commercial music video to celebrate the 60th anniversary of the Beatles.
+Instrumental:      Cut-Down Maestro Rock-      Brand New Top 40.
+Shattered Crown is a free, non-commercial music video to celebrate the 60th anniversary of the Beatles.
+Instrumental:     Cut-Down Maestro Rock-      Brand New Top 40.
+Shattered Crown is a free, non-commercial music video to celebrate the 60th anniversary of the Beatles.
+Instrumental:    Cut-Down Maestro Rock-     Brand New Top 40.
+Shattered Crown is a free, non-commercial music video to celebrate the 60th anniversary of the Beatles.
+Instrumental:   Cut-Down Maestro Rock-     Brand New Top 40.
+Shattered Crown is a free, non-commercial music video to celebrate the 60th anniversary of the Beatles.
+Instrumental:   Cut-Down Maestro Rock-     Brand New Top 40.
+Shattered Crown is a free, non-commercial music video to celebrate the 60th anniversary of the Beatles.
+Instrumental:   Cut-Down Maestro Rock-     Brand New Top 40.
+Shattered Crown is a free, non-commercial music video to celebrate the 60th anniversary of the Beatles.
+Instrumental:   Cut-Down Maestro Rock-     Brand New Top 40.
+Shattered Crown is a free, non-commercial music video to celebrate the 60th anniversary of the Beatles.
+Instrumental:   Cut-Down Maestro Rock-    Brand New Top 40.
+Shattered Crown is a free, non-commercial music video to celebrate the 60th anniversary of the Beatles.
+Instrumental:   Cut-Down Maestro Rock-    Brand New Top 40.
+Shattered Crown is a free, non-commercial music video to celebrate the 60th anniversary of the Beatles.
+Instrumental:   Cut-Down Maestro Rock-    Brand New Top 40.
+Shattered Crown is a free, non-commercial music video to celebrate the 60th anniversary of the Beatles.
+Instrumental:   Cut-Down Maestro Rock-    Brand New Top 40.
+Shattered Crown is a free, non-commercial music video to celebrate the 60th anniversary of the Beatles.
+Instrumental:   Cut-Down Maestro Rock-    Brand New Top 40.
+Shattered Crown is a free, non-commercial music video to celebrate the 60th anniversary of the Beatles.
+Instrumental:   Cut-Down Maestro Rock-    Brand New Top 40.
+Shattered Crown is a free, non-commercial music video to celebrate the 60th anniversary of the Beatles.
+Instrumental:   Cut-Down Maestro Rock-    Brand New Top 40.
+Shattered Crown is a free, non-commercial music video to celebrate the 60th anniversary of the Beatles.
+Instrumental:   Cut-Down Maestro Rock-    Brand New Top 40.
+Shattered Crown is a free, non-commercial music video to celebrate the 60th anniversary of the Beatles.
+Instrumental:   Cut-Down Maestro Rock-    Brand New Top 40.
+Shattered Crown is a free, non-commercial music video to celebrate the 60th anniversary of the Beatles.
+Instrumental:   Cut-Down Maestro Rock-    Brand New Top 40.
+Shattered Crown is a free, non-commercial music video to celebrate the 60th anniversary of the Beatles.
+Instrumental:   Cut-Down Maestro Rock-    Brand New Top 40.
+Shattered Crown is a free, non-commercial music video to celebrate the 60th anniversary of the Beatles.
+Instrumental:   Cut-Down Maestro Rock-    Brand New Top 40.
+Shattered Crown is a free, non-commercial music video to celebrate the 60th anniversary of the Beatles.
+Instrumental:   Cut-Down Maestro Rock-    Brand New Top 40.
+Shattered Crown is a
+======================================== SAMPLE 24 ========================================
+At the height of this gushing it is worth saying that you can not watch this program without getting depressed.   Unfortunately, this is just a modest effort.
+Thank you, Dr. Fred.
+-- The brat of a dog, "Homer Simpson"
+
+% Later that evening the camera is rolling.
+
+Larry:     What's the point?  I don't want to see your little heart explode.
+          [dumps a camera roll]
+          [sings]
+           Oh, please don't break my arm.
+           [pushes a button on the button]
+           Oh, my god, my God!
+-- Ned Simpson and Ned Agnew, "Homer Simpson"
+
+% After a fight, the dogs run off to the fire.  Maggie tries to tame the dog, but Maggie is afraid of losing her. 
+% She thinks that if Maggie is still with her, she will kill her.
+% Maggie decides to see the dog, but the audience is supportive of her.
+% Maggie asks Ned if he would like to see the dog.  Ned responds, "Yes, ma'am."
+%
+% Maggie picks up the camera and snaps pictures.  Ned is almost angry at the dog.
+
+-- The dogs are more powerful than she thinks, "Homer Simpson"
+
+% Maggie walks up to Ned and asks him if he will like to see the dog.
+
+Maggie:       [giggles] What about the snake?
+Ned:        I dunno.
+Maggie:        [giggles] Okay.  I'll see it.
+Ned:        [giggles] Well, the snake, it's the snake.
+             [flanders around and looks for Ned]
+           [nods to Maggie] OK, then.  We'll see it later.
+             [flanders back in front of the camera]
+              [flanders back to the camera]
+              [pushes a button on the button]
+             [chuckles] Well, uh, Ned, this is gonna be an awful one.
+              [pushes button]
+               [dumps a camera roll]
+                [pushes button]
+                  [pushes button again]
+                 [pushes button again]
+                 [pushes button]
+                   [pushes button again]
+                     [pushes button again]
+                       [pushes button again]
+                                                                                                                                                                                                                                      
+======================================== SAMPLE 25 ========================================
+Ew: Huh?
+
+Moody:  Mmm, you know, that's an honor I can't take.  Don't go, baby.  [laughs]
+            [he throws him off his pedestal]
+-- Homer in the car, "Christmas in the High Castle"
+
+% A few days later, Ew's faith has been restored.  It has been rained twice,
+% twice, and once, over a high school football game.  Ew says his faith is
+% just as strong as Homer's.
+
+Ew: You're the greatest, so I know.
+           [Ew's head buzzes with excitement]
+           Oh, God.  What a fun, fun world, I'll always have that.
+-- Homer, "Christmas in the High Castle"
+
+% Homer confesses his faith.
+
+Homer: I'm not sure what faith I'm talking about.
+Homer: No faith?  No faith?  No faith?  Yes, faith is really a dirty word,
+          but that's because it's really just one side of the moon.
+          [Ew's head buzzes with excitement]
+Homer: I don't know!  That's crazy.  I just think the moon is really
+          really powerful.
+           [Homer gets a bottle of milk from his pot]
+          I have this jar full of this moon beer.
+Homer: I didn't do anything wrong.  [laughs]
+-- But why does Homer confess his faith, "Christmas in the High Castle"
+
+% The bible still warns against such practices, and the church pays to
+% bless the Ew.  Ew himself wears a funeral band with the Ew as a
+% symbol.  "Nurse Mary", meanwhile, performs a song on his guitar.  The audience
+% applauds.
+
+WOMAN: Oh God, bless us all, the Ew.
+          [Keeples cuts off a hair-raising Ew]
+          [Keeples cuts off a hair-raising Ew]
+          Oh, bless us all, the Ew.
+-- John Woo, "Christmas in the High Castle"
+
+% At the church, Homer enters the church's chapel.
+
+Homer: Ah, the first guy in the church.
+           [Homer's legs come apart, and he is strapped to a chair]
+            [Homer takes off his costume, which consists mostly of a
+           low-top robot, and climbs into the church seat]
+            Ah, God!
+Homer: Oh, God, bless us all.  [covers his body with his hands]
+             [He's about to die]
+            [Homer comes down to earth with a huge bucket of
+            water]
+            [Homer takes the bucket]
+             Ah, God, bless us all.
+-- Bart's son, "Christmas in the High Castle"
+
+% At the church, Reverend Rev. Bambino addresses the congregation.
+
+Homer: Don't be so preachy!
+ Rev. Bambino: Hmmm...
+Homer: Don't be preachy, I don't like it.
+            [Bambino reads the Bible]
+               And the same applies to you, too.
+              [Bambino takes the Bible and asks the congregation to read]
+              You can't!
+               [Bambino reads]
+               [The audience cheers]
+-- Bart, "Christmas in the High Castle"
+
+% After a few hundred miles, Homer
