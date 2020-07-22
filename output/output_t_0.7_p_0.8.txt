@@ -1501,3 +1501,265 @@ A lot of people are talking about "The People's Republic of Korea."
 
 %
 % The next day, the family walks into the
+======================================== SAMPLE 36 ========================================
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+======================================== SAMPLE 37 ========================================
+
+-- The Simpsons, "The Simpsons, Part One"
+
+% The Simpsons are eating at the Simpsons' restaurant.
+
+Lisa: What's this,  Lisa?  I'm a vegetarian.
+Bart:  I'm a vegetarian.
+Lisa:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+======================================== SAMPLE 38 ========================================
+I know that's not what I'm saying.
+-- How to talk to a woman, "The Man With The Mouth"
+
+% At the funeral, a man in a white suit walks up to the 
+% coffin.
+
+Homer:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+======================================== SAMPLE 39 ========================================
+To:
+
+Oh my, I can't believe we've got such a big thing to do with a movie.
+
+To:
+
+Homer, we'll be here for a minute.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you want to be a part of this movie.
+
+To:
+
+Homer, I know you don't want to do anything, but I know you
+======================================== SAMPLE 40 ========================================
+We've got some new music, and a few new people to talk to.
+-- The new folks, "The Boy Who Lived"
+
+% The old folks return with the latest in "gospel music."
+
+We're back with a new song by the Rev. Ralph Gershwin.
+-- Ralph Gershwin, "The Boy Who Lived"
+
+% We also have some new music, including some from the Rev. Ralph Gershwin.
+
+We've got some new music, and a few new people to talk to.
+-- Ralph Gershwin, "The Boy Who Lived"
+
+% We have a new song by the Rev. Ralph Gershwin.
+
+We've got some new music, and a few new people to talk to.
+
+-- Ralph Gershwin, "The Boy Who Lived"
+
+% The old folks return with a new song by the Rev. Ralph Gershwin.
+
+We've got some new music, and a few new people to talk to.
+
+-- Ralph Gershwin, "The Boy Who Lived"
+
+% We have a new song by the Rev. Ralph Gershwin.
+
+We've got some new music, and a few new people to talk to.
+
+-- Ralph Gershwin, "The Boy Who Lived"
+
+% We have a new song by the Rev. Ralph Gershwin.
+
+We've got some new music, and a few new people to talk to.
+
+-- Ralph Gershwin, "The Boy Who Lived"
+
+% The old folks return with a new song by the Rev. Ralph Gershwin.
+
+We've got some new music, and a few new people to talk to.
+
+-- Ralph Gershwin, "The Boy Who Lived"
+
+% The old folks return with a new song by the Rev. Ralph Gershwin.
+
+We've got some new music, and a few new people to talk to.
+
+-- Ralph Gershwin, "The Boy Who Lived"
+
+% The old folks return with a new song by the Rev. Ralph Gershwin.
+
+We've got some new music, and a few new people to talk to.
+
+-- Ralph Gershwin, "The Boy Who Lived"
+
+% The old folks return with a new song by the Rev. Ralph Gershwin.
+
+We've got some new music, and a few new people to talk to.
+
+-- Ralph Gershwin, "The Boy Who Lived"
+
+% The old folks return with a new song by the Rev. Ralph Gershwin.
+
+We've got some new music, and a few new people to talk to.
+
+-- Ralph Gershwin, "The Boy Who Lived"
+
+% The old folks return with a new song by the Rev. Ralph Gershwin.
+
+We've got some new music, and a few new people to talk to.
+
+-- Ralph Gershwin, "The Boy Who Lived"
+
+% The old folks return with a new song by the Rev. Ralph Gershwin.
+
+We've got some new music, and a few new people to talk to.
+
+-- Ralph Gershwin, "The Boy Who Lived"
+
+% The old folks return with a new song by the Rev. Ralph Gershwin.
+
+We've got some new music, and a few new people to talk to.
+
+-- Ralph Gershwin, "The Boy Who Lived"
+
+% The old folks return with a new song by the Rev. Ralph Gershwin.
+
+We've got some new music, and a few new people to talk to.
+
+-- Ralph Gershwin, "The Boy Who Lived"
+
+% The old folks return with a new song by the Rev. Ralph Gershwin.
+
+We've got some new music, and a few new people to talk to.
+
+-- Ralph Gershwin, "The Boy Who Lived"
+
+% The old folks return with a new song by the Rev. Ralph Gershwin.
+
+We've got some new music, and a few new people to talk to.
+
+-- Ralph Gershwin, "The Boy Who Lived"
+
+% The old folks return with a new song by the Rev. Ralph Gershwin.
+
+We've got some new music, and a few new people to talk to.
+
+-- Ralph Gershwin, "The Boy Who Lived"
+
+% The old folks return with a new song by the Rev. Ralph Gersh
