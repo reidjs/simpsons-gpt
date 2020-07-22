@@ -2254,3 +2254,287 @@ Homer: [grabs Maggie's hair]  I don't need any help.
                     [groans]  I don't need any help.
                                            [grabs Maggie's hair]
                                                         Lisa:                                                                                                    Lisa:                                                                                                                                                                                                                                                             
+======================================== SAMPLE 63 ========================================
+It's hard to believe that my parents' house is now the only place in the world where you can buy a car. [pause]
+-- "The Best Dad Ever"
+
+% When the house is finished, Homer walks in and puts a new car in the rear-view mirror.
+
+Homer: [smacks his head] I don't want to be a part of a car company!
+         [hands Homer a new car]
+-- The new car is named, "The Best Dad Ever", "The Best Dad Ever"
+
+% Homer walks in.  A woman walks in who looks very much like Homer.
+
+Woman: Um--what's new?
+ Homer: Uh, I have a new car.
+Woman: [whispers] I don't know.
+Homer: [chuckles] What's wrong?
+Woman: I'm in a new car.
+         [points at Homer's car]
+         [Homer takes the car]
+-- Homer's new car, "The Best Dad Ever", "The Best Dad Ever"
+
+% On a whim, Homer decides to drive the car with his parents.  The car is
+% in a very interesting position.
+
+Homer: [singing] I'm not going to have anyone else drive my car.
+Woman: No, you don't have any friends, you don't have anyone else.
+Homer: [singing] I'm not going to have anyone else drive my car.
+Woman: No, you don't have any friends, you don't have anyone else.
+Homer: [singing] I'm not going to have anyone else drive my car.
+Woman: No, you don't have any friends, you don't have anyone else.
+Homer: [singing] I'm not going to have anyone else drive my car.
+Woman: No, you don't have any friends, you don't have anyone else.
+Homer: [singing] I'm not going to have anyone else drive my car.
+Woman: No, you don't have any friends, you don't have anyone else.
+Homer: [singing] I'm not going to have anyone else drive my car.
+Woman: No, you don't have any friends, you don't have anyone else.
+Homer: [singing] I'm not going to have anyone else drive my car.
+Woman: No, you don't have any friends, you don't have anyone else.
+Homer: [singing] I'm not going to have anyone else drive my car.
+Woman: No, you don't have any friends, you don't have anyone else.
+Homer: [singing] I'm not going to have anyone else drive my car.
+Woman: No, you don't have any friends, you don't have anyone else.
+Homer: [singing] I'm not going to have anyone else drive my car.
+Woman: No, you don't have any friends, you don't have anyone else.
+Homer: [singing] I'm not going to have anyone else drive my car.
+Woman: No, you don't have any friends, you don't have anyone else.
+Homer: [singing] I'm not going to have anyone else drive my car.
+Woman: No, you don't have any friends, you don't have anyone else.
+Homer: [singing] I'm not going to have anyone else drive my car.
+Woman: No, you don't have any friends, you don't have anyone else.
+Homer: [singing] I'm not going to have anyone else drive my car.
+-- "The Best Dad Ever"
+
+% At the local high school, the girls are all laughing maniacally at Homer's new car.
+
+Woman: Oh, Homer, you're so clever!
+
+Homer: Oh, yes, I am!
+Woman: I like to laugh at stupid men
+Homer:                                                                                                                                                         
+======================================== SAMPLE 64 ========================================
+You've all seen the latest episode of "Bartender's Choice."
+Bartender: [in front of a mirror, smiling] Now I'm not going to put on a
+            suit.
+Wiggum:                [points to his shirt]
+                                                            I'll keep it
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+======================================== SAMPLE 65 ========================================
+Homer:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+======================================== SAMPLE 66 ========================================
+"I'm not interested in money, I'm interested in freedom."
+-- Ralph, on a "Marge Simpson" episode, "The Simpsons: The Next Step"
+
+% Homer and Lisa are at the "Marge's Mansion" in Springfield.  Lisa is sitting at
+% her desk, wearing a suit and tie.  "Marge's Mansion" is a real
+% haunted house, with a painting of Lisa on the walls.  Lisa's
+% office door is open, and she is sitting at the desk.  "Marge's
+% Mansion" is open, and she is sitting at the desk.  Lisa's
+% office door is open, and she is sitting at the desk.
+% Lisa reads an article about her "home" at the front page of
+% the newspaper.  The headline reads: "Homer's Mansion"
+%
+% Homer's mansion is in the background, with a painting of Lisa on the
+% walls.  "Marge's Mansion" is open and Lisa is sitting at the
+% desk.  Lisa's office door is open, and she is sitting at the
+% desk.  Homer and Lisa are at the "Marge's Mansion" in Springfield.
+% Marge is the only one who is awake.
+
+Marge's Mansion
+
+Brock: Lisa, are you awake?
+Lisa: Oh, no.
+Brock: And no.
+Lisa: Oh, no.
+Brock: And no.
+Lisa: Oh, no.
+Brock: And no.
+Lisa: Oh, no.
+Brock: And no.
+Brock: And no.
+-- "Marge Simpson's Mansion"
+
+% Bart and Lisa are at the "Marge's Mansion" in Springfield.  The
+% banner reads: "Marge's Mansion"
+%
+% Lisa and Bart are at the "Marge's Mansion" in Springfield.  The
+% banner reads: "Marge's Mansion"
+%
+% Bart and Lisa are at the "Marge's Mansion" in Springfield.
+% Marge is awake.
+
+Marge's Mansion
+
+Brock: Lisa, are you awake?
+Lisa: Oh, no.
+Brock: And no.
+Lisa: Oh, no.
+Brock: And no.
+Brock: And no.
+-- "Marge Simpson's Mansion"
+
+% Homer and Lisa are at the "Marge's Mansion" in Springfield.  The
+% banner reads: "Marge's Mansion"
+%
+% The Simpsons sit around the TV, waiting for the "Lipstick Champs to
+% open".  Bart is watching the live news feed, while Bart is watching
+% the news.  Marge is sitting by the TV.
+
+Marge's Mansion
+
+Brock: Lisa, are you awake?
+Lisa: Oh, no.
+Brock: And no.
+Lisa: Oh, no.
+Brock: And no.
+Brock: And no.
+Lisa: Oh, no.
+Brock: And no.
+Brock: And no.
+ Lisa: Oh, no.
+Brock: And no.
+Brock: And no.
+Lisa: Oh, no.
+-- "Marge Simpson's Mansion"
+
+% Bart and Lisa are at the "Marge's Mansion" in Springfield.  Homer
+% is watching the news feed.
+
+Brock: Homer, are you awake?
+Lisa: Oh, no.
+Brock: And no.
+Brock: And no.
+Brock: And no.
+Lisa: Oh, no.
+Brock: And no.
+Brock: And no.
+Lipstick Champs
+
+Brock: Lisa, are you awake?
+Lisa: Oh, no.
+Brock: And no.
+Brock: And no.
+Brock: And no.
+Lisa: Oh, no.
+Brock: And no.
+Brock: And no.
+Brock: And no.
+Lisa: Oh, no.
+Brock: And no.
+Brock: And no.
+Lisa: Oh, no.
+Brock: And no.
+Brock: And no.
+Lipstick Champs
+
+Brock: Lisa, are you awake?
+Lisa: Oh, no.
+Brock: And no.
+Brock: And no.
+Brock: And no.
+Lipstick Champs
+
+Brock: Lisa, are you awake?
+Lisa: Oh, no.
+Brock: And no.
+Brock: And no.
+Brock: And no.
+Lipstick Champs
+
+Brock: Lisa, are you awake?
+Lisa: Oh, no.
+Brock: And no
+======================================== SAMPLE 67 ========================================
+The American Civil Liberties Union is asking the court to toss a $2,700 fine on behalf of an elderly man who shot and killed a woman.
+
+The man, known only as "Bunny," was walking with a cane when he realized one of the women had a gun, the court found.
+
+The woman, a nurse, who lives next door was shot and killed.
+
+The man in the wheelchair was later captured, but the man doesn't remember.
+
+So what happens now?
+
+"This is a terrible day. If this was a real gun crime, we would be dead, and the courts would have to throw out the fine," reads the civil rights complaint.
+
+But the judge in the Springfield district court has suspended the fine.
+
+In the meantime, the man's family, whose lawyer said they wouldn't talk at the court hearing, has asked for leniency.
+
+"So many things could have been done to this man but for this reason, I cannot forgive him," the man's family says.
+
+But the family won't.
+
+"If you do not forgive him, he will never see the light of day. You are to be buried in the Springfield Cemetery," says the man's father.
+
+"He is a shining example of a man who was willing to give up his life in order to make a difference," says his mother.
+
+The man has a long road ahead of him, but the family is looking forward to seeing him again.
+
+"This is a terrible day. If this was a real gun crime, we would be dead, and the courts would have to throw out the fine," reads the civil rights complaint.<|endoftext|>In the last few days, I've been a bit concerned about the future of the C++ language. The C++99-style language, written by the C++ community, has taken almost two decades to be released, and I've been quite shocked by the lack of a language replacement.
+To my surprise, this week, the C++ community has been very supportive of the C++99, and I don't think it's too farfetched to think that the C++99 will continue to be the C++ standard.
+With the C++99, you can replace Python 1.7 with C++99, and in a few short years, you'll be able to build a modern, native language, that is not only superior to the language you're using, but that is more than enough to get you a job.
+We have a new language on the horizon: Python, that is.
+In the next post, I'll be talking about Python.
+Pixmap
+Pixmap is an open-source C++ graphics library that does the trick of making things look beautiful.
+Pixmap is written in C++, with the help of Jekyll, and it works for both the desktop and the internet.
+It's not the best language for building a PC, but it's a good choice for making a good game.
+If this sounds like a big deal to you, you're right.  This is the first commercial open source C++ compilers for the PC.  They run on a free, open source, no-questions-asked platform.
+But I still don't get it.  They don't come with enough free space to go around a game of C++.
+So now, let's talk about the best way to build the best game for the computer:
+Pixmap is an open-source C++ graphics library that does the trick of making things look beautiful.
+It's not the best language for building a PC, but it's a good choice for making a good game.
+Now, I know the words "make" and "make-something-good" are all over the C++ community, and I'm pretty sure you're already familiar with them.  They're both true.
+But let's stick with the real one:
+If you're new to C++ programming, then I highly suggest you read the guide.
+If a new tool is available, then you'll learn how to build it.
+If you're curious about the C++ language, then take a look at the C++99.
+I've written a book on the language, called "C++ 101: A Guide to the C++99".  The book is available on many platforms, and on the C++99.
+I think I've finally found the right language.
+[end of post]
+-- Michael Milhouse, "C++ 101: A Guide to the C++99"
+-- Michael Milhouse, "C++ 101: A Guide to the C++99"
+                         The C++ language is now a standard for the C++ world.  That's a big thing
+======================================== SAMPLE 68 ========================================
+Bart: That's a pretty big difference between you and her, isn't it?
+Ralph: No, but I'm not going to tell you her name, you know.
+-- "The Bitter End of a Bitch"
+
+% Lisa and Bart talk to Lisa, Bart, and Lisa at a bar.  "Bart...I'm Bart."  Lisa smiles at her.  "I want to go to the liquor store."  Bart says he wants to go to the liquor store.  Lisa says she wants to go to the liquor store.  Bart says he wants to go to the liquor store.  Lisa says he wants to go to the liquor store.  Bart says he wants to go to the liquor store.  Bart says he wants to go to the liquor store. Lisa says he wants to go to the liquor store.  Lisa says he wants to go to the liquor store.  Bart says he wants to go to the liquor store.  Lisa says he wants to go to the liquor store. Bart says he wants to go to the liquor store.  Lisa says he wants to go to the liquor store. Lisa says she wants to go to the liquor store.  Bart says he wants to go to the liquor store. Lisa says he wants to go to the liquor store. Lisa says he wants to go to the liquor store. Bart says he wants to go to the liquor store. Lisa says she wants to go to the liquor store.
+% Lisa and Bart walk back to their house, Lisa looking happy.  Lisa says she wants to go to the liquor store.  Bart says his name's Bart.  Lisa says he's happy.  Bart says he's happy.  Lisa says he's happy.  Bart says he's happy. Lisa says he's happy.  Bart says he's happy.  Lisa says he's unhappy.  Bart says he's unhappy.  Lisa says he's unhappy.  Lisa says he's unhappy.  Bart says he's unhappy.  Lisa says he's unhappy.  Bart says he's unhappy.  Lisa says he's unhappy.  Bart says he's unhappy.  Lisa says he's unhappy.  Bart says he's unhappy.  Lisa says he's unhappy.  Bart says he's unhappy.  Lisa says he's unhappy.  Bart says he's unhappy.  Lisa says he's unhappy.  Bart says he's unhappy.  Lisa says he's unhappy.  Bart says he's unhappy.  Bart says he's unhappy.  Lisa says he's unhappy.
+% Bart explains to Lisa that he's happy.  Lisa says she wants to go to the liquor store.
+% Lisa says she wants to go to the liquor store.
+% Bart explains that he's happy.  Lisa says she wants to go to the liquor store.
+
+% Bart explains that he's happy.  Lisa says she wants to go to the liquor store.
+% Bart explains that he's happy.  Lisa says she wants to go to the liquor store.
+% Bart explains that he's happy.  Lisa says she wants to go to the liquor store.
+% Bart explains that he's happy.  Lisa says she wants to go to the liquor store.
+% Bart explains that he's happy.  Lisa says she wants to go to the liquor store.
+% Bart explains that he's happy.  Lisa says she wants to go to the liquor store.
+% Bart explains that he's happy.  Lisa says she wants to go to the liquor store.
+% Bart explains that he's happy.  Lisa says she wants to go to the liquor store.
+% Bart explains that he's happy.  Lisa says she wants to go to the liquor store.
+% Bart explains that he's happy.  Lisa says she wants to go to the liquor store.
+% Bart explains that he's happy.  Lisa says she wants to go to the liquor store.
+% Bart explains that he's happy.  Lisa says she wants to go to the liquor store.
+% Bart explains that he's happy.  Lisa says she wants to go to the liquor store.
+% Bart explains that he's happy.  Lisa says she wants to go to the liquor store.
+% Bart explains that he's happy.
+% Lisa and Bart walk back to their house.  "Lisa, Bart, Lisa, Lisa, Lisa, Lisa...I want to go to the liquor store."
+% Lisa says she wants to go to the liquor store.
+% Bart explains that he's happy.  Lisa says she wants to go to the liquor store.
+% Bart explains that he's happy.
+% Lisa and Bart walk back to their house.
+% "Lisa, Bart, Lisa, Lisa, Lisa, Lisa...I want to go to the liquor store."
+% Lisa says she wants to go to the liquor store.
+% Bart explains that he's happy.
+% Lisa
+======================================== SAMPLE 69 ========================================
+Bart's Mom, who is also a man, gives Bart the "B" word.
+  Bart:  Oh, thank you, Mom.
+Porter:                                                        
+Homer:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
