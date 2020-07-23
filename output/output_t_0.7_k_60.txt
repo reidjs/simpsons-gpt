@@ -2917,3 +2917,354 @@ Lenny: You know, I can't believe this guy's a madman.  I mean, he's a madman of 
                    [Lenny and Lisa are walking down the stairs]
                                                                                                                                                                                                                                                                                                                                                                                         
 ======================================== SAMPLE 76 ========================================
+
+Theresa May: A tax increase to help the economy
+
+Theresa May: I can't prove that this has caused a sharp decline.
+
+Theresa May: Actually, yes, it has caused a sharp rise.
+
+Theresa May: And it's not a drop in the bucket.
+
+Theresa May: I'm not saying it.
+
+Theresa May: I'm just saying that it's a drop in the bucket.
+
+Theresa May: Yes.
+
+Theresa May: Yes, yes, yes.
+
+Theresa May: It's a drop in the bucket.
+
+Theresa May: Yes, yes, yes.
+
+Theresa May: It's a drop in the bucket.
+
+Theresa May: Yes, yes, yes.
+
+Julian Assange: I'm sorry, the government is not willing to take any action.
+
+Theresa May: The government doesn't want us to take action.
+Julian Assange: It's a lie.
+
+Theresa May: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Theresa May: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Theresa May: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Theresa May: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm not saying it.
+
+Julian Assange: I'm
+======================================== SAMPLE 77 ========================================
+
+The first week of the new season of "The Simpsons" is coming to a close!
+
+You can now enjoy the new episodes of "The Simpsons" on
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+======================================== SAMPLE 78 ========================================
+There's no doubt that the U.S. government has a great deal of influence over our domestic politics.
+But how does it feel to know that your government's influence over
+this country is so large?
+                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+======================================== SAMPLE 79 ========================================
+I'm a big fan of the '80s and '90s, although I don't think they were all that cool.
+-- John Galt, "The Grapes of Wrath"
+
+<|endoftext|>
+<|default|>
+<|endoftext|>
+% Homer is watching TV in his living room, which is where the 
+% "Family" program is being broadcast. 
+% Bart is watching TV in his kitchen, which is where the 
+% "Family" program is being broadcast. 
+% Homer is watching TV in his living room, which is where the 
+% "Family" program is being broadcast.
+
+% Homer is wearing a sweater that has been replaced by a sweater that has 
+% been replaced by a sweater that has been replaced by a sweater.
+%         Bart watches TV in his living room. 
+
+%         Bart watches TV in his kitchen.
+
+%        Homer watches TV in his living room.
+
+%        Bart watches TV in his living room.
+
+%          Bart watches TV in his kitchen.
+
+%   Homer watches TV in his living room.
+
+% Bart watches TV in his living room.
+
+%            Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
+Bart watches TV in his kitchen.
+
