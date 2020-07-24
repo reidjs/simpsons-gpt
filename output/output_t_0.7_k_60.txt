@@ -3268,3 +3268,1071 @@ Bart watches TV in his kitchen.
 
 Bart watches TV in his kitchen.
 
+
+======================================== SAMPLE 80 ========================================
+
+|<
+
+<|endoftext
+
+|>
+<|b|[broll]|
+<|[roll]|
+<|[roll]]|
+<|[roll]]|
+<|[roll]]|
+<|[roll]]|
+<|[roll]]|
+<|[roll]]|
+<|[roll]]|
+<|[roll]]|
+<|[roll]]|
+<|[roll]]|
+<|[roll]]|
+</|
+<|endoftext
+
+|>
+<|[broll]]|
+<|[roll]]|
+<|[roll]]|
+<|[roll]]|
+<|[roll]]|
+<|[roll]]|
+<|[roll]]|
+<|[roll]]|
+
+<|[roll]]|
+</|
+</|
+<|endoftext
+|>
+<|[broll]]|
+<|[roll]]|
+<|[roll]]|
+<|[roll]]|
+</|
+<|endoftext
+
+|>
+<|[broll]]|
+<|[roll]]|
+<|[roll]]|
+</|
+<|endoftext
+|>
+<|[broll]]|
+<|[roll]]|
+
+</|
+<|endoftext
+|>
+<|[broll]]|
+<|[roll]]|
+</|
+<|endoftext
+|>
+<|[broll]]|
+<|[roll]]|
+</|
+<|endoftext
+|>
+<|[broll]]|
+<|[roll]]|
+</|
+<|endoftext
+|>
+<|[broll]]|
+<|[roll]]|
+</|
+<|endoftext
+|>
+<|[broll]]|
+<|[roll]]|
+</|
+<|endoftext
+|>
+<|[broll]]|
+<|[roll]]|
+</|
+<|endoftext
+|>
+<|[broll]]|
+<|[roll]]|
+</|
+<|endoftext
+|>
+<|[broll]]|
+<|[roll]]|
+</|
+<|endoftext
+|>
+<|[broll]]|
+<|[roll]]|
+</|
+<|endoftext
+|>
+<|[broll]]|
+<|[roll]]|
+</|
+<|endoftext
+|>
+<|[broll _]|
+<|[roll]]|
+</|
+</|
+<|endoftext
+|>
+<|[broll _]|
+<|[roll]]|
+</|
+<|endoftext
+|>
+<|[broll _][]|
+</| )|
+<|[broll _]|
+<|[roll]]|
+</|
+<|endoftext
+|>
+|[broll _]|
+<|[roll]]|
+</|
+<|endoftext
+|>
+<|[broll _]|
+<|[roll]]|
+</|
+</|
+<|endoftext
+|>
+<|[broll _][]|
+[endoftext]
+<|[endoftext]
+|]|   [endoftext]
+<|[endoftext]
+|]  [endoftext]
+<|[endoftext]
+|  [endoftext]
+|
+<|[endoftext]|
+|  [endoftext]
+<|[endoftext]|
+|  [endoftext]
+<|[endoftext]|
+| [endoftext]
+<|[endoftext]|
+| [endoftext]
+<|[endoftext]|
+| [endoftext]
+<|[endoftext]|
+| [endoftext]
+<|[endoftext]|
+| [endoftext]
+<|[endoftext]|
+| [endoftext]
+|  [endoftext]
+<|[endoftext]|
+| [endoftext]
+||||
+[endoftext]
+|[endoftext]
+| [endoftext]
+| [endoftext]
+|
+<|[endoftext]|
+| [endoftext]
+| [endoftext]
+|  [endoftext]
+| [
+======================================== SAMPLE 81 ========================================
+KM
+
+*KM
+
+Homer:         
+KM
+
+Kirk:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+======================================== SAMPLE 82 ========================================
+
+Moe:      I'm so glad you enjoyed your trip.
+                     [takes Marge off stage, and kisses her]
+                                                                  
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+======================================== SAMPLE 83 ========================================
+"The Simpsons"
+
+| _|
+
+The Simpsons
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+"The Simpsons"
+
+| _
+
+Notes
+
+[1]              
+
+-- You're not the only one who can talk.
+
+[2]                
+                                                                       
+                            
+======================================== SAMPLE 84 ========================================
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+Doom
+
+
+======================================== SAMPLE 85 ========================================
+In the first episode of the "The Simpsons and the Simpsons" special, Mr. Burns shows Bart a picture of a cartoon character.
+
+Burns:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
